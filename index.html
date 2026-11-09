@@ -408,6 +408,8 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
 .rb-beetle { left: 0; top: calc(39px * var(--s)); width: calc(11px * var(--s)); height: calc(6px * var(--s)); background: url(img/t_beetle.png) 0 0 / calc(22px * var(--s)) calc(6px * var(--s)) no-repeat; }
 .fd { z-index: 4; left: calc(50% - 20px * var(--s)); top: calc(18px * var(--s)); width: calc(40px * var(--s)); height: calc(30px * var(--s));
   background: url(img/t_door.png) 0 0 / calc(80px * var(--s)) calc(30px * var(--s)) no-repeat; }
+.gmini { left: calc(50% + 76px * var(--s)); top: calc(19px * var(--s)); width: calc(18px * var(--s)); height: calc(28px * var(--s));
+  background: url(img/t_gmini.png) 0 0 / calc(180px * var(--s)) calc(28px * var(--s)) no-repeat; }
 .rb-mole { z-index: 3; left: calc(50% - 152px * var(--s)); top: calc(92px * var(--s)); width: calc(66px * var(--s)); height: calc(46px * var(--s));
   background: url(img/t_mole.png) 0 0 / calc(264px * var(--s)) calc(46px * var(--s)) no-repeat; }
 .ts { left: calc(50% - 70px * var(--s)); top: calc(20px * var(--s)); width: calc(22px * var(--s)); height: calc(27px * var(--s));
@@ -471,9 +473,11 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
   .fd { animation: fdf 1.7s steps(2) infinite; }
   @keyframes wig { to { background-position-x: calc(-264px * var(--s)); } }
 @keyframes burrow { to { background-position-x: calc(-264px * var(--s)); } }
+@keyframes gflap { to { background-position-x: calc(-180px * var(--s)); } }
 @keyframes spore { to { background-position-x: calc(-88px * var(--s)); } }
   .rb-worm { animation: wig 4.0s steps(8) infinite; }
   .rb-mole { animation: burrow 2.6s steps(4) infinite; }
+  .gmini { animation: gflap 3s steps(10) infinite; }
   .ts { animation: spore 3.4s steps(4) infinite; }
   @keyframes scn { 0%, 24.99% { background-position: 50% 0; } 25%, 49.99% { background-position: 50% 33.3333%; } 50%, 74.99% { background-position: 50% 66.6667%; } 75%, 100% { background-position: 50% 100%; } }
   .shelfscene { animation: scn 3.2s steps(1, end) infinite; }
@@ -517,10 +521,8 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
     <button class="menu-btn" type="button" aria-expanded="false" aria-controls="sitenav">Menu</button>
     <nav id="sitenav" aria-label="Sections">
       <a href="#visit">Visit</a>
-      <a href="#shelves">On the shelves</a>
       <a href="#stay">Stay upstairs</a>
-      <a href="#explore">Explore Antigo</a>
-      <a href="#find">Find us</a>
+      <a href="goose.html">Meet Goose Goose</a>
     </nav>
   </header>
 
@@ -664,6 +666,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
         <div>800 5th Ave, Antigo, WI 54409</div>
         <div>owner@theblessedfigtree.com &middot; 715-628-0468</div>
         <div>Follow us: <a href="https://www.facebook.com/blessedfigtree" target="_blank" rel="noopener">Facebook</a> &middot; <a href="https://www.tiktok.com/@blessedfigtree" target="_blank" rel="noopener">TikTok</a></div>
+        <div>Our porch guardian: <a href="goose.html">meet Goose Goose</a></div>
         <div>The Blessed Fig Tree LLC</div>
       </div>
     </footer>
@@ -671,7 +674,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 </section>
 
 <div class="rb">
-  <div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy_door" target="_blank" rel="noopener" title="Fairy door" aria-label="Fairy door on Wikipedia"></a></div>
+  <div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="gmini" href="https://www.theblessedfigtree.com/goose.html" title="Who is this?" aria-label="Goose Goose, the shop mascot"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy_door" target="_blank" rel="noopener" title="Fairy door" aria-label="Fairy door on Wikipedia"></a></div>
   <button class="mo" type="button" aria-pressed="false">Pause motion</button>
 </div>
 <script>
@@ -683,6 +686,12 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   function apply() { root.classList.toggle("nomo", off); btn.setAttribute("aria-pressed", String(off)); btn.textContent = off ? "Play motion" : "Pause motion"; }
   btn.addEventListener("click", function () { off = !off; try { localStorage.setItem(KEY, off ? "off" : "on"); } catch (e) {} apply(); });
   apply();
+  var typed = "";                                   // type "goose" anywhere to meet Goose Goose
+  document.addEventListener("keydown", function (e) {
+    var t = e.target; if (!e.key || e.key.length !== 1 || (t && /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName))) return;
+    typed = (typed + e.key.toLowerCase()).slice(-5);
+    if (typed === "goose") location.href = "https://www.theblessedfigtree.com/goose.html";
+  });
 })();
 </script>
 
