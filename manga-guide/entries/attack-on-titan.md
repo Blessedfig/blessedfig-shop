@@ -171,6 +171,21 @@ At 0 (no grade): Islamic, Moralistic therapeutic deism, Hedonism, Consumerism.
 
 **Profile notes for parents:** The series is an argument about freedom and loyalty under extreme violence. It does not hand over a simple moral; its protagonist becomes a mass killer, and readers disagree sharply on what the story endorses. It suits readers who can discuss allegory and propaganda, not those who want clear heroes.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 4 | Eren's vow of revenge (ch. 1-2) drives the plot, but the story shows revenge spreading hatred (Gabi kills Sasha, ch. 105) and honors forgiveness (the Blouse family toward Gabi). The ending sides with Armin's dialogue over vengeance (ch. 138-139). |
+| Order vs freedom | 7 | Freedom is the core value: birds and the world beyond the walls; "choose so you won't regret it" (vols. 5-8). Governments that lie are overthrown (Uprising arc, vols. 13-17). Eren's absolute freedom is shown as a trap (ch. 139), which keeps the position below the top. |
+| Civic vs kin | 4 | Loyalty to comrades is honored (Erwin, ch. 80; Hange, ch. 132), but blood loyalty is critiqued: Grisha uses Zeke, Historia defies her father, and ethnic "our people" thinking becomes the Rumbling. Closing hope rests on a cross-national alliance. |
+| Equality vs hierarchy | 5 | The Survey Corps chain of command (Erwin, Levi) is honored; the walled monarchy and the Church are overthrown (vols. 13-17); Marley's ethnic ranks and armbands are condemned (ch. 86-88). |
+| Tradition vs secular-rational | 8 | The wall cult hides the truth (vol. 9, Uprising arc); the royal pacifism vow is shown as harmful; truth-seeking by Armin and Hange is honored. Faith appears as cult and myth (ch. 122), not as a guide the story endorses. |
+| Survival vs self-expression | 4 | Security and survival dominate a world that is "cruel"; courage, duty and sacrifice are honored (ch. 80, 132). Curiosity (the ocean, vol. 22) and Armin's "small moments" answer to Zeke (ch. 137 area, likely) give self-expression a place. |
+
+Closest clusters: Catholic Europe; New Netherland; The Far West
+
+Japanese source culture: The military chain of command, duty and self-sacrifice for the group echo Japanese norms of group loyalty; producer George Wada linked the walls to the closed nature of Japanese society (Creator context). Critics also read the island-against-the-world story against Japan's wartime history, a reading Isayama has rejected.
+
 ## Philosophy essay
 
 **The central question.** Can people trapped in fear and hatred ever be free, and what may one do to win that freedom? The first chapter shows humans caged by walls. The last shows them caged by history.

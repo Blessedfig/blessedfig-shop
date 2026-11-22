@@ -143,6 +143,7 @@ footer{color:var(--muted);font-size:.86rem;border-top:1px solid var(--rule);padd
       <a href="#start" data-view="start">For my family</a>
       <a href="#browse" data-view="browse">All manga</a>
       <a href="#ideas" data-view="ideas">By philosophy</a>
+      <a href="#values" data-view="values">Our values</a>
       <a href="#method" data-view="method">How we grade</a>
     </nav>
   </div>
@@ -268,6 +269,60 @@ function viewBrowse() {
     <div class="list">${list.map(s=>{ const fit = s.entry && fitFor(s.entry, p); return row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg'), s.entry && s.entry.life_message ? `<div class="sub" style="margin-top:4px">${esc(s.entry.life_message)}</div>` : ''); }).join('') || '<p class="empty">No series match. Clear the search or raise the intensity limit.</p>'}</div></div>`;
 }
 
+// ---- Folkways and cultural values (optional layer) ----
+const QUIZ = [
+ ['If someone insults my family in public, it should be answered, not ignored.', 0, 1],
+ ['Children should be taught to settle fights through teachers or rules, not on their own.', 0, -1],
+ ['A good community has clear rules that everyone is expected to follow.', 1, -1],
+ ['People should be left alone to live as they choose as long as they harm no one.', 1, 1],
+ ['I would bend a rule to help a family member before I would for a stranger.', 2, 1],
+ ['Elders and leaders deserve respect because of their position, not only because they earned it.', 3, 1],
+ ['Decisions in a group work best when everyone has an equal say.', 3, -1],
+ ["Our family's traditions and faith should guide how my children live.", 4, -1],
+ ['Hard work and financial security matter more than self-expression.', 5, -1],
+ ['Being free to be yourself, and tolerant of others who differ, matters most.', 5, 1]];
+const AGREE = ['Strongly disagree','Disagree','Not sure','Agree','Strongly agree'];
+let VALS = null, VALS_SAVED = false, QANS = {};
+try { const v = JSON.parse(localStorage.getItem('mwg-values') || 'null'); if (v && v.pos) { VALS = v; VALS_SAVED = true; } } catch (e) {}
+const dist = (a, b) => Math.sqrt(a.reduce((t, x, i) => t + (x - b[i]) ** 2, 0));
+const nearest = (pos, n=3) => (D.clusters||[]).map(c => ({c, d: dist(pos, c.pos)})).sort((a,b)=>a.d-b.d).slice(0, n);
+function quizScore() {
+  const sums = Array(6).fill(0), cnt = Array(6).fill(0);
+  QUIZ.forEach(([, dim, dir], i) => { const a = QANS[i]; if (a == null) return; const v = a * 2.5; sums[dim] += dir > 0 ? v : 10 - v; cnt[dim]++; });
+  return sums.map((t, i) => cnt[i] ? Math.round(t / cnt[i] * 10) / 10 : 5);
+}
+const dimBar = (name, v) => { const [l, r] = name.split(' vs '); return `<tr><td>${esc(name)}</td><td class="num" style="min-width:150px"><div style="display:flex;justify-content:space-between;font-size:.75rem;color:var(--muted)"><span>${esc(l)}</span><span>${esc(r)}</span></div><div style="position:relative;height:8px;border-radius:4px;background:var(--line,#ddd)"><span style="position:absolute;top:-3px;left:calc(${v*10}% - 7px);width:14px;height:14px;border-radius:50%;background:var(--ink)"></span></div></td><td class="num">${v}</td></tr>`; };
+function viewValues() {
+  const cl = D.clusters || [];
+  const groups = [...new Set(cl.map(c=>c.group))];
+  const res = VALS ? nearest(VALS.pos) : [];
+  const fw = D.series.filter(s=>s.entry?.folkways);
+  const close = VALS ? fw.map(s=>{ const f=s.entry.folkways.dims; const pos=D.dims.map(d=>f[d]?.pos ?? 5); return {s, d: dist(VALS.pos, pos)}; }).sort((a,b)=>a.d-b.d) : [];
+  return `<div class="stack" style="max-width:80ch"><div class="stack" style="gap:8px"><h1>Our family's values</h1>
+  <p class="lede">An optional layer about everyday values: honor, order, family loyalty, rank, tradition and self-expression. It compares a series' values with yours, separate from religion. It uses values only, never ancestry, ethnicity or where your family comes from. No cluster is better than another.</p></div>
+  <section class="panel"><h2>Take the 2-minute quiz</h2><p class="note">Ten statements. Answer as your household lives, not as you think you should. Nothing is stored unless you choose to save.</p>
+  <ol class="stack" style="gap:14px;padding-left:1.2em">${QUIZ.map(([q],i)=>`<li><p style="margin:0 0 6px">${esc(q)}</p><div style="display:flex;flex-wrap:wrap;gap:6px">${AGREE.map((a,j)=>`<label class="chip" style="cursor:pointer"><input type="radio" name="q${i}" value="${j}" data-q="${i}" ${QANS[i]===j?'checked':''}> ${a}</label>`).join('')}</div></li>`).join('')}</ol>
+  <p><button id="quizgo" class="pill">See my closest clusters</button></p></section>
+  <section class="panel"><h2>Or pick a region or culture you know</h2><label for="clpick" class="eyebrow">Cluster</label>
+  <select id="clpick"><option value="">Choose…</option>${groups.map(g=>`<optgroup label="${esc(g)}">${cl.filter(c=>c.group===g).map(c=>`<option ${VALS?.label===c.name?'selected':''}>${esc(c.name)}</option>`).join('')}</optgroup>`).join('')}</select>
+  <p class="note">Or <a href="#start">skip this</a>. The rest of the guide works without it.</p></section>
+  ${VALS ? `<section class="panel" id="valres"><h2>Your values profile${VALS.label?`: ${esc(VALS.label)}`:''}</h2><div class="scroll"><table><tbody>${D.dims.map((d,i)=>dimBar(d, VALS.pos[i])).join('')}</tbody></table></div>
+    <h3>Closest clusters</h3><ul>${res.map(({c})=>`<li><strong>${esc(c.name)}</strong> <span class="note">(${esc(c.group)})</span>: ${esc(c.values)}</li>`).join('')}</ul>
+    <p class="note">A suggestion only. Cluster positions are drafts from ${[...new Set(res.map(r=>r.c.source))].map(esc).join('; ')}, still being checked.</p>
+    <p>${VALS_SAVED ? '<button id="valclear" class="pill">Forget my answers on this device</button>' : '<button id="valsave" class="pill">Save on this device</button>'}</p></section>
+    <section class="panel"><h2>Series closest to your values</h2>${close.length ? `<div class="list">${close.slice(0,30).map(({s,d})=>row(s, `<span class="grade lg" title="Distance">${(10 - Math.min(10, d/ Math.sqrt(6))).toFixed(1)}</span>`, '')).join('')}</div><p class="note">The number is closeness from 0 to 10. It describes, it does not recommend.</p>` : '<p class="note">Series are still being placed on these values. Check back as entries are added.</p>'}</section>` : ''}
+  <details class="panel"><summary><strong>All clusters and their positions</strong></summary><div class="scroll"><table><thead><tr><th>Cluster</th><th>Group</th>${D.dims.map(d=>`<th class="num" title="${esc(d)}">${esc(d.split(' vs ').join(' / '))}</th>`).join('')}<th>What it values</th></tr></thead><tbody>
+  ${cl.map(c=>`<tr><td>${esc(c.name)}</td><td>${esc(c.group)}</td>${c.pos.map(v=>`<td class="num">${v}</td>`).join('')}<td>${esc(c.values)}<div class="note" style="font-size:.8rem">${esc(c.source)} · ${esc(c.status)}</div></td></tr>`).join('')}</tbody></table></div>
+  <p class="note">Each value runs 0 to 10 between the two words shown. Sources: Fischer, Albion's Seed (1989); Woodard, American Nations (2011); the Inglehart-Welzel cultural map (World Values Survey).</p></details></div>`;
+}
+function folkwaysPanel(e) {
+  const f = e.folkways; if (!f) return '';
+  return `<section class="panel"><h2>Folkways and cultural values</h2><p class="note">Where the story's everyday values sit, 0 to 10 between the two words. A description, not a judgment.</p>
+  <div class="scroll"><table><tbody>${D.dims.filter(d=>f.dims[d]).map(d=>dimBar(d, f.dims[d].pos).replace('</tr>', `</tr><tr><td colspan="3" class="note" style="font-size:.84rem">${esc(f.dims[d].evidence)}</td></tr>`)).join('')}</tbody></table></div>
+  ${f.closest.length?`<p><strong>Closest clusters:</strong> ${f.closest.map(esc).join(', ')}. <a href="#values">Compare with your family</a></p>`:''}
+  ${f.japan?`<p class="note"><strong>Japanese source culture:</strong> ${esc(f.japan)}</p>`:''}</section>`;
+}
+
 function viewIdeas() {
   const names = [...new Set([...D.lenses, ...D.series.flatMap(s=>(s.entry?.lenses||[]).map(l=>l.lens))])].filter(Boolean).sort();
   const rows = [];
@@ -297,6 +352,7 @@ function viewSeries(s) {
       <section class="panel"><h2>Grades by tradition</h2><div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>Depiction concern</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
       ${e.frames.map(f=>{ const g = provisional(f, e.overall); return `<tr><td>${esc(f.frame)}${f.legacy?'<div class="note" style="font-size:.8rem">Older combined grade</div>':''}</td><td>${gradeTile(g.g, g.prov, 'sm')}</td><td>${esc(f.weight||'')}</td><td>${esc(f.aligns)}</td><td>${esc(f.concerns)}</td></tr>`; }).join('')}</tbody></table></div>
       <p class="note">Traditions not listed here have not been graded for this series yet.</p></section>
+      ${folkwaysPanel(e)}
       <div class="grid2"><section class="panel"><h2>How intense is it?</h2><p class="note">0 means none and 10 means extreme. A higher number means more of it, not better or worse.</p>
       <div class="scroll"><table><tbody>${e.content.map(c=>`<tr><td>${esc(c.category)}<div class="note" style="font-size:.84rem">${esc(c.framing)}</div></td><td class="num">${meter(c.score)}</td></tr>`).join('')}</tbody></table></div></section>
       <section class="panel"><h2>Philosophies it is close to</h2><p class="note">${esc(e.dominant)}</p>
@@ -353,6 +409,7 @@ function render() {
   } else if (h === 'browse') html = viewBrowse();
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
   else if (h === 'method') html = viewMethod();
+  else if (h === 'values') html = viewValues();
   else { html = viewStart(); view = 'start'; }
   $('#app').innerHTML = html;
   document.querySelectorAll('nav.tabs a').forEach(a=>{ if (a.dataset.view===view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
@@ -365,6 +422,11 @@ function bind() {
   on('q','input', e=>{ state.q=e.target.value; save(); const pos=e.target.selectionStart; render(); const q=$('#q'); q.focus(); q.setSelectionRange(pos,pos); });
   ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','idea:idea','profile:profile','profile2:profile','maxint:maxInt'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
   document.querySelectorAll('.genres button[data-genre]').forEach(b=>b.addEventListener('click',()=>{ state.genre=b.dataset.genre; save(); render(); }));
+  document.querySelectorAll('input[data-q]').forEach(r=>r.addEventListener('change',()=>{ QANS[r.dataset.q]=+r.value; }));
+  on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
+  on('clpick','change',e=>{ const c=(D.clusters||[]).find(x=>x.name===e.target.value); if (c) { VALS={pos:c.pos.slice(), label:c.name}; VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); } });
+  on('valsave','click',()=>{ try { localStorage.setItem('mwg-values', JSON.stringify(VALS)); VALS_SAVED=true; } catch (e) {} render(); });
+  on('valclear','click',()=>{ try { localStorage.removeItem('mwg-values'); } catch (e) {} VALS=null; VALS_SAVED=false; QANS={}; render(); });
   document.querySelectorAll('.pill[data-p]').forEach(b=>b.addEventListener('click',()=>{ state.profile=b.dataset.p; save(); render(); }));
 }
 window.addEventListener('hashchange', ()=>{ render(); window.scrollTo(0,0); });
