@@ -204,6 +204,7 @@ const link = s => s.id ? `#s-${s.id}` : `#e-${s.entry.slug}`;
 const subline = s => [s.native, s.year, pubs(s).join(', ')].filter(Boolean).map(esc).join(' · ');
 
 function row(s, tile, body = '', chips = '') {
+  if (s.entry && (s.entry.understated||[]).length) chips += '<span class="chip" style="color:var(--gF);border-color:currentColor" title="' + esc(s.entry.understated.join('; ')) + '">Intensity may be understated: check</span>';
   return `<a class="row" href="${link(s)}">${tile}<div style="min-width:0"><div class="t">${esc(s.title)}</div><div class="sub">${subline(s)}</div>${body}<div class="chips">${chips}${confChip(s)}</div></div>
     <div class="side"><span class="eyebrow">Intensity</span>${meter(s.entry ? s.entry.overall : null)}</div></a>`;
 }
@@ -293,7 +294,7 @@ function viewSeries(s) {
       <label class="eyebrow" for="profile2">Grade for</label>${profileSelect('profile2', p)}
       <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div></div>`;
     if (e.life_message) h += `<div class="stack" style="gap:6px"><span class="eyebrow">What it holds up as a good life</span><p class="message">${esc(e.life_message)}</p></div>`;
-    h += `<div class="banner">${e.quick?'Quick read built from Wikipedia and database tags.':'Built from summaries, databases and reviews.'} No pages have been read yet, so grades may change after a full read. Confidence: <strong>${esc(e.confidence)}</strong>.</div>
+    h += `<div class="banner">${e.quick?'Quick read built from Wikipedia and database tags.':'Built from summaries, databases and reviews.'} No pages have been read yet, so grades may change after a full read. Confidence: <strong>${esc(e.confidence)}</strong>.${(e.understated||[]).length?`<br><strong>Intensity may be understated.</strong> ${e.understated.map(esc).join('; ')}. Treat the intensity scores below as a minimum until checked.`:''}</div>
       <section class="panel"><h2>Grades by tradition</h2><div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
       ${e.frames.map(f=>{ const g = provisional(f, e.overall); return `<tr><td>${esc(f.frame)}</td><td>${gradeTile(g.g, g.prov, 'sm')}</td><td>${esc(f.aligns)}</td><td>${esc(f.concerns)}</td></tr>`; }).join('')}</tbody></table></div>
       <p class="note">Traditions not listed here have not been graded for this series yet.</p></section>
