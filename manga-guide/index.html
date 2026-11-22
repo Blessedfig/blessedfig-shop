@@ -129,6 +129,65 @@ td.num{white-space:nowrap}
 details.full summary{cursor:pointer;font:700 1.05rem var(--f-display);color:var(--accent);padding:10px 0}
 .back{font:600 .95rem var(--f-body);color:var(--accent);text-decoration:none}
 footer{color:var(--muted);font-size:.86rem;border-top:1px solid var(--rule);padding-block:20px}
+/* simple start + progressive detail */
+.step{display:flex;flex-direction:column;gap:12px;background:var(--panel);border:1px solid var(--rule);border-radius:14px;padding:18px}
+.step h2{display:flex;align-items:center;gap:10px;font-size:1.2rem}
+.num{display:inline-grid;place-items:center;width:1.8rem;height:1.8rem;border-radius:50%;background:var(--accent);color:var(--panel);font:700 .95rem var(--f-body);flex:none}
+.pills.big .pill{font-size:1.02rem;padding:11px 18px;min-height:44px}
+.pill{min-height:40px}
+.linkbtn{align-self:flex-start;background:none;border:0;padding:6px 0;color:var(--accent);font:600 .95rem var(--f-body);cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+.groups{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:10px}
+.gbtn{display:flex;flex-direction:column;gap:2px;text-align:left;background:var(--paper);border:1.5px solid var(--rule);border-radius:12px;padding:14px;cursor:pointer;color:var(--ink);font:400 .9rem/1.35 var(--f-body)}
+.gbtn strong{font:700 1.05rem var(--f-display)}
+.gbtn span{color:var(--muted)}
+.gbtn:hover{border-color:var(--accent)}
+.gbtn[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
+.choices{display:flex;flex-wrap:wrap;align-items:center;gap:4px 14px;background:var(--accent-soft);border-radius:10px;padding:10px 14px;font-size:1rem}
+.reshead{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.cards{display:flex;flex-direction:column;gap:8px}
+.card{display:grid;grid-template-columns:52px minmax(0,1fr) auto;gap:14px;align-items:center;background:var(--panel);border:1px solid var(--rule);border-radius:12px;padding:10px 12px;color:inherit;text-decoration:none}
+.card:hover{border-color:var(--accent)}
+.cover{width:52px;height:74px;object-fit:cover;border-radius:6px;background:var(--tone);display:block}
+.cover.lg{width:84px;height:120px;flex:none}
+.cbody{display:flex;flex-direction:column;gap:3px;min-width:0}
+.card .t{font:700 1.05rem/1.25 var(--f-display)}
+.card .sub{color:var(--muted);font-size:.88rem}
+.card .msg{font-size:.92rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card .flag{font-size:.82rem;color:var(--gF);font-weight:600}
+.more{align-self:center}
+details.panel>summary{cursor:pointer;font-weight:700;list-style-position:outside}
+details.refine .controls{margin-top:4px}
+.find{display:flex;flex-direction:column;gap:8px}
+.find input{width:100%;font-size:1.05rem;padding:11px 14px;border-radius:10px;background:var(--panel)}
+.findres{display:flex;flex-direction:column}
+.hit{display:flex;gap:10px;align-items:center;padding:9px 6px;border-bottom:1px solid var(--rule);color:inherit;text-decoration:none}
+.hit:hover{background:var(--accent-soft)}
+.explore{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px}
+.explore a{display:flex;flex-direction:column;gap:4px;background:var(--panel);border:1px solid var(--rule);border-radius:12px;padding:14px;color:inherit;text-decoration:none}
+.explore a:hover{border-color:var(--accent)}
+.explore strong{color:var(--accent);font-family:var(--f-display)}
+.explore span{font-size:.9rem;color:var(--muted)}
+.shead{display:flex;gap:16px;align-items:flex-end}
+details.sect{gap:0;padding:0}
+details.sect>summary{display:flex;flex-direction:column;gap:2px;padding:14px 18px;list-style:none}
+details.sect>summary::-webkit-details-marker{display:none}
+details.sect>summary .st{font:700 1.05rem var(--f-display);color:var(--accent)}
+details.sect>summary .st::before{content:"+ ";}
+details.sect[open]>summary .st::before{content:"− ";}
+details.sect>summary .sh{font-size:.88rem;color:var(--muted);font-weight:400}
+details.sect>div,details.sect>.md{padding:0 18px 18px}
+details.sect .panel{border:0;padding:0;background:none}
+details.sect .panel>h2{display:none}
+.hero,.res,.find{max-width:820px}
+/* explore menu */
+details.menu{position:relative}
+details.menu>summary{list-style:none;cursor:pointer;font:600 .95rem var(--f-body);color:var(--muted);padding:6px 10px;border-radius:6px}
+details.menu>summary::-webkit-details-marker{display:none}
+details.menu>summary::after{content:" ▾";font-size:.8em}
+details.menu>summary[aria-current="page"],details.menu[open]>summary{color:var(--accent);background:var(--accent-soft)}
+.menu-list{position:absolute;right:0;top:calc(100% + 6px);z-index:6;display:flex;flex-direction:column;min-width:230px;background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:6px;box-shadow:0 8px 24px rgba(0,0,0,.12)}
+.menu-list a{padding:10px 12px!important}
+@media (max-width:640px){.menu-list{right:auto;left:auto}.card{grid-template-columns:44px minmax(0,1fr) auto;gap:10px}.cover{width:44px;height:63px}.cover.lg{width:64px;height:92px}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
@@ -139,13 +198,15 @@ footer{color:var(--muted);font-size:.86rem;border-top:1px solid var(--rule);padd
   <div class="wrap">
     <a class="brand" href="#start">Manga Worldview Guide <small>BETA</small></a>
     <nav class="tabs" aria-label="Sections">
-      <a href="../">The Blessed Fig Tree</a>
-      <a href="#start" data-view="start">For my family</a>
-      <a href="#popular" data-view="popular">Popular</a>
-      <a href="#browse" data-view="browse">All manga</a>
-      <a href="#ideas" data-view="ideas">By philosophy</a>
-      <a href="#values" data-view="values">Our values</a>
-      <a href="#method" data-view="method">How we grade</a>
+      <a href="../">Store</a>
+      <a href="#start" data-view="start">Find manga</a>
+      <details class="menu" id="menu"><summary data-view-group="explore">Explore</summary><div class="menu-list">
+        <a href="#popular" data-view="popular">Popular manga</a>
+        <a href="#browse" data-view="browse">All manga, with filters</a>
+        <a href="#ideas" data-view="ideas">By philosophy</a>
+        <a href="#values" data-view="values">Our family's values</a>
+        <a href="#method" data-view="method">How we grade</a>
+      </div></details>
     </nav>
   </div>
 </header>
@@ -273,37 +334,66 @@ const BAND_LEGEND = `<p>Each graded series gets a <strong>suggested age band</st
   <div class="scroll"><table><thead><tr><th>Category</th>${BANDS.slice(0,4).map(b=>`<th class="num">${b}</th>`).join('')}</tr></thead><tbody>${Object.keys(BAND_CAPS['7+']).map(k=>`<tr><td>${k}</td>${BANDS.slice(0,4).map(b=>`<td class="num">≤ ${BAND_CAPS[b][k]}</td>`).join('')}</tr>`).join('')}</tbody></table></div>
   <p>Anything above the 16+ limits, and any title marked adult, is 18+. This is our suggestion, not the publisher's rating, and it does not judge the message: a 13+ series can still grade D for your tradition. When a series is flagged "may be understated", treat the band as a minimum.</p>
   <p>Where we have it, the <strong>publisher's own rating</strong> is shown beside our band (for example VIZ "T+ (Older Teen)" or Seven Seas "Teen 13+"). It is read from the publisher's site for VIZ Media, Yen Press and Seven Seas. Kodansha and smaller publishers are not covered yet. When the publisher rates a series for older readers than our band, the chip is shown in red and we suggest going with the older age. The guided results on the opening page leave such series out of the younger age groups.</p>`;
-function viewStart() {
-  const p = state.profile;
-  const band = state.age ? (AGES.find(a=>a[0]===state.age)||[])[1] : null;
+// ---- Simple start: one question at a time, then a short list. Detail opens on tap. ----
+const TRAD_GROUPS = [['Christian','Christian','Any church or denomination'],['Other faiths','Another faith','Jewish, Muslim, Hindu, Buddhist and more'],['Non-theistic and philosophical','Not religious, or a philosophy','Secular, traditional values and others']];
+const pickedBand = () => state.age ? (AGES.find(a=>a[0]===state.age)||[])[1] : null;
+function startList() {
+  const p = state.profile, band = pickedBand();
   const pool = D.series.filter(s=>s.entry && (!band || (BANDS.indexOf(ageBand(s)) <= BANDS.indexOf(band) && (!s.pubrating || s.pubrating.min_age <= BAND_AGE[band]))));
-  let list = pool.filter(inGenre).map(s=>({s, fit: fitFor(s.entry, p)})).filter(x=>x.fit);
-  { const order = sortSeries(list.map(x=>x.s), state.startSort||'level', p); const pos = new Map(order.map((x,i)=>[x,i])); list.sort((a,b)=>GRADES.indexOf(a.fit.g)-GRADES.indexOf(b.fit.g) || pos.get(a.s)-pos.get(b.s)); }
-  const pending = D.series.filter(s=>!s.entry).length;
-  const any = p === 'Christian (any)';
-  return `<div class="stack" style="gap:24px"><section class="hero">
-    <span class="eyebrow">A guide to manga for parents of every background</span>
-    <h1>Find manga that fit your family.</h1>
-    <div class="stack" style="gap:8px"><h2 style="font-size:1.05rem">Step 1. How old is your reader?</h2>
-    <div class="pills" role="group" aria-label="Reader's age">${AGES.map(([a])=>`<button type="button" class="pill" data-age="${esc(a)}" aria-pressed="${state.age===a}">${esc(a)}</button>`).join('')}</div>
-    <p class="note">${band ? `Showing series suggested for ages ${band} and younger. A series the publisher rates for older readers is left out. <a href="#method">How age bands work</a>` : 'Pick an age to see only series suggested for it, or skip to see every age.'}</p></div>
-    <div class="stack" style="gap:8px"><h2 style="font-size:1.05rem">Step 2. What does your family believe?</h2>
-    <label class="iam" for="profile"><span>I'm</span>${profileSelect('profile', p)}</label>
-    <div class="pills" role="group" aria-label="Quick pick">${PILLS.map(v=>`<button type="button" class="pill" data-p="${esc(v)}" aria-pressed="${v===p}">${esc(v)}</button>`).join('')}</div>
-    <p class="note">Optional: <a href="#values">take the 2-minute values quiz</a> to see which cultural values your family is closest to.</p></div>
-    <h2 style="font-size:1.05rem">Step 3. Your results${band?` for ages ${band}`:''}, best fit first</h2>
-    <p class="lede">Each series gets a grade from S to F the way your tradition would see it, based on its own teaching. ${any ? 'For "Christian (any)" we show the middle grade across ${CHRISTIAN.length} Christian traditions and the range where they differ.' : ''} Descriptions are the same for every family. Only the grades and the order change.</p></section>
-    <div class="legend" aria-label="What the grades mean">${GRADES.map(g=>`<div>${gradeTile(g,false,'sm')}<span><b>${GRADE_TEXT[g][0]}</b>${GRADE_TEXT[g][1]}</span></div>`).join('')}</div>
-    <p><a href="#popular"><strong>See the most popular manga and how they grade for your family →</strong></a></p>
-    ${genreBar(pool)}
-    <details class="panel"><summary><strong>What does the mature content number mean?</strong></summary>${MC_LEGEND}</details>
-    <div class="controls">${sortSelect('ssort', state.startSort||'level', ['grade'])}
-      <p class="count" style="align-self:center">${list.length} graded · ${pending} more manga waiting for analysis</p></div>
-    ${GRADES.map(g=>{ const grp = list.filter(x=>x.fit.g===g); if (!grp.length) return ''; return `<section class="stack" style="gap:4px"><div class="groupHead">${gradeTile(g,false)}<h2>${GRADE_TEXT[g][0]} <span class="count">${grp.length}</span></h2></div>
-      <div class="list">${grp.map(({s,fit})=>row(s, gradeTile(fit.g, fit.prov, 'lg'),
-        `<div class="why"><span><b>What fits:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>`,
-        `${fit.range?`<span class="chip">Range across ${fit.n} traditions: ${fit.range}</span>`:''}${fit.prov?'<span class="chip" title="Worked out from the tradition\'s depiction concern until the entry is graded directly.">Provisional grade</span>':''}${fit.f.legacy?`<span class="chip" title="This entry has one shared row for Evangelical and Pentecostal families. A separate row is coming.">${esc(fit.f.frame)}: shared row</span>`:''}`)).join('')}</div></section>`; }).join('') || '<p class="empty">No graded series match. Raise the intensity limit.</p>'}
-    <p class="note">Grades describe how each tradition's own teaching would usually weigh a series. They are not the site's judgement. Grades marked with a dashed border are provisional until the full entry is graded. <a href="#method">How we grade</a></p></div>`;
+  const list = pool.filter(inGenre).map(s=>({s, fit: fitFor(s.entry, p)})).filter(x=>x.fit);
+  const order = sortSeries(list.map(x=>x.s), state.startSort||'level', p); const pos = new Map(order.map((x,i)=>[x,i]));
+  list.sort((a,b)=>GRADES.indexOf(a.fit.g)-GRADES.indexOf(b.fit.g) || pos.get(a.s)-pos.get(b.s));
+  return {pool, list};
+}
+function card(s, fit) {
+  const b = ageBand(s), older = pubOlder(s);
+  const sub = [b && `Ages ${b}`, GRADE_TEXT[fit.g][0], (s.genres||[]).slice(0,2).join(', ')].filter(Boolean).map(esc).join(' · ');
+  return `<a class="card" href="${link(s)}">${s.cover?`<img class="cover" src="${esc(s.cover)}" alt="" loading="lazy" decoding="async">`:'<span class="cover"></span>'}
+    <span class="cbody"><span class="t">${esc(s.title)}</span><span class="sub">${sub}</span>${older?`<span class="flag">${esc(s.pubrating.publisher)} rates it ${esc(s.pubrating.rating)}</span>`:''}${s.entry.life_message?`<span class="msg">${esc(s.entry.life_message)}</span>`:''}</span>
+    ${gradeTile(fit.g, fit.prov, 'lg')}</a>`;
+}
+const findBox = () => `<div class="find"><label for="find" class="eyebrow">Have a title in mind?</label><input id="find" type="search" autocomplete="off" placeholder="Search a manga, e.g. Naruto" value="${esc(state.find||'')}"><div id="findres" class="findres"></div></div>`;
+function findResults(q) {
+  q = (q||'').trim().toLowerCase(); if (q.length < 2) return '';
+  const hits = ALL.filter(s => !isAdult(s) || state.adult).filter(s => [s.title, s.romaji, s.native].some(x => (x||'').toLowerCase().includes(q))).sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).slice(0, 6);
+  if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
+  return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
+}
+const EXPLORE = [['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#method','How we grade','What the grades, age bands and labels mean.']];
+const exploreCards = () => `<section class="stack" style="gap:10px"><h2>More ways to explore</h2><div class="explore">${EXPLORE.map(([h,t,d])=>`<a href="${h}"><strong>${t}</strong><span>${d}</span></a>`).join('')}</div></section>`;
+function viewStart() {
+  const p = state.profile, band = pickedBand();
+  const ageDone = !!state.ageDone, picked = !!state.picked;
+  let h = `<div class="stack" style="gap:28px"><section class="hero"><span class="eyebrow">A guide for parents of every background</span><h1>Find manga that fit your family.</h1>`;
+  if (!ageDone) {
+    h += `<p class="lede">Two quick questions, then a short list graded for you.</p>
+      <div class="step"><h2><span class="num">1</span>How old is your reader?</h2>
+      <div class="pills big" role="group" aria-label="Reader's age">${AGES.map(([a])=>`<button type="button" class="pill" data-age="${esc(a)}">${esc(a)}</button>`).join('')}</div>
+      <button type="button" class="linkbtn" id="skipage">Skip, show every age</button></div>`;
+  } else if (!picked) {
+    h += `<div class="step"><h2><span class="num">2</span>What does your family believe?</h2>
+      <p class="note">Each series is graded by your tradition's own teaching. No tradition is the default.</p>
+      <div class="groups">${TRAD_GROUPS.map(([g,l,d])=>`<button type="button" class="gbtn" data-tg="${esc(g)}" aria-pressed="${state.tgroup===g}"><strong>${esc(l)}</strong><span>${esc(d)}</span></button>`).join('')}</div>
+      ${state.tgroup ? `<div class="pills" role="group" aria-label="${esc(state.tgroup)}">${(GROUPS.find(x=>x[0]===state.tgroup)||[,[]])[1].map(v=>`<button type="button" class="pill" data-p="${esc(v)}">${esc(v==='Christian (any)'?'Any Christian church':v)}</button>`).join('')}</div>` : ''}
+      <button type="button" class="linkbtn" id="backage">← Back to age</button></div>`;
+  }
+  if (ageDone && picked) {
+    const {pool, list} = startList(), n = state.showN || 12, any = p === 'Christian (any)';
+    h += `<div class="choices"><span>For <strong>${band ? `ages ${esc(band)}` : 'every age'}</strong> · <strong>${esc(any ? 'any Christian church' : p)}</strong></span><button type="button" class="linkbtn" id="redo">Change</button></div></section>
+      <section class="stack res" style="gap:10px"><div class="reshead"><h2>Best fits first</h2><span class="count">${list.length} graded</span></div>
+      <div class="cards">${list.slice(0, n).map(({s,fit})=>card(s, fit)).join('') || '<p class="empty">No graded series match yet. Try an older age or another genre.</p>'}</div>
+      ${list.length > n ? `<button type="button" class="pill more" id="more">Show ${Math.min(12, list.length - n)} more</button>` : ''}
+      <details class="panel refine" ${state.genre||state.startSort?'open':''}><summary>Narrow it down: genre and order</summary>
+        <div class="controls" style="border:0;padding:0"><label for="genre">Genre${genreSelect(pool)}</label>${sortSelect('ssort', state.startSort||'level', ['grade'])}${adultToggle()}</div></details>
+      <details class="panel"><summary>What do the letters mean?</summary><div class="legend">${GRADES.map(g=>`<div>${gradeTile(g,false,'sm')}<span><b>${GRADE_TEXT[g][0]}</b>${GRADE_TEXT[g][1]}</span></div>`).join('')}</div>
+        <p class="note">${any ? `"Any Christian church" shows the middle grade across ${CHRISTIAN.length} Christian traditions. ` : ''}A dashed border means the grade is provisional. Descriptions are the same for every family; only grades and order change. <a href="#method">How we grade</a></p></details></section>`;
+  } else h += `</section>`;
+  h += findBox() + exploreCards() + `</div>`;
+  return h;
+}
+function genreSelect(pool) {
+  const c = {}; pool.forEach(s => (s.genres||[]).forEach(g => c[g] = (c[g]||0) + 1));
+  return `<select id="genre"><option value="">All genres</option>${Object.keys(c).sort((a,b)=>c[b]-c[a]).map(g=>`<option value="${esc(g)}" ${state.genre===g?'selected':''}>${esc(g)} (${c[g]})</option>`).join('')}</select>`;
 }
 
 function viewBrowse() {
@@ -319,7 +409,7 @@ function viewBrowse() {
   const p = state.profile;
   list = sortSeries(list, state.sort, p);
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>All manga</h1>
-    <p class="lede">Every English-licensed manga in the catalog. Grades are shown for <strong>${esc(p)}</strong>; change that on <a href="#start">For my family</a>.</p></div>
+    <p class="lede">Every English-licensed manga in the catalog. Grades are shown for <strong>${esc(p)}</strong>; change that on <a href="#start">Find manga</a>.</p></div>
     ${genreBar(D.series)}
     <div class="controls" role="search">
       <label for="q">Search title or creator<input id="q" type="search" value="${esc(state.q)}" placeholder="e.g. Frieren, Oda"></label>
@@ -417,52 +507,62 @@ function viewIdeas() {
     <p class="note">Only analyzed series appear. The list of philosophies will keep growing.</p></div>`;
 }
 
+const sect = (title, hint, body, open = false) => `<details class="panel sect" ${open?'open':''}><summary><span class="st">${title}</span>${hint?`<span class="sh">${hint}</span>`:''}</summary><div class="stack">${body}</div></details>`;
 function viewSeries(s) {
   const e = s.entry, p = state.profile;
   const facts = [['Japanese title', s.native], ['First published', s.year], ['Status', s.status && s.status.replace(/_/g,' ').toLowerCase()], ['Volumes (Japan)', s.volumes],
     ['Creators', (s.creators||[]).filter(c=>/story|art/i.test(c.role)).map(c=>`${c.name} (${c.role.toLowerCase()})`).join(', ')],
     ['English editions', (s.publishers||[]).map(x=>x.name + (x.notes?` (${x.notes})`:'')).join('; ')], ['Genres', (s.genres||[]).join(', ')], ['MangaDex content rating', s.mdex_rating]].filter(x=>x[1]);
-  let h = `<div class="stack" style="gap:20px"><a class="back" href="#start">← Back to my family's list</a>
-    <div class="stack" style="gap:8px"><h1>${esc(s.title)}</h1><div class="sub" style="color:var(--muted)">${subline(s)}</div><div class="chips">${confChip(s)}</div></div>`;
+  let h = `<div class="stack" style="gap:16px;max-width:820px"><a class="back" href="#start">← Back to my list</a>
+    <div class="shead">${s.cover?`<img class="cover lg" src="${esc(s.cover)}" alt="">`:''}<div class="stack" style="gap:6px;min-width:0"><h1>${esc(s.title)}</h1><div class="sub" style="color:var(--muted)">${subline(s)}</div></div></div>`;
   if (e) {
     const fit = fitFor(e, p);
-    h += `<div class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
+    h += `<section class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
       <label class="eyebrow" for="profile2">Grade for</label>${profileSelect('profile2', p)}
-      <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div></div>`;
-    h += `<p>${bandChip(s)} ${pubLine(s)} <a href="#method" class="note">How age bands work</a></p>`;
+      <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div></section>
+      <p class="chips">${bandChip(s)}${pubChip(s)}<span class="chip" title="${esc(mcTitle(s))}">Mature content ${esc(e.overall)} / 10</span>${confChip(s)}</p>`;
+    h += `<p>${pubLine(s)}</p>`;
     if (e.life_message) h += `<div class="stack" style="gap:6px"><span class="eyebrow">What it holds up as a good life</span><p class="message">${esc(e.life_message)}</p></div>`;
-    h += `<div class="banner">${e.quick?'Quick read built from Wikipedia and database tags.':'Built from summaries, databases and reviews.'} No pages have been read yet, so grades may change after a full read. Confidence: <strong>${esc(e.confidence)}</strong>.${(e.understated||[]).length?`<br><strong>Intensity may be understated.</strong> ${e.understated.map(esc).join('; ')}. Treat the intensity scores below as a minimum until checked.`:''}</div>
-      <section class="panel"><h2>Grades by tradition</h2><div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>Depiction concern</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
-      ${e.frames.map(f=>{ const g = provisional(f, e.overall); return `<tr><td>${esc(f.frame)}${f.legacy?'<div class="note" style="font-size:.8rem">Older combined grade</div>':''}</td><td>${gradeTile(g.g, g.prov, 'sm')}</td><td>${esc(f.weight||'')}</td><td>${esc(f.aligns)}</td><td>${esc(f.concerns)}</td></tr>`; }).join('')}</tbody></table></div>
-      <p class="note">Traditions not listed here have not been graded for this series yet.</p></section>
-      ${folkwaysPanel(e)}
-      <div class="grid2"><section class="panel"><h2>How much mature content?</h2><p class="note">How much of each kind of mature content the series shows, from 0 (none) to 10 (extreme). It measures how much is on the page, not whether the story approves of it; that is what the grades are for. The headline number is the highest of these categories.</p>
-      <div class="scroll"><table><tbody>${e.content.map(c=>`<tr><td>${esc(c.category)}<div class="note" style="font-size:.84rem">${esc(c.framing)}</div></td><td class="num">${meter(c.score)}</td></tr>`).join('')}</tbody></table></div></section>
-      <section class="panel"><h2>Philosophies it is close to</h2><p class="note">${esc(e.dominant)}</p>
-      <div class="bars">${[...e.lenses].sort((a,b)=>GRADES.indexOf(closeness(a))-GRADES.indexOf(closeness(b)) || b.strength-a.strength).map(l=>`${gradeTile(closeness(l),false,'sm')}<span>${esc(l.label)}<div class="note" style="font-size:.8rem">${esc(stanceKey(l.stance))}</div></span><span class="b"><span style="width:${(l.strength||0)*10}%"></span></span><span class="v">${l.strength}</span>`).join('')}</div></section></div>
-      <section class="panel"><h2>Political and moral leanings</h2><div class="grid2">
+    if (fit) h += `<div class="why"><span><b>What fits your tradition:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>`;
+    const top = [...(e.content||[])].sort((a,b)=>(b.score||0)-(a.score||0))[0];
+    h += `<p class="eyebrow" style="margin-top:8px">Go deeper</p><div class="stack" style="gap:10px">`;
+    h += sect('What is on the page', `${esc(e.overall)} / 10${top&&top.score?`, highest: ${esc(top.category.toLowerCase())}`:''}`,
+      `<p class="note">How much of each kind of mature content the series shows, from 0 (none) to 10 (extreme). It measures how much is on the page, not whether the story approves of it.</p>
+      <div class="scroll"><table><tbody>${e.content.map(c=>`<tr><td>${esc(c.category)}<div class="note" style="font-size:.84rem">${esc(c.framing)}</div></td><td class="num">${meter(c.score)}</td></tr>`).join('')}</tbody></table></div>
+      <p class="note">${e.quick?'Quick read built from Wikipedia and database tags.':'Built from summaries, databases and reviews.'} No pages have been read yet, so scores may change. Confidence: <strong>${esc(e.confidence)}</strong>.${(e.understated||[]).length?` <strong>Intensity may be understated:</strong> ${e.understated.map(esc).join('; ')}. Treat these scores as a minimum.`:''}</p>`);
+    const gs = e.frames.map(f=>provisional(f).g).filter(Boolean).sort((a,b)=>GRADES.indexOf(a)-GRADES.indexOf(b));
+    h += sect('How every tradition grades it', gs.length ? `${e.frames.length} traditions, ${gs[0]===gs[gs.length-1]?`all ${gs[0]}`:`${gs[0]} to ${gs[gs.length-1]}`}` : '',
+      `<div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>Depiction concern</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
+      ${e.frames.map(f=>{ const g = provisional(f); return `<tr><td>${esc(f.frame)}${f.legacy?'<div class="note" style="font-size:.8rem">Older combined grade</div>':''}</td><td>${gradeTile(g.g, g.prov, 'sm')}</td><td>${esc(f.weight||'')}</td><td>${esc(f.aligns)}</td><td>${esc(f.concerns)}</td></tr>`; }).join('')}</tbody></table></div>
+      <p class="note">Traditions not listed here have not been graded for this series yet.</p>`);
+    h += sect('Philosophies it leans toward', esc(e.dominant||''),
+      `<div class="bars">${[...e.lenses].sort((a,b)=>GRADES.indexOf(closeness(a))-GRADES.indexOf(closeness(b)) || b.strength-a.strength).map(l=>`${gradeTile(closeness(l),false,'sm')}<span>${esc(l.label)}<div class="note" style="font-size:.8rem">${esc(stanceKey(l.stance))}</div></span><span class="b"><span style="width:${(l.strength||0)*10}%"></span></span><span class="v">${l.strength}</span>`).join('')}</div>
+      <p class="note">S means the story strongly affirms the idea, C means it explores it, D or F means it critiques it.</p>`);
+    h += sect('Political and moral leanings', '', `<div class="grid2">
       <div class="stack">${[['economic','Economic','Collective','Free market'],['social','Social','Authority','Liberty'],['cultural','Cultural','Traditional','Progressive'],['community','Community','Individual first','Community first']].map(([k,n,a,b])=> e.axes[k]==null?'':`<div class="axis"><span>${n} <span class="count">${e.axes[k]}</span></span><span class="track" role="img" aria-label="${n}: ${e.axes[k]} of 10, ${a} to ${b}"><span class="dot" style="left:${e.axes[k]*10}%"></span></span><span class="ends"><span>${a}</span><span>takes no side</span><span>${b}</span></span></div>`).join('')}</div>
-      <div class="stack"><h3>Moral foundations</h3><div class="bars" style="grid-template-columns:minmax(0,7rem) minmax(0,1fr) 2rem">${Object.entries(e.foundations||{}).map(([k,v])=>`<span>${k[0].toUpperCase()+k.slice(1)}</span><span class="b"><span style="width:${v*10}%"></span></span><span class="v">${v}</span>`).join('')}</div></div></div></section>`;
+      <div class="stack"><h3>Moral foundations</h3><div class="bars" style="grid-template-columns:minmax(0,7rem) minmax(0,1fr) 2rem">${Object.entries(e.foundations||{}).map(([k,v])=>`<span>${k[0].toUpperCase()+k.slice(1)}</span><span class="b"><span style="width:${v*10}%"></span></span><span class="v">${v}</span>`).join('')}</div></div></div>`);
+    if (e.folkways) h += sect('Everyday values and culture', e.folkways.closest?.length ? 'Closest: ' + e.folkways.closest.map(esc).join(', ') : '', folkwaysPanel(e));
     if (e.quick) {
-      h += `<section class="panel"><h2>Quick read</h2>${e.premise?`<p>${esc(e.premise)}</p>`:''}${e.winners_losers?`<h3>Winners, losers and sympathy</h3><p>${esc(e.winners_losers)}</p>`:''}
+      h += sect('Story, winners and losers', 'Quick read', `${e.premise?`<p>${esc(e.premise)}</p>`:''}${e.winners_losers?`<h3>Winners, losers and sympathy</h3><p>${esc(e.winners_losers)}</p>`:''}
         <h3>Content notes</h3><ul>${e.content.filter(c=>c.note).map(c=>`<li><b>${esc(c.category)}:</b> ${esc(c.note)}</li>`).join('')}</ul>
         ${(e.to_verify||[]).length?`<h3>To check in a full read</h3><ul>${e.to_verify.map(t=>`<li>${esc(t)}</li>`).join('')}</ul>`:''}
-        <p class="note">Sources: ${(e.sources||[]).map(u=>`<a href="${esc(u)}">${esc(u.replace(/^https?:\/\/(www\.)?/,'').split('/')[0])}</a>`).join(', ')}.</p></section>`;
+        <p class="note">Sources: ${(e.sources||[]).map(u=>`<a href="${esc(u)}">${esc(u.replace(/^https?:\/\/(www\.)?/,'').split('/')[0])}</a>`).join(', ')}.</p>`);
     } else {
-      h += `<details class="full panel"><summary>Read the full entry: philosophy essay, winners and losers, creators, reception and sources</summary><div class="md" id="md"><p class="empty">Loading the entry…</p></div></details>`;
+      h += `<details class="panel sect full" id="fullentry"><summary><span class="st">The full essay</span><span class="sh">Philosophy, winners and losers, creators, how readers took it, sources</span></summary><div class="md" id="md"><p class="empty">Loading the entry…</p></div></details>`;
     }
   } else {
-    h += `<div class="banner">This series hasn't been analyzed yet, so it has no grades. Below are database facts and the content tags other sites have attached. They are signals, not ratings.</div>`;
+    h += `<div class="banner">This series hasn't been analyzed yet, so it has no grades. Below are database facts and content tags other sites have attached. They are signals, not ratings.</div><div class="stack" style="gap:10px">`;
   }
   const sig = Object.entries(s.signals||{});
-  h += `<div class="grid2"><section class="panel"><h2>Series facts</h2><div class="scroll"><table><tbody>${facts.map(([k,v])=>`<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</tbody></table></div>
-    <p class="note">${[s.id&&`<a href="https://anilist.co/manga/${s.id}">AniList</a>`, s.mu&&`<a href="https://www.mangaupdates.com/series/${Number(s.mu).toString(36)}">MangaUpdates</a>`].filter(Boolean).join(' · ')}</p></section>
-    <section class="panel"><h2>Content tags from other databases</h2>
+  h += sect('Series facts and database tags', '', `<div class="scroll"><table><tbody>${facts.map(([k,v])=>`<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</tbody></table></div>
+    <p class="note">${[s.id&&`<a href="https://anilist.co/manga/${s.id}">AniList</a>`, s.mu&&`<a href="https://www.mangaupdates.com/series/${Number(s.mu).toString(36)}">MangaUpdates</a>`].filter(Boolean).join(' · ')}</p>
+    <h3>Content tags from other databases</h3>
     ${sig.length||s.mu_signals?.length ? `<div class="scroll"><table><tbody>${sig.map(([k,v])=>`<tr><td>${esc(k)}</td><td>${v.map(t=>esc(t.tag)+(t.rank?` <span class="count">${t.rank}%</span>`:'')).join(', ')}</td></tr>`).join('')}
     ${s.mu_signals?.length?`<tr><td>MangaUpdates categories</td><td>${s.mu_signals.map(esc).join(', ')}</td></tr>`:''}</tbody></table></div>
-    <p class="note">AniList tags with the share of readers who agreed they apply (50% or more shown), and MangaUpdates categories. Volunteer-tagged and unverified.</p>` : '<p class="note">No content tags found in AniList or MangaUpdates.</p>'}</section></div></div>`;
-  return h;
+    <p class="note">AniList tags with the share of readers who agreed they apply (50% or more shown), and MangaUpdates categories. Volunteer-tagged and unverified.</p>` : '<p class="note">No content tags found in AniList or MangaUpdates.</p>'}`, !e);
+  return h + `</div></div>`;
 }
+
 
 function viewMethod() {
   return `<div class="stack md" style="max-width:72ch"><h1 style="display:block">How we grade</h1>
@@ -490,7 +590,7 @@ function render() {
   const h = location.hash.slice(1) || 'start'; let html, view = h, md = null;
   if (h.startsWith('s-') || h.startsWith('e-')) {
     const s = h.startsWith('s-') ? ALL.find(x=>String(x.id)===h.slice(2)) : ALL.find(x=>x.entry?.slug===h.slice(2));
-    html = s ? viewSeries(s) : '<p class="empty">Series not found. <a href="#browse">See all manga</a>.</p>'; view = 'browse'; md = s?.entry?.slug;
+    html = s ? viewSeries(s) : '<p class="empty">Series not found. <a href="#browse">See all manga</a>.</p>'; view = 'series'; md = s?.entry?.slug;
   } else if (h === 'browse') html = viewBrowse();
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
   else if (h === 'method') html = viewMethod();
@@ -499,6 +599,7 @@ function render() {
   else { html = viewStart(); view = 'start'; }
   $('#app').innerHTML = html;
   document.querySelectorAll('nav.tabs a').forEach(a=>{ if (a.dataset.view===view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
+  const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','method'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
   if (md) loadMd(md);
   bind();
 }
@@ -517,12 +618,21 @@ function bind() {
     VALS={pos:D.dims.map((_,k)=>Math.round(cs.reduce((t,x)=>t+x.pos[k],0)/cs.length*10)/10), label:'starting point from heritage', heritage:true, suggest:names}; VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); }));
   on('valsave','click',()=>{ try { localStorage.setItem('mwg-values', JSON.stringify(VALS)); VALS_SAVED=true; } catch (e) {} render(); });
   on('valclear','click',()=>{ try { localStorage.removeItem('mwg-values'); } catch (e) {} VALS=null; VALS_SAVED=false; QANS={}; HER=new Set(); render(); });
-  document.querySelectorAll('.pill[data-age]').forEach(x=>x.addEventListener('click',()=>{ state.age = state.age===x.dataset.age ? '' : x.dataset.age; save(); render(); }));
-  document.querySelectorAll('.pill[data-p]').forEach(b=>b.addEventListener('click',()=>{ state.profile=b.dataset.p; save(); render(); }));
+  document.querySelectorAll('.pill[data-age]').forEach(x=>x.addEventListener('click',()=>{ state.age = x.dataset.age; state.ageDone = true; state.showN = 12; save(); render(); }));
+  document.querySelectorAll('.pill[data-p]').forEach(b=>b.addEventListener('click',()=>{ state.profile=b.dataset.p; state.picked = true; state.showN = 12; save(); render(); }));
+  document.querySelectorAll('.gbtn[data-tg]').forEach(b=>b.addEventListener('click',()=>{ state.tgroup=b.dataset.tg; save(); render(); }));
+  on('skipage','click',()=>{ state.age=''; state.ageDone=true; save(); render(); });
+  on('backage','click',()=>{ state.ageDone=false; save(); render(); });
+  on('redo','click',()=>{ state.ageDone=false; state.picked=false; save(); render(); });
+  on('more','click',()=>{ state.showN=(state.showN||12)+12; save(); const y=scrollY; render(); scrollTo(0,y); });
+  on('genre','change',e=>{ state.genre=e.target.value; state.showN=12; save(); render(); });
+  on('find','input',e=>{ state.find=e.target.value; const r=$('#findres'); if (r) r.innerHTML=findResults(e.target.value); });
+  { const r=$('#findres'); if (r && state.find) r.innerHTML=findResults(state.find); }
 }
 window.addEventListener('hashchange', ()=>{ render(); window.scrollTo(0,0); });
+document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !m.contains(e.target)) m.open=false; });
 fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
-  $('#foot').innerHTML = `Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
+  $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
 
