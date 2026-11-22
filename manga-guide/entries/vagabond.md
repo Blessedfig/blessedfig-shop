@@ -153,6 +153,21 @@ Dominant lenses: Dharmic (Zen Buddhist), Existentialism, Classical virtue ethics
 
 **Profile notes for parents:** Vagabond is a long meditation on what strength is for, framed by Zen Buddhism and set in a violent samurai world. Its message moves away from violence, but it shows violence in realistic detail and includes explicit sexual content, which is why VIZ rates it Mature and ScreenWise says 16 and up. Families from faiths other than Buddhism will meet a spiritual answer different from their own, which many guides treat as a discussion point rather than a bar.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 6 | The world runs on duels and school honor (the Yoshioka, v21-27) and Osugi's family grudge (ch. 113). The story honors Musashi's growth away from pride: sparing Inshun (ch. 71) and doubt after Ichijōji (ch. 224-242). |
+| Order vs freedom | 7 | Musashi is a ronin who does not follow bushido; sword schools and clans are vain and self-protective, and individual teachers matter more than structures (Pragmatic lens). |
+| Civic vs kin | 5 | Inherited family honor is shown as stubborn (Osugi), and kin ties are weak; the late arc honors belonging to the land and a village (farming with Iori, ch. 243 onward). |
+| Equality vs hierarchy | 6 | Teachers are honored and deferred to (Takuan, Sekishūsai, In'ei); inherited prestige is not (the Yoshioka). Peasants and villages are at the bottom of the social order. |
+| Tradition vs secular-rational | 2 | Zen Buddhism is the spiritual voice (Takuan renames Musashi, ch. 21; the Hōzōin monks); Inoue wanted to show Musashi reaching enlightenment. "Heaven" frames the order of things. |
+| Survival vs self-expression | 3 | Hard work, practice and humility are the path; farming is treated as worthy as swordsmanship (ch. 303-320). Musashi's early self-assertion is shown as empty. |
+
+Closest clusters: Tidewater; El Norte; The Far West
+
+Japanese source culture: Early Edo samurai society, master-disciple relations, Zen practice and the dignity of rice farming are Japanese traditional values the series draws on directly; its critique of bushido and school prestige is its own.
+
 ## Philosophy essay
 
 **The central question.** What is strength for? Musashi starts the story as a seventeen-year-old who wants to be "invincible under the heavens." He fights because fighting is the only way he knows to be someone. The series asks whether that goal can be reached, and whether it is worth reaching.

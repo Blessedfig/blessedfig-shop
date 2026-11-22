@@ -156,6 +156,21 @@ Dominant lenses: Existentialism, Critical theory, Might makes right (critiqued),
 
 **Profile notes for parents:** The series' message is about empathy across a hated divide, and it frames cruelty as cruelty. Its explicitness is extreme: cannibalism, torture and a detailed mental breakdown are central, not incidental. Families usually decide on this one by depiction tolerance rather than by message; both Common Sense Media and ScreenWise say 15+, while Viz rates it Teen Plus.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 4 | Revenge spreads harm: Mado's zeal and Touka's attacks (ch. 13-29) and Yamori repeating his own abuse (ch. 59-66). Kaneki's hardening to protect friends brings him no peace (ch. 80-94). |
+| Order vs freedom | 6 | Authority on both sides, the CCG and Aogiri, uses violence as policy and is critiqued. Anteiku's quiet restraint, outside both systems, is the endorsed path. |
+| Civic vs kin | 6 | Found family and protecting one's group come first (Anteiku, the Kirishima siblings, Hinami). Hide's friendship regardless of what Kaneki is, and the hope of coexistence, widen the circle. |
+| Equality vs hierarchy | 3 | A hidden minority hunted by an organized majority; prejudice and state violence are critiqued. Aogiri's "strong eat the weak" creed is shown as hollow. |
+| Tradition vs secular-rational | 6 | Christian imagery recurs ("Original Sin," ch. 126; the church fight, vol. 4-5) but is symbolic and offers no rescue. Kanou's lab science is shown as horror (ch. 95-111), so neither pole is celebrated. |
+| Survival vs self-expression | 5 | Survival dominates a world of constant death, but the story's central value is tolerance across groups and the choice of one's own identity (life message). |
+
+Closest clusters: Catholic Europe; The Midlands; El Norte
+
+Japanese source culture: Ishida's sense of being "between the majority and minority groups" speaks to conformity pressure in Japanese society; Kaneki's mother's ethic, "better to be hurt than to hurt others," echoes Japanese ideals of self-effacement that the story tests and then breaks.
+
 ## Philosophy essay
 
 **The central question.** What makes someone human? Kaneki has a human mind and a ghoul's body. He cannot eat human food. He cannot stop caring about humans. The series asks whether being human is a matter of biology, of what one eats, or of how one treats others.

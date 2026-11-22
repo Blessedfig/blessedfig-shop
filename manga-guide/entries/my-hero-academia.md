@@ -157,6 +157,21 @@ Dominant lenses: Classical virtue ethics, Communitarianism, Might makes right (c
 
 **Profile notes for parents:** The series is built around care and loyalty: save the person in front of you, stand with your friends. It treats authority as useful but fallible. The strongest discussion topics are bullying and forgiveness, abusive parents, and whether people who do terrible things can still be saved.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 2 | Heroism means reaching out to save even the villain (Deku and Shigaraki); Stain's purity killings are condemned. Bakugo's pride ends in apology (ch. 323), and forgiveness is honored over vengeance. |
+| Order vs freedom | 4 | Training, teamwork and school discipline win, and reckless solo heroics are punished. The Hero Commission's secret killings are exposed (ch. 314), and the story chooses reform from within. |
+| Civic vs kin | 3 | Help everyone, without being asked. Endeavor's breeding of children for power is condemned (ch. 39, 290-291); found family in Class 1-A carries the warmth (ch. 319-323). |
+| Equality vs hierarchy | 4 | Hero rankings and the single "Symbol of Peace" are critiqued; "anyone can be a hero" (Horikoshi, 2024). Mentorship and passing power down (All Might to Deku) are honored. |
+| Tradition vs secular-rational | 6 | No real-world faith shapes the plot; vestiges of past users live on inside One For All. Readers find redemption themes, but institutions, science and reform drive the plot. |
+| Survival vs self-expression | 6 | Helping others and peace are the aims; Toga's self-expression is treated with sympathy and caution (ch. 391-395). War and mass casualties in later volumes keep security in view. |
+
+Closest clusters: Yankeedom; Catholic Europe; The Midlands
+
+Japanese source culture: The school-club and sports-festival culture, respect for teachers and the shonen ideal of friendship, effort and victory are Japanese school norms the story uses as its setting, while its critique of hero celebrity and a state commission is its own message.
+
 ## Philosophy essay
 
 **The central question.** What makes someone a hero: power, a license, fame, or the choice to help? The first chapter asks whether a powerless boy can be a hero. The last chapters ask whether a hero should save the villain too.

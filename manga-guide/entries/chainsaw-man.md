@@ -156,6 +156,21 @@ Lenses at 0 (no grade): Jewish, Islamic, Pantheist/New Age, Moralistic therapeut
 
 **Profile notes for parents:** This is a horror-comedy where the main lesson comes through loss, not instruction. It critiques control and exploitation and values friendship and a simple life. It also treats lust, gore and devil contracts as everyday, and its ending is ambiguous.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 3 | Aki's duty-and-revenge path ends with him turned into the Gun Fiend (ch. 79). Denji's answer to Makima is not vengeance but eating her as "love" and raising Nayuta (ch. 96-97). |
+| Order vs freedom | 8 | Total control is the villain's creed (Makima's "better world," ch. 84). The good is choosing your own wants instead of having them handed to you as a leash (Philosophy essay; life message). Public Safety treats workers as expendable. |
+| Civic vs kin | 7 | Found family carries the warmth: Aki, Power and Denji's shared home, and later Nayuta (ch. 232). Wider institutions and crowds (the Chainsaw Man Church, ch. 140) appear as threats. |
+| Equality vs hierarchy | 3 | Those who seek control lose (Makima, Barem, Yoru). The state and cynical veterans are critiqued (Kishibe). Authority appears mostly as exploitation. |
+| Tradition vs secular-rational | 8 | Religion is imagery and a student cult, not living faith; there is no God figure. Salvation-like moments come through human love and a shared meal (Religious lens). |
+| Survival vs self-expression | 4 | Denji's dreams are basic: jam on bread, a warm bed, a girlfriend (ch. 1). Poverty and child debt frame the story. The goal of choosing one's own desires pulls the position slightly up. |
+
+Closest clusters: Catholic Europe; The Far West; New Netherland
+
+Japanese source culture: Public Safety's disposable workers and "death as a workplace hazard" echo critiques of Japanese overwork culture rather than the story's own message, and Part 2's fame culture and hero worship reflect Japanese online and idol culture.
+
 ## Philosophy essay
 
 **The central question.** What does a person need to be happy, and who gets to decide it? Denji starts with almost nothing. He dreams of jam on bread, a warm bed and a girlfriend. Each time he gets one of these, he finds someone else arranged it. The series asks whether a desire still belongs to you when it was handed to you as a leash.

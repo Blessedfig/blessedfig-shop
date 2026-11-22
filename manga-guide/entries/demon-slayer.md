@@ -153,6 +153,21 @@ Dominant lenses: Classical virtue ethics, Confucian ethics, Communitarianism, Dh
 
 **Profile notes for parents:** The series is built on care, loyalty and duty, with strong respect for elders and family lineage. Its spirituality is Japanese Buddhist and Shinto in flavor. Its violence is constant and graphic and is framed as protecting others. The scenes most families discuss are the self-sacrifice and suicide-adjacent ones (ch. 57, 138, 143, 154), more than the language or romance.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 4 | Duty and samurai-style service are honored, but personal vendetta is not: Tanjiro mourns the demons he kills, and mercy toward Akaza and Gyutaro (ch. 96, 154-156) is part of the story's ethic. Defending family drives the plot more than defending one's name. |
+| Order vs freedom | 3 | The Demon Slayer Corps has ranks, supply, doctors and discipline (Pragmatic lens). Duty, training and obeying the Corps are celebrated; Muzan's lawless rule by fear is the counter-example (ch. 52). |
+| Civic vs kin | 8 | Family is the central value: a brother guarding his sister, the Corps as a family-like body, Rui's forced "fake family" as its opposite. The epilogue honors descendants and lineage (ch. 205). |
+| Equality vs hierarchy | 8 | Hashira ranks and deference to Kagaya Ubuyashiki are presented with reverence; his servant leadership and self-sacrifice (ch. 137-138) are shown as heroic. Inherited Breathing styles and passing the will down tie worth to lineage and rank. |
+| Tradition vs secular-rational | 2 | Buddhist and Shinto motifs are sincere: the blind monk Gyomei, the fire-god kagura dance, spirits of the dead meeting the dying (ch. 66, 156, 163, 179, 200), a rebirth-style epilogue (ch. 205). Doma's cult, not faith itself, is exposed. |
+| Survival vs self-expression | 3 | Life is lived for others: protect the weak, keep promises, accept early death (the "Mark"). Hard training and self-sacrifice (Rengoku, ch. 66) are the highest goods. |
+
+Closest clusters: South and Southeast Asia; Sub-Saharan Africa; Tidewater
+
+Japanese source culture: The Taisho-era setting, Confucian filial piety, samurai ideals of service and death, and Shinto and Buddhist imagery are Japanese traditional values the story treats as true; many readers from other cultures will see these as the setting's norms more than a message aimed at them.
+
 ## Philosophy essay
 
 **The central question.** What makes a life worth living when it is short and fragile? The demons answer with endless life, endless strength and freedom from aging. The humans answer with bonds, duty and passing something on to the people who come next.

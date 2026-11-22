@@ -154,6 +154,21 @@ Dominant lenses: Collectivism / authoritarianism (critiqued), Utilitarianism (cr
 
 **Profile notes for parents:** The series is built on fear rather than gore or sexual content; the main concerns are its horror premise and three self-harm or suicide scenes. Its moral center, a girl who will not abandon anyone or answer cruelty with extermination, is clear and consistent. Families of most traditions will mainly want to discuss the god-like being who grants wishes for a price.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 2 | Emma refuses to answer cruelty with extermination and talks Norman out of genocide (vol. 18). Isabella, who caged the children, is given repentance (ch. 177). |
+| Order vs freedom | 7 | The story celebrates refusing a system that farms people (the escape, ch. 32-37; the new Promise, ch. 134-143). Freedom is won by planning and trust, not by tearing down all order. |
+| Civic vs kin | 5 | Sibling-like chosen family drives the plot (no one left behind, even the four-year-olds), but Emma extends care to demons and strangers too: "everyone." |
+| Equality vs hierarchy | 2 | Hereditary order (the Ratri clan, Peter Ratri; the demon aristocracy) is condemned and destroyed (vols. 11, 17-20). The children's leadership is shared among Emma, Ray and Norman. |
+| Tradition vs secular-rational | 6 | The escape is won by reason, testing assumptions and trading information. Sincere demon faith is honored (Sonju and Mujika, ch. 38-52), and the ending rests on a god-like being's bargain. |
+| Survival vs self-expression | 4 | Survival and protecting the youngest dominate. The goal of a life where no one is food, and Emma's hope, add some weight to quality of life. |
+
+Closest clusters: The Midlands; Catholic Europe; Quaker
+
+Japanese source culture: Ranking children by test scores, with the lowest harvested first, echoes Japanese exam pressure; Shirai said the idea was meant to prompt reflection on society, not as a direct critique. The orphanage's "Mom" and "Sister" roles draw on Western Christian imagery rather than Japanese norms.
+
 ## Philosophy essay
 
 **The central question.** What do you owe the people who cannot save themselves, and what do you owe the enemy who would eat you? The opening chapters ask the first question in a small house. The later volumes ask the second across a whole world.
