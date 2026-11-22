@@ -70,6 +70,16 @@ if (IS_TOUCH) {
   cv.addEventListener('pointerdown', e => { e.preventDefault(); pressed.a = true; });
   document.addEventListener('contextmenu', e => e.preventDefault());
   document.addEventListener('gesturestart', e => e.preventDefault());
+  // Nov 22, Christian: "On my phone the game keeps zooming in." iPhones ignore user-scalable=no, so block the zoom gestures themselves:
+  // pinches (two fingers, or Safari's gesture events) and double-taps anywhere on the page. Buttons still work: they act on pointerdown.
+  ['gesturechange', 'gestureend'].forEach(t => document.addEventListener(t, e => e.preventDefault()));
+  document.addEventListener('touchmove', e => { if (e.touches.length > 1 || (e.scale && e.scale !== 1)) e.preventDefault(); }, { passive: false });
+  let lastEnd = 0;
+  document.addEventListener('touchend', e => { const now = Date.now(); if (now - lastEnd < 350 && !e.target.closest('iframe')) e.preventDefault(); lastEnd = now; }, { passive: false });
+  document.addEventListener('dblclick', e => e.preventDefault(), { passive: false });
+  // if the page did get zoomed (an older phone, or before this loaded), snap it back to 1x
+  if (window.visualViewport) { const vm = document.querySelector('meta[name=viewport]'), base = vm && vm.content;
+    visualViewport.addEventListener('resize', () => { if (vm && visualViewport.scale > 1.01) { vm.content = base + ',initial-scale=1'; setTimeout(() => { vm.content = base; }, 60); } }); }
   // labels follow the screen you're on
   const LABELS = { walk: ['MAP', 'SAVE'], map: ['PLACES', 'ZOOM'], title: ['', ''], create: ['', ''], almanac: ['', ''], store: ['', ''] };
   setInterval(() => { const L = LABELS[mode] || ['MAP', 'MENU']; pMap.textContent = L[0]; pMenu.textContent = L[1];
