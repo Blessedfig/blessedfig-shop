@@ -12,7 +12,7 @@ BIMG.party.src = 'assets/battle/party.png'; BIMG.standin.src = 'assets/battle/fo
 BIMG.kid = { boy: new Image(), girl: new Image() }; BIMG.kid.boy.src = 'assets/kid/boy_poses.png'; BIMG.kid.girl.src = 'assets/kid/girl_poses.png';
 // the hero's battle poses: the boy's pose strip (idle, hurt, kneel, collapsed, cheer, cast, use item, read; 170 x 248 each, his 8x art)
 const KID_BPOSE = { boy: { w: 170, h: 248, k: 4.6, idle: 0, hurt: 1, low: 2, ko: 3, victory: 4, cast: 5, attack: 5, kick: 5, power: 5, item: 6, guard: 0, run: 0 },
-  girl: { w: 48, h: 32, k: 0.7, idle: 0, hurt: 0, low: 0, ko: 0, victory: 0, cast: 0, attack: 0, kick: 0, power: 0, item: 0, guard: 0, run: 0 } };
+  girl: { w: 170, h: 248, k: 4.6, idle: 0, hurt: 1, low: 2, ko: 3, victory: 4, cast: 5, attack: 5, kick: 5, power: 5, item: 6, guard: 0, run: 0 } };   // Nov 22: her own 8 poses, matched to his
 for (const [id, src] of Object.entries(FOE_ART)) { const im = new Image(); im.src = src; BIMG.foe[id] = im; }
 for (const [id, d] of Object.entries(PARTY_ART)) { const im = new Image(); im.src = d.src; BIMG.party2[id] = im; }
 // the stand-in party poses (cut from Christian's sheets for the Nov 10 teaser) and which way each row faces
