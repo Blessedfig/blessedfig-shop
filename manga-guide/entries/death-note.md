@@ -30,7 +30,7 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 ## Content scores
 
-Overall content level: 7 out of 10 (set by imitable behavior; violence and mental health close behind).
+Overall content level: 7 out of 10 (set by imitable behavior; violence and mental health close behind). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence |
 |---|---|---|---|---|
@@ -52,18 +52,35 @@ Overall content level: 7 out of 10 (set by imitable behavior; violence and menta
 
 **Virtues shown:** intelligence and persistence (L, Near); loyalty and integrity under pressure (Soichiro, Aizawa); courage of investigators who risk death (Naomi, the task force); refusing to give up one's name and identity; teamwork across rivals (Near's eventual use of Mello's work); honesty as the thing that finally defeats a liar.
 
-## Family frames (sample)
+## Family frames
 
-Each row describes how a tradition's own sources tend to frame these themes. None is the site's view.
+Each row describes how many families in that tradition might read the series, in the tradition's own terms. It is each tradition's view, not this site's. Grades follow the per-frame guides in frame-guides/. Where traditions split on the same content, the row says so.
 
-| Frame | What aligns | What may concern | Weight | Talking points (from the tradition's own sources) |
-|---|---|---|---|---|
-| Catholic | The story shows the ruin of pride and of a man who makes himself judge of life and death. The innocent suffer from his "justice." | Mass killing presented in a stylish way; suicides dictated by the notebook; occult death gods; the "Mu" ending denies judgment and afterlife. | Significant | An Orthodox Christian writer at Geeks Under Grace contrasts Light's "cold retribution" with Christ's judgment. The Catechism's teaching on the fifth commandment and the dignity of every life (CCC 2258); pride as the root sin; vengeance belongs to God (Romans 12:19). |
-| Evangelical / Pentecostal | Plugged In and Christian reviewers read Light as a man seizing God's throne, and the ending as judgment on that. | Spiritual themes, apple and Eden imagery, shinigami as supernatural beings; a dark tone. Plugged In tells viewers to be prepared for "spiritual themes, violence, and language" (anime). | Significant | "There is none righteous, no, not one" (Romans 3:10); only God is the righteous judge (James 4:12); the snake's promise "you will be like God" (Genesis 3:5). |
-| Muslim | Strong theme that taking a life unjustly is grave; arrogance (kibr) leads to downfall. | Killing by one's own judgment; a human calling himself god (a form of shirk in Islamic terms); suicide; the denial of afterlife at the end. | Significant | "Whoever kills a soul ... it is as if he had slain mankind entirely" (Quran 5:32); judgment belongs to God; punishment only through due process. |
-| Buddhist | Karma-like logic: Light's actions bring his own end. Attachment to power and self drives suffering. Ryuk's detachment echoes impermanence. | Many deaths; the "Mu" ending can be read as nihilistic rather than as Buddhist emptiness. | Discuss | The first precept (not taking life); right intention versus self-justification; the three poisons (greed, hatred, delusion) as seen in Light. |
-| Secular progressive | A sharp critique of vigilante "justice," the death penalty, mass surveillance and populist media. | Flat female characters (AnimeFeminist); police torture-like methods shown as clever; no LGBTQ+ characters. | Discuss | Due process and human rights; how fear erodes civil liberties; who decides who is a "criminal." |
-| Conservative / traditional | Law and order matter; the police and a good father (Soichiro) are honorable; evil is defeated in the end. | Glamor of a teen serial killer; disrespect of father and family by Light; the story's ambiguity about justice. | Discuss | Legitimate authority versus private vengeance; the duty of the state to punish crime fairly; character and virtue over cleverness. |
+Shared content facts the rows refer to: a teen who kills thousands with a notebook and calls himself "god of the new world" (ch. 1-2, vol. 1, likely); coerced suicides, including Naomi Misora (vol. 2); shinigami (death gods) and a death-god realm; apple imagery; Light lying to his father and using two women; a Kira cult; the rule that notebook users go to neither heaven nor hell and that all the dead go to "Mu" (nothingness); and an ending in which Light is exposed and dies (vol. 12). Gore is limited; most deaths are heart attacks.
+
+| Frame | Grade (S to F) | What aligns | What may concern | Weight | Talking points (from the tradition's own sources) |
+|---|---|---|---|---|---|
+| Catholic | D | The ruin of a proud man who makes himself judge of life and death; the innocent suffer from his "justice"; due process upheld in the end. | Mass killing told in a stylish way; suicides dictated by the notebook (CCC 2280-2283); death gods; the "Mu" rule denies judgment and afterlife. Many parishes would treat it as older-teen reading. | Significant | The fifth commandment and the dignity of every life (CCC 2258); just punishment belongs to legitimate authority (CCC 2266); pride as root sin; "Vengeance is mine" (Romans 12:19). |
+| Eastern Orthodox | D | Light reads as a picture of the passions, above all pride, and of a man refusing repentance; an Orthodox writer at Geeks Under Grace reads it as "the throne without the Cross." | Death gods taken seriously as spirits can be a concern where evil spirits are held to be real; killing even of criminals calls for repentance in the tradition; no hope of resurrection in the story's rules. | Significant | Theosis versus self-deification: Light seeks to be "god" without grace; St. Basil's canon 13 on killing; the Last Judgment belongs to Christ. |
+| Baptist | D | Clear arc from sin to ruin; deception is exposed; a thoughtful teen can discuss justice and the death penalty. | Graphic-enough violence, coerced suicide, death gods and a human claiming divinity; profanity in the Viz text. Views on entertainment vary by congregation, as each church is self-governing. | Significant | Revenge belongs to God (Romans 12:19); lying is an abomination (Proverbs 12:22); "Thou shalt not kill" and the magistrate's role (Romans 13:4) in the Baptist Faith and Message. |
+| Non-denominational Evangelical | D | Plugged In praises the "compelling plot" and "conversations on morality and justice"; Christian reviewers read Light as a man seizing God's throne. | Plugged In warns of "spiritual themes, violence, and language" and apple and Eden imagery (anime). Range is broad, from Bible churches that skip it to churches that use it for worldview talks. | Significant | "There is none righteous" (Romans 3:10); one Lawgiver and Judge (James 4:12); "you will be like God" (Genesis 3:5). |
+| Pentecostal / Charismatic | D | The story punishes the man who takes a death god's power. | Spiritual warfare is central to the tradition: a supernatural death god who gives a human power to kill, and a notebook that works like a curse, can be a significant concern even as fiction. | Significant | Ephesians 6:12 on spiritual forces; Deuteronomy 18:10-12 on occult practice; Assemblies of God teaching on the demonic. |
+| Reformed / Presbyterian | C | Light can be read as a study in total depravity: a gifted, "good" student whose heart turns to self-worship; through common grace, a non-Christian story still tells truth about sin. | Many deaths, coerced suicides (self-murder, WLC Q136) and constant lying by the protagonist. | Discuss | The magistrate bears the sword, not the private citizen (Romans 13; WCF 23); the ninth commandment (WLC Q144-145); providence versus Light's claim to rule. |
+| Lutheran | C | A two-kingdoms reading fits: God works through lawful authority (police, courts), and Light usurps it; law exposes him in the end. | Violence, suicides and death gods; Light breaks the fourth and fifth commandments. LCMS and WELS families may be more cautious than ELCA families. | Discuss | Small Catechism on the fifth commandment (help and support the neighbor's life); law and gospel: the story shows law and judgment but no grace. |
+| Methodist / Wesleyan | C | Holiness and "do no harm" set against a man who does harm for "good"; Soichiro's integrity. | Violence, coerced suicide and profanity; holiness churches (Nazarene, Wesleyan) may be stricter than UMC families. | Discuss | Wesley's General Rules ("do no harm"); prevenient grace and the chance to turn back that Light refuses; social holiness and justice through right means. |
+| Anglican / Episcopal | C | Fits a tradition with deep roots in moral fantasy and crime fiction; just-war and lawful-authority teaching (Article 37) frame the duel. | Many deaths and suicides; death gods. ACNA families may be more cautious than Episcopal families. | Discuss | Article 37 on the civil magistrate; the Book of Common Prayer's prayers for justice and mercy; revenge rejected. |
+| Anabaptist (Mennonite, Amish, Brethren) | D | Shows violence and the will to punish as a trap that consumes the one who uses it. | Pacifism and nonresistance (Matthew 5:39) mean a story built on killing, police shoot-outs and deception is often a significant concern; conservative groups avoid such media, while MC USA families may read it as a critique of the death penalty. | Significant | Schleitheim Confession on the sword; Matthew 5:38-48; the Mennonite Confession (1995) on peace and justice. |
+| Latter-day Saint | D | Agency and its consequences; honesty (Article of Faith 13) shown as what finally defeats a liar. | For the Strength of Youth asks youth to avoid media that is "vulgar, immoral, violent"; mass killing, coerced suicide and profanity weigh on that. Families vary in strictness. | Significant | For the Strength of Youth (2022) on media choices; Doctrine and Covenants 42:18-19 on taking life; the plan of salvation versus the "Mu" rule. |
+| Mainline progressive Protestant | C | A sharp critique of the death penalty, vigilantism, surveillance and populist media fits the tradition's peace-and-justice focus. | Women defined by love for Light (AnimeFeminist); suicides need mental-health framing; violence. | Discuss | Denominational statements against capital punishment (UCC, PC(USA), ELCA); restorative versus retributive justice. |
+| Jewish | C | Respect for life and due process; the danger of a man who makes himself an idol. Orthodox families may be more cautious than Reform families. | Taking life outside lawful courts; suicide (traditionally forbidden); a human claiming godhood. | Discuss | "Whoever destroys a single soul ... as if he destroyed a whole world" (Mishnah Sanhedrin 4:5); the Sanhedrin's caution about capital cases; pikuach nefesh. |
+| Muslim | D | Strong theme that unjust killing is grave and arrogance (kibr) leads to ruin. | Killing by private judgment; a human calling himself god (a form of shirk in Islamic terms); suicide (forbidden); denial of afterlife and judgment at the end. | Significant | "Whoever kills a soul ... it is as if he had slain mankind entirely" (Qur'an 5:32); judgment belongs to God; punishment only through due process. |
+| Hindu | C | Karma-like return: Light's actions bring his own end; satya (truth) defeats deception. | Many deaths; ahimsa (non-harm); suicide discouraged; respect for parents broken by Light. | Discuss | The Bhagavad Gita on duty without self-interest, set against Light's ego; ahimsa; dharma of the ruler versus a self-appointed judge. |
+| Buddhist | C | Karma-like logic; attachment to power and self drives suffering; Ryuk's detachment echoes impermanence. | Many deaths (first precept); constant false speech (fourth precept); the "Mu" ending can read as nihilism rather than Buddhist emptiness, though "mu" is also a Zen term. | Discuss | The first and fourth precepts; right intention versus self-justification; the three poisons (greed, hatred, delusion) as seen in Light. |
+| Secular progressive | C | A sharp critique of vigilante "justice," the death penalty, mass surveillance and populist media. | Flat female characters (AnimeFeminist); suicides shown without safe-messaging framing; police torture-like methods shown as clever; no LGBTQ+ characters (CSM). | Discuss | Due process and human rights; how fear erodes civil liberties; who decides who is a "criminal"; Common Sense Media's 15+ rating. |
+| Secular humanist | B | Reason, evidence and due process win; human life defended without religious grounding; no supernatural rescue. | Glamor of a clever killer; violence and suicides for younger teens. | Discuss | Humanist Manifesto III on human dignity and responsibility; critical thinking about authority and about Light's reasoning. |
+| Conservative / traditional | C | Law and order matter; the police and a good father (Soichiro) are honorable; evil is defeated in the end. | Glamor of a teen serial killer; Light deceives his father and endangers his family; the story's ambiguity about justice. | Discuss | Legitimate authority versus private vengeance; the duty of the state to punish crime fairly; character and virtue over cleverness. |
+
+Where traditions differ: on death gods and the notebook, Pentecostal and Orthodox families tend to be most wary, while Reformed, Anglican and secular families treat them as story mechanics. On the death penalty theme, mainline and progressive families tend to read the series as a critique of it, while conservative families may stress lawful punishment versus private vengeance. On violence, Anabaptist families weigh it most heavily.
 
 ## Winners, losers and sympathy
 
@@ -97,29 +114,33 @@ Light's idea of justice wins for years and then loses completely: he dies disgra
 
 Dominant lenses: Utilitarianism (critiqued), Nihilism (explored), Might makes right (critiqued), Christian (explored, mostly as imagery and structure), Existentialism (explored).
 
-| Lens | Strength (0 to 10) | Stance | Evidence |
-|---|---|---|---|
-| Utilitarianism | 9 | Critiqued | Light's whole project is "kill some to save many"; crime falls, but innocents and police die. Ending punishes it. |
-| Might makes right | 7 | Critiqued | Whoever holds the notebook and the names rules; governments bow to Kira (vol. 9). Shown as corrupting. |
-| Nihilism | 6 | Explored | Ryuk's boredom; the "Mu" rule, which Ohba called fixed: "when you die, you become nothingness" (/Film); Light's death is pointless and ugly. "Nihilism" as a label is our framing. |
-| Christian | 5 | Explored | Apples and Eden imagery (Plugged In); "god of the new world"; false messiah and his cult; feet-washing scene in the anime (Plugged In). Mostly imagery, not doctrine. |
-| Existentialism | 5 | Explored | Ohba's "give it our all while we're alive"; characters make meaning in a universe without afterlife. Our framing. |
-| Classical virtue ethics | 4 | Affirmed (quietly) | Soichiro's integrity and Light's pride as fatal flaw; tragedy shape. Our framing. |
-| Collectivism / authoritarianism | 5 | Critiqued | Kira's world of fear and obedience; media and state capitulate. |
-| Pagan / occult | 4 | Explored | Shinigami, a death-god realm and notebook rules; presented as fantasy mechanics, not worship. |
-| Dharmic (Hindu/Buddhist) | 2 | Explored | Karmic return on Light; Japanese shinigami folklore. Our framing. |
-| Secular humanism | 3 | Affirmed | Due process and human life defended by L, Near and the police without religious grounding. Our framing. |
-| Libertarianism | 3 | Explored | Fear of state surveillance and of one unaccountable power. |
-| Critical theory | 2 | Explored | Who is labeled "criminal"; media framing. Our framing. |
-| Feminism | 1 | Not engaged by text | Only as an outside critique (AnimeFeminist). |
-| Traditionalism | 3 | Affirmed | Honor, duty, the good father. |
-| Jewish, Islamic, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Stoicism, Marxism, Postmodernism, Environmentalism, Absurdism, Anti-natalism, Expressive individualism, Hedonism, Consumerism, Progressivism, Transhumanism | 0 | Not present | No clear support in summaries. |
+| Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
+|---|---|---|---|---|
+| Utilitarianism | 9 | Critiqued | D | Light's whole project is "kill some to save many"; crime falls, but innocents and police die. Ending punishes it. |
+| Might makes right | 7 | Critiqued | D | Whoever holds the notebook and the names rules; governments bow to Kira (vol. 9). Shown as corrupting. |
+| Nihilism | 6 | Explored | C | Ryuk's boredom; the "Mu" rule, which Ohba called fixed: "when you die, you become nothingness" (/Film); Light's death is pointless and ugly. "Nihilism" as a label is our framing. |
+| Christian | 5 | Explored | C | Apples and Eden imagery (Plugged In); "god of the new world"; false messiah and his cult; feet-washing scene in the anime (Plugged In). Mostly imagery, not doctrine. |
+| Existentialism | 5 | Explored | C | Ohba's "give it our all while we're alive"; characters make meaning in a universe without afterlife. Our framing. |
+| Collectivism / authoritarianism | 5 | Critiqued | D | Kira's world of fear and obedience; media and state capitulate. |
+| Classical virtue ethics | 4 | Affirmed (quietly) | B | Soichiro's integrity and Light's pride as fatal flaw; tragedy shape. Our framing. |
+| Pagan / occult | 4 | Explored | C | Shinigami, a death-god realm and notebook rules; presented as fantasy mechanics, not worship. |
+| Pragmatism | 3 | Explored | C | Light judges his plan by results (falling crime); the story tests the idea by its consequences and finds the costs too high. Our framing. |
+| Secular humanism | 3 | Affirmed | B | Due process and human life defended by L, Near and the police without religious grounding. Our framing. |
+| Libertarianism | 3 | Explored | C | Fear of state surveillance and of one unaccountable power. |
+| Traditionalism | 3 | Affirmed | B | Honor, duty, the good father. |
+| Dharmic (Hindu/Buddhist) | 2 | Explored | C | Karmic return on Light; Japanese shinigami folklore. Our framing. |
+| Critical theory | 2 | Explored | C | Who is labeled "criminal"; media framing. Our framing. |
+| Communitarianism | 2 | Affirmed | B | The task force and Near's use of Mello's work defeat a lone self-appointed judge; the win is shared. Our framing. |
+| Confucian ethics | 2 | Explored | C | Filial duty and the upright official (Soichiro) set against a son who deceives his father. Our framing. |
+| Feminism | 1 | Not engaged by text | D | Only as an outside critique (AnimeFeminist), which faults the series' women. |
+| Jewish, Islamic, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Stoicism, Marxism, Postmodernism, Environmentalism, Absurdism, Anti-natalism, Expressive individualism, Hedonism, Consumerism, Progressivism, Transhumanism | 0 | Not present | none | No clear support in summaries. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
 | Economic (0 collective, 10 free market) | 5 | Takes no side; Yotsuba arc shows business using murder for profit, but this is about greed, not economics. |
 | Social (0 authority, 10 liberty) | 6 | Warns against unchecked power and surveillance, but treats lawful police authority with respect. |
 | Cultural (0 traditional, 10 progressive) | 4 | Honors duty, family and law; women in traditional or romantic roles; no social reform agenda. |
+| Community (0 individual first, 10 community first) | 6 | Light, the lone genius who judges for everyone, is defeated by shared work (the task force, Near using Mello's lead); but L and Near are loners too, and the story does not praise group loyalty over conscience. |
 
 **Moral foundations profile (0 to 10):** care 6, loyalty 6, fairness 9, sanctity 4, authority 6, liberty 6.
 
