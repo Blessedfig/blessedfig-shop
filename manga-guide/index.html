@@ -369,7 +369,7 @@ function bind() {
   document.querySelectorAll('.pill[data-p]').forEach(b=>b.addEventListener('click',()=>{ state.profile=b.dataset.p; save(); render(); }));
 }
 window.addEventListener('hashchange', ()=>{ render(); window.scrollTo(0,0); });
-fetch('data.json').then(r=>r.json()).then(d=>{ D=d; if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
+fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ D=d; if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
   $('#foot').innerHTML = `Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
