@@ -219,12 +219,31 @@ function genreBar(pool) {
   const gs = Object.keys(c).sort((a,b)=>c[b]-c[a]);
   return `<div class="genres" role="tablist" aria-label="Genre">${[['', 'All genres', pool.length], ...gs.map(g=>[g, g, c[g]])].map(([v,l,n])=>`<button type="button" role="tab" data-genre="${esc(v)}" aria-selected="${state.genre===v}">${esc(l)}<span class="count">${n}</span></button>`).join('')}</div>`;
 }
+const SORTS = [['grade','Best grade for your tradition'],['popularity','Most read'],['title','Title A to Z'],['level','Lowest intensity'],['levelDesc','Highest intensity'],['newest','Newest first'],['oldest','Oldest first'],['depth','In-depth entries first']];
+function sortSeries(list, key, p) {
+  const pop = (a,b)=>(+b.popularity||0)-(+a.popularity||0);
+  const gi = s => { const f = s.entry && fitFor(s.entry, p); return f ? GRADES.indexOf(f.g) : 99; };
+  const lv = s => s.entry ? s.entry.overall : null;
+  const yr = s => +s.year || 0;
+  const cmp = {
+    grade: (a,b)=>gi(a)-gi(b) || pop(a,b),
+    popularity: pop,
+    title: (a,b)=>(a.title||a.romaji||'').localeCompare(b.title||b.romaji||''),
+    level: (a,b)=>(lv(a)??99)-(lv(b)??99) || pop(a,b),
+    levelDesc: (a,b)=>(lv(b)??-1)-(lv(a)??-1) || pop(a,b),
+    newest: (a,b)=>yr(b)-yr(a) || pop(a,b),
+    oldest: (a,b)=>(yr(a)||9999)-(yr(b)||9999) || pop(a,b),
+    depth: (a,b)=>((b.entry&&!b.entry.quick)?2:b.entry?1:0)-((a.entry&&!a.entry.quick)?2:a.entry?1:0) || pop(a,b),
+  }[key] || pop;
+  return [...list].sort(cmp);
+}
+const sortSelect = (id, key, skip=[]) => `<label for="${id}">Sort by<select id="${id}">${SORTS.filter(([k])=>!skip.includes(k)).map(([k,l])=>`<option value="${k}" ${key===k?'selected':''}>${l}</option>`).join('')}</select></label>`;
 function viewStart() {
   const p = state.profile;
   const pool = D.series.filter(s=>s.entry);
   let list = pool.filter(inGenre).map(s=>({s, fit: fitFor(s.entry, p)})).filter(x=>x.fit);
   if (state.maxInt !== 'any') list = list.filter(x=>x.s.entry.overall <= +state.maxInt);
-  list.sort((a,b)=>GRADES.indexOf(a.fit.g)-GRADES.indexOf(b.fit.g) || a.s.entry.overall-b.s.entry.overall);
+  { const order = sortSeries(list.map(x=>x.s), state.startSort||'level', p); const pos = new Map(order.map((x,i)=>[x,i])); list.sort((a,b)=>GRADES.indexOf(a.fit.g)-GRADES.indexOf(b.fit.g) || pos.get(a.s)-pos.get(b.s)); }
   const pending = D.series.filter(s=>!s.entry).length;
   const any = p === 'Christian (any)';
   return `<div class="stack" style="gap:24px"><section class="hero">
@@ -236,7 +255,7 @@ function viewStart() {
     <div class="legend" aria-label="What the grades mean">${GRADES.map(g=>`<div>${gradeTile(g,false,'sm')}<span><b>${GRADE_TEXT[g][0]}</b>${GRADE_TEXT[g][1]}</span></div>`).join('')}</div>
     <p><a href="#popular"><strong>See the most popular manga and how they grade for your family →</strong></a></p>
     ${genreBar(pool)}
-    <div class="controls"><label for="maxint">Content intensity at most<select id="maxint">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxInt)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
+    <div class="controls">${sortSelect('ssort', state.startSort||'level', ['grade'])}<label for="maxint">Content intensity at most<select id="maxint">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxInt)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
       <p class="count" style="align-self:center">${list.length} graded · ${pending} more manga waiting for analysis</p></div>
     ${GRADES.map(g=>{ const grp = list.filter(x=>x.fit.g===g); if (!grp.length) return ''; return `<section class="stack" style="gap:4px"><div class="groupHead">${gradeTile(g,false)}<h2>${GRADE_TEXT[g][0]} <span class="count">${grp.length}</span></h2></div>
       <div class="list">${grp.map(({s,fit})=>row(s, gradeTile(fit.g, fit.prov, 'lg'),
@@ -255,9 +274,8 @@ function viewBrowse() {
     if (state.q) { const q = state.q.toLowerCase(); if (![s.title, s.romaji, s.native, ...(s.creators||[]).map(c=>c.name)].some(x => (x||'').toLowerCase().includes(q))) return false; }
     return true;
   });
-  if (state.sort === 'title') list.sort((a,b)=>a.title.localeCompare(b.title));
-  if (state.sort === 'level') list.sort((a,b)=>(a.entry?a.entry.overall:99)-(b.entry?b.entry.overall:99));
   const p = state.profile;
+  list = sortSeries(list, state.sort, p);
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>All manga</h1>
     <p class="lede">Every English-licensed manga in the catalog. Grades are shown for <strong>${esc(p)}</strong>; change that on <a href="#start">For my family</a>.</p></div>
     ${genreBar(D.series)}
@@ -265,7 +283,7 @@ function viewBrowse() {
       <label for="q">Search title or creator<input id="q" type="search" value="${esc(state.q)}" placeholder="e.g. Frieren, Oda"></label>
       <label for="lvl">Intensity at most<select id="lvl">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxLevel)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
       <label for="pub">English publisher<select id="pub"><option value="">All</option>${allPubs.map(x=>`<option ${state.pub===x?'selected':''}>${esc(x)}</option>`).join('')}</select></label>
-      <label for="sort">Sort<select id="sort"><option value="popularity" ${state.sort==='popularity'?'selected':''}>Most read</option><option value="title" ${state.sort==='title'?'selected':''}>Title</option><option value="level" ${state.sort==='level'?'selected':''}>Lowest intensity</option></select></label>
+      ${sortSelect('sort', state.sort)}
       <label class="check" for="an"><input id="an" type="checkbox" ${state.analyzed?'checked':''}> Analyzed only</label></div>
     <p class="count">${list.length} of ${D.series.length} series · ${D.series.filter(s=>s.entry).length} analyzed so far</p>
     <div class="list">${list.map(s=>{ const fit = s.entry && fitFor(s.entry, p); return row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg'), s.entry && s.entry.life_message ? `<div class="sub" style="margin-top:4px">${esc(s.entry.life_message)}</div>` : ''); }).join('') || '<p class="empty">No series match. Clear the search or raise the intensity limit.</p>'}</div></div>`;
@@ -332,15 +350,17 @@ function folkwaysPanel(e) {
 
 function viewPopular() {
   const p = state.profile, n = +(state.popN || 50);
-  const top = [...D.series].sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).filter(inGenre).slice(0, n);
+  const ranked = [...D.series].sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).filter(inGenre).slice(0, n);
+  const rank = new Map(ranked.map((x,i)=>[x,i+1]));
+  const top = sortSeries(ranked, state.popSort||'popularity', p);
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>Popular manga</h1>
     <p class="lede">The most-read manga with an official English edition, ranked by how many readers track them on AniList. Each shows its grade for your tradition, so you can see where the series kids are talking about stand.</p></div>
     <div class="controls"><label for="profile3">Grades for${profileSelect('profile3', p)}</label>
-      <label for="popn">Show<select id="popn">${[25,50,100,250].map(v=>`<option value="${v}" ${n===v?'selected':''}>Top ${v}</option>`).join('')}</select></label></div>
+      <label for="popn">Show<select id="popn">${[25,50,100,250].map(v=>`<option value="${v}" ${n===v?'selected':''}>Top ${v}</option>`).join('')}</select></label>${sortSelect('psort', state.popSort||'popularity')}</div>
     ${genreBar(D.series)}
     <ol class="list" style="list-style:none;padding:0">${top.map((s,i)=>{ const fit = s.entry && fitFor(s.entry, p);
       const deep = s.entry && !s.entry.quick;
-      return `<li style="display:flex;gap:10px;align-items:center"><span class="count" style="min-width:2.2em;text-align:right">#${i+1}</span><div style="flex:1;min-width:0">${row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg'), s.entry?.life_message ? `<div class="sub" style="margin-top:4px">${esc(s.entry.life_message)}</div>` : '', deep ? '<span class="chip" style="border-color:var(--ink);font-weight:700">In-depth entry</span>' : '')}</div></li>`; }).join('')}</ol>
+      return `<li style="display:flex;gap:10px;align-items:center"><span class="count" style="min-width:2.2em;text-align:right">#${rank.get(s)}</span><div style="flex:1;min-width:0">${row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg'), s.entry?.life_message ? `<div class="sub" style="margin-top:4px">${esc(s.entry.life_message)}</div>` : '', deep ? '<span class="chip" style="border-color:var(--ink);font-weight:700">In-depth entry</span>' : '')}</div></li>`; }).join('')}</ol>
     <p class="note">Popularity is AniList's count of readers tracking each series. "In-depth entry" marks series with a full analysis; the rest are quick reads or waiting for analysis.</p></div>`;
 }
 function viewIdeas() {
@@ -441,7 +461,7 @@ function bind() {
   const on = (id, ev, fn) => { const el = document.getElementById(id); if (el) el.addEventListener(ev, fn); };
   const set = (k, rerender = true) => e => { state[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value; save(); if (rerender) render(); };
   on('q','input', e=>{ state.q=e.target.value; save(); const pos=e.target.selectionStart; render(); const q=$('#q'); q.focus(); q.setSelectionRange(pos,pos); });
-  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','maxint:maxInt'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
+  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
   document.querySelectorAll('.genres button[data-genre]').forEach(b=>b.addEventListener('click',()=>{ state.genre=b.dataset.genre; save(); render(); }));
   document.querySelectorAll('input[data-q]').forEach(r=>r.addEventListener('change',()=>{ QANS[r.dataset.q]=+r.value; }));
   on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; HER=new Set(); VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
