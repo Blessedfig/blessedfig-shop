@@ -282,7 +282,7 @@ const QUIZ = [
  ['Hard work and financial security matter more than self-expression.', 5, -1],
  ['Being free to be yourself, and tolerant of others who differ, matters most.', 5, 1]];
 const AGREE = ['Strongly disagree','Disagree','Not sure','Agree','Strongly agree'];
-let VALS = null, VALS_SAVED = false, QANS = {};
+let VALS = null, VALS_SAVED = false, QANS = {}, HER = new Set();
 try { const v = JSON.parse(localStorage.getItem('mwg-values') || 'null'); if (v && v.pos) { VALS = v; VALS_SAVED = true; } } catch (e) {}
 const dist = (a, b) => Math.sqrt(a.reduce((t, x, i) => t + (x - b[i]) ** 2, 0));
 const nearest = (pos, n=3) => (D.clusters||[]).map(c => ({c, d: dist(pos, c.pos)})).sort((a,b)=>a.d-b.d).slice(0, n);
@@ -295,19 +295,24 @@ const dimBar = (name, v) => { const [l, r] = name.split(' vs '); return `<tr><td
 function viewValues() {
   const cl = D.clusters || [];
   const groups = [...new Set(cl.map(c=>c.group))];
-  const res = VALS ? nearest(VALS.pos) : [];
+  const res = VALS ? (VALS.suggest ? VALS.suggest.map(n=>({c:cl.find(x=>x.name===n)})).filter(x=>x.c) : nearest(VALS.pos)) : [];
   const fw = D.series.filter(s=>s.entry?.folkways);
   const close = VALS ? fw.map(s=>{ const f=s.entry.folkways.dims; const pos=D.dims.map(d=>f[d]?.pos ?? 5); return {s, d: dist(VALS.pos, pos)}; }).sort((a,b)=>a.d-b.d) : [];
   return `<div class="stack" style="max-width:80ch"><div class="stack" style="gap:8px"><h1>Our family's values</h1>
-  <p class="lede">An optional layer about everyday values: honor, order, family loyalty, rank, tradition and self-expression. It compares a series' values with yours, separate from religion. It uses values only, never ancestry, ethnicity or where your family comes from. No cluster is better than another.</p></div>
+  <p class="lede">An optional layer about everyday values: honor, order, family loyalty, rank, tradition and self-expression. It compares a series' values with yours, separate from religion. The quiz uses values only. You can also start from a region or a cultural heritage your family identifies with; that only suggests a starting point and never describes your family. No cluster is better than another.</p></div>
   <section class="panel"><h2>Take the 2-minute quiz</h2><p class="note">Ten statements. Answer as your household lives, not as you think you should. Nothing is stored unless you choose to save.</p>
   <ol class="stack" style="gap:14px;padding-left:1.2em">${QUIZ.map(([q],i)=>`<li><p style="margin:0 0 6px">${esc(q)}</p><div style="display:flex;flex-wrap:wrap;gap:6px">${AGREE.map((a,j)=>`<label class="chip" style="cursor:pointer"><input type="radio" name="q${i}" value="${j}" data-q="${i}" ${QANS[i]===j?'checked':''}> ${a}</label>`).join('')}</div></li>`).join('')}</ol>
   <p><button id="quizgo" class="pill">See my closest clusters</button></p></section>
   <section class="panel"><h2>Or pick a region or culture you know</h2><label for="clpick" class="eyebrow">Cluster</label>
   <select id="clpick"><option value="">Choose…</option>${groups.map(g=>`<optgroup label="${esc(g)}">${cl.filter(c=>c.group===g).map(c=>`<option ${VALS?.label===c.name?'selected':''}>${esc(c.name)}</option>`).join('')}</optgroup>`).join('')}</select>
-  <p class="note">Or <a href="#start">skip this</a>. The rest of the guide works without it.</p></section>
+</section>
+  ${(D.heritage||[]).length ? `<section class="panel"><h2>Or start from a cultural heritage</h2><p>Which cultural heritage does your family identify with? (optional, choose any)</p>
+  <div style="display:flex;flex-wrap:wrap;gap:6px">${D.heritage.map((h,i)=>`<label class="chip" style="cursor:pointer"><input type="checkbox" data-h="${i}" ${HER.has(i)?'checked':''}> ${esc(h.name)}</label>`).join('')}</div>
+  <p class="note">Mixed or multiple heritages: choose several and we average them. American with no particular heritage: pick a region above instead.</p>
+  <p class="note">This is a common starting point for families with this heritage, not a description of yours. Adjust it, or take the quiz.</p></section>` : ''}
+  <p class="note">Or <a href="#start">skip this</a>. The rest of the guide works without it.</p>
   ${VALS ? `<section class="panel" id="valres"><h2>Your values profile${VALS.label?`: ${esc(VALS.label)}`:''}</h2><div class="scroll"><table><tbody>${D.dims.map((d,i)=>dimBar(d, VALS.pos[i])).join('')}</tbody></table></div>
-    <h3>Closest clusters</h3><ul>${res.map(({c})=>`<li><strong>${esc(c.name)}</strong> <span class="note">(${esc(c.group)})</span>: ${esc(c.values)}</li>`).join('')}</ul>
+    ${VALS.heritage?'<p class="note">This is a common starting point for families with this heritage, not a description of yours. Adjust it, or take the quiz.</p>':''}<h3>${VALS.suggest?'Suggested starting clusters':'Closest clusters'}</h3><ul>${res.map(({c})=>`<li><strong>${esc(c.name)}</strong> <span class="note">(${esc(c.group)})</span>: ${esc(c.values)}</li>`).join('')}</ul>
     <p class="note">A suggestion only. Cluster positions are drafts from ${[...new Set(res.map(r=>r.c.source))].map(esc).join('; ')}, still being checked.</p>
     <p>${VALS_SAVED ? '<button id="valclear" class="pill">Forget my answers on this device</button>' : '<button id="valsave" class="pill">Save on this device</button>'}</p></section>
     <section class="panel"><h2>Series closest to your values</h2>${close.length ? `<div class="list">${close.slice(0,30).map(({s,d})=>row(s, `<span class="grade lg" title="Distance">${(10 - Math.min(10, d/ Math.sqrt(6))).toFixed(1)}</span>`, '')).join('')}</div><p class="note">The number is closeness from 0 to 10. It describes, it does not recommend.</p>` : '<p class="note">Series are still being placed on these values. Check back as entries are added.</p>'}</section>` : ''}
@@ -423,10 +428,14 @@ function bind() {
   ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','idea:idea','profile:profile','profile2:profile','maxint:maxInt'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
   document.querySelectorAll('.genres button[data-genre]').forEach(b=>b.addEventListener('click',()=>{ state.genre=b.dataset.genre; save(); render(); }));
   document.querySelectorAll('input[data-q]').forEach(r=>r.addEventListener('change',()=>{ QANS[r.dataset.q]=+r.value; }));
-  on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
+  on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; HER=new Set(); VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
   on('clpick','change',e=>{ const c=(D.clusters||[]).find(x=>x.name===e.target.value); if (c) { VALS={pos:c.pos.slice(), label:c.name}; VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); } });
+  document.querySelectorAll('input[data-h]').forEach(c=>c.addEventListener('change',()=>{ const i=+c.dataset.h; c.checked?HER.add(i):HER.delete(i);
+    const names=[...new Set([...HER].flatMap(j=>D.heritage[j].clusters))]; const cs=(D.clusters||[]).filter(x=>names.includes(x.name));
+    if (!cs.length) { VALS=null; render(); return; }
+    VALS={pos:D.dims.map((_,k)=>Math.round(cs.reduce((t,x)=>t+x.pos[k],0)/cs.length*10)/10), label:'starting point from heritage', heritage:true, suggest:names}; VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); }));
   on('valsave','click',()=>{ try { localStorage.setItem('mwg-values', JSON.stringify(VALS)); VALS_SAVED=true; } catch (e) {} render(); });
-  on('valclear','click',()=>{ try { localStorage.removeItem('mwg-values'); } catch (e) {} VALS=null; VALS_SAVED=false; QANS={}; render(); });
+  on('valclear','click',()=>{ try { localStorage.removeItem('mwg-values'); } catch (e) {} VALS=null; VALS_SAVED=false; QANS={}; HER=new Set(); render(); });
   document.querySelectorAll('.pill[data-p]').forEach(b=>b.addEventListener('click',()=>{ state.profile=b.dataset.p; save(); render(); }));
 }
 window.addEventListener('hashchange', ()=>{ render(); window.scrollTo(0,0); });
