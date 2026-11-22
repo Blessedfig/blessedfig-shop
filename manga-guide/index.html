@@ -212,7 +212,7 @@ const topCats = s => { const c = (s.entry?.content||[]).filter(x=>(x.score||0)>=
 const mcTitle = s => s.entry ? 'Mature content, 0 none to 10 extreme. The highest category: ' + (s.entry.content||[]).map(x=>x.category+' '+x.score).join(', ') : 'Not rated yet';
 function row(s, tile, body = '', chips = '') {
   if (isAdult(s)) chips += '<span class="chip" style="color:var(--gF);border-color:currentColor">18+ adult title</span>';
-  else chips = bandChip(s) + chips;
+  else chips = bandChip(s) + pubChip(s) + chips;
   if (s.entry && (s.entry.understated||[]).length) chips += '<span class="chip" style="color:var(--gF);border-color:currentColor" title="' + esc(s.entry.understated.join('; ')) + '">Intensity may be understated: check</span>';
   return `<a class="row" href="${link(s)}">${tile}<div style="min-width:0"><div class="t">${esc(s.title)}</div><div class="sub">${subline(s)}</div>${body}<div class="chips">${chips}${confChip(s)}</div></div>
     <div class="side" title="${esc(mcTitle(s))}"><span class="eyebrow">Mature content</span>${meter(s.entry ? s.entry.overall : null)}${topCats(s)}</div></a>`;
@@ -265,13 +265,18 @@ function ageBand(s) {
 }
 const AGES = [['6 or under','7+'],['7 to 9','7+'],['10 to 12','10+'],['13 to 15','13+'],['16 or 17','16+'],['18 or older','18+']];
 const bandChip = s => { const b = ageBand(s); return b ? `<span class="chip" style="font-weight:700" title="Suggested from the mature content scores, not a publisher rating">Ages ${b}</span>` : ''; };
+const BAND_AGE = {'7+':7,'10+':10,'13+':13,'16+':16,'18+':18};
+const pubOlder = s => { const b = ageBand(s), r = s.pubrating; return b && r && r.min_age > BAND_AGE[b]; };
+const pubChip = s => { const r = s.pubrating; if (!r) return ''; return `<span class="chip" title="The publisher's own age rating for the English edition"${pubOlder(s)?' style="color:var(--gF);border-color:currentColor"':''}>${esc(r.publisher)}: ${esc(r.rating)}</span>`; };
+const pubLine = s => { const r = s.pubrating; if (!r) return '<span class="note">No publisher rating on file yet.</span>'; return `<span class="note">Publisher rating: <a href="${esc(r.url)}" rel="noopener">${esc(r.publisher)} ${esc(r.rating)}</a>.${pubOlder(s)?' <strong>The publisher rates it for older readers than our band suggests.</strong> Go with the older age until we check.':''}</span>`; };
 const BAND_LEGEND = `<p>Each graded series gets a <strong>suggested age band</strong>: 7+, 10+, 13+, 16+ or 18+. It comes from the mature content scores. A series fits a band only if <em>every</em> category is at or under that band's limit:</p>
   <div class="scroll"><table><thead><tr><th>Category</th>${BANDS.slice(0,4).map(b=>`<th class="num">${b}</th>`).join('')}</tr></thead><tbody>${Object.keys(BAND_CAPS['7+']).map(k=>`<tr><td>${k}</td>${BANDS.slice(0,4).map(b=>`<td class="num">≤ ${BAND_CAPS[b][k]}</td>`).join('')}</tr>`).join('')}</tbody></table></div>
-  <p>Anything above the 16+ limits, and any title marked adult, is 18+. This is our suggestion, not the publisher's rating, and it does not judge the message: a 13+ series can still grade D for your tradition. When a series is flagged "may be understated", treat the band as a minimum.</p>`;
+  <p>Anything above the 16+ limits, and any title marked adult, is 18+. This is our suggestion, not the publisher's rating, and it does not judge the message: a 13+ series can still grade D for your tradition. When a series is flagged "may be understated", treat the band as a minimum.</p>
+  <p>Where we have it, the <strong>publisher's own rating</strong> is shown beside our band (for example VIZ "T+ (Older Teen)" or Seven Seas "Teen 13+"). It is read from the publisher's site for VIZ Media, Yen Press and Seven Seas. Kodansha and smaller publishers are not covered yet. When the publisher rates a series for older readers than our band, the chip is shown in red and we suggest going with the older age. The guided results on the opening page leave such series out of the younger age groups.</p>`;
 function viewStart() {
   const p = state.profile;
   const band = state.age ? (AGES.find(a=>a[0]===state.age)||[])[1] : null;
-  const pool = D.series.filter(s=>s.entry && (!band || BANDS.indexOf(ageBand(s)) <= BANDS.indexOf(band)));
+  const pool = D.series.filter(s=>s.entry && (!band || (BANDS.indexOf(ageBand(s)) <= BANDS.indexOf(band) && (!s.pubrating || s.pubrating.min_age <= BAND_AGE[band]))));
   let list = pool.filter(inGenre).map(s=>({s, fit: fitFor(s.entry, p)})).filter(x=>x.fit);
   { const order = sortSeries(list.map(x=>x.s), state.startSort||'level', p); const pos = new Map(order.map((x,i)=>[x,i])); list.sort((a,b)=>GRADES.indexOf(a.fit.g)-GRADES.indexOf(b.fit.g) || pos.get(a.s)-pos.get(b.s)); }
   const pending = D.series.filter(s=>!s.entry).length;
@@ -281,7 +286,7 @@ function viewStart() {
     <h1>Find manga that fit your family.</h1>
     <div class="stack" style="gap:8px"><h2 style="font-size:1.05rem">Step 1. How old is your reader?</h2>
     <div class="pills" role="group" aria-label="Reader's age">${AGES.map(([a])=>`<button type="button" class="pill" data-age="${esc(a)}" aria-pressed="${state.age===a}">${esc(a)}</button>`).join('')}</div>
-    <p class="note">${band ? `Showing series suggested for ages ${band} and younger. <a href="#method">How age bands work</a>` : 'Pick an age to see only series suggested for it, or skip to see every age.'}</p></div>
+    <p class="note">${band ? `Showing series suggested for ages ${band} and younger. A series the publisher rates for older readers is left out. <a href="#method">How age bands work</a>` : 'Pick an age to see only series suggested for it, or skip to see every age.'}</p></div>
     <div class="stack" style="gap:8px"><h2 style="font-size:1.05rem">Step 2. What does your family believe?</h2>
     <label class="iam" for="profile"><span>I'm</span>${profileSelect('profile', p)}</label>
     <div class="pills" role="group" aria-label="Quick pick">${PILLS.map(v=>`<button type="button" class="pill" data-p="${esc(v)}" aria-pressed="${v===p}">${esc(v)}</button>`).join('')}</div>
@@ -424,7 +429,7 @@ function viewSeries(s) {
     h += `<div class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
       <label class="eyebrow" for="profile2">Grade for</label>${profileSelect('profile2', p)}
       <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div></div>`;
-    h += `<p>${bandChip(s)} <a href="#method" class="note">How age bands work</a></p>`;
+    h += `<p>${bandChip(s)} ${pubLine(s)} <a href="#method" class="note">How age bands work</a></p>`;
     if (e.life_message) h += `<div class="stack" style="gap:6px"><span class="eyebrow">What it holds up as a good life</span><p class="message">${esc(e.life_message)}</p></div>`;
     h += `<div class="banner">${e.quick?'Quick read built from Wikipedia and database tags.':'Built from summaries, databases and reviews.'} No pages have been read yet, so grades may change after a full read. Confidence: <strong>${esc(e.confidence)}</strong>.${(e.understated||[]).length?`<br><strong>Intensity may be understated.</strong> ${e.understated.map(esc).join('; ')}. Treat the intensity scores below as a minimum until checked.`:''}</div>
       <section class="panel"><h2>Grades by tradition</h2><div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>Depiction concern</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
