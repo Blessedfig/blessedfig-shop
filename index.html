@@ -22,7 +22,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BookStore", "name": "The Blessed Fig Tree", "url": "https://www.theblessedfigtree.com/", "image": "https://www.theblessedfigtree.com/og.png", "telephone": "+1-715-628-0468", "email": "owner@theblessedfigtree.com", "address": {"@type": "PostalAddress", "streetAddress": "800 5th Ave", "addressLocality": "Antigo", "addressRegion": "WI", "postalCode": "54409", "addressCountry": "US"}, "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Sunday"], "opens": "10:00", "closes": "18:00"}, {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Friday", "Saturday"], "opens": "10:00", "closes": "20:00"}], "sameAs": ["https://www.facebook.com/blessedfigtree", "https://www.tiktok.com/@blessedfigtree"], "parentOrganization": {"@type": "Organization", "name": "The Blessed Fig Tree LLC"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BookStore", "name": "The Blessed Fig Tree", "url": "https://www.theblessedfigtree.com/", "image": "https://www.theblessedfigtree.com/og.png", "telephone": "+1-715-628-0468", "email": "owner@theblessedfigtree.com", "address": {"@type": "PostalAddress", "streetAddress": "800 5th Ave", "addressLocality": "Antigo", "addressRegion": "WI", "postalCode": "54409", "addressCountry": "US"}, "openingHoursSpecification": [{"@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Sunday"], "opens": "10:00", "closes": "18:00"}, {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Friday", "Saturday"], "opens": "10:00", "closes": "20:00"}], "sameAs": ["https://www.facebook.com/blessedfigtree", "https://www.instagram.com/blessedfig/", "https://www.tiktok.com/@blessedfigtree"], "parentOrganization": {"@type": "Organization", "name": "The Blessed Fig Tree LLC"}}</script>
 <style>
 :root { color-scheme: light; }
 body { margin: 0; }
@@ -412,7 +412,7 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
   background: url(img/t_gmini.png) 0 0 / calc(180px * var(--s)) calc(28px * var(--s)) no-repeat; }
 .rb-mole { z-index: 3; left: calc(50% - 152px * var(--s)); top: calc(92px * var(--s)); width: calc(66px * var(--s)); height: calc(46px * var(--s));
   background: url(img/t_mole.png) 0 0 / calc(264px * var(--s)) calc(46px * var(--s)) no-repeat; }
-.ts { left: calc(50% - 70px * var(--s)); top: calc(20px * var(--s)); width: calc(22px * var(--s)); height: calc(27px * var(--s));
+.ts { z-index: 3; left: calc(50% - 70px * var(--s)); top: calc(16px * var(--s)); width: calc(22px * var(--s)); height: calc(27px * var(--s));
   background: url(img/t_toad.png) 0 0 / calc(88px * var(--s)) calc(27px * var(--s)) no-repeat; }
 .rb-worm { left: calc(50% + 18px * var(--s)); top: calc(-1px * var(--s)); width: calc(33px * var(--s)); height: calc(33px * var(--s)); background: url(img/t_worm.png) 0 0 / calc(264px * var(--s)) calc(33px * var(--s)) no-repeat; }
 .mo { position: absolute; z-index: 5; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(104px * var(--s)); pointer-events: auto; cursor: pointer;
@@ -522,6 +522,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
     <nav id="sitenav" aria-label="Sections">
       <a href="#visit">Visit</a>
       <a href="#stay">Stay upstairs</a>
+      <a href="#play">Play the game</a>
       <a href="goose.html">Meet Goose Goose</a>
       <a href="manga-guide/">Manga guide for parents</a>
     </nav>
@@ -643,6 +644,26 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   </div>
 </section>
 
+<section id="play">
+  <div class="wrap">
+    <span class="label">Play the game</span>
+    <h2>The Unwritten</h2>
+    <div class="notice"><strong>A huge work in progress:</strong><span>this is an early, unfinished build. Expect rough edges, placeholder lines, missing story and things that change from week to week.</span></div>
+    <div class="split">
+      <div class="copy">
+        <p>A free pixel-art adventure in the style of the 1990s role-playing games, set in the real streets of Antigo. Start in the shop at 800 5th Ave, walk downtown, step into the places you know and see where the story takes you.</p>
+        <p>It plays right here in your browser. Nothing to install, no account, and your save stays on your own device.</p>
+        <p class="small">Best on a computer with a keyboard. Much of the town and most of the story are still being built.</p>
+        <p><a class="btn" href="unwritten/">Play the work-in-progress build</a></p>
+      </div>
+      <div class="photocol"><figure class="photo">
+        <picture><source srcset="img/game.webp" type="image/webp"><img loading="lazy" decoding="async" src="img/game.jpg" alt="Pixel-art screenshot of The Unwritten: a red robin in a maroon A jersey stands outside The Blessed Fig Tree on 5th Avenue, beside its book racks and hanging sign, with a crosswalk and passing cars" width="1152" height="864" style="image-rendering:pixelated"></picture>
+        <figcaption>Outside the shop on 5th Ave, in the game (work in progress).</figcaption>
+      </figure></div>
+    </div>
+  </div>
+</section>
+
 <section id="find">
   <div class="wrap">
     <span class="label">Find us</span>
@@ -650,7 +671,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
     <p class="section-intro"><b>Email:</b> <span style="user-select:all">owner@theblessedfigtree.com</span> &middot; <b>Phone or text:</b> <span style="user-select:all">715-628-0468</span></p>
     <div class="notice">
       <strong>Follow along:</strong>
-      <span>News and events are posted on <a href="https://www.facebook.com/blessedfigtree" target="_blank" rel="noopener">Facebook</a> and <a href="https://www.tiktok.com/@blessedfigtree" target="_blank" rel="noopener">TikTok</a>.</span>
+      <span>News and events are posted on <a href="https://www.facebook.com/blessedfigtree" target="_blank" rel="noopener">Facebook</a>, <a href="https://www.instagram.com/blessedfig/" target="_blank" rel="noopener">Instagram</a> and <a href="https://www.tiktok.com/@blessedfigtree" target="_blank" rel="noopener">TikTok</a>.</span>
     </div>
     <div class="notice">
       <strong>Parking:</strong>
@@ -666,7 +687,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
         <b>The Blessed Fig Tree</b>
         <div>800 5th Ave, Antigo, WI 54409</div>
         <div>owner@theblessedfigtree.com &middot; 715-628-0468</div>
-        <div>Follow us: <a href="https://www.facebook.com/blessedfigtree" target="_blank" rel="noopener">Facebook</a> &middot; <a href="https://www.tiktok.com/@blessedfigtree" target="_blank" rel="noopener">TikTok</a></div>
+        <div>Follow us: <a href="https://www.facebook.com/blessedfigtree" target="_blank" rel="noopener">Facebook</a> &middot; <a href="https://www.instagram.com/blessedfig/" target="_blank" rel="noopener">Instagram</a> &middot; <a href="https://www.tiktok.com/@blessedfigtree" target="_blank" rel="noopener">TikTok</a></div>
         <div>Our porch guardian: <a href="goose.html">meet Goose Goose</a></div>
         <div>The Blessed Fig Tree LLC</div>
       </div>

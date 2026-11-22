@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Respawn game library</title>
+<style>
+  html,body{margin:0;height:100%;background:#000;color:#e8e8f0;font:14px system-ui,sans-serif}
+  #game{width:100%;height:100%}
+  #panel{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:16px;box-sizing:border-box}
+  .win{max-width:460px;width:100%;background:linear-gradient(#2a3ca8,#141e6a);border:3px solid #e8e8f0;border-radius:6px;box-shadow:0 0 0 3px #0b0b14;padding:16px 18px}
+  h1{font:12px/1.6 "Press Start 2P",monospace;margin:0 0 10px}
+  p{margin:8px 0;line-height:1.45}
+  .btn{display:inline-block;font:10px "Press Start 2P",monospace;padding:10px 12px;border:2px solid #0b0b14;border-radius:6px;background:#3a6ad0;color:#fff;cursor:pointer;text-decoration:none;margin-top:6px}
+  .small{color:#c8d0ff;font-size:12px}
+  input[type=file]{margin:10px 0;color:#fff;max-width:100%}
+  #back{position:absolute;top:8px;left:8px;z-index:5;font:9px "Press Start 2P",monospace;padding:7px 9px;border-radius:5px;border:2px solid #0b0b14;background:#1c2a8a;color:#fff;cursor:pointer;opacity:.85}
+</style>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body><div id="game"></div><button id="back" title="Back to the library (Esc)">◀ LIBRARY</button><div id="panel"><div class="win"><h1 id="t">Loading…</h1><div id="body"></div></div></div>
+<script>
+  // Starts one game in EmulatorJS (GPL-3.0). ?g=<id> plays a game from lib/catalog.json (ROM stored deflated in lib/roms/<id>.json);
+  // ?own=<system> lets the player pick a game file of their own, which never leaves their device. Everything is served from
+  // this folder; the emulator makes no outside requests. Licences: licenses.html.
+  const OWN = { nes: ['NES', 'fceumm', '.nes'], gb: ['Game Boy', 'gambatte', '.gb'], gbc: ['Game Boy Color', 'gambatte', '.gbc,.gb'],
+    gba: ['Game Boy Advance', 'mgba', '.gba'], a26: ['Atari 2600', 'stella2014', '.a26,.bin'], pce: ['PC Engine / TurboGrafx-16', 'mednafen_pce', '.pce'] };
+  const $ = id => document.getElementById(id), q = new URLSearchParams(location.search);
+  const tab = q.get('tab') || '';
+  const back = () => { location.href = 'library.html' + (tab ? '#' + tab : ''); };
+  $('back').onclick = back;
+  addEventListener('keydown', e => { if (e.key === 'Escape' && $('panel').isConnected) { e.preventDefault(); back(); } });
+  function start(core, name, file, colour) {
+    $('panel').remove(); document.title = name + ' · Respawn game library';
+    Object.assign(window, { EJS_player: '#game', EJS_core: core, EJS_gameName: name, EJS_gameUrl: file, EJS_pathtodata: 'ejs/',
+      EJS_color: colour || '#3e6a2c', EJS_startOnLoaded: true, EJS_threads: false, EJS_language: 'en-US', EJS_backgroundColor: '#000' });
+    const sc = document.createElement('script'); sc.src = 'ejs/loader.js'; document.body.appendChild(sc);
+  }
+  (async () => {
+    try {
+      const own = q.get('own');
+      if (own && OWN[own]) {
+        const [name, core, accept] = OWN[own];
+        $('t').textContent = 'Your own game: ' + name;
+        $('body').innerHTML = '<p>Choose a ' + name + ' game file that you own (' + accept.replace(/,/g, ', ') + ').</p>' +
+          '<p class="small">The file is read right here in your browser. It is not uploaded or kept anywhere else. Saves stay on this device.</p>' +
+          '<input type="file" id="f" accept="' + accept + '"><p class="small">Only use games you have the right to play.</p>';
+        $('f').onchange = () => { const f = $('f').files[0]; if (f) start(core, f.name.replace(/\.[^.]+$/, ''), f); };
+        return;
+      }
+      const id = q.get('g'), cat = await (await fetch('lib/catalog.json')).json(), g = cat.games.find(x => x.id === id);
+      if (!g) { $('t').textContent = 'Game not found'; $('body').innerHTML = '<a class="btn" href="library.html">Back to the library</a>'; return; }
+      if (g.url) { location.replace(g.url); return; }
+      $('t').textContent = g.title;
+      $('body').innerHTML = '<p class="small">Unpacking…</p>';
+      const j = await (await fetch('lib/roms/' + g.id + '.json')).json();
+      const s = atob(j.d), bin = new Uint8Array(s.length); for (let i = 0; i < s.length; i++) bin[i] = s.charCodeAt(i);
+      const rom = await new Response(new Blob([bin]).stream().pipeThrough(new DecompressionStream('deflate'))).arrayBuffer();
+      start(g.core, g.title, new File([rom], j.f), { nes: '#8a2a2a', gb: '#4a6a2a', gbc: '#6a3a8a', gba: '#3a4aa8' }[g.sys]);
+    } catch (e) { $('t').textContent = 'This game could not start'; $('body').innerHTML = '<p class="small">' + String(e).slice(0, 160) + '</p><a class="btn" href="library.html">Back to the library</a>'; }
+  })();
+</script>
+</body></html>

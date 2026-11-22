@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Respawn game library</title>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+  :root{--w1:#2a3ca8;--w2:#141e6a;--ink:#e8e8f0;--dim:#b4bcf0;--yel:#e2c64a}
+  html,body{margin:0;background:#0b0b14;color:var(--ink);font:13px/1.45 system-ui,sans-serif}
+  header{position:sticky;top:0;z-index:2;background:#0b0b14;padding:10px 12px 9px;border-bottom:2px solid #1c2a8a}
+  h1{font:13px "Press Start 2P",monospace;margin:2px 0 7px;color:var(--yel)}
+  .sub{color:var(--dim);font-size:12px;margin:0 0 9px}
+  .bar{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  .tab{font:9px "Press Start 2P",monospace;padding:8px 9px;border:2px solid var(--ink);border-radius:5px;background:linear-gradient(var(--w1),var(--w2));color:#fff;cursor:pointer}
+  .tab[aria-selected=true]{background:var(--yel);color:#0b0b14;border-color:#0b0b14}
+  #search{font:13px system-ui;padding:7px 9px;border-radius:5px;border:2px solid #44507a;background:#141a33;color:#fff;flex:1;min-width:140px;max-width:260px}
+  main{padding:12px;display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));gap:12px}
+  .card{background:linear-gradient(var(--w1),var(--w2));border:3px solid var(--ink);border-radius:6px;box-shadow:0 0 0 2px #0b0b14;padding:10px;cursor:pointer;display:flex;flex-direction:column;gap:6px;outline:none;color:var(--ink);text-align:left;font:inherit}
+  .card:focus-visible,.card:hover{border-color:var(--yel)}
+  .card:focus-visible .title::before{content:'▶ ';color:var(--yel)}
+  .shot{background:#000;border:2px solid #0b0b14;height:150px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .shot img{image-rendering:pixelated;width:auto;height:144px;max-width:100%;object-fit:contain}
+  .ph{font:16px/1.5 "Press Start 2P",monospace;color:var(--yel);text-align:center;padding:10px}
+  .title{font:10px/1.5 "Press Start 2P",monospace;color:#fff}
+  .meta{color:var(--dim);font-size:11.5px}
+  .blurb{font-size:12.5px}
+  .lic{font-size:11px;color:#c8e6a6}
+  .note{grid-column:1/-1;color:var(--dim);font-size:12.5px;margin:0}
+  footer{padding:4px 14px 30px;color:var(--dim);font-size:12px}
+  a{color:#9ec8ff}
+</style></head>
+<body>
+<header>
+  <h1>RESPAWN GAME LIBRARY</h1>
+  <p class="sub" id="sub">Free games, every one openly licensed. Arrows and Enter choose; Esc goes back.</p>
+  <div class="bar" id="tabs" role="tablist"></div>
+</header>
+<main id="grid"></main>
+<footer>Console games are homebrew from <a href="https://hh.gbdev.io" target="_blank" rel="noopener">Homebrew Hub</a>, the archive kept by the Game Boy and NES homebrew communities. Each keeps its own licence: <a href="licenses.html" target="_blank" rel="noopener">licences and sources</a>. Games save in this browser.</footer>
+<script>
+  // The library: lib/catalog.json drawn as cards; a card opens emu.html?g=<id> (or the PC game's own page). "Your own game"
+  // opens emu.html?own=<system>, where the player picks a file of their own that never leaves the device.
+  const SYS = { pc: 'PC', nes: 'NES', gb: 'Game Boy', gbc: 'Game Boy Color', gba: 'Game Boy Advance' };
+  const TABS = [['all', 'ALL'], ['pc', 'PC'], ['nes', 'NES'], ['gb', 'GAME BOY'], ['gbc', 'GB COLOR'], ['gba', 'GBA'], ['own', 'YOUR OWN GAME']];
+  const OWN = [['nes', 'NES', '.nes'], ['gb', 'Game Boy', '.gb'], ['gbc', 'Game Boy Color', '.gbc'], ['gba', 'Game Boy Advance', '.gba'],
+    ['a26', 'Atari 2600', '.a26 / .bin'], ['pce', 'PC Engine / TurboGrafx-16', '.pce']];
+  const $ = id => document.getElementById(id);
+  let CAT = [], tab = 'all', qtext = '';
+  const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  function setTab(t) { tab = TABS.some(x => x[0] === t) ? t : 'all'; history.replaceState(null, '', '#' + tab); draw(); }
+  function drawTabs() {
+    $('tabs').innerHTML = TABS.map(([k, l]) => { const n = k === 'all' ? CAT.length : k === 'own' ? '' : CAT.filter(g => g.sys === k).length;
+      return '<button class="tab" role="tab" aria-selected="' + (k === tab) + '" data-t="' + k + '">' + l + (n !== '' ? ' ' + n : '') + '</button>'; }).join('') +
+      '<input id="search" type="search" placeholder="Search games" aria-label="Search games" value="' + esc(qtext) + '">';
+    $('tabs').querySelectorAll('.tab').forEach(b => b.onclick = () => setTab(b.dataset.t));
+    $('search').oninput = e => { qtext = e.target.value; drawCards(); };
+  }
+  function card(g) {
+    const pic = g.sys === 'pc' ? '<div class="ph">' + esc(g.title.replace(/ \(.*/, '')) + '</div>' : '<img alt="" loading="lazy" src="lib/shots/' + esc(g.id) + '.png">';
+    return '<button class="card" data-id="' + esc(g.id) + '"><div class="shot">' + pic + '</div><div class="title">' + esc(g.title) + '</div>' +
+      '<div class="meta">' + esc(SYS[g.sys]) + ' · ' + esc(g.genre) + (g.year ? ' · ' + g.year : '') + '<br>' + esc(g.dev) + '</div>' +
+      '<div class="blurb">' + esc(g.blurb) + '</div><div class="lic">' + esc(g.license) + (g.credits ? ' · ' + esc(g.credits) : '') + '</div></button>';
+  }
+  function drawCards() {
+    const g = $('grid');
+    if (tab === 'own') {
+      g.innerHTML = '<p class="note">Have a game of your own? Pick its system, then choose the file. It is read right here and never uploaded. Only use games you have the right to play.</p>' +
+        OWN.map(([k, l, ext]) => '<button class="card" data-own="' + k + '"><div class="shot"><div class="ph">' + esc(l) + '</div></div><div class="title">' + esc(l) + '</div><div class="meta">Files: ' + esc(ext) + '</div><div class="blurb">Choose a file from your device.</div></button>').join('');
+    } else {
+      const t = qtext.trim().toLowerCase();
+      const list = CAT.filter(x => (tab === 'all' || x.sys === tab) && (!t || (x.title + ' ' + x.dev + ' ' + x.genre + ' ' + x.blurb + ' ' + SYS[x.sys]).toLowerCase().includes(t)));
+      g.innerHTML = list.length ? list.map(card).join('') : '<p class="note">No games match.</p>';
+    }
+    g.querySelectorAll('.card').forEach(c => c.onclick = () => open(c));
+  }
+  function draw() { drawTabs(); drawCards(); const f = $('grid').querySelector('.card'); if (f && !document.activeElement.matches('input')) f.focus({ preventScroll: true }); }
+  function open(c) {
+    if (c.dataset.own) location.href = 'emu.html?own=' + c.dataset.own + '&tab=own';
+    else { const g = CAT.find(x => x.id === c.dataset.id); location.href = g.url ? g.url : 'emu.html?g=' + encodeURIComponent(g.id) + '&tab=' + tab; }
+  }
+  // arrows move between cards (by their place on screen), Enter opens, Esc leaves the arcade
+  addEventListener('keydown', e => {
+    if (e.target.matches && e.target.matches('input') && e.key !== 'Escape' && e.key !== 'ArrowDown') return;
+    if (e.key === 'Escape') { e.preventDefault(); try { parent.arcadeClose && parent.arcadeClose(); } catch (er) { } return; }
+    const cards = [...document.querySelectorAll('.card')]; if (!cards.length) return;
+    const cur = cards.indexOf(document.activeElement);
+    if (!/^Arrow/.test(e.key)) return; e.preventDefault();
+    if (cur < 0) { cards[0].focus(); return; }
+    const r = cards[cur].getBoundingClientRect(), cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+    const dir = { ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1] }[e.key];
+    let best = null, bd = 1e9;
+    for (const c of cards) { if (c === cards[cur]) continue; const s = c.getBoundingClientRect(), dx = s.left + s.width / 2 - cx, dy = s.top + s.height / 2 - cy;
+      if (dx * dir[0] + dy * dir[1] <= 4) continue; const d = Math.abs(dir[0] ? dx : dy) + 3 * Math.abs(dir[0] ? dy : dx); if (d < bd) { bd = d; best = c; } }
+    if (!best && e.key === 'ArrowUp') { $('search').focus(); return; }
+    if (best) { best.focus(); best.scrollIntoView({ block: 'nearest' }); }
+  });
+  addEventListener('hashchange', () => setTab(location.hash.slice(1)));
+  fetch('lib/catalog.json').then(r => r.json()).then(c => { CAT = c.games; tab = (location.hash.slice(1) || 'all'); if (!TABS.some(x => x[0] === tab)) tab = 'all';
+    $('sub').textContent = CAT.length + ' free games, every one openly licensed. Arrows and Enter choose; Esc goes back.'; draw(); })
+    .catch(() => { $('grid').innerHTML = '<p class="note">The library could not load.</p>'; });
+</script>
+</body></html>

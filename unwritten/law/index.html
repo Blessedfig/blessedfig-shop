@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Law library · Wisconsin, Langlade County and Antigo</title>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+  :root{--w1:#2a3ca8;--w2:#141e6a;--ink:#e8e8f0;--dim:#b4bcf0;--yel:#e2c64a;--red:#f0a8a8}
+  html,body{margin:0;background:#0b0b14;color:var(--ink);font:14px/1.5 system-ui,sans-serif}
+  header{position:sticky;top:0;z-index:2;background:#0b0b14;padding:10px 12px 9px;border-bottom:2px solid #1c2a8a}
+  h1{font:13px "Press Start 2P",monospace;margin:2px 0 7px;color:var(--yel)}
+  .warn{color:var(--red);font-size:12.5px;margin:0 0 9px;max-width:980px}
+  .bar{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+  .tab{font:9px "Press Start 2P",monospace;padding:8px 9px;border:2px solid var(--ink);border-radius:5px;background:linear-gradient(var(--w1),var(--w2));color:#fff;cursor:pointer}
+  .tab[aria-selected=true]{background:var(--yel);color:#0b0b14;border-color:#0b0b14}
+  #search{font:13px system-ui;padding:7px 9px;border-radius:5px;border:2px solid #44507a;background:#141a33;color:#fff;flex:1;min-width:140px;max-width:260px}
+  main{padding:12px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;align-items:start}
+  .card{background:linear-gradient(var(--w1),var(--w2));border:3px solid var(--ink);border-radius:6px;box-shadow:0 0 0 2px #0b0b14;padding:11px 12px;outline:none}
+  .card:focus-visible,.card:focus-within{border-color:var(--yel)}
+  .card h2{font:10px/1.6 "Press Start 2P",monospace;color:#fff;margin:0 0 8px}
+  .card:focus-visible h2::before{content:'▶ ';color:var(--yel)}
+  .card p{margin:0 0 8px}
+  .card ul{margin:0 0 8px;padding-left:18px}
+  .card li{margin:0 0 4px}
+  .cite{font-size:12px;color:#c8e6a6;margin-top:6px}
+  .src{font-size:12px;color:var(--dim)}
+  .intro{grid-column:1/-1;color:var(--dim);font-size:13px;margin:0}
+  b{color:#fff}
+  a{color:#9ec8ff}
+  footer{padding:4px 14px 30px;color:var(--dim);font-size:12px;max-width:980px}
+  @media (max-width:600px){header{position:static}}
+</style></head>
+<body>
+<header>
+  <h1>LAW LIBRARY</h1>
+  <p class="warn"><b style="color:var(--red)">General information, not legal advice.</b> This shelf explains how Wisconsin, Langlade County and Antigo law fit together and where to read the real text. It is not from Winter, Winter &amp; Behrens or any lawyer. Laws change, and the official text always controls. Checked November 14, 2026. For your own situation, talk to a lawyer.</p>
+  <div class="bar" id="tabs" role="tablist"></div>
+</header>
+<main id="grid"></main>
+<footer>Written in plain English for The Unwritten, The Blessed Fig Tree's game. Sources are official where they exist: the Wisconsin Legislature, the Wisconsin Court System, Langlade County and the City of Antigo. Section numbers are given so you can check every line yourself. Esc goes back to Antigo.</footer>
+<script>
+  // The shelves: each tab is a list of cards. Arrows move between cards, Esc goes back to the game.
+  const L = {
+    statutes: ['Wisconsin Statutes and Constitution', 'https://docs.legis.wisconsin.gov/statutes/prefaces/toc'],
+    admin: ['Wisconsin Administrative Code', 'https://docs.legis.wisconsin.gov/code'],
+    homerule: ['Legislative Council brief on home rule (2023)', 'https://docs.legis.wisconsin.gov/misc/lc/issue_briefs/2023/local_government/ib_home_rule_pw_2023_05_08'],
+    courts: ['Wisconsin Court System', 'https://www.wicourts.gov/'],
+    wcca: ['Wisconsin Circuit Court Access (case records)', 'https://wcca.wicourts.gov/'],
+    county: ['Langlade County Code of Ordinances', 'https://www.co.langlade.wi.us/government/ordinances/'],
+    city: ['City of Antigo Code of Ordinances (Municode)', 'https://library.municode.com/wi/antigo/codes/code_of_ordinances'],
+    lawlib: ['Wisconsin State Law Library: local ordinances', 'https://wilawlibrary.gov/topics/ordinances.php'],
+    ch799: ['Wis. Stat. ch. 799 (small claims)', 'https://docs.legis.wisconsin.gov/statutes/statutes/799'],
+  };
+  const link = k => '<a href="' + L[k][1] + '" target="_blank" rel="noopener">' + L[k][0] + '</a>';
+  const SHELVES = [
+    ['fits', 'HOW LAW FITS', 'Laws come in layers, and a lower layer can never break a higher one. Start here.', [
+      { t: 'The ladder', b: '<p>From the top down:</p><ul><li><b>U.S. Constitution and federal law</b></li><li><b>Wisconsin Constitution</b></li><li><b>Wisconsin Statutes</b>, passed by the Legislature</li><li><b>Wisconsin Administrative Code</b>, rules written by state agencies</li><li><b>County ordinances</b>, passed by the county board</li><li><b>City, village and town ordinances</b></li></ul><p>A rung can add rules of its own, but it cannot contradict a rung above it.</p>', l: ['statutes'] },
+      { t: 'Statutes', b: '<p>A statute is a law passed by the Wisconsin Senate and Assembly and signed by the Governor (or passed over a veto). Each new law is a numbered act, like <b>2025 Wisconsin Act 105</b>. Its changes are then folded into the Wisconsin Statutes, which are arranged by chapter.</p><p>Some chapters you meet in everyday life: ch. 59 counties, ch. 62 cities, ch. 66 general rules for local governments, ch. 125 alcohol, ch. 174 dogs, ch. 346 rules of the road, ch. 799 small claims.</p>', l: ['statutes'] },
+      { t: 'Agency rules', b: '<p>Statutes often leave the details to a state agency, which writes rules that have the force of law. They are collected in the Wisconsin Administrative Code. The letters in front name the agency.</p><ul><li><b>NR 115</b> (Natural Resources) sets the minimum shoreland zoning rules every county must adopt.</li><li><b>SPS 320 to 325</b> (Safety and Professional Services) is the Uniform Dwelling Code for one- and two-family homes.</li></ul>', l: ['admin'] },
+      { t: 'Ordinances', b: '<p>An ordinance is a local law passed by a county board, city council, village board or town board.</p><p>Breaking most ordinances is a <b>civil</b> matter, not a crime. The penalty is a <b>forfeiture</b>: a sum of money plus court costs. Crimes (misdemeanors and felonies) come from state law.</p><p>Many ordinances simply adopt a state statute by reference, so the same rule can be enforced locally.</p>', cite: 'Citations for ordinance violations: Wis. Stat. § 66.0113. Forfeiture actions: § 66.0114.' },
+      { t: 'Home rule', b: '<p><b>Cities and villages</b> have home rule in the state constitution (since 1924). They may decide their local affairs and government, subject only to the constitution and to state laws of statewide concern that apply uniformly to every city or village.</p><p><b>Counties</b> get "administrative home rule" from a statute instead: they may use any organizational or administrative power, subject to the constitution and uniform state laws of statewide concern.</p><p><b>Towns</b> have no home rule. Their powers come from the statutes, though a town meeting can authorize its town board to use the powers of a village board.</p>', cite: 'Wis. Const. art. XI, § 3. Wis. Stat. §§ 59.03(1), 59.04, 60.10(2)(c), 60.22(3).', l: ['homerule'] },
+      { t: 'When state and local law clash', b: '<p>Courts decide what counts as a statewide concern. Even on a statewide matter, a local ordinance can stand unless one of these is true:</p><ul><li>The Legislature expressly took the power away.</li><li>The ordinance logically conflicts with state law.</li><li>It defeats the purpose of state law, or goes against its spirit.</li></ul><p>For example, local governments may add rules on a statewide subject as long as the rules fit with the state\'s.</p>', cite: 'Annotations to Wis. Const. art. XI, § 3.', l: ['homerule'] },
+      { t: 'Who makes the rules here', b: '<p>Langlade County has seventeen towns, one village (White Lake) and one city (Antigo).</p><ul><li>Inside Antigo, the <b>Common Council</b> passes city ordinances. The city has its own zoning code.</li><li>The <b>County Board of Supervisors</b> passes county ordinances.</li></ul><p>County zoning applies in the towns that adopted it. The county\'s <b>shoreland</b> rules apply along lakes and rivers everywhere outside the city and village.</p>', cite: 'Langlade County Code §§ 17.05, 17.36. Wis. Stat. § 59.692.', l: ['county', 'city'] },
+    ]],
+    ['courts', 'COURTS', 'Where disputes and tickets go, from the courthouse on Clermont Street up to the Supreme Court in Madison.', [
+      { t: 'Four kinds of court', b: '<ul><li><b>Municipal courts</b> are optional. A city, village or town may set one up for its own ordinance and traffic tickets.</li><li><b>Circuit courts</b> are the trial courts. Langlade County has its own, in the courthouse at 800 Clermont Street.</li><li>The <b>Court of Appeals</b> reviews circuit court decisions. Langlade County is in District III, whose chambers are in Wausau.</li><li>The <b>Supreme Court</b> has seven justices and has the last word on Wisconsin law.</li></ul>', cite: 'Court of Appeals districts: Wis. Stat. § 752.11; District III chambers: § 752.17.', l: ['courts'] },
+      { t: 'Tickets', b: '<p>Where a community has no municipal court, its ordinance and traffic cases are heard in circuit court.</p><p>Tickets from the county sheriff or the State Patrol always go to circuit court, even for something that happened inside a city that has a municipal court.</p><p>Langlade County\'s own traffic ordinance is enforced in circuit court, with the Uniform Traffic Citation.</p>', cite: 'Langlade County Code § 7.16. Municipal courts: Wis. Stat. ch. 755.' },
+      { t: 'Small claims', b: '<p>Small claims is a simpler, faster way to bring a case in circuit court. It is not a separate court.</p><ul><li>For most money claims the limit is <b>$10,000</b>.</li><li>For cases filed on or after <b>January 1, 2027</b>, the limit is <b>$15,000</b> (2025 Wisconsin Act 105).</li><li>Personal injury and other tort claims stay capped at <b>$5,000</b>.</li></ul><p>The summons gives a "return date". That date is when the person being sued must respond, and missing it can mean losing by default.</p>', cite: 'Wis. Stat. § 799.01.', l: ['ch799'] },
+      { t: 'Civil or criminal?', b: '<p>A <b>civil</b> case is about money, property or rights between two sides, or about a forfeiture for an ordinance violation. A forfeiture is not a crime.</p><p>A <b>criminal</b> case is brought by the state through the district attorney. The state must prove guilt beyond a reasonable doubt.</p>' },
+      { t: 'Appeals', b: '<p>Most appeals are decided by a panel of three Court of Appeals judges.</p><p>Appeals in misdemeanor, small claims and municipal ordinance cases are decided by a single judge.</p><p>The Supreme Court chooses which cases it will review.</p>', cite: 'Wis. Stat. § 752.31.', l: ['courts'] },
+      { t: 'Looking up a case', b: '<p>Most circuit court records in Wisconsin are public, and you can search them online through Wisconsin Circuit Court Access.</p><p>Some kinds of case are confidential by law and won\'t show up, juvenile cases among them.</p><p>A listing shows a case was filed. It doesn\'t show what really happened, and it isn\'t a finding of guilt.</p>', l: ['wcca'] },
+    ]],
+    ['county', 'LANGLADE COUNTY', 'The county code has 25 chapters. These are the ones people run into most, in plain English. Every rule has more detail and exceptions in the official text.', [
+      { t: 'Ch. 7 · Roads and parking', b: '<ul><li>State traffic law is adopted for county highways. The county sets reduced speed limits on listed roads (§ 7.01, 7.03).</li><li>No signs in the county right-of-way without permission (§ 7.02).</li><li>Parking bans are posted in listed places, including within 15 feet of a hydrant. Towing is at the owner\'s expense (§ 7.07).</li><li>A vehicle left more than 72 hours on public property can be treated as abandoned (§ 7.08).</li><li>Mailboxes have size, height and placement rules (§ 7.12).</li></ul>' },
+      { t: 'Ch. 8 · ATVs, UTVs, snowmobiles', b: '<ul><li>Ride only on marked trails and routes, with permission for the land. No cross-country riding on public land (§ 8.05).</li><li>Keep out of lakes, streams and wetlands except at designated fords (§ 8.05).</li><li>Riders under 16 need adult supervision on routes or lakes (§ 8.05).</li><li>Marked snowmobile trails have extra limits from December 1 to April 1 (§ 8.05).</li><li>County trunk highways are open to ATVs and UTVs. Town roads open only if the town says so (§ 8.07 and Addendum #2).</li><li>Listed stretches of the Wolf River are slow, no-wake for boats (§ 8.11).</li></ul>' },
+      { t: 'Ch. 9 · Peace and order', b: '<ul><li>Several state offenses are adopted as county violations, including disorderly conduct, trespass and petty theft (§ 9.01).</li><li>Dogs may not run at large and must be licensed and tagged (§ 9.07).</li><li>Rules on truancy (§ 9.05), and on tobacco and vaping by minors (§ 9.06).</li><li>Fines for false 911 calls (§ 9.06(3)).</li><li>No weapons in secure areas of county buildings (§ 9.02). No tobacco in county buildings or vehicles (§ 9.12).</li></ul>' },
+      { t: 'Ch. 10 and 11 · Health and nuisances', b: '<ul><li>No one may create or allow a human health hazard: rotting carcasses, piled garbage, pests, toxic spills, open wells (§ 10.06). Forfeitures run $50 to $500 a day (§ 10.10).</li><li>In the unincorporated towns, junk can\'t sit outside in public view more than 14 days a year. Twenty or more used tires count as junk (§ 11.05).</li><li>Restaurants, lodging, campgrounds and pools need a county health license, renewed each June 30 (§ 11.06).</li></ul>' },
+      { t: 'Ch. 12 · Licenses and permits', b: '<ul><li>Door-to-door sellers need a permit from the Sheriff\'s Department. Farmers selling their own produce, charities and local merchants are among those exempt (§ 12.03).</li><li>A gathering of 3,000 or more people lasting 18 hours or more needs a county license, applied for at least 90 days ahead (§ 12.04).</li></ul>' },
+      { t: 'Ch. 14 and 15 · Building and septic', b: '<ul><li>Where a town has no building program of its own, the county enforces the state Uniform Dwelling Code for one- and two-family homes. Building or adding on usually needs a permit (§ 14.01 to 14.09).</li><li>Small jobs are exempt, including additions or decks under 100 square feet, re-roofing and re-siding (§ 14.01 to 14.09).</li><li>Installing or repairing a septic system needs a county sanitary permit (Ch. 15).</li><li>Septic systems are inspected, and tanks pumped, every three years unless the inspection shows they don\'t need it (Ch. 15).</li></ul>' },
+      { t: 'Ch. 16 · County forest and parks', b: '<ul><li>Picking berries, fruit and nuts is allowed. Firewood, boughs and Christmas trees need a permit, and commercial cutting needs a contract (§ 16.06).</li><li>Camping at developed sites needs a permit, with a limit of 14 days in a row (§ 16.06(17)).</li><li>Fires only in rings or grills at developed sites, and none on red flag days (§ 16.06(10)).</li><li>In developed areas, pets on an 8-foot leash (§ 16.06(14)).</li><li>15 mph in developed areas and 35 mph on unposted forest roads (§ 16.06(16)).</li><li>Forfeitures range from $50 to $20,000 (§ 16.08).</li></ul>' },
+      { t: 'Ch. 17 · Zoning and shorelands', b: '<ul><li>Shoreland zoning covers land within 1,000 feet of a navigable lake, pond or flowage, and within 300 feet of a navigable river or stream (§ 17.36(2)).</li><li>Buildings generally sit at least 75 feet back from the high-water mark (§ 17.36(6)).</li><li>The first 35 feet from shore are a vegetation buffer. Only a limited viewing and access corridor can be cleared (§ 17.36(7)).</li><li>Filling or grading more than 2,000 square feet needs a permit (§ 17.22).</li><li>A variance from the Board of Adjustment requires real hardship that the owner did not create (§ 17.03).</li></ul>' },
+      { t: 'Ch. 20, 21, 24 · Land and farms', b: '<ul><li>Gravel pits and quarries must be reclaimed, backed by a bond (Ch. 20).</li><li>Height limits apply around the Langlade County Airport (Ch. 21).</li><li>Manure storage facilities need a permit from the Land Conservation Department (Ch. 24).</li></ul>' },
+      { t: 'Ch. 23 and 25 · Appeals and penalties', b: '<ul><li>An appeal of a county decision is filed with the County Clerk within 30 days (§ 23.01).</li><li>Unless a chapter sets its own amount, a first violation means a forfeiture of $25 to $500 plus costs (§ 25.04).</li><li>Each day a violation continues counts as a separate one (§ 25.04).</li><li>Someone who doesn\'t pay can be jailed until it is paid, for no more than 90 days (§ 25.04).</li></ul>', l: ['county'] },
+      { t: 'All 25 chapters', b: '<p>1 General Government · 2 Public Records · 3 Taxation, Unclaimed Property and Donations · 6 Emergency Government · 7 Traffic Code · 8 Motorized Recreational Vehicles · 9 Peace and Order · 10 Human Health Hazards · 11 Public Nuisances and Public Health · 12 Licenses and Permits · 14 Uniform Dwelling Code · 15 Private Onsite Wastewater Treatment Systems · 16 Forest, Parks and Recreation · 17 Zoning · 18 Subdivision and Platting · 19 Soil and Water Conservation · 20 Nonmetallic Mining Reclamation · 21 Airport Zoning · 23 Administrative Appeals · 24 Manure Storage · 25 Construction and Effect of Ordinances.</p><p>Chapters 4, 5, 13 and 22 are reserved.</p>', l: ['county'] },
+    ]],
+    ['city', 'CITY OF ANTIGO', 'Inside the city limits, Antigo\'s own code applies on top of state law. Read the official text before relying on anything here.', [
+      { t: 'Where to read it', b: '<p>The City of Antigo\'s Code of Ordinances is published online through Municode.</p><p>Copies can also be seen at City Hall, 700 Edison Street.</p><p>The Wisconsin State Law Library keeps a list of where every Wisconsin city, village, town and county posts its ordinances.</p>', l: ['city', 'lawlib'] },
+      { t: 'Zoning: Chapter 14', b: '<p>Antigo\'s zoning code divides the city into districts. Each district has its own list of allowed uses.</p><ul><li><b>R-1</b> and <b>R-2</b> single-family residence</li><li><b>R-3</b> two-family residence</li><li><b>R-4</b> general residence</li><li><b>B-1</b> neighborhood shopping</li><li><b>B-2</b> community service</li><li><b>B-3</b> general commercial</li><li><b>B-4</b> central business</li><li><b>I-1</b> limited industrial and <b>I-2</b> general industrial</li><li><b>VP</b> valley plain</li><li>Floodplain and shoreland-wetland overlays</li></ul><p>The code also covers planned unit developments and supplemental rules.</p>', l: ['city'] },
+      { t: 'Dogs', b: '<p>State law requires dogs over five months old to be licensed and vaccinated against rabies (Wis. Stat. ch. 174, § 95.21).</p><p>In Antigo, the license comes from the city. The city\'s 2024 to 2025 newsletter listed the fee as $6 for spayed or neutered dogs and $16 for others.</p><p>Fees change, so check with City Hall.</p>' },
+      { t: 'Winter', b: '<p>The city announces a winter parking ban each year, so plows can clear the streets. Its dates and hours are in the city code, or you can ask the Antigo Police Department.</p><p>State law lets cities require owners or occupants to clear snow and ice from the public sidewalk in front of their property (Wis. Stat. § 66.0907(5)). Check Antigo\'s code for its deadline.</p>', l: ['city'] },
+      { t: 'ATVs and UTVs in town', b: '<p>The county\'s list of local ATV and UTV rules shows State Highways 64 and 45 closed to ATVs and UTVs inside the City of Antigo.</p><p>For other city streets, check the city code before riding.</p>', cite: 'Langlade County Code ch. 8, Addendum #2.', l: ['county', 'city'] },
+      { t: 'How city tickets work', b: '<p>A city ordinance violation is usually handled with a citation and a forfeiture, just like a county one.</p><p>If you get a citation, it will say which court the case goes to and when to appear or pay.</p>', cite: 'Wis. Stat. §§ 66.0113, 66.0114. Cities generally: Wis. Stat. ch. 62.' },
+    ]],
+    ['read', 'READING A CITE', 'Every rule here points to its source. Here\'s how to read the numbers, and where to look.', [
+      { t: 'Wis. Stat. § 990.01(3)', b: '<p>Chapter <b>990</b>, section <b>.01</b>, subsection <b>(3)</b> of the Wisconsin Statutes.</p><p>That one says an adult is a person who has reached 18.</p><p>"§" means section, and "§§" means sections.</p>', l: ['statutes'] },
+      { t: 'Wis. Admin. Code NR 115', b: '<p>A chapter of the Administrative Code. NR stands for the Department of Natural Resources. SPS stands for Safety and Professional Services, and DFI-CU for the credit union rules of the Department of Financial Institutions.</p>', l: ['admin'] },
+      { t: 'Langlade County Code § 16.06(10)', b: '<p>Chapter <b>16</b>, section <b>.06</b>, subsection <b>(10)</b> of the county code: fires in the county forest.</p><p>Counties and cities number their own codes, so § 14 in one place is not § 14 in another.</p>', l: ['county'] },
+      { t: '2025 Wisconsin Act 105', b: '<p>The 105th act enacted in the Legislature\'s 2025 to 2026 session.</p><p>An act is how a statute gets changed. This one raises the Wisconsin Consumer Act and small claims limits on January 1, 2027.</p>', l: ['statutes'] },
+      { t: 'Where to get help', b: '<ul><li>The Wisconsin State Law Library answers questions about finding the law.</li><li>The Antigo Public Library can help you start.</li><li>A lawyer can tell you what the law means for your own situation. A library, a game and a web page can\'t.</li></ul>', l: ['lawlib'] },
+    ]],
+  ];
+  const $ = id => document.getElementById(id);
+  let tab = 'fits', q = '';
+  const strip = h => h.replace(/<[^>]+>/g, ' ');
+  function drawTabs() {
+    $('tabs').innerHTML = SHELVES.map(([k, l]) => '<button class="tab" role="tab" aria-selected="' + (k === tab) + '" data-t="' + k + '">' + l + '</button>').join('') +
+      '<input id="search" type="search" placeholder="Search the shelf" aria-label="Search all shelves" value="' + q.replace(/"/g, '&quot;') + '">';
+    $('tabs').querySelectorAll('.tab').forEach(b => b.onclick = () => { tab = b.dataset.t; q = ''; history.replaceState(null, '', '#' + tab); draw(); });
+    $('search').oninput = e => { q = e.target.value; drawCards(); };
+  }
+  function card(c) {
+    return '<section class="card" tabindex="0"><h2>' + c.t + '</h2>' + c.b + (c.cite ? '<div class="cite">' + c.cite + '</div>' : '') +
+      (c.l ? '<div class="src">Official text: ' + c.l.map(link).join(' · ') + '</div>' : '') + '</section>';
+  }
+  function drawCards() {
+    const t = q.trim().toLowerCase();
+    let html;
+    if (t) {   // a search runs across every shelf
+      const hits = SHELVES.flatMap(([, label, , cards]) => cards.filter(c => (c.t + ' ' + strip(c.b) + ' ' + (c.cite || '')).toLowerCase().includes(t)).map(c => card({ ...c, t: c.t + ' <span style="color:var(--dim)">· ' + label + '</span>' })));
+      html = hits.length ? hits.join('') : '<p class="intro">Nothing on the shelves matches. Try another word.</p>';
+    } else {
+      const S = SHELVES.find(s => s[0] === tab) || SHELVES[0];
+      html = '<p class="intro">' + S[2] + '</p>' + S[3].map(card).join('');
+    }
+    $('grid').innerHTML = html;
+  }
+  function draw() { drawTabs(); drawCards(); const f = $('grid').querySelector('.card'); if (f && !document.activeElement.matches('input')) f.focus({ preventScroll: true }); }
+  addEventListener('keydown', e => {
+    if (e.key === 'Escape') { e.preventDefault(); try { parent.arcadeClose && parent.arcadeClose(); } catch (er) { } return; }
+    if (e.target.matches && e.target.matches('input')) return;
+    const cards = [...document.querySelectorAll('.card')]; if (!cards.length || !/^Arrow/.test(e.key)) return;
+    e.preventDefault(); const cur = cards.indexOf(document.activeElement.closest ? document.activeElement.closest('.card') : null);
+    if (cur < 0) { cards[0].focus(); return; }
+    const r = cards[cur].getBoundingClientRect(), cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+    const dir = { ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1] }[e.key];
+    let best = null, bd = 1e9;
+    for (const c of cards) { if (c === cards[cur]) continue; const s = c.getBoundingClientRect(), dx = s.left + s.width / 2 - cx, dy = s.top + s.height / 2 - cy;
+      if (dx * dir[0] + dy * dir[1] <= 4) continue; const d = Math.abs(dir[0] ? dx : dy) + 3 * Math.abs(dir[0] ? dy : dx); if (d < bd) { bd = d; best = c; } }
+    if (!best && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) {   // at the edge of the grid, left and right switch shelves
+      const i = SHELVES.findIndex(s => s[0] === tab), n = SHELVES.length; tab = SHELVES[(i + (e.key === 'ArrowRight' ? 1 : n - 1)) % n][0]; draw(); return; }
+    if (best) { best.focus(); best.scrollIntoView({ block: 'nearest' }); }
+  });
+  tab = SHELVES.some(s => s[0] === location.hash.slice(1)) ? location.hash.slice(1) : 'fits';
+  draw();
+</script>
+</body></html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<title>The Unwritten · rebuild · The Blessed Fig Tree, Antigo</title>
+<meta name="theme-color" content="#0b0b14">
+<link rel="icon" href="assets/icons/favicon.ico" sizes="any">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+  html,body{margin:0;height:100%;background:#0b0b14;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  canvas{image-rendering:pixelated;image-rendering:crisp-edges;touch-action:none}
+</style>
+</head>
+<body>
+<canvas id="game" width="320" height="240" aria-label="The Unwritten, a game set in Antigo, Wisconsin"></canvas>
+<!-- data -->
+<script src="js/data/town.js"></script>
+<script src="js/data/walkfix.js"></script>
+<script src="js/data/newbldgs.js"></script>
+<script src="js/data/lotfix.js"></script>
+<script src="js/data/fixq.js"></script>
+<script src="js/data/fixes/nw.js"></script>
+<script src="js/data/fixes/ne.js"></script>
+<script src="js/data/fixes/sw.js"></script>
+<script src="js/data/fixes/se.js"></script>
+<script src="js/data/fixes/user.js"></script>
+<script src="js/data/fixes/retail.js"></script>
+<script src="js/data/fixes/food.js"></script>
+<script src="js/data/fixes/gas.js"></script>
+<script src="js/data/fixes/dg.js"></script>
+<script src="js/data/fixes/ix_w.js"></script>
+<script src="js/data/fixes/ix_e.js"></script>
+<script src="js/data/fixes/kove.js"></script>
+<script src="js/data/fixes/hs.js"></script>
+<script src="js/data/fixmerge.js"></script>
+<script src="js/data/sidewalks.js"></script>
+<script src="js/data/trees.js"></script>
+<script src="js/data/terrain.js"></script>
+<script src="js/data/sheets.js"></script>
+<!-- core -->
+<script src="js/core/base.js"></script>
+<script src="js/core/town.js"></script>
+<script src="js/core/buildings.js"></script>
+<script src="js/core/kid.js"></script>
+<script src="js/core/npcs.js"></script>
+<script src="js/data/survey_facades.js"></script>
+<script src="js/data/kove_facade.js"></script>
+<script src="js/data/facades.js"></script>
+<script src="js/core/landmarks.js"></script>
+<script src="js/core/fuelcanopies.js"></script>
+<script src="js/core/play.js"></script>
+<script src="js/data/survey.js"></script>
+<script src="js/core/survey.js"></script>
+<script src="js/core/screens.js"></script>
+<script src="js/data/places.js"></script>
+<script src="js/core/mapplus.js"></script>
+<script src="js/data/furniture.js"></script>
+<script src="js/core/furniture.js"></script>
+<script src="js/data/cemeteries.js"></script>
+<script src="js/data/parking.js"></script>
+<script src="js/data/parked.js"></script>
+<script src="js/data/lotstalls.js"></script>
+<script src="js/data/fixstalls.js"></script>
+<script src="js/core/groundplus.js"></script>
+<script src="js/data/crops.js"></script>
+<script src="js/core/fields.js"></script>
+<script src="js/data/sports.js"></script>
+<script src="js/core/sports.js"></script>
+<script src="js/core/parksane.js"></script>
+<script src="js/core/sky.js"></script>
+<script src="js/core/life.js"></script>
+<script src="js/data/parkbits.js"></script>
+<script src="js/core/parkbits.js"></script>
+<script src="js/data/survey_street.js"></script>
+<script src="js/data/survey_places.js"></script>
+<script src="js/core/streetlife.js"></script>
+<script src="js/data/maplayers.js"></script>
+<script src="js/core/maplayers.js"></script>
+<script src="js/core/speed.js"></script>
+<script src="js/core/sprites.js"></script>
+<script src="js/core/folks.js"></script>
+<script src="js/core/arcade.js"></script>
+<script src="js/core/kayak.js"></script>
+<script src="js/core/almanac.js"></script>
+<script src="js/core/inside.js"></script>
+<script src="js/core/respawn.js"></script>
+<script src="js/core/overlay.js"></script>
+<script src="js/core/palace.js"></script>
+<script src="js/core/rooms.js"></script>
+<script src="js/data/menus.js"></script>
+<script src="js/core/money.js"></script>
+<script src="js/core/rooms2.js"></script>
+<script src="js/core/rooms_food.js"></script>
+<script src="js/core/rooms_retail.js"></script>
+<script src="js/core/rooms_biz.js"></script>
+<script src="js/core/rooms_homes.js"></script>
+<script src="js/core/rooms_civic.js"></script>
+<script src="js/core/rooms_out.js"></script>
+<script src="js/core/roomsweep.js"></script>
+<script src="js/core/kove.js"></script>
+<script src="js/core/shops.js"></script>
+<script src="js/core/games.js"></script>
+<script src="js/core/banks.js"></script>
+<script src="js/core/industry.js"></script>
+<script src="js/core/bars.js"></script>
+<script src="js/core/property.js"></script>
+<script src="js/core/museum.js"></script>
+<script src="js/core/discgolf.js"></script>
+<script src="js/core/courts.js"></script>
+<script src="js/core/krueger.js"></script>
+<script src="js/core/playgrounds.js"></script>
+<script src="js/core/quarry.js"></script>
+<script src="js/core/springbrook.js"></script>
+<script src="js/core/hospitalgrounds.js"></script>
+<script src="js/core/userspots.js"></script>
+<script src="js/core/brandsigns.js"></script>
+<script src="js/data/storebooks.js"></script>
+<script src="js/core/store.js"></script>
+<script src="js/battle/rules.js"></script>
+<script src="js/battle/data_core.js"></script>
+<script src="js/battle/data_foes.js"></script>
+<script src="js/battle/art_data.js"></script>
+<script src="js/battle/party.js"></script>
+<script src="js/battle/engine.js"></script>
+<script src="js/battle/command.js"></script>
+<script src="js/battle/view.js"></script>
+<script src="js/battle/menu.js"></script>
+<script src="js/battle/hooks.js"></script>
+<script src="js/battle/opening.js"></script>
+<!-- the skill tree: the schools -->
+<script src="js/edu/edu.js"></script>
+<script src="js/edu/study.js"></script>
+<script src="js/edu/figs.js"></script>
+<script src="js/edu/gen.js"></script>
+<script src="js/edu/content_math.js"></script>
+<script src="js/edu/content_ela.js"></script>
+<script src="js/edu/content_sci.js"></script>
+<script src="js/edu/civics.js"></script>
+<script src="js/edu/content_ss.js"></script>
+<script src="js/edu/content_more.js"></script>
+<script src="js/edu/schools.js"></script>
+<script src="js/edu/civic.js"></script>
+<script src="js/battle/summon.js"></script>
+<script src="js/core/daynight.js"></script>
+<script src="js/core/touch.js"></script>
+<script src="js/data/townfolk_data.js"></script>
+<script src="js/core/townfolk.js"></script>
+<script src="js/core/sweep.js"></script>
+<script src="js/core/sweep_ix_w.js"></script>
+<script src="js/core/sweep_ix_e.js"></script>
+<script>setMode(location.hash === '#almanac' ? 'almanac' : 'title');requestAnimationFrame(loop);</script>
+</body>
+</html>

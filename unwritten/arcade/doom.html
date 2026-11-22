@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Doom (Freedoom) — Respawn arcade</title>
+<style>html,body{margin:0;height:100%;background:#000}#game{width:100%;height:100%}#msg{position:absolute;top:45%;width:100%;text-align:center;color:#c8c8d0;font:15px system-ui,sans-serif}</style></head>
+<body><div id="game"></div><div id="msg">Loading Freedoom…</div>
+<script>
+  // The Doom engine (PrBoom, GPL) in EmulatorJS (GPL-3.0), playing Freedoom: Phase 1 (BSD). The WAD is stored deflated in
+  // freedoom/freedoom1.json and unpacked here; everything comes from this folder, no outside requests. See licenses.html.
+  (async () => {
+    const msg = document.getElementById('msg');
+    try {
+      const j = await (await fetch('freedoom/freedoom1.json')).json();
+      msg.textContent = 'Unpacking Freedoom…';
+      const s = atob(j.data), bin = new Uint8Array(s.length); for (let i = 0; i < s.length; i++) bin[i] = s.charCodeAt(i);
+      const wad = await new Response(new Blob([bin]).stream().pipeThrough(new DecompressionStream('deflate'))).arrayBuffer();
+      msg.remove();
+      Object.assign(window, { EJS_player: '#game', EJS_core: 'prboom', EJS_gameName: 'Freedoom Phase 1', EJS_gameUrl: new File([wad], 'freedoom1.wad'),
+        EJS_pathtodata: 'ejs/', EJS_color: '#8a2a2a', EJS_startOnLoaded: true, EJS_language: 'en-US' });
+      const sc = document.createElement('script'); sc.src = 'ejs/loader.js'; document.body.appendChild(sc);
+    } catch (e) { msg.textContent = 'Doom could not start in this browser.'; }
+  })();
+</script>
+</body></html>

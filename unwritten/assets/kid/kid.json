@@ -1,0 +1,42 @@
+{
+ "girl": {
+  "cw": 20,
+  "ch": 26,
+  "rows": [
+   "down",
+   "up",
+   "left",
+   "right"
+  ],
+  "frames": 5,
+  "poses": 25,
+  "pw": 48,
+  "ph": 32
+ },
+ "boy": {
+  "cw": 125,
+  "ch": 211,
+  "frames": 4,
+  "scale": 8,
+  "rows": [
+   "down",
+   "up",
+   "left",
+   "right"
+  ],
+  "poses": 8,
+  "pw": 170,
+  "ph": 248,
+  "poses_order": [
+   "idle",
+   "hurt",
+   "kneel",
+   "collapsed",
+   "cheer",
+   "cast",
+   "use item",
+   "read"
+  ],
+  "kept_as_drawn": true
+ }
+}
