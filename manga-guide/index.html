@@ -162,14 +162,13 @@ const save = () => { try { localStorage.setItem('mwg-state2', JSON.stringify(sta
 
 const GRADES = ['S','A','B','C','D','F'];
 const GRADE_TEXT = {S:['Excellent fit','Affirms core values, little to raise'],A:['Strong fit','A few small concerns'],B:['Good with talk','Some things to discuss'],C:['Mixed','Real concerns alongside good themes'],D:['Serious concerns','Many would wait or read together'],F:['Conflicts','At odds with core teaching throughout']};
-const CHRISTIAN = ['Catholic','Eastern Orthodox','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Reformed / Presbyterian','Lutheran','Methodist / Wesleyan','Anglican / Episcopal','Anabaptist (Mennonite, Amish, Brethren)','Latter-day Saint','Mainline progressive Protestant'];
-const GROUPS = [['Christian', ['Christian (any)', ...CHRISTIAN]], ['Other faiths', ['Jewish','Muslim','Hindu','Buddhist']], ['Worldview', ['Conservative / traditional','Secular progressive','Secular humanist']]];
-const PILLS = ['Christian (any)','Catholic','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Eastern Orthodox','Jewish','Muslim','Conservative / traditional','Secular progressive'];
+let CHRISTIAN = [], GROUPS = [];
+function setGroups(g) { CHRISTIAN = g[0][1]; GROUPS = g.map(([n, items], i) => [n, i === 0 ? ['Christian (any)', ...items] : items]); }
+const PILLS = ['Christian (any)','Catholic','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Eastern Orthodox','Orthodox Jewish','Muslim','Conservative / traditional','Secular progressive'];
 
 function provisional(f, overall) {
   if (f.grade) return {g: f.grade, prov: false};
-  const o = overall ?? 5;
-  const g = f.weight === 'Minor' ? (o <= 5 ? 'A' : 'B') : f.weight === 'Discuss' ? (o <= 6 ? 'B' : 'C') : f.weight === 'Significant' ? 'D' : null;
+  const g = f.weight === 'Minor' ? 'A' : f.weight === 'Discuss' ? 'B' : f.weight === 'Significant' ? 'C' : null;
   return {g, prov: true};
 }
 function fitFor(e, p) {
@@ -231,7 +230,7 @@ function viewStart() {
     <h1>Find manga that fit your family.</h1>
     <label class="iam" for="profile"><span>I'm</span>${profileSelect('profile', p)}</label>
     <div class="pills" role="group" aria-label="Quick pick">${PILLS.map(v=>`<button type="button" class="pill" data-p="${esc(v)}" aria-pressed="${v===p}">${esc(v)}</button>`).join('')}</div>
-    <p class="lede">Each series gets a grade from S to F the way your tradition would see it, based on its own teaching. ${any ? 'For "Christian (any)" we show the middle grade across twelve Christian traditions and the range where they differ.' : ''} Descriptions are the same for every family. Only the grades and the order change.</p></section>
+    <p class="lede">Each series gets a grade from S to F the way your tradition would see it, based on its own teaching. ${any ? 'For "Christian (any)" we show the middle grade across ${CHRISTIAN.length} Christian traditions and the range where they differ.' : ''} Descriptions are the same for every family. Only the grades and the order change.</p></section>
     <div class="legend" aria-label="What the grades mean">${GRADES.map(g=>`<div>${gradeTile(g,false,'sm')}<span><b>${GRADE_TEXT[g][0]}</b>${GRADE_TEXT[g][1]}</span></div>`).join('')}</div>
     ${genreBar(pool)}
     <div class="controls"><label for="maxint">Content intensity at most<select id="maxint">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxInt)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
@@ -239,7 +238,7 @@ function viewStart() {
     ${GRADES.map(g=>{ const grp = list.filter(x=>x.fit.g===g); if (!grp.length) return ''; return `<section class="stack" style="gap:4px"><div class="groupHead">${gradeTile(g,false)}<h2>${GRADE_TEXT[g][0]} <span class="count">${grp.length}</span></h2></div>
       <div class="list">${grp.map(({s,fit})=>row(s, gradeTile(fit.g, fit.prov, 'lg'),
         `<div class="why"><span><b>What fits:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>`,
-        `${fit.range?`<span class="chip">Range across ${fit.n} traditions: ${fit.range}</span>`:''}${fit.prov?'<span class="chip" title="Worked out from the tradition\'s concern level and content intensity until the entry is graded directly.">Provisional grade</span>':''}${fit.f.legacy?`<span class="chip" title="This entry has one shared row for Evangelical and Pentecostal families. A separate row is coming.">${esc(fit.f.frame)}: shared row</span>`:''}`)).join('')}</div></section>`; }).join('') || '<p class="empty">No graded series match. Raise the intensity limit.</p>'}
+        `${fit.range?`<span class="chip">Range across ${fit.n} traditions: ${fit.range}</span>`:''}${fit.prov?'<span class="chip" title="Worked out from the tradition\'s depiction concern until the entry is graded directly.">Provisional grade</span>':''}${fit.f.legacy?`<span class="chip" title="This entry has one shared row for Evangelical and Pentecostal families. A separate row is coming.">${esc(fit.f.frame)}: shared row</span>`:''}`)).join('')}</div></section>`; }).join('') || '<p class="empty">No graded series match. Raise the intensity limit.</p>'}
     <p class="note">Grades describe how each tradition's own teaching would usually weigh a series. They are not the site's judgement. Grades marked with a dashed border are provisional until the full entry is graded. <a href="#method">How we grade</a></p></div>`;
 }
 
@@ -295,8 +294,8 @@ function viewSeries(s) {
       <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div></div>`;
     if (e.life_message) h += `<div class="stack" style="gap:6px"><span class="eyebrow">What it holds up as a good life</span><p class="message">${esc(e.life_message)}</p></div>`;
     h += `<div class="banner">${e.quick?'Quick read built from Wikipedia and database tags.':'Built from summaries, databases and reviews.'} No pages have been read yet, so grades may change after a full read. Confidence: <strong>${esc(e.confidence)}</strong>.${(e.understated||[]).length?`<br><strong>Intensity may be understated.</strong> ${e.understated.map(esc).join('; ')}. Treat the intensity scores below as a minimum until checked.`:''}</div>
-      <section class="panel"><h2>Grades by tradition</h2><div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
-      ${e.frames.map(f=>{ const g = provisional(f, e.overall); return `<tr><td>${esc(f.frame)}</td><td>${gradeTile(g.g, g.prov, 'sm')}</td><td>${esc(f.aligns)}</td><td>${esc(f.concerns)}</td></tr>`; }).join('')}</tbody></table></div>
+      <section class="panel"><h2>Grades by tradition</h2><div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>Depiction concern</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
+      ${e.frames.map(f=>{ const g = provisional(f, e.overall); return `<tr><td>${esc(f.frame)}${f.legacy?'<div class="note" style="font-size:.8rem">Older combined grade</div>':''}</td><td>${gradeTile(g.g, g.prov, 'sm')}</td><td>${esc(f.weight||'')}</td><td>${esc(f.aligns)}</td><td>${esc(f.concerns)}</td></tr>`; }).join('')}</tbody></table></div>
       <p class="note">Traditions not listed here have not been graded for this series yet.</p></section>
       <div class="grid2"><section class="panel"><h2>How intense is it?</h2><p class="note">0 means none and 10 means extreme. A higher number means more of it, not better or worse.</p>
       <div class="scroll"><table><tbody>${e.content.map(c=>`<tr><td>${esc(c.category)}<div class="note" style="font-size:.84rem">${esc(c.framing)}</div></td><td class="num">${meter(c.score)}</td></tr>`).join('')}</tbody></table></div></section>
@@ -331,7 +330,7 @@ function viewMethod() {
   <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order.</p>
   <h2>The S to F grade</h2><p>Each analyzed series is read from inside each tradition using that tradition's own teaching, such as the Catechism for Catholics, the Baptist Faith and Message for many Baptists, or the Five Precepts for Buddhists.</p>
   <ul>${GRADES.map(g=>`<li><strong>${g}: ${GRADE_TEXT[g][0]}.</strong> ${GRADE_TEXT[g][1]}.</li>`).join('')}</ul>
-  <p>A grade with a dashed border is provisional. It is worked out from the tradition's concern level and the content intensity until the entry is graded directly.</p>
+  <p>The grade is about the message: how well what the series holds up as good fits the tradition's teaching, including its own teaching on art and stories. It is not lowered just because a series is intense. What is shown on the page is rated separately as a <strong>depiction concern</strong> for each tradition: Minor (little to raise), Discuss (worth talking through) or Significant (many families would hold off or read together).</p><p>A grade with a dashed border is provisional. It is worked out from the depiction concern until the entry is graded directly. A row marked "Older combined grade" was written before the tradition was split into branches and will be re-graded.</p>
   <h2>Intensity</h2><p>Content intensity runs from 0 (none) to 10 (extreme) for violence, fear, sexual content, language, substances, mental health, imitable behavior and commercialism. A higher number means more of it, not a better or worse book.</p>
   <h2>Philosophies</h2><p>Each series is checked against more than thirty worldviews and philosophies, from Christian and Buddhist to Stoicism, Utilitarianism, Pragmatism and Nihilism. Closeness runs from S (strongly affirmed) to F (strongly critiqued).</p>
   <h2>What each label means</h2><ul><li><strong>Not analyzed yet.</strong> English publisher, creators and content tags from AniList, MangaUpdates and MangaDex only.</li>
@@ -369,7 +368,7 @@ function bind() {
   document.querySelectorAll('.pill[data-p]').forEach(b=>b.addEventListener('click',()=>{ state.profile=b.dataset.p; save(); render(); }));
 }
 window.addEventListener('hashchange', ()=>{ render(); window.scrollTo(0,0); });
-fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ D=d; if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
+fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ D=d; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
   $('#foot').innerHTML = `Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
