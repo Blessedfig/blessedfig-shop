@@ -62,11 +62,15 @@ FIG_FLOORS.myroom = { name: 'YOUR ROOM', place: 'HOME', rows: [
     for (let i = 0; i < 3; i++) R(ox + 9 * IT + 4 + i * 6, oy + 3 * IT + 10, 4, 8, ['#c8c8d0', '#a8a8b8', '#d8d0c0'][i]);
     R(ox + 9 * IT + 8, oy + 4 * IT + 2, 8, 14, '#3a3a44'); R(ox + 9 * IT + 4, oy + 4 * IT, 16, 4, '#4a4a54');
     R(ox + 9 * IT + 3, oy + 5 * IT + 2, IT - 6, IT - 4, '#3a2a5a'); R(ox + 9 * IT + 8, oy + 5 * IT + 6, 8, 10, '#c8a040');
-    R(ox + 4 * IT + 2, oy + 6 * IT + IT - 4, IT - 4, 4, '#4a4a3a');   // the door's sill
+    // the door, behind you: a dark panel with the plain hallway light leaking around it, so you can find the way out
+    R(ox + 4 * IT + 1, oy + 6 * IT + 1, IT - 2, IT - 2, '#3a3040'); R(ox + 4 * IT + 3, oy + 6 * IT + 3, IT - 6, IT - 6, '#2a2232');
+    R(ox + 4 * IT + IT - 7, oy + 6 * IT + IT / 2 - 1, 3, 3, '#c8b070');   // the handle
+    R(ox + 4 * IT + 1, oy + 6 * IT + IT - 3, IT - 2, 2, 'rgba(240,226,170,' + (0.55 + 0.2 * glow) + ')');   // light under the door
     // the glow, washing over everything, and the dark at the edges
     const g = ctx.createRadialGradient(ox + 4.5 * IT, oy - IT / 2, 10, ox + 4.5 * IT, oy - IT / 2, 9 * IT);
     g.addColorStop(0, 'rgba(90,150,255,' + (0.22 * glow) + ')'); g.addColorStop(0.5, 'rgba(40,60,140,.08)'); g.addColorStop(1, 'rgba(0,0,0,.55)');
     ctx.fillStyle = g; ctx.fillRect(ox - 4, oy - 2 * IT - 2, W * IT + 8, H * IT + 2 * IT + 6);
+    R(ox + 4 * IT + 1, oy + 6 * IT + IT - 3, IT - 2, 2, 'rgba(240,226,170,' + (0.5 + 0.2 * glow) + ')');   // the hallway light stays bright through the dark
   },
 };
 // ---------- NEW GAME ----------

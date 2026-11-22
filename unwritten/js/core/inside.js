@@ -136,7 +136,8 @@ MODES.inside = {
     R(0, 0, SW, SH, '#0b0b14');
     const kx = G.inside.x + P.mx * P.t, ky = G.inside.y + P.my * P.t;
     const ox = Math.round((SW - FW * IT) / 2), oy = Math.round(Math.max(SH - IT - FH * IT, Math.min(2 * IT + 26, SH / 2 - ky * IT - IT / 2)));
-    if (fl.paint) fl.paint(ox, oy, kx, ky); else {
+    // painted rooms (your room) draw their own art: the player still has to be drawn on top, or you can't see yourself move (Nov 22 fix)
+    if (fl.paint) { fl.paint(ox, oy, kx, ky); drawKid(G.kid, Math.round(ox + kx * IT), Math.round(oy + ky * IT), G.dir, P.t > 0, IT); } else {
     // the back wall, two tiles tall, with the floor's own finish
     const wallCol = st === 'carpet' ? '#e4e0d6' : st ? '#d8d8d2' : base ? '#5a5650' : up ? '#c8b896' : '#d6c6a4';
     F(wallCol, ox, oy - 2 * IT, FW * IT, 2 * IT); for (let y = oy - 2 * IT + 2; y < oy; y += 4) F(base ? '#4a4640' : '#bfae8a', ox, y, FW * IT, 1);
