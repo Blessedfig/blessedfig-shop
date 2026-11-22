@@ -152,6 +152,21 @@ Dominant lenses: Classical virtue ethics, Secular humanism, Communitarianism (fa
 
 **Profile notes for parents:** The series leans heavily on care and loyalty: protect the child, protect the family, protect the peace. It is light on sanctity and has no explicit faith content. The main tension a parent may want to discuss is that the heroes lie and kill, and the story mostly treats this as a job rather than a sin.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 3 | Insult and grievance are rarely answered by personal vendetta. Henry's "elegance" (Mission 97) and his protest through words, not force (Mission 99), are honored. Yor's violence is framed as protecting others (cruise arc, Missions 43-57), not defending her name. Billy Squire's revenge is turned back by Anya's appeal (bus arc, vol. 11). |
+| Order vs freedom | 4 | Duty, discipline and school effort are honored (Anya's Stella stars; Loid's self-control, Mission 62). State order is shown as both protective (Yuri's raid frees the hostages, vol. 11) and oppressive (Henry's arrest, Mission 99; secret police). |
+| Civic vs kin | 6 | The chosen family comes first in daily life, and the Forgers protect each other above all. Loid's mission is for all children, not his own (Mission 62), and Henry chooses to teach so education can prevent war (Mission 97). |
+| Equality vs hierarchy | 5 | Eden's ranks (Stella Stars, Tonitrus Bolts) and respect for teachers are shown with some approval; old-money privilege and a munitions family shielded from discipline (Mission 97) are critiqued; Henry is forced out by a false bribery claim (Mission 124). |
+| Tradition vs secular-rational | 7 | No faith shapes the plot; Plugged In reports "no elements of faith." Human care and reason solve problems; the schoolhouse "ghost" turns out to be a person (Mission 124). The nuclear-family form stays the goal, reached by an untraditional route. |
+| Survival vs self-expression | 6 | Peace so children can grow up without war is the stated aim (Mission 62); warmth, food and home life carry the comedy. War memory (Missions 62, 99) keeps security in view. Domestic role swaps (Loid cooks; Yor fights) are treated with ease. |
+
+Closest clusters: Catholic Europe; Yankeedom; New France
+
+Japanese source culture: The school-rank system, respect for teachers and the comedy of keeping up appearances for the group (the Eden interview, vol. 1) echo Japanese school and workplace norms rather than the story's own message, which is set in a fictional Cold War Europe.
+
 ## Philosophy essay
 
 **The central question.** Can a family built on lies become a real family? Each Forger joins for a selfish reason. Loid needs cover. Yor needs a partner so that coworkers and her brother stop asking questions. Anya needs a home. The story keeps asking whether love that starts as a role can become true. The author has said the family theme was not his first aim, which makes its growth across the series notable in itself.
