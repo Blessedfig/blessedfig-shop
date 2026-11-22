@@ -152,6 +152,21 @@ Dominant lenses: Existentialism, Nihilism (explored, not affirmed), Absurdism, D
 
 **Profile notes for parents:** This is literary adult fiction about depression and trauma. It carries no ideology to recruit readers to, but its bleakness is the point, and the scenes of suicide and abuse are heavy. Families who read it with an older teen or adult usually discuss mental health, abuse and consent, and where help can be found.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 2 | No act of revenge or defense of honor is celebrated: Punpun's killing of Mitsuko (ch. ~113-114) leads only to flight and loss, and Asano says he does not think Punpun is a "good person." |
+| Order vs freedom | 6 | No institution rescues anyone, and Asano's frame is pluralist: "the world has many different values, but none of them are 'right.'" The story neither celebrates rules nor romanticizes freedom; the Kagoshima escape fails. |
+| Civic vs kin | 4 | Families are broken (father's assault, Aiko's cult stepmother, Midori's abuse, ch. 50). What helps is a friend who intervenes (Sachi stops Punpun's suicide attempt) and a mother's late apology. |
+| Equality vs hierarchy | 3 | Adult power over children is the main form of power, and it is shown as harmful (Socio-cultural lens). No leader or elder is held up for deference. |
+| Tradition vs secular-rational | 7 | Religion appears as a comic inner "God" voice and as cults that fail to save (Aiko's stepmother; Pegasus's group). The ending rests on ordinary secular survival: a job, time, a few ties. |
+| Survival vs self-expression | 5 | The ending values plain survival and work, but Sachi's creative ambition and the story's tolerance for many values pull toward self-expression. |
+
+Closest clusters: Catholic Europe; The Midlands; Yankeedom
+
+Japanese source culture: The pressure to appear normal, social withdrawal, silence about family violence and the I-novel tradition of confession are Japanese context the essay notes; the story criticizes these more than it endorses them.
+
 ## Philosophy essay
 
 **The central question.** Can a person who was hurt as a child, and who hurts others in turn, still have a life worth living? Punpun is not a hero. He is passive, lies, abandons a friend and kills someone. The story asks whether he deserves to live, and whether living is even a mercy.

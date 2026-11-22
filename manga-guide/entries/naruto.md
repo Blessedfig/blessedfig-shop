@@ -162,6 +162,21 @@ Dominant lenses: **Communitarianism (village and "Will of Fire"), Dharmic (Buddh
 
 **Profile notes for parents:** The series centers loyalty and care: friends, teachers and the village come first. It treats revenge and war as the main evils and offers forgiveness as the answer. Its spirituality is a fantasy blend of Shinto and Buddhist imagery rather than a teaching of any one faith.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 4 | The cycle of revenge is the central problem; Naruto refuses revenge on Pain (ch. 443-453) and refuses to kill Sasuke (ch. 694-699). Winning recognition through effort and keeping one's word are still honored. |
+| Order vs freedom | 3 | Loyalty to the village, respect for teachers and sacrifice for the community are presented as right (Socio-cultural lens). Secret authoritarian rule is critiqued (Danzo, ch. 481; the Uchiha massacre order, ch. 224-225). |
+| Civic vs kin | 4 | The village comes before the clan: the Uchiha coup is the tragedy Itachi stops (vol. 43). Bloodlines still carry inherited powers, and the ending settles the cast into families (ch. 700). |
+| Equality vs hierarchy | 7 | Becoming Hokage is the dream (ch. 700); teachers and the Hokage line are honored, and ninja ranks structure life. Hidden heritage and bloodline decide much of the outcome (Pragmatic lens). |
+| Tradition vs secular-rational | 4 | Shinto deity names and Buddhist ideas (the Sage of Six Paths, ch. 671; reincarnated souls) shape the world, though no one prays. The ending shifts toward destiny and myth (Shifts). |
+| Survival vs self-expression | 4 | War and sacrifice for the village dominate Part II. Naruto's drive to be acknowledged, and the peace he wins, give some place to self-expression. |
+
+Closest clusters: Puritan; Tidewater; Orthodox Europe
+
+Japanese source culture: Group loyalty, respect for teachers (sensei and senpai-kohai bonds), duty to the village and the conservative gender roles of the ending reflect postwar Japanese norms; Kishimoto's "war is never the right answer," credited to his grandfather, reflects Japan's postwar pacifism.
+
 ## Philosophy essay
 
 **The central question.** Can the cycle of hatred be broken? Nearly every major conflict in *Naruto* begins with a loss. A child is orphaned, a clan is wiped out, a village is burned. The survivors take revenge, and their victims' children do the same. The story asks whether anyone can step out of that chain. It also asks a personal version: can someone who was rejected by everyone become someone everyone trusts?

@@ -155,6 +155,21 @@ Dominant lenses: Existentialism, Classical virtue ethics, Absurdism, Might makes
 
 **Profile notes for parents:** One-Punch Man is a comedy and a superhero satire first. Its message is that doing good matters more than winning or being seen. Its content issues are frequent gore, recurring fan service (notably Tatsumaki, who looks young), and a gay character used partly as a joke. Religion barely appears.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 3 | Saitama gives up credit and takes the blame in the rain (Deep Sea King arc, ch. 21-29); doing good without praise is the life message. Genos's revenge is softened by loyalty. |
+| Order vs freedom | 6 | Institutions are mocked but not abolished: the Hero Association is bureaucratic and image-driven yet organizes defense (Pragmatic lens). Saitama does good on his own terms. |
+| Civic vs kin | 3 | Heroes help whoever is in danger; family barely appears. The outsider Garou's grievance against a system that needs villains is taken seriously (Garou arc). |
+| Equality vs hierarchy | 2 | The ranking system is the main satire: status-seeking heroes are exposed in crises, and the weakest C-class hero, Mumen Rider, is honored for courage (ch. 26-28). |
+| Tradition vs secular-rational | 7 | Mostly secular; a being called "God" who grants power for loyalty is a cosmic threat (Online Punch 162-168). Training routine and ordinary effort explain strength. |
+| Survival vs self-expression | 6 | Meaning comes from small, ordinary goods: groceries on sale, meals with friends (Philosophy essay). Saitama's boredom after winning is an existential, self-expression question rather than a survival one. |
+
+Closest clusters: The Midlands; Catholic Europe; English-speaking
+
+Japanese source culture: Rankings, sponsorship and the salaryman background (Saitama as a failed job-seeker) satirize Japanese corporate and celebrity culture; the humility of doing good without credit echoes Japanese ideals of modesty as much as the story's own message.
+
 ## Philosophy essay
 
 **The central question.** What is left when you have already won? Saitama trained, got what he wanted, and found that it did not make him happy. The series asks what meaning, purpose and heroism look like for someone with nothing left to prove.

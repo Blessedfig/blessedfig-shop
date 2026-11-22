@@ -312,7 +312,7 @@ function viewValues() {
   <p class="note">This is a common starting point for families with this heritage, not a description of yours. Adjust it, or take the quiz.</p></section>` : ''}
   <p class="note">Or <a href="#start">skip this</a>. The rest of the guide works without it.</p>
   ${VALS ? `<section class="panel" id="valres"><h2>Your values profile${VALS.label?`: ${esc(VALS.label)}`:''}</h2><div class="scroll"><table><tbody>${D.dims.map((d,i)=>dimBar(d, VALS.pos[i])).join('')}</tbody></table></div>
-    ${VALS.heritage?'<p class="note">This is a common starting point for families with this heritage, not a description of yours. Adjust it, or take the quiz.</p>':''}<h3>${VALS.suggest?'Suggested starting clusters':'Closest clusters'}</h3><ul>${res.map(({c})=>`<li><strong>${esc(c.name)}</strong> <span class="note">(${esc(c.group)})</span>: ${esc(c.values)}</li>`).join('')}</ul>
+    ${VALS.heritage?'<p class="note">This is a common starting point for families with this heritage, not a description of yours. Adjust it, or take the quiz.</p>':''}<h3>${VALS.suggest?'Suggested starting clusters':'Closest clusters'}</h3><ul>${res.map(({c,d})=>`<li><strong>${esc(c.name)}</strong> <span class="note">(${esc(c.group)})</span>${d!=null&&d>3.5?' <span class="chip" title="Your answers sit some way from every cluster">weak match</span>':''}: ${esc(c.values)}</li>`).join('')}</ul>
     <p class="note">A suggestion only. Cluster positions are drafts from ${[...new Set(res.map(r=>r.c.source))].map(esc).join('; ')}, still being checked.</p>
     <p>${VALS_SAVED ? '<button id="valclear" class="pill">Forget my answers on this device</button>' : '<button id="valsave" class="pill">Save on this device</button>'}</p></section>
     <section class="panel"><h2>Series closest to your values</h2>${close.length ? `<div class="list">${close.slice(0,30).map(({s,d})=>row(s, `<span class="grade lg" title="Distance">${(10 - Math.min(10, d/ Math.sqrt(6))).toFixed(1)}</span>`, '')).join('')}</div><p class="note">The number is closeness from 0 to 10. It describes, it does not recommend.</p>` : '<p class="note">Series are still being placed on these values. Check back as entries are added.</p>'}</section>` : ''}
@@ -324,7 +324,7 @@ function folkwaysPanel(e) {
   const f = e.folkways; if (!f) return '';
   return `<section class="panel"><h2>Folkways and cultural values</h2><p class="note">Where the story's everyday values sit, 0 to 10 between the two words. A description, not a judgment.</p>
   <div class="scroll"><table><tbody>${D.dims.filter(d=>f.dims[d]).map(d=>dimBar(d, f.dims[d].pos).replace('</tr>', `</tr><tr><td colspan="3" class="note" style="font-size:.84rem">${esc(f.dims[d].evidence)}</td></tr>`)).join('')}</tbody></table></div>
-  ${f.closest.length?`<p><strong>Closest clusters:</strong> ${f.closest.map(esc).join(', ')}. <a href="#values">Compare with your family</a></p>`:''}
+  ${f.closest.length?`<p><strong>Closest clusters:</strong> ${f.closest.map(n=>{ const c=(D.clusters||[]).find(x=>x.name===n); const pos=D.dims.map(d=>f.dims[d]?.pos ?? 5); const d=c?dist(pos,c.pos):0; return esc(n)+(d>3.5?' <span class="chip" title="The story sits some way from this cluster">weak match</span>':''); }).join(', ')}. <a href="#values">Compare with your family</a></p>`:''}
   ${f.japan?`<p class="note"><strong>Japanese source culture:</strong> ${esc(f.japan)}</p>`:''}</section>`;
 }
 

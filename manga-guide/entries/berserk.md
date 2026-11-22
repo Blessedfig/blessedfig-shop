@@ -160,6 +160,21 @@ Dominant lenses: Existentialism, Might makes right (critiqued), Pagan/occult (ex
 
 **Profile notes for parents:** The series is about betrayal, trauma and the will to keep going. Its religion is shown mainly as a cruel institution, while witchcraft is shown as healing. The publisher rates it 18+. The sexual violence, including the abuse of Guts as a child and the rape of Casca in vol. 13, is the main reason most families and guides treat it as adult reading, more than the gore.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 7 | Guts's blood vow against Griffith after the Eclipse (v12-13) drives the story, and Zodd's warrior honor is admired. The story also shows his rage as dangerous (the "Beast," v23) and gives most hope to his turn from revenge to protecting others (v35-41), which keeps the position below the top. |
+| Order vs freedom | 8 | Institutions are corrupt or helpless: noble courts, the Holy See's Inquisition under Mozgus (Conviction arc, v16-21). Guts lives as a lone mercenary, then with a small free band; no state or church is shown as a source of good order. |
+| Civic vs kin | 8 | Loyalty runs to a small chosen band: the Hawks, then Casca, Farnese, Schierke and Isidro. Griffith's crime is betraying that band for personal gain (the Eclipse, v12-13). Wider society barely appears as an object of loyalty. |
+| Equality vs hierarchy | 4 | Noble rank is shown as cruel (rape and torture by nobles; peasants and refugees suffer). Following a leader's dream ends in the Band's sacrifice. Zodd and the Skull Knight are respected for strength, not title. |
+| Tradition vs secular-rational | 5 | Organized religion appears mostly as persecution (Mozgus, v16-21), but nature-based witchcraft is shown as wisdom (Flora, Schierke) and fate and causality frame the world (ep. 83). Neither faith nor secular reason is the story's guide. |
+| Survival vs self-expression | 2 | A world of war, plague and constant random death; strength, skill and willpower keep you alive (Pragmatic lens). The good the story offers is survival and protecting companions, not self-fulfillment. |
+
+Closest clusters: Borderer; El Norte; Greater Appalachia
+
+Japanese source culture: The setting is a Japanese reworking of medieval Europe, so its honor code is not a direct mirror of Japanese norms; the master-and-retainer bond inside the Band of the Hawk and the ideas of fate and causality the essay notes echo Japanese storytelling more than the story's own message.
+
 ## Philosophy essay
 
 **The central question.** Can a person keep their humanity in a world where cruelty is rewarded and fate seems fixed? Berserk asks it through two friends. One keeps fighting. The other gives up everyone he loves to reach his dream.

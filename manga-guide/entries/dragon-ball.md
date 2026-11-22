@@ -151,6 +151,21 @@ Dominant lenses: Classical virtue ethics, Might makes right (critiqued in villai
 
 **Profile notes for parents:** The series is less about ideas than about effort, friendship and spectacle. Its content concerns sit in two places: early-volume sexual gags and nudity (volumes 1-16, VIZ *Dragon Ball*, rated 13+) and heavy fantasy violence with mass death (volumes 17-42, VIZ *Dragon Ball Z*). Which English edition you hold changes what you see; secular guides put the manga and anime at 10+.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 6 | Martial pride and the tournament code of honor run through the series; Vegeta's bloodline pride drives his arc. The story also honors mercy (sparing Frieza) and Vegeta's turn from pride to self-sacrifice (ch. 467). |
+| Order vs freedom | 8 | Goku fights for the joy of it and does not seek command; each arc's hero is stronger but chooses not to rule (Philosophy essay). Gods are bureaucrats and mentors, not lawgivers, and Goku leaves home to train Uub (ch. 517-519). |
+| Civic vs kin | 6 | Goku protects Earth because his friends live there. Former enemies join the circle (Piccolo, Vegeta, Buu). Family is present but often secondary to friends and training. |
+| Equality vs hierarchy | 4 | Tyrants who want to own others are destroyed (Frieza, Cell, Kid Buu). Rank exists among fighters and gods (Kais, Supreme Kai), but strength is earned by training, and rivals are welcomed as equals. |
+| Tradition vs secular-rational | 5 | A Buddhist, Taoist and folk cosmology (King Yama, Kami, halos) is setting, not worship; Toriyama said he did not think deeply about it. Capsule Corp technology and whatever works solve problems (Pragmatic lens). |
+| Survival vs self-expression | 7 | Joyful striving is the life message: train, enjoy the fight, food and friends. Death is often reversible through the Dragon Balls, so security fears weigh lightly. |
+
+Closest clusters: El Norte; The Far West; English-speaking
+
+Japanese source culture: The Jump formula of friendship, effort and victory, the master-and-disciple training model (Roshi, Kami) and the folk cosmology borrowed from Chinese and Japanese Buddhism reflect Japanese boys' manga norms of the 1980s and 1990s rather than the story's own argument.
+
 ## Philosophy essay
 
 **The central question.** What makes someone strong, and what is strength for? *Dragon Ball* begins as a comic treasure hunt and becomes a long study of power. Each arc asks whether the strongest being should rule, and each answer is a hero who is stronger but chooses not to rule.

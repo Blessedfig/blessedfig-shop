@@ -155,6 +155,21 @@ Dominant lenses: Existentialism (self-creation), Expressive individualism, Pragm
 
 **Profile notes for parents:** Blue Lock is mild in violence and sexuality (some shoving, brief locker-room nudity), but the English manga uses the f-word often (School Library Journal lists it 16+; Common Sense Media rates the anime 13+). Its weight is in its message: it tells young athletes that being selfish and egotistic is how you become great, which is close to the opposite of most coaching advice and of many religious teachings on humility. It is a good opening for talking about ambition, pride, teamwork and how to treat those who lose.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 5 | Pride and the hunger to "devour" rivals are honored, and Rin's rage at Sae (ch. 115 onward) fuels his game. But disputes are settled on the pitch under the rules, and Kuon's cheating is condemned (First Selection, ch. 18-25). |
+| Order vs freedom | 7 | The story celebrates the individual striker over team harmony (Ego's founding speech, ch. 1-3). Ego himself is an authoritarian figure inside a locked facility, so freedom is pursued through a harsh, rule-bound program. |
+| Civic vs kin | 3 | Loyalty goes neither to family nor clan: kin ties appear mostly as wounds (the Itoshi brothers) and friendship is secondary to ego (Nagi leaves Reo, Second Selection). The program's goal is a national team, not a family. |
+| Equality vs hierarchy | 6 | Rank is everywhere (ranking screens, NEL bids, "emperor" and "god" titles, ch. 155 onward), but it is earned by results. Seniority and the football association's bureaucracy are critiqued. |
+| Tradition vs secular-rational | 8 | No faith appears. Isagi grows through analysis, "formulas" and copying what works (Pragmatic lens). Traditional Japanese team harmony is presented as the cause of failure (ch. 1). |
+| Survival vs self-expression | 6 | The life message is "find what only you can do and pursue it without apology," a strong self-expression value. The setting is a survival contest with lifetime bans for losers (ch. 1-3), which keeps it near the middle. |
+
+Closest clusters: New Netherland; Catholic Europe; Yankeedom
+
+Japanese source culture: The series is an argument with Japanese norms; Kaneshiro says frustration with Japanese society shaped the focus on ego. Team harmony (wa), seniority and self-effacement are the values it pushes against, so readers from more individualist cultures may find its "ego" less radical than Japanese readers do.
+
 ## Philosophy essay
 
 **The central question.** Is a team made great by players who sacrifice for each other, or by individuals who each want to be the best? Blue Lock asks this through Japanese football. Its writer says the word "ego" became the meeting point of his frustrations with Japanese soccer and society, and that players "needed their strong will and ego" instead of worrying how they looked to others (Anime Corner interview, 2026). In chapter 1 Isagi passes instead of shooting, and his team loses. Ego's answer is that Japan's habit of deferring to others is why it has never produced a world-class striker.

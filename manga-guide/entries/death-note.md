@@ -158,6 +158,21 @@ Dominant lenses: Utilitarianism (critiqued), Nihilism (explored), Might makes ri
 
 **Profile notes for parents:** The series is built on one question about fairness and punishment, and both sides are smart and committed. The text leans against Light, but readers may come away admiring him. It invites argument more than it gives answers.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 2 | Private judgment and killing are the story's target: Light's vigilante "justice" ends in exposure and death (ch. 103-107). Soichiro and the task force, who stand for rule of law, duty and honesty, are the moral center. |
+| Order vs freedom | 3 | Law and due process are endorsed over one man's will. L's surveillance and confinement of suspects (Misa, ch. 33-35) are questioned, so order is honored but not without limits. |
+| Civic vs kin | 3 | Rules are meant to apply to all, including family: Soichiro serves the investigation even as it points at his son. Light risks his father and sister (vols. 7-9), a betrayal of kin the story condemns as part of his corruption. |
+| Equality vs hierarchy | 4 | Light's claim to be "god of the new world" (ch. 1-2) is the root wrong; no person is above the law. The police chain of command and the Wammy's House succession (Near, Mello) are shown neutrally. |
+| Tradition vs secular-rational | 7 | Religious language belongs to the villain and his cult (Mikami, ch. 83; the Kira worshippers, ch. 108). The "Mu" rule offers a naturalist note, and the duel is won by reason and investigation. |
+| Survival vs self-expression | 4 | Crime, safety and deterrence are the central question; a frightened public accepts a killer who promises security (Pragmatic lens). Ohba's takeaway, "let's give it our all while we're alive," adds a modest self-expression note. |
+
+Closest clusters: Yankeedom; Catholic Europe; Puritan
+
+Japanese source culture: Capital punishment, a powerful police bureaucracy and the public's quiet approval of Kira reflect debates in Japan, which keeps the death penalty; scholar Jolyon Baraka Thomas reads the cult elements against the 1995 Tokyo sarin attack. Soichiro's quiet devotion to duty echoes Japanese workplace norms.
+
 ## Philosophy essay
 
 **The central question.** If you could kill any wrongdoer with a stroke of a pen, and no one could catch you, would that make the world better? And would you still be the same person afterward? The notebook removes every practical barrier to killing, so only the moral question is left.

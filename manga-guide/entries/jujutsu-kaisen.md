@@ -163,6 +163,21 @@ Dominant lenses: Dharmic (Buddhist) imagery, Pagan/occult (Japanese folk religio
 
 **Profile notes for parents:** The series is driven by care for the weak and loyalty to friends. It is suspicious of inherited authority and treats the group, not the lone hero, as what wins. Its spiritual world is built from Japanese Buddhist and Shinto folklore used as a power system, and its emotional weight comes from frequent, graphic deaths of loved characters.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 4 | Revenge appears often (Junpei, ch. 19-27; Maki's destruction of the Zenin clan, ch. 149-151) but is not the story's answer; Yuji's creed is to help people and accept being one "cog" (ch. 127 onward). |
+| Order vs freedom | 5 | The closed, aging elite and its execution orders are critiqued, yet Yuji's "cog" ethic and Nanami's adult duty (ch. 120) honor doing one's part inside a team. |
+| Civic vs kin | 3 | Every life counts (Yuji's grandfather, ch. 1). Clan and blood ties are mostly harmful: the Zenin reject children without techniques, Kenjaku poses as Yuji's "mother" (ch. 143). |
+| Equality vs hierarchy | 3 | The higher-ups and clan elders are discredited; the strongest individual (Sukuna) is defeated by a team (ch. 268). Gojo's turn from "honored one" to teacher is the story's answer to rank. |
+| Tradition vs secular-rational | 7 | Buddhist and Shinto imagery is respected as beauty and power, but tradition is mostly shown as violent and the cult that applauds Riko's death (ch. 72-76) is condemned. Secular humanism through Yuji gets the last word. |
+| Survival vs self-expression | 4 | Death is certain and sudden; the life message is to help others and die without regret. Survival of the group against curses dominates over personal fulfillment. |
+
+Closest clusters: Catholic Europe; Yankeedom; The Midlands
+
+Japanese source culture: Sorcerer clans, an elder council and school-based teams reflect Japanese clan and senpai-kohai structures the story largely critiques; Nanami's dislike of overwork comments on Japanese salaryman culture.
+
 ## Philosophy essay
 
 **The central question.** How should a person live if death is certain, sudden and often meaningless? The first chapter puts this in a grandfather's last words: help people, and die surrounded by people. Every later arc tests that advice against a world built to make it impossible.

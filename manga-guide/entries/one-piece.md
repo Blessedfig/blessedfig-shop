@@ -159,6 +159,21 @@ Dominant lenses: Libertarianism (liberty and anti-authoritarianism), Classical v
 
 **Profile notes for parents:** The story's politics are anti-tyranny more than left or right; readers across the spectrum claim it. Families who stress respect for authority may want to discuss how the story separates just rulers from unjust ones. Families sensitive to sexualized art or to gender-identity themes will find both, scattered across a very long series.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 6 | When a crewmate is wronged, the crew declares war on whoever holds them (Arlong Park, vol. 9; Enies Lobby, for Robin). Zoro's vows and Sanji's chivalry are honored, while revenge as a cycle is rejected (Hody, vols. 62-65). |
+| Order vs freedom | 9 | The Pirate King is "the freest person on the sea"; Luffy will not order his crew to stay and leaves freed islands to rule themselves (Philosophy essay). Authoritarian rule is critiqued in nearly every arc. |
+| Civic vs kin | 7 | Chosen kin (nakama) come first; blood families that exploit are condemned (Vinsmoke, vols. 83-87; Big Mom). Luffy also frees strangers and whole nations, which keeps the position below the top. |
+| Equality vs hierarchy | 2 | Hereditary divine right is the central enemy (Celestial Dragons and slavery, ch. 502, 521; Kuma's backstory, vols. 108-109). Loyalty is honored only when freely given (Wano's retainers to Oden). |
+| Tradition vs secular-rational | 6 | No real-world religion appears; self-proclaimed gods are exposed as tyrants (Enel; the Celestial Dragons). Late in the story Luffy embodies a liberation myth, the "Sun God Nika" (ch. 1044). |
+| Survival vs self-expression | 7 | A good life is chasing your own dream; each crewmate joins by choice to chase a dream, and that pursuit is the series' engine. Oppressed peoples' survival is shown seriously, so the position stops short of the top. |
+
+Closest clusters: The Far West; El Norte; New Netherland
+
+Japanese source culture: The shonen ideal of friendship, effort and victory, and Wano's samurai loyalty and Edo-period setting (vols. 92-100) reflect Japanese norms; the story's strong anti-aristocratic and anti-authoritarian message is its own, and global readers have taken it up as such.
+
 ## Philosophy essay
 
 **The central question.** What makes a person free, and what does freedom owe to others? Luffy's goal, King of the Pirates, sounds like a quest for power. He defines it otherwise: the Pirate King is the freest person on the sea. The series then asks what blocks that freedom, and finds the answer in people who claim to own others.

@@ -159,6 +159,21 @@ Dominant lenses: Might makes right (critiqued), Christian (explored), Classical 
 
 **Profile notes for parents:** The message is one of the clearest anti-violence arcs in popular manga, and most religious and secular frames grade it well on message. The concern is depiction: the first eight volumes (the "Prologue") are violent war stories with implied sexual violence, while the rest is much quieter. Kodansha rates the manga 16+ and Common Sense Media says 16+ for the anime; families often decide by whether a teen can carry the first arc to reach the turn.
 
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 2 | Blood revenge is the early Thorfinn the story rejects; "I have no enemies" (ch. 96) is the thesis. Thors' "a true warrior needs no sword" (ch. 16) and Hild's letting go of revenge are honored. |
+| Order vs freedom | 6 | Kingship is shown as power that must stay violent to stay in place (Canute, vols. 13-14), and slavery is condemned. The Vinland settlement is a patient, ordered community, not a free-for-all. |
+| Civic vs kin | 5 | Family is the moral anchor (Thors, Thorfinn's mother and sister, Gudrid and their child), but the goal is a place where no one is enslaved and no one is an enemy, extended to strangers. |
+| Equality vs hierarchy | 2 | Slavery is indicted (Arnheid and Gardar, ch. 87-93); Ketil's farm wealth built on slaves is critiqued. The settlement aims for a place without masters. |
+| Tradition vs secular-rational | 4 | Christianity is treated with respect and questions (Willibald on love; Canute's defiance of God, ch. 39), and Thorfinn's arc reads as repentance and atonement. Norse Valhalla belief is answered, not honored. |
+| Survival vs self-expression | 4 | Hard, patient work and farming are the path to peace (vols. 8-14, 24-29). Peace and care for others, not personal expression, are the goals. |
+
+Closest clusters: The Midlands; Quaker; Catholic Europe
+
+Japanese source culture: Set in Viking-age Europe, so few norms are directly Japanese; Yukimura's portrayal of repentance through patient labor, and the Japanese title of ch. 96 (無敵, both "invincible" and "no enemies"), carry a Japanese and Buddhist-tinged reading of nonviolence.
+
 ## Philosophy essay
 
 **The central question.** What is a true warrior? The question is planted early by Thors, who left war behind and tells his son that a true warrior needs no sword (vol. 2). Thorfinn spends eight volumes proving the opposite and the rest of the series learning what his father meant.
