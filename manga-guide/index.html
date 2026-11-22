@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, graded S to F from your own tradition's view.">
+<link rel="canonical" href="https://www.theblessedfigtree.com/manga-guide/">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Manga Worldview Guide</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a calm family bookshelf. Sticky masthead, a picker sentence as the hero, results as a graded list (grade tile left, reasons right). */
+:root{
+  --paper:#f5f6f4; --panel:#ffffff; --ink:#1b1f24; --muted:#5b6470; --rule:#dde1e3;
+  --accent:#1f5f6b; --accent-soft:#e1eef0; --tone:#cfd6d9;
+  --gS:#8a6a00; --gS-bg:#fbf1cf; --gA:#22704a; --gA-bg:#dff2e6; --gB:#1f6378; --gB-bg:#ddeef3;
+  --gC:#8a5a00; --gC-bg:#f8ead0; --gD:#a4461b; --gD-bg:#f8e1d5; --gF:#a3262d; --gF-bg:#f6dadb; --gN:#5b6470; --gN-bg:#eceff0;
+  --f-display:"Zen Kaku Gothic New","Hiragino Sans","Segoe UI",system-ui,sans-serif;
+  --f-body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#111517;--panel:#192024;--ink:#e8ecee;--muted:#9aa6ad;--rule:#2b353a;--accent:#7cc4d0;--accent-soft:#1d3238;--tone:#34414a;
+  --gS:#f0cb5a;--gS-bg:#3a3110;--gA:#73d39f;--gA-bg:#163325;--gB:#7cc4d0;--gB-bg:#17313a;--gC:#e8b660;--gC-bg:#382a12;--gD:#f0946a;--gD-bg:#3b2117;--gF:#f2858b;--gF-bg:#3b1a1d;--gN:#9aa6ad;--gN-bg:#252d32;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#111517;--panel:#192024;--ink:#e8ecee;--muted:#9aa6ad;--rule:#2b353a;--accent:#7cc4d0;--accent-soft:#1d3238;--tone:#34414a;
+  --gS:#f0cb5a;--gS-bg:#3a3110;--gA:#73d39f;--gA-bg:#163325;--gB:#7cc4d0;--gB-bg:#17313a;--gC:#e8b660;--gC-bg:#382a12;--gD:#f0946a;--gD-bg:#3b2117;--gF:#f2858b;--gF-bg:#3b1a1d;--gN:#9aa6ad;--gN-bg:#252d32;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:17px/1.55 var(--f-body);margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--panel)}
+.wrap{max-width:1060px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+header.mast{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--panel);border-bottom:1px solid var(--rule)}
+.mast .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:6px 24px;padding-block:10px}
+.brand{font:900 1.2rem/1.1 var(--f-display);color:var(--ink);text-decoration:none;display:flex;gap:10px;align-items:baseline}
+.brand small{font:500 .7rem var(--f-mono);color:var(--muted);letter-spacing:.06em}
+nav.tabs{display:flex;gap:2px;flex-wrap:wrap}
+nav.tabs a{font:600 .95rem var(--f-body);color:var(--muted);text-decoration:none;padding:6px 10px;border-radius:6px}
+nav.tabs a[aria-current="page"]{color:var(--accent);background:var(--accent-soft)}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+main{padding-block:28px 64px}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0}
+h1{font-size:clamp(1.8rem,4.6vw,2.7rem);font-weight:900;line-height:1.12}
+h2{font-size:1.25rem;font-weight:700}
+h3{font-size:1.02rem;font-weight:700}
+p{margin:0}
+.lede{color:var(--muted);max-width:62ch;font-size:1.05rem}
+.eyebrow{font:500 .72rem var(--f-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.stack{display:flex;flex-direction:column;gap:16px}
+.note{font-size:.92rem;color:var(--muted);max-width:70ch}
+.note a,.lede a{color:var(--accent)}
+/* hero picker */
+.hero{display:flex;flex-direction:column;gap:16px;padding-block:4px 8px}
+.iam{font:900 clamp(1.6rem,4.6vw,2.6rem)/1.2 var(--f-display);display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px}
+.iam select{font:900 clamp(1.2rem,3.8vw,1.9rem) var(--f-display);color:var(--accent);background:var(--accent-soft);border:2px solid var(--accent);border-radius:10px;padding:4px 10px;max-width:100%;min-width:0}
+.pills{display:flex;flex-wrap:wrap;gap:8px}
+.pill{font:600 .92rem var(--f-body);border:1px solid var(--rule);background:var(--panel);color:var(--ink);border-radius:999px;padding:7px 14px;cursor:pointer}
+.pill:hover{border-color:var(--accent)}
+.pill[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--panel)}
+/* grade legend */
+.legend{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
+.legend div{display:flex;gap:10px;align-items:flex-start;background:var(--panel);border:1px solid var(--rule);border-radius:8px;padding:10px;font-size:.86rem;line-height:1.35;color:var(--muted)}
+.legend b{display:block;color:var(--ink);font-weight:700}
+@media (max-width:900px){.legend{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:520px){.legend{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.grade{flex:none;display:inline-grid;place-items:center;width:2.2rem;height:2.2rem;border-radius:8px;font:900 1.25rem/1 var(--f-display);color:var(--gN);background:var(--gN-bg)}
+.grade.lg{width:3.4rem;height:3.4rem;font-size:2rem;border-radius:12px}
+.grade.sm{width:1.7rem;height:1.7rem;font-size:.95rem;border-radius:6px}
+.grade.prov{outline:2px dashed currentColor;outline-offset:-4px}
+.g-S{color:var(--gS);background:var(--gS-bg)} .g-A{color:var(--gA);background:var(--gA-bg)} .g-B{color:var(--gB);background:var(--gB-bg)}
+.g-C{color:var(--gC);background:var(--gC-bg)} .g-D{color:var(--gD);background:var(--gD-bg)} .g-F{color:var(--gF);background:var(--gF-bg)}
+/* controls */
+.controls{display:flex;flex-wrap:wrap;gap:12px;align-items:end;padding:14px;background:var(--panel);border:1px solid var(--rule);border-radius:10px}
+.controls label{display:flex;flex-direction:column;gap:4px;font:500 .74rem var(--f-mono);letter-spacing:.05em;color:var(--muted);text-transform:uppercase}
+.controls .check{flex-direction:row;align-items:center;gap:8px;text-transform:none;font:600 .95rem var(--f-body);color:var(--ink);padding-bottom:6px}
+input[type=search],select{font:400 1rem var(--f-body);color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:6px;padding:7px 10px;min-width:0;max-width:100%}
+input[type=search]{width:min(300px,100%)}
+.count{font:500 .82rem var(--f-mono);color:var(--muted)}
+/* result rows */
+.list{display:flex;flex-direction:column;border-top:1px solid var(--rule)}
+.row{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:6px 16px;padding:16px 6px;border-bottom:1px solid var(--rule);text-decoration:none;color:inherit;align-items:start}
+.row:hover{background:var(--accent-soft)}
+.row .t{font:700 1.1rem/1.25 var(--f-display)}
+.row .sub{color:var(--muted);font-size:.92rem}
+.row .side{display:flex;flex-direction:column;align-items:flex-end;gap:4px;text-align:right}
+.why{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:6px 18px;font-size:.92rem;color:var(--muted);margin-top:4px}
+.why b{color:var(--ink);font-weight:600}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.chip{font:500 .74rem/1.3 var(--f-mono);padding:4px 7px;border-radius:4px;border:1px solid var(--rule);color:var(--muted);overflow-wrap:anywhere}
+.chip.sum{border-color:var(--accent);color:var(--accent)}
+.chip.db{border-style:dashed}
+.intensity{font:500 .8rem var(--f-mono);color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.meter{display:inline-grid;grid-template-columns:repeat(10,7px);gap:2px;vertical-align:middle;margin-right:6px}
+.meter i{height:11px;background:var(--tone);border-radius:1px}
+.meter i.on{background:var(--muted)}
+.meter.hi i.on{background:var(--gF)} .meter.mid i.on{background:var(--gC)} .meter.lo i.on{background:var(--gA)}
+.groupHead{display:flex;align-items:center;gap:12px;margin-top:8px}
+.empty{color:var(--muted);padding:14px 6px}
+@media (max-width:640px){.row{grid-template-columns:auto minmax(0,1fr)}.row .side{grid-column:2;align-items:flex-start;text-align:left}.why{grid-template-columns:minmax(0,1fr)}}
+/* series page */
+.panel{background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:18px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,430px),1fr));gap:16px}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:.94rem}
+th,td{text-align:left;padding:8px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font:500 .72rem var(--f-mono);letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+td.num{white-space:nowrap}
+.message{font:700 1.15rem/1.45 var(--f-display);max-width:60ch;border-left:3px solid var(--accent);padding-left:14px}
+.banner{border:1px dashed var(--accent);background:var(--accent-soft);border-radius:8px;padding:12px 14px;font-size:.94rem}
+.verdict{display:flex;gap:16px;align-items:center;background:var(--panel);border:1px solid var(--rule);border-radius:12px;padding:16px}
+.verdict select{font:600 1rem var(--f-body)}
+.axis{display:grid;grid-template-columns:8rem minmax(0,1fr);gap:4px 10px;align-items:center;font-size:.9rem}
+.axis .track{position:relative;height:20px;border-radius:10px;background:var(--tone)}
+.axis .dot{position:absolute;top:2px;width:16px;height:16px;border-radius:50%;background:var(--accent);transform:translateX(-50%)}
+.axis .ends{grid-column:2;display:flex;justify-content:space-between;font:500 .7rem var(--f-mono);color:var(--muted)}
+.bars{display:grid;grid-template-columns:auto minmax(0,11rem) minmax(0,1fr) 2rem;gap:6px 10px;align-items:center;font-size:.9rem}
+.bars .b{height:9px;background:var(--tone);border-radius:5px;overflow:hidden}
+.bars .b span{display:block;height:100%;background:var(--accent)}
+.bars .v{font:500 .8rem var(--f-mono);text-align:right}
+.md{max-width:72ch}
+.md h1{display:none}
+.md h2{margin:28px 0 8px;padding-top:12px;border-top:1px solid var(--rule)}
+.md p,.md ul,.md ol{margin:0 0 12px}
+.md table{display:block;overflow-x:auto;font-size:.86rem;margin-bottom:16px}
+.md a{color:var(--accent)}
+details.full summary{cursor:pointer;font:700 1.05rem var(--f-display);color:var(--accent);padding:10px 0}
+.back{font:600 .95rem var(--f-body);color:var(--accent);text-decoration:none}
+footer{color:var(--muted);font-size:.86rem;border-top:1px solid var(--rule);padding-block:20px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+
+<header class="mast">
+  <div class="wrap">
+    <a class="brand" href="#start">Manga Worldview Guide <small>BETA</small></a>
+    <nav class="tabs" aria-label="Sections">
+      <a href="../">The Blessed Fig Tree</a>
+      <a href="#start" data-view="start">For my family</a>
+      <a href="#browse" data-view="browse">All manga</a>
+      <a href="#ideas" data-view="ideas">By philosophy</a>
+      <a href="#method" data-view="method">How we grade</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap" id="app"><p class="empty">Loading the catalog…</p></main>
+<footer class="wrap" id="foot"></footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
+<script>
+const $ = (s, el = document) => el.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let D = null;
+const state = {q:'', analyzed:false, maxLevel:'any', pub:'', sort:'popularity', idea:'Classical virtue ethics', profile:'Christian (any)', maxInt:'any'};
+try { Object.assign(state, JSON.parse(localStorage.getItem('mwg-state2') || '{}')); } catch (e) {}
+const save = () => { try { localStorage.setItem('mwg-state2', JSON.stringify(state)); } catch (e) {} };
+
+const GRADES = ['S','A','B','C','D','F'];
+const GRADE_TEXT = {S:['Excellent fit','Affirms core values, little to raise'],A:['Strong fit','A few small concerns'],B:['Good with talk','Some things to discuss'],C:['Mixed','Real concerns alongside good themes'],D:['Serious concerns','Many would wait or read together'],F:['Conflicts','At odds with core teaching throughout']};
+const CHRISTIAN = ['Catholic','Eastern Orthodox','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Reformed / Presbyterian','Lutheran','Methodist / Wesleyan','Anglican / Episcopal','Anabaptist (Mennonite, Amish, Brethren)','Latter-day Saint','Mainline progressive Protestant'];
+const GROUPS = [['Christian', ['Christian (any)', ...CHRISTIAN]], ['Other faiths', ['Jewish','Muslim','Hindu','Buddhist']], ['Worldview', ['Conservative / traditional','Secular progressive','Secular humanist']]];
+const PILLS = ['Christian (any)','Catholic','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Eastern Orthodox','Jewish','Muslim','Conservative / traditional','Secular progressive'];
+
+function provisional(f, overall) {
+  if (f.grade) return {g: f.grade, prov: false};
+  const o = overall ?? 5;
+  const g = f.weight === 'Minor' ? (o <= 5 ? 'A' : 'B') : f.weight === 'Discuss' ? (o <= 6 ? 'B' : 'C') : f.weight === 'Significant' ? 'D' : null;
+  return {g, prov: true};
+}
+function fitFor(e, p) {
+  const names = p === 'Christian (any)' ? CHRISTIAN : [p];
+  const fs = e.frames.filter(f => names.includes(f.frame));
+  if (!fs.length) return null;
+  const gs = fs.map(f => ({...provisional(f, e.overall), f})).filter(x => x.g);
+  if (!gs.length) return null;
+  const idx = gs.map(x => GRADES.indexOf(x.g)).sort((a,b)=>a-b);
+  const mid = idx[Math.floor((idx.length - 1) / 2)];
+  const lo = GRADES[idx[0]], hi = GRADES[idx[idx.length-1]];
+  return {g: GRADES[mid], prov: gs.some(x=>x.prov), range: lo !== hi ? `${lo} to ${hi}` : null, f: gs.find(x=>GRADES.indexOf(x.g)===mid).f, n: gs.length, all: gs};
+}
+const gradeTile = (g, prov, cls='') => g ? `<span class="grade ${cls} g-${g} ${prov?'prov':''}" title="${esc(GRADE_TEXT[g][0])}${prov?' (provisional)':''}">${g}</span>` : `<span class="grade ${cls}" title="Not graded yet">–</span>`;
+function meter(v, withText = true) {
+  if (v == null) return '<span class="intensity">Not rated yet</span>';
+  const n = Math.round(v), cls = n >= 7 ? 'hi' : n >= 4 ? 'mid' : 'lo';
+  return `<span class="intensity"><span class="meter ${cls}" aria-hidden="true">${Array.from({length:10},(_,i)=>`<i class="${i<n?'on':''}"></i>`).join('')}</span>${withText ? v + ' / 10' : ''}</span>`;
+}
+const stanceKey = s => { s = (s||'').toLowerCase(); return s.startsWith('affirm') ? 'Affirmed' : s.startsWith('critiq') ? 'Critiqued' : /^(explor|contest|echo)/.test(s) ? 'Explored' : 'Incidental'; };
+function closeness(l) {
+  if (l.closeness) return l.closeness;
+  const k = stanceKey(l.stance), s = l.strength || 0;
+  if (k === 'Affirmed') return s >= 7 ? 'S' : s >= 5 ? 'A' : s >= 3 ? 'B' : 'C';
+  if (k === 'Explored') return s >= 6 ? 'B' : 'C';
+  if (k === 'Critiqued') return s >= 6 ? 'F' : 'D';
+  return 'C';
+}
+const confChip = s => s.entry ? `<span class="chip sum" title="Built from summaries, databases and reviews. No pages read yet.">${esc(s.entry.label)} · ${esc(s.entry.confidence)} confidence</span>` : `<span class="chip db">Not analyzed yet</span>`;
+const pubs = s => (s.publishers||[]).map(p=>p.name).filter(n=>!/manga ?plus|k manga|inkr|renta|mangaplaza|coolmic|webtoon|manga up|manga million/i.test(n));
+const link = s => s.id ? `#s-${s.id}` : `#e-${s.entry.slug}`;
+const subline = s => [s.native, s.year, pubs(s).join(', ')].filter(Boolean).map(esc).join(' · ');
+
+function row(s, tile, body = '', chips = '') {
+  return `<a class="row" href="${link(s)}">${tile}<div style="min-width:0"><div class="t">${esc(s.title)}</div><div class="sub">${subline(s)}</div>${body}<div class="chips">${chips}${confChip(s)}</div></div>
+    <div class="side"><span class="eyebrow">Intensity</span>${meter(s.entry ? s.entry.overall : null)}</div></a>`;
+}
+function profileSelect(id, p) {
+  return `<select id="${id}" aria-label="Your tradition">${GROUPS.map(([g, items])=>`<optgroup label="${g}">${items.map(v=>`<option ${v===p?'selected':''}>${esc(v)}</option>`).join('')}</optgroup>`).join('')}</select>`;
+}
+
+function viewStart() {
+  const p = state.profile;
+  let list = D.series.filter(s=>s.entry).map(s=>({s, fit: fitFor(s.entry, p)})).filter(x=>x.fit);
+  if (state.maxInt !== 'any') list = list.filter(x=>x.s.entry.overall <= +state.maxInt);
+  list.sort((a,b)=>GRADES.indexOf(a.fit.g)-GRADES.indexOf(b.fit.g) || a.s.entry.overall-b.s.entry.overall);
+  const pending = D.series.filter(s=>!s.entry).length;
+  const any = p === 'Christian (any)';
+  return `<div class="stack" style="gap:24px"><section class="hero">
+    <span class="eyebrow">A guide to manga for parents of every background</span>
+    <h1>Find manga that fit your family.</h1>
+    <label class="iam" for="profile"><span>I'm</span>${profileSelect('profile', p)}</label>
+    <div class="pills" role="group" aria-label="Quick pick">${PILLS.map(v=>`<button type="button" class="pill" data-p="${esc(v)}" aria-pressed="${v===p}">${esc(v)}</button>`).join('')}</div>
+    <p class="lede">Each series gets a grade from S to F the way your tradition would see it, based on its own teaching. ${any ? 'For "Christian (any)" we show the middle grade across twelve Christian traditions and the range where they differ.' : ''} Descriptions are the same for every family. Only the grades and the order change.</p></section>
+    <div class="legend" aria-label="What the grades mean">${GRADES.map(g=>`<div>${gradeTile(g,false,'sm')}<span><b>${GRADE_TEXT[g][0]}</b>${GRADE_TEXT[g][1]}</span></div>`).join('')}</div>
+    <div class="controls"><label for="maxint">Content intensity at most<select id="maxint">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxInt)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
+      <p class="count" style="align-self:center">${list.length} graded · ${pending} more manga waiting for analysis</p></div>
+    ${GRADES.map(g=>{ const grp = list.filter(x=>x.fit.g===g); if (!grp.length) return ''; return `<section class="stack" style="gap:4px"><div class="groupHead">${gradeTile(g,false)}<h2>${GRADE_TEXT[g][0]} <span class="count">${grp.length}</span></h2></div>
+      <div class="list">${grp.map(({s,fit})=>row(s, gradeTile(fit.g, fit.prov, 'lg'),
+        `<div class="why"><span><b>What fits:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>`,
+        `${fit.range?`<span class="chip">Range across ${fit.n} traditions: ${fit.range}</span>`:''}${fit.prov?'<span class="chip" title="Worked out from the tradition\'s concern level and content intensity until the entry is graded directly.">Provisional grade</span>':''}${fit.f.legacy?`<span class="chip" title="This entry has one shared row for Evangelical and Pentecostal families. A separate row is coming.">${esc(fit.f.frame)}: shared row</span>`:''}`)).join('')}</div></section>`; }).join('') || '<p class="empty">No graded series match. Raise the intensity limit.</p>'}
+    <p class="note">Grades describe how each tradition's own teaching would usually weigh a series. They are not the site's judgement. Grades marked with a dashed border are provisional until the full entry is graded. <a href="#method">How we grade</a></p></div>`;
+}
+
+function viewBrowse() {
+  const allPubs = [...new Set(D.series.flatMap(pubs))].sort();
+  let list = D.series.filter(s => {
+    if (state.analyzed && !s.entry) return false;
+    if (state.maxLevel !== 'any' && !(s.entry && s.entry.overall <= +state.maxLevel)) return false;
+    if (state.pub && !pubs(s).includes(state.pub)) return false;
+    if (state.q) { const q = state.q.toLowerCase(); if (![s.title, s.romaji, s.native, ...(s.creators||[]).map(c=>c.name)].some(x => (x||'').toLowerCase().includes(q))) return false; }
+    return true;
+  });
+  if (state.sort === 'title') list.sort((a,b)=>a.title.localeCompare(b.title));
+  if (state.sort === 'level') list.sort((a,b)=>(a.entry?a.entry.overall:99)-(b.entry?b.entry.overall:99));
+  const p = state.profile;
+  return `<div class="stack"><div class="stack" style="gap:8px"><h1>All manga</h1>
+    <p class="lede">Every English-licensed manga in the catalog. Grades are shown for <strong>${esc(p)}</strong>; change that on <a href="#start">For my family</a>.</p></div>
+    <div class="controls" role="search">
+      <label for="q">Search title or creator<input id="q" type="search" value="${esc(state.q)}" placeholder="e.g. Frieren, Oda"></label>
+      <label for="lvl">Intensity at most<select id="lvl">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxLevel)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
+      <label for="pub">English publisher<select id="pub"><option value="">All</option>${allPubs.map(x=>`<option ${state.pub===x?'selected':''}>${esc(x)}</option>`).join('')}</select></label>
+      <label for="sort">Sort<select id="sort"><option value="popularity" ${state.sort==='popularity'?'selected':''}>Most read</option><option value="title" ${state.sort==='title'?'selected':''}>Title</option><option value="level" ${state.sort==='level'?'selected':''}>Lowest intensity</option></select></label>
+      <label class="check" for="an"><input id="an" type="checkbox" ${state.analyzed?'checked':''}> Analyzed only</label></div>
+    <p class="count">${list.length} of ${D.series.length} series · ${D.series.filter(s=>s.entry).length} analyzed so far</p>
+    <div class="list">${list.map(s=>{ const fit = s.entry && fitFor(s.entry, p); return row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg'), s.entry && s.entry.life_message ? `<div class="sub" style="margin-top:4px">${esc(s.entry.life_message)}</div>` : ''); }).join('') || '<p class="empty">No series match. Clear the search or raise the intensity limit.</p>'}</div></div>`;
+}
+
+function viewIdeas() {
+  const names = [...new Set([...D.lenses, ...D.series.flatMap(s=>(s.entry?.lenses||[]).map(l=>l.lens))])].filter(Boolean).sort();
+  const rows = [];
+  D.series.forEach(s => (s.entry?.lenses||[]).filter(l=>l.lens===state.idea).forEach(l => rows.push({s, l, c: closeness(l)})));
+  rows.sort((a,b)=>GRADES.indexOf(a.c)-GRADES.indexOf(b.c) || b.l.strength-a.l.strength);
+  return `<div class="stack"><div class="stack" style="gap:8px"><h1>By philosophy</h1>
+    <p class="lede">Pick a philosophy or worldview to see which manga sit closest to it. S means the story strongly affirms it, C means it explores the idea without settling, and D or F means it critiques it.</p></div>
+    <div class="controls"><label for="idea">Philosophy or worldview<select id="idea">${names.map(l=>`<option ${state.idea===l?'selected':''}>${esc(l)}</option>`).join('')}</select></label></div>
+    <div class="list">${rows.map(({s,l,c})=>row(s, gradeTile(c,false,'lg'), `<div class="sub" style="margin-top:4px">${esc(l.label)}: strength ${l.strength} / 10, ${esc(l.stance.toLowerCase())}</div>`)).join('') || '<p class="empty">No analyzed series engage this one yet.</p>'}</div>
+    <p class="note">Only analyzed series appear. The list of philosophies will keep growing.</p></div>`;
+}
+
+function viewSeries(s) {
+  const e = s.entry, p = state.profile;
+  const facts = [['Japanese title', s.native], ['First published', s.year], ['Status', s.status && s.status.replace(/_/g,' ').toLowerCase()], ['Volumes (Japan)', s.volumes],
+    ['Creators', (s.creators||[]).filter(c=>/story|art/i.test(c.role)).map(c=>`${c.name} (${c.role.toLowerCase()})`).join(', ')],
+    ['English editions', (s.publishers||[]).map(x=>x.name + (x.notes?` (${x.notes})`:'')).join('; ')], ['Genres', (s.genres||[]).join(', ')], ['MangaDex content rating', s.mdex_rating]].filter(x=>x[1]);
+  let h = `<div class="stack" style="gap:20px"><a class="back" href="#start">← Back to my family's list</a>
+    <div class="stack" style="gap:8px"><h1>${esc(s.title)}</h1><div class="sub" style="color:var(--muted)">${subline(s)}</div><div class="chips">${confChip(s)}</div></div>`;
+  if (e) {
+    const fit = fitFor(e, p);
+    h += `<div class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
+      <label class="eyebrow" for="profile2">Grade for</label>${profileSelect('profile2', p)}
+      <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div></div>`;
+    if (e.life_message) h += `<div class="stack" style="gap:6px"><span class="eyebrow">What it holds up as a good life</span><p class="message">${esc(e.life_message)}</p></div>`;
+    h += `<div class="banner">${e.quick?'Quick read built from Wikipedia and database tags.':'Built from summaries, databases and reviews.'} No pages have been read yet, so grades may change after a full read. Confidence: <strong>${esc(e.confidence)}</strong>.</div>
+      <section class="panel"><h2>Grades by tradition</h2><div class="scroll"><table><thead><tr><th>Tradition</th><th>Grade</th><th>What fits</th><th>What may concern</th></tr></thead><tbody>
+      ${e.frames.map(f=>{ const g = provisional(f, e.overall); return `<tr><td>${esc(f.frame)}</td><td>${gradeTile(g.g, g.prov, 'sm')}</td><td>${esc(f.aligns)}</td><td>${esc(f.concerns)}</td></tr>`; }).join('')}</tbody></table></div>
+      <p class="note">Traditions not listed here have not been graded for this series yet.</p></section>
+      <div class="grid2"><section class="panel"><h2>How intense is it?</h2><p class="note">0 means none and 10 means extreme. A higher number means more of it, not better or worse.</p>
+      <div class="scroll"><table><tbody>${e.content.map(c=>`<tr><td>${esc(c.category)}<div class="note" style="font-size:.84rem">${esc(c.framing)}</div></td><td class="num">${meter(c.score)}</td></tr>`).join('')}</tbody></table></div></section>
+      <section class="panel"><h2>Philosophies it is close to</h2><p class="note">${esc(e.dominant)}</p>
+      <div class="bars">${[...e.lenses].sort((a,b)=>GRADES.indexOf(closeness(a))-GRADES.indexOf(closeness(b)) || b.strength-a.strength).map(l=>`${gradeTile(closeness(l),false,'sm')}<span>${esc(l.label)}<div class="note" style="font-size:.8rem">${esc(stanceKey(l.stance))}</div></span><span class="b"><span style="width:${(l.strength||0)*10}%"></span></span><span class="v">${l.strength}</span>`).join('')}</div></section></div>
+      <section class="panel"><h2>Political and moral leanings</h2><div class="grid2">
+      <div class="stack">${[['economic','Economic','Collective','Free market'],['social','Social','Authority','Liberty'],['cultural','Cultural','Traditional','Progressive'],['community','Community','Individual first','Community first']].map(([k,n,a,b])=> e.axes[k]==null?'':`<div class="axis"><span>${n} <span class="count">${e.axes[k]}</span></span><span class="track" role="img" aria-label="${n}: ${e.axes[k]} of 10, ${a} to ${b}"><span class="dot" style="left:${e.axes[k]*10}%"></span></span><span class="ends"><span>${a}</span><span>takes no side</span><span>${b}</span></span></div>`).join('')}</div>
+      <div class="stack"><h3>Moral foundations</h3><div class="bars" style="grid-template-columns:minmax(0,7rem) minmax(0,1fr) 2rem">${Object.entries(e.foundations||{}).map(([k,v])=>`<span>${k[0].toUpperCase()+k.slice(1)}</span><span class="b"><span style="width:${v*10}%"></span></span><span class="v">${v}</span>`).join('')}</div></div></div></section>`;
+    if (e.quick) {
+      h += `<section class="panel"><h2>Quick read</h2>${e.premise?`<p>${esc(e.premise)}</p>`:''}${e.winners_losers?`<h3>Winners, losers and sympathy</h3><p>${esc(e.winners_losers)}</p>`:''}
+        <h3>Content notes</h3><ul>${e.content.filter(c=>c.note).map(c=>`<li><b>${esc(c.category)}:</b> ${esc(c.note)}</li>`).join('')}</ul>
+        ${(e.to_verify||[]).length?`<h3>To check in a full read</h3><ul>${e.to_verify.map(t=>`<li>${esc(t)}</li>`).join('')}</ul>`:''}
+        <p class="note">Sources: ${(e.sources||[]).map(u=>`<a href="${esc(u)}">${esc(u.replace(/^https?:\/\/(www\.)?/,'').split('/')[0])}</a>`).join(', ')}.</p></section>`;
+    } else {
+      h += `<details class="full panel"><summary>Read the full entry: philosophy essay, winners and losers, creators, reception and sources</summary><div class="md" id="md"><p class="empty">Loading the entry…</p></div></details>`;
+    }
+  } else {
+    h += `<div class="banner">This series hasn't been analyzed yet, so it has no grades. Below are database facts and the content tags other sites have attached. They are signals, not ratings.</div>`;
+  }
+  const sig = Object.entries(s.signals||{});
+  h += `<div class="grid2"><section class="panel"><h2>Series facts</h2><div class="scroll"><table><tbody>${facts.map(([k,v])=>`<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</tbody></table></div>
+    <p class="note">${[s.id&&`<a href="https://anilist.co/manga/${s.id}">AniList</a>`, s.mu&&`<a href="https://www.mangaupdates.com/series/${Number(s.mu).toString(36)}">MangaUpdates</a>`].filter(Boolean).join(' · ')}</p></section>
+    <section class="panel"><h2>Content tags from other databases</h2>
+    ${sig.length||s.mu_signals?.length ? `<div class="scroll"><table><tbody>${sig.map(([k,v])=>`<tr><td>${esc(k)}</td><td>${v.map(t=>esc(t.tag)+(t.rank?` <span class="count">${t.rank}%</span>`:'')).join(', ')}</td></tr>`).join('')}
+    ${s.mu_signals?.length?`<tr><td>MangaUpdates categories</td><td>${s.mu_signals.map(esc).join(', ')}</td></tr>`:''}</tbody></table></div>
+    <p class="note">AniList tags with the share of readers who agreed they apply (50% or more shown), and MangaUpdates categories. Volunteer-tagged and unverified.</p>` : '<p class="note">No content tags found in AniList or MangaUpdates.</p>'}</section></div></div>`;
+  return h;
+}
+
+function viewMethod() {
+  return `<div class="stack md" style="max-width:72ch"><h1 style="display:block">How we grade</h1>
+  <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order.</p>
+  <h2>The S to F grade</h2><p>Each analyzed series is read from inside each tradition using that tradition's own teaching, such as the Catechism for Catholics, the Baptist Faith and Message for many Baptists, or the Five Precepts for Buddhists.</p>
+  <ul>${GRADES.map(g=>`<li><strong>${g}: ${GRADE_TEXT[g][0]}.</strong> ${GRADE_TEXT[g][1]}.</li>`).join('')}</ul>
+  <p>A grade with a dashed border is provisional. It is worked out from the tradition's concern level and the content intensity until the entry is graded directly.</p>
+  <h2>Intensity</h2><p>Content intensity runs from 0 (none) to 10 (extreme) for violence, fear, sexual content, language, substances, mental health, imitable behavior and commercialism. A higher number means more of it, not a better or worse book.</p>
+  <h2>Philosophies</h2><p>Each series is checked against more than thirty worldviews and philosophies, from Christian and Buddhist to Stoicism, Utilitarianism, Pragmatism and Nihilism. Closeness runs from S (strongly affirmed) to F (strongly critiqued).</p>
+  <h2>What each label means</h2><ul><li><strong>Not analyzed yet.</strong> English publisher, creators and content tags from AniList, MangaUpdates and MangaDex only.</li>
+  <li><strong>From summaries.</strong> Built from official synopses, publisher ratings, parent guides, reviews and fan-wiki plot facts. No pages read. Every fact that moves a score needs two independent sources.</li>
+  <li><strong>Full read.</strong> Checked against the official English edition and signed off by a reviewer.</li></ul>
+  <h2>Sources</h2><p>AniList, MangaUpdates, MangaDex, Wikipedia, publisher pages, parent guides and reviews. Fan wikis are used for plot facts only and never quoted. We never use pirated scans or fan translations.</p>
+  <p class="note">Catalog built ${esc(D.built)}. ${D.series.length} series in this preview.</p></div>`;
+}
+
+async function loadMd(slug) {
+  const el = $('#md'); if (!el) return;
+  try { const t = await (await fetch(`entries/${slug}.md`)).text(); el.innerHTML = DOMPurify.sanitize(marked.parse(t)); el.querySelectorAll('a').forEach(a=>{a.target='_blank';a.rel='noopener'}); }
+  catch (err) { el.innerHTML = '<p class="empty">The full entry could not load. Reload the page to try again.</p>'; }
+}
+function render() {
+  const h = location.hash.slice(1) || 'start'; let html, view = h, md = null;
+  if (h.startsWith('s-') || h.startsWith('e-')) {
+    const s = h.startsWith('s-') ? D.series.find(x=>String(x.id)===h.slice(2)) : D.series.find(x=>x.entry?.slug===h.slice(2));
+    html = s ? viewSeries(s) : '<p class="empty">Series not found. <a href="#browse">See all manga</a>.</p>'; view = 'browse'; md = s?.entry?.slug;
+  } else if (h === 'browse') html = viewBrowse();
+  else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
+  else if (h === 'method') html = viewMethod();
+  else { html = viewStart(); view = 'start'; }
+  $('#app').innerHTML = html;
+  document.querySelectorAll('nav.tabs a').forEach(a=>{ if (a.dataset.view===view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
+  if (md) loadMd(md);
+  bind();
+}
+function bind() {
+  const on = (id, ev, fn) => { const el = document.getElementById(id); if (el) el.addEventListener(ev, fn); };
+  const set = (k, rerender = true) => e => { state[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value; save(); if (rerender) render(); };
+  on('q','input', e=>{ state.q=e.target.value; save(); const pos=e.target.selectionStart; render(); const q=$('#q'); q.focus(); q.setSelectionRange(pos,pos); });
+  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','idea:idea','profile:profile','profile2:profile','maxint:maxInt'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
+  document.querySelectorAll('.pill[data-p]').forEach(b=>b.addEventListener('click',()=>{ state.profile=b.dataset.p; save(); render(); }));
+}
+window.addEventListener('hashchange', ()=>{ render(); window.scrollTo(0,0); });
+fetch('data.json').then(r=>r.json()).then(d=>{ D=d; if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
+  $('#foot').innerHTML = `Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
+  .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
+</script>
+
+</body>
+</html>
