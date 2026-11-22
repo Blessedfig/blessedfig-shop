@@ -1,6 +1,6 @@
 # Spy x Family (Tatsuya Endo)
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: medium-low. A second research pass (November 2026) opened the Wikipedia chapter list again, fan-wiki chapter and arc pages, Common Sense Media, Plugged In (TV and manga), ScreenWise, Anime News Network manga reviews, chapter recaps and the first official character poll report. Chapter numbers for the main loaded arcs are now sourced; a few remain marked "likely". Details still marked "(from general knowledge; to verify)" were not confirmed by any page opened.
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: medium-low. A second research pass (November 2026) opened the Wikipedia chapter list again, fan-wiki chapter and arc pages, Common Sense Media, Plugged In (TV and manga), ScreenWise, Anime Feminist, Anime News Network manga reviews, chapter recaps and the first official character poll report. Chapter numbers for the main loaded arcs are now sourced; a few remain marked "likely". Details still marked "(from general knowledge; to verify)" were not confirmed by any page opened.
 
 ## Series facts
 
@@ -9,7 +9,7 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Title | Spy x Family (English). Japanese: SPY×FAMILY, read "Supai Famirī" (from general knowledge; to verify). Working title in Japanese was "Spy Family" (Wikipedia). |
 | Creators | Tatsuya Endo (story and art). Editor: Shihei Lin (fan-wiki interview index; Anime News Network interview found, not opened). |
 | Origin | Shonen Jump+ web/app magazine, Shueisha. Shonen (boys') demographic. Biweekly since March 25, 2019. Ongoing. |
-| English edition | Viz Media (digital from September 22, 2019; print vol. 1 on June 2, 2020). Also free in English on Manga Plus. Publisher age rating: T for Teen (from general knowledge; still to verify on viz.com, which was not opened). Volumes: 17 in Japan (vol. 17 on April 3, 2026); 16 in English (vol. 16 on September 1, 2026). Chapters 128-136 serialized but not yet collected (Wikipedia chapter list). |
+| English edition | Viz Media (digital from September 22, 2019; print vol. 1 on June 2, 2020). Also free in English on Manga Plus. Publisher age rating: T for Teen (from general knowledge; the viz.com series page was opened but shows no rating text, so still to verify on the back cover). Volumes: 17 in Japan (vol. 17 on April 3, 2026); 16 in English (vol. 16 on September 1, 2026). Chapters 128-136 serialized but not yet collected (Wikipedia chapter list). |
 | Anime | Wit Studio and CloverWorks. Season 1: April-June and October-December 2022. Season 2: October-December 2023. Season 3: October-December 2025. Film: Spy x Family Code: White (Japan December 2023; US/Canada April 2024). TV rating: TV-14 (Common Sense Media and Plugged In pages). |
 | Recognition | Kodansha Manga Award (Best Shonen, 44th); Tezuka Osamu Cultural Prize Grand Prize (24th, 2020); No. 1 in Kono Manga ga Sugoi! 2020 (male); Da Vinci Book of the Year 2022; Japan Cartoonists Association Award Grand Prize (52nd, 2023); Eisner and Harvey nominations. Over 42 million copies in circulation by April 2026. Rotten Tomatoes: season 1 at 100% (six critics). (Wikipedia.) |
 | Other guides | Common Sense Media (anime): 13+; violence "some", sex/romance "a little", language "a little", drinking "not present"; parent reviews average 11+, kid reviews 10+. Plugged In (anime): no age band, notes TV-14, frequent violence and one episode with Yor drunk. Plugged In (manga vol. 13): ages 10 and up. ScreenWise (manga): "Perfect for 10 and up," WISE score 91%. Common Sense Media's Code: White guide was found but not opened. |
@@ -172,12 +172,12 @@ Dominant lenses: Classical virtue ethics, Secular humanism, Communitarianism (fa
 | Christian parent guide | Plugged In (Bob Hoose); manga vol. 13 | Ages 10 and up; "no elements of faith"; fun and encourages thought about friendship and family; cautions on coarse language and "lightly bloody action," and notes other volumes can be more intense. | https://www.pluggedin.com/?p=35847 |
 | Secular app guide | ScreenWise; manga | "Perfect for 10 and up." Violence "mild to moderate," Yor's work often "played for dark comedy or happens off-page"; flags Yuri's "bordering-on-weird" fixation on his sister and says the Cold War setting may need context. | https://screenwiseapp.com/media/spy-x-family-book |
 | Fan vote | Official poll; manga and anime readers | About 338,000 votes; Loid, Anya, Yor top three. | https://en.mantan-web.jp/article/20251221dog00m200030000c.html |
-| Feminist commentary | Anime Feminist; anime | Episode 1 review found, not opened. | — |
+| Feminist commentary | Anime Feminist (Dee, April 9, 2022); anime ep. 1 | Positive: "a fun romp with a warm heart." Content notes: "bloodless" violence, child endangerment and neglect, romanticized espionage. Flags a coming secret-police character who "engages in police brutality" and is "waaaay too attached to his sister," while noting the manga does not portray him sympathetically. | https://www.animefeminist.com/spy-x-family-episode-1/ |
 | Fan reviews | MyAnimeList users; manga | Review page found, not opened. | — |
 | Japanese reception | Industry awards and polls | Top of Kono Manga ga Sugoi! 2020, Tezuka Prize, Kodansha Award, Japan Cartoonists Association Grand Prize (Wikipedia); official poll above. Pixiv Encyclopedia and Nico Nico not reached. | https://en.wikipedia.org/wiki/Spy_×_Family |
 | Conservative / progressive commentary | — | Not reached beyond the Christian guides above. | — |
 
-**Controversies.** No controversy is reported on the pages opened. Discussion points raised in guides: (1) Yuri's sister fixation, flagged by ScreenWise; (2) whether the comedy softens Yor's killings (ScreenWise notes her work is often "played for dark comedy"); (3) constant lying in the family, flagged by Common Sense Media and Plugged In; (4) the West/East Germany reading of the setting. Complaints that the main plot moves slowly are from general knowledge; to verify. Present each as a discussion point, not a settled verdict.
+**Controversies.** No controversy is reported on the pages opened. Discussion points raised in guides: (1) Yuri's sister fixation and police brutality, flagged by ScreenWise and Anime Feminist (which adds that the manga does not portray him sympathetically); (2) whether the comedy softens Yor's killings (ScreenWise notes her work is often "played for dark comedy"); (3) constant lying in the family, flagged by Common Sense Media and Plugged In; (4) the West/East Germany reading of the setting. Complaints that the main plot moves slowly are from general knowledge; to verify. Present each as a discussion point, not a settled verdict.
 
 ## Most loaded parts and pages to photograph
 
@@ -214,12 +214,13 @@ Pages actually opened:
 - https://sportskeeda.com/anime/spy-x-family-chapter-80-a-new-arc-begins-along-loid-yor-s-first-marital-fight
 - https://www.sportskeeda.com/anime/spy-x-family-episode-8-yuri-briar-s-secret-identity-revealed-loid-yor-forced-act-romantic
 - https://tvtropes.org/pmwiki/pmwiki.php/Recap/SpyXFamilyAnimeS01E09
+- https://www.animefeminist.com/spy-x-family-episode-1/
+- https://www.viz.com/spy-x-family (no age rating shown)
 - Fan wiki (scene location only): https://spy-x-family.fandom.com/wiki/Chapter_2 ; https://spy-x-family.fandom.com/wiki/Chapter_97 ; https://spy-x-family.fandom.com/wiki/Chapter_99 ; https://spy-x-family.fandom.com/wiki/Chapter_124 ; https://spy-x-family.fandom.com/wiki/Cruise_Adventure_Arc ; https://spy-x-family.fandom.com/wiki/Bus_Hijacking_Arc ; https://spy-x-family.fandom.com/wiki/Yuri_Briar?oldid=473 ; https://spy-x-family.fandom.com/wiki/Tatsuya_Endo/Interviews (index of interview transcriptions)
 
 Found in search but not opened:
 - https://www.commonsensemedia.org/movie-reviews/spy-x-family-code-white
 - https://www.pluggedin.com/movie-reviews/spy-x-family-code-white-2024/
-- https://www.animefeminist.com/spy-x-family-episode-1/
 - https://myanimelist.net/manga/119161/Spy_x_Family/reviews
 - https://Animenewsnetwork.Com/interview/2022-05-25/spy-family-manga-editor-shihei-lin/.185984
 - https://en.wikipedia.org/wiki/Tatsuya_Endo
@@ -230,7 +231,7 @@ Found in search but not opened:
 - https://www.avclub.com/spy-family-season-3-review
 - https://www.pastemagazine.com/tv/spy-family-season-3-review
 
-Not reached: viz.com product page, Pixiv Encyclopedia, Nico Nico, AniList, Reddit, original-language creator interviews.
+Not reached: viz.com individual volume pages, Pixiv Encyclopedia, Nico Nico, AniList, Reddit, original-language creator interviews.
 
 ## Full-read review checklist
 
@@ -254,5 +255,5 @@ Not reached: viz.com product page, Pixiv Encyclopedia, Nico Nico, AniList, Reddi
 - [ ] Read author afterwords and the original Kikan S and AnimeNachrichten interviews to confirm the fan-wiki transcriptions (Cold War Germany model; "zero intention of depicting a family story"). Affects Creator context.
 - [ ] Check each Family frames grade and weight against the tradition's own sources (the per-frame guides in /mnt/project-files/frame-guides/ are drafts from general knowledge). Affects Family frames.
 - [x] Official character popularity poll found (1st poll, December 2025). Affects Fan favorites.
-- [ ] Check Pixiv Encyclopedia, Nico Nico, TV Tropes YMMV, MyAnimeList and Anime Feminist for reception and fan debates. Affects How readers took it.
+- [ ] Check Pixiv Encyclopedia, Nico Nico, TV Tropes YMMV and MyAnimeList for reception and fan debates. Affects How readers took it.
 - [ ] Re-score and sign off: update all scores, change the label to "Full read," record the reviewer's name, and delete any page photos.
