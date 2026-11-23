@@ -392,16 +392,21 @@ function ageBand(s) {
   if (!s.entry) return null;
   if (isAdult(s)) return '18+';
   const sc = {}; (s.entry.content||[]).forEach(c => sc[c.category] = c.score || 0);
-  return BANDS.find(b => b === '18+' || Object.entries(BAND_CAPS[b]).every(([k,v]) => (sc[k]||0) <= v));
+  const b = BANDS.find(b => b === '18+' || Object.entries(BAND_CAPS[b]).every(([k,v]) => (sc[k]||0) <= v));
+  const f = s.band_floor && s.band_floor.band; // minimum from strong reader tags (gore, psychosexual, horror...)
+  s._floorUp = !!(f && BANDS.indexOf(f) > BANDS.indexOf(b));
+  return s._floorUp ? f : b;
 }
+const floorRaised = s => !!(ageBand(s) && s._floorUp);
 const AGES = [['6 or under','7+'],['7 to 9','7+'],['10 to 12','10+'],['13 to 15','13+'],['16 or 17','16+'],['18 or older','18+']];
-const bandChip = s => { const b = ageBand(s); return b ? `<span class="chip" style="font-weight:700" title="Suggested from the mature content scores, not a publisher rating">Ages ${b}</span>` : ''; };
+const bandChip = s => { const b = ageBand(s); return b ? `<span class="chip" style="font-weight:700" title="${floorRaised(s) ? esc('No younger than '+s.band_floor.band+' because readers tag it '+s.band_floor.why.join(', ')+' (AniList)') : 'Suggested from the mature content scores, not a publisher rating'}">Ages ${b}</span>` : ''; };
 const BAND_AGE = {'7+':7,'10+':10,'13+':13,'16+':16,'18+':18};
 const pubOlder = s => { const b = ageBand(s), r = s.pubrating; return b && r && r.min_age > BAND_AGE[b]; };
 const pubChip = s => { const r = s.pubrating; if (!r) return ''; return `<span class="chip" title="The publisher's own age rating for the English edition"${pubOlder(s)?' style="color:var(--gF);border-color:currentColor"':''}>${esc(r.publisher)}: ${esc(r.rating)}</span>`; };
 const pubLine = s => { const r = s.pubrating; if (!r) return '<span class="note">No publisher rating on file yet.</span>'; return `<span class="note">Publisher rating: <a href="${esc(r.url)}" rel="noopener">${esc(r.publisher)} ${esc(r.rating)}</a>.${pubOlder(s)?' <strong>The publisher rates it for older readers than our band suggests.</strong> Go with the older age until we check.':''}</span>`; };
 const BAND_LEGEND = `<p>Each graded series gets a <strong>suggested age band</strong>: 7+, 10+, 13+, 16+ or 18+. It comes from the mature content scores. A series fits a band only if <em>every</em> category is at or under that band's limit:</p>
   <div class="scroll"><table><thead><tr><th>Category</th>${BANDS.slice(0,4).map(b=>`<th class="num">${b}</th>`).join('')}</tr></thead><tbody>${Object.keys(BAND_CAPS['7+']).map(k=>`<tr><td>${k}</td>${BANDS.slice(0,4).map(b=>`<td class="num">≤ ${BAND_CAPS[b][k]}</td>`).join('')}</tr>`).join('')}</tbody></table></div>
+  <p>Some series also get a <strong>minimum band</strong> from strong reader tags on AniList, because a quick read built from summaries can understate them: a horror series is at least 13+, as is one tagged for suicide, self-harm, abuse or a death game; one strongly tagged for gore, torture, psychosexual themes, sexual violence or heavy body horror is at least 16+. Hover the age chip to see why.</p>
   <p>Anything above the 16+ limits, and any title marked adult, is 18+. This is our suggestion, not the publisher's rating, and it does not judge the message: a 13+ series can still grade D for your tradition. When a series is flagged "may be understated", treat the band as a minimum.</p>
   <p>Where we have it, the <strong>publisher's own rating</strong> is shown beside our band (for example VIZ "T+ (Older Teen)" or Seven Seas "Teen 13+"). It is read from the publisher's site for VIZ Media, Yen Press and Seven Seas. Kodansha and smaller publishers are not covered yet. When the publisher rates a series for older readers than our band, the chip is shown in red and we suggest going with the older age. The guided results on the opening page leave such series out of the younger age groups.</p>`;
 // ---- Simple start: one question at a time, then a short list. Detail opens on tap. ----
