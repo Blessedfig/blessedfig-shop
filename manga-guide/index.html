@@ -178,6 +178,13 @@ details.sect>summary .sh{font-size:.88rem;color:var(--muted);font-weight:400}
 details.sect>div,details.sect>.md{padding:0 18px 18px}
 details.sect .panel{border:0;padding:0;background:none}
 details.sect .panel>h2{display:none}
+details.why-t{border:1px solid var(--rule);border-radius:10px;padding:8px 12px;background:var(--panel)}
+details.why-t>summary{cursor:pointer;display:flex;flex-wrap:wrap;align-items:center;gap:8px;list-style-position:outside}
+details.why-t[open]>summary{margin-bottom:6px}
+ol.steps{margin:6px 0 4px;padding-left:1.3em;display:grid;gap:10px}
+ol.steps>li>.why{margin-top:6px}
+.cite{color:var(--ink);font-style:italic}
+#whyfor{max-width:100%}
 .hero,.res,.find{max-width:820px}
 /* explore menu */
 details.menu{position:relative}
@@ -507,6 +514,72 @@ function viewIdeas() {
     <p class="note">Only analyzed series appear. The list of philosophies will keep growing.</p></div>`;
 }
 
+let R = null, RLOAD = null, WHY = null, CUR = null;
+const loadReasons = () => RLOAD || (RLOAD = fetch('reasons.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ R = d; return d; }).catch(()=>{ RLOAD = null; return null; }));
+const TOPIC_WORDS = [
+  ['Same-sex relationships and gender identity', /same-sex|\bgay\b|lesbian|boys' love|girls' love|\bBL\b|\byuri\b|transgender|gender identity|cross-?dress|LGBT|shounen ai|shoujo ai/i],
+  ['Sexuality, nudity and modesty', /sex|nud|fan ?service|modest|lust|chastit|purity|ecchi|suggestive|underwear|harem|kiss|romance|erotic/i],
+  ['Violence, war and revenge', /violen|kill|murder|\bwar\b|revenge|vengean|fight|battle|gore|blood|tortur|bully/i],
+  ['Magic, occult and spirits', /magic|occult|demon|devil|spirit|curse|sorcer|witch|ghost|yokai|summon|necromanc|spell|supernatural/i],
+  ['Other religions and gods shown', /\bgods?\b|godd?ess|deit|shrine|religio|idol|\bkami\b|\bcult\b|pantheon|reincarnat/i],
+  ['Death, afterlife and suicide', /\bdeath|\bdie[sd]?\b|dying|afterlife|suicid|self-harm|resurrect|grief|mourn/i],
+  ['Lying and deception', /\blie\b|\blies\b|lying|decei|decept|manipulat|trick|fraud|scheme|secret identit/i],
+  ['Authority, parents and rebellion', /authorit|rebel|obedien|disobe|elders|govern|\blaw\b|teacher|defian/i],
+  ['Gender roles and family', /family|marriage|marri|wife|husband|mother|father|parent|gender role|complementar|household/i],
+  ['Alcohol', /alcohol|drink|drunk|\bsake\b|beer|wine/i],
+  ['Tobacco and drugs', /drug|smok|tobacco|cigarette|narcotic/i],
+  ['Language and blasphemy', /profan|swear|blasphem|crude|vulgar|language/i]];
+const CAT_TOPIC = {'Violence':['Violence, war and revenge',4], 'Sexuality and romance':['Sexuality, nudity and modesty',4], 'Language':['Language and blasphemy',4], 'Substances':['Alcohol',3], 'Mental health and self-harm':['Death, afterlife and suicide',5]};
+function topicsFor(e, f, talk) {
+  const text = [f.aligns, f.concerns, talk].join(' '), hits = new Map();
+  TOPIC_WORDS.forEach(([t, re], i) => { const m = text.match(new RegExp(re.source, 'gi')); if (m) hits.set(t, m.length * 10 - i); });
+  (e.content||[]).forEach(c => { const x = CAT_TOPIC[c.category]; if (x && (c.score||0) >= x[1]) hits.set(x[0], (hits.get(x[0])||0) + c.score); });
+  return [...hits.entries()].sort((a,b)=>b[1]-a[1]).slice(0, 4).map(x=>x[0]);
+}
+const CONCERN_TEXT = {Minor:'little to raise about what is shown', Discuss:'what is shown is worth talking through', Significant:'many families in this tradition would hold off or read together'};
+const host = u => u.replace(/^https?:\/\/(www\.)?/,'').split('/')[0];
+function whyTradition(s, name, open) {
+  const e = s.entry, f = e.frames.find(x=>x.frame===name);
+  const g = f ? provisional(f) : {g:null}, G = R && R.frames[name], deep = !e.quick && R && R.entries[e.slug];
+  const talk = deep && deep.talking[name];
+  if (!f || !g.g) return `<details class="why-t" ${open?'open':''}><summary>${gradeTile(null,false,'sm')} <b>${esc(name)}</b> <span class="note">not graded yet for this series</span></summary></details>`;
+  const topics = G ? topicsFor(e, f, talk) : [];
+  return `<details class="why-t" ${open?'open':''}><summary>${gradeTile(g.g, g.prov, 'sm')} <b>${esc(name)}</b> <span class="note">${esc(GRADE_TEXT[g.g][0])}${f.weight?` · depiction concern: ${esc(f.weight.toLowerCase())}`:''}</span></summary>
+  <ol class="steps">
+    <li><b>What the story does.</b> These are the story facts this grade weighed, written for this series.
+      <div class="why"><span><b>What fits:</b> ${esc(f.aligns||'Not recorded.')}</span><span><b>What may concern:</b> ${esc(f.concerns||'Not recorded.')}</span></div></li>
+    <li><b>The teaching applied.</b> ${talk ? `Teaching cited for this series, from the tradition's own sources: <span class="cite">${esc(talk)}</span>` : `<span class="note">For this quick read, the grader did not write down which teaching each point rests on. Below are the positions from this tradition's guide on the topics this series raises, matched by topic.</span>`}
+      ${topics.length ? `${talk?'<p class="note">Related positions from the tradition\'s guide:</p>':''}<div class="scroll"><table><tbody>${topics.map(t=>`<tr><th scope="row">${esc(t)}</th><td>${esc(G.topics[t]||'')}</td></tr>`).join('')}</tbody></table></div>` : ''}
+      ${G && G.media ? `<p class="note"><b>On art and stories:</b> ${esc(G.media)}</p>` : ''}</li>
+    <li><b>Why ${g.prov ? 'a provisional' : 'this'} grade: ${g.g}.</b> ${g.prov ? `No direct grade was written for this tradition yet, so the grade is worked out from the depiction concern (Minor = A, Discuss = B, Significant = C).` : `The grade is about the message only. It asks whether the story endorses what it shows or only depicts it, whether evil is framed as evil, whether actions have consequences, whether repentance, redemption or justice is possible, and how sacred things are treated. ${g.g} means "${esc(GRADE_TEXT[g.g][0].toLowerCase())}": ${esc(GRADE_TEXT[g.g][1].toLowerCase())}.`} Intensity alone never lowers a grade.</li>
+    ${f.weight ? `<li><b>Depiction concern: ${esc(f.weight)}.</b> This is the tradition's view of how explicit the series is, apart from its message: ${esc(CONCERN_TEXT[f.weight]||'')}. It rests on the mature-content evidence below.</li>` : ''}
+  </ol>
+  ${f.legacy ? '<p class="note">This is an older combined grade, written before the tradition was split into branches. It will be re-graded.</p>' : ''}
+  ${G ? `<p class="note">Standard used: the ${esc(name)} guide, drawn from ${esc((G.sources||'the tradition\'s own texts').replace(/\.$/,''))}.${G.status==='draft'?' This guide is still a draft written from general knowledge and is being checked against those sources.':''} <a href="#method-${encodeURIComponent(name)}">Read the full guide</a>.</p>` : ''}
+  </details>`;
+}
+function whyBody(s) {
+  if (!R) return '<p class="empty">Loading the reasoning…</p>';
+  const e = s.entry, p = (WHY && WHY.base === state.profile) ? WHY.v : state.profile;
+  const names = p === 'Christian (any)' ? CHRISTIAN : [p];
+  const fit = fitFor(e, p), mid = fit && fit.f.frame;
+  const deep = !e.quick && R.entries[e.slug];
+  const ev = [...(e.content||[])].filter(c=>(c.score||0) >= 1).sort((a,b)=>(b.score||0)-(a.score||0));
+  const srcs = e.quick ? (e.sources||[]) : (deep ? deep.sources : []);
+  const open = deep ? deep.checklist.filter(c=>!c.done) : (e.to_verify||[]).map(t=>({text:t}));
+  const opts = ['Christian (any)', ...GROUPS.flatMap(x=>x[1]).filter(x=>x!=='Christian (any)')];
+  return `<label class="eyebrow" for="whyfor">Show the reasoning for</label><select id="whyfor">${opts.map(o=>`<option ${o===p?'selected':''}>${esc(o)}</option>`).join('')}</select>
+  ${names.length > 1 ? `<p class="note">"Any Christian church" shows the middle grade of ${names.length} traditions. ${mid?`The middle one here is ${esc(mid)}, opened first.`:''} Tap any tradition to see its steps.</p>` : ''}
+  ${deep && deep.weigh ? `<p><b>What every tradition weighed for this series:</b> ${esc(deep.weigh)}</p>` : ''}
+  <div class="stack" style="gap:8px">${(mid ? [mid, ...names.filter(n=>n!==mid)] : names).map((n,i)=>whyTradition(s, n, i===0)).join('')}</div>
+  <h3>Mature-content evidence</h3><p class="note">The basis for every depiction concern. Scores run 0 (none) to 10 (extreme) and measure how much is on the page, not whether the story approves.</p>
+  <div class="scroll"><table><tbody>${ev.map(c=>`<tr><td>${esc(c.category)}<div class="note" style="font-size:.84rem">${esc(c.framing||'')}${c.frequency?`, ${esc(c.frequency.toLowerCase())}`:''}</div></td><td class="num">${meter(c.score)}</td><td>${esc(c.note||'')}</td></tr>`).join('')}</tbody></table></div>
+  ${!e.quick ? '<p class="note">Chapter-by-chapter evidence for each score is in the full essay below, under "Content scores".</p>' : ''}
+  <h3>Sources and confidence</h3>
+  <p>${esc(e.label)}, <strong>${esc(e.confidence)} confidence</strong>. No pages have been read yet, so every grade can change after a full read. Facts that move a score need two independent sources.</p>
+  ${srcs.length ? `<p class="note">Pages used: ${srcs.slice(0, 12).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join(', ')}${srcs.length>12?`, and ${srcs.length-12} more listed in the full essay`:''}.</p>` : ''}
+  ${open.length ? `<details><summary>Still to check in a full read (${open.length})</summary><ul>${open.map(c=>`<li>${esc(c.text)}</li>`).join('')}</ul></details>` : ''}`;
+}
 const sect = (title, hint, body, open = false) => `<details class="panel sect" ${open?'open':''}><summary><span class="st">${title}</span>${hint?`<span class="sh">${hint}</span>`:''}</summary><div class="stack">${body}</div></details>`;
 function viewSeries(s) {
   const e = s.entry, p = state.profile;
@@ -526,6 +599,7 @@ function viewSeries(s) {
     if (fit) h += `<div class="why"><span><b>What fits your tradition:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>`;
     const top = [...(e.content||[])].sort((a,b)=>(b.score||0)-(a.score||0))[0];
     h += `<p class="eyebrow" style="margin-top:8px">Go deeper</p><div class="stack" style="gap:10px">`;
+    h += `<details class="panel sect" id="whysect"><summary><span class="st">How we reached this grade</span><span class="sh">Step by step: story facts, the teaching applied, evidence and sources</span></summary><div class="stack" id="why">${whyBody(s)}</div></details>`;
     h += sect('What is on the page', `${esc(e.overall)} / 10${top&&top.score?`, highest: ${esc(top.category.toLowerCase())}`:''}`,
       `<p class="note">How much of each kind of mature content the series shows, from 0 (none) to 10 (extreme). It measures how much is on the page, not whether the story approves of it.</p>
       <div class="scroll"><table><tbody>${e.content.map(c=>`<tr><td>${esc(c.category)}<div class="note" style="font-size:.84rem">${esc(c.framing)}</div></td><td class="num">${meter(c.score)}</td></tr>`).join('')}</tbody></table></div>
@@ -564,12 +638,29 @@ function viewSeries(s) {
 }
 
 
+const tslug = n => n.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+function guidesBody() {
+  if (!R) return '<p class="empty">Loading the guides…</p>';
+  return GROUPS.map(([gname, items]) => `<h3>${esc(gname)}</h3>` + items.filter(n=>R.frames[n]).map(n => { const G = R.frames[n];
+    return `<details class="why-t" id="tr-${tslug(n)}"><summary><b>${esc(n)}</b></summary><div class="stack" style="gap:8px">
+    ${[['Core beliefs',G.beliefs],['What it values',G.values],['What it forbids or discourages',G.forbids],['Family, sex and identity',G.family],['Stories, fiction and art',G.stories],['Range within the tradition',G.range]].filter(x=>x[1]).map(([k,v])=>`<p><b>${k}:</b> ${esc(v)}</p>`).join('')}
+    <div class="scroll"><table><thead><tr><th>Topic</th><th>Usual position</th></tr></thead><tbody>${Object.entries(G.topics).map(([k,v])=>`<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</tbody></table></div>
+    ${G.media?`<p><b>Teaching on art, media and depiction:</b> ${esc(G.media)}</p>`:''}
+    <p class="note">Own sources: ${esc(G.sources)}.${G.status==='draft'?' Status: draft from general knowledge, being checked against these sources.':''}</p></div></details>`; }).join('')).join('');
+}
 function viewMethod() {
   return `<div class="stack md" style="max-width:72ch"><h1 style="display:block">How we grade</h1>
   <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order.</p>
   <h2>The S to F grade</h2><p>Each analyzed series is read from inside each tradition using that tradition's own teaching, such as the Catechism for Catholics, the Baptist Faith and Message for many Baptists, or the Five Precepts for Buddhists.</p>
   <ul>${GRADES.map(g=>`<li><strong>${g}: ${GRADE_TEXT[g][0]}.</strong> ${GRADE_TEXT[g][1]}.</li>`).join('')}</ul>
   <p>The grade is about the message: how well what the series holds up as good fits the tradition's teaching, including its own teaching on art and stories. It is not lowered just because a series is intense. What is shown on the page is rated separately as a <strong>depiction concern</strong> for each tradition: Minor (little to raise), Discuss (worth talking through) or Significant (many families would hold off or read together).</p><p>A grade with a dashed border is provisional. It is worked out from the depiction concern until the entry is graded directly. A row marked "Older combined grade" was written before the tradition was split into branches and will be re-graded.</p>
+  <h2>How a grade is reached, step by step</h2><ol>
+  <li><strong>Gather the story facts.</strong> From official synopses, publisher ratings, parent guides, reviews and database tags, we note what the series shows and how it frames it: who wins, who is shown sympathetically, what is rewarded and what has consequences.</li>
+  <li><strong>Read them through each tradition's guide.</strong> Each of the ${GROUPS.flatMap(g=>g[1]).length - 1} traditions has a written guide: its core beliefs, what it values and forbids, its position on twelve common topics (violence, sexuality, magic and spirits, other religions, authority, death and more), and its own teaching on art and stories. The guides are listed below.</li>
+  <li><strong>Grade the message.</strong> For each tradition we ask: does the series endorse what it shows or only depict it? Is evil framed as evil? Are there consequences? Is repentance, redemption or justice possible? How are sacred things treated? The answer becomes the S to F grade, with one line on what fits and one on what may concern.</li>
+  <li><strong>Rate the depiction concern separately.</strong> Using the mature-content scores and the tradition's teaching on depiction, we record whether what is shown is a Minor, Discuss or Significant concern for that tradition.</li>
+  <li><strong>Record sources and confidence.</strong> Every entry lists the pages used, a confidence level, and what still needs checking against the printed pages.</li></ol>
+  <p>Every graded series has a <strong>How we reached this grade</strong> section that walks through these steps for each tradition. Deep entries also name the specific teaching cited, such as a Catechism paragraph or a verse. Quick reads show the matching positions from the tradition's guide instead, and say so.</p>
   <h2>Mature content (0 to 10)</h2>${MC_LEGEND}
   <h2>Suggested age bands</h2>${BAND_LEGEND}
   <h2>Philosophies</h2><p>Each series is checked against more than thirty worldviews and philosophies, from Christian and Buddhist to Stoicism, Utilitarianism, Pragmatism and Nihilism. Closeness runs from S (strongly affirmed) to F (strongly critiqued).</p>
@@ -577,6 +668,8 @@ function viewMethod() {
   <li><strong>From summaries.</strong> Built from official synopses, publisher ratings, parent guides, reviews and fan-wiki plot facts. No pages read. Every fact that moves a score needs two independent sources.</li>
   <li><strong>Full read.</strong> Checked against the official English edition and signed off by a reviewer.</li></ul>
   <h2>Sources</h2><p>AniList, MangaUpdates, MangaDex, Wikipedia, publisher pages, parent guides and reviews. Fan wikis are used for plot facts only and never quoted. We never use pirated scans or fan translations.</p>
+  <h2>Each tradition's standard</h2><p>These guides are the yardstick for every grade. Each is written in the tradition's own terms and lists the sources it draws on. All are still drafts written from general knowledge and are being checked against those sources.</p>
+  <div id="guides" class="stack" style="gap:8px">${guidesBody()}</div>
   <p class="note">Catalog built ${esc(D.built)}. ${D.series.length} series in this preview.</p></div>`;
 }
 
@@ -590,10 +683,10 @@ function render() {
   const h = location.hash.slice(1) || 'start'; let html, view = h, md = null;
   if (h.startsWith('s-') || h.startsWith('e-')) {
     const s = h.startsWith('s-') ? ALL.find(x=>String(x.id)===h.slice(2)) : ALL.find(x=>x.entry?.slug===h.slice(2));
-    html = s ? viewSeries(s) : '<p class="empty">Series not found. <a href="#browse">See all manga</a>.</p>'; view = 'series'; md = s?.entry?.slug;
+    html = s ? viewSeries(s) : '<p class="empty">Series not found. <a href="#browse">See all manga</a>.</p>'; view = 'series'; md = s?.entry?.slug; CUR = s;
   } else if (h === 'browse') html = viewBrowse();
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
-  else if (h === 'method') html = viewMethod();
+  else if (h === 'method' || h.startsWith('method-')) { html = viewMethod(); view = 'method'; }
   else if (h === 'values') html = viewValues();
   else if (h === 'popular') html = viewPopular();
   else { html = viewStart(); view = 'start'; }
@@ -601,7 +694,16 @@ function render() {
   document.querySelectorAll('nav.tabs a').forEach(a=>{ if (a.dataset.view===view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
   const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','method'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
   if (md) loadMd(md);
+  if (view === 'series' || view === 'method') { const had = !!R, cur = view === 'series' && CUR?.entry ? CUR : null;
+    loadReasons().then(d => { if (!d || location.hash.slice(1) !== h) return;
+      if (!had) { const w = $('#why'), gd = $('#guides'); if (w && cur) { w.innerHTML = whyBody(cur); bindWhy(cur); } if (gd) gd.innerHTML = guidesBody(); }
+      if (h.startsWith('method-')) { const el = document.getElementById('tr-' + tslug(decodeURIComponent(h.slice(7)))); if (el) { el.open = true; el.scrollIntoView(); } } });
+    if (cur) bindWhy(cur); }
   bind();
+}
+function bindWhy(s) {
+  const el = document.getElementById('whyfor'); if (!el) return;
+  el.addEventListener('change', e => { WHY = {base: state.profile, v: e.target.value}; const w = $('#why'); w.innerHTML = whyBody(s); bindWhy(s); });
 }
 function bind() {
   const on = (id, ev, fn) => { const el = document.getElementById(id); if (el) el.addEventListener(ev, fn); };
@@ -629,7 +731,7 @@ function bind() {
   on('find','input',e=>{ state.find=e.target.value; const r=$('#findres'); if (r) r.innerHTML=findResults(e.target.value); });
   { const r=$('#findres'); if (r && state.find) r.innerHTML=findResults(state.find); }
 }
-window.addEventListener('hashchange', ()=>{ render(); window.scrollTo(0,0); });
+window.addEventListener('hashchange', ()=>{ WHY = null; render(); window.scrollTo(0,0); });
 document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !m.contains(e.target)) m.open=false; });
 fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
   $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
