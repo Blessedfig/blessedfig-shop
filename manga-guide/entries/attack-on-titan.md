@@ -107,6 +107,20 @@ The story kills or ruins almost everyone, but its ending sides with those who ch
 
 **Fan favorites versus the official moral.** In Bessatsu Shonen Magazine's third official character poll (results in the January 2018 issue; 6,624 votes), Erwin placed first with 2,055 votes, then Levi (1,316), Hange (677) and Eren (613); in the second poll (2015) Levi won with nearly double Erwin's votes (Anime News Network). The fans' top picks are the Survey Corps leaders the story honors, not the protagonist. Eren is the most argued-over: the Berkeley Political Review describes online communities that turned him into a hero and cheered his genocide, often ironically, and argues that this misreading proves the story's warning about fascism's appeal. The New Republic reported that some far-right posters read the Eldians as a stand-in for white people, while noting most readers see the story as condemning fascism. The "Eren did nothing wrong" slogan is from general knowledge; to verify. Zeke and Reiner, villains for long stretches, drew strong sympathy (from general knowledge).
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Fair
+- Evidence: New Republic (Amin) and Berkeley Political Review read a clear warning about fascism; no review in the entry calls it preachy.
+- Note: Characters state their positions on freedom, revenge and peace openly, and the story gives each side a hearing before its ending.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Eren Yeager | Freedom for his people at any cost | Other | Mixed |
+| Armin Arlert | Dialogue and understanding over killing | Hero | Sympathetic |
+| Zeke Yeager | Anti-natalist mercy: end suffering by ending births | Villain | Fair |
+| Reiner Braun | A child soldier shaped by state propaganda | Foil | Sympathetic |
+
 ## Creator and publisher context
 
 - Isayama has said the Titans express his fear of meeting someone he cannot communicate with, a feeling drawn from an incident at an internet cafe (Wikipedia).

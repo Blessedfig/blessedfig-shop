@@ -108,6 +108,19 @@ Individual friendship and honest striving win. The president who seizes the sacr
 
 **Fan favorites versus the official moral.** Gyro Zeppeli is widely treated as the heart of the story; Geek.com's K. Thor Jensen called the Johnny-Gyro friendship one of the best platonic friendships in comics (via Wikipedia). In a 2016 Buzz Plus poll of 500 JoJo fans on the series' final villains, the alternate Dio placed 5th and Funny Valentine 8th (Otaku USA). Valentine is a frequent subject of "best villain" lists (Fandomwire, found, not opened). Fans and TV Tropes often read him as a "Noble Demon" with "a point" (TV Tropes, White-and-Grey Morality), so his patriotism draws more sympathy than the plot's verdict on him. The phrase "dojyan!" and his napkin speech are well-known fan references (jojowiki). An ANN column called the series "a cartoon about a horse race with Jesus."
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness. Araki respects Valentine's patriotism and courage (via Wikipedia).
+- Note: Its themes of growth and the state versus the individual come through the race, and the main villain's patriotism is argued at full strength.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Funny Valentine | Nation first, whatever the cost to individuals | Villain | Fair |
+| Gyro Zeppeli | Honor and justice above law | Hero | Sympathetic |
+| Johnny Joestar | Selfish striving that becomes growth | Hero | Mixed |
+
 ## Creator and publisher context
 
 - Hirohiko Araki has created JoJo's Bizarre Adventure since 1987. Statements on this Part (via Wikipedia and jojowiki): the theme is "the pursuit of satisfaction." A recurring JoJo message is humanity's ability to grow "through strength and spirit, without relying on machines or gods." Good and evil are not always easy to tell apart. Valentine's patriotism and goals could be just; his exploitation of powerless people is what makes him evil. The fighting president came from Araki's enjoyment of the film Independence Day. Johnny's paralysis was not planned at the start. Araki made research trips to the West Coast deserts, the Great Plains, Chicago and New York.

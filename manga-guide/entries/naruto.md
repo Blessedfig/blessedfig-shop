@@ -111,6 +111,20 @@ Characters who choose understanding and bonds win; those who seek peace through 
 
 **Fan favorites versus the official moral.** In the official NARUTOP99 worldwide poll (voting December 17, 2022 to January 31, 2023, JST; about 4.6 million votes), Minato won in all regions and age groups, ahead of Itachi and Sakura, and the prize was a new Kishimoto one-shot about him (official NARUTO site, April 13, 2023). Sportskeeda's full list gives the top ten as Minato, Itachi, Sakura, Shisui, Kakashi, Naruto, Sakumo, Sasuke, Madara and Hinata, with 792,257 votes for Minato (Sportskeeda dates voting from December 21). Obito placed 11th, Jiraiya 12th, Gaara 15th, Orochimaru 23rd, Nagato 31st and Killer Bee 52nd. Four of the top ten are Uchiha, the clan whose revenge the story treats as the problem, and two (Itachi, Madara) are killers the story condemns or redeems. Naruto himself placed 6th. Sakura's 3rd place is notable because she has long been described as one of the most disliked characters in English-speaking fandom; TV Tropes' YMMV page says she is "one of the most hated characters in American fandom alongside Sasuke" but less disliked in Japan, and Kotaku's poll headline said fans "finally put some respect on Sakura's name" (headline from search; not opened). Memes include the "Naruto run" and "Talk no Jutsu," fan shorthand for Naruto's habit of ending fights with speeches; TV Tropes' YMMV page calls the end of the Pain arc a "Writer Cop Out."
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 6
+- Opposing views: Fair
+- Evidence: Fans coined "Talk no Jutsu" for Naruto ending fights with speeches; TV Tropes calls the Pain arc ending a "Writer Cop Out."
+- Note: Rival theories of peace are argued in speeches during fights and are usually resolved through Naruto's persuasion.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Naruto | Bonds and understanding over hatred | Hero | Sympathetic |
+| Pain / Nagato | Peace through shared pain and terror | Villain | Fair |
+| Itachi | A few must do terrible things for the many | Other | Sympathetic |
+| Obito / Madara | Escape into a dream world | Villain | Mixed |
+
 ## Creator and publisher context
 
 - Kishimoto (born 1974, Okayama) told Nippon.com he "projected my own fierce desire to be recognized" onto Naruto. He said he wanted a "pop" manga that "turned standard concepts of ninja on their heads." He said he does not want to impose one idea on readers. He cited the anime *Sasuke* and *Dragon Ball* as influences, and said the tailed beasts began because "I just wanted to draw a monster."

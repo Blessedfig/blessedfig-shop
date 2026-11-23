@@ -107,6 +107,19 @@ Characters who seek total control (Makima, Barem's plan, Yoru's war) lose, while
 
 **Fan favorites versus the official moral.** The official polls favor the dead and the dangerous. Power won the first official poll (2020) and Aki the second (Soap Central summary). In the third poll (voting Sep 17 to Oct 21, 2025), Reze placed first with 205,775 votes, Makima second (101,454), Aki third, Denji fourth and Power fifth; Asa was tenth (Soap Central). TV Tropes notes that Makima placed second in the first two polls and that some fans defend her because she is attractive, while others read her treatment of Denji as grooming. Memes include Makima's "Bang," Kobeni's dance scene, "Aki-47" and "Dadji" for Denji as Nayuta's caretaker (TV Tropes). Headlines report other oddities, such as "Kobeni's car" placing above Makima and Pochita in one poll (Anime Hunch headline; not opened).
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 2
+- Opposing views: Fair
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness.
+- Note: Its ideas come through absurd, violent events and the characters' choices rather than stated morals.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Makima | A better world through total control | Villain | Mixed |
+| Denji | Simple desires and living day to day | Hero | Sympathetic |
+| Aki Hayakawa | Duty and revenge | Other | Sympathetic |
+
 ## Creator and publisher context
 
 - Fujimoto cites "The Texas Chain Saw Massacre" (1974) as a starting point. He jokingly called the series a "copycat" of Dorohedoro and Jujutsu Kaisen, a "wicked FLCL" and a "pop Abara" (Wikipedia, citing interviews).

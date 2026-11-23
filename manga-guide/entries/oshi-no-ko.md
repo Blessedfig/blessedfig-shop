@@ -107,6 +107,19 @@ The predator is destroyed and the industry is exposed, but the avenger dies too;
 
 **Fan favorites versus the official moral.** Ai is the story's icon; in a 2023 Benesse poll Japanese children ranked her the third most admired "person," behind a friend and their mother (Wikipedia). Kana and Akane each have large followings, and the "who will Aqua choose" rivalry dominated fan debate before the ending (from general knowledge; to verify). The ending reversed much of the goodwill: Dexerto quoted fans calling it the worst ending they had seen, and 12 of the 20 MyAnimeList manga reviews visible on the reviews page were "Not Recommended," most over the ending (opened). The Ruby and Aqua kisses (ch. 143) drew "worst chapter ever" reactions while a minority welcomed the pairing (Pinkvilla).
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Mixed
+- Evidence: ANN's This Week in Anime praises its industry critique; Nick Creamer finds the premise "too contrived and insular"; neither calls it preachy.
+- Note: Its critique of the entertainment industry runs through plot events and in-story productions such as the film 15 Years of Lies.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Ai Hoshino | Love can begin as a performance | Hero | Sympathetic |
+| Aqua Hoshino | Revenge as a life's purpose | Hero | Mixed |
+| Hikaru Kamiki | People as things to be used | Villain | Fair |
+
 ## Creator and publisher context
 
 - Aka Akasaka (story) and Mengo Yokoyari (art) are publicly known professional names; neither has spoken publicly about religion or politics as far as found. No personal controversies reported by reputable outlets were found.

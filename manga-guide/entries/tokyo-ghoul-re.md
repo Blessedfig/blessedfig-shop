@@ -112,6 +112,20 @@ Coexistence wins: the corrupt CCG and its ruling clan fall, the purge ends, and 
 
 **Fan favorites versus the official moral.** MyAnimeList ranks the manga #21 in popularity with about 24,000 favorites (as viewed), lower than the first series' 52,000. Official Weekly Young Jump character poll results were not found (to verify). MAL reviewers praise "moral grey areas" and Kaneki's development, but the most common complaint is a rushed final arc ("Poorly executed redemptions and revivals," bluecoke_, 9/10), and one reviewer called the late Dragon a "convenient plot" device. Mutsuki is a lightning rod: one MAL reviewer calls him the series' worst character, while a library reviewer criticizes the book for how it treats him. Many fans of the first series' tragic tone were "baffled" by the happy ending, which Ishida says he intended.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Mixed
+- Evidence: Beneath the Tangles finds its dark themes "authentic"; No Flying No Tights criticizes Mutsuki's handling; neither calls it preachy.
+- Note: Coexistence and the choice to live are argued through Kaneki's confrontation with Furuta's nihilism.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Ken Kaneki | Accept past sins and choose to live | Hero | Sympathetic |
+| Nimura Furuta | Everything ends, so nothing matters | Villain | Mixed |
+| Kishou Arima | Serve a cause in secret and pass it on | Mentor | Sympathetic |
+| Washuu clan | Hidden aristocracy ruling through the CCG | Villain | Fair |
+
 ## Creator and publisher context
 
 - **Sui Ishida** (b. 1986, Fukuoka). Background in tokyo-ghoul.md; not repeated.

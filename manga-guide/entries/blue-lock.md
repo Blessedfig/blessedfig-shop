@@ -110,6 +110,19 @@ The hungriest, most self-aware egoists win, the self-effacing and the passive ar
 
 **Fan favorites versus the official moral.** Blue Lock's fan favorites are mostly the bold, flamboyant egoists. TV Tropes (opened) reports that in the 2020 popularity poll Kunigami and Rin placed ahead of Raichi, who was third; that Shidou, Sae Itoshi and Michael Kaiser are "generally well liked" for their bombastic personalities; that Isagi's "dethroning" of Kaiser was widely enjoyed; and that Kuon, the one player who cheats, is among the least popular characters. Kunigami became divisive after his Wild Card return, when he lost his "nice guy" persona. An All About Japan reader survey (2026) on favorite characters put Isagi second, behind another character (headline: "2位「潔世一」を抑えた1位は?"; not opened). Online rankings by Sportskeeda and Ranker and a 2025 SPACOMIC ranking found in search feature Nagi, Rin, Bachira, Kaiser and Barou near the top (not opened; to verify). Nagi was popular enough for his own spin-off manga and film (Wikipedia). Since the story's official moral is itself "be an egoist," fan favoritism and the moral point the same way; the contrast is with readers who prefer Haikyu!!'s teamwork model (Sportskeeda article comparing how the two define selfishness, found, not opened). Michael Kaiser and Shidou are the closest things to beloved villains (TV Tropes).
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 6
+- Opposing views: Mixed
+- Evidence: Daily Campus calls it "propaganda" for hyper-competitive individualism; Common Sense Media says self-centered ego themes overshadow its positives.
+- Note: Jinpachi Ego states the series' thesis in direct speeches, and the teamwork view is voiced mostly by players who are eliminated.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Jinpachi Ego | Japan needs egoists; cooperation is weakness | Mentor | Sympathetic |
+| Yoichi Isagi | Ego as self-knowledge and adaptability | Hero | Sympathetic |
+| Eliminated players (Kira and others) | The team-player style of passing over shooting | Foil | Mixed |
+
 ## Creator and publisher context
 
 - **Interview with both creators (Anime Corner, published August 29, 2026; held at Kodansha House, Los Angeles, during Anime Expo 2026; opened).** Kaneshiro described the early vision as "crossing over a soccer manga with elements of death games" and said the story is "more comparable to a battle manga." He said "the word ego became a cross point" of his frustrations with Japanese soccer and Japanese society, and that Japanese players "needed their strong will and ego" rather than worrying about how they looked to others. He recalled a Japanese team "known to pass the ball right before the goal." He said soccer is portrayed "not as eleven versus one, but it's always going to a one-on-one matchup," which he linked to his own tennis background, and that Isagi is "based on myself." He called the message "something that is universal." He said the team wants Japan to win real World Cups, though a win "jeopardizes the direction of the story," and that they "deliberatively chose" depictions that might draw criticism from real players, for the sake of story and character. Nomura said he drew it to look "more like a battle manga than just like a sports manga," hoped it could be "the entry point to liking the game," and feels responsible for examining each character as an individual as the audience grows.

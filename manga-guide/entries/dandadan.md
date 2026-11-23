@@ -110,6 +110,18 @@ Kindness and loyalty win, and the story mourns most of its monsters; predatory a
 
 **Fan favorites versus the official moral.** MyAnimeList lists the manga at 8.36 with about 222,000 members and popularity #39 (opened). Turbo Granny and Acrobatic Silky are widely discussed favorites: Comicbook.com called Silky's anime episode (ep. 7) "likely the saddest episode that anime fans will watch this year" (opened). Tatsu has said Momo is his favorite character (Anime Corner). The Season 2 song "Hunting Soul," sung by a fictional visual-kei band, topped several Billboard Japan overseas charts (AniTrendz). No official character popularity poll was located (to verify). Fan affection lands on the heroes and the tragic monsters, so it largely matches the official moral; the vulgar Turbo Granny is the beloved exception.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Mixed
+- Evidence: Reactor (Thomas): "Dandadan is a story about boundaries and respect." No review in the entry calls it preachy.
+- Note: Its themes of respect and found family come through comedy and horror episodes, and its predatory villains are condemned outright.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Momo and Okarun | Kindness and respect across difference | Hero | Sympathetic |
+| Seiko Ayase | Folk practice of coexistence between living and dead | Mentor | Sympathetic |
+
 ## Creator and publisher context
 
 - Yukinobu Tatsu worked as an assistant on *Chainsaw Man* and *Hell's Paradise*. The series was approved in mid-2020, but he delayed its start until both assistant jobs ended so he could finish them (Wikipedia).

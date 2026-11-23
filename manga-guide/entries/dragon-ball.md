@@ -106,6 +106,19 @@ The story rewards those who train, keep friends and show mercy; it defeats those
 
 **Fan favorites versus the official moral.** Goku tops official rankings (Oricon 2007, per Wikipedia). The first official worldwide character poll (results January 2026, ANN; vote totals not released) ranked Goku first, Vegeta second, Gohan third and Piccolo fourth, with Vegito, teen Trunks, Bardock and Android 18 next, Cell ninth, Frieza tenth and Bulma thirteenth. Two former villains (Vegeta, Piccolo) and two tyrants (Cell, Frieza) sit in the top ten. Memes such as "It's over 9000!" come from the anime dub, not the manga text (from general knowledge; to verify). The pattern is that fans prize the proud rival and the stylish tyrant, while the story's moral favors the humble, cheerful striver; the poll shows fans also rank the hero and his son highest.
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 2
+- Opposing views: Mixed
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness.
+- Note: Values of effort and friendship come through comedy and fights with little direct moral commentary.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Goku | Joyful striving and mercy | Hero | Sympathetic |
+| Vegeta | Pride and bloodline | Foil | Sympathetic |
+| Frieza | Cruelty and domination | Villain | Mixed |
+
 ## Creator and publisher context
 
 - Akira Toriyama was best known for *Dr. Slump* before *Dragon Ball*. On origins he said of Jackie Chan's *Drunken Master*: "If I hadn't seen this movie, I would never have come up with Dragon Ball" (Shonen Jump, January 2003, Kanzenshuu archive). He said the fight rhythm "definitely comes from me referencing the rhythmic quality to the fights in Jackie Chan movies," and that he lacked confidence in battle scenes at first and grew "more interested in thinking up the story" in the second half (Daizenshuu 1 interview, 1995).

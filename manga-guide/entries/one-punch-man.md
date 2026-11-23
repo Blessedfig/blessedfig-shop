@@ -111,6 +111,20 @@ Humble effort wins and status-seeking loses; the most beloved antagonist, Garou,
 
 **Fan favorites versus the official moral.** In the 2015 official character poll Saitama placed first and Fubuki (Blizzard) a close second, ahead of Sonic, Mumen Rider and Genos; a later chapter jokes about her placing (TV Tropes, opened; ANN headline "Saitama Ranks No.1 in One-Punch Man Character Poll", not opened). Crunchyroll Anime Awards nominated Saitama for Best Protagonist and Garou for Best Antagonist (Wikipedia). Garou is widely seen as a beloved villain, and fans argue over whether his defeat was "anticlimactic" (Sportskeeda headlines; not opened). Saitama's blank face, the "OK" meme and the training routine became internet memes (from general knowledge; to verify). Fan art and debate also focus on Tatsumaki and Fubuki, which tracks the fan-service element rather than the official moral. Overall, fan affection and the story's message mostly line up: readers love the humble hero and the sympathetic outsider.
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 2
+- Opposing views: Fair
+- Evidence: Christ and Pop Culture's Kloosterman draws a lesson on faithful effort; Common Sense Media finds "very little" positive messaging; neither calls it preachy.
+- Note: Its themes arrive mostly through parody and anticlimax rather than stated lessons.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Saitama | Strength alone is empty | Hero | Sympathetic |
+| Mumen Rider | Courage matters more than power | Hero | Sympathetic |
+| Garou | Sympathy for the outcast "monster" | Villain | Mixed |
+| Hero Association | Fame, rank and public image | Other | Mixed |
+
 ## Creator and publisher context
 
 - **ONE** (pen name) wrote and drew the webcomic from 2009 and writes the remake; he also created Mob Psycho 100 (from general knowledge; to verify). He wanted a hero who was already the strongest and to focus on everyday problems; he said punching is "oftentimes pretty useless against life's problems" (Wikipedia, opened). He took a one-year hiatus in 2010 for family reasons and a break on the webcomic from 2017 to 2019 (Wikipedia). No public statements on religion or politics were found. His private life is not public. **Status: Needs more info on the creators.**

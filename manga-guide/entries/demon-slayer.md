@@ -107,6 +107,20 @@ Compassionate self-sacrifice wins. Muzan's selfish will to live forever loses, a
 
 **Fan favorites versus the official moral.** TV Tropes records that Zenitsu once placed second behind Tanjiro in an official poll and placed first in the second official manga poll in 2020, and that top poll places go mostly to male characters (located via TV Tropes; to verify against Jump). An Anime News Network headline reports that Demon Slayer swept the 2019 Animedia Character Awards (not opened). TV Tropes lists Muzan, Doma, Kaigaku and Hantengu as villains fans love to hate, and fan memes such as "Kokucat." Rengoku's death (ch. 66) became the emotional center of the Mugen Train film. Muzan's Lower Moon purge (ch. 52) is widely known in Japan as the "power harassment meeting" meme (from general knowledge; the wiki page confirms the scene but not the meme name). Fan affection lands mostly on the heroes, so fan favorites and the official moral largely line up. The exception is the glamour fan culture gives to some villains.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 5
+- Opposing views: Fair
+- Evidence: Tallon (Christian Research Journal): "Humanizing is the goal, instead of demonizing." No review in the entry calls it preachy.
+- Note: Its messages about compassion and duty are spoken in Tanjiro's lines and shown through the demons' backstories.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Tanjiro Kamado | Compassion as strength | Hero | Sympathetic |
+| Muzan Kibutsuji | Self-preservation at all costs | Villain | Mixed |
+| Akaza | Strength without purpose | Villain | Sympathetic |
+| Kagaya Ubuyashiki | Servant leadership across generations | Mentor | Mixed |
+
 ## Creator and publisher context
 
 - Koyoharu Gotouge is a pen name used to stay anonymous (Wikipedia, citing Time). The creator has not appeared in public; their published self-portrait is a crocodile wearing glasses (from general knowledge; to verify). Gotouge has not spoken publicly about religion, politics or private life. Media have speculated about the creator's gender; this entry does not repeat it. **Status: Needs more info on the creators.**

@@ -108,6 +108,20 @@ The children who refuse to accept the farm system win their freedom, and the peo
 
 **Fan favorites versus the official moral.** Isabella, the antagonist for most of the first arc, won Best Antagonist at the Crunchyroll Anime Awards 2020, and Emma won Best Character (Female) at the 41st Anime Grand Prix (Wikipedia). The fan wiki's poll page (opened) lists the Jump polls: first poll (March 2018) Emma, Norman, Ray, Isabella, Don; second poll (September 2018) Emma 5,581 votes, Norman 4,763, Ray 4,651, Phil 2,094, with Isabella eighth (1,151). Norman topped the in-manga color-illustration character poll and the 2020 anime official-site poll (Norman, Ray, Emma); the top two "best anime scenes" were Norman's and Isabella's farewells. A 2021 Viz poll put Ray first, then Norman and Emma; demons Mujika and Sonju placed sixth and seventh. So the story's moral center, Emma, leads the Japanese manga polls, while Norman, the planner of genocide, and Ray, the despairing realist, lead later anime and English-language polls; the sympathetic demons and the antagonist mother also rank high. Fan reception splits sharply between the first arc and the later volumes, and the anime's second season was widely panned (Wikipedia).
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: Common Sense Media says it "sides with the children and condemns the social system"; Shirai said it carries no specific message.
+- Note: The three leads embody competing ethics of survival, and the plot tests each choice.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Emma | Refuse the trade-off; save everyone | Hero | Sympathetic |
+| Norman | Protect your own by removing the threat | Foil | Sympathetic |
+| Isabella | Survival by complicity | Villain | Mixed |
+| Peter Ratri | Humans as stock for an elite | Villain | Fair |
+
 ## Creator and publisher context
 
 - **Kaiu Shirai (writer).** Said he drew on international children's folklore, Final Fantasy and childhood nightmares about Hansel and Gretel, and that the horror came from his own imagination (Wikipedia). He chose Weekly Shōnen Jump over a seinen magazine, arguing the themes are not age-specific (Wikipedia). He said the "lowest-performing students harvested first" idea was meant to prompt reflection on society, not as a direct critique, and he rejected PETA's reading of the story as an anti-factory-farming, pro-vegetarian message, saying he did not intend moral judgments (Wikipedia). The 2020 fan book Mystic Code reports that COVID-19 affected the final chapters, and that Shirai felt chapter lengths limited the finale (Wikipedia). In a Viz interview (opened), Shirai says there is no specific message: the writer did not want to push ideas onto readers and leaves interpretation to them. The English title was chosen to contrast "gentleness" with the hell of the story; the creators balance "hope and despair" because the series ran in Monday's Jump and they wanted readers to start the week feeling good. Demon designs mix "godliness, fear, eeriness" and fairy-tale elements, drawing on a museum exhibit about what humans have feared and worshiped. Named influences include Kurosawa, Miyazaki, Urasawa, Togashi, Oda and Tezuka. Shirai made Emma a girl partly because a mother-daughter rivalry with Isabella seemed "more interesting" (Wikipedia, Emma). No public statements on religion or politics found.

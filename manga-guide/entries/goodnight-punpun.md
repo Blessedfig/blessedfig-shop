@@ -111,6 +111,18 @@ Nobody wins. The story's sympathy goes to its damaged children, and survival, no
 
 **Fan favorites versus the official moral.** Fan discussion often centers on Aiko and Sachi, and on long debates over whether Punpun deserves sympathy (MyAnimeList forum and review titles in search; not opened). TV Tropes records that readers expecting a cute manga from the art were shocked, which Asano reportedly welcomed, and that the design of the character Komatsu turned readers against him (opened). No official popularity poll was found. There is no glamorized villain; the "villains" are ordinary adults.
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 1
+- Opposing views: Fair
+- Evidence: Asano (ANN interview, 2018) says the work offers no answers, only questions.
+- Note: The series avoids stated morals and leaves most of its verdicts open.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Pegasus | Meaning through a grand cause | Other | Mixed |
+| Sachi Nanjo | Frank friendship and creative work as a reason to go on | Other | Sympathetic |
+
 ## Creator and publisher context
 
 - Inio Asano (born 1980; from general knowledge; to verify) is a Japanese manga artist known for Solanin, A Girl on the Shore and Dead Dead Demon's Dededede Destruction. He announced Punpun a year after Solanin and said he was done with "feel-good stories" (Wikipedia).

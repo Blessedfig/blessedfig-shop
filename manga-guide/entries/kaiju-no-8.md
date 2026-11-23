@@ -107,6 +107,19 @@ Humble persistence and teamwork win. Predation and the grudge of the past lose, 
 
 **Fan favorites versus the official moral.** A Mynavi News poll of 502 members (April 2024, anime) put Kaiju No. 8's monster form first (27.8%), Kafka second (13.9%) and Mina third (9.0%) (opened). Hoshina is very popular in fan reviews; one MAL reviewer says "you can TELL the author wishes he made him the MC" (opened). TV Tropes notes Kafka's kaiju form's goofy expressions are loved by fans. No villain is a notable fan favorite; Kaiju No. 9 is a cold, scheming foil. Fan affection lines up with the official moral.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 3
+- Opposing views: Mixed
+- Evidence: That Sounds Awesome praises its "never too late" message; no review calls it preachy.
+- Note: Its message about persistence is carried mainly by Kafka's situation as a 32-year-old latecomer.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Kafka Hibino | Persistence; it is never too late | Hero | Sympathetic |
+| Isao Shinomiya | Cold usefulness; people as weapons | Other | Mixed |
+| Kaiju No. 9 | Predation and absorbing others to grow | Villain | Fair |
+
 ## Creator and publisher context
 
 - Naoya Matsumoto debuted in 2006 and drew *Nekowappa!* (Weekly Shōnen Jump, 2009) and *Pochi & Kuro* (Jump+, 2014) before this series (Wikipedia, opened).

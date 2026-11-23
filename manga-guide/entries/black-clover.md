@@ -111,6 +111,19 @@ Effort, inclusion and loyalty win; rule by birth, fear and forced perfection los
 
 **Fan favorites versus the official moral.** TV Tropes records that Asta placed first in every official poll except two Viz polls, that Noelle won the fifth poll by about 12,000 votes, and that half of the third poll's top ten were women (located via TV Tropes; to verify against Jump and Viz). Its list of popular villains includes Zenon ("ruthless pragmatism"), Lucius, Zagred and Vanica, "a murderous psychopath" with dedicated fans; Dante is seen as one-note. Memes include Asta's screaming in the early Japanese dub and Yami's toilet jokes. Fan affection lands mostly on the heroes, so fan favorites and the official moral largely line up, with the usual glamour for stylish villains.
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Mixed
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness. Trujillo (ANN) highlights its anti-discrimination themes.
+- Note: Asta and his allies state the never-give-up and anti-discrimination themes aloud, while some snobbish rivals are later partly redeemed.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Asta | Effort and loyalty can beat birth | Hero | Sympathetic |
+| Early nobles and royals | Rank by birth and magic | Foil | Mixed |
+| Lucius Zogratis | Remaking everyone by eliminating flaws | Villain | Fair |
+
 ## Creator and publisher context
 
 - Yūki Tabata modeled Asta on himself and Charmy on his wife, and said his earlier series Hungry Joker was canceled after he made its quiet, dark lead unlike himself (Wikipedia, opened). He named Berserk as a major influence (he wanted a shonen equivalent), plus Dragon Quest: The Adventure of Dai, The Lord of the Rings, Harry Potter, Guillermo del Toro's films and Dragon Ball (Wikipedia).

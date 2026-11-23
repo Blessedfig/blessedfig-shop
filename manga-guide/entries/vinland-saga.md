@@ -110,6 +110,20 @@ Those who live by the sword mostly die by it; the hero who lays it down survives
 
 **Fan favorites versus the official moral.** Askeladd is widely named one of the best-loved characters, and the first arc's battles drew many readers; when the story turned to farming, "many fans responded negatively," and Yukimura apologized but said he could not go back to the earlier violence (Wikipedia). The anime Season 2 (the Farmland arc) was later widely praised (from general knowledge; to verify). No official character poll results were found (to verify). Sportskeeda reports the 2025 ending was unusually well received by fans (headline found in search, not opened). "I have no enemies" became the series' best-known line.
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Fair
+- Evidence: Common Sense Media lists messages on peace and revenge; Yukimura states his aim as "peace and compassion"; no review calls it preachy.
+- Note: Thors' line "A true warrior needs no sword" states the theme directly, and the later farm arcs build on it.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Thorfinn | Repentance and nonviolence | Hero | Sympathetic |
+| Askeladd | Cunning survival in a rotten world | Other | Fair |
+| Canute | Paradise on earth by force | Other | Sympathetic |
+| Thorkell | War as joy | Other | Fair |
+
 ## Creator and publisher context
 
 - **Makoto Yukimura** created Planetes (1999-2004) before Vinland Saga (Wikipedia).

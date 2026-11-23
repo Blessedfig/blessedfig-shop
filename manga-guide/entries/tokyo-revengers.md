@@ -110,6 +110,20 @@ Persistence and loyalty win: the timeline is rewritten so nearly everyone lives 
 
 **Fan favorites versus the official moral.** A poll whose results Wakui released in the manga (Sportskeeda; poll number and date not given) ranked Mikey first, then Chifuyu, Baji, Takemichi, Sanzu, Ran Haitani, Izana, Mitsuya, Draken and Rindo Haitani. Five of the top ten are villains or criminals in some timeline. TV Tropes lists Kisaki and Hanma as villains fans love despite their crimes, and the Haitani brothers, Sanzu and Izana as admired for style. It also notes the series' warning that gang life ends in loss may "fall on deaf ears" because the characters look so cool. Memes include "This is all Mikey's fault" and "Takemichi's Dump Truck!" (TV Tropes). Fan affection follows the gang's glamour more than the story's caution.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 3
+- Opposing views: Mixed
+- Evidence: Nippon.com's Hotta Junji says it "in no way glorifies violent acts"; SLJ notes some could argue it glorifies gangs.
+- Note: Its view of loyalty and the cycle of violence is carried by gang fights and the consequences of each time leap.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Takemichi Hanagaki | Heart over strength; never give up on anyone | Hero | Sympathetic |
+| Mikey | Charisma and power without grounding | Other | Sympathetic |
+| Tetta Kisaki | Manipulation and climbing by murder | Villain | Mixed |
+| Izana Kurokawa | Rule by fear | Villain | Mixed |
+
 ## Creator and publisher context
 
 - Ken Wakui debuted with Shinjuku Swan (2005-2013), a red-light district story about street scouts; it won awards and became two live-action films (Wikipedia, opened). Later work: Astro Royale in Weekly Shonen Jump (2024-2025).

@@ -108,6 +108,20 @@ The story rewards those who protect children and keep the peace, and treats warm
 
 **Fan favorites versus the official moral:** The first official SPY×FAMILY Character Popularity Poll (voting September-October 2025, about 338,000 votes, results announced December 21, 2025 at Jump Festa 2026) ranked: 1 Loid, 2 Anya, 3 Yor, 4 Damian Desmond, 5 Bond, 6 Yuri Briar, 7 Becky Blackbell, 8 Fiona Frost, 9 a character listed as "Staff Officer," 10 Sylvia Sherwood (Mantan Web). The protagonists lead, and Yuri, the most debated side character, places sixth. Anime News Network also reported a 2020 reader vote on Anya's best expression (found, not opened). Anya memes such as her smug "heh" face are from general knowledge; to verify. There is no "beloved villain" pattern in the top ten.
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 2
+- Opposing views: Mixed
+- Evidence: Common Sense Media says "the most untraditional families can still be loving"; Plugged In calls it "primarily comedic"; neither calls it preachy.
+- Note: Its anti-war and family themes mostly sit under comedy, with occasional direct flashbacks such as Loid's childhood.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Loid Forger | Trade one's own life for peace | Hero | Sympathetic |
+| Yuri Briar | State loyalty alongside family love | Other | Mixed |
+| Henry Henderson | Elegance and speaking against war | Mentor | Sympathetic |
+| Donovan Desmond | Hard-line nationalism | Villain | Fair |
+
 ## Creator and publisher context
 
 - Tatsuya Endo previously created Tista and Blade of the Moon Princess (from general knowledge; to verify; Wikipedia's Endo page found, not opened). In a fan-wiki transcription of an AnimeNachrichten interview, he says the series grew out of his earlier one-shots.

@@ -111,6 +111,20 @@ No side wins: the CCG destroys Anteiku, Kaneki appears to fall, and the original
 
 **Fan favorites versus the official moral.** Tokyo Ghoul won Gadget Tsūshin's 2014 reader poll for best completed manga (ANN, opened). MyAnimeList lists the manga at #6 in popularity with about 582,000 members and 52,440 favorites (as viewed). Character poll results were not reached (to verify). Fan affection gathers around Kaneki's white-haired post-torture form, Juuzou, and the flamboyant villain-turned-ally Tsukiyama (from general knowledge; to verify). The "1000 minus 7" countdown and finger-cracking became internet memes, so the most copied moment is the torture scene itself. The story presents Kaneki's turn to ruthlessness as costly, but fan culture often celebrates it as his "awakening." That gap between the text's tragedy and fan glamour is the main point to discuss.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: ANN's Silverman notes Kaneki's ruthlessness "doesn't look like it has brought him any more happiness"; no review calls it preachy.
+- Note: The story presents both ghouls and the CCG from the inside and lets events, not narration, weigh their views.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Ken Kaneki | Better to be hurt than to hurt others | Hero | Sympathetic |
+| Kureo Mado | Righteous hatred of ghouls | Villain | Mixed |
+| Koutarou Amon | Conscience inside the system | Other | Sympathetic |
+| Yoshimura | A monster can choose to shelter others | Mentor | Sympathetic |
+
 ## Creator and publisher context
 
 - **Sui Ishida** was born in Fukuoka Prefecture in 1986 (Wikipedia). He has given some interviews but keeps a low public profile.

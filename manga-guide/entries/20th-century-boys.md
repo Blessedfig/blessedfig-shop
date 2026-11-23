@@ -109,6 +109,19 @@ Ordinary people who face their past win; the man who made himself a god, and the
 
 **Fan favorites versus the official moral.** MyAnimeList scores the manga 8.93 (popularity #24, about 320,000 members, as viewed). Readers widely admire Friend as a mystery villain, and the identity reveal is the most debated element; Thompson calls the cult members "faceless crazy minions" and notes the answer comes only at the very end. The 2009 film's changed ending and the kanzenban's revised reveal kept fans arguing (Wikipedia; Pixiv Encyclopedia). No official character poll was found. Fan affection mostly lands on Kenji, Otcho and Kanna, so fan favorites and the official moral largely line up.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Mixed
+- Evidence: Thompson (ANN) calls the cult members "faceless crazy minions"; Thomas reads the later volumes as probing followers' complicity. No review calls it preachy.
+- Note: The series makes its case about cults and complicity through mystery plotting and character arcs rather than speeches.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Kenji Endo | Ordinary man's duty and owning up to the past | Hero | Sympathetic |
+| Friend (Fukubei, Katsumata) | Envy and the hunger to be seen grown into a will to rule | Villain | Mixed |
+| Friend cult members | Wanting something to believe in | Other | Mixed |
+
 ## Creator and publisher context
 
 - Naoki Urasawa (born 1960, Fuchu, Tokyo) grew up with Tezuka's Astro Boy and took up guitar because of Bob Dylan; he has released rock albums and a "Kenji's song" single tied to the series (Wikipedia, opened).

@@ -108,6 +108,20 @@ The series has no ending, but its arc so far rewards the people who give up prid
 
 **Fan favorites versus the official moral.** MyAnimeList shows Vagabond with a score of about 9.27, #12 in popularity, about 472,000 members and about 50,000 favorites; its rank showed as #3 in the header and #32 in the stats block (page inconsistent, as viewed). TV Tropes highlights Kojirō's "bishōnen" and "chick magnet" appeal and Matahachi's "narrator all along" reveal as much-discussed. Eiichiro Oda said he especially enjoyed the 70-man battle (Wikipedia, Musashi page), which shows a gap readers often discuss: the most celebrated set piece is the one the story treats as the low point of Musashi's spiritual path. No official popularity poll results were found. There is no villain with a cult following in the Griffith or Light mould; fan admiration goes mostly to Musashi and Kojirō.
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 2
+- Opposing views: Fair
+- Evidence: The Japan Times traces Musashi from "solitary brute to thoughtful hermit"; no review calls it preachy.
+- Note: Its Zen-influenced ideas emerge mainly through Musashi's inner monologue and duels rather than stated lessons.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Musashi | Strength through striving, then humility | Hero | Sympathetic |
+| Takuan | Wisdom that has let go of winning | Mentor | Sympathetic |
+| Yoshioka school | Inherited prestige and school honor | Other | Mixed |
+| Osugi | Family honor turned into a grudge | Other | Mixed |
+
 ## Creator and publisher context
 
 - Takehiko Inoue (born 1967; from general knowledge; to verify) is also the creator of *Slam Dunk* and *Real*. He said that after a sports manga he wanted to write about "life and death, the human condition, etc." and called Vagabond "an experiment about complex writing" (Wikipedia).
