@@ -105,6 +105,19 @@ Honesty, vulnerability and friendship win; pride, control and cruelty lose, thou
 
 **Fan favorites versus the official moral.** Fan favorites match the story's sympathies. Kaguya won first place in a 2019 Akiba Souken poll (3,409 votes) and the Crunchyroll Best Girl award (5th awards); Kaguya and Shirogane won Best Couple (2020); Chika Fujiwara was a Best Girl nominee and her "Chikatto Chika Chikaa" dance ending became a widely shared meme (Wikipedia, opened). There is no beloved villain; the closest fan debate is over the final arc. MyAnimeList reviews praise the early comedy and criticize the shift to drama around ch. 100-130 and a rushed ending (opened).
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 2
+- Opposing views: Mixed
+- Evidence: Anime Feminist's Caitlin Moore reads the leads as "emotionally stunted" kids rather than a model; no review calls it preachy.
+- Note: Its views on honesty and love come through comic mind games rather than stated lessons.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Kaguya Shinomiya | Wealth and control breed loneliness | Hero | Sympathetic |
+| Yu Ishigami | Integrity at personal cost | Hero | Sympathetic |
+| Gan'an Shinomiya | Family control and arranged marriage | Other | Mixed |
+
 ## Creator and publisher context
 
 - Aka Akasaka (born August 29, 1988, Sado, Niigata). Earlier work includes Ib: Instant Bullet (2013-2015). On November 3, 2022 he announced he would stop drawing manga to focus on writing (Wikipedia, opened). He co-created Oshi no Ko (2020-2024, art by Mengo Yokoyari), which ran at the same time.

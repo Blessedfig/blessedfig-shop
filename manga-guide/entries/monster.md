@@ -111,6 +111,20 @@ Mercy wins at great cost; nihilism and the projects that made it lose, though th
 
 **Fan favorites versus the official moral.** MyAnimeList scores the manga 9.16 (popularity #26, about 297,000 members, 24,000 favorites, as viewed); ANN users rank it #2 of 3,531 manga. Johan is one of anime's most famous villains and is often admired for his intelligence and calm (from general knowledge; to verify with a poll; no official character poll was found). Critics and Christian writers both caution against the fascination: Tan notes that Johan's distance "draws admiration from people who don't know him," which is exactly how his followers in the story are drawn in. Lunge and Grimmer are widely loved side characters (from general knowledge; to verify). Fan admiration for Johan is the clearest gap between the fandom and the story's moral.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: Kotaku's Peter Tieryas says it blurs good and evil, asking "who's the real monster?"; no review calls it preachy.
+- Note: Competing views on the worth of a life are voiced directly by characters such as Tenma, Eva and Johan within a thriller plot.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Kenzo Tenma | All lives are equal | Hero | Sympathetic |
+| Johan Liebert | Death is the only equality; nihilism | Villain | Mixed |
+| Eva Heinemann | Lives are not equal | Other | Mixed |
+| Heinrich Lunge | Pure rule-bound procedure | Other | Fair |
+
 ## Creator and publisher context
 
 - Naoki Urasawa (born 1960) also wrote 20th Century Boys and Pluto; he drew 20th Century Boys alongside Monster and asked that its English edition wait until Monster's was finished (EBSCO; Wikipedia).

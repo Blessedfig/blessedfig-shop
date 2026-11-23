@@ -109,6 +109,20 @@ The story sides with ordinary people and a team of young sorcerers who refuse to
 
 **Fan favorites versus the official moral.** The official Weekly Shonen Jump polls, as tabulated by the Fandom wiki, favor the student heroes more than the draft assumed. 1st poll (2019, with ch. 65; 163,066 votes): Yuji 1st (21,735), Megumi 2nd, Gojo 3rd, Inumaki 4th, Nanami 5th; Sukuna 10th. 2nd poll (2022, with ch. 168; 97,860 votes): Megumi 1st (19,393), Gojo 2nd, Yuji 3rd, Geto 4th, Nanami 5th; Naoya Zenin 10th; Sukuna 13th. 3rd poll (2023, with ch. 227; 96,704 votes): Megumi 1st (30,059), Yuji 2nd, Gojo 3rd, Geto 4th, Yuta 5th; Naoya 6th; Nanami 7th; Sukuna 12th. Headlines (Sportskeeda, Anime Corner, Dexerto; not opened) report a 4th poll that Gojo won with "over 42% of total votes," with Naoya, a sexist and cruel clan heir, in fifth place. So the Japanese poll voters mostly backed the young protagonists, while Gojo's lead came late; Sukuna, despite his meme fame in English-language fandom, never placed in the top ten of the first three polls. Gojo's death in chapter 236 caused a fan meltdown and abuse aimed at the author (Dexerto, The Mary Sue, Sportskeeda headlines); a Fandomwire headline reports Akutami mentioned receiving death threats. Memes: "Nah, I'd win" (ch. 221) and "Stand proud, you're strong" (chapter to verify). The official moral praises the group; poll voters largely agree, while online meme culture centers the lone strongest man and the cruelest villain.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness.
+- Note: Rival philosophies are voiced by antagonists in battle dialogue, while Yuji answers them by action rather than argument.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Sukuna | Strength and pleasure are all that matter | Villain | Fair |
+| Suguru Geto | Protect sorcerers by killing non-sorcerers | Villain | Sympathetic |
+| Mahito | Souls are only shapes; nothing has meaning | Villain | Fair |
+| Nanami Kento | Quiet adult duty without heroics | Mentor | Sympathetic |
+
 ## Creator and publisher context
 
 - **Gege Akutami** is a pen name. The author does not show their face and has shared little personal information. Gender is not officially confirmed in sources opened here; English press uses varied pronouns. **Status: Needs more info on the creators.**

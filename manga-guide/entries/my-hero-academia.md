@@ -108,6 +108,20 @@ The heroes win the war and reform hero society, but the story insists the villai
 
 **Fan favorites versus the official moral.** Bakugo, the former bully, has topped official popularity polls and won the global "World Best Hero" poll, earning a bronze statue (Anime Corner, AniTrendz and Dexerto headlines, 2024). Deku has trailed him in several polls ("Deku popularity falters", ANN 2018 headline). Horikoshi said he was pleased when Shoji rose in the polls (VIZ, opened). Villains are very popular: Dabi climbed in a late poll (Sportskeeda headline) and Toga and Shigaraki have large fan followings. Mineta is the most disliked character, with fan campaigns asking for his removal (comicbook.com, Sportskeeda headlines). The final chapter's ending for Deku split fans: some called it a let-down; others argued critics missed the point, and the bonus pages in vol 42 won some back (We Got This Covered, Sportskeeda, FandomWire, comicbook.com headlines). No poll numbers are given here because no poll page was opened.
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Mixed
+- Evidence: Anime Feminist's Mo Black reads its politics as conservative; Plugged In praises its self-sacrifice message; neither calls it preachy.
+- Note: Villains such as Shigaraki and Stain state their grievances against hero society directly, and the story answers mainly through Deku.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Deku | Empathy without limits | Hero | Sympathetic |
+| Tomura Shigaraki | A society that failed a child deserves destruction | Villain | Mixed |
+| Stain | Only true heroes deserve the name | Villain | Mixed |
+| Endeavor | Power and rank above family | Other | Mixed |
+
 ## Creator and publisher context
 
 - **Kōhei Horikoshi** is the sole author. On record (VIZ blog, "Kohei Horikoshi on 10 Years of My Hero Academia", July 22, 2024, opened): defining a hero is hard ("If I could articulate it clearly, I probably wouldn't be drawing manga"), and he concludes "anyone can be a hero", including the people who support him. He calls American comics "really just surface-level inspiration" and names Oda (One Piece) and Goku (Dragon Ball) as early heroes; he cites Terminator 2 as a model for hinting at backstory. Wikipedia (opened) reports he planned the ending early and said the story would "return to its title" after the final battle. After the last chapter (August 5, 2024) his Jump author's comment read "I was so glad to be in Jump!", and on X he wrote he had been "exhausted for a long time, but I managed to make it to the end!" (ANN, August 12, 2024, opened). A 2018 ANN interview was seen only as a headline.

@@ -109,6 +109,20 @@ Teams that learn to trust one another rise, arrogance and isolation are outgrown
 
 **Fan favorites versus the official moral.** Fan favorites and the official moral mostly point the same way, since the series has no true villains. Oikawa, the arrogant but hard-working rival, is the most discussed character; fans split between seeing a "childish bully" and a "jerk with a heart of gold," and his past outburst at Kageyama remains debated (TV Tropes, opened). A Jump GIGA cover that placed Oikawa among villains caused a fan outcry (Sportskeeda and Comicbook.com headlines; not opened). Akaashi debuted at 14th in the second official character poll, ahead of the more prominent Bokuto at 18th (TV Tropes); Hinata won Crunchyroll's Best Boy (Wikipedia). Atsumu Miya is a real-world role model for young players (AFP). Fan "shipping" of male pairs, above all Kageyama and Hinata, is the main gap between fandom and text; the creator never framed it as romance (Senses of Cinema; TV Tropes).
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: ScreenWise: "inspiring without being preachy."
+- Note: Lessons about teamwork and effort come through matches, and rival teams' views are treated with respect.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Shoyo Hinata | Desire and joy in play | Hero | Sympathetic |
+| Wakatoshi Ushijima | Raw individual strength | Foil | Fair |
+| Kei Tsukishima | It's just a club | Other | Sympathetic |
+| Tooru Oikawa | Hard work against genius | Foil | Sympathetic |
+
 ## Creator and publisher context
 
 - **Haruichi Furudate.** Born 1983 in Karumai, Iwate; played on his junior-high and high-school volleyball clubs; often went to school mainly for club activities (Wikipedia). Quoted by Popverse (2024, citing an interview it links without naming): he "was a member of the volleyball club in junior high and high school" and has "always had strong memories of those days"; "I started drawing because I wanted to play volleyball." The final guidebook (November 2020) carries an interview in which he reportedly said drawing the last two chapters was not enjoyable because of the extra pages and color work (OtakuKart summary of a fan translation; not a verbatim quote; to verify). No on-record statements on religion or politics found.

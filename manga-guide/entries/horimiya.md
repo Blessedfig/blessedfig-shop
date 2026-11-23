@@ -107,6 +107,16 @@ Nearly everyone wins: the lonely boy is seen, the couple stays together, and fri
 
 **Fan favorites versus the official moral.** TV Tropes reports that Shu Iura, the series' comic punching bag, placed third in an official popularity poll; Akane Yanagi fifth despite little screen time; and the middle-school bully Tanihara tenth in Japan, where fans see him as tsundere, while Western fans largely dislike him and Miyamura's forgiving him (to verify against the official poll). Hori herself is a base-breaker: fans love her warmth but some call her violence and jealousy abusive (TV Tropes YMMV). Yuki divides fans over the love quadrangle. MyAnimeList ranks the manga #17 by popularity. The anime's fast pacing made Hori's jealousy and Miyamura's headbutting look abrupt, and the second season, *The Missing Pieces* (2023), was made to adapt skipped chapters (TV Tropes YMMV; Wikipedia).
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 1
+- Opposing views: None shown
+- Evidence: Silverman (ANN): "a private romance, based on the quiet feelings of the characters."
+- Note: Its theme of hidden selves arises from everyday scenes, and no character stands for an opposing worldview.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+
 ## Creator and publisher context
 
 - HERO wrote the original webcomic *Hori-san to Miyamura-kun* as a Japanese high school student. Square Enix asked for a "remake" as a print manga; Daisuke Hagiwara won a drawing contest to become the artist and began in October 2011 (Manga Passion interview, March 9, 2022; Wikipedia).

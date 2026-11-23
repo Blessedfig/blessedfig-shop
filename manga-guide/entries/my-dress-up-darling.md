@@ -106,6 +106,19 @@ The people who love what they love openly win (career, fame, marriage); the outl
 
 **Fan favorites versus the official moral.** Marin is the face of the series: first in Anime Corner's Best Girl poll for winter 2022, 5th in the 2022 Anime Grand Prix female character category, and a Crunchyroll Anime Awards nominee (Wikipedia, Marin Kitagawa); cosplay of her became a media trend. Much of her popularity rests on the fan service the story's critics question, while the story's own message is about craft and acceptance. There are no villains; Juju's blackmailing introduction (likely ch. 15-16) is forgiven and she becomes a favorite. Fans split on the ending: many felt ch. 115 was "a rushed attempt at bringing the series to a close," jumping to marriage eight chapters after the couple got together (Soapcentral; Popverse).
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 3
+- Opposing views: Mixed
+- Evidence: ANN's Rebecca Silverman sums it up as "not being ashamed of what you love"; no review calls it preachy.
+- Note: Its acceptance message is carried by the leads' relationship and cosplay arcs, alongside fan service that critics discuss.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Gojo | Craft, restraint and shame overcome | Hero | Sympathetic |
+| Marin | Unashamed enthusiasm for what one loves | Hero | Sympathetic |
+| Nobara | Gender policing of hobbies | Other | Mixed |
+
 ## Creator and publisher context
 
 - Shinichi Fukuda wrote and drew the series. Fukuda debuted after winning an encouragement award at the 23rd Ace Newcomer Manga Awards (2006) and earlier drew *Shibaraku* and *Momoiro Meloic* (Wikipedia, opened). Wikipedia notes fans speculated about Fukuda's gender and reports that people who met the artist at signings say she is a woman; this entry does not rely on it.

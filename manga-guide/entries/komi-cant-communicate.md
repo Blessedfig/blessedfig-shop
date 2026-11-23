@@ -107,6 +107,19 @@ The patient and the brave win (Komi speaks, makes 100 friends and finds love; Ta
 
 **Fan favorites versus the official moral.** No official popularity poll result was found in opened sources. Komi was nominated for Best Girl and the anime won Best Comedy at the 6th Crunchyroll Anime Awards (Wikipedia). TV Tropes YMMV reports Yamai as "The Scrappy" in the English-speaking fandom, with critics saying her kidnapping was forgiven too early, while Manbagi gained a sympathetic following that made the love triangle hard for fans to take sides in. Fans split when ch. 130 moved most of the original girls out of Komi's class, and over whether the story should keep adding friends or focus on the couple. Najimi's motives (selfish or secretly helpful) are a fan debate (TV Tropes YMMV).
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 3
+- Opposing views: Mixed
+- Evidence: ANN's Rebecca Silverman calls it "good-natured" with "a distinct lack of cruelty"; no review calls it preachy.
+- Note: Lessons about friendship and courage are carried by gag-chapter situations and character name puns.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Tadano | Ordinary kindness is enough to help | Hero | Sympathetic |
+| Ren Yamai | Possessive, fearful love | Other | Mixed |
+| Manbagi | Losing in love gracefully | Other | Sympathetic |
+
 ## Creator and publisher context
 
 - Tomohito Oda created the series as a one-shot (2015) before serialization (Wikipedia). The fan wiki lists *Dezicon* as an earlier work.

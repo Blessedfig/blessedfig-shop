@@ -109,6 +109,19 @@ Griffith's choice to sacrifice his friends for his dream wins worldly power, and
 
 **Fan favorites versus the official moral.** MyAnimeList lists Berserk at #1 in popularity among manga, with a score of about 9.46, #12 ranked, about 815,000 members and about 140,000 favorites (as viewed). Griffith is widely treated as one of anime's great villains: Anime News Network's Anne Lauenroth called him the "perfect villain," and Paste ranked him second among anime's greatest villains (2021) (both via Wikipedia's Griffith page). TV Tropes lists him under "Love to Hate" and notes fans split between admiring him, despising him and defending him as a pawn of fate. Know Your Meme records the ironic catchphrase "Griffith did nothing wrong," spreading from about 2016, and notes it is an offshoot of a Hitler meme. TV Tropes lists Zodd as a "Noble Demon" fans like. The Skull Knight's name for Guts, "Struggler," is a fan rallying word (Wikipedia, Characters page). Fan admiration for Griffith sits against the story's clear framing of the Eclipse as a betrayal; that gap is itself part of how readers discuss the series. No official popularity poll results were found.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: A.V. Club (Jones): "It is not concerned with right from wrong." No review in the entry calls it preachy.
+- Note: Its ideas about struggle, ambition and fate are carried by action and imagery, and the unfinished story gives no final verdict.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Guts | Will to struggle against fate | Hero | Sympathetic |
+| Griffith | A dream that justifies any sacrifice | Villain | Fair |
+| Mozgus | Fanatical religion | Villain | Mixed |
+
 ## Creator and publisher context
 
 - Kentaro Miura (1966-2021) began planning a dark warrior with a giant sword at 18 while assisting George Morikawa (Wikipedia, Guts page). He said he "naturally turned to dark fantasy" and wanted a "dark hero" in an underused genre (Wikipedia).

@@ -108,6 +108,20 @@ No side wins cleanly: humans defeat the Ant King with a weapon of mass destructi
 
 **Fan favorites versus the official moral.** TV Tropes reports that Neferpitou beat Hisoka in the third popularity poll, and lists Hisoka, the Phantom Troupe, Meruem and the Royal Guards and the Zoldyck family as villains fans love; Hisoka is the most recurring non-main character and an "Evil Is Cool" favorite (facts located via TV Tropes; poll year and Japanese source to verify). Memes include "Hiatus x Hiatus" about the breaks and "Pedoclown" for Hisoka. Base-breaking topics include Gon's behavior in the Chimera Ant arc (including threatening Komugi), Netero's Rose ("necessary last resort or a symbol of human malice"), Meruem's redemption despite his genocidal aims, and Alluka's gender. Fan love for villains matches the story's own sympathy for its "monsters"; fans love Hisoka more than the story endorses him.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: Bobduh (Wrong Every Time): in the Chimera Ant arc no side is purely villainous. No review in the entry calls it preachy.
+- Note: Its moral questions come through plot turns and narration, and even its monsters are given a full hearing.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Gon | Loyalty that turns to vengeance | Hero | Mixed |
+| Meruem | Power as identity, then compassion | Villain | Sympathetic |
+| Isaac Netero | Duty and gratitude, then whatever it takes | Other | Mixed |
+| Komugi | Humility as strength | Other | Sympathetic |
+
 ## Creator and publisher context
 
 - Yoshihiro Togashi, born 1966 in Shinjo, Yamagata; studied education at Yamagata University; won the Tezuka Award in 1986 (Wikipedia). He married Naoko Takeuchi, creator of Sailor Moon, in 1999 (Wikipedia; public, widely reported). He cites H. R. Giger and horror films such as Dawn of the Dead as influences (Wikipedia).

@@ -107,6 +107,20 @@ The story's sympathy runs with the free, the loyal and the oppressed. It is with
 
 **Fan favorites versus the official moral.** The first official global poll (WORLD TOP 100, 2021) drew 12 million votes for 1,174 characters; Luffy placed first, then Zoro, Nami, Sanji, Trafalgar Law and Robin ([ANN](https://www.animenewsnetwork.com/interest/2021-05-05/full-results-revealed-for-one-piece-1st-global-character-popularity-poll/.172412)). The draft's claim that Zoro won was wrong and is corrected here. The second global poll (results August 2026) again put Luffy first, followed by Zoro, Sanji, Nami, Law, Robin, Ace, Shanks and Mihawk; former or current antagonists in its top 30 include Crocodile (10th), Rocks D. Xebec, Cracker, Doflamingo and Buggy (order read from [Anime Corner](https://animecorner.me/luffy-wins-2nd-one-piece-global-poll-final-results-for-top-30-characters-revealed/); no vote counts given). So fans mostly favor the heroes the story favors, while also keeping several villains the story defeats near the top. Luffy's "Gear 5" form (ch. 1044) became a wide meme.
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Mixed
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness.
+- Note: Its anti-tyranny stance is stated openly in arc climaxes, while the Marines range from decent officers to fanatics.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Luffy | Freedom and loyalty | Hero | Sympathetic |
+| Celestial Dragons | Hereditary divine right | Villain | Mixed |
+| Akainu | Absolute Justice, order at any price | Villain | Fair |
+| Hody Jones | Revenge for real grievances | Villain | Mixed |
+
 ## Creator and publisher context
 
 - **Eiichiro Oda.** Began One Piece in 1996 while assistant to Nobuhiro Watsuki (Rurouni Kenshin) ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)). Announced in 2022 that the final saga was starting. Oda speaks to readers mainly through "SBS" question-and-answer columns in the volumes; these are the main on-record source for character facts.

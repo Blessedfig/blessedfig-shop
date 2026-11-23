@@ -107,6 +107,19 @@ Ichigo's loyalty and courage win against two would-be gods, but the institution 
 
 **Fan favorites versus the official moral.** TV Tropes records that Toshiro Hitsugaya topped Japanese character polls at one point and that Grimmjow and Ulquiorra regularly ranked in the top five; Aizen is praised for his theatricality and is "a base-breaker" many fans later reassessed; Yhwach has a devoted following for his "ruthless pragmatism" (TV Tropes, facts only; poll numbers to verify against Jump). Memes include Aizen's "since when were you under the illusion" line. Fan affection for the Espada and Aizen runs well ahead of the story's verdict on them; the villains' style and charisma are a large part of the series' appeal.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness.
+- Note: Its themes of resolve and loyalty against authority come through battles, and the villains' arguments are left partly unanswered.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Ichigo Kurosaki | Protect loved ones and follow your own heart | Hero | Sympathetic |
+| Sosuke Aizen | Human will should take the empty place of heaven | Villain | Fair |
+| Yhwach | A founder who gives and takes power by blood | Villain | Mixed |
+
 ## Creator and publisher context
 
 - Tite Kubo is the pen name of Noriaki Kubo, born June 26, 1977, in Hiroshima Prefecture (Wikipedia). He named Shigeru Mizuki's GeGeGe no Kitaro (the supernatural), Masami Kurumada's Saint Seiya (weapons, combat, mythology) and Akira Toriyama's Dragon Ball (villains must be "strong, scary and cool") as influences. He used Spanish terms for Hollows and Arrancar and German for the Quincy (Wikipedia). He has said he does not want Bleach to become a love story (Wikipedia).

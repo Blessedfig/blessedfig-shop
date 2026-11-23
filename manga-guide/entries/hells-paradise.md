@@ -109,6 +109,19 @@ Love, doubt and cooperation survive; the self-made gods who harvest humans for e
 
 **Fan favorites versus the official moral.** No official character popularity poll was found. MyAnimeList lists the manga at score 8.21, popularity #56, with 7,298 users favoriting it (as viewed). Several MAL reviewers single out Rien as the best antagonist, while others find the Tensen bland. ANN's *This Week in Anime* hosts mourned Tenza ("samurai himbo") and called Yuzuriha a deliberately unlikable fan-service character. Fan affection mostly lands on the heroes and the doomed Asaemon, so the fan favorites and the official moral largely line up.
 
+## Message delivery
+- Style: Woven in
+- Preachiness: 4
+- Opposing views: Fair
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness. Kotaku notes the violence is balanced by "humane compassion".
+- Note: Themes of balance and humanity come through the Tao combat system and the convicts' and executioners' arcs.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Gabimaru | Conditioning undone by love | Hero | Sympathetic |
+| Sagiri | Doubt and compassion over rigid duty | Hero | Sympathetic |
+| Rien | Immortality and love turned to consuming attachment | Villain | Mixed |
+
 ## Creator and publisher context
 
 - Yuji Kaku (story and art). Kaku said he began with a framework of mismatched people forced to cooperate in a closed space; the first idea was a youth detention setting (Wikipedia mirror). He said he wanted to show people changed by meeting others (Japanese Wikipedia), and that "Sagiri became the protagonist of the latter half" (Wikipedia mirror).

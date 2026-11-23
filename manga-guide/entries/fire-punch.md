@@ -108,6 +108,20 @@ Nobody who seeks power, revenge or worship wins; the closest thing to a reward i
 
 **Fan favorites versus the official moral.** No official popularity poll was found. In reviews, Togata is the standout: Comic Book Bin says she "alone makes Fire Punch a science fiction comic book worth reading"; AIPT says she "completely shifts the narrative, giving it a bit of hope and light"; a MAL reviewer says Togata "almost literally hijacks the manga early on." Togata also appears on fan lists of transmasculine manga characters (MAL stacks, found, not opened). The ending splits fans: one MAL reviewer calls it "the greatest wrap-up to a story I've ever seen," another says "The end made no sense."
 
+## Message delivery
+- Style: Subtle
+- Preachiness: 2
+- Opposing views: Fair
+- Evidence: Fandom Post says it "acts meaningful"; Indiecator calls the later story "a pseudo-philosophical mess". Neither calls it preachy.
+- Note: Its ideas about belief, fiction and pain come through ambiguous events rather than stated morals.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Agni | Enduring pain and playing the role others need | Hero | Mixed |
+| Togata | Life lived as a movie | Other | Sympathetic |
+| Sulya | Sacrificing a few lives to save a world | Villain | Fair |
+| Sun | Faith in a savior turned to zeal | Other | Mixed |
+
 ## Creator and publisher context
 
 - Fire Punch was Fujimoto's first serial and his Jump+ debut; it began with little advertising and trended on social media (Wikipedia; KAI-YOU intro).

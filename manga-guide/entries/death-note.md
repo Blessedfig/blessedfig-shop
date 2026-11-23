@@ -109,6 +109,20 @@ Light's idea of justice wins for years and then loses completely: he dies disgra
 
 **Fan favorites versus the official moral.** Fans have long loved the "losing" side and the villain both. In a January 2007 Oricon poll on which characters fans wanted to see in a spin-off, L won overall, first among women and second among men (L Wikipedia page). Obata named L his favorite character (same page). Light is a widely admired antihero, and a big part of the fandom debates whether he "was right." Pixiv Encyclopedia lists "keikaku doori" ("just as planned"), "shin sekai no kami" ("god of the new world") and "I am L" among the series' famous lines; the anime's potato chip scene is another well-known meme (from general knowledge; to verify). Pixiv also notes that a villain-centered story was unusual for Jump at the time. ANN's tenth-anniversary feature had to argue the point at length, concluding "Light Yagami is still the bad guy," which shows how open the fan debate remains. School officials' concerns often stem from teens copying the notebook rather than from the moral itself (see How readers took it).
 
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Fair
+- Evidence: ANN's Briana Lawrence: "two opposing sides that both believe in the same thing: justice." No review in the entry calls it preachy.
+- Note: Light and L argue openly about justice, and the story ends with Light's fall rather than a stated lesson.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Light Yagami | Justice by results; one genius may judge and kill | Villain | Fair |
+| L | Justice through law and reason | Hero | Sympathetic |
+| Soichiro Yagami | Rule of law, duty and honesty | Other | Sympathetic |
+| Teru Mikami | Faith without doubt | Other | Mixed |
+
 ## Creator and publisher context
 
 - **Ohba on intent.** Ohba preferred suspense over fight manga and wanted to avoid long exposition that would kill "the air of suspense." Ohba said there was no particular theme, but offered: "Humans will all eventually die, so let's give it our all while we're alive." Ohba considered an ending where L defeats Light, but kept the "Yellow Box Warehouse" ending set "from the beginning." Ohba called L the most intelligent character because "the plot requires it." Ohba and Obata rarely met and worked through their editor (Wikipedia; L Wikipedia page). Many of these remarks come from the guidebook "Death Note 13: How to Read" (2006 JP, 2008 EN) (from general knowledge; to verify).
