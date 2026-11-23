@@ -212,6 +212,7 @@ details.menu>summary[aria-current="page"],details.menu[open]>summary{color:var(-
         <a href="#browse" data-view="browse">All manga, with filters</a>
         <a href="#ideas" data-view="ideas">By philosophy</a>
         <a href="#values" data-view="values">Our family's values</a>
+        <a href="#deep" data-view="deep">In-depth family profile</a>
         <a href="#method" data-view="method">How we grade</a>
       </div></details>
     </nav>
@@ -366,7 +367,7 @@ function findResults(q) {
   if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
   return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
 }
-const EXPLORE = [['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#method','How we grade','What the grades, age bands and labels mean.']];
+const EXPLORE = [['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#deep','In-depth family profile','A longer quiz across every category, for a closely matched list.'],['#method','How we grade','What the grades, age bands and labels mean.']];
 const exploreCards = () => `<section class="stack" style="gap:10px"><h2>More ways to explore</h2><div class="explore">${EXPLORE.map(([h,t,d])=>`<a href="${h}"><strong>${t}</strong><span>${d}</span></a>`).join('')}</div></section>`;
 function viewStart() {
   const p = state.profile, band = pickedBand();
@@ -688,11 +689,12 @@ function render() {
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
   else if (h === 'method' || h.startsWith('method-')) { html = viewMethod(); view = 'method'; }
   else if (h === 'values') html = viewValues();
+  else if (h === 'deep' && window.viewDeep) html = viewDeep();
   else if (h === 'popular') html = viewPopular();
   else { html = viewStart(); view = 'start'; }
   $('#app').innerHTML = html;
   document.querySelectorAll('nav.tabs a').forEach(a=>{ if (a.dataset.view===view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
-  const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','method'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
+  const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','deep','method'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
   if (md) loadMd(md);
   if (view === 'series' || view === 'method') { const had = !!R, cur = view === 'series' && CUR?.entry ? CUR : null;
     loadReasons().then(d => { if (!d || location.hash.slice(1) !== h) return;
@@ -700,6 +702,7 @@ function render() {
       if (h.startsWith('method-')) { const el = document.getElementById('tr-' + tslug(decodeURIComponent(h.slice(7)))); if (el) { el.open = true; el.scrollIntoView(); } } });
     if (cur) bindWhy(cur); }
   bind();
+  if (view === 'deep' && window.bindDeep) bindDeep();
 }
 function bindWhy(s) {
   const el = document.getElementById('whyfor'); if (!el) return;
@@ -737,6 +740,7 @@ fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ D=d; ALL=d.s
   $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
+<script src="deep.js"></script>
 
 </body>
 </html>
