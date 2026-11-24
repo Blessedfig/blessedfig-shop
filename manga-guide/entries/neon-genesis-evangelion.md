@@ -286,8 +286,8 @@ Not reached (shared fetch budget): Viz product pages with the printed rating, Pl
 
 ## Full-read review checklist
 
-- [ ] Confirm the T+ rating printed on the back cover of a Viz single volume and a 3-in-1 Edition. Affects Series facts and the adult-overrides decision (not added).
 - [ ] Stage 14 (v3): Rei's shower and the fall. Record in writing only how explicit the nudity is and how it is framed; decide whether it crosses from fan service into sexualization of a minor (if so, move the entry to held/). Do not photograph. Affects Sexuality (4) and the held decision.
+- [ ] Confirm the T+ rating printed on the back cover of a Viz single volume and a 3-in-1 Edition. Affects Series facts and the adult-overrides decision (not added).
 - [ ] Stages 58, 62, 67 (v9-10): Kaworu's bathroom intrusion, shower crowding and CPR "kiss". Written note only. Confirm Kaworu's stated age and how Shinji's rejection is framed. Affects Sexuality and Gender row.
 - [ ] Stages 65 and 70 (v10): the Angel as "a small naked Rei" and the tank of Rei bodies; check for nudity. Written note only. Affects Sexuality.
 - [ ] Stages 91-95 and Final (v14): check the Third Impact and "sea of life" pages for nudity (none reported) and confirm the ending's framing. Written note only for any nudity. Affects Outlook, Hope source and Sexuality.
