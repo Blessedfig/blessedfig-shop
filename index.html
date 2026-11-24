@@ -205,39 +205,6 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 400; letter-spacing:
 header.top { padding-block: 16px; }
 .mark { display: inline-flex; align-items: center; gap: 12px; font-family: var(--font-display); font-weight: 400; font-size: 1.55rem; color: var(--cream); text-shadow: 2px 2px 0 var(--wood-dark); }
 .pxfig { flex: none; image-rendering: pixelated; }
-/* Nov 23: simple start that branches out (Christian: "least complex that branches off into more complexity") */
-.today { margin: 14px 0 0; font-weight: 700; color: var(--cream); text-shadow: 1px 1px 0 var(--wood-dark); }
-.today b { color: var(--gold); }
-.branch { margin-top: 22px; }
-.branch-q { font-family: var(--font-pixel); font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold); margin: 0 0 10px; }
-.branch-main { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
-@media (max-width: 700px) { .branch-main { grid-template-columns: 1fr; } }
-.pick { display: flex; flex-direction: column; gap: 4px; text-decoration: none; color: var(--cream); background: var(--wood-mid); border: 4px solid var(--wood-dark);
-  box-shadow: inset 0 4px 0 var(--wood-light), inset 0 -4px 0 #5e3a18, 0 4px 0 rgba(36, 20, 10, 0.55); padding: 14px 16px 16px; text-shadow: 1px 1px 0 var(--wood-dark); transition: transform 0.12s; }
-.pick b { font-family: var(--font-display); font-weight: 400; font-size: 1.3rem; line-height: 1.15; }
-.pick span { font-size: 0.92rem; opacity: 0.92; }
-.pick:hover, .pick:focus-visible { background: var(--wood-light); transform: translateY(-2px); }
-.pick[aria-current="true"] { background: var(--fig); }
-.branch-more { margin: 14px 0 0; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; color: var(--cream); }
-.branch-more span { font-family: var(--font-pixel); font-size: 0.74rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--gold); }
-.branch-more a { color: var(--cream); font-weight: 700; text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 4px; }
-.branch-more a:hover { color: var(--gold); }
-html.branchy section.branchable:not(.open) { display: none; }
-@media (min-width: 801px) { html.branchy #sitenav { display: none; } }   /* the three choices + "More" carry the same links on the home page */
-html.branchy .hero h1 { font-size: clamp(2rem, 4vw, 3rem); }
-.branch-row { grid-column: 1 / -1; margin-top: 0; }
-html.branchy .hero { padding-block: 4px 40px; row-gap: 24px; }
-html.branchy .hero-plate { max-width: 350px; justify-self: end; }
-@media (min-width: 801px) { html.branchy header.top { padding-bottom: 0; } html.branchy .hero { padding-top: 0; } }
-@media (max-width: 999px) { html.branchy .branch-row { order: 2; } html.branchy .hero-plate { order: 3; justify-self: center; } }
-@media (min-width: 1000px) {   /* wide screens: the picture sits beside the logo, so the start fits on one screen */
-  html.branchy .hero { position: relative; grid-template-columns: 1fr; padding-top: 8px; }
-  html.branchy .hero-plate { position: absolute; right: 0; bottom: calc(100% + 6px); width: min(330px, 30vw); margin: 0; }
-  html.branchy .hero h1 { font-size: clamp(2rem, 3.4vw, 3rem); }
-  html.branchy .hero .lede { max-width: 60ch; }
-}
-.backstart { display: inline-block; margin: 0 0 14px; font-weight: 700; color: var(--leaf); }
-html:not(.branchy) .backstart { display: none; }
 /* Nov 22: the big 16-bit title logo (drawn with ChatGPT in the site's palette) */
 .mark-logo { display: block; line-height: 0; }
 .mark-logo img { display: block; width: min(560px, 62vw); height: auto; filter: drop-shadow(0 4px 0 rgba(36, 20, 10, 0.55)); transition: transform 0.15s; }
@@ -571,24 +538,17 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
     <div>
       <span class="label">Downtown Antigo, Wisconsin</span>
       <h1>Books, manga <em>and good company.</em></h1>
-      <p class="lede">An independent bookstore at 800 5th Ave with books (mostly new), manga, snacks and art.</p>
-      <p class="today" id="today" hidden></p>
-
+      <p class="lede">The Blessed Fig Tree is an independent bookstore at 800 5th Ave with books (mostly new), manga, snacks and art. Open Tuesday through Sunday.</p>
+      <div class="cta-row">
+        <a class="btn" href="#visit">Hours and visiting</a>
+        <a class="btn alt" href="#stay">Stay upstairs</a>
+      </div>
     </div>
     <figure class="hero-plate"><div class="shelfscene" style="background-image:url(img/scene.png?v=2)" role="img" aria-label="Pixel-art peek through a window into a cozy upstairs room at dusk: shelves of books, an arched window over a small town, glowing lanterns, a patchwork armchair, a lamp, a potted fig tree, and an orange cat asleep on a cushion"></div></figure>
-      <div class="branch branch-row">
-        <p class="branch-q">Where would you like to start?</p>
-        <div class="branch-main">
-          <a class="pick" href="#visit"><b>Visit the shop</b><span>Hours, what's inside, parking</span></a>
-          <a class="pick" href="#stay"><b>Stay upstairs</b><span>Apartments above the books</span></a>
-          <a class="pick" href="#play"><b>Play the game</b><span>A pixel adventure set in Antigo</span></a>
-        </div>
-        <p class="branch-more"><span>More:</span> <a href="#explore">Explore Antigo</a> <a href="almanac/">The Antigo Almanac</a> <a href="manga-guide/">Manga guide for parents</a> <a href="goose.html">Meet Goose Goose</a></p>
-      </div>
   </div>
 </div>
 
-<section id="visit" class="branchable">
+<section id="visit">
   <div class="wrap">
     <span class="label">Visit the shop</span>
     <h2>An independent bookstore</h2>
@@ -643,7 +603,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   </div>
 </section>
 
-<section id="shelves" class="branchable">
+<section id="shelves">
   <div class="wrap">
     <span class="label">On the shelves</span>
     <h2>What you will find inside</h2>
@@ -659,7 +619,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   </div>
 </section>
 
-<section id="stay" class="branchable">
+<section id="stay">
   <div class="wrap">
     <span class="label">Stay upstairs</span>
     <h2>Sleep above the shelves</h2>
@@ -672,7 +632,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   </div>
 </section>
 
-<section id="explore" class="branchable">
+<section id="explore">
   <div class="wrap">
     <span class="label">Explore Antigo</span>
     <h2>A working Northwoods town</h2>
@@ -690,7 +650,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   </div>
 </section>
 
-<section id="play" class="branchable">
+<section id="play">
   <div class="wrap">
     <span class="label">Play the game</span>
     <h2>The Unwritten</h2>
@@ -803,35 +763,6 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
       new IntersectionObserver(function (es) { hide[id] = es[0].isIntersecting; upd(); }, { threshold: 0.15 }).observe(el);
     });
   }
-})();
-</script>
-<script>
-/* Nov 23: the home page starts simple; each choice opens just its own part of the page */
-(function () {
-  var root = document.documentElement; root.classList.add("branchy");
-  var GROUPS = { visit: ["visit", "shelves"], shelves: ["visit", "shelves"], stay: ["stay"], explore: ["explore"], play: ["play"] };
-  var all = Array.prototype.slice.call(document.querySelectorAll("section.branchable"));
-  all.forEach(function (sec) {
-    var w = sec.querySelector(".wrap"); if (!w) return;
-    var a = document.createElement("a"); a.className = "backstart"; a.href = "#top"; a.textContent = "\u2190 Back to the start"; w.insertBefore(a, w.firstChild);
-  });
-  function show(first) {
-    var id = (location.hash || "").slice(1), g = GROUPS[id];
-    all.forEach(function (sec) { sec.classList.toggle("open", !!g && g.indexOf(sec.id) >= 0); });
-    document.querySelectorAll(".pick").forEach(function (p) { p.setAttribute("aria-current", g && GROUPS[p.getAttribute("href").slice(1)] === g ? "true" : "false"); });
-    if (g) { var t = document.getElementById(g[0]); if (t) setTimeout(function () { t.scrollIntoView({ behavior: first ? "auto" : "smooth", block: "start" }); }, 0); }
-    else if (!first && id === "top") window.scrollTo({ top: 0, behavior: "smooth" });
-  }
-  window.addEventListener("hashchange", function () { show(false); });
-  show(true);
-  // today's hours, in Antigo's time zone
-  try {
-    var H = ["10 AM to 6 PM", "Closed", "10 AM to 6 PM", "10 AM to 6 PM", "10 AM to 6 PM", "10 AM to 8 PM", "10 AM to 8 PM"];   // Sunday..Saturday, as in the hours list
-    var day = new Date().toLocaleString("en-US", { timeZone: "America/Chicago", weekday: "long" });
-    var idx = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"].indexOf(day), h = H[idx];
-    var el = document.getElementById("today");
-    if (el && idx >= 0) { el.innerHTML = "Today (" + day + "): <b>" + (h === "Closed" ? "closed" : "open " + h) + "</b> \u00b7 800 5th Ave"; el.hidden = false; }
-  } catch (e) {}
 })();
 </script>
 </body>
