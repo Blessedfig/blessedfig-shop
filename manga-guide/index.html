@@ -364,8 +364,10 @@ footer a{color:var(--accent)}
 const $ = (s, el = document) => el.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let D = null;
-const state = {q:'', analyzed:false, maxLevel:'any', pub:'', sort:'popularity', idea:'Classical virtue ethics', profile:'Christian (any)', maxInt:'any', genre:'', adult:false, age:''};
+const state = {q:'', analyzed:false, maxLevel:'any', pub:'', sort:'popularity', idea:'Classical virtue ethics', profile:'Techno-Puritan', maxInt:'any', genre:'', adult:false, age:''};
 try { Object.assign(state, JSON.parse(localStorage.getItem('mwg-state2') || '{}')); } catch (e) {}
+// Nov 24: Techno-Puritan is the starting tradition; anyone still on the old default moves to it once
+if (!state.tp1) { if (state.profile === 'Christian (any)') state.profile = 'Techno-Puritan'; state.tp1 = 1; }
 const save = () => { try { localStorage.setItem('mwg-state2', JSON.stringify(state)); } catch (e) {} };
 
 const GRADES = ['S','A','B','C','D','F'];
@@ -374,10 +376,11 @@ const coverSrc = (s, size='small') => s.cover ? s.cover.replace('/medium/', '/' 
 const coverImg = (s, cls='cover', size='small', eager=false) => s.cover ? `<img class="${cls}" src="${esc(coverSrc(s, size))}" alt="Cover of ${esc(s.title)}" ${eager?'':'loading="lazy" '}decoding="async" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.alt=''">` : `<span class="${cls}"></span>`;
 const GRADE_TEXT = {S:['Excellent fit','Affirms core values, little to raise'],A:['Strong fit','A few small concerns'],B:['Good with talk','Some things to discuss'],C:['Mixed','Real concerns alongside good themes'],D:['Serious concerns','Many would wait or read together'],F:['Conflicts','At odds with core teaching throughout']};
 let CHRISTIAN = [], GROUPS = [];
-function setGroups(g) { CHRISTIAN = g[0][1]; GROUPS = g.map(([n, items], i) => [n, i === 0 ? ['Christian (any)', ...items] : items]); }
-const PILLS = ['Christian (any)','Catholic','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Eastern Orthodox','Orthodox Jewish','Muslim','Conservative / traditional','Secular progressive'];
+function setGroups(g) { CHRISTIAN = g[0][1]; GROUPS = g.map(([n, items], i) => [n, i === 0 ? ['Techno-Puritan', 'Christian (any)', ...items] : items]); }
+const PILLS = ['Techno-Puritan','Christian (any)','Catholic','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Eastern Orthodox','Orthodox Jewish','Muslim','Conservative / traditional','Secular progressive'];
 
 function provisional(f, overall) {
+  if (f.est) return {g: f.grade, prov: true};
   if (f.grade) return {g: f.grade, prov: false};
   const g = f.weight === 'Minor' ? 'A' : f.weight === 'Discuss' ? 'B' : f.weight === 'Significant' ? 'C' : null;
   return {g, prov: true};
@@ -721,7 +724,7 @@ function viewIdeas() {
 }
 
 let R = null, RLOAD = null, WHY = null, CUR = null;
-const loadReasons = () => RLOAD || (RLOAD = fetch('reasons.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ R = d; return d; }).catch(()=>{ RLOAD = null; return null; }));
+const loadReasons = () => RLOAD || (RLOAD = fetch('reasons.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>TLOAD.then(t=>{ if (t) d.frames[t.name] = t.guide; return d; })).then(d=>{ R = d; return d; }).catch(()=>{ RLOAD = null; return null; }));
 const TOPIC_WORDS = [
   ['Same-sex relationships and gender identity', /same-sex|\bgay\b|lesbian|boys' love|girls' love|\bBL\b|\byuri\b|transgender|gender identity|cross-?dress|LGBT|shounen ai|shoujo ai/i],
   ['Sexuality, nudity and modesty', /sex|nud|fan ?service|modest|lust|chastit|purity|ecchi|suggestive|underwear|harem|kiss|romance|erotic/i],
@@ -757,11 +760,11 @@ function whyTradition(s, name, open) {
     <li><b>The teaching applied.</b> ${talk ? `Teaching cited for this series, from the tradition's own sources: <span class="cite">${esc(talk)}</span>` : `<span class="note">For this quick read, the grader did not write down which teaching each point rests on. Below are the positions from this tradition's guide on the topics this series raises, matched by topic.</span>`}
       ${topics.length ? `${talk?'<p class="note">Related positions from the tradition\'s guide:</p>':''}<div class="scroll"><table><tbody>${topics.map(t=>`<tr><th scope="row">${esc(t)}</th><td>${esc(G.topics[t]||'')}</td></tr>`).join('')}</tbody></table></div>` : ''}
       ${G && G.media ? `<p class="note"><b>On art and stories:</b> ${esc(G.media)}</p>` : ''}</li>
-    <li><b>Why ${g.prov ? 'a provisional' : 'this'} grade: ${g.g}.</b> ${g.prov ? `No direct grade was written for this tradition yet, so the grade is worked out from the depiction concern (Minor = A, Discuss = B, Significant = C).` : `The grade is about the message only. It asks whether the story endorses what it shows or only depicts it, whether evil is framed as evil, whether actions have consequences, whether repentance, redemption or justice is possible, and how sacred things are treated. ${g.g} means "${esc(GRADE_TEXT[g.g][0].toLowerCase())}": ${esc(GRADE_TEXT[g.g][1].toLowerCase())}.`} Intensity alone never lowers a grade.</li>
+    <li><b>Why ${g.prov ? 'a provisional' : 'this'} grade: ${g.g}.</b> ${g.prov ? (f.est ? `This grade is estimated from the guide's analysis of the story's main ideas, not written series by series. ${esc(f.aligns)} ${esc(f.concerns)}` : `No direct grade was written for this tradition yet, so the grade is worked out from the depiction concern (Minor = A, Discuss = B, Significant = C).`) : `The grade is about the message only. It asks whether the story endorses what it shows or only depicts it, whether evil is framed as evil, whether actions have consequences, whether repentance, redemption or justice is possible, and how sacred things are treated. ${g.g} means "${esc(GRADE_TEXT[g.g][0].toLowerCase())}": ${esc(GRADE_TEXT[g.g][1].toLowerCase())}.`} Intensity alone never lowers a grade.</li>
     ${f.weight ? `<li><b>Depiction concern: ${esc(f.weight)}.</b> This is the tradition's view of how explicit the series is, apart from its message: ${esc(CONCERN_TEXT[f.weight]||'')}. It rests on the mature-content evidence below.</li>` : ''}
   </ol>
   ${f.legacy ? '<p class="note">This is an older combined grade, written before the tradition was split into branches. It will be re-graded.</p>' : ''}
-  ${G ? `<p class="note">Standard used: the ${esc(name)} guide, drawn from ${esc((G.sources||'the tradition\'s own texts').replace(/\.$/,''))}.${G.status==='draft'?' This guide is still a draft written from general knowledge and is being checked against those sources.':''} <a href="#method-${encodeURIComponent(name)}">Read the full guide</a>.</p>` : ''}
+  ${G ? `<p class="note">Standard used: the ${esc(name)} guide, drawn from ${esc((G.sources||'the tradition\'s own texts').replace(/\.$/,''))}.${G.status==='draft'?' This guide is still a draft written from general knowledge and is being checked against those sources.':G.status==='estimated'?' '+G.note:''} <a href="#method-${encodeURIComponent(name)}">Read the full guide</a>.</p>` : ''}
   </details>`;
 }
 function whyBody(s) {
@@ -885,7 +888,7 @@ function guidesBody() {
     ${[['Core beliefs',G.beliefs],['What it values',G.values],['What it forbids or discourages',G.forbids],['Family, sex and identity',G.family],['Stories, fiction and art',G.stories],['Range within the tradition',G.range]].filter(x=>x[1]).map(([k,v])=>`<p><b>${k}:</b> ${esc(v)}</p>`).join('')}
     <div class="scroll"><table><thead><tr><th>Topic</th><th>Usual position</th></tr></thead><tbody>${Object.entries(G.topics).map(([k,v])=>`<tr><th scope="row">${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')}</tbody></table></div>
     ${G.media?`<p><b>Teaching on art, media and depiction:</b> ${esc(G.media)}</p>`:''}
-    <p class="note">Own sources: ${esc(G.sources)}.${G.status==='draft'?' Status: draft from general knowledge, being checked against these sources.':''}</p></div></details>`; }).join('')).join('');
+    <p class="note">Own sources: ${esc(G.sources)}.${G.status==='draft'?' Status: draft from general knowledge, being checked against these sources.':G.status==='estimated'?' '+esc(G.note):''}</p></div></details>`; }).join('')).join('');
 }
 function viewMethod() {
   return `<div class="stack md" style="max-width:72ch"><h1 style="display:block">How we grade</h1>
@@ -985,8 +988,9 @@ window.addEventListener('hashchange', ()=>{ WHY = null; render(); window.scrollT
 document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !m.contains(e.target)) m.open=false; });
 fetch('previews.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).then(p => { PV = p || {}; if (D && /^#[se]-/.test(location.hash)) { const y = scrollY; render(); scrollTo(0, y); } }).catch(() => {});
 const OLOAD = fetch('outlook.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).catch(() => ({}));
+const TLOAD = fetch('technopuritan.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
 fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
-  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
+  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d => TLOAD.then(t => { if (t) d.series.forEach(s => { const e = s.entry; if (!e) return; const x = t.grades[s.id ? String(s.id) : 'e-' + e.slug]; if (x && !e.frames.some(f => f.frame === t.name)) e.frames.unshift(x); }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Techno-Puritan';
   $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
