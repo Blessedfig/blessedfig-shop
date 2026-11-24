@@ -464,6 +464,7 @@ function row(s, tile, body = '', chips = '') {
   let mat = isAdult(s) ? '<span class="chip" style="color:var(--gF);border-color:currentColor">18+ adult title</span>' : bandChip(s) + pubChip(s);
   mat += mcChip(s);
   if (s.entry && (s.entry.understated||[]).length) mat += '<span class="chip" title="' + esc(s.entry.understated.join('; ')) + '">Intensity may be understated</span>';
+  if (s.warning) mat = '<span class="chip" style="color:var(--gF);border-color:currentColor;font-weight:700" title="' + esc(s.warning) + '">Content warning</span>' + mat;
   const m = mainFn(s.entry);
   return `<a class="row" href="${link(s)}">${coverGrade(s, tile)}<div style="min-width:0"><div class="t">${esc(s.title)}</div>${m ? `<div style="display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center">${mfLine(s)}${pushBar(m)}</div>` : ''}${philo(s)}${body}<div class="sub">${subline(s)}</div><div class="chips">${outlookChip(s)}${chips}${mat}${confChip(s)}</div></div></a>`;
 }
@@ -821,6 +822,7 @@ function viewSeries(s) {
       ${others.length ? `<div class="carry"><span class="eyebrow">Also carries</span>${others.map(l => { const k = dirOf(l.stance); return `<span class="tagk k-${k}" title="${esc(l.label||l.lens)}">${k==='for'?'For':'Against'}: ${esc(PLAIN[l.lens]||l.lens)}</span>`; }).join('')}</div>` : ''}
       ${per.length ? `<div class="scroll"><table><thead><tr><th>Who carries each idea</th><th>Idea</th><th>Role</th></tr></thead><tbody>${per.map(x=>`<tr><td><b>${esc(x.character)}</b></td><td>${esc(x.ideology)}</td><td>${esc(x.role)}${x.treatment?`, drawn ${esc(String(x.treatment).toLowerCase())}`:''}</td></tr>`).join('')}</tbody></table></div>` : ''}
       ${s.hope ? `<div class="olrow" style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.9rem;color:var(--muted)">${outlookChip(s)}<span>${esc(HOPE[s.hope][1])}${s.hopeEst ? ' Estimated from the analysis; not yet checked by hand.' : ''}</span></div>` : ''}</section>`; }
+  if (s.warning) h += `<section class="note" role="note" style="border:2px solid var(--gF);border-radius:10px;padding:10px 14px;margin:10px 0"><span class="eyebrow" style="color:var(--gF)">Content warning</span><p style="margin:4px 0 0">${esc(s.warning)}</p><p class="note" style="margin:4px 0 0;font-size:.85rem">Based on published summaries and reviews; not yet checked against the printed book.</p></section>`;
   if (e) {
     const fit = fitFor(e, p);
     h += `<section class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
