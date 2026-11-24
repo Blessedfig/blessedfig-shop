@@ -296,6 +296,24 @@ footer a{color:var(--accent)}
 .thesis .olrow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.9rem;color:var(--muted)}
 .olkey{display:grid;gap:8px;margin:8px 0}
 .olkey div{display:flex;gap:10px;align-items:baseline}
+/* content-first start page (2026-11-24) */
+.hero.slim{gap:14px;max-width:820px}
+.hero.slim h1{font-size:clamp(1.7rem,4.6vw,2.4rem)}
+.sel{display:flex;flex-wrap:wrap;gap:12px}
+.sel label{display:flex;flex-direction:column;gap:4px;font:800 .7rem var(--f-body);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.shelf a.tl{width:132px}
+.shelf .tl .bk,.shelf .tl .bk img,.shelf .tl .bk span.ph{width:132px;height:190px}
+.shelf .tl .bk .grade{width:2.1rem;height:2.1rem;font-size:1.15rem;border-radius:9px}
+.tl .tm{font:400 .84rem/1.25 var(--f-display)}
+.tl .tm b{font:800 .62rem var(--f-body);letter-spacing:.06em;text-transform:uppercase;margin-right:2px}
+.tl .tp{display:flex;align-items:center;gap:6px;font:700 .7rem var(--f-body);color:var(--muted)}
+.tl .tp .pb{width:44px;height:6px}
+.shelfhead h2{font-size:1.25rem}
+.shelfhead .back{white-space:nowrap}
+.morelinks{display:flex;flex-wrap:wrap;gap:8px}
+.morelinks a{font:700 .9rem var(--f-body);color:var(--accent);text-decoration:none;border:1.5px solid var(--rule);border-radius:999px;padding:8px 14px;background:var(--panel)}
+.morelinks a:hover{border-color:var(--accent)}
+@media (max-width:640px){.shelf a.tl{width:112px}.shelf .tl .bk,.shelf .tl .bk img{width:112px;height:162px}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
@@ -527,34 +545,42 @@ function shelf() {
       return `<a href="${link(s)}"><span class="bk">${coverImg(s, '', 'medium')}${f ? gradeTile(f.g, f.prov, 'sm') : ''}</span><span class="tt">${esc(s.title)}</span></a>`; }).join('')}</div>
     <p class="note">Popular series suited to ages ${esc(band)}${pickedBand() ? '' : ' and up'}. Tap a cover for what it teaches and why.</p></section>`;
 }
+// ---- Start page: content first. Search, two small selectors, then shelves of covers grouped by what each story argues. ----
+function tile(s) {
+  const f = s.entry && fitFor(s.entry, state.profile), m = mainFn(s.entry);
+  return `<a class="tl" href="${link(s)}"><span class="bk">${coverImg(s, '', 'medium')}${f ? gradeTile(f.g, f.prov, 'sm') : ''}</span><span class="tt">${esc(s.title)}</span>${m ? `<span class="tm k-${m.k}"><b>${VERB[m.k].replace('Argues ','')}</b> ${esc(PLAIN[m.lens] || m.lens)}</span><span class="tp"><span class="pb"><span style="width:${m.push*10}%"></span></span>${pushLabel(m.push)} push</span>` : ''}</a>`;
+}
+function startPool() {
+  const band = pickedBand();
+  return D.series.filter(s => s.entry && s.cover && (!band || (BANDS.indexOf(ageBand(s)) <= BANDS.indexOf(band) && (!s.pubrating || s.pubrating.min_age <= BAND_AGE[band]))));
+}
+const pop = (a,b) => (+b.popularity||0) - (+a.popularity||0);
+let SHOWN = new Set();
+function shelfRow(title, sub, list, more) {
+  list = list.filter(s => !SHOWN.has(s)).slice(0, 16);
+  if (list.length < 4) return '';
+  list.forEach(s => SHOWN.add(s));
+  return `<section class="shelfwrap"><div class="shelfhead"><div><h2>${title}</h2>${sub ? `<p class="note">${sub}</p>` : ''}</div>${more ? `<a class="back" href="${more}">See all</a>` : ''}</div><div class="shelf">${list.map(tile).join('')}</div></section>`;
+}
 function viewStart() {
-  const p = state.profile, band = pickedBand();
-  const ageDone = !!state.ageDone, picked = !!state.picked;
-  let h = `<div class="stack" style="gap:28px"><section class="hero"><div class="welcome"><span class="eyebrow">A guide for parents of every background</span><h1>Find manga that fit your family.</h1>${ageDone && picked ? '' : '<p class="lede">Two quick questions, then a short list: what each story argues about life, and how well it fits your family. Every tradition gets the same honest descriptions.</p>'}</div>`;
-  if (!ageDone) {
-    h += `<div class="step"><h2><span class="num">1</span>How old is your reader?</h2>
-      <div class="pills big" role="group" aria-label="Reader's age">${AGES.map(([a])=>`<button type="button" class="pill" data-age="${esc(a)}">${esc(a)}</button>`).join('')}</div>
-      <button type="button" class="linkbtn" id="skipage">Skip, show every age</button></div>`;
-  } else if (!picked) {
-    h += `<div class="step"><h2><span class="num">2</span>What does your family believe?</h2>
-      <p class="note">Each series is graded by your tradition's own teaching. No tradition is the default.</p>
-      <div class="groups">${TRAD_GROUPS.map(([g,l,d])=>`<button type="button" class="gbtn" data-tg="${esc(g)}" aria-pressed="${state.tgroup===g}"><strong>${esc(l)}</strong><span>${esc(d)}</span></button>`).join('')}</div>
-      ${state.tgroup ? `<div class="pills" role="group" aria-label="${esc(state.tgroup)}">${(GROUPS.find(x=>x[0]===state.tgroup)||[,[]])[1].map(v=>`<button type="button" class="pill" data-p="${esc(v)}">${esc(v==='Christian (any)'?'Any Christian church':v)}</button>`).join('')}</div>` : ''}
-      <button type="button" class="linkbtn" id="backage">← Back to age</button></div>`;
-  }
-  if (ageDone && picked) {
-    const {pool, list} = startList(), n = state.showN || 12, any = p === 'Christian (any)';
-    h += `<div class="choices"><span>For <strong>${band ? `ages ${esc(band)}` : 'every age'}</strong> · <strong>${esc(any ? 'any Christian church' : p)}</strong></span><button type="button" class="linkbtn" id="redo">Change</button></div></section>
-      <section class="stack res" style="gap:10px"><div class="reshead"><h2>Best fits first</h2><span class="count">${list.length} graded</span></div>
-      <div class="cards">${list.slice(0, n).map(({s,fit})=>card(s, fit)).join('') || '<p class="empty">No graded series match yet. Try an older age or another genre.</p>'}</div>
-      ${list.length > n ? `<button type="button" class="pill more" id="more">Show ${Math.min(12, list.length - n)} more</button>` : ''}
-      <details class="panel refine" ${state.genre||state.startSort||state.outlook?'open':''}><summary>Narrow it down: outlook, genre and order</summary>
-        <div class="controls" style="border:0;padding:0"><label for="genre">Genre${genreSelect(pool)}</label>${outlookSelect('olk1')}${sortSelect('ssort', state.startSort||'hope', ['grade'])}${adultToggle()}</div></details>
-      <details class="panel"><summary>What do the letters mean?</summary><div class="legend">${GRADES.map(g=>`<div>${gradeTile(g,false,'sm')}<span><b>${GRADE_TEXT[g][0]}</b>${GRADE_TEXT[g][1]}</span></div>`).join('')}</div>
-        <p class="note">${any ? `"Any Christian church" shows the middle grade across ${CHRISTIAN.length} Christian traditions. ` : ''}A dashed border means the grade is provisional. Descriptions are the same for every family; only grades and order change. <a href="#method">How we grade</a></p></details></section>`;
-  } else h += `</section>` + shelf();
-  h += findBox() + exploreCards() + `</div>`;
-  return h;
+  const p = state.profile, pool = startPool(); SHOWN = new Set();
+  const ages = [['', 'Every age'], ...AGES.map(([a]) => [a, a])];
+  let h = `<div class="stack" style="gap:26px"><section class="hero slim"><h1>What is your kid reading, and what does it teach?</h1>
+    ${findBox()}
+    <div class="sel"><label for="agesel">Reader's age<select id="agesel">${ages.map(([v,l])=>`<option value="${esc(v)}" ${(state.age||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label>
+    <label for="profile">Grades for${profileSelect('profile', p)}</label></div></section>`;
+  const byPop = [...pool].sort(pop);
+  h += shelfRow('Popular right now', 'The most-read series, with your grade on each cover.', byPop, '#popular');
+  h += shelfRow('Hopeful stories', 'Stories that argue goodness, love or effort can win out.', byPop.filter(s => s.outlook === 'h'), '#see-hope');
+  const fit = byPop.map(s => ({s, f: fitFor(s.entry, p)})).filter(x => x.f && (x.f.g === 'S' || x.f.g === 'A')).map(x => x.s);
+  h += shelfRow(`Strong fits for ${esc(p === 'Christian (any)' ? 'Christian families' : p)}`, 'Graded S or A by your tradition\'s own teaching.', fit, null);
+  const groups = {}; byPop.forEach(s => { const m = mainFn(s.entry); if (m && m.k !== 'explores') (groups[m.k + ':' + m.lens] = groups[m.k + ':' + m.lens] || []).push(s); });
+  Object.entries(groups).sort((a,b) => b[1].length - a[1].length).slice(0, 6).forEach(([k, list]) => {
+    const [d, l] = k.split(':');
+    h += shelfRow(`${d === 'for' ? 'Argues for' : 'Argues against'} ${esc(PLAIN[l] || l)}`, '', list, '#see-mf-' + encodeURIComponent(k));
+  });
+  h += `<nav class="morelinks" aria-label="More ways to explore">${EXPLORE.map(([hr,tt])=>`<a href="${hr}">${tt}</a>`).join('')}</nav>`;
+  return h + `</div>`;
 }
 function genreSelect(pool) {
   const c = {}; pool.forEach(s => (s.genres||[]).forEach(g => c[g] = (c[g]||0) + 1));
@@ -884,7 +910,9 @@ function render() {
   if (h.startsWith('s-') || h.startsWith('e-')) {
     const s = h.startsWith('s-') ? ALL.find(x=>String(x.id)===h.slice(2)) : ALL.find(x=>x.entry?.slug===h.slice(2));
     html = s ? viewSeries(s) : '<p class="empty">Series not found. <a href="#browse">See all manga</a>.</p>'; view = 'series'; md = s?.entry?.slug; CUR = s;
-  } else if (h === 'hopeful') { state.outlook = 'h'; state.analyzed = true; state.sort = 'popularity'; save(); location.replace('#browse'); return; }
+  } else if (h === 'see-hope') { Object.assign(state, {outlook:'h', mf:'', analyzed:true, sort:'popularity', genre:''}); save(); location.replace('#browse'); return; }
+  else if (h.startsWith('see-mf-')) { Object.assign(state, {mf: decodeURIComponent(h.slice(7)), outlook:'', analyzed:true, sort:'push', genre:''}); save(); location.replace('#browse'); return; }
+  else if (h === 'hopeful') { state.outlook = 'h'; state.analyzed = true; state.sort = 'popularity'; save(); location.replace('#browse'); return; }
   else if (h === 'browse') html = viewBrowse();
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
   else if (h === 'method' || h.startsWith('method-')) { html = viewMethod(); view = 'method'; }
@@ -912,7 +940,7 @@ function bind() {
   const on = (id, ev, fn) => { const el = document.getElementById(id); if (el) el.addEventListener(ev, fn); };
   const set = (k, rerender = true) => e => { state[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value; save(); if (rerender) render(); };
   on('q','input', e=>{ state.q=e.target.value; save(); const pos=e.target.selectionStart; render(); const q=$('#q'); q.focus(); q.setSelectionRange(pos,pos); });
-  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','adult:adult','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt','olk1:outlook','olk2:outlook','olk3:outlook','mf2:mf','mf3:mf'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
+  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','adult:adult','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt','olk1:outlook','olk2:outlook','olk3:outlook','mf2:mf','mf3:mf','agesel:age'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
   document.querySelectorAll('.genres button[data-genre]').forEach(b=>b.addEventListener('click',()=>{ state.genre=b.dataset.genre; save(); render(); }));
   document.querySelectorAll('input[data-q]').forEach(r=>r.addEventListener('change',()=>{ QANS[r.dataset.q]=+r.value; }));
   on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; HER=new Set(); VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
