@@ -191,8 +191,9 @@ function stepIntro() {
 function stepReader() {
   return `<h2>How old is your reader?</h2><p class="note">This sets starting limits for mature content. You can change each one on the content step.</p>
   ${radios('age', [['', 'Skip'], ...AGES.map(a => [a[0], a[0]])], ans('age') ?? '')}
-  <h3>Should we leave out series whose publisher rates them for older readers?</h3>
-  ${radios('pubage', [['1', 'Yes, leave them out'], ['0', 'No, just rank them lower']], ans('pubage') ?? '1')}`;
+  <h3>Some series are rated by their publisher for older kids than yours. Hide them, or still show them further down the list?</h3>
+  <p class="note">Publishers like VIZ and Yen Press put an age rating on each book, for example "Teen 13+". This only matters if that rating is older than your reader.</p>
+  ${radios('pubage', [['1', 'Hide them'], ['0', 'Show them lower down']], ans('pubage') ?? '1')}`;
 }
 function stepTrad() {
   const opt = (id, cur, none) => `<select id="${id}" data-dqs="${id}" aria-label="Tradition"><option value="">${none}</option>${GROUPS.map(([g, items]) => `<optgroup label="${esc(g)}">${items.map(v => `<option ${v === cur ? 'selected' : ''}>${esc(v)}</option>`).join('')}</optgroup>`).join('')}</select>`;
