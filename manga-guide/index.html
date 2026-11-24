@@ -314,6 +314,15 @@ footer a{color:var(--accent)}
 .morelinks a{font:700 .9rem var(--f-body);color:var(--accent);text-decoration:none;border:1.5px solid var(--rule);border-radius:999px;padding:8px 14px;background:var(--panel)}
 .morelinks a:hover{border-color:var(--accent)}
 @media (max-width:640px){.shelf a.tl{width:112px}.shelf .tl .bk,.shelf .tl .bk img{width:112px;height:162px}}
+/* hope source + cluster bars (2026-11-24) */
+.morelinks.hopes a span{font-weight:400;color:var(--muted);margin-left:4px}
+.clgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px;margin-top:10px}
+.clc{border:1.5px solid var(--rule);border-radius:12px;padding:12px 14px;display:grid;gap:6px;background:var(--panel)}
+.clc h3{margin:0;font-size:1.05rem}.clc p{margin:0 0 4px;font-size:.9rem}
+.db{display:grid;grid-template-columns:1fr 92px 1fr;gap:8px;align-items:center;font:600 .76rem var(--f-body);color:var(--muted)}
+.db span:first-child{text-align:right}.db .on{color:var(--ink);font-weight:800}
+.db .tr{position:relative;height:6px;border-radius:3px;background:var(--rule)}
+.db .tr i{position:absolute;top:50%;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:var(--accent)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
@@ -381,8 +390,10 @@ function meter(v, withText = true) {
   const n = Math.round(v), cls = n >= 7 ? 'hi' : n >= 4 ? 'mid' : 'lo';
   return `<span class="intensity"><span class="meter ${cls}" aria-hidden="true">${Array.from({length:10},(_,i)=>`<i class="${i<n?'on':''}"></i>`).join('')}</span>${withText ? v + ' / 10' : ''}</span>`;
 }
-const OUTLOOK = {h:['Hopeful','The story argues that goodness, love or effort can win out, and it ends or points that way.'], m:['Bittersweet','Hope and goodness are real, but the story counts heavy losses, holds its ideals at great cost, or leaves the outcome open.'], b:['Bleak','The story shows a cruel or indifferent world with little way out, often as a warning or a tragedy.']};
-const outlookChip = s => s.outlook && OUTLOOK[s.outlook] ? `<span class="ol ol-${s.outlook}" title="${esc(OUTLOOK[s.outlook][1])}">${OUTLOOK[s.outlook][0]}</span>` : '';
+const HOPE = {G:['God or something beyond us','The story finds hope in God, the gods, providence or a sacred order beyond the characters.'], R:['Forgiveness and redemption','Hope comes from mercy, second chances and people who change for the better.'], F:['Family, friends and community','Hope comes from the people who stand with you: family, friends, a team or a found family.'], L:['Love between two people','Hope comes from a love that grows between two people.'], E:['Effort and growing stronger','Hope comes from hard work, practice and growing in skill or character.'], S:['Being true to yourself','Hope comes from choosing your own path and living honestly as who you are.'], P:['Protecting others','Hope comes from courage and sacrifice on behalf of others, especially the weak.'], K:['Knowledge and discovery','Hope comes from curiosity, learning, science or finding out the truth.'], J:['Small everyday joys','Hope comes from ordinary life: food, work, quiet days and simple kindness.'], N:['Finds little hope','A tragedy or a warning: the story shows what goes wrong and offers little way out.']};
+const HOPE_ORDER = ['G','R','F','L','E','S','P','K','J','N'];
+const hopeName = k => k === 'N' ? 'Finds little hope' : 'Finds hope in ' + HOPE[k][0].charAt(0).toLowerCase() + HOPE[k][0].slice(1);
+const outlookChip = s => s.hope && HOPE[s.hope] ? `<span class="ol ol-${s.hope === 'N' ? 'b' : 'h'}" title="${esc(HOPE[s.hope][1])}${s.hopeEst ? ' (estimated from the analysis)' : ''}">${esc(hopeName(s.hope))}</span>` : '';
 const PLAIN = {'Classical virtue ethics':'virtue and character','Communitarianism':'community and belonging','Expressive individualism':'being true to yourself','Pragmatism':'practical problem-solving','Hedonism':'pleasure-seeking','Might makes right':'"might makes right"','Existentialism':'making your own meaning','Absurdism':'finding meaning in absurdity','Nihilism':'nihilism (nothing matters)','Anti-natalism':'anti-natalism','Collectivism/authoritarianism':'authoritarian control','Consumerism':'consumerism','Critical theory':'critique of power','Feminism':'feminism','Postmodernism':'postmodernism','Environmentalism':'care for nature','Libertarianism':'personal freedom','Traditionalism':'tradition','Progressivism':'progressive change','Confucian ethics':'duty and respect for elders','Stoicism':'Stoic self-control','Utilitarianism':'the greater good','Secular humanism':'secular humanism','Naturalism':'naturalism','Transhumanism':'transhumanism','Moralistic therapeutic deism':'"be nice, God wants you happy"','Pagan/occult':'pagan or occult ideas','Pantheist/New Age':'New Age spirituality','Dharmic (Hindu/Buddhist)':'Hindu or Buddhist ideas','Marxism':'Marxism','Christian':'Christian ideas','Jewish':'Jewish ideas','Islamic':'Islamic ideas'};
 const plain = l => PLAIN[l.lens] || (l.label || l.lens || '').toLowerCase();
 function ideasLine(e) {
@@ -414,9 +425,8 @@ const MF_OPTS = () => { const c = {}; D.series.forEach(s => { const m = mainFn(s
 const mfSelect = id => `<label for="${id}">Main idea<select id="${id}"><option value="">Any main idea</option>${MF_OPTS().map(([k,n])=>{ const [d,l] = k.split(':'); return `<option value="${esc(k)}" ${state.mf===k?'selected':''}>${d==='for'?'For':'Against'}: ${esc(PLAIN[l]||l)} (${n})</option>`; }).join('')}</select></label>`;
 const mfOk = s => { if (!state.mf) return true; const m = mainFn(s.entry); return !!m && (m.k + ':' + m.lens) === state.mf; };
 const philo = s => s.entry && s.entry.life_message ? `<p class="philo">${esc(s.entry.life_message)}</p>` : '';
-const hopeRank = s => ({h:0, m:1, b:2})[s.outlook] ?? 3;
-const outlookOk = s => !state.outlook || (state.outlook === 'h' ? s.outlook === 'h' : state.outlook === 'hm' ? (s.outlook === 'h' || s.outlook === 'm') : true);
-const outlookSelect = id => `<label for="${id}">Outlook<select id="${id}">${[['','Any outlook'],['h','Hopeful only'],['hm','Hopeful or bittersweet']].map(([v,l])=>`<option value="${v}" ${(state.outlook||'')===v?'selected':''}>${l}</option>`).join('')}</select></label>`;
+const outlookOk = s => !state.hope || (state.hope === 'y' ? (s.hope && s.hope !== 'N') : s.hope === state.hope);
+const outlookSelect = id => `<label for="${id}">Finds hope in<select id="${id}">${[['','Any'],['y','Any source of hope'],...HOPE_ORDER.map(k=>[k, k==='N' ? 'Little hope (tragedies)' : HOPE[k][0]])].map(([v,l])=>`<option value="${v}" ${(state.hope||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label>`;
 const stanceKey = s => { s = (s||'').toLowerCase(); return s.startsWith('affirm') ? 'Affirmed' : s.startsWith('critiq') ? 'Critiqued' : /^(explor|contest|echo)/.test(s) ? 'Explored' : 'Incidental'; };
 function closeness(l) {
   if (l.closeness) return l.closeness;
@@ -458,7 +468,7 @@ function genreBar(pool) {
 let ALL = [];
 const isAdult = s => s.adult === true || s.mdex_rating === 'pornographic';
 const adultToggle = () => `<label class="check" for="adult"><input id="adult" type="checkbox" ${state.adult?'checked':''}> Show 18+ titles (${ALL.filter(isAdult).length} titles)</label>`;
-const SORTS = [['grade','Best grade for your tradition'],['hope','Most hopeful first'],['push','Strongest push first'],['popularity','Most read'],['title','Title A to Z'],['ageband','Youngest age band first'],['level','Least mature content'],['levelDesc','Most mature content'],['newest','Newest first'],['oldest','Oldest first'],['depth','In-depth entries first']];
+const SORTS = [['grade','Best grade for your tradition'],['push','Strongest push first'],['popularity','Most read'],['title','Title A to Z'],['ageband','Youngest age band first'],['level','Least mature content'],['levelDesc','Most mature content'],['newest','Newest first'],['oldest','Oldest first'],['depth','In-depth entries first']];
 function sortSeries(list, key, p) {
   const pop = (a,b)=>(+b.popularity||0)-(+a.popularity||0);
   const gi = s => { const f = s.entry && fitFor(s.entry, p); return f ? GRADES.indexOf(f.g) : 99; };
@@ -467,7 +477,6 @@ function sortSeries(list, key, p) {
   const cmp = {
     grade: (a,b)=>gi(a)-gi(b) || pop(a,b),
     popularity: pop,
-    hope: (a,b)=>hopeRank(a)-hopeRank(b) || pop(a,b),
     push: (a,b)=>(mainFn(b.entry)?.push ?? -1)-(mainFn(a.entry)?.push ?? -1) || pop(a,b),
     title: (a,b)=>(a.title||a.romaji||'').localeCompare(b.title||b.romaji||''),
     ageband: (a,b)=>(BANDS.indexOf(ageBand(a)??'z')+1||9)-(BANDS.indexOf(ageBand(b)??'z')+1||9) || (lv(a)??99)-(lv(b)??99) || pop(a,b),
@@ -515,7 +524,7 @@ function startList() {
   const p = state.profile, band = pickedBand();
   const pool = D.series.filter(s=>s.entry && (!band || (BANDS.indexOf(ageBand(s)) <= BANDS.indexOf(band) && (!s.pubrating || s.pubrating.min_age <= BAND_AGE[band]))));
   const list = pool.filter(inGenre).filter(outlookOk).map(s=>({s, fit: fitFor(s.entry, p)})).filter(x=>x.fit);
-  const order = sortSeries(list.map(x=>x.s), state.startSort||'hope', p); const pos = new Map(order.map((x,i)=>[x,i]));
+  const order = sortSeries(list.map(x=>x.s), state.startSort||'popularity', p); const pos = new Map(order.map((x,i)=>[x,i]));
   list.sort((a,b)=>GRADES.indexOf(a.fit.g)-GRADES.indexOf(b.fit.g) || pos.get(a.s)-pos.get(b.s));
   return {pool, list};
 }
@@ -533,7 +542,7 @@ function findResults(q) {
   if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
   return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${coverImg(s, 'cover sm')}${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
 }
-const EXPLORE = [['#hopeful','Hopeful stories','Series whose message is that goodness, love or effort can win out.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#deep','In-depth family profile','A longer quiz across every category, for a closely matched list.'],['#method','How we grade','What the grades, age bands and labels mean.']];
+const EXPLORE = [['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#deep','In-depth family profile','A longer quiz across every category, for a closely matched list.'],['#method','How we grade','What the grades, age bands and labels mean.']];
 const exploreCards = () => `<section class="stack" style="gap:10px"><h2>More ways to explore</h2><div class="explore">${EXPLORE.map(([h,t,d])=>`<a href="${h}"><strong>${t}</strong><span>${d}</span></a>`).join('')}</div></section>`;
 function shelf() {
   const band = pickedBand() || '10+', p = state.profile;
@@ -571,7 +580,8 @@ function viewStart() {
     <label for="profile">Grades for${profileSelect('profile', p)}</label></div></section>`;
   const byPop = [...pool].sort(pop);
   h += shelfRow('Popular right now', 'The most-read series, with your grade on each cover.', byPop, '#popular');
-  h += shelfRow('Hopeful stories', 'Stories that argue goodness, love or effort can win out.', byPop.filter(s => s.outlook === 'h'), '#see-hope');
+  const hc = {}; pool.forEach(s => { if (s.hope) hc[s.hope] = (hc[s.hope]||0) + 1; });
+  h += `<section class="shelfwrap"><div class="shelfhead"><div><h2>Where these stories find hope</h2><p class="note">Every analyzed series is tagged with what it holds out as the way through.</p></div></div><nav class="morelinks hopes" aria-label="Browse by where a story finds hope">${HOPE_ORDER.filter(k=>hc[k]).map(k=>`<a href="#see-hope-${k}" title="${esc(HOPE[k][1])}">${esc(k==='N'?'Little hope (tragedies)':HOPE[k][0])} <span>${hc[k]}</span></a>`).join('')}</nav></section>`;
   const fit = byPop.map(s => ({s, f: fitFor(s.entry, p)})).filter(x => x.f && (x.f.g === 'S' || x.f.g === 'A')).map(x => x.s);
   h += shelfRow(`Strong fits for ${esc(p === 'Christian (any)' ? 'Christian families' : p)}`, 'Graded S or A by your tradition\'s own teaching.', fit, null);
   const groups = {}; byPop.forEach(s => { const m = mainFn(s.entry); if (m && m.k !== 'explores') (groups[m.k + ':' + m.lens] = groups[m.k + ':' + m.lens] || []).push(s); });
@@ -593,7 +603,7 @@ function viewBrowse() {
     if (!inGenre(s)) return false;
     if (state.analyzed && !s.entry) return false;
     if (state.maxLevel !== 'any' && !(s.entry && s.entry.overall <= +state.maxLevel)) return false;
-    if (state.outlook && !outlookOk(s)) return false;
+    if (state.hope && !outlookOk(s)) return false;
     if (state.mf && !mfOk(s)) return false;
     if (state.pub && !pubs(s).includes(state.pub)) return false;
     if (state.q) { const q = state.q.toLowerCase(); if (![s.title, s.romaji, s.native, ...(s.creators||[]).map(c=>c.name)].some(x => (x||'').toLowerCase().includes(q))) return false; }
@@ -612,7 +622,7 @@ function viewBrowse() {
       ${sortSelect('sort', state.sort)}
       <label class="check" for="an"><input id="an" type="checkbox" ${state.analyzed?'checked':''}> Analyzed only</label>${adultToggle()}</div>
     <p class="count">${list.length} of ${D.series.length} series · ${D.series.filter(s=>s.entry).length} analyzed so far</p>
-    <div class="list">${list.map(s=>{ const fit = s.entry && fitFor(s.entry, p); return row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')); }).join('') || '<p class="empty">No series match. Clear the search, change the outlook, or raise the intensity limit.</p>'}</div></div>`;
+    <div class="list">${list.map(s=>{ const fit = s.entry && fitFor(s.entry, p); return row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')); }).join('') || '<p class="empty">No series match. Clear the search, change where it finds hope, or raise the intensity limit.</p>'}</div></div>`;
 }
 
 // ---- Folkways and cultural values (optional layer) ----
@@ -662,9 +672,9 @@ function viewValues() {
     <p class="note">A suggestion only. Cluster positions are drafts from ${[...new Set(res.map(r=>r.c.source))].map(esc).join('; ')}, still being checked.</p>
     <p>${VALS_SAVED ? '<button id="valclear" class="pill">Forget my answers on this device</button>' : '<button id="valsave" class="pill">Save on this device</button>'}</p></section>
     <section class="panel"><h2>Series closest to your values</h2>${close.length ? `<div class="list">${close.slice(0,30).map(({s,d})=>row(s, `<span class="grade lg" title="Distance">${(10 - Math.min(10, d/ Math.sqrt(6))).toFixed(1)}</span>`, '')).join('')}</div><p class="note">The number is closeness from 0 to 10. It describes, it does not recommend.</p>` : '<p class="note">Series are still being placed on these values. Check back as entries are added.</p>'}</section>` : ''}
-  <details class="panel"><summary><strong>All clusters and their positions</strong></summary><div class="scroll"><table><thead><tr><th>Cluster</th><th>Group</th>${D.dims.map(d=>`<th class="num" title="${esc(d)}">${esc(d.split(' vs ').join(' / '))}</th>`).join('')}<th>What it values</th></tr></thead><tbody>
-  ${cl.map(c=>`<tr><td>${esc(c.name)}</td><td>${esc(c.group)}</td>${c.pos.map(v=>`<td class="num">${v}</td>`).join('')}<td>${esc(c.values)}<div class="note" style="font-size:.8rem">${esc(c.source)} · ${esc(c.status)}</div></td></tr>`).join('')}</tbody></table></div>
-  <p class="note">Each value runs 0 to 10 between the two words shown. Sources: Fischer, Albion's Seed (1989); Woodard, American Nations (2011); the Inglehart-Welzel cultural map (World Values Survey).</p></details></div>`;
+  <details class="panel"><summary><strong>All clusters and their positions</strong></summary><p class="note">Each bar shows where a group sits between two opposite values. The dot near the left word means that group leans strongly toward it; near the middle means balanced. These positions are our estimates from each book's description of the group, not scores printed in the books, and have not yet been checked line by line. Read them as rough leanings: a one-point difference means nothing.</p>
+  <div class="clgrid">${cl.map(c=>`<div class="clc"><h3>${esc(c.name)} <span class="note">${esc(c.group)}</span></h3><p>${esc(c.values)}</p>${D.dims.map((d,i)=>{ const [l,r]=d.split(' vs '); const v=c.pos[i]; return `<div class="db" title="${esc(d)}: ${v} of 10"><span${v<=4?' class="on"':''}>${esc(l)}</span><span class="tr"><i style="left:${v*10}%"></i></span><span${v>=6?' class="on"':''}>${esc(r)}</span></div>`; }).join('')}<div class="note" style="font-size:.8rem">${esc(c.source)}</div></div>`).join('')}</div>
+  <p class="note"> Sources: Fischer, Albion's Seed (1989); Woodard, American Nations (2011); the Inglehart-Welzel cultural map (World Values Survey).</p></details></div>`;
 }
 function folkwaysPanel(e) {
   const f = e.folkways; if (!f) return '';
@@ -798,7 +808,7 @@ function viewSeries(s) {
       ${e.life_message ? `<p class="message">${esc(e.life_message)}</p>` : ''}
       ${others.length ? `<div class="carry"><span class="eyebrow">Also carries</span>${others.map(l => { const k = dirOf(l.stance); return `<span class="tagk k-${k}" title="${esc(l.label||l.lens)}">${k==='for'?'For':'Against'}: ${esc(PLAIN[l.lens]||l.lens)}</span>`; }).join('')}</div>` : ''}
       ${per.length ? `<div class="scroll"><table><thead><tr><th>Who carries each idea</th><th>Idea</th><th>Role</th></tr></thead><tbody>${per.map(x=>`<tr><td><b>${esc(x.character)}</b></td><td>${esc(x.ideology)}</td><td>${esc(x.role)}${x.treatment?`, drawn ${esc(String(x.treatment).toLowerCase())}`:''}</td></tr>`).join('')}</tbody></table></div>` : ''}
-      ${s.outlook ? `<div class="olrow" style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.9rem;color:var(--muted)">${outlookChip(s)}<span>${esc(OUTLOOK[s.outlook][1])}</span></div>` : ''}</section>`; }
+      ${s.hope ? `<div class="olrow" style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.9rem;color:var(--muted)">${outlookChip(s)}<span>${esc(HOPE[s.hope][1])}${s.hopeEst ? ' Estimated from the analysis; not yet checked by hand.' : ''}</span></div>` : ''}</section>`; }
   if (e) {
     const fit = fitFor(e, p);
     h += `<section class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
@@ -874,9 +884,9 @@ function viewMethod() {
   <h2>Main function and push</h2><p>Every analyzed series opens with its <strong>main function</strong>: the one idea it is most built around, and whether it <strong>argues for</strong> it, <strong>argues against</strong> it, or only <strong>explores</strong> it. It is the strongest of the philosophies we check, preferring one the story takes a side on when two are close.</p>
   <p><strong>Push</strong> (1 to 10) is how hard the story presses that idea. It adds how central the idea is (its strength, 0 to 10, weighted 0.6) to how openly the story argues it (subtle 1, woven into the plot 2, explicit 3, heavy-handed 4). Light is 1 to 4, Moderate 5 to 6, Strong 7 to 10. Push measures force, not approval: a story can push hard for an idea your tradition rejects, or argue against one it holds. The series page also shows the other ideas it carries and which characters carry each one.</p>
   <h2>What each story argues</h2><p>Every analyzed series opens with one plain sentence on what it argues about life: what it holds up as good and worth living for. It is drawn from the story itself (who is rewarded, who changes, how it ends), not from how dark it looks. Many violent or sad series argue for mercy, sacrifice or hope. Below the sentence are the ideas the story <strong>champions</strong> and the one it most <strong>pushes back on</strong>, in plain words; the full list is under "Philosophies it leans toward".</p>
-  <p>Each series also has an <strong>outlook</strong>. It describes the story's view of life, not its quality or its fit for your family:</p>
-  <div class="olkey">${Object.entries(OUTLOOK).map(([k,[n,d]])=>`<div><span class="ol ol-${k}">${n}</span><span>${d}</span></div>`).join('')}</div>
-  <p>A bleak story can still be worth reading as a warning, and a hopeful one can still conflict with your tradition. Maturity and age are rated separately and shown as small badges.</p>
+  <h2>Where it finds hope</h2><p>Each series is also tagged with <strong>where it finds hope</strong>: the one thing the story holds out as the way through. This says what kind of hope it offers, not whether that hope fits your family or how good the story is.</p>
+  <div class="olkey">${HOPE_ORDER.map(k=>`<div><span class="ol ol-${k==='N'?'b':'h'}">${esc(HOPE[k][0])}</span><span>${esc(HOPE[k][1])}</span></div>`).join('')}</div>
+  <p>The 300 most-read series were tagged by hand. The rest are estimated from each series' existing analysis (its core message, genres and the philosophies it affirms) and are marked as estimated on the series page until checked. A story with little hope can still be worth reading as a warning. Maturity and age are rated separately and shown as small badges.</p>
   <h2>The S to F grade</h2><p>Each analyzed series is read from inside each tradition using that tradition's own teaching, such as the Catechism for Catholics, the Baptist Faith and Message for many Baptists, or the Five Precepts for Buddhists.</p>
   <ul>${GRADES.map(g=>`<li><strong>${g}: ${GRADE_TEXT[g][0]}.</strong> ${GRADE_TEXT[g][1]}.</li>`).join('')}</ul>
   <p>The grade is about the message: how well what the series holds up as good fits the tradition's teaching, including its own teaching on art and stories. It is not lowered just because a series is intense. What is shown on the page is rated separately as a <strong>depiction concern</strong> for each tradition: Minor (little to raise), Discuss (worth talking through) or Significant (many families would hold off or read together).</p><p>A grade with a dashed border is provisional. It is worked out from the depiction concern until the entry is graded directly. A row marked "Older combined grade" was written before the tradition was split into branches and will be re-graded.</p>
@@ -910,9 +920,9 @@ function render() {
   if (h.startsWith('s-') || h.startsWith('e-')) {
     const s = h.startsWith('s-') ? ALL.find(x=>String(x.id)===h.slice(2)) : ALL.find(x=>x.entry?.slug===h.slice(2));
     html = s ? viewSeries(s) : '<p class="empty">Series not found. <a href="#browse">See all manga</a>.</p>'; view = 'series'; md = s?.entry?.slug; CUR = s;
-  } else if (h === 'see-hope') { Object.assign(state, {outlook:'h', mf:'', analyzed:true, sort:'popularity', genre:''}); save(); location.replace('#browse'); return; }
-  else if (h.startsWith('see-mf-')) { Object.assign(state, {mf: decodeURIComponent(h.slice(7)), outlook:'', analyzed:true, sort:'push', genre:''}); save(); location.replace('#browse'); return; }
-  else if (h === 'hopeful') { state.outlook = 'h'; state.analyzed = true; state.sort = 'popularity'; save(); location.replace('#browse'); return; }
+  } else if (h.startsWith('see-hope')) { Object.assign(state, {hope: h.slice(9) || 'y', mf:'', analyzed:true, sort:'popularity', genre:''}); save(); location.replace('#browse'); return; }
+  else if (h.startsWith('see-mf-')) { Object.assign(state, {mf: decodeURIComponent(h.slice(7)), hope:'', analyzed:true, sort:'push', genre:''}); save(); location.replace('#browse'); return; }
+  else if (h === 'hopeful') { location.replace('#start'); setTimeout(() => document.querySelector('.hopes')?.scrollIntoView({block:'center'}), 50); return; }
   else if (h === 'browse') html = viewBrowse();
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
   else if (h === 'method' || h.startsWith('method-')) { html = viewMethod(); view = 'method'; }
@@ -940,7 +950,7 @@ function bind() {
   const on = (id, ev, fn) => { const el = document.getElementById(id); if (el) el.addEventListener(ev, fn); };
   const set = (k, rerender = true) => e => { state[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value; save(); if (rerender) render(); };
   on('q','input', e=>{ state.q=e.target.value; save(); const pos=e.target.selectionStart; render(); const q=$('#q'); q.focus(); q.setSelectionRange(pos,pos); });
-  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','adult:adult','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt','olk1:outlook','olk2:outlook','olk3:outlook','mf2:mf','mf3:mf','agesel:age'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
+  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','adult:adult','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt','olk1:hope','olk2:hope','olk3:hope','mf2:mf','mf3:mf','agesel:age'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
   document.querySelectorAll('.genres button[data-genre]').forEach(b=>b.addEventListener('click',()=>{ state.genre=b.dataset.genre; save(); render(); }));
   document.querySelectorAll('input[data-q]').forEach(r=>r.addEventListener('change',()=>{ QANS[r.dataset.q]=+r.value; }));
   on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; HER=new Set(); VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
@@ -967,7 +977,7 @@ document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !
 fetch('previews.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).then(p => { PV = p || {}; if (D && /^#[se]-/.test(location.hash)) { const y = scrollY; render(); scrollTo(0, y); } }).catch(() => {});
 const OLOAD = fetch('outlook.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).catch(() => ({}));
 fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
-  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
+  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
   $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
