@@ -273,6 +273,24 @@ footer a{color:var(--accent)}
 .row{grid-template-columns:auto minmax(0,1fr)}
 .card .msg{font:400 1rem/1.4 var(--f-display);color:var(--ink);-webkit-line-clamp:3}
 .card .sub{display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center;font-size:.84rem}
+.fnbox{display:flex;flex-direction:column;gap:10px;background:var(--panel);border:2px solid var(--accent);border-radius:18px;box-shadow:var(--shadow);padding:18px 20px}
+.mf{display:flex;flex-direction:column;gap:0}
+.mf .verb{font:800 .78rem/1.3 var(--f-body);letter-spacing:.07em;text-transform:uppercase}
+.mf .idea{font:400 clamp(1.5rem,4.4vw,2rem)/1.15 var(--f-display)}
+.mf.sm{flex-direction:row;flex-wrap:wrap;gap:2px 8px;align-items:baseline;margin:2px 0}
+.mf.sm .verb{font-size:.68rem}.mf.sm .idea{font-size:1.05rem}
+.k-for{color:var(--gA)}.k-against{color:var(--gD)}.k-explores{color:var(--gB)}
+.push{display:inline-flex;align-items:center;gap:8px;font:700 .84rem var(--f-body);color:var(--muted);white-space:nowrap}
+.pb{display:inline-block;width:96px;height:9px;background:var(--tone);border-radius:5px;overflow:hidden}.pb span{display:block;height:100%;background:var(--fig)}
+.fnbox .how{font-size:.92rem;color:var(--muted)}
+.carry{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.tagk{border:1.5px solid currentColor;border-radius:999px;padding:3px 10px;font:700 .8rem/1.3 var(--f-body)}
+.cvg{position:relative;flex:none;display:block;align-self:flex-start}
+.cvg .grade{position:absolute;right:-8px;bottom:-8px;box-shadow:0 2px 6px rgba(0,0,0,.22)}
+.cvg .cover{margin:0}
+.row .cvg .grade{width:2.1rem;height:2.1rem;font-size:1.15rem;border-radius:9px}
+.shead .cvg .grade{width:3.2rem;height:3.2rem;font-size:1.9rem;right:-12px;bottom:-12px}
+.card .cvg .grade{width:2rem;height:2rem;font-size:1.1rem;border-radius:9px}
 .thesis{display:flex;flex-direction:column;gap:10px;background:var(--panel);border:1px solid var(--rule);border-radius:18px;box-shadow:var(--shadow);padding:18px 20px}
 .thesis .message{font-size:1.25rem}
 .thesis .olrow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.9rem;color:var(--muted)}
@@ -356,6 +374,27 @@ function ideasLine(e) {
   const h = [part('Champions', aff), part('Pushes back on', crit)].filter(Boolean).join(' · ');
   return h ? `<div class="ideas">${h}</div>` : '';
 }
+const STYLE_W = {'Subtle':1,'Woven in':2,'Explicit':3,'Heavy-handed':4};
+const VERB = {for:'Argues for', against:'Argues against', explores:'Explores'};
+const dirOf = st => { const k = stanceKey(st); return k === 'Affirmed' ? 'for' : k === 'Critiqued' ? 'against' : 'explores'; };
+// Main function: the idea the story is most built around (strength), preferring one it takes a side on when close. Push: how central (strength) plus how openly it argues (delivery style).
+function mainFn(e) {
+  if (!e || e._mf !== undefined) return e ? e._mf : null;
+  const ls = (e.lenses||[]).filter(l => stanceKey(l.stance) !== 'Incidental' && (l.strength||0) > 0);
+  if (!ls.length) return e._mf = null;
+  const sc = l => (l.strength||0) + (dirOf(l.stance) === 'explores' ? 0 : 0.5);
+  const m = [...ls].sort((a,b)=>sc(b)-sc(a))[0], st = e.delivery && e.delivery.style;
+  const push = Math.max(1, Math.min(10, Math.round((m.strength||0) * 0.6 + (STYLE_W[st] || 2))));
+  return e._mf = {lens: m.lens, label: m.label || m.lens, k: dirOf(m.stance), push, style: st || ''};
+}
+const PLAIN_CAP = l => { const s = PLAIN[l] || l; return s[0] === '"' ? '"' + s[1].toUpperCase() + s.slice(2) : s[0].toUpperCase() + s.slice(1); };
+const pushLabel = v => v <= 4 ? 'Light' : v <= 6 ? 'Moderate' : 'Strong';
+const pushBar = m => `<span class="push" title="How hard the story pushes its main idea: how central it is (0 to 10) plus how openly it argues it (${esc(m.style || 'delivery not recorded')}). Force, not approval."><span class="pb"><span style="width:${m.push*10}%"></span></span>${pushLabel(m.push)} push · ${m.push}/10</span>`;
+const mfLine = (s, size = 'sm') => { const m = mainFn(s.entry); return m ? `<div class="mf ${size} k-${m.k}"><span class="verb">${VERB[m.k]}</span><span class="idea" title="${esc(m.label)}">${esc(PLAIN_CAP(m.lens))}</span></div>` : ''; };
+const coverGrade = (s, tile, cls = 'cover', size = 'small') => s.cover ? `<span class="cvg">${coverImg(s, cls, size)}${tile}</span>` : tile;
+const MF_OPTS = () => { const c = {}; D.series.forEach(s => { const m = mainFn(s.entry); if (m && m.k !== 'explores') { const k = m.k + ':' + m.lens; c[k] = (c[k]||0) + 1; } }); return Object.entries(c).sort((a,b)=>b[1]-a[1]); };
+const mfSelect = id => `<label for="${id}">Main idea<select id="${id}"><option value="">Any main idea</option>${MF_OPTS().map(([k,n])=>{ const [d,l] = k.split(':'); return `<option value="${esc(k)}" ${state.mf===k?'selected':''}>${d==='for'?'For':'Against'}: ${esc(PLAIN[l]||l)} (${n})</option>`; }).join('')}</select></label>`;
+const mfOk = s => { if (!state.mf) return true; const m = mainFn(s.entry); return !!m && (m.k + ':' + m.lens) === state.mf; };
 const philo = s => s.entry && s.entry.life_message ? `<p class="philo">${esc(s.entry.life_message)}</p>` : '';
 const hopeRank = s => ({h:0, m:1, b:2})[s.outlook] ?? 3;
 const outlookOk = s => !state.outlook || (state.outlook === 'h' ? s.outlook === 'h' : state.outlook === 'hm' ? (s.outlook === 'h' || s.outlook === 'm') : true);
@@ -385,7 +424,8 @@ function row(s, tile, body = '', chips = '') {
   let mat = isAdult(s) ? '<span class="chip" style="color:var(--gF);border-color:currentColor">18+ adult title</span>' : bandChip(s) + pubChip(s);
   mat += mcChip(s);
   if (s.entry && (s.entry.understated||[]).length) mat += '<span class="chip" title="' + esc(s.entry.understated.join('; ')) + '">Intensity may be understated</span>';
-  return `<a class="row" href="${link(s)}">${tile}<div style="min-width:0"><div class="t">${esc(s.title)}</div>${philo(s)}${s.entry ? ideasLine(s.entry) : ''}${body}<div class="sub">${subline(s)}</div><div class="chips">${outlookChip(s)}${chips}${mat}${confChip(s)}</div></div></a>`;
+  const m = mainFn(s.entry);
+  return `<a class="row" href="${link(s)}">${coverGrade(s, tile)}<div style="min-width:0"><div class="t">${esc(s.title)}</div>${m ? `<div style="display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center">${mfLine(s)}${pushBar(m)}</div>` : ''}${philo(s)}${body}<div class="sub">${subline(s)}</div><div class="chips">${outlookChip(s)}${chips}${mat}${confChip(s)}</div></div></a>`;
 }
 function profileSelect(id, p) {
   return `<select id="${id}" aria-label="Your tradition">${GROUPS.map(([g, items])=>`<optgroup label="${g}">${items.map(v=>`<option ${v===p?'selected':''}>${esc(v)}</option>`).join('')}</optgroup>`).join('')}</select>`;
@@ -400,7 +440,7 @@ function genreBar(pool) {
 let ALL = [];
 const isAdult = s => s.adult === true || s.mdex_rating === 'pornographic';
 const adultToggle = () => `<label class="check" for="adult"><input id="adult" type="checkbox" ${state.adult?'checked':''}> Show 18+ titles (${ALL.filter(isAdult).length} titles)</label>`;
-const SORTS = [['grade','Best grade for your tradition'],['hope','Most hopeful first'],['popularity','Most read'],['title','Title A to Z'],['ageband','Youngest age band first'],['level','Least mature content'],['levelDesc','Most mature content'],['newest','Newest first'],['oldest','Oldest first'],['depth','In-depth entries first']];
+const SORTS = [['grade','Best grade for your tradition'],['hope','Most hopeful first'],['push','Strongest push first'],['popularity','Most read'],['title','Title A to Z'],['ageband','Youngest age band first'],['level','Least mature content'],['levelDesc','Most mature content'],['newest','Newest first'],['oldest','Oldest first'],['depth','In-depth entries first']];
 function sortSeries(list, key, p) {
   const pop = (a,b)=>(+b.popularity||0)-(+a.popularity||0);
   const gi = s => { const f = s.entry && fitFor(s.entry, p); return f ? GRADES.indexOf(f.g) : 99; };
@@ -410,6 +450,7 @@ function sortSeries(list, key, p) {
     grade: (a,b)=>gi(a)-gi(b) || pop(a,b),
     popularity: pop,
     hope: (a,b)=>hopeRank(a)-hopeRank(b) || pop(a,b),
+    push: (a,b)=>(mainFn(b.entry)?.push ?? -1)-(mainFn(a.entry)?.push ?? -1) || pop(a,b),
     title: (a,b)=>(a.title||a.romaji||'').localeCompare(b.title||b.romaji||''),
     ageband: (a,b)=>(BANDS.indexOf(ageBand(a)??'z')+1||9)-(BANDS.indexOf(ageBand(b)??'z')+1||9) || (lv(a)??99)-(lv(b)??99) || pop(a,b),
     level: (a,b)=>(lv(a)??99)-(lv(b)??99) || pop(a,b),
@@ -464,7 +505,7 @@ function card(s, fit) {
   const b = ageBand(s), older = pubOlder(s);
   const sub = [GRADE_TEXT[fit.g][0], (s.genres||[]).slice(0,2).join(', '), b && `Ages ${b}`].filter(Boolean).map(esc).join(' · ');
   return `<a class="card" href="${link(s)}">${coverImg(s)}
-    <span class="cbody"><span class="t">${esc(s.title)}</span>${s.entry.life_message?`<span class="msg">${esc(s.entry.life_message)}</span>`:''}<span class="sub">${outlookChip(s)}<span>${sub}</span></span>${older?`<span class="flag">${esc(s.pubrating.publisher)} rates it ${esc(s.pubrating.rating)}</span>`:''}</span>
+    <span class="cbody"><span class="t">${esc(s.title)}</span>${mfLine(s)}${s.entry.life_message?`<span class="msg">${esc(s.entry.life_message)}</span>`:''}<span class="sub">${outlookChip(s)}<span>${sub}</span></span>${older?`<span class="flag">${esc(s.pubrating.publisher)} rates it ${esc(s.pubrating.rating)}</span>`:''}</span>
     ${gradeTile(fit.g, fit.prov, 'lg')}</a>`;
 }
 const findBox = () => `<div class="find"><label for="find" class="eyebrow">Have a title in mind?</label><input id="find" type="search" autocomplete="off" placeholder="Search a manga, e.g. Naruto" value="${esc(state.find||'')}"><div id="findres" class="findres"></div></div>`;
@@ -527,6 +568,7 @@ function viewBrowse() {
     if (state.analyzed && !s.entry) return false;
     if (state.maxLevel !== 'any' && !(s.entry && s.entry.overall <= +state.maxLevel)) return false;
     if (state.outlook && !outlookOk(s)) return false;
+    if (state.mf && !mfOk(s)) return false;
     if (state.pub && !pubs(s).includes(state.pub)) return false;
     if (state.q) { const q = state.q.toLowerCase(); if (![s.title, s.romaji, s.native, ...(s.creators||[]).map(c=>c.name)].some(x => (x||'').toLowerCase().includes(q))) return false; }
     return true;
@@ -538,7 +580,7 @@ function viewBrowse() {
     ${genreBar(D.series)}
     <div class="controls" role="search">
       <label for="q">Search title or creator<input id="q" type="search" value="${esc(state.q)}" placeholder="e.g. Frieren, Oda"></label>
-      ${outlookSelect('olk2')}
+      ${mfSelect('mf2')}${outlookSelect('olk2')}
       <label for="lvl">Mature content at most<select id="lvl">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxLevel)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
       <label for="pub">English publisher<select id="pub"><option value="">All</option>${allPubs.map(x=>`<option ${state.pub===x?'selected':''}>${esc(x)}</option>`).join('')}</select></label>
       ${sortSelect('sort', state.sort)}
@@ -608,13 +650,13 @@ function folkwaysPanel(e) {
 
 function viewPopular() {
   const p = state.profile, n = +(state.popN || 50);
-  const ranked = [...D.series].sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).filter(inGenre).slice(0, n).filter(outlookOk);
+  const ranked = [...D.series].sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).filter(inGenre).slice(0, n).filter(outlookOk).filter(mfOk);
   const rank = new Map(ranked.map((x,i)=>[x,i+1]));
   const top = sortSeries(ranked, state.popSort||'popularity', p);
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>Popular manga</h1>
     <p class="lede">The most-read manga with an official English edition, ranked by how many readers track them on AniList. Each shows its grade for your tradition, so you can see where the series kids are talking about stand.</p></div>
     <div class="controls"><label for="profile3">Grades for${profileSelect('profile3', p)}</label>
-      <label for="popn">Show<select id="popn">${[25,50,100,250].map(v=>`<option value="${v}" ${n===v?'selected':''}>Top ${v}</option>`).join('')}</select></label>${outlookSelect('olk3')}${sortSelect('psort', state.popSort||'popularity')}${adultToggle()}</div>
+      <label for="popn">Show<select id="popn">${[25,50,100,250].map(v=>`<option value="${v}" ${n===v?'selected':''}>Top ${v}</option>`).join('')}</select></label>${mfSelect('mf3')}${outlookSelect('olk3')}${sortSelect('psort', state.popSort||'popularity')}${adultToggle()}</div>
     ${genreBar(D.series)}
     <ol class="list" style="list-style:none;padding:0">${top.map((s,i)=>{ const fit = s.entry && fitFor(s.entry, p);
       const deep = s.entry && !s.entry.quick;
@@ -721,9 +763,16 @@ function viewSeries(s) {
     ['Creators', (s.creators||[]).filter(c=>/story|art/i.test(c.role)).map(c=>`${c.name} (${c.role.toLowerCase()})`).join(', ')],
     ['English editions', (s.publishers||[]).map(x=>x.name + (x.notes?` (${x.notes})`:'')).join('; ')], ['Genres', (s.genres||[]).join(', ')], ['MangaDex content rating', s.mdex_rating]].filter(x=>x[1]);
   let h = `<div class="stack" style="gap:16px;max-width:820px"><a class="back" href="#start">← Back to my list</a>
-    <div class="shead">${s.cover?`<div>${coverImg(s,'cover lg','medium',true)}<p class="covercap">Cover art via AniList</p></div>`:''}<div class="stack" style="gap:6px;min-width:0"><h1>${esc(s.title)}</h1><div class="sub" style="color:var(--muted)">${subline(s)}</div></div></div>`;
-  if (e && e.life_message) h += `<section class="thesis"><span class="eyebrow">What this story argues</span><p class="message">${esc(e.life_message)}</p>
-      ${ideasLine(e)}${s.outlook ? `<div class="olrow">${outlookChip(s)}<span>${esc(OUTLOOK[s.outlook][1])}</span></div>` : ''}</section>`;
+    <div class="shead">${s.cover?`<div><span class="cvg">${coverImg(s,'cover lg','medium',true)}${(()=>{ const f = e && fitFor(e, p); return f ? gradeTile(f.g, f.prov, 'lg') : ''; })()}</span><p class="covercap">Cover art via AniList</p></div>`:''}<div class="stack" style="gap:6px;min-width:0"><h1>${esc(s.title)}</h1><div class="sub" style="color:var(--muted)">${subline(s)}</div></div></div>`;
+  if (e) { const m = mainFn(e), d = e.delivery || {}, OVW = {'Fair':'a fair','Mixed':'a mixed','Strawman':'only a strawman','None shown':'no'};
+    const others = (e.lenses||[]).filter(l => m && l.lens !== m.lens && dirOf(l.stance) !== 'explores').sort((a,b)=>(b.strength||0)-(a.strength||0)).slice(0, 3);
+    const per = (d.personified||[]).slice(0, 5);
+    if (m || e.life_message) h += `<section class="fnbox"><span class="eyebrow">Its main function as a vehicle for ideas</span>
+      ${m ? mfLine(s, 'lg') + pushBar(m) + `<p class="how">${d.style ? `How it pushes: <b>${esc(d.style)}</b>. ` : ''}${d.opposing_views && OVW[d.opposing_views] ? `Opposing views get ${OVW[d.opposing_views]} hearing.` : ''}</p>` : ''}
+      ${e.life_message ? `<p class="message">${esc(e.life_message)}</p>` : ''}
+      ${others.length ? `<div class="carry"><span class="eyebrow">Also carries</span>${others.map(l => { const k = dirOf(l.stance); return `<span class="tagk k-${k}" title="${esc(l.label||l.lens)}">${k==='for'?'For':'Against'}: ${esc(PLAIN[l.lens]||l.lens)}</span>`; }).join('')}</div>` : ''}
+      ${per.length ? `<div class="scroll"><table><thead><tr><th>Who carries each idea</th><th>Idea</th><th>Role</th></tr></thead><tbody>${per.map(x=>`<tr><td><b>${esc(x.character)}</b></td><td>${esc(x.ideology)}</td><td>${esc(x.role)}${x.treatment?`, drawn ${esc(String(x.treatment).toLowerCase())}`:''}</td></tr>`).join('')}</tbody></table></div>` : ''}
+      ${s.outlook ? `<div class="olrow" style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.9rem;color:var(--muted)">${outlookChip(s)}<span>${esc(OUTLOOK[s.outlook][1])}</span></div>` : ''}</section>`; }
   if (e) {
     const fit = fitFor(e, p);
     h += `<section class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
@@ -796,6 +845,8 @@ function guidesBody() {
 function viewMethod() {
   return `<div class="stack md" style="max-width:72ch"><h1 style="display:block">How we grade</h1>
   <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order.</p>
+  <h2>Main function and push</h2><p>Every analyzed series opens with its <strong>main function</strong>: the one idea it is most built around, and whether it <strong>argues for</strong> it, <strong>argues against</strong> it, or only <strong>explores</strong> it. It is the strongest of the philosophies we check, preferring one the story takes a side on when two are close.</p>
+  <p><strong>Push</strong> (1 to 10) is how hard the story presses that idea. It adds how central the idea is (its strength, 0 to 10, weighted 0.6) to how openly the story argues it (subtle 1, woven into the plot 2, explicit 3, heavy-handed 4). Light is 1 to 4, Moderate 5 to 6, Strong 7 to 10. Push measures force, not approval: a story can push hard for an idea your tradition rejects, or argue against one it holds. The series page also shows the other ideas it carries and which characters carry each one.</p>
   <h2>What each story argues</h2><p>Every analyzed series opens with one plain sentence on what it argues about life: what it holds up as good and worth living for. It is drawn from the story itself (who is rewarded, who changes, how it ends), not from how dark it looks. Many violent or sad series argue for mercy, sacrifice or hope. Below the sentence are the ideas the story <strong>champions</strong> and the one it most <strong>pushes back on</strong>, in plain words; the full list is under "Philosophies it leans toward".</p>
   <p>Each series also has an <strong>outlook</strong>. It describes the story's view of life, not its quality or its fit for your family:</p>
   <div class="olkey">${Object.entries(OUTLOOK).map(([k,[n,d]])=>`<div><span class="ol ol-${k}">${n}</span><span>${d}</span></div>`).join('')}</div>
@@ -861,7 +912,7 @@ function bind() {
   const on = (id, ev, fn) => { const el = document.getElementById(id); if (el) el.addEventListener(ev, fn); };
   const set = (k, rerender = true) => e => { state[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value; save(); if (rerender) render(); };
   on('q','input', e=>{ state.q=e.target.value; save(); const pos=e.target.selectionStart; render(); const q=$('#q'); q.focus(); q.setSelectionRange(pos,pos); });
-  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','adult:adult','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt','olk1:outlook','olk2:outlook','olk3:outlook'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
+  ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','adult:adult','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt','olk1:outlook','olk2:outlook','olk3:outlook','mf2:mf','mf3:mf'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
   document.querySelectorAll('.genres button[data-genre]').forEach(b=>b.addEventListener('click',()=>{ state.genre=b.dataset.genre; save(); render(); }));
   document.querySelectorAll('input[data-q]').forEach(r=>r.addEventListener('change',()=>{ QANS[r.dataset.q]=+r.value; }));
   on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; HER=new Set(); VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
