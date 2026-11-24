@@ -242,6 +242,14 @@ footer{text-align:center;padding-block:28px}
 footer a{color:var(--accent)}
 .shead{gap:18px;align-items:flex-end}
 .cover.sm{width:34px;height:48px;border-radius:3px 6px 6px 3px}
+.preview{display:flex;flex-direction:column;gap:8px}
+.pvlink{display:flex;align-items:center;gap:14px;background:var(--panel);color:var(--ink);border:1.5px solid var(--accent);border-radius:16px;padding:14px 16px;text-decoration:none;box-shadow:var(--shadow);transition:transform .15s,filter .15s}
+.pvlink:hover{transform:translateY(-1px);background:var(--accent-soft)}
+.pvlink strong{font:700 1.05rem/1.3 var(--f-body);color:var(--accent)}
+.pvlink .cbody span{font-size:.88rem;color:var(--muted)}
+.pvgo{color:var(--accent)}
+.pvicon{font-size:1.5rem;flex:none}
+.pvgo{margin-left:auto;font-size:1.2rem;flex:none}
 .covercap{font-size:.74rem;color:var(--muted);margin-top:6px;text-align:center}
 /* cover shelf */
 .shelfwrap{display:flex;flex-direction:column;gap:10px}
@@ -658,6 +666,21 @@ function whyBody(s) {
   ${open.length ? `<details><summary>Still to check in a full read (${open.length})</summary><ul>${open.map(c=>`<li>${esc(c.text)}</li>`).join('')}</ul></details>` : ''}`;
 }
 const sect = (title, hint, body, open = false) => `<details class="panel sect" ${open?'open':''}><summary><span class="st">${title}</span>${hint?`<span class="sh">${hint}</span>`:''}</summary><div class="stack">${body}</div></details>`;
+// Official free previews only: links out to the publisher's own reader or app. No interior pages are hosted here.
+let PV = {};
+const PV_SRC = {
+  viz: v => [`Read a free preview of ${v.label || 'volume 1'}${/vol/i.test(v.label||'') ? '' : ', Vol. 1'}`, "On VIZ Media's site, the official English publisher"],
+  mangaplus: () => ['Read the first chapters free', "On MANGA Plus, the official app from the Japanese publisher Shueisha"],
+  kmanga: () => ['Read the first chapters free', "On K MANGA, Kodansha's official app"],
+  mangaup: () => ['Read the first chapters free', "On Manga UP!, Square Enix's official app"]
+};
+function previewBlock(s) {
+  const list = (PV[String(s.id)] || []).filter(v => PV_SRC[v.src]);
+  if (!list.length) return '';
+  return `<section class="preview"><span class="eyebrow">Look inside before you buy</span>${list.map(v => { const [t, d] = PV_SRC[v.src](v);
+    return `<a class="pvlink" href="${esc(v.url)}" target="_blank" rel="noopener noreferrer"><span class="pvicon" aria-hidden="true">📖</span><span class="cbody"><strong>${esc(t)}</strong><span>${esc(d)}</span></span><span class="pvgo" aria-hidden="true">↗</span></a>`; }).join('')}
+    <p class="note">Opens the publisher's own free preview in a new tab. We link to it and never copy pages.</p></section>`;
+}
 function viewSeries(s) {
   const e = s.entry, p = state.profile;
   const facts = [['Japanese title', s.native], ['First published', s.year], ['Status', s.status && s.status.replace(/_/g,' ').toLowerCase()], ['Volumes (Japan)', s.volumes],
@@ -674,6 +697,9 @@ function viewSeries(s) {
     h += `<p>${pubLine(s)}</p>`;
     if (e.life_message) h += `<div class="stack" style="gap:6px"><span class="eyebrow">What it holds up as a good life</span><p class="message">${esc(e.life_message)}</p></div>`;
     if (fit) h += `<div class="why"><span><b>What fits your tradition:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>`;
+  }
+  h += previewBlock(s);
+  if (e) {
     const top = [...(e.content||[])].sort((a,b)=>(b.score||0)-(a.score||0))[0];
     h += `<p class="eyebrow" style="margin-top:8px">Go deeper</p><div class="stack" style="gap:10px">`;
     h += `<details class="panel sect" id="whysect"><summary><span class="st">How we reached this grade</span><span class="sh">Step by step: story facts, the teaching applied, evidence and sources</span></summary><div class="stack" id="why">${whyBody(s)}</div></details>`;
@@ -819,6 +845,7 @@ function bind() {
 }
 window.addEventListener('hashchange', ()=>{ WHY = null; render(); window.scrollTo(0,0); });
 document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !m.contains(e.target)) m.open=false; });
+fetch('previews.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).then(p => { PV = p || {}; if (D && /^#[se]-/.test(location.hash)) { const y = scrollY; render(); scrollTo(0, y); } }).catch(() => {});
 fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Christian (any)';
   $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
