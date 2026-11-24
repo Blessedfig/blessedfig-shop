@@ -350,6 +350,7 @@ footer a{color:var(--accent)}
         <a href="#ideas" data-view="ideas">By philosophy</a>
         <a href="#values" data-view="values">Our family's values</a>
         <a href="#deep" data-view="deep">In-depth family profile</a>
+        <a href="#explained" data-view="explained">Philosophies explained</a>
         <a href="#method" data-view="method">How we grade</a>
       </div></details>
     </nav>
@@ -555,7 +556,7 @@ function findResults(q) {
   if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
   return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${coverImg(s, 'cover sm')}${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
 }
-const EXPLORE = [['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#deep','In-depth family profile','A longer quiz across every category, for a closely matched list.'],['#method','How we grade','What the grades, age bands and labels mean.']];
+const EXPLORE = [['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#deep','In-depth family profile','A longer quiz across every category, for a closely matched list.'],['#explained','Philosophies explained','What each part of a breakdown means, and every tradition, philosophy and culture in plain words.'],['#method','How we grade','What the grades, age bands and labels mean.']];
 const exploreCards = () => `<section class="stack" style="gap:10px"><h2>More ways to explore</h2><div class="explore">${EXPLORE.map(([h,t,d])=>`<a href="${h}"><strong>${t}</strong><span>${d}</span></a>`).join('')}</div></section>`;
 function shelf() {
   const band = pickedBand() || '10+', p = state.profile;
@@ -894,7 +895,7 @@ function guidesBody() {
 }
 function viewMethod() {
   return `<div class="stack md" style="max-width:72ch"><h1 style="display:block">How we grade</h1>
-  <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order.</p>
+  <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order. For a plain description of every tradition, philosophy and culture, see <a href="#explained">Philosophies explained</a>.</p>
   <h2>Main function and push</h2><p>Every analyzed series opens with its <strong>main function</strong>: the one idea it is most built around, and whether it <strong>argues for</strong> it, <strong>argues against</strong> it, or only <strong>explores</strong> it. It is the strongest of the philosophies we check, preferring one the story takes a side on when two are close.</p>
   <p><strong>Push</strong> (1 to 10) is how hard the story presses that idea. It adds how central the idea is (its strength, 0 to 10, weighted 0.6) to how openly the story argues it (subtle 1, woven into the plot 2, explicit 3, heavy-handed 4). Light is 1 to 4, Moderate 5 to 6, Strong 7 to 10. Push measures force, not approval: a story can push hard for an idea your tradition rejects, or argue against one it holds. The series page also shows the other ideas it carries and which characters carry each one.</p>
   <h2>What each story argues</h2><p>Every analyzed series opens with one plain sentence on what it argues about life: what it holds up as good and worth living for. It is drawn from the story itself (who is rewarded, who changes, how it ends), not from how dark it looks. Many violent or sad series argue for mercy, sacrifice or hope. Below the sentence are the ideas the story <strong>champions</strong> and the one it most <strong>pushes back on</strong>, in plain words; the full list is under "Philosophies it leans toward".</p>
@@ -940,13 +941,14 @@ function render() {
   else if (h === 'browse') html = viewBrowse();
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
   else if (h === 'method' || h.startsWith('method-')) { html = viewMethod(); view = 'method'; }
+  else if ((h === 'explained' || h.startsWith('explained-')) && window.viewExplained) { html = viewExplained(); view = 'explained'; }
   else if (h === 'values') html = viewValues();
   else if (h === 'deep' && window.viewDeep) html = viewDeep();
   else if (h === 'popular') html = viewPopular();
   else { html = viewStart(); view = 'start'; }
   $('#app').innerHTML = html;
   document.querySelectorAll('nav.tabs a').forEach(a=>{ if (a.dataset.view===view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
-  const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','deep','method'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
+  const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','deep','explained','method'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
   if (md) loadMd(md);
   if (view === 'series' || view === 'method') { const had = !!R, cur = view === 'series' && CUR?.entry ? CUR : null;
     loadReasons().then(d => { if (!d || location.hash.slice(1) !== h) return;
@@ -955,6 +957,7 @@ function render() {
     if (cur) bindWhy(cur); }
   bind();
   if (view === 'deep' && window.bindDeep) bindDeep();
+  if (view === 'explained' && window.bindExplained) bindExplained(h);
 }
 function bindWhy(s) {
   const el = document.getElementById('whyfor'); if (!el) return;
@@ -997,6 +1000,7 @@ fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d => OLOAD.then(o
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
 <script src="deep.js"></script>
+<script src="explained.js"></script>
 
 </body>
 </html>
