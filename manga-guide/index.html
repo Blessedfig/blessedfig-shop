@@ -65,6 +65,15 @@ p{margin:0}
 .pill:hover{border-color:var(--accent)}
 .pill[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--panel)}
 /* grade legend */
+/* Nov 24: the 0-10 mature-content scale as a clean, color-coded list (was a table whose number cells clipped "1 to 3") */
+.mcscale{list-style:none;margin:14px 0 4px;padding:0;display:grid;gap:8px}
+.mcscale li{display:flex;align-items:center;gap:14px;background:var(--panel);border:1px solid var(--rule);border-left:6px solid var(--lv);border-radius:10px;padding:10px 14px}
+.mcscale .mcn{flex:none;width:4.4em;box-sizing:border-box;text-align:center;font-weight:700;font-size:1rem;color:#fff;background:var(--lv);border-radius:999px;padding:5px 12px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.mcscale .mct{display:flex;flex-direction:column;gap:2px;line-height:1.4;min-width:0}
+.mcscale .mct b{color:var(--ink);font-size:1rem}
+.mcscale .mct span{color:var(--muted);font-size:.92rem}
+.mcscale .lv0{--lv:#6f8f72}.mcscale .lv1{--lv:#8a9a3c}.mcscale .lv2{--lv:#c08a2a}.mcscale .lv3{--lv:#b8582b}.mcscale .lv4{--lv:#8e2a2a}
+@media (max-width:520px){.mcscale li{gap:10px;padding:9px 10px}.mcscale .mcn{width:3.9em;padding:4px 6px;font-size:.92rem}}
 .legend{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px}
 .legend div{display:flex;gap:10px;align-items:flex-start;background:var(--panel);border:1px solid var(--rule);border-radius:8px;padding:10px;font-size:.86rem;line-height:1.35;color:var(--muted)}
 .legend b{display:block;color:var(--ink);font-weight:700}
@@ -457,7 +466,7 @@ const subline = s => [s.native, s.year, pubs(s).join(', ')].filter(Boolean).map(
 const MC_ANCHORS = [['0','None'],['1 to 3','Mild: cartoon fights, a kiss, a few rude words, brief peril'],['4 to 6','Moderate: blood and injury, frightening scenes, innuendo or fan service, some swearing, drinking'],['7 to 8','Strong: graphic violence, nudity or sexual situations, frequent strong language, self-harm shown'],['9 to 10','Extreme: gore and torture, explicit sex or sexual violence, drug use shown in detail']];
 const MC_LEGEND = `<p>This number answers one question: <strong>how much mature content is on the page?</strong> It is scored separately for violence, fear and intensity, sexuality and romance, language, substances, mental health and self-harm, imitable behavior, and commercialism. The headline number on each series is the <strong>highest</strong> of those categories, so a 9 can come from violence alone.</p>
   <p>It does not say whether the story is good or bad, or whether it approves of what it shows. A war story can score 9 for violence while condemning war. The S to F grade covers how the message fits your tradition.</p>
-  <div class="scroll"><table><tbody>${MC_ANCHORS.map(([n,t])=>`<tr><td class="num" style="white-space:nowrap"><strong>${n}</strong></td><td>${t}</td></tr>`).join('')}</tbody></table></div>`;
+  <ol class="mcscale">${MC_ANCHORS.map(([n,t],i)=>{ const [lvl, ex] = t.includes(': ') ? t.split(/: (.*)/s) : [t, '']; return `<li class="lv${i}"><span class="mcn">${n.replace(' to ','–')}</span><span class="mct"><b>${lvl}</b>${ex ? `<span>${ex[0].toUpperCase()+ex.slice(1)}</span>` : ''}</span></li>`; }).join('')}</ol>`;
 const topCats = s => { const c = (s.entry?.content||[]).filter(x=>(x.score||0)>=4).sort((a,b)=>b.score-a.score).slice(0,2); return c.length ? `<div class="note" style="font-size:.75rem;margin-top:2px">${c.map(x=>esc(x.category.split(' and ')[0])+' '+x.score).join(' · ')}</div>` : ''; };
 const mcTitle = s => s.entry ? 'Mature content, 0 none to 10 extreme. The highest category: ' + (s.entry.content||[]).map(x=>x.category+' '+x.score).join(', ') : 'Not rated yet';
 const mcChip = s => s.entry ? `<span class="chip mc" title="${esc(mcTitle(s))}">Mature content ${esc(s.entry.overall)}/10</span>` : '';
