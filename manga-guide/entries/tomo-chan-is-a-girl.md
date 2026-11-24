@@ -2,7 +2,7 @@
 
 Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium-low.** Series facts and the volume-to-chapter map come from Wikipedia, MyAnimeList, MangaUpdates, Mangapedia and the Anime News Network encyclopedia (all opened). Scene details come mostly from TV Tropes (main and YMMV pages), Anime Feminist, Manga Bookshelf and a Lost in Anime episode post (all opened, used to locate scenes). Most chapter numbers for individual scenes could not be found: the manga was published as roughly 950 one-page daily strips gathered into 51 numbered chapters, and sources number these differently. Many scene placements are therefore marked "likely" or "to verify". Anime-only details are labeled as such. Items resting on general knowledge are marked "(from general knowledge; to verify)".
 
-**Held-folder note:** this entry documents a groping assault by an adult man on Tomo, a first-year high school student, plus two brief sexual references involving minors (an accidental touch in middle school and a parent's teen-pregnancy backstory). Under the project rules it is filed in held/ for review.
+**Sensitive-content note:** this entry documents a groping assault by an adult man on Tomo, a first-year high school student, plus two brief sexual references involving minors (an accidental touch in middle school and a parent's teen-pregnancy backstory). The hold rule is retired (Christian, 2026-11-24). The bus groping is sourced only from anime reviews (Anime Feminist; Lost in Anime), so it is a Significant depiction concern without a content warning until a manga source or a print check ties it to the manga.
 
 ## Series facts
 
