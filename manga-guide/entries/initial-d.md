@@ -28,8 +28,8 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Religious | No religion shapes the story. Faith readers weigh a strong father-son bond, humility and hard work against illegal racing that risks life, a teenager's paid sexual relationship (condemned by the story) and implied premarital sex (not judged). Kaori's grave visit and Ryosuke's thanks to her are the only near-spiritual moments (fan wiki). |
 | Socio-cultural | A portrait of 1990s rural Gunma and the "hashiriya" mountain-pass car scene (nippon.com): working-class kids, a family tofu shop, an old car beating expensive new ones. Silverman finds the boys' talk about girls dated, and the compensated-dating plot reflects a real 1990s Japanese social worry (from general knowledge; to verify). |
 
-Outlook: Hopeful: Takumi grows from an aimless teen into a driver with a dream; Project D wins; enemies become friends; the one death (Kaori, in backstory) is mourned and turned into purpose.
-Hope source: E: the story's way through is effort and growing stronger: daily tofu runs make Takumi great, every loss sends him back to practice, and the series ends with Ryosuke naming the project's goal as a dream reached by work; family (Bunta's quiet teaching, F) is close behind.
+Outlook: Hopeful — Takumi grows from an aimless teen into a driver with a dream; Project D wins; enemies become friends; the one death (Kaori, in backstory) is mourned and turned into purpose.
+Hope source: E — the story's way through is effort and growing stronger: daily tofu runs make Takumi great, every loss sends him back to practice, and the series ends with Ryosuke naming the project's goal as a dream reached by work; family (Bunta's quiet teaching, F) is close behind.
 
 ## Content scores
 

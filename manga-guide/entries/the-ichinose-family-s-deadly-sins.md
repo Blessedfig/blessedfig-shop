@@ -28,8 +28,8 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Religious | No religion in the plot. The title's "deadly sins" are moral failings, not religious ones. Faith readers find a story of confession, forgiveness and family repair without God; a Zen priest and psychologist, Yoshimura Shoyo, praised it as dense and rewarding (Japanese Wikipedia; his role from general knowledge; to verify). |
 | Socio-cultural | A portrait of a dysfunctional Japanese household: hoarding and mess, school bullying posted online (Screen Rant), papa-katsu (paid dating) among schoolgirls, an affair, caregiving for a grandmother with dementia, a father's pressure and the shame that keeps it all hidden (Saga Shimbun via Japanese Wikipedia). |
 
-Outlook: Bittersweet: Tsubasa wakes from a four-year coma and the family meets again, but nothing is magically healed; the last chapter shows them leaving the hospital exhausted, still arguing, but together (AniList review).
-Hope source: F: the story's way through is family: imperfect, quarrelling relatives who choose to stay bound to one another after facing the truth, while Sota's chosen family scatters back to their own homes (AniList reviews).
+Outlook: Bittersweet — Tsubasa wakes from a four-year coma and the family meets again, but nothing is magically healed; the last chapter shows them leaving the hospital exhausted, still arguing, but together (AniList review).
+Hope source: F — the story's way through is family: imperfect, quarrelling relatives who choose to stay bound to one another after facing the truth, while Sota's chosen family scatters back to their own homes (AniList reviews).
 
 ## Content scores
 
