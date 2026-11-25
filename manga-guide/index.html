@@ -598,7 +598,7 @@ function applyRealign(d, a) {
   const EX = new Set((a.exclude || []).map(String)); d.series = d.series.filter(s => !EX.has(String(s.id)));
   const E = a.entries || {}, AD = a.adult || {}, OL = a.outlook || {};
   const UN = new Set(a.unadult || []);
-  d.series.forEach(s => { const k = String(s.id); if (UN.has(k)) { s.adult = false; s.adult_reason = null; } if (E[k]) s.entry = E[k]; if (AD[k]) { s.adult = true; s.adult_reason = AD[k]; } if (OL[k]) s._ol = OL[k]; });
+  d.series.forEach(s => { const k = String(s.id); if (UN.has(k)) { s.adult = false; s.adult_reason = null; } if (E[k]) s.entry = E[k]; if (AD[k]) { s.adult = true; s.adult_reason = AD[k]; if (!s.warning) s.warning = AD[k].replace(/ \(see entry\)$/, '') + '.'; } if (OL[k]) s._ol = OL[k]; });
   d.series.forEach(s => { const e = s.entry, x = e && a.series[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return;
     const drop = new Set(x.lenses_drop || []); e.lenses = (e.lenses || []).filter(l => !drop.has(l.lens));
     (x.lenses_add || []).forEach(l => { if (!e.lenses.some(m => m.lens === l.lens)) e.lenses.push(l); });
@@ -702,7 +702,7 @@ const mcTitle = s => s.entry ? 'Mature content, 0 none to 10 extreme. The highes
 const mcLv = v => v <= 0 ? 0 : v <= 3 ? 1 : v <= 6 ? 2 : v <= 8 ? 3 : 4;
 const mcChip = s => s.entry ? `<span class="chip mc mcl${mcLv(+s.entry.overall||0)}" title="${esc(mcTitle(s))}">Mature content ${esc(s.entry.overall)}/10</span>` : '';
 function row(s, tile, body = '', chips = '') {
-  let mat = isAdult(s) ? '<span class="chip" style="color:var(--gF);border-color:currentColor">18+ adult title</span>' : bandChip(s) + pubChip(s);
+  let mat = isAdult(s) ? '<span class="chip" style="color:var(--gF);border-color:currentColor">18+</span>' : bandChip(s) + pubChip(s);
   mat += mcChip(s);
   if (s.entry && (s.entry.understated||[]).length) mat += '<span class="chip" title="' + esc(s.entry.understated.join('; ')) + '">Intensity may be understated</span>';
   if (s.warning) mat = '<span class="chip" style="color:var(--gF);border-color:currentColor;font-weight:700" title="' + esc(s.warning) + '">Content warning</span>' + mat;
@@ -721,7 +721,9 @@ function genreBar(pool) {
 }
 let ALL = [];
 const isAdult = s => s.adult === true || s.mdex_rating === 'pornographic';
-const adultToggle = () => `<label class="check" for="adult"><input id="adult" type="checkbox" ${state.adult?'checked':''}> Show 18+ titles (${ALL.filter(isAdult).length} titles)</label>`;
+// Only straight pornography is hidden; every other adult title shows in the 18+ band.
+const isHidden = s => s.mdex_rating === 'pornographic' || (s.genres || []).includes('Hentai');
+const adultToggle = () => `<label class="check" for="adult"><input id="adult" type="checkbox" ${state.adult?'checked':''}> Show explicit titles (${ALL.filter(isHidden).length} titles)</label>`;
 const SORTS = [['grade','Best grade for your tradition'],['push','Strongest push first'],['popularity','Most read'],['title','Title A to Z'],['ageband','Youngest age band first'],['level','Least mature content'],['levelDesc','Most mature content'],['newest','Newest first'],['oldest','Oldest first'],['depth','In-depth entries first']];
 function sortSeries(list, key, p) {
   const pop = (a,b)=>(+b.popularity||0)-(+a.popularity||0);
@@ -792,7 +794,7 @@ function card(s, fit) {
 const findBox = () => `<div class="find"><label for="find" class="eyebrow">Have a title in mind?</label><input id="find" type="search" autocomplete="off" placeholder="Search a manga, e.g. Naruto" value="${esc(state.find||'')}"><div id="findres" class="findres"></div></div>`;
 function findResults(q) {
   q = (q||'').trim().toLowerCase(); if (q.length < 2) return '';
-  const hits = ALL.filter(s => !isAdult(s) || state.adult).filter(s => [s.title, s.romaji, s.native].some(x => (x||'').toLowerCase().includes(q))).sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).slice(0, 6);
+  const hits = ALL.filter(s => !isHidden(s) || state.adult).filter(s => [s.title, s.romaji, s.native].some(x => (x||'').toLowerCase().includes(q))).sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).slice(0, 6);
   if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
   return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${coverImg(s, 'cover sm')}${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
 }
@@ -1204,7 +1206,7 @@ async function loadMd(slug) {
   catch (err) { el.innerHTML = '<p class="empty">The full entry could not load. Reload the page to try again.</p>'; }
 }
 function render() {
-  D.series = state.adult ? ALL : ALL.filter(x=>!isAdult(x));
+  D.series = state.adult ? ALL : ALL.filter(x=>!isHidden(x));
   const h = location.hash.slice(1) || 'start'; let html, view = h, md = null;
   if (h.startsWith('s-') || h.startsWith('e-')) {
     const s = h.startsWith('s-') ? ALL.find(x=>String(x.id)===h.slice(2)) : ALL.find(x=>x.entry?.slug===h.slice(2));

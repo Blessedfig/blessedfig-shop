@@ -154,7 +154,7 @@ function breakdown() {
    ['Suggested age band', `${BANDS.join(', ')}. A series fits a band only if every mature content category is under that band's limit. Strong reader tags (horror, gore, abuse and similar) can set a minimum band.`],
    ['Publisher rating', 'The English publisher\'s own age rating, such as VIZ\'s T+. It shows in red when the publisher rates it older than our band.'],
    ['Content warning', 'A red box on series with something many parents would want to know before reading, such as sexual content involving characters who may be minors. They are shown with the warning, not hidden.'],
-   ['18+', 'Adult titles. Hidden unless you tick "Show 18+ titles".'],
+   ['18+', 'Adult titles, for grown readers only. Straight pornography is hidden unless you tick "Show explicit titles".'],
    ['How the message is delivered', '<strong>Style</strong>: Subtle, Woven in, Explicit or Heavy-handed. <strong>Preachiness</strong> 0 to 10. <strong>Opposing views</strong>: shown Fair, Mixed, as a Strawman, or not shown. Some series also name the characters who stand for an idea, and whether the story treats them sympathetically.'],
    ['Philosophies it leans toward', 'Each philosophy the story engages, with its <strong>strength</strong> (0 to 10, how central it is), its <strong>stance</strong> (Affirmed, Explored, Critiqued or Incidental) and its <strong>closeness</strong> from S (strongly affirms) through C (explores without settling) to F (strongly critiques). See <a href="#explained-philosophies">every philosophy below</a>.'],
    ['Political and moral leanings', 'Four 0 to 10 scales and six moral foundations. See <a href="#explained-leanings">below</a>.'],
