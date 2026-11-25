@@ -341,8 +341,125 @@ footer a{color:var(--accent)}
 .db span:first-child{text-align:right}.db .on{color:var(--ink);font-weight:800}
 .db .tr{position:relative;height:6px;border-radius:3px;background:var(--rule)}
 .db .tr i{position:absolute;top:50%;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:var(--accent)}
+/* design pass (2026-11-24b): hierarchy, grouping, touch targets, spacing scale, readable rhythm */
+:root{--s1:4px;--s2:8px;--s3:12px;--s4:16px;--s5:24px;--s6:32px;--s7:48px;--warm-ink:#8f5a10}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--warm-ink:#e6b35c}}
+:root[data-theme="dark"]{--warm-ink:#e6b35c}
+/* AA contrast for small warm labels (the old warm was 3.4:1 on paper) */
+.eyebrow,.brand small,.finder label,.controls label{color:var(--warm-ink)}
+/* the shop's purple ribbon above the masthead */
+header.mast{border-top:3px solid var(--fig)}
+/* tap targets 44px+ and visible focus */
+nav.tabs a,details.menu>summary{min-height:44px;display:inline-flex;align-items:center}
+input[type=search],select{min-height:44px}
+.genres button,.morelinks a,.back{min-height:44px;display:inline-flex;align-items:center}
+.check input{width:20px;height:20px;accent-color:var(--accent);flex:none}
+summary:focus-visible,.row:focus-visible,.card:focus-visible,.hit:focus-visible,.shelf a:focus-visible,.morelinks a:focus-visible,.pvlink:focus-visible,.genres button:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:12px}
+/* fix: the step-number circle (.num) was also styling table number cells (age band table, content meters) */
+td.num{display:table-cell;width:auto;height:auto;border-radius:0;background:none;color:inherit;font:inherit;place-items:initial}
+th.num{display:table-cell;width:auto;height:auto;border-radius:0;background:none;font:500 .72rem var(--f-mono);letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+/* start page: what this is, then your tradition, then search, in one card */
+.hero.slim{gap:var(--s5)}
+.intro{display:flex;flex-direction:column;gap:var(--s3)}
+.intro .lede{max-width:58ch}
+.finder{display:flex;flex-direction:column;gap:var(--s5);background:var(--panel);border:1px solid var(--rule);border-radius:18px;box-shadow:var(--shadow);padding:var(--s5)}
+.finder .sel{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:var(--s4);align-items:end}
+.finder .sel label{gap:6px;font:800 .74rem/1.3 var(--f-body);letter-spacing:.08em}
+.finder .sel select{width:100%;background:var(--paper)}
+.finder label.trad select{font:400 1.2rem var(--f-display);color:var(--accent);background:var(--accent-soft);border:2px solid var(--accent);border-radius:12px;min-height:54px;padding:8px 12px}
+.finder .find{gap:6px}
+.finder .find input{box-shadow:none;background:var(--paper);min-height:52px}
+.finder .findres:empty{display:none}
+/* filter bar: the two things people use first, the rest one tap away (Hick's law) */
+.controls{flex-direction:column;align-items:stretch;flex-wrap:nowrap;gap:var(--s2);padding:var(--s4) var(--s4) var(--s2)}
+.ctl-main{display:flex;flex-wrap:wrap;gap:var(--s3);align-items:end}
+.ctl-main>label{flex:1 1 190px;min-width:0}
+.ctl-main>label.grow{flex:3 1 280px}
+.controls label select,.controls label input[type=search]{width:100%}
+details.morefilters{border-top:1px solid var(--rule)}
+details.morefilters>summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:8px;min-height:44px;font:700 .95rem var(--f-body);color:var(--accent)}
+details.morefilters>summary::-webkit-details-marker{display:none}
+details.morefilters>summary::before{content:"+";display:inline-grid;place-items:center;width:1.3rem;height:1.3rem;border:1.5px solid currentColor;border-radius:50%;font-size:.9rem;line-height:1}
+details.morefilters[open]>summary::before{content:"−"}
+.fxn{font:800 .72rem/1 var(--f-body);background:var(--accent);color:var(--panel);border-radius:999px;padding:4px 8px}
+.ctl-more{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,220px),1fr));gap:var(--s3) var(--s4);align-items:end;padding:var(--s1) 0 var(--s3)}
+.controls .check{min-height:44px;padding-bottom:0;letter-spacing:0}
+.genres{border-bottom:1px solid var(--rule)}
+/* result rows: title and grade first; long lists render lazily */
+.list>.row,.list>.prow{content-visibility:auto;contain-intrinsic-size:auto 200px}
+.row{padding:var(--s4) var(--s2);gap:var(--s1) var(--s4)}
+.row .t{font-size:1.22rem;line-height:1.2;margin-bottom:2px}
+.row .philo{font-size:1rem}
+.row .sub{margin-top:2px}
+.chips{gap:6px;margin-top:var(--s2)}
+.cvg .grade,.shelf .bk .grade{border:2px solid var(--panel)}
+.row .cvg .grade{width:2.4rem;height:2.4rem;font-size:1.3rem}
+.chip.sum{color:var(--muted);border-color:var(--rule)}
+.chip.mc{opacity:1;color:var(--ink);border-color:var(--lv,var(--rule));display:inline-flex;align-items:center;gap:6px}
+.chip.mc::before{content:"";flex:none;width:8px;height:8px;border-radius:50%;background:var(--lv,var(--muted))}
+.mcl0{--lv:#6f8f72}.mcl1{--lv:#8a9a3c}.mcl2{--lv:#c08a2a}.mcl3{--lv:#b8582b}.mcl4{--lv:#8e2a2a}
+.prow{display:flex;gap:var(--s2);align-items:flex-start}
+.prow>div{flex:1;min-width:0}
+.prow .rank{flex:none;min-width:2.4em;text-align:right;padding-top:22px;font-variant-numeric:tabular-nums}
+/* series page */
+.shead{gap:var(--s5)}
+.shead h1{font-size:clamp(1.9rem,5vw,2.7rem)}
+.covercap{margin-top:18px}
+.verdict{display:grid;grid-template-columns:auto minmax(0,1fr);gap:var(--s3) var(--s4);align-items:center;padding:var(--s5);border:2px solid var(--rule)}
+.verdict select{width:min(100%,380px)}
+.verdict .vwhy{grid-column:1/-1;margin:0;padding-top:var(--s3);border-top:1px solid var(--rule);gap:var(--s2) var(--s5);line-height:1.5}
+.agebox{display:flex;flex-direction:column;gap:var(--s2);padding:var(--s3) var(--s4);border:1px dashed var(--rule);border-radius:14px}
+.agebox .chips{margin:0;align-items:center}
+details.sect>summary{min-height:56px;justify-content:center;padding:var(--s4) var(--s5)}
+details.sect>summary .sh{font-family:var(--f-body);font-weight:400;color:var(--muted);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;max-width:68ch}
+details.sect[open]>summary .sh{display:block}
+details.sect>div,details.sect>.md{padding:0 var(--s5) var(--s5)}
+/* method / about / essay: one vertical rhythm, readable measure */
+.stack.md{gap:0}
+.md{line-height:1.6}
+.md>h1{margin-bottom:var(--s3)}
+.md>.lede{margin-bottom:var(--s4)}
+.md h2{font-size:1.44rem;margin:var(--s6) 0 var(--s3);padding-top:var(--s5)}
+.md h3{margin:var(--s5) 0 var(--s2)}
+.md p,.md ul,.md ol{margin:0 0 var(--s4)}
+.md li{margin-bottom:var(--s2)}
+.md li>p{margin-bottom:var(--s2)}
+.md .mcscale{margin:var(--s2) 0 var(--s4)}
+.md .mcscale li{margin:0}
+.md table{margin-bottom:var(--s4)}
+.md #guides{margin-top:var(--s2)}
+.md #guides h3{margin:var(--s4) 0 0}
+.olkey{grid-template-columns:max-content minmax(0,1fr);gap:var(--s2) var(--s4);align-items:baseline;margin:0 0 var(--s4)}
+.olkey div{display:contents}
+.olkey .ol{justify-self:start}
+details.menu>summary::after{margin-left:4px}
+.controls>label{max-width:520px}
+label.chip:has(input){min-height:44px;display:inline-flex;align-items:center;gap:6px;padding:8px 12px;font-size:.84rem}
+.finder .sel select{min-height:54px}
+@media (max-width:640px){
+  header.mast{position:relative;top:0}
+  .menu-list{right:0;left:auto;max-width:calc(100vw - 24px)}
+  .mast .wrap{gap:2px 16px;padding-block:6px}
+  .finder{padding:var(--s4);gap:var(--s4)}
+  .finder .sel{grid-template-columns:1fr}
+  .ctl-main>label{flex:1 1 140px}
+  .ctl-main>label.grow{flex:1 1 100%}
+  .ctl-more{grid-template-columns:1fr}
+  .verdict{padding:var(--s4)}
+  .verdict .vwhy{grid-template-columns:1fr}
+  .row .t{font-size:1.15rem}
+  .prow{gap:var(--s1)}
+  .prow .rank{min-width:1.9em;font-size:.78rem}
+  .olkey{grid-template-columns:1fr;gap:var(--s1)}
+  .olkey div{display:flex;flex-direction:column;align-items:flex-start;gap:4px;margin-bottom:var(--s2)}
+  .morelinks a{padding:8px 12px;font-size:.86rem}
+  details.sect>summary{padding:var(--s3) var(--s4)}
+  details.sect>div,details.sect>.md{padding:0 var(--s4) var(--s4)}
+}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
+<link rel="stylesheet" href="/helper/helper.css">
+<script src="/helper/helper.js" defer></script>
 </head>
 <body>
 
@@ -406,7 +523,7 @@ function fitFor(e, p) {
   const lo = GRADES[idx[0]], hi = GRADES[idx[idx.length-1]];
   return {g: GRADES[mid], prov: gs.some(x=>x.prov), range: lo !== hi ? `${lo} to ${hi}` : null, f: gs.find(x=>GRADES.indexOf(x.g)===mid).f, n: gs.length, all: gs};
 }
-const gradeTile = (g, prov, cls='') => g ? `<span class="grade ${cls} g-${g} ${prov?'prov':''}" title="${esc(GRADE_TEXT[g][0])}${prov?' (provisional)':''}">${g}</span>` : `<span class="grade ${cls}" title="Not graded yet">–</span>`;
+const gradeTile = (g, prov, cls='') => g ? `<span class="grade ${cls} g-${g} ${prov?'prov':''}" role="img" aria-label="Grade ${g}: ${esc(GRADE_TEXT[g][0])}${prov?', provisional':''}" title="${esc(GRADE_TEXT[g][0])}${prov?' (provisional)':''}">${g}</span>` : `<span class="grade ${cls}" title="Not graded yet">–</span>`;
 function meter(v, withText = true) {
   if (v == null) return '<span class="intensity">Not rated yet</span>';
   const n = Math.round(v), cls = n >= 7 ? 'hi' : n >= 4 ? 'mid' : 'lo';
@@ -469,7 +586,8 @@ const MC_LEGEND = `<p>This number answers one question: <strong>how much mature 
   <ol class="mcscale">${MC_ANCHORS.map(([n,t],i)=>{ const [lvl, ex] = t.includes(': ') ? t.split(/: (.*)/s) : [t, '']; return `<li class="lv${i}"><span class="mcn">${n.replace(' to ','–')}</span><span class="mct"><b>${lvl}</b>${ex ? `<span>${ex[0].toUpperCase()+ex.slice(1)}</span>` : ''}</span></li>`; }).join('')}</ol>`;
 const topCats = s => { const c = (s.entry?.content||[]).filter(x=>(x.score||0)>=4).sort((a,b)=>b.score-a.score).slice(0,2); return c.length ? `<div class="note" style="font-size:.75rem;margin-top:2px">${c.map(x=>esc(x.category.split(' and ')[0])+' '+x.score).join(' · ')}</div>` : ''; };
 const mcTitle = s => s.entry ? 'Mature content, 0 none to 10 extreme. The highest category: ' + (s.entry.content||[]).map(x=>x.category+' '+x.score).join(', ') : 'Not rated yet';
-const mcChip = s => s.entry ? `<span class="chip mc" title="${esc(mcTitle(s))}">Mature content ${esc(s.entry.overall)}/10</span>` : '';
+const mcLv = v => v <= 0 ? 0 : v <= 3 ? 1 : v <= 6 ? 2 : v <= 8 ? 3 : 4;
+const mcChip = s => s.entry ? `<span class="chip mc mcl${mcLv(+s.entry.overall||0)}" title="${esc(mcTitle(s))}">Mature content ${esc(s.entry.overall)}/10</span>` : '';
 function row(s, tile, body = '', chips = '') {
   let mat = isAdult(s) ? '<span class="chip" style="color:var(--gF);border-color:currentColor">18+ adult title</span>' : bandChip(s) + pubChip(s);
   mat += mcChip(s);
@@ -597,10 +715,11 @@ function shelfRow(title, sub, list, more) {
 function viewStart() {
   const p = state.profile, pool = startPool(); SHOWN = new Set();
   const ages = [['', 'Every age'], ...AGES.map(([a]) => [a, a])];
-  let h = `<div class="stack" style="gap:26px"><section class="hero slim"><h1>What is your kid reading, and what does it teach?</h1>
-    ${findBox()}
-    <div class="sel"><label for="agesel">Reader's age<select id="agesel">${ages.map(([v,l])=>`<option value="${esc(v)}" ${(state.age||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label>
-    <label for="profile">Grades for${profileSelect('profile', p)}</label></div></section>`;
+  let h = `<div class="stack" style="gap:32px"><section class="hero slim"><div class="intro"><h1>What is your kid reading, and what does it teach?</h1>
+    <p class="lede">A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, graded S to F from your own tradition's view.</p></div>
+    <div class="finder"><div class="sel"><label for="profile" class="trad">Your tradition${profileSelect('profile', p)}</label>
+    <label for="agesel">Reader's age<select id="agesel">${ages.map(([v,l])=>`<option value="${esc(v)}" ${(state.age||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label></div>
+    ${findBox()}</div></section>`;
   const byPop = [...pool].sort(pop);
   h += shelfRow('Popular right now', 'The most-read series, with your grade on each cover.', byPop, '#popular');
   const hc = {}; pool.forEach(s => { if (s.hope) hc[s.hope] = (hc[s.hope]||0) + 1; });
@@ -620,6 +739,9 @@ function genreSelect(pool) {
   return `<select id="genre"><option value="">All genres</option>${Object.keys(c).sort((a,b)=>c[b]-c[a]).map(g=>`<option value="${esc(g)}" ${state.genre===g?'selected':''}>${esc(g)} (${c[g]})</option>`).join('')}</select>`;
 }
 
+let MOREFX = null;
+const moreFilters = (active, body) => { const n = active.filter(Boolean).length, open = MOREFX ?? n > 0;
+  return `<details class="morefilters" ${open?'open':''}><summary>More filters${n ? ` <span class="fxn">${n} on</span>` : ''}</summary><div class="ctl-more">${body}</div></details>`; };
 function viewBrowse() {
   const allPubs = [...new Set(D.series.flatMap(pubs))].sort();
   let list = D.series.filter(s => {
@@ -636,14 +758,14 @@ function viewBrowse() {
   list = sortSeries(list, state.sort, p);
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>All manga</h1>
     <p class="lede">Every English-licensed manga in the catalog. Each analyzed series opens with what it argues about life. Grades are shown for <strong>${esc(p)}</strong>; change that on <a href="#start">Find manga</a>.</p></div>
-    ${genreBar(D.series)}
     <div class="controls" role="search">
-      <label for="q">Search title or creator<input id="q" type="search" value="${esc(state.q)}" placeholder="e.g. Frieren, Oda"></label>
-      ${mfSelect('mf2')}${outlookSelect('olk2')}
+      <div class="ctl-main"><label for="q" class="grow">Search title or creator<input id="q" type="search" value="${esc(state.q)}" placeholder="e.g. Frieren, Oda"></label>
+      ${sortSelect('sort', state.sort)}</div>
+      ${moreFilters([state.mf, state.hope, state.maxLevel !== 'any', state.pub, state.analyzed, state.adult], `${mfSelect('mf2')}${outlookSelect('olk2')}
       <label for="lvl">Mature content at most<select id="lvl">${['any',4,6,8].map(v=>`<option value="${v}" ${String(state.maxLevel)===String(v)?'selected':''}>${v==='any'?'Any':v+' / 10'}</option>`).join('')}</select></label>
       <label for="pub">English publisher<select id="pub"><option value="">All</option>${allPubs.map(x=>`<option ${state.pub===x?'selected':''}>${esc(x)}</option>`).join('')}</select></label>
-      ${sortSelect('sort', state.sort)}
-      <label class="check" for="an"><input id="an" type="checkbox" ${state.analyzed?'checked':''}> Analyzed only</label>${adultToggle()}</div>
+      <label class="check" for="an"><input id="an" type="checkbox" ${state.analyzed?'checked':''}> Analyzed only</label>${adultToggle()}`)}</div>
+    ${genreBar(D.series)}
     <p class="count">${list.length} of ${D.series.length} series · ${D.series.filter(s=>s.entry).length} analyzed so far</p>
     <div class="list">${list.map(s=>{ const fit = s.entry && fitFor(s.entry, p); return row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')); }).join('') || '<p class="empty">No series match. Clear the search, change where it finds hope, or raise the intensity limit.</p>'}</div></div>`;
 }
@@ -714,12 +836,13 @@ function viewPopular() {
   const top = sortSeries(ranked, state.popSort||'popularity', p);
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>Popular manga</h1>
     <p class="lede">The most-read manga with an official English edition, ranked by how many readers track them on AniList. Each shows its grade for your tradition, so you can see where the series kids are talking about stand.</p></div>
-    <div class="controls"><label for="profile3">Grades for${profileSelect('profile3', p)}</label>
-      <label for="popn">Show<select id="popn">${[25,50,100,250].map(v=>`<option value="${v}" ${n===v?'selected':''}>Top ${v}</option>`).join('')}</select></label>${mfSelect('mf3')}${outlookSelect('olk3')}${sortSelect('psort', state.popSort||'popularity')}${adultToggle()}</div>
+    <div class="controls"><div class="ctl-main"><label for="profile3" class="grow">Grades for${profileSelect('profile3', p)}</label>
+      <label for="popn">Show<select id="popn">${[25,50,100,250].map(v=>`<option value="${v}" ${n===v?'selected':''}>Top ${v}</option>`).join('')}</select></label>${sortSelect('psort', state.popSort||'popularity')}</div>
+      ${moreFilters([state.mf, state.hope, state.adult], `${mfSelect('mf3')}${outlookSelect('olk3')}${adultToggle()}`)}</div>
     ${genreBar(D.series)}
     <ol class="list" style="list-style:none;padding:0">${top.map((s,i)=>{ const fit = s.entry && fitFor(s.entry, p);
       const deep = s.entry && !s.entry.quick;
-      return `<li style="display:flex;gap:10px;align-items:center"><span class="count" style="min-width:2.2em;text-align:right">#${rank.get(s)}</span><div style="flex:1;min-width:0">${row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg'), '', deep ? '<span class="chip" style="border-color:var(--ink);font-weight:700">In-depth entry</span>' : '')}</div></li>`; }).join('')}</ol>
+      return `<li class="prow"><span class="count rank">#${rank.get(s)}</span><div style="flex:1;min-width:0">${row(s, fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg'), '', deep ? '<span class="chip" style="border-color:var(--ink);font-weight:700">In-depth entry</span>' : '')}</div></li>`; }).join('')}</ol>
     <p class="note">Popularity is AniList's count of readers tracking each series. "In-depth entry" marks series with a full analysis; the rest are quick reads or waiting for analysis.</p></div>`;
 }
 function viewIdeas() {
@@ -837,10 +960,10 @@ function viewSeries(s) {
     const fit = fitFor(e, p);
     h += `<section class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
       <label class="eyebrow" for="profile2">Grade for</label>${profileSelect('profile2', p)}
-      <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div></section>
-      <p class="chips"><span class="eyebrow" style="align-self:center;margin-right:4px">Age and content</span>${bandChip(s)}${pubChip(s)}${mcChip(s)}${confChip(s)}</p>`;
-    h += `<p>${pubLine(s)}</p>`;
-    if (fit) h += `<div class="why"><span><b>What fits your tradition:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>`;
+      <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div>
+      ${fit ? `<div class="why vwhy"><span><b>What fits your tradition:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>` : ''}</section>
+      <section class="agebox" aria-label="Age and content"><p class="chips"><span class="eyebrow" style="align-self:center;margin-right:4px">Age and content</span>${bandChip(s)}${pubChip(s)}${mcChip(s)}${confChip(s)}</p>
+      <p>${pubLine(s)}</p></section>`;
   }
   h += previewBlock(s);
   if (e) {
@@ -997,6 +1120,7 @@ function bind() {
   on('genre','change',e=>{ state.genre=e.target.value; state.showN=12; save(); render(); });
   on('find','input',e=>{ state.find=e.target.value; const r=$('#findres'); if (r) r.innerHTML=findResults(e.target.value); });
   { const r=$('#findres'); if (r && state.find) r.innerHTML=findResults(state.find); }
+  document.querySelectorAll('details.morefilters').forEach(d=>d.addEventListener('toggle',()=>{ MOREFX = d.open; }));
 }
 window.addEventListener('hashchange', ()=>{ WHY = null; render(); window.scrollTo(0,0); });
 document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !m.contains(e.target)) m.open=false; });
