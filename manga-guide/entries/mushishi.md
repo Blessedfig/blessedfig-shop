@@ -38,7 +38,7 @@ Hope source: K — the way through is knowledge: Ginko's understanding of mushi 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
 | Violence | 2 | Rare | Neutral | Almost no fighting. Harm comes from mushi afflictions and nature (a tsunami, a landslide). In ch. 22 a father cuts open a preserved eyeball, and the grown daughter asks Ginko to bury her eyes (fan wiki). |
-| Fear and intensity | 4 | Frequent | Neutral | Eerie rather than violent: "short, spooky" stories (Sequential Tart via Wikipedia), "creepy fairytales" (Jason Thompson via Wikipedia). Body horror: villagers crumbling under green moss (ch. 3), horns, mushi in eyes and ears. Deaths of children and parents (ch. 3, 15). AniList Eco-Horror 79%, Tragedy 69%. |
+| Fear and intensity | 4 | Frequent | Neutral | Eerie rather than violent: "short, spooky" stories (Sequential Tart via Wikipedia), creepy fairy tales (Jason Thompson via Wikipedia, paraphrased). Body horror: villagers crumbling under green moss (ch. 3), horns, mushi in eyes and ears. Deaths of children and parents (ch. 3, 15). AniList Eco-Horror 79%, Tragedy 69%. |
 | Sexuality and romance (incl. fan service, manga art vs anime) | 1 | Rare | Neutral | Married couples and families; in ch. 21 a widowed woman becomes pregnant by eating an egg from the sea chasm so that her dead mother can be reborn as her child (fan wiki); not sexual. No fan service or nudity noted by any source (to verify). |
 | Language | 1 | Rare | Neutral | Nothing noted (to verify in the Del Rey or Kodansha translation). |
 | Substances | 3 | Constant | Neutral | Ginko smokes almost constantly: a mushi tobacco that keeps mushi away (Wikipedia; fan wiki: "frequently seen smoking a cigarette"). Medicines are prepared and dosed; in ch. 3 an overdose could kill (fan wiki). |
@@ -111,7 +111,7 @@ There are no villains; the stories reward those who seek understanding and accep
 | Mio's father (The Sea Palace) | Refusing to let the dead go | His wife is reborn as his granddaughter (ch. 21); how the family fares afterward is not in sources opened | Pitied |
 | Tanyuu Karibusa | Bearing a burden with affection for the mushi | Keeps recording Mushi Masters' stories, which may one day free her (ch. 7; fan wiki) | Endorsed |
 
-**Fan favorites versus the official moral.** Readers and critics agree closely: it is among the highest-rated manga on MangaUpdates (8.72) and AniList (85), and critics praise its humanism, beauty and quiet storytelling (Wikipedia). Jason Thompson notes it may be "too mellow" for some readers.
+**Fan favorites versus the official moral.** Readers and critics agree closely: it is among the highest-rated manga on MangaUpdates (8.72) and AniList (85), and critics praise its humanism, beauty and quiet storytelling (Wikipedia). Jason Thompson notes it may feel too quiet for some readers.
 
 ## Message delivery
 - Style: Implicit
@@ -210,7 +210,7 @@ Japanese source culture: An imagined late-Edo countryside, Japanese folklore of 
 |---|---|---|---|
 | Critic (manga) | Deb Aoki, About.com (via Wikipedia) | Best manga of 2007; "a smartly-written, original story" with mesmerizing imagery. | https://en.wikipedia.org/wiki/Mushishi |
 | Critic (anime) | Carl Kimlinger, Anime News Network (via Wikipedia) | Best anime series of 2007; praises its rhythm, humanism and "naturalist's eye for beauty." | https://en.wikipedia.org/wiki/Mushishi |
-| Critic (manga) | Jason Thompson (via Wikipedia) | An original vision with a biologist's precision and creepy fairytale feel; may be "too mellow" for some. | https://en.wikipedia.org/wiki/Mushishi |
+| Critic (manga) | Jason Thompson (via Wikipedia) | An original vision with a biologist's precision and creepy fairy-tale feel; may feel too quiet for some. | https://en.wikipedia.org/wiki/Mushishi |
 | Critics (manga) | Sequential Tart, Comics Worth Reading, Active Anime, Manga Life (via Wikipedia) | "Short, spooky and breathtaking stories"; a manga to "make you stop and think." | https://en.wikipedia.org/wiki/Mushishi |
 | Librarians | Young Adult Library Services Association, 2008 (via Wikipedia) | Listed among titles of good literary quality and appeal for teens. | https://en.wikipedia.org/wiki/Mushishi |
 | Awards | Kodansha Manga Award; Japan Media Arts Festival; Tokyo Anime Award (via Wikipedia) | Kodansha Manga Award 2006; Media Arts Excellence Prize 2003; anime grand prize 2006. | https://en.wikipedia.org/wiki/Mushishi |

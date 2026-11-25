@@ -91,7 +91,7 @@ Each row describes how that tradition's own teaching on art and media would usua
 | Secular humanist | A | Minor | Emotional honesty, accepting peers, creativity and work at a craft. | Little of concern. | How do the characters learn what they really feel? |
 | Conservative / traditional | C | Discuss | Clean language, hard work in the band, respect for seniors, loving parents. | Same-sex romance presented to teen readers as the central story and the ideal. | What makes love last: feelings, or choices? |
 | Unitarian Universalist | S | Minor | Love affirmed on its own terms; inherent worth; peers accepting. | Little to raise. | Inherent worth and dignity: who in the story needs to hear it most? (from general knowledge; to verify) |
-| Satanist | A | Minor | Open, self-chosen love; being "unabashedly themselves" (ANN). | Little to raise. | Self-honesty versus hiding your feelings (Aki, Shiho). (from general knowledge; to verify) |
+| Satanist | A | Minor | Open, self-chosen love; being fully themselves (ANN). | Little to raise. | Self-honesty versus hiding your feelings (Aki, Shiho). (from general knowledge; to verify) |
 | Historically Black Protestant | C | Discuss | Kindness, honesty, forgiveness between friends and loving parents; no profanity or sexual content. | Same-sex romance endorsed as the story's center; a concern for many families, not all. | "Love is patient, love is kind" (1 Corinthians 13:4): where do you see patience in this story? |
 | Atheist | A | Minor | Goodness that comes from empathy; people work out their feelings by honest reflection. | Little of concern. | How did Himari work out what "love" meant to her? |
 | Agnostic | A | Minor | Humility about feelings that are hard to name; no preachy certainty. | Little of concern. | Can you know what you feel before you know someone well? |
@@ -141,7 +141,7 @@ Dominant lenses: Expressive individualism, Progressivism (acceptance of same-sex
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Expressive individualism | 5 | Affirmed | A | Characters praised for being "unabashedly themselves" (ANN); Himari defines love on her own terms (vol. 3); performing and confessing as self-expression. |
+| Expressive individualism | 5 | Affirmed | A | Characters praised by ANN for being fully themselves; Himari defines love on her own terms (vol. 3); performing and confessing as self-expression. |
 | Progressivism | 4 | Affirmed | A | Same-sex couples treated as ordinary by peers and a parent (Broken Frontier; Okazu via Wikipedia); no opposing voice. Cultural, not political. |
 | Communitarianism | 3 | Affirmed | B | Two bands and a cooking club as small communities; reconciliation restores the group (vols. 8-10). |
 | Classical virtue ethics | 2 | Affirmed | B | Patience, honesty and courage shown and rewarded. My own framing. |
