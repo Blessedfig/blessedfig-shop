@@ -2,7 +2,7 @@
 // =====================================================================
 //  PHONE CONTROLS: an SNES-style pad on screen for touch devices.
 //  A D-pad you can slide your thumb around on (bottom left), A and B (bottom right; hold B to run),
-//  and two small buttons in the middle (MAP and SAVE while walking; they relabel on other screens).
+//  and two small buttons in the middle (MAP, and SAVE or MENU while walking; they relabel on other screens).
 //  They feed the same held / pressed buttons the keyboard and gamepad do. In portrait the game sits at the top
 //  and the pad gets the space below; in landscape the pad floats over the sides, half see-through.
 // =====================================================================
@@ -81,9 +81,16 @@ if (IS_TOUCH) {
   if (window.visualViewport) { const vm = document.querySelector('meta[name=viewport]'), base = vm && vm.content;
     visualViewport.addEventListener('resize', () => { if (vm && visualViewport.scale > 1.01) { vm.content = base + ',initial-scale=1'; setTimeout(() => { vm.content = base; }, 60); } }); }
   // labels follow the screen you're on
-  const LABELS = { walk: ['MAP', 'SAVE'], map: ['PLACES', 'ZOOM'], title: ['', ''], create: ['', ''], almanac: ['', ''], store: ['', ''] };
-  setInterval(() => { const L = LABELS[mode] || ['MAP', 'MENU']; pMap.textContent = L[0]; pMenu.textContent = L[1];
-    pMap.style.visibility = L[0] ? 'visible' : 'hidden'; pMenu.style.visibility = L[1] ? 'visible' : 'hidden'; pLay.style.display = mode === 'map' ? '' : 'none'; pSky.style.display = mode === 'walk' || mode === 'inside' ? '' : 'none'; }, 200);
+  // Nov 24: the pills say what the button really does there. The second pill is the C key: it opens the field menu in THE STORY
+  // (battle/hooks.js) and saves in Explore Town. Indoors the map button does nothing, so it is hidden there; screens that
+  // read neither button show none.
+  const cKey = () => typeof isRPG === 'function' && isRPG() ? 'MENU' : 'SAVE';
+  const LABELS = { walk: () => ['MAP', cKey()], inside: () => ['', cKey()], map: () => MODES.map.list ? ['BACK', ''] : ['PLACES', 'ZOOM'],
+    pmenu: () => ['', typeof PMN !== 'undefined' && PMN && PMN.view && PMN.view.kind === 'main' ? 'CLOSE' : ''], discgolf: () => [typeof DG !== 'undefined' && DG && DG.phase === 'aim' && dgDist() > 66 ? 'ANGLE' : '', ''], edutree: ['', 'REPORT'],
+    battle: ['', ''], hoops: ['', ''], pickle: ['', ''], kayak: ['', ''], study: ['', ''],
+    title: ['', ''], create: ['', ''], almanac: ['', ''], store: ['', ''] };
+  setInterval(() => { const E = LABELS[mode], L = typeof E === 'function' ? E() : E || ['MAP', 'MENU']; pMap.textContent = L[0]; pMenu.textContent = L[1];
+    pMap.style.visibility = L[0] ? 'visible' : 'hidden'; pMenu.style.visibility = L[1] ? 'visible' : 'hidden'; pLay.style.display = mode === 'map' && !MODES.map.list ? '' : 'none'; pSky.style.display = mode === 'walk' || mode === 'inside' ? '' : 'none'; }, 200);
   const orient = () => { document.body.classList.add('touch'); document.body.classList.toggle('land', !padPortrait()); fit(); };
   addEventListener('resize', orient); addEventListener('orientationchange', () => setTimeout(orient, 200)); orient();
 }

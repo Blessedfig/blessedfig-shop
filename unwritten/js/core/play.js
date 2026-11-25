@@ -161,7 +161,8 @@ MODES.walk = {
     // what you're facing
     const b = bldgAtM(...facing());
     if (b && !DLG) { const n = b.name || (b.addr ? b.addr : ''); if (n) { ctx.font = SMALL; const w = ctx.measureText(n).width + 10; win(4, 4, w, 14); txt(n, 9, 8, '#fff', 'left', SMALL); } }
-    txt(typeof IS_TOUCH !== 'undefined' && IS_TOUCH ? 'HOLD B TO RUN' : 'B: RUN  M: MAP  N: SKY  C: SAVE', SW - 4, SH - 10, 'rgba(255,255,255,.5)', 'right', SMALL);
+    // C opens the field menu in THE STORY (battle/hooks.js) and saves in Explore Town, so the hint says which
+    txt(typeof IS_TOUCH !== 'undefined' && IS_TOUCH ? 'HOLD B TO RUN' : 'B: RUN  M: MAP  N: SKY  C: ' + (typeof isRPG === 'function' && isRPG() ? 'MENU' : 'SAVE'), SW - 4, SH - 10, 'rgba(255,255,255,.5)', 'right', SMALL);
     if (DLG) dlgDraw();
   }
 };
