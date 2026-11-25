@@ -32,6 +32,14 @@
 body { margin: 0; }
 img { max-width: 100%; }
 [hidden] { display: none !important; }
+
+/* stays: easier to find and book (Nov 24) */
+nav.snav .snav-links a.snav-book { background: var(--leaf); color: #fff; border-color: var(--wood-dark); }
+nav.snav .snav-links a.snav-book:hover, nav.snav .snav-links a.snav-book:focus-visible { background: #2f5a20; color: #fff; }
+#stay .parking .plate { cursor: pointer; }
+.stay-cta { margin-top: 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; }
+.stay-cta .btn { font-size: 1.05rem; padding-inline: 22px; }
+.stay-cta span { color: var(--muted); font-size: .95rem; }
 </style>
 </head>
 <body>
@@ -694,7 +702,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 <nav class="snav" id="snav" aria-label="Jump to section">
   <div class="snav-in">
     <a class="snav-logo" href="#top"><picture><source srcset="img/title.webp" type="image/webp"><img src="img/title.png" alt="The Blessed Fig Tree" width="1100" height="469" loading="lazy" decoding="async"></picture></a>
-    <div class="snav-links"><a href="#visit">Visit</a><a href="#shelves">Shelves</a><a href="#stay">Stay</a><a href="#explore">Explore</a><a href="#play">Play</a><a href="#find">Find us</a></div>
+    <div class="snav-links"><a href="#visit">Visit</a><a href="#shelves">Shelves</a><a href="#stay">Stay</a><a href="#explore">Explore</a><a href="#play">Play</a><a href="#find">Find us</a><a class="snav-book" href="https://stays.theblessedfigtree.com">Book a stay</a></div>
   </div>
 </nav>
 <div class="tree">
@@ -825,10 +833,10 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
     <h2>Sleep above the shelves</h2>
     <p class="section-intro">We rent furnished apartments with full kitchens in the same building, so you can spend a weekend, a work trip or a month above the shop. Check-in is at 3:00 PM and check-out is by 11:00 AM.</p>
     <div class="parking">
-      <figure class="plate"><span class="ph"><img loading="lazy" decoding="async" class="lotphoto" src="img/a1.webp" alt="Apartment A living room with a tan sofa, navy daybed and bookshelves" width="1100" height="825"></span><figcaption>The 3-Bed Reading Apartment</figcaption></figure>
-      <figure class="plate"><span class="ph"><img loading="lazy" decoding="async" class="lotphoto" src="img/c1.webp" alt="Apartment C living room with a reading corner" width="1100" height="825"></span><figcaption>The 1-Bedroom Downtown</figcaption></figure>
+      <figure class="plate" onclick="location.href='https://stays.theblessedfigtree.com'"><span class="ph"><img loading="lazy" decoding="async" class="lotphoto" src="img/a1.webp" alt="Apartment A living room with a tan sofa, navy daybed and bookshelves" width="1100" height="825"></span><figcaption>The 3-Bed Reading Apartment</figcaption></figure>
+      <figure class="plate" onclick="location.href='https://stays.theblessedfigtree.com'"><span class="ph"><img loading="lazy" decoding="async" class="lotphoto" src="img/c1.webp" alt="Apartment C living room with a reading corner" width="1100" height="825"></span><figcaption>The 1-Bedroom Downtown</figcaption></figure>
     </div>
-    <p style="margin-top:20px"><a class="btn" href="https://stays.theblessedfigtree.com">See the apartments and request a stay</a></p>
+    <p class="stay-cta"><a class="btn" href="https://stays.theblessedfigtree.com">See the apartments and book a stay</a> <span>Weekends, work trips or a month: just upstairs from the books.</span></p>
   </div>
 </section>
 
