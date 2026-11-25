@@ -28,8 +28,8 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Religious | The series opens with texts from Revelation's beasts (Humanum Review), and Johan is drawn as an Antichrist figure (TV Tropes). Catholic writer Matthew Tan reads it as a story of communion against isolation; Gaheret (Beneath the Tangles) reads Johan as a personal agent of evil, like the devil but not all-powerful. No church or priest drives the plot. |
 | Socio-cultural | Post-reunification Germany and Czechoslovakia: East German eugenics, secret police, neo-Nazis, xenophobia against Turkish immigrants, and a hospital that ranks patients by political value (Wikipedia). Urasawa chose post-war Germany so the neo-Nazi movement could be included (Wikipedia). |
 
-Outlook: Bittersweet: Johan is stopped and Tenma is cleared, and many survivors rebuild their lives, but the body count is enormous and the final page leaves Johan's fate open (TV Tropes; Wikipedia).
-Hope source: R: the story's way through is forgiveness and redemption: Tenma saves the man he meant to kill, and Eva, Lunge and others turn their lives around; protecting others (P) is the close second.
+Outlook: Bittersweet — Johan is stopped and Tenma is cleared, and many survivors rebuild their lives, but the body count is enormous and the final page leaves Johan's fate open (TV Tropes; Wikipedia).
+Hope source: R — the story's way through is forgiveness and redemption: Tenma saves the man he meant to kill, and Eva, Lunge and others turn their lives around; protecting others (P) is the close second.
 
 ## Content scores
 

@@ -1,21 +1,21 @@
-# Hell's Paradise: Jigokuraku
+# Hell's Paradise: Jigokuraku (Yuji Kaku, 2018-2021)
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Series facts, publisher, circulation and creator statements come from opened pages (a Wikipedia mirror, Japanese Wikipedia, VIZ product pages, Anime News Network and Anime Corner interviews). Content and values come from Common Sense Media (anime), TV Tropes, the Jigokuraku fan wiki and several reviews. The weak point is the chapter map: only the arc-level volume ranges and a handful of chapter numbers (1, 8, 14, 15, 41, 50, 60, 120, 123, 126, 127) were confirmed in opened pages. Every other chapter or volume in this entry is marked "likely". Items resting on general knowledge are marked "(from general knowledge; to verify)". Pages found in search but not opened are listed apart in Sources.
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium** (the series' many deaths and its sexual and nude content involving two child characters are reported here from fan-wiki summaries and could not be checked against the pages). Built 2026-11-25 (about 30 lookups). The series is complete: 127 chapters in 13 volumes (Shōnen Jump+, January 22, 2018 to January 25, 2021) (English Wikipedia). Series facts and the volume-to-chapter map come from English Wikipedia (the series article and the Yuji Kaku article, opened through their raw-text endpoint), the AniList and MangaUpdates APIs, VIZ Media's series page and vol. 1 product page (Mature) and the Anime News Network encyclopedia release page (17+). Chapter-level plot points come from the Jigokuraku fan wiki (character pages for Gabimaru, Yui, Nurugai and Mei; chapter pages 1-3, 7-28, 30-75 and 124-127 searched through its API for key scenes; facts only). Creator statements: Anime News Network's 2025 interview with Kaku and the production notes cited in Wikipedia. Reviews opened: Anime Feminist and Anime News Network (anime episodes 1-3), In Between Drafts (anime episode on gender), a ComicBook.com note on what the anime covers up, and a Sportskeeda explainer. Wikipedia supplied the manga reviews it cites (Publishers Weekly, Comic Book Bin, CBR, ANN, Anime UK News). No Christian, Common Sense Media or Plugged In review was found. The ANN vol. 1 review, the Publishers Weekly review and two interviews (But Why Tho, Anime Corner) were found in search but not opened. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Hell's Paradise: Jigokuraku. Japanese: 地獄楽 (Jigokuraku, roughly "Hell-paradise" or "Hell's pleasure") |
-| Creators | Yuji Kaku (story and art). Editor Hideaki Sakakibara. Yukinobu Tatsu (later creator of *Dandadan*) was one of his assistants (Wikipedia mirror) |
-| Origin | Shonen Jump+ (Shueisha's web and app magazine), imprint Jump Comics+. Ran January 22, 2018 to January 25, 2021. Complete: 127 chapters in 13 volumes. Shonen label, but often called seinen-leaning in tone (Kotaku headline). A one-shot, "Forest of Misfortune," followed in 2023 |
-| English edition | VIZ Media (digital from May 2018 alongside Manga Plus; print vol. 1 March 17, 2020 to vol. 13 March 15, 2022; complete box set October 28, 2025). VIZ age rating: **Mature** (VIZ vol. 2 product page; Comic Book Bin: "M (Mature)"). VIZ Signature label. Volumes: 13 in Japan, 13 in English. A vertical-scroll Webtoon edition began in October 2024 |
-| Anime | MAPPA, directed by Kaori Makita. Season 1: 13 episodes, April to July 2023 (TV Tokyo; Crunchyroll outside Asia). Season 2 (Lord Tensen and Hōrai arcs) premiered January 11, 2026 (Wikipedia mirror). Common Sense Media lists the anime as TV-MA |
-| Recognition | Over 6.5 million copies in circulation (January 2024 per the English Wikipedia mirror; December 2024 per Japanese Wikipedia). Most popular Shonen Jump+ series by August 2018, until overtaken by *Spy x Family* in November 2019 (Japanese Wikipedia). Next Manga Awards 2018, web category, 11th. Kono Manga ga Sugoi! 2019 (male readers), tied 16th. Crunchyroll grouped it with *Jujutsu Kaisen* and *Chainsaw Man* as Jump's "Dark Trio" (via Wikipedia mirror) |
-| Other guides | Common Sense Media (anime): **16+**, "Buckets of blood, very sexual content in violent anime" (opened). No Plugged In, ScreenWise or Christian parent-guide review of the series was found |
+| Title | Hell's Paradise: Jigokuraku. Japanese: 地獄楽 (Jigokuraku, "hell paradise") (Wikipedia; AniList id 100994, confirmed) |
+| Creator | Yuji Kaku (story and art), a former manga editor at Akita Shoten (2007-2008); earlier Fantasma (2013-2014); assistant to Tatsuki Fujimoto on Fire Punch (2016-2018); later Ayashimon (2021-2022). Yukinobu Tatsu (later creator of Dandadan) was one of his assistants (Wikipedia) |
+| Origin | Shōnen Jump+, Shueisha's web platform (a shōnen label), January 22, 2018 to January 25, 2021; **complete**, 127 chapters in 13 volumes; one-shot "Forest of Misfortune" (2023). It became Shōnen Jump+'s most popular series by August 2018 (Wikipedia) |
+| English edition | VIZ Media, VIZ Signature imprint, 13 print volumes, March 17, 2020 to March 15, 2022; free simultaneous chapters on Manga Plus; a box set with the one-shot (2025); a colorized vertical version on Webtoon (2024). Publisher rating: **Mature** (VIZ vol. 1 product page); ANN's release page lists 17+ |
+| Anime | MAPPA, directed by Kaori Makita: season 1 (13 episodes, April to July 2023, through ch. 45) and season 2 (January to March 2026, to ch. 89) (Wikipedia; MangaUpdates). Streamed on Crunchyroll. ComicBook.com reports the anime covers nudity the manga shows |
+| Recognition | Over 6.5 million copies in circulation (January 2024); 11th in the 2018 Next Manga Awards (web); 4th in the Honya Club bookstore staff list (2018); tied 16th in Kono Manga ga Sugoi! 2019 for male readers (Wikipedia). Database scores: AniList average 81 (about 100,000 members); MangaUpdates 7.99 (461 votes) |
+| Other guides | No Common Sense Media or Plugged In review found. Anime Feminist (anime premiere): content warnings for heavy gore and violence against women. MangaUpdates genres include Mature, Horror and Gender Bender; tags include Blood and Gore, Nudity, Body Horror, Buddhism, Taoism, Gender Transformation. AniList tags: Gore, Body Horror, Nudity, Gender Bending, Battle Royale |
 | Entry tier | From summaries |
 
-**Premise.** The story is set in Japan's Edo period. Gabimaru "the Hollow" is a ninja from the village of Iwagakure. He is sentenced to death after his village betrays him, but every execution fails. Sagiri, a woman of the Yamada Asaemon clan of official executioners, offers him a pardon from the shogun if he brings back the elixir of immortality from Shinsenkyo, an island said to be paradise (ch. 1). Gabimaru agrees because he wants to return to his wife, Yui. Ten death-row convicts land on the island, each shadowed by an Asaemon who must kill them if they flee. The "paradise" is full of flowers that grow out of human bodies, monsters with the faces of deities, and the Tensen: seven beings who rule the island as gods and harvest human life-force (Tao) to make an immortality elixir. Convicts and executioners slowly learn to trust each other to survive.
+**Premise.** In Edo-period Japan, Gabimaru "the Hollow," the deadliest ninja of the hidden village of Iwagakure, is betrayed by his chief and sentenced to death, but every execution fails: boiling, burning, beheading (ch. 1). He tells himself he feels nothing, but the executioner Yamada Asaemon Sagiri sees what keeps him alive: love for his wife, Yui, the chief's daughter, whose face her father scarred. The shogun offers a pardon to any condemned criminal who brings back the elixir of immortality from Shinsenkyō, an island where five expeditions have vanished. After the prisoners kill one another down to a handful (ch. 2), each sails with a Yamada Asaemon executioner who may behead them at any moment. The island is a paradise of flowers that turns people into plants, guarded by monstrous hybrids and by the Tensen, seven near-immortal, androgynous beings who cultivate Tao (life energy) and seek the elixir by harvesting humans (ch. 3-46). Criminals and executioners are slaughtered or form uneasy alliances: the young Sanka girl Nurugai and the executioner Tenza (ch. 11-20), the kunoichi Yuzuriha, the samurai Gantetsusai, the bandit brothers Chōbei and Tōma, and Mei, a banished Tensen in a child's body. A second shogunate force, including Iwagakure ninja, arrives (v7). The survivors fight their way into Hōrai, the Tensen's palace, and finally destroy Lord Tensen, Rien, on a ship bound for Japan (ch. 100-124). Back in Edo the survivors report the criminals dead so they can go free; the Iwagakure chief is beheaded by the shogunate (ch. 126); Gabimaru returns to Yui to live an ordinary life (ch. 127) (Wikipedia; fan wiki).
 
 ## Life message
 
@@ -23,292 +23,271 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | Survival is the plot's engine; Kaku says the story "was conceived as a story of survival" and gave Gabimaru a wife as his reason to live (ANN interview, 2025). Pair-bonding beats individual immortality: Gabimaru survives for Yui, and the villain Rien kills thousands to revive her dead husband (ch. 123). The Tensen are hermaphroditic beings who reproduce and grow power through sex and plant "ovules": reproduction made into a power system. Fighting is constant and lethal. |
-| Pragmatic | Enemies must cooperate: criminals and the executioners assigned to kill them become teams. Information wins fights: Shion and Sagiri learn Tao by studying the island's creatures (ch. 41). The shogunate's mission is shown as costly and pointless; in the epilogue Jikka quietly mocks the price of the elixir (TV Tropes). |
-| Religious | Dense Taoist and Buddhist imagery. The power system is Tao, yin and yang, and the five elements (TV Tropes). The Tensen pose as gods and use invented religion to control the island's people; their titles borrow Buddhist and Taoist deity names, such as Nyoirin Kannon (Japanese Wikipedia). Tree-people chant the nenbutsu while waiting to die, believing a Tensen-planted promise of paradise in Hōrai. Monsters look like deities. One convict is a cult leader with a false religion (TV Tropes) whom Japanese Wikipedia nicknames an apostate Christian priest. The executioner Senta, who studied religions, exposes the gaps in the island's religious trappings (TV Tropes). Sagiri's arc moves toward accepting doubt and balance, which the Wikipedia mirror links to "the Middle Way." |
-| Socio-cultural | Rigid Edo hierarchies are questioned: Sagiri faces sexism in her clan (ch. 14); Nurugai is condemned only for belonging to the persecuted Sanka people; Shion says "it is the era we live in that decides" what a crime is (Kotaku). The Iwagakure village trains children as a "hive mind" (TV Tropes). Marriage is the hero's goal. Death is everywhere; executioners carry guilt for it. |
+| Evolutionary biology | A literal survival contest among predators: prisoners culled to a handful (ch. 2), an island where plants and hybrids feed on people, and immortals who farm humans. Pair bonds (Gabimaru and Yui; criminal and executioner pairs) are what raise survival odds; the Tensen's ritual sex (Bōchū Jutsu) is reproduction turned into a power technique (ch. 33-35). |
+| Pragmatic | Alliances of enemies form because they work; Tao must be read and balanced to win. Sagiri learns that a strong fighter needs to accept weakness as well (the Middle Way, per Kaku in Wikipedia). |
+| Religious | The island mixes Taoist immortality lore (Xu Fu, the elixir, inner and outer alchemy, yin and yang) with Buddhist paradise imagery: the Tensen resemble bodhisattva statues and the Pure Land, and one convict is called a man who prays to Buddha for murder (ComicBook.com). The "gods" are false and predatory. Faith readers will weigh beings worshipped as divine who feed on humans, and the occult life-energy that heroes also learn to use. |
+| Socio-cultural | Kaku says he gave Gabimaru and Sagiri the values of people in the 2020s, especially Gabimaru's devotion to love and Sagiri's concerns as a woman in a male profession (Wikipedia). The shogunate and the Iwagakure chief are cruel, controlling powers; the Sanka (Nurugai's mountain people) were wiped out. Anime Feminist flags violence against women. |
+
+Outlook: Hopeful: most of the cast dies, often horribly, but the survivors go free by being reported dead, the tyrannical chief is punished, Gabimaru goes home to Yui, and Shion and Nurugai set out to find her people (ch. 126-127).
+Hope source: L: the way through is love between two: Gabimaru survives because he loves his wife, and the story ends with him living an ordinary life with her (ch. 127); the bonds between criminals and executioners (F) are the close second.
 
 ## Content scores
 
-**Overall content level: 9 out of 10** (set by Violence). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 9 out of 10** (set by Violence; Fear and intensity 8 and Sexuality 7 follow). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 9 | Constant | Shown with consequences | Common Sense Media (anime): violence is "constant, aggressive, and graphic," with many dead bodies and skeletons. Failed executions by burning and beheading and Gabimaru killing the guards (ch. 1). A convict, Rokurōta, kills the top-ranked Asaemon Eizen and Genji; Sagiri beheads him (around ch. 14-15, v2; fan wiki). Flowers sprout from wounds and faces as body horror; Shion cuts the flowers out of his own body (ch. 41, v5). Most of the cast dies, often at allies' hands (Kotaku). Shugen cuts down Fuchi; Gantetsusai blinds himself in battle (Hōrai arc, likely v9-11). Kaku: "the blood and gore is a personal favorite" (Anime Corner). Manga is black and white; MAL reviewers call some scenes "needlessly brutal, almost comically gory." |
-| Fear and intensity | 8 | Frequent | Neutral | Human-faced centipedes and butterflies, monsters shaped like deities, people turning into flowers and trees, a "Rite of Just Consumption" that drains humans for an elixir (TV Tropes; fan wiki). Publishers Weekly compared the art to Junji Ito (via Wikipedia mirror). Iwagakure trainees inhale a poison for three days and nights; many die (TV Tropes). |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 7 | Recurring | Mixed: fan service neutral; coerced sex condemned | The manga often shows bare breasts; the anime omits nipples (TV Tropes). The Tensen have sex as part of training "for pleasure and to raise their tao" (TV Tropes, "Sex Magic"); Tao Fa and Ju Fa were made as a paired couple for sexual cultivation, which TV Tropes describes as brother-sister incest; Japanese Wikipedia confirms the pair practise bōchū-jutsu (Taoist sexual arts). Rien punished Mei by shrinking her to a child's body and sentencing her to sexual "training" with the Dōshi, which frightened her (fan wiki); Gabimaru is enraged and Gantetsusai disgusted when Dōshi plan to use her (TV Tropes). Rien pressures Chōbei into sexual training (TV Tropes). Yuzuriha uses seduction and revealing outfits (TV Tropes: "Shameless Fanservice"). Sagiri's anxious dreams show her naked (Epicstream). Common Sense Media (anime): sex "a lot," characters "having sex on screen." No sexual romance among the leads; Gabimaru is a faithful husband and his bond with Sagiri is platonic (ANN This Week in Anime). |
-| Language | 3 | Occasional | Neutral | Common Sense Media (anime): cursing "a little," occasional "sh--ty"; adult talk about sex and violence. VIZ manga text not checked (to verify). |
-| Substances | 2 | Rare | Shown with consequences | The "Tan" elixir made from human Tao, which the Tensen depend on (fan wiki compares it to Du Fu's *Eight Immortals of the Wine Cup*). Training poison in Iwagakure. Common Sense Media: no drinking, drugs or smoking in the anime. |
-| Mental health and self-harm | 6 | Recurring | Shown with consequences | Gabimaru's "Hollow" state: an emotionless killing mode from childhood conditioning; his parents were executed for trying to leave the village (fan wiki). In despair against a Tensen he sets himself on fire as a last attempt to win (fan wiki; chapter to verify). He loses his memories and reverts to "Hollow" mid-story (fan wiki). Sagiri's guilt over executions (ch. 1, 15, 120). Chōbei stabs himself to seize Water Tao bottles (Hōrai arc; fan wiki). Many heroic self-sacrifices: Tenza, Senta, Fuchi, Mei (TV Tropes). Nurugai's survivor's guilt after her village is massacred (Epicstream). |
-| Imitable behavior | 2 | Rare | Neutral | Ninja and sword play; the self-immolation and self-stabbing scenes are the ones to talk through. |
-| Commercial | 4 | Moderate outside the book | Neutral | Anime, stage plays (2023, 2024), novels, a fan book, a mobile game (2025) (Wikipedia mirror). No product placement in the manga reported. |
+| Violence | 9 | Constant | Mixed: brutality shown as horrible; also staged as spectacular action | Ch. 1: repeated execution attempts on Gabimaru (fire, boiling, the sword). Ch. 2: condemned prisoners kill each other to earn a place; Sagiri beheads attackers (fan wiki). From ch. 3: people turned into flower-bodies, dismemberment, decapitations, eaten by hybrid monsters (AniList Gore 88%, Body Horror; MangaUpdates Blood and Gore, Amputee/s). Tenza killed protecting Nurugai (ch. 20-21). Ch. 124: Sagiri pierced through the stomach, Gabimaru's hand crushed. Ch. 126: the shogunate forces the Iwagakure chief to test the elixir, turning him into a tree, then beheads him and displays the head (fan wiki). Yui's face was burned by her father as a warning (Anime Feminist). Publishers Weekly and Comic Book Bin compare the art to Junji Ito and EC horror (Wikipedia). |
+| Fear and intensity | 8 | Constant | Neutral (horror) | Eco-horror island of flesh-eating plants and human-animal hybrids (the Shoshin); Tensen in giant monstrous forms; humans absorbed into flowers (Gabimaru himself partly turns into a plant, v6-8). Kaku says he loves violence, horror and gore (ANN, 2025). |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 7 | Recurring | Mixed: married love honored; ritual sex shown as part of the villains' power; nudity frequent | Sagiri appears nude among corpses in early nightmare imagery, which the anime covers (ComicBook.com). The Tensen are androgynous, often nearly nude, and change sex (AniList Gender Bending). Bōchū Jutsu, the Tensen's ritual sexual intercourse to join yin and yang, is explained (ch. 33) and its chamber shown (ch. 35); Chōbei, an adult, engages in it with a Tensen (ch. 56); a Tensen propositions the adult Fuchi, who refuses (ch. 72) (fan wiki). Yuzuriha, an adult kunoichi, flirts and teases (from general knowledge; to verify). Gabimaru remembers his wife bathing him (ch. 22). **Minors:** Nurugai, age 12 (fan wiki infobox), undresses after washing off blood and shows the adult executioner Tenza her body to prove she is a girl (ch. 11, fan wiki: a nude-body reveal played as comedy); Gabimaru walks in on Mei, a Tensen in a child's body, undressed, and Sagiri then bathes Mei with Gabimaru present (ch. 21-22). How much is drawn in these scenes is not confirmed. In the epilogue the 13-year-old Nurugai is hit on by two men and her guardian chases them off (ch. 127). |
+| Language | 3 | Occasional | Neutral | Not checked in the VIZ text; reviews opened do not flag profanity (to verify). |
+| Substances | 2 | Rare | Neutral | The executioner Jikka is drunk aboard the ship (ch. 125, fan wiki); the elixir itself as a drug-like goal. |
+| Mental health and self-harm | 6 | Recurring | Shown with consequences | Gabimaru's emotional emptiness from childhood training as a killer in Iwagakure; Sagiri's fear and guilt as an executioner (ch. 2); the convicts' despair; Sagiri remembers that a seppuku second is needed and weighs her own death (ch. 124). ANN's Faye Hopper praises its view that revulsion at brutality is normal (Wikipedia). |
+| Imitable behavior | 2 | Rare | Neutral | Swordplay and ninja techniques in a fantasy setting; little that is realistically imitable. |
+| Commercial | 4 | Outside the book | Neutral | Two anime seasons, a mobile game (2025), stage plays, novels, exhibitions with goods (Wikipedia). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Marriage is the hero's reason to live. Abusive authority is condemned: the Iwagakure chief kills Gabimaru's parents, burns his own daughter's face as a warning (Anime Feminist, anime ep. 1) and gives Yui to Gabimaru to control him (TV Tropes). The shogunate's quest is shown as greedy. Found family forms across enemy lines: Shion adopts Nurugai (TV Tropes); the Aza brothers protect each other. |
-| Religion and spirituality | Central | Taoist cosmology (Tao, yin-yang, five elements) is the working metaphysics of the world. Religion used to control is exposed: the Tensen pose as gods and plant a false hope of paradise; a convict ran a cult with a "false religion" (TV Tropes). Buddhist and Taoist deity names are given to the villains (Japanese Wikipedia). Senta's religious scholarship is a tool for seeing through deception. ANN's hosts note the blend of Buddhist and Taoist imagery is framed as part of the island's "wrongness." |
-| Gender and identity (incl. LGBTQ) | Recurring | Sagiri fights systemic sexism in her clan and family (ANN This Week in Anime; ch. 14). Nurugai is often mistaken for a boy (Wikipedia mirror). The Tensen are hermaphroditic and shift between male and female forms (Japanese Wikipedia); Epicstream notes the risk of "villainizing characters who don't conform to the gender binary." Kotaku says Jikka's bisexuality is "portrayed as one of his many personal qualities." |
-| Politics and social issues | Recurring | Capital punishment is questioned: Tenza opposes it (ANN), Sagiri doubts her role (ch. 120). The Sanka are persecuted by the shogunate (Wikipedia mirror). Kotaku: a "character study into society's 'outsiders'" and the inequalities that push people into crime. |
+| Family and authority | Central | The Iwagakure chief, Yui's father, controls Gabimaru through his marriage, scars his own daughter, and betrays him; he is punished by the shogunate (ch. 126). The Yamada Asaemon clan is a family of executioners; Sagiri chose the work after seeing her father behead a criminal (ch. 2). Shion becomes a father figure to Nurugai (ch. 127). The shogun is cruel and self-serving. |
+| Religion and spirituality | Central | Taoist immortality and alchemy; Buddhist-looking false gods (the Tensen and Lord Tensen) who farm humans; a convict whose title is praying to Buddha for murder; the Middle Way as the theme Kaku says the story moved toward (Wikipedia). |
+| Gender and identity (incl. LGBTQ) | Central | Sagiri is a woman in a male executioners' clan and is told to become a wife instead (In Between Drafts, on the anime). Nurugai is mistaken for a boy (ch. 11). The Tensen are intersex or sex-changing beings (MangaUpdates Androgynous Character/s, Gender Transformation). No LGBTQ romance as such. |
+| Politics and social issues | Recurring | Capital punishment as the setting, its cruelty and its executioners' doubts; a shogun who uses the condemned as disposable; a persecuted mountain people (the Sanka); controlling ninja village as a cult. |
 
-**Virtues shown:** marital fidelity, compassion, trust across enemy lines, courage, honesty about doubt, self-sacrifice, protection of children (Mei, Nurugai), mercy (Gantetsusai ending Ju Fa's suffering; Sagiri laying Rokurōta's soul to rest), balance and humility, perseverance.
+**Virtues shown:** faithful married love (Gabimaru and Yui), mercy (Sagiri, Shion), courage, self-sacrifice (Tenza for Nurugai, ch. 20; Shugen, ch. 124), loyalty across enemy lines, honesty about one's weakness, protecting the young (Shion and Nurugai).
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself; intensity for age stays in Content scores. All 31 frame guides are still drafts from general knowledge, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: false gods and invented religion are exposed and defeated; immortality bought with human lives is condemned; a faithful marriage is the hero's goal; coerced sex (Mei, Chōbei) is framed as abuse; Taoist cosmology and sexual "Tao cultivation" are treated as real within the world; Buddhist and Taoist sacred names are worn by villains; capital punishment and clan hierarchy are questioned. On the page: extreme gore (9), bare breasts and sex scenes in the manga (7), body horror (8).
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a ninja trained as a killer who chooses an ordinary life with his wife (ch. 1-127); executioners and criminals who learn each other's humanity; false immortal gods who farm humans and are destroyed; constant graphic violence, decapitation and body horror; the Tensen's ritual sex (Bōchū Jutsu) explained and shown as part of the villains' power (ch. 33-35, 56); frequent nudity, including Sagiri and the Tensen; two scenes of undressed child characters: a 12-year-old girl showing an adult man her nude body to prove her sex (ch. 11) and a child-bodied Tensen undressed and bathed (ch. 21-22); Taoist and Buddhist imagery and a Middle Way theme; a cruel shogunate and a tyrant chief punished (ch. 126); faked deaths so the convicts can go free (ch. 126). Content involving minors: the two undressing and bathing scenes above (ch. 11, 21-22) were found in sources opened; how much is drawn is not confirmed (see checklist).
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Significant | Self-made "gods" seeking eternal life by consuming others are exposed and fall; faithful marriage as the reason to live; mercy and conversion of hardened killers; the dignity of the condemned. | Sex shown as a power technique and coerced sex depicted (CCC 2354 on pornography); Taoist energy treated as real; explicit nudity. Inter Mirifica 7: evil may be shown if not made attractive, so the manga's fan service is the sticking point more than the gore. | False immortality versus eternal life as gift. CCC 2266-2267 (2018 revision) on the death penalty beside Sagiri's doubts. Marriage as a vocation (Gabimaru and Yui). |
-| Eastern Orthodox | C | Significant | Rejection of false gods and self-deification by theft; repentance-like change in Gabimaru; love stronger than death. | Theosis is the true "becoming divine," so the Tensen's self-made divinity by sex and harvesting can read as its dark parody, but Taoist cultivation is still shown as real power. Nepsis makes the nudity and gore a strong concern. | Theosis by grace compared with immortality by consumption. Guarding the senses with this level of imagery. (from general knowledge; to verify) |
-| Baptist | C | Significant | Idols exposed as frauds; faithful husband; sinners changed by love. | Taoist cosmology and sex magic shown as real; nudity and sex scenes fail many families' Philippians 4:8 test. Each congregation and family decides (soul liberty). | Philippians 4:8 as the test. Psalm 115 on idols that cannot save, beside the Tensen. Is the story's "paradise" a picture of false promises? |
-| Non-denominational Evangelical | B | Significant | Depicts sin without endorsing it; false religion and self-salvation fail; a hardened killer learns love; grace-like second chances for convicts. | Non-Christian metaphysics is the world's working system; sexual content in the manga; no source of salvation beyond human bonds. | Romans 14 freedom and conscience. "Engaging culture": what does the story get right about the hunger for eternal life (Ecclesiastes 3:11)? |
-| Pentecostal / Charismatic | D | Significant | Clear exposure of false gods and their cruelty; love and courage. | Media as an "open door": Taoist energy work, sex magic, deity-faced monsters and chanting tree-people are central and shown as real power; the heroes win by mastering that energy. Views range widely. | Ephesians 6:12 on spiritual powers. Whether learning "Tao" as a power source conflicts with Scripture's warnings on occult practice (Deuteronomy 18:10-12). |
-| Reformed / Presbyterian | B | Significant | Total depravity echoed in the island's "paradise" that is really hell; idolatry exposed; common grace lets families value the craft and the critique. | WLC Q139 lists "lascivious... books, pictures" among sins against the seventh commandment, which applies to the manga's nudity and sex scenes. | Calvin's "the human heart is an idol factory" beside the Tensen's invented religion. Providence versus the story's balance cosmology. (from general knowledge; to verify) |
-| Lutheran | B | Significant | Law and gospel: no one saves themselves; the Tensen's self-salvation project collapses. Vocation: the executioner's office and its burden of conscience. | Sexual content; Taoist metaphysics shown as real. LCMS and WELS families more cautious than ELCA. | Luther's "Whether Soldiers, Too, Can Be Saved" (1526) beside Sagiri and the Asaemon. Is the elixir a picture of works-righteousness? |
-| Methodist / Wesleyan | B | Significant | Transformation of hardened characters; works of mercy toward outsiders (Nurugai); holiness of marriage. | Wesley's General Rules ask to avoid diversions that cannot be used "in the name of the Lord Jesus"; nudity and sex magic. Holiness churches more cautious than UMC. | Prevenient grace: can a "Hollow" killer be reached by love? Social holiness and the persecuted Sanka. |
-| Anglican / Episcopal | B | Significant | Good and evil judged by framing: false gods and predatory immortals condemned; love and mercy win. | Fan service and sex magic; Taoist metaphysics. Episcopal and ACNA families differ mainly on the gender themes. | Lewis's *The Great Divorce* (heaven and hell as near neighbors) beside an island where heaven and hell are "practically the same thing." |
-| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Capital punishment questioned; executioners who doubt killing; enemies reconciled. | Violence remains the heroes' main tool throughout (Matthew 5:39); conservative groups avoid such media entirely; MC USA families vary. | Is Sagiri's refusal to be "samurai" (ch. 120) a step toward nonresistance? What would the Schleitheim Confession's separation mean for this book? |
-| Latter-day Saint | C | Significant | Marriage and family as the deepest good; reunion of husband and wife (ch. 127); service and sacrifice. | For the Strength of Youth: nudity and sex scenes are unlikely to "invite the Spirit"; occult-style power. | Eternal families compared with Gabimaru's devotion to Yui. Article of Faith 13: "virtuous, lovely, or of good report." |
-| Mainline progressive Protestant | B | Discuss | Critique of capital punishment, persecution of the Sanka and clan sexism; care for outsiders and children. | Genderfluid beings cast as villains (Epicstream); sexual violence as plot material; fan service. | Structural sin: Shion's line that the era decides what a crime is (Kotaku). Restorative justice versus execution. |
-| Seventh-day Adventist | D | Significant | Marriage fidelity; exposure of false religion and false promises of paradise. | The tree-people's belief that souls go on to Hōrai, souls laid to rest, and spirit-like Tao conflict with teaching on the state of the dead; nudity and gore fail Fundamental Belief 22's standard. | "By beholding we become changed" (2 Corinthians 3:18). True versus false hope of eternal life. (from general knowledge; to verify) |
-| Jehovah's Witness | D | Significant | Exposure of false religion and those who pose as gods. | Spiritism-like energy work and sex magic are central; violence (Psalm 11:5) and immorality (Galatians 5:19-21) throughout. | jw.org's question: does it feature what God hates? False religion exposed (Revelation 18) compared with the story's critique. (from general knowledge; to verify) |
-| Christian Science | C | Significant | Love outlasts fear; false material "immortality" fails. | Death, decay and bodily horror are shown as overwhelmingly real; the gore and body horror are exactly what members guard against. | "Stand porter at the door of thought" (Science and Health 392). Real versus false life. (from general knowledge; to verify) |
-| Orthodox Jewish | C | Significant | Idolatry exposed: beings who make themselves gods are destroyed; sanctity of marriage; doubt about executions echoes rabbinic reluctance on capital cases (Mishnah Makkot 1:10). | Tzniut and nivul peh make the nudity and sex magic a strong concern; many Haredi homes would not have this book; human life harvested as "medicine." | A Sanhedrin that executes once in seventy years is "destructive," beside Sagiri's doubts. Avodah zarah and false gods. (from general knowledge; to verify) |
-| Conservative Jewish | B | Discuss | Critique of idolatry; sanctity of life and marriage; compassion for the stranger (Nurugai). | Sexual content and coercion depicted; modesty values applied by families. | Mishnah Makkot 1:10 on capital punishment. "Love the stranger" (Deuteronomy 10:19) and the Sanka. (from general knowledge; to verify) |
-| Reform Jewish | B | Discuss | Justice for the persecuted; questioning execution; tikkun olam echoes in protecting the vulnerable. | Sexual violence and fan service; genderfluid villains. | Informed autonomy: what does a family choose to read and why? (from general knowledge; to verify) |
-| Muslim | C | Significant | False gods (shirk) exposed and destroyed; only death is certain for all (Qur'an 3:185) and the quest for bodily immortality fails; faithful marriage. | Lowering the gaze (Qur'an 24:30-31) makes the nudity and sex scenes a strong concern; deity images and Taoist power treated as real. | The Tensen's claim to divinity beside tawhid. Mercy and justice: Sagiri's doubts. |
-| Hindu | B | Discuss | Balance of opposites and energy (prana-like Tao) resonate; dharma of the warrior and of the householder; a faithful marriage; immortality-seeking demons in Puranic style end in ruin. | Tantric-style sexual cultivation shown in a predatory light; tamasic gore (Gita 17). | Rien as an asura-like figure seeking amrita. Gabimaru as householder (grihastha) choosing duty to his wife. (from general knowledge; to verify) |
-| Buddhist | B | Discuss | Craving for permanence (the Tensen, Rien's attachment to her dead husband) is the root of suffering; Sagiri's arc toward the Middle Way; impermanence accepted; nenbutsu chanted. | Buddhist sacred names (Nyoirin Kannon and others) given to villains; deity-faced monsters; killing throughout, against the first precept; sacred chanting shown under false promises. | Rien's attachment as tanha. Is a "paradise" built on others' suffering a Pure Land or a hell? Right mindfulness about what feeds the mind. |
-| Sikh | B | Discuss | Lust, anger, greed, attachment and ego shown in villains and condemned; courage to defend the weak; a faithful householder life. | Sex magic and nudity; killing as the heroes' work. | Rien's attachment (moh) to her husband's body. Grihasth (householder) life as the hero's goal. (from general knowledge; to verify) |
-| Bahá'í | C | Significant | Unity across divisions (criminals and executioners); exposure of false gods; justice for the persecuted. | Shoghi Effendi's call to a "chaste and holy life" against degrading art; constant violence. | Unity of humankind and the Sanka. What makes art "worship" when it shows so much cruelty? (from general knowledge; to verify) |
-| Shinto | B | Discuss | Respect for life, purity and sincerity (makoto) in Gabimaru and Sagiri; gratitude to those who sacrificed. | Kegare (pollution): blood, death and decay saturate the island; the "paradise" is a site of impurity. | Is the island's corruption a story about impurity and its cleansing? (from general knowledge; to verify) |
-| Wiccan / Pagan | B | Minor | Balance of opposites, plant and nature imagery, respect for the cycle of life and death; no stereotyping of witches. | Nature and sexual energy shown mainly as tools of predators; "harm none" broken by the Tensen. | The Rede beside the Tensen's harvest. Immortality versus the turning wheel of life. (from general knowledge; to verify) |
-| Scientologist | B | Minor | The Way to Happiness precepts: be faithful to your partner, do not murder, help children. | Killing as the main solution. | Which precepts do Gabimaru and Sagiri live out? (from general knowledge; to verify) |
-| Secular progressive | B | Discuss | Critique of state killing, ethnic persecution and clan sexism; a capable female deuteragonist in a platonic partnership (ANN); a bisexual character treated casually (Kotaku). | Gender-nonconforming beings cast as villains (Epicstream); coerced sex and a child-bodied victim as plot material; fan service; violence against women (Anime Feminist). | Common Sense Media's 16+. Who gets judged a "criminal," and who decides? How does the story treat Mei's abuse? |
-| Secular humanist | A | Minor | People change through meeting others (Kaku's stated theme, Japanese Wikipedia); fraudulent religion exposed; meaning found in finite human bonds; compassion over rules. | Gore and sexual coercion need context for younger readers. | Why does the story reject immortality? Can a "Hollow" person be rehumanized? |
-| Conservative / traditional | B | Discuss | Marriage fidelity as the reason to live; courage and duty; family loyalty (the Aza brothers). | Hierarchy, clan tradition and the samurai code are mostly shown as oppressive; nudity and sex magic; genderfluid beings. Some religious conservatives raise the occult framing. | Is Gabimaru's devotion to Yui a traditional virtue? Sagiri's "samurai I am not" (ch. 120): rejecting a code, or reforming it? |
-| Unitarian Universalist | A | Discuss | Inherent worth of convicts, outsiders and the persecuted; free search for truth (Senta's study of religions); critique of execution. | Gender-nonconforming villains; sexual violence; graphic content for age. | Can you honor the worth of a killer? What does Shion's line on "the era" teach about justice? (from general knowledge; to verify) |
-| Satanist | B | Minor | Exposure of false gods and invented religion; the individual's will to live a chosen life against village and state; skepticism. | Harm to children (Mei) is condemned in the story, as in the Eleven Rules; the Tensen's harvest of the weak. | Satanic Temple Tenet 5 (beliefs should conform to the best scientific understanding) beside the Tensen's faked divinity. (from general knowledge; to verify) |
+| Catholic | B | Significant | Faithful married love as the reason to live; mercy toward the condemned; grasping at immortality by consuming others exposed as evil; the tyrant punished. | Ritual sex and frequent nudity; nudity of child characters (ch. 11, 21-22); extreme gore; false gods; the heroes' deceit at the end. Most families would treat it as adult reading. | Gabimaru lives for his wife. Compare the Church's teaching on marriage as a reason for hope (CCC 1601). |
+| Eastern Orthodox | C | Significant | Love and repentance of a killer; the passions shown as destructive (the Tensen's lust for power). | Nepsis (guarding the senses) against heavy nudity, ritual sex and gore; demonic "gods" and Taoist alchemy taken as real spiritual danger. | True immortality versus the elixir: what does Shinsenkyō offer? (from general knowledge; to verify) |
+| Baptist | C | Significant | A killer's heart changed by love; faithful marriage; false gods destroyed (Exodus 20:3). | Nudity, ritual sex and gore fail the Philippians 4:8 test; occult life-energy used by heroes; no gospel. Views vary by congregation. | "It is appointed unto men once to die" (Hebrews 9:27) beside the hunt for an elixir of life. |
+| Non-denominational Evangelical | C | Significant | Love, mercy and sacrifice; the quest for immortality without God shown as horror. | Graphic nudity and sexual ritual, gore, false gods; no Christian review found. | Genesis 3:22 and the tree of life: why is immortality on human terms a curse here? |
+| Pentecostal / Charismatic | D | Significant | Deliverance from a cruel master (the chief); false gods fall. | Demonic beings worshipped as divine, occult energy used by the heroes, sexual ritual and nudity: an "open door." | Who has power over life and death? (from general knowledge; to verify) |
+| Reformed / Presbyterian | B | Significant | Common grace: human love and mercy shine among condemned men; the idolatry of eternal life on one's own terms exposed. | WLC Q139 on what stirs lust; gore; heroes deceive the authorities (ch. 126). | Is the shogun's quest for the elixir an idol? (WSC Q1) |
+| Lutheran | B | Significant | The condemned under the law and shown mercy; vocation (executioner, husband) wrestled with. | Nudity and ritual sex; lying to the magistrate; LCMS and WELS families more cautious than ELCA. | The executioner's vocation and the Fifth Commandment. |
+| Methodist / Wesleyan | B | Significant | Grace in unlikely people; mercy to the condemned. | Holiness churches cautious about nudity, sex ritual and gore. | Can a hardened killer become tender? What changes him? |
+| Anglican / Episcopal | B | Significant | Love and mercy against a cruel state; a moral horror story. | Nudity and sexual ritual; gore; ACNA families more cautious. | Mercy versus law in Sagiri's choices. |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | A killer who wants to stop killing and live quietly; capital punishment shown as cruel. | Violence is the main action; separation from worldly media; nudity. | Gabimaru wants to put down his weapons. What stops him? (from general knowledge; to verify) |
+| Latter-day Saint | C | Significant | Eternal marriage-like devotion; agency against a controlling master. | For the Strength of Youth on nudity, sexual content and graphic violence. | Love that endures beyond death. (from general knowledge; to verify) |
+| Mainline progressive Protestant | B | Discuss | Critique of capital punishment and a cruel state; a woman pushing against a male profession; a persecuted minority (the Sanka). | Anime Feminist's warning of violence against women; nudity of child characters. | Who does the shogun treat as disposable? |
+| Seventh-day Adventist | D | Significant | A changed heart; love of a spouse. | Spiritualism and false gods; "by beholding we become changed" against gore and nudity; FB 22. | Immortality as God's gift versus the elixir (1 Timothy 6:16). (from general knowledge; to verify) |
+| Jehovah's Witness | D | Significant | Rejection of false gods; loyalty in marriage. | Spiritism, occult energy, gore and sexual content against jw.org counsel. (from general knowledge; to verify) | Why do the Tensen want to live forever? (from general knowledge; to verify) |
+| Christian Science | C | Discuss | Love as the real life-giving power. | Matter-based immortality and bodily horror as the whole world. (from general knowledge; to verify) | Life as spiritual versus the elixir. (from general knowledge; to verify) |
+| Orthodox Jewish | C | Significant | Shalom bayit (marital devotion); the idolatry of the Tensen exposed. | Tzniut: frequent nudity, ritual sex; avodah zarah imagery; gore. (from general knowledge; to verify) | Choose life (Deuteronomy 30:19): what does "life" mean to Gabimaru? |
+| Conservative Jewish | B | Significant | Love as the reason to live; idolatry and tyranny defeated. | Nudity, sexual ritual, gore. (from general knowledge; to verify) | What makes a life worth living? (from general knowledge; to verify) |
+| Reform Jewish | B | Discuss | Critique of state cruelty and capital punishment; dignity of the condemned. | Treatment of women and child characters. (from general knowledge; to verify) | Should the condemned be given a second chance? (from general knowledge; to verify) |
+| Muslim | C | Significant | Love and loyalty in marriage; rejection of beings who claim divinity (shirk). | Nudity (24:30-31) and ritual sex; gore; occult energy. | Only God gives life and death (3:156): what is wrong with the elixir? |
+| Hindu | B | Discuss | Balance of opposites, devotion to a spouse, karma returning on the tyrant. | Ahimsa; nudity and sexual ritual shown as power-seeking. (from general knowledge; to verify) | Immortality and the self in the story versus moksha. (from general knowledge; to verify) |
+| Buddhist | B | Discuss | The Middle Way as the story's theme (Kaku, via Wikipedia); craving for immortality as the root of horror; compassion for the condemned. | Buddhist-looking false gods; a convict who prays to Buddha for murder; constant killing (first precept); love as attachment is affirmed. | Is Gabimaru's love for Yui attachment, or the Middle Way? |
+| Sikh | B | Discuss | Householder life over withdrawal or power; ego of the Tensen defeated. | Gore; nudity. (from general knowledge; to verify) | The householder's path beside Gabimaru's ending. (from general knowledge; to verify) |
+| Bahá'í | C | Discuss | Love and unity across enemies. | Extreme violence; chastity concerns (ritual sex, nudity). (from general knowledge; to verify) | Unity between criminals and executioners. (from general knowledge; to verify) |
+| Shinto | B | Minor | Purity versus the island's corruption; ordinary life and home as the good. | Death, blood and corpses (kegare) everywhere. (from general knowledge; to verify) | A paradise that is really hell: what is truly pure? (from general knowledge; to verify) |
+| Wiccan / Pagan | B | Minor | Balance of opposites and life energy; harm returns on the tyrant. | Life energy harvested by force is the evil. (from general knowledge; to verify) | Balance in nature versus taking life to extend one's own. (from general knowledge; to verify) |
+| Scientologist | B | Discuss | Personal strength and choice; overcoming a suppressive master. | Violence; immortality of the body versus the thetan. (from general knowledge; to verify) | What does the story say about living forever? (from general knowledge; to verify) |
+| Secular progressive | B | Discuss | Critique of state violence and executions; Sagiri's challenge to gender roles; a persecuted minority. | Anime Feminist: violence against women; frequent nudity; the nude scene with a 12-year-old girl (ch. 11). | Sagiri is told to become a wife instead of an executioner. How does she answer? |
+| Secular humanist | A | Minor | Meaning in ordinary human love; false gods destroyed by people; immortality rejected. | Gore and fan service. | Would you take the elixir? Why or why not? |
+| Conservative / traditional | B | Significant | Faithful marriage, duty, courage, a tyrant punished. | Nudity, sexual ritual and gore; heroes lie to the government. | Gabimaru's loyalty to his wife beside his loyalty to his village. |
+| Unitarian Universalist | A | Minor | Worth of the condemned; love across enemy lines; balance. | Treatment of child characters. (from general knowledge; to verify) | Inherent worth of criminals and executioners alike. (from general knowledge; to verify) |
+| Satanist | B | Minor | Defiance of tyrants (the chief, the shogun); this-worldly life; indulgence not condemned. | The heroes reject immortality, a form of self-preservation. (from general knowledge; to verify) | Is refusing the elixir wisdom or weakness? (from general knowledge; to verify) |
+| Historically Black Protestant | C | Significant | Deliverance from bondage: a man escapes a master who owned him and scarred his wife, and the oppressor falls (ch. 126); faithful love; mercy for the condemned. | False gods and occult life-energy that the heroes also use; nudity and sexual ritual; extreme gore; no hope beyond this life. | "If the Son therefore shall make you free, ye shall be free indeed" (John 8:36) beside Gabimaru leaving Iwagakure. |
+| Atheist | A | Minor | The "gods" are frauds who feed on people; humans defeat them; meaning found in ordinary love and this life. | Gore and fan service, not belief. | The Tensen are worshipped as gods. Why are they not? |
+| Agnostic | A | Minor | A "conflict of opposites" (Kaku) explored without a doctrine; balance and humility over certainty. | Little beyond intensity. | Kaku says the story is about opposites. Which opposites matter most? |
+| Nothing in particular | B | Discuss | Love, loyalty, fairness; karma-like justice for the tyrant; finding your own path home. | Cruelty and gore; despair in the middle arcs. | What kept Gabimaru alive? |
 
-**Where traditions disagree.** On message, most frames grade the series B or better because false gods are exposed, immortality bought with human lives fails and a faithful marriage drives the hero. The dividing line is the metaphysics: Taoist energy, sex magic and deity-faced monsters are shown as real, which weighs most for Pentecostal, Adventist and Jehovah's Witness frames (D). Buddhist and Hindu readers will notice their sacred names and concepts on villains. On depiction, the manga's nudity and sex scenes push most Christian, Jewish, Muslim and Bahá'í frames to Significant. Secular and UU frames find the closest fit in the anti-execution and anti-persecution themes, while noting the genderfluid villains.
+**Where traditions disagree.** Frames agree on the core: love for a spouse gives a killer a reason to live, immortality bought with others' lives is evil, and the tyrant falls. The divide is depiction and the spiritual setting. Christian, Jewish, Muslim and Latter-day Saint frames weigh the ritual sex, heavy nudity (including two scenes with undressed child characters) and false gods as part of what the story offers (C or D); Pentecostal, Adventist and Jehovah's Witness frames see occult danger. Secular, atheist, agnostic and Unitarian frames grade it highest, since the gods are frauds and human love wins.
 
 ## Winners, losers and sympathy
 
-Love, doubt and cooperation survive; the self-made gods who harvest humans for eternal life are destroyed.
+Those who love someone and accept their own weakness survive; those who grasp at immortality or power (the Tensen, the Iwagakure chief) are destroyed, while many decent people die along the way.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Gabimaru | From conditioned "Hollow" killer to a man who lives for his wife | Survives, nearly dies at the end, revived by Rien's last strength (TV Tropes); reunites with Yui (ch. 127) | Endorsed |
-| Sagiri | Doubt, compassion and balance over rigid duty | Survives; defeats Rien (ch. 123); later challenges the clan head rather than marry him (fan wiki, citing the fan book) | Endorsed |
-| Convict survivors (Yuzuriha, Gantetsusai, the Aza brothers, Nurugai with Shion) | Self-interest turned into loyalty | Gantetsusai is the only convict officially recognized and pardoned; he opens a clinic honoring his executioner Fuchi; others leave for new lives (Epicstream; TV Tropes) | Sympathetic |
-| Asaemon who die (Tenza, Senta, Fuchi) | Decency, mercy, protecting their charges | Die protecting others (TV Tropes) | Mourned |
-| Lord Tensen (Rien and the six Tensen) | Self-deification, immortality by harvesting humans, sex as power | Destroyed or scattered; a one-page epilogue shows survivors in the future (TV Tropes) | Condemned; Rien's grief for her husband is given pathos |
-| Mei | A Tensen who rejected the harvest and was punished for it | Sacrifices herself so the survivors' ship can escape; later revived (fan wiki) | Endorsed |
-| Shugen and the shogunate | Rigid justice; power seeking the elixir | Shugen dies in the final battle; the shogunate is mocked in the epilogue (fan wiki; TV Tropes) | Critiqued; Shugen partly redeemed |
-| The Iwagakure chief | Control through fear and conditioning | Drinks an elixir after being beheaded; a tree bursts from his body (TV Tropes) | Condemned |
+| Gabimaru | Love as the reason to live; leaving a life of killing | Survives, reported dead, goes home to Yui (ch. 126-127) | Endorsed |
+| Yamada Asaemon Sagiri | Duty tempered by mercy; accepting weakness | Survives; reports to the shogun and keeps the criminals' secret (ch. 126) | Endorsed |
+| Lord Tensen (Rien) and the Tensen | Immortality by harvesting humans | Destroyed (ch. 100-124) | Condemned |
+| Iwagakure chief | Control through fear; using his daughter | Forced to test the elixir, turned into a tree, beheaded (ch. 126) | Condemned |
+| Tenza | Honor and protection of the young | Dies protecting Nurugai (ch. 20-21) | Sympathetic |
+| Shion and Nurugai | Duty turned to guardianship | Leave together to find her people (ch. 125-127) | Endorsed |
+| Chōbei and Tōma | Ambition and brotherhood | Survive abroad as underworld bosses in Hong Kong (ch. 127) | Mixed |
 
-**Fan favorites versus the official moral.** No official character popularity poll was found. MyAnimeList lists the manga at score 8.21, popularity #56, with 7,298 users favoriting it (as viewed). Several MAL reviewers single out Rien as the best antagonist, while others find the Tensen bland. ANN's *This Week in Anime* hosts mourned Tenza ("samurai himbo") and called Yuzuriha a deliberately unlikable fan-service character. Fan affection mostly lands on the heroes and the doomed Asaemon, so the fan favorites and the official moral largely line up.
+**Fan favorites versus the official moral.** No official popularity poll was opened. Fans call it part of Jump's "Dark Trio" with Jujutsu Kaisen and Chainsaw Man (Crunchyroll, via Wikipedia). Critics and fans agree on the Gabimaru-Sagiri bond as the heart (CBR: a bond of mutual respect, not dominance or lust; ANN). The split is over the gore and nudity, which some find essential to its horror and others gratuitous.
 
 ## Message delivery
-- Style: Woven in
-- Preachiness: 4
+- Style: Implicit
+- Preachiness: 3
 - Opposing views: Fair
-- Evidence: Inferred from the entry's summaries; no review addresses preachiness. Kotaku notes the violence is balanced by "humane compassion".
-- Note: Themes of balance and humanity come through the Tao combat system and the convicts' and executioners' arcs.
+- Evidence: Kaku built the Tensen as the opposites of the criminals and executioners (ANN, 2025); the message comes through Gabimaru's love and Sagiri's inner struggle rather than lectures.
+- Note: Theme statements about yin-yang and balance are made inside battle explanations; villains (the Tensen) are given backstories but stay monstrous.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
-| Gabimaru | Conditioning undone by love | Hero | Sympathetic |
-| Sagiri | Doubt and compassion over rigid duty | Hero | Sympathetic |
-| Rien | Immortality and love turned to consuming attachment | Villain | Mixed |
+| Gabimaru | Love and an ordinary life over killing | Hero | Sympathetic |
+| Yamada Asaemon Sagiri | Duty with mercy; balance of strength and weakness | Hero | Sympathetic |
+| Rien (Lord Tensen) | Immortality at any cost | Villain | Mixed |
+| Iwagakure chief | Control through fear | Villain | Strawman |
 
 ## Creator and publisher context
 
-- Yuji Kaku (story and art). Kaku said he began with a framework of mismatched people forced to cooperate in a closed space; the first idea was a youth detention setting (Wikipedia mirror). He said he wanted to show people changed by meeting others (Japanese Wikipedia), and that "Sagiri became the protagonist of the latter half" (Wikipedia mirror).
-- On themes: "One of the thematic aspects of Hell's Paradise is that there's a conflict of opposites" (ANN interview, 2025). On the religious and philosophical setting: "It wasn't that I specifically studied any of these topics"; he calls it "a toy box of everything I'm interested in" (ANN, 2025) and "I took everything that I already enjoyed, loved, and appreciated and jam-packed it into the world" (Anime Corner). He has made no stated claim of religious belief or intent to teach a religion.
-- On violence: "I'm actually a big fan of the violence, horror, and gore genres" (ANN, 2025); "the blood and gore is a personal favorite" (Anime Corner). Japanese Wikipedia reports he said hot sword scenes tend to become bloody and that readers' word "cruel" was a natural result of the theme.
-- Influences he named: *Fist of the North Star*, *Berserk*, and the *Fire Punch* connection through his editor (Japanese Wikipedia); Yamada Futaro for the "cultish" tone (Anime Corner). The fan book *Kaitai Shinsho* (2021) includes an interview with Tatsuki Fujimoto (Wikipedia mirror).
-- Kaku has not spoken publicly about his private life, politics or religion beyond these work comments. **Status: Needs more info on the creators.**
-- Publisher: Shueisha (Hitotsubashi Group). VIZ Media is owned by Shueisha and Shogakukan (from general knowledge; to verify). The anime is produced by MAPPA with Twin Engine (ANN, 2025).
-- No reputable reports of controversy involving the creator were found.
+- Yuji Kaku began as an editor at Akita Shoten's Weekly Shōnen Champion (2007-2008), then drew Fantasma (2013-2014) and assisted Tatsuki Fujimoto on Fire Punch (2016-2018) before Hell's Paradise; afterward he drew Ayashimon (2021-2022). As a child he practiced swordplay with his cousin, the entertainer Takeshi Tsuruno (Wikipedia).
+- On-record intent (Wikipedia): the story grew from a frame of "several pairs of people whose interests aren't aligned" forced together (first imagined as children in a youth detention center with lawyers); the themes shifted toward the Middle Way, with Sagiri becoming the protagonist of the second half; he gave Gabimaru and Sagiri 2020s values, Gabimaru's attachment to love and Sagiri's concerns about being a woman.
+- ANN interview (2025): the theme is a conflict of opposites (good and evil, weak and strong); the Tensen are the opposites of the protagonists; he loves violence, horror and gore; he drew on many religious and philosophical backgrounds without formal study.
+- Publisher: Shueisha (Shōnen Jump+ web platform); VIZ Media in English under VIZ Signature, rated Mature. Editor Hideaki Sakakibara called the art "extreme" from chapter 1 (Wikipedia).
+- No controversies involving the creator were found.
 
 ## Worldview lenses
 
-Dominant lenses: Taoist cosmology (added row), Existentialism, Secular humanism, Dharmic (Buddhist), Transhumanism (critiqued), Critical theory.
+Dominant lenses: Existentialism (affirmed: love as chosen meaning), Buddhist ideas (the Middle Way, explored), Pantheist/New Age (Taoist life-energy and yin-yang, explored), Transhumanism (immortality, critiqued), Bushido / honor code (the executioners' code, explored).
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Taoist cosmology (added; not in the standard list) | 8 | Explored (as world-system); balance affirmed | B | Tao, yin-yang and the five elements run the power system (TV Tropes; ANN 2026 feature). Kaku's "conflict of opposites" (ANN 2025). The heroes win by balancing opposites; the Tensen abuse Taoist immortality practice. My own grouping. |
-| Existentialism | 7 | Affirmed | B | Gabimaru must choose a reason to live against his conditioning (ch. 1); Sagiri chooses doubt over a code (ch. 120). My own framing. |
-| Secular humanism | 6 | Affirmed | B | People changed by meeting others (Kaku, Japanese Wikipedia); faked divinity exposed; meaning found in finite bonds. |
-| Dharmic (Hindu/Buddhist) | 6 | Explored | C | Craving for permanence as the villains' root; the Middle Way in Sagiri's arc (Wikipedia mirror); nenbutsu-chanting tree-people; Buddhist deity names on the Tensen (Japanese Wikipedia); Rien's name from the lotus (ANN 2026). |
-| Transhumanism | 6 | Critiqued | D | Immortality engineered by harvesting human life-force and growing new bodies is the villains' project; it collapses (ch. 123). My own framing. |
-| Critical theory | 5 | Explored | C | Shion: "it is the era we live in that decides" what a crime is (Kotaku); persecution of the Sanka; criminals as products of inequality. |
-| Pagan / occult | 5 | Explored | C | Sex magic (bōchū-jutsu), alchemy-like elixir, I Ching prophecy (TV Tropes). Shown as real but used by villains. |
-| Collectivism / authoritarianism | 5 | Critiqued | D | Iwagakure's "hive mind" conditioning; the shogunate's greed; the Tensen's rule by fake religion. |
-| Might makes right | 4 | Critiqued | D | Tensen and the chief rule by power; cooperation beats them. |
-| Feminism | 4 | Explored | C | Sagiri against clan sexism (ANN; Epicstream calls it "relatively inoffensive" rather than groundbreaking); fan service and violence against women criticized (Anime Feminist). |
-| Classical virtue ethics | 4 | Affirmed | B | Courage, fidelity, mercy, and the mean between extremes. |
-| Pragmatism | 4 | Affirmed | B | Enemies cooperate to survive; study and experiment win fights (ch. 41). |
-| Expressive individualism | 3 | Explored | C | Gabimaru and Sagiri choose their own lives against village and clan. |
-| Christian | 2 | Explored (by echo) | C | A cult-leader convict nicknamed an apostate padre (Japanese Wikipedia); love and second chances. No Christian content is central. |
-| Nihilism | 3 | Critiqued | D | Gabimaru's "Hollow" emptiness is overcome by love. |
-| Utilitarianism | 3 | Critiqued | D | Rien sacrifices many lives for one goal; the story condemns it. |
-| Traditionalism | 3 | Critiqued | D | Clan rules, gender limits and the samurai code shown as constraining (ch. 14, 120). |
-| Progressivism | 3 | Explored | C | Questioning execution and persecution; a casually bisexual character (Kotaku). |
-| Confucian ethics | 3 | Explored | C | Clan duty and filial hierarchy in the Asaemon, questioned more than affirmed. My own framing. |
-| Communitarianism | 3 | Affirmed | B | A voluntary community of convicts and executioners forms with mutual duties. |
-| Hedonism | 2 | Critiqued | D | Tensen sex "for pleasure" and power belongs to the villains. |
-| Stoicism | 2 | Explored | C | Executioners' acceptance of death. |
-| Jewish, Islamic, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Marxism, Postmodernism, Environmentalism, Absurdism, Anti-natalism, Consumerism, Libertarianism | 0 | Not present | none | No meaningful evidence found. |
+| Existentialism | 7 | Affirmed | A | Gabimaru, trained to be "hollow," chooses a self and a life through love; meaning is made, not given (ch. 1-127). |
+| Buddhist ideas | 6 | Explored | B | Kaku says the themes shifted to the Middle Way (Wikipedia); craving for immortality as the root of suffering; Buddhist paradise imagery made false; MangaUpdates tags Buddhism. Moved from the retired Dharmic lens. |
+| Pantheist/New Age | 6 | Explored | C | Tao as a life-energy in every being, balanced as yin and yang, which heroes must learn to read (from ch. 30s); the guide has no Taoist lens, so Taoist ideas are scored here (MangaUpdates tags Taoism). |
+| Transhumanism | 6 | Critiqued | D | The elixir and the Tensen's immortality, made by harvesting humans, are the great evil; the shogun's wish for it is ridiculed (ch. 126). |
+| Bushido / honor code | 6 | Explored | B | The Yamada Asaemon executioners' code (Sagiri, Shion, Tenza, Eizen); the kaishakunin's role in seppuku (ch. 124); Gantetsusai's samurai pride; Tenza dies protecting his charge (ch. 20); the code is humanized and questioned rather than simply praised. |
+| Secular humanism | 5 | Affirmed | B | False gods destroyed; human love and alliances win. |
+| Authoritarianism | 5 | Critiqued | D | Iwagakure as a controlling cult that empties its children into killers; the shogun treats prisoners as disposable (ch. 2, 126). |
+| Pagan/occult | 5 | Explored | C | Alchemy, inner and outer elixirs, ritual sex as a power technique (Bōchū Jutsu, ch. 33-35), human-animal hybrids. |
+| Critical theory | 4 | Explored | C | A woman in a male executioners' clan; the persecuted Sanka; the condemned as disposable people. |
+| Feminism | 4 | Explored | B | Sagiri's struggle to be accepted as an executioner (In Between Drafts on the anime); Kaku's stated intent to give her 2020s concerns about being a woman. |
+| Pacifism / nonviolence | 4 | Explored | C | Gabimaru wants to stop killing and live in peace; Sagiri's revulsion at killing is treated as healthy (ANN's Hopper, via Wikipedia); but the story is built on combat. |
+| Duty ethics | 4 | Explored | C | Sagiri's duty to behead her charge against her growing mercy; the executioners finally lie to the shogun to protect the criminals (ch. 126). My own framing. |
+| Strength rules | 4 | Critiqued | D | The Tensen's rule by power; the chief's control; both fall. |
+| Classical virtue ethics | 4 | Affirmed | B | Courage, mercy and balance as virtues; Sagiri learns to hold strength and weakness together. |
+| Pragmatism | 3 | Explored | C | Alliances of convenience between enemies. |
+| Nihilism | 3 | Critiqued | D | Gabimaru's "hollowness" is what he must overcome. |
+| Utilitarianism | 3 | Critiqued | D | Lives traded for an elixir. |
+| Traditionalism | 3 | Critiqued | C | Inherited roles (executioner clan, ninja village) questioned. |
+| Confucian ethics | 3 | Explored | C | Duty to clan and father (Sagiri, Yui) set against conscience. |
+| Communitarianism | 3 | Affirmed | B | The mixed band of survivors as a community. |
+| Expressive individualism | 3 | Explored | C | Choosing your own life over an assigned role. |
+| Hedonism | 2 | Critiqued | D | The Tensen's pursuit of pleasure and power. |
+| Stoicism | 2 | Explored | C | Gabimaru's trained emotional control. |
+| Christian, Jewish, Islamic, Hindu ideas, Moralistic therapeutic deism, Naturalism, Marxism, Postmodernism, Environmentalism, Absurdism, Anti-natalism, Consumerism, Progressivism, Libertarianism, Liberalism, Anarchism, Patriotism / nationalism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side; economics is not a theme. |
-| Social (0 authority, 10 liberty) | 7 | The village, the clan and the shogunate are shown as oppressive; the heroes seek chosen lives. |
-| Cultural (0 traditional, 10 progressive) | 6 | Questions execution, clan sexism and ethnic persecution, but centers a traditional marriage. |
-| Community (0 individual first, 10 community first) | 5 | Personal goals (a wife, a chosen life) drive the heroes, yet survival depends on cooperation and many sacrifice for others. |
+| Economic (0 collective, 10 free market) | 5 | No economic theme. |
+| Social (0 authority, 10 liberty) | 7 | Tyrannical authorities (shogun, chief) are the villains; freedom to choose one's life is the goal. |
+| Cultural (0 traditional, 10 progressive) | 6 | Modern values on love and gender placed in Edo Japan (Kaku, via Wikipedia); traditional marriage honored. |
+| Community (0 individual first, 10 community first) | 5 | Personal love comes first, but survival depends on alliances. |
 
 **Moral foundations profile (0 to 10):** care 8, loyalty 6, fairness 7, sanctity 4, authority 3, liberty 7.
 
-**Profile notes for parents:** The series is a horror-survival story whose message is fairly humane: love and cooperation outlast false gods and the hunger for eternal life. What sets it apart for many families is the depiction: extreme gore, body horror, manga nudity, Taoist sex magic and depicted sexual coercion, including a character punished into a child's body. Its religious world is Taoist and Buddhist in flavor, with fake religion and self-made gods as the villains.
+**Profile notes for parents:** Care and liberty lead: the heroes protect each other and break free of controlling masters. Sanctity is low in depiction (nudity, ritual sex, gore) though the story condemns violating human life. VIZ rates it Mature (ANN lists 17+). Parents should know about the extreme gore, frequent nudity, the villains' ritual sex, and two scenes of undressed child characters (ch. 11, 21-22) that need a human check.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 3 | The samurai and executioner code is questioned: Sagiri says "If abandoning such doubt is the way of the samurai then samurai I am not" (ch. 120). Mercy and the dignity of convicts outrank clan honor. |
-| Order vs freedom | 7 | The village "hive mind," clan rules and the shogunate's order are shown as oppressive; Gabimaru wants a free, ordinary life (ch. 1). |
-| Civic vs kin | 6 | A wife and brothers drive the plot (Gabimaru and Yui; the Aza brothers), but strangers and enemies form a lasting found family (Shion adopts Nurugai). |
-| Equality vs hierarchy | 3 | Convicts and executioners become equals; clan sexism (ch. 14) and persecution of the Sanka are critiqued. |
-| Tradition vs secular-rational | 6 | Invented religion is exposed and Senta's study is a tool of reason, yet Taoist metaphysics is real in the world and Buddhist balance is valued. |
-| Survival vs self-expression | 5 | Kaku calls it "a story of survival" (ANN 2025), but the goal of survival is a self-chosen, ordinary life of love. |
+| Dignity vs honor | 5 | Executioners' and samurai honor codes frame the cast; the story sides with mercy and the worth of the condemned. |
+| Order vs freedom | 7 | The shogunate and Iwagakure are cruel orders; going home free is the goal (ch. 126-127). |
+| Civic vs kin | 7 | Love for one's spouse (and Shion's fatherly care for Nurugai) outweighs duty to state or village. |
+| Equality vs hierarchy | 4 | Rigid Edo hierarchy and clan rank; criminals and executioners become equals on the island. |
+| Tradition vs secular-rational | 4 | Taoist and Buddhist cosmology are real forces in the world, while the gods prove false. |
+| Survival vs self-expression | 4 | A survival story at heart; the self Gabimaru finds is an ordinary, loving one. |
 
-Closest clusters: The Midlands; Catholic Europe; The Far West
+Closest clusters: Confucian; Greater Appalachia; The Far West
 
-Japanese source culture: The Edo-period setting, the Yamada Asaemon executioner clan, ninja village loyalty and Buddhist and Taoist imagery are drawn from Japanese and Chinese history and lore (ANN 2026 feature). The story mostly critiques the rigid hierarchies of that setting rather than presenting them as its message.
+Japanese source culture: The Edo shogunate, the real Yamada Asaemon line of sword-testers and executioners, ninja villages, Sanka mountain people, seppuku and its second, and the Chinese legend of Xu Fu seeking the elixir for the First Emperor shape the setting; Kaku deliberately gives the leads modern views on love and gender.
 
 ## Philosophy essay
 
-**The central question.** What is worth living for, and what is worth paying to live forever? The title pairs hell and paradise; the island where heaven and hell are "practically the same thing" (Comic Book Bin) tests both questions at once.
+**The central question.** What makes a life worth living, and is living forever worth anything? A ninja who cannot be killed and claims to feel nothing is sent to find the elixir of immortality. He survives because of something he will not admit at first: he wants to go home to his wife.
 
-**The answer the story gives.** Eternal life bought with other lives is a hell, however beautiful it looks. A short, ordinary life with someone you love is the paradise. Gabimaru, trained to feel nothing, refuses to die because he wants to go home to his wife (ch. 1), and he returns to her in the last chapter (ch. 127). The Tensen, who drain humans to make an elixir, end in ruin. Rien, their leader, harvests thousands to revive her dead husband; when the corpse is destroyed and she sees Gabimaru's answer, she lets herself crumble (ch. 123; fan wiki).
+**The answer the story gives.** A good life is an ordinary one, held by love and balance. The island is a paradise of flowers that turns people into plants; its gods have made themselves nearly immortal by consuming humans. Everyone who grasps at endless life or absolute power is undone, while those who accept weakness and love someone survive. Kaku says the story turned toward the Middle Way, and Sagiri, who learns to hold strength and fear together, becomes its center in the second half (Wikipedia). At the end the elixir goes to the shogun, the chief who scarred his daughter is executed by his own masters, and Gabimaru goes home (ch. 126-127).
 
-**Characters as arguments.** Gabimaru argues that conditioning can be undone by love. Sagiri argues that doubt is not weakness: her power grows when she accepts it instead of suppressing it (fan wiki). Yuzuriha argues for raw self-interest and slowly learns loyalty. Gantetsusai is a swordsman who ends up running a clinic to honor the executioner who died for him (TV Tropes). Senta, who studied religions to cope with killing, argues for reason against fake faith. Mei, the Tensen who refused the harvest and was punished into a child's body, argues that conscience can arise even in a made being. Rien argues for love turned to attachment so strong it consumes the world.
+**Characters as arguments.** Gabimaru argues that love makes a person, against a village that trained him to be empty. Sagiri argues that an executioner can be merciful and a woman can bear the sword. Tenza argues for protecting the weak at one's own cost (ch. 20). The Tensen argue for perfection and eternal life by any means, and their Bōchū Jutsu turns even intimacy into a power technique. The Iwagakure chief argues for control by fear. Nurugai, the last of a persecuted people, argues for simple trust.
 
-**Symbols and motifs.** Flowers growing out of bodies: beauty and death fused. The elixir: false salvation. Yin and yang, male and female in one body: balance, which the heroes seek and the Tensen exploit. Deity-faced monsters: sacred forms emptied of meaning. The executioner's sword: the weight of judging who dies.
+**Symbols and motifs.** Flowers that bloom from bodies; the paradise that is hell (the title); yin and yang; the hollow man; Yui's scar; the elixir as a drop that turns a man into a tree (ch. 126); the ship home.
 
-**Traditions it echoes.** Taoist immortality legends, the Eight Immortals and the Xu Fu (Jofuku) legend of a voyage for the elixir (ANN 2026 feature; fan wiki). Buddhist teaching on craving and the Middle Way. Edo history of the Yamada Asaemon and of persecuted peoples. Japanese horror manga such as Junji Ito's, and *Berserk* (Japanese Wikipedia; Publishers Weekly via Wikipedia).
+**Traditions it echoes.** Chinese tales of Xu Fu and the isles of the immortals; Taoist inner alchemy and yin-yang; Buddhist Pure Land imagery and the Middle Way; samurai and executioner codes; Western stories of the cost of immortality (Gilgamesh, the tree of life in Genesis). Battle Royale's enclosed death game is a stated influence on its structure (Wikipedia).
 
-**How each lens is portrayed.** Religion used to control is unmasked; Taoist balance is the working truth of the world. Transhumanist dreams of a deathless body are shown as monstrous. Authority by fear (the village chief, the shogunate) is critiqued; chosen community is affirmed. Feminist readers find Sagiri's arc thoughtful and the fan service weak. Readers of many faiths will notice their sacred vocabulary placed in villains' mouths.
+**How each lens is portrayed.** Existentialism wins through Gabimaru's choice. Transhumanism and might-makes-right are the villains' creeds and are destroyed. Buddhist and Taoist ideas are the world's furniture and its moral key (balance), while its "gods" are false. Bushido is respected but bent toward mercy; the executioners end by lying to the state to save the condemned.
 
-**Shifts across the series.** The Island arc (ch. 1-16, v1-2) is a survival horror with convicts killing each other. The Lord Tensen arc (ch. 17-59, v3-7) reveals the Tensen and the Tao system and kills off beloved executioners. The Hōrai arc (ch. 60-110, v7-12) storms the Tensen's palace and adds the heaviest sexual material. The Departure arc (ch. 111-127, v12-13) turns to Rien's grief and ends in a quiet epilogue (arc ranges from Fiction Horizon).
+**Shifts across the series.** Volumes 1-2 (ch. 1-16) are the execution, the culling and the first island horrors. Volumes 3-6 (ch. 17-56) bring the Tensen, Mei and the lessons of Tao. Volumes 7-10 (ch. 57-96) bring the second shogunate force and the assault on Hōrai. Volumes 11-13 (ch. 97-127) are the final battle with Lord Tensen at sea and the return to Edo.
 
 **Discussion questions.**
-1. Gabimaru says he cannot die because he wants to see his wife again. What gives a person a reason to live?
-2. The Tensen make themselves gods and offer a false paradise. How can you tell a true hope from a false one? What does your family's tradition say?
-3. Sagiri doubts whether executing people is right. Should people who carry out the law also question it?
-4. Rien loves her husband so much she will sacrifice anyone to bring him back. When does love become something harmful?
-5. Nurugai is condemned only for who her people are. Who decides what counts as a crime?
+1. Gabimaru says he feels nothing, but he keeps surviving. What is really keeping him alive?
+2. Would you drink the elixir of immortality if it cost other people's lives? If it cost nothing?
+3. Sagiri is an executioner who hates killing. Can someone do a job like that and stay good?
+4. The "gods" on the island are worshipped but feed on people. What makes something worthy of worship?
+5. At the end the survivors lie to the shogun. Was that right?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Secular parent guide | Common Sense Media (anime) | 16+, TV-MA. "Buckets of blood, very sexual content." Positive themes of "love, teamwork, and redemption"; flags constant graphic violence and on-screen sex. | https://www.commonsensemedia.org/tv-reviews/hells-paradise |
-| Critics (manga) | Publishers Weekly, Comic Book Bin, CBR, ANN (Silverman, Hopper), Anime UK News | PW compared the art to Junji Ito; Comic Book Bin 9/10; CBR "a great, emotional bloodbath"; ANN 3.5/5 with a note the violence may not suit every reader; Anime UK News 6/10 for vol. 2. | Via the Wikipedia mirror; Comic Book Bin opened: https://comicbookbin.com/jigokuraku001.html |
-| Progressive / social reading | Kotaku | A "character study into society's 'outsiders'"; praises the casual portrayal of Jikka's bisexuality, criticizes thin gender-nonconforming representation; violence balanced by "humane compassion." | https://kotaku.com/hell-s-paradise-manga-shonen-jump-seinen-yuji-kaku-horr-1848618482 |
-| Feminist | Anime Feminist (anime ep. 1) | Warns of "heavy gore and violence against women"; welcomes a married protagonist and a platonic male-female partnership; notes Yui's face burned by her father as a warning. | https://animefeminist.com/hells-paradise-episode-1 |
-| Gender analysis | Epicstream | "Relatively inoffensive" rather than groundbreaking; praises Sagiri; criticizes Yuzuriha's seduction trope and the risk of "villainizing characters who don't conform to the gender binary." | https://epicstream.com/article/gender-and-hells-paradise-female-characters |
-| Gender analysis | In Between Drafts (anime) | Reads the Sagiri and Genji clash and Nurugai's gender reveal as showing deep sexism in the setting. | https://inbetweendrafts.com/hells-paradise-review-the-samurai-and-the-woman-explores-gender/ |
-| Critics (anime) | ANN *This Week in Anime* | Sagiri's struggle shows systemic sexism; the platonic partnership works; gore is brutal but not a "splatterfest"; the Buddhist-Taoist blend is part of the island's "wrongness." | https://www.animenewsnetwork.com/this-week-in-anime/2023-05-25/.198374 |
-| Christian-run anime site | Beneath the Tangles (season 2 first impression) | Season 2 opening is slower; "plenty of action, blood, and flying body parts." No faith-based reading offered. | https://beneaththetangles.com/2026/01/12/first-impression-hells-paradise-s2/ |
-| Historical and religious context | ANN feature (2026) | The Tensen draw on Taoist myth and the Eight Immortals; gender fluidity read as yin-yang; Rien's name from the Buddhist lotus; Jofuku as Xu Fu. | https://www.animenewsnetwork.com/cms/.234283 |
-| Fan reviews | MyAnimeList (manga) | 8.21, popularity #56. Praise for art, characters and the Tao system; criticism of repetitive late fights, an overlong finale and fan service ("the fanservice is gross"). | https://myanimelist.net/manga/112318/Jigokuraku/reviews |
-| Japanese reception | Japanese Wikipedia | Top Shonen Jump+ title from 2018 to 2019; readers called it "cruel" (残酷), which Kaku accepted. | https://ja.wikipedia.org/wiki/地獄楽 |
+| Critics (manga, vol. 1) | Publishers Weekly; Leroy Douresseaux, Comic Book Bin (via Wikipedia) | PW: mysterious, with unsettling, gruesome art likened to Junji Ito; Comic Book Bin: 9/10, among the best first volumes he has read. | https://en.wikipedia.org/wiki/Hell%27s_Paradise:_Jigokuraku |
+| Critic (manga, vol. 1) | Kiara Halls, CBR (via Wikipedia) | A "great, emotional bloodbath"; the Sagiri-Gabimaru bond is respect, not dominance or lust. | https://en.wikipedia.org/wiki/Hell%27s_Paradise:_Jigokuraku |
+| Critics (manga, vol. 1) | Rebecca Silverman and Faye Hopper, ANN (via Wikipedia) | 3.5 of 5; Hopper praises its view that casual brutality hurts the soul and that revulsion at it is normal. | https://en.wikipedia.org/wiki/Hell%27s_Paradise:_Jigokuraku |
+| Feminist (anime premiere) | ThatNerdyBoliviane, Anime Feminist (2023) | Warns of heavy gore and violence against women; hopes Yui and Sagiri get agency; the show does not hold back "on showing any of it." | https://animefeminist.com/hells-paradise-episode-1 |
+| Critic (anime episodes 1-3) | Bolts, Anime News Network (2023) | Thoughtful talk about taking life; Gabimaru's love for his wife as the emotional core; "Is it cheesy? Yes, but I don't care." | https://www.animenewsnetwork.com/review/hell-paradise/episodes-1-3/.197262 |
+| Gender reading (anime) | Kayla Chu, In Between Drafts (2023) | An episode about sexism: Sagiri refuses to be pushed toward marriage; Nurugai's gender reveal shows assumptions at work. 9/10. | https://inbetweendrafts.com/hells-paradise-review-the-samurai-and-the-woman-explores-gender/ |
+| Censorship note (anime) | Evan Valentine, ComicBook.com (2023) | The anime covers nudity of Sagiri that the manga shows. | https://comicbook.com/anime/news/hells-paradise-anime-censors-manga |
+| Fan databases | AniList, MangaUpdates | AniList average 81 (about 100,000 members); MangaUpdates 7.99. | AniList API; MangaUpdates API |
+| Christian outlets, Common Sense Media, Plugged In | — | No review found in search. | none |
 
-No Plugged In, conservative-outlet or explicitly Christian review of the series was found. No documented controversy was found; the main debate is over fan service, violence against women and the genderfluid villains.
+Critics praise the art, the horror and the central relationship; the main reservations are the extreme gore and, for some readers, the nudity. No faith-based or parent-guide review was found.
 
 ## Most loaded parts and pages to photograph
 
-Volume to chapter map: only arc-level ranges were confirmed (Fiction Horizon): v1-2 ch. 1-16 (Island arc); v3-7 ch. 17-59 (Lord Tensen arc); v7-12 ch. 60-110 (Hōrai arc); v12-13 ch. 111-127 (Departure arc). Per-volume ranges are not confirmed; at about 10 chapters per volume, ch. 120-127 are likely in v13. Chapters marked "likely" were inferred from arc ranges.
+Volume-to-chapter map (English Wikipedia, opened): v1 ch. 1-6; v2 7-16; v3 17-26; v4 27-36; v5 37-46; v6 47-56; v7 57-66; v8 67-76; v9 77-86; v10 87-96; v11 97-106; v12 107-116; v13 117-127. Scene chapters come from the fan wiki's chapter and character pages unless marked "likely."
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | The Tensen's sexual cultivation (bōchū-jutsu), the Bōchū Jutsu Temple battle with Tao Fa and Ju Fa, Rien pressuring Chōbei | Hōrai arc, likely ch. 70-100 (v8-11) | Sexuality score (7), incest-coded pairing, coercion; Pentecostal, Adventist, JW and modesty-based frames. |
-| 2 | Mei's backstory: shrunk to a child's body and sentenced to sexual "training"; Dōshi plan to use her | Likely Hōrai arc, v8-10; the Dōshi scene possibly late Lord Tensen arc (v6-7) | Child-bodied victim of sexual coercion; how the page frames it decides several Depiction concern rows. |
-| 3 | The Tensen as fake gods: deity-faced monsters, nenbutsu-chanting tree-people, the Rite of Just Consumption, Buddhist deity titles | Lord Tensen arc ch. 17-59 (v3-7); rite explained in the Hōrai infiltration, likely ch. 60-70 (v7-8) | Religion theme (Central), Buddhist and Dharmic frames, Taoist lens. |
-| 4 | Chapter 1: failed executions, Gabimaru's conditioning, the chief and Yui | 1 (v1) | Violence baseline, Mental health, family authority; check how Yui's burned face is shown (anime per Anime Feminist). |
-| 5 | Rokurōta kills Eizen and Genji; Sagiri beheads him and apologizes to his soul; Sagiri's clan sexism | 14-15 (v2) | Violence, gender theme, Sagiri's guilt. |
-| 6 | Mu Dan battle: flowers sprouting from bodies, Shion cutting them out, Senta's death | 41 (v5); Senta's death likely 42-43 (v5) | Body horror (Fear 8), self-sacrifice. |
-| 7 | Tenza's death protecting Nurugai and Shion | Likely Lord Tensen arc, v3-5 (anime ep. 8 per a Comicbook headline, not opened) | Capital punishment theme, Sanka persecution. |
-| 8 | Shugen cuts down Fuchi; Gantetsusai blinds himself; Chōbei stabs himself | Hōrai arc, likely v10-11 | Violence peak, self-harm items. |
-| 9 | Sagiri's "samurai I am not"; Rien and Jofuku's wedding items; Rien's end | 120, 123 (likely v13) | Dharmic and existential lenses, Folkways (honor), the story's verdict on attachment. |
-| 10 | Ending and epilogue: reunion with Yui, pardons, Tensen in the future | 126-127 (v13) | Winners table, Life message. |
+| 1 | Nurugai (12) undresses after washing and shows Tenza her nude body to prove she is a girl | 11 (v2) | Content involving a minor: decides the adult flag and every Depiction concern. Do not photograph or scan; review in print, written note only. |
+| 2 | Gabimaru walks in on Mei (a Tensen in a child's body) undressed; Sagiri bathes Mei with Gabimaru present; Gabimaru's memory of Yui bathing him | 21-22 (v3) | Content involving a child-bodied character. Do not photograph or scan; review in print, written note only. |
+| 3 | Bōchū Jutsu explained and its chamber shown; Chōbei takes part; Tao Fa propositions Fuchi | 33, 35, 56, 72 (v4, v6, v8) | Sexuality (7); ritual sex as villainy. Do not photograph or scan; written note only. |
+| 4 | Execution attempts on Gabimaru; Sagiri's nightmare imagery with nudity among corpses | 1 (v1) | Violence (9); Sexuality; ComicBook.com's note on anime cover-ups. Nudity pages: written note only. |
+| 5 | The convicts' culling and beheadings | 2 (v1) | Violence (9). |
+| 6 | Tenza's death protecting Nurugai | 20-21 (v2-3) | Bushido lens; Violence. |
+| 7 | Final battle: Shugen's death, Sagiri's wound and her thought of seppuku | 124 (v13) | Violence; Mental health. |
+| 8 | Return to Edo: the chief turned into a tree and beheaded; faked deaths; epilogue (Nurugai at 13 approached by men) | 126-127 (v13) | Outlook; Duty ethics lens; minors review. |
 
-Estimate: about 50-60 chapters cover the above; photographing the key spreads would take about 120-160 pages (the series uses many double-page spreads).
+Estimate: about 15 chapters cover the above; about 25-35 pages to photograph (excluding rows marked written note only, which is most of them).
 
 ## Sources
 
 Pages actually opened:
-- https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Hell's_Paradise:_Jigokuraku (English Wikipedia mirror, March 2026)
-- https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Tamiya_Gantetsusai (Wikipedia mirror, character list)
-- https://ja.wikipedia.org/wiki/地獄楽
-- https://www.commonsensemedia.org/tv-reviews/hells-paradise
-- https://www.viz.com/hell-s-paradise-jigokuraku
-- https://www.viz.com/blog/posts/gods-or-devils (resolved to VIZ vol. 2 product page; rating "Mature")
-- https://comicbookbin.com/jigokuraku001.html
-- https://fictionhorizon.com/hells-paradise-reading-order-all-arcs-volumes/
-- Fan wiki (scene location only): https://jigokuraku.fandom.com/wiki/Volume_3?oldid=7369 ; https://jigokuraku.fandom.com/wiki/Chapter_1 ; https://jigokuraku.fandom.com/wiki/Chapter_41?oldid=3334 ; https://jigokuraku.fandom.com/wiki/Chapter_123 ; https://jigokuraku.fandom.com/wiki/Lord_Tensen ; https://jigokuraku.fandom.com/wiki/Gabimaru ; https://jigokuraku.fandom.com/wiki/Yamada_Asaemon_Sagiri ; https://jigokuraku.fandom.com/wiki/Mei ; https://jigokuraku.fandom.com/wiki/H%C5%8Drai_Arc?oldid=7727
-- TV Tropes (facts only): https://tvtropes.org/pmwiki/pmwiki.php/Manga/HellsParadiseJigokuraku ; https://www.tvtropes.org/pmwiki/pmwiki.php/Characters/HellsParadiseJigokuraku (first 100,000 characters)
-- https://animefeminist.com/hells-paradise-episode-1
-- https://kotaku.com/hell-s-paradise-manga-shonen-jump-seinen-yuji-kaku-horr-1848618482
-- https://inbetweendrafts.com/hells-paradise-review-the-samurai-and-the-woman-explores-gender/
-- https://epicstream.com/article/gender-and-hells-paradise-female-characters
-- https://epicstream.com/article/who-dies-and-who-survives-hell-paradise
-- https://www.animenewsnetwork.com/this-week-in-anime/2023-05-25/.198374
-- https://www.animenewsnetwork.com/cms/.234283
+- https://en.wikipedia.org/wiki/Hell%27s_Paradise:_Jigokuraku (raw wikitext)
+- https://en.wikipedia.org/wiki/Yuji_Kaku (raw wikitext)
+- AniList API, media id 100994 (graphql.anilist.co)
+- MangaUpdates API, series 61508275290 (api.mangaupdates.com)
+- https://www.viz.com/hell-s-paradise-jigokuraku (no rating shown)
+- https://www.viz.com/manga-books/manga/hell-s-paradise-jigokuraku-volume-1-0/product/6210 (Mature, VIZ Signature)
+- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=46545 (17+)
+- https://jigokuraku.fandom.com (through its API; facts only): Gabimaru; Yui; Nurugai; Mei; Chapter 1, 2, 3, 15, 124-127; chapters 7-28 and 30-75 searched for key scenes
 - https://www.animenewsnetwork.com/interview/2025-09-10/no-character-is-safe-in-hell-paradise/.228574
+- https://animefeminist.com/hells-paradise-episode-1
+- https://www.animenewsnetwork.com/review/hell-paradise/episodes-1-3/.197262
+- https://inbetweendrafts.com/hells-paradise-review-the-samurai-and-the-woman-explores-gender/
+- https://comicbook.com/anime/news/hells-paradise-anime-censors-manga
+- https://sportskeeda.com/anime/is-nurugai-a-boy-or-a-girl-in-hell-s-paradise-explained
+
+Found in search, not opened (fetch cap reached or not prioritized):
+- https://www.publishersweekly.com/9781974713202
+- https://comicbookbin.com/jigokuraku001.html
+- https://animeuknews.net/2020/03/hells-paradise-jigokuraku-volume-1-review
+- https://butwhytho.net/2023/05/interview-subverting-shonen-tropes-with-gabimaru-and-sagiri
 - https://animecorner.me/interview-hells-paradise-creator-yuji-kaku-anime-producer-kirito-iwashita/
-- https://myanimelist.net/manga/112318/Jigokuraku/reviews
-- https://beneaththetangles.com/tag/hells-paradise/
-- https://beneaththetangles.com/2026/01/12/first-impression-hells-paradise-s2/
-
-Found in search results but not opened (titles only; content not verified):
-- Reactor, "Beast, Humane, Beauty, Grotesque" (fetch failed): https://reactormag.com/beast-humane-beauty-grotesque-the-compelling-contradictions-of-hells-paradise/
-- Comicbook, Tenza's death in episode 8: https://comicbook.com/anime/news/hells-paradise-episode-8-tenza-death-anime-poster
-- Comicbook / Sportskeeda, *Berserk* influence: https://comicbook.com/anime/news/hells-paradise-creator-berserk-influence-interview
-- Epicstream, creator's influences: https://epicstream.com/article/hells-paradise-creator-manga-and-movies-that-inspired-him
-- Anime Hunch, original detention-center setting: https://animehunch.com/jigokuraku-hells-paradises-original-setting-involved-child-detention-centre-lawyers-manga-author-reveals/
-- Publishers Weekly vol. 1: https://www.publishersweekly.com/9781974713202
-- Anime UK News vol. 1: https://animeuknews.net/2020/03/hells-paradise-jigokuraku-volume-1-review
-- But Why Tho vol. 13: https://butwhytho.net/2022/02/24/advanced-review-hells-paradise-jigokuraku-volume-13/
-- GamesRadar, season 2: https://www.gamesradar.com/entertainment/anime-shows/hells-paradise-season-2-cements-this-anime-as-an-overlooked-masterpiece-unlike-any-other/
-- JRFM journal article (religion and media): https://jrfm.eu/index.php/ojs_jrfm/article/download/321/286
-- Plugged In anime primer (general): https://www.pluggedin.com/blog/what-is-anime-a-parents-primer/
-- ANN encyclopedia: https://www.animenewsnetwork.com/encyclopedia/manga.php?id=23221
-- Fan wiki, Chapter 14 and 65: https://jigokuraku.fandom.com/wiki/Chapter_14?oldid=3263 ; https://jigokuraku.fandom.com/wiki/Chapter_65?oldid=6816
-
-Not reached: the fan wiki's chapter list and volume pages (fetch errors), Pixiv Encyclopedia, Nico Nico Daihyakka, AniList, Reddit; no Plugged In or conservative-outlet review exists in search results.
+- https://www.denofgeek.com/tv/hells-paradise-is-an-anime-classic-in-the-making/
+- No Common Sense Media, Plugged In or Christian review found in search.
 
 ## Full-read review checklist
 
-- [ ] Confirm VIZ's "Mature" rating on the vol. 1 back cover and record the per-volume chapter ranges from each volume's contents page. Affects Series facts and the chapter map.
-- [ ] Ch. 1 (v1): how graphic the execution attempts are; whether Yui's burned face appears in the manga or only in the anime. Affects Violence and Family theme.
-- [ ] Ch. 14-15 (v2): Rokurōta's killings, Sagiri's beheading of him and her apology; the clan-sexism dialogue. Affects Violence and Gender.
-- [ ] Find the chapters where the Tensen's sexual cultivation is shown or described; note how explicit the panels are and whether the Tao Fa and Ju Fa pairing is framed as siblings. Affects Sexuality (7).
-- [ ] Find Mei's backstory chapter; confirm how her punishment and the "training" are shown (implied or depicted) and how the story frames it. Affects Sexuality, Mental health and several Depiction concern rows.
-- [ ] Find the Dōshi scene where they plan to use Mei and the Rien and Chōbei scene. Affects Sexuality and the Winners table.
-- [ ] Count bare-breast panels in 3-4 sampled volumes and compare with the anime. Affects Sexuality.
-- [ ] Find the chapters introducing deity-faced monsters, nenbutsu-chanting tree-people, the Rite of Just Consumption and the Tensen's Buddhist titles; record the VIZ English titles. Affects the Religion theme, Buddhist and Pentecostal rows.
-- [ ] Find the convict Moro Makiya's flashback and confirm whether the text calls him an apostate Christian priest. Affects the Christian lens.
-- [ ] Ch. 41-43 (v5): Senta's death and the flower body horror. Affects Fear (8).
-- [ ] Find Tenza's death chapter and Gabimaru's self-immolation chapter. Affects Mental health (6) and the chapter table.
-- [ ] Hōrai arc: Fuchi's death, Gantetsusai's self-blinding, Chōbei's self-stabbing. Affects Violence and Mental health.
-- [ ] Ch. 120 and 123: Sagiri's doubt line and Rien's end. Resolve the conflict between the fan wiki pages on whether Shugen or Gabimaru destroys Jofuku's body. Affects the essay and Winners table.
-- [ ] Ch. 126-127: confirm the pardons and how the shogunate is told of the convicts' fates; Gabimaru's reunion with Yui. Affects Winners table.
-- [ ] Spot-check VIZ profanity in 3-4 chapters. Affects Language (3).
-- [ ] Read the author's notes in each volume and the fan book *Kaitai Shinsho* for statements of intent on religion and themes. Affects Creator context.
-- [ ] Look for an official character popularity poll (volume extras, Jump+). Affects Fan favorites.
-- [ ] Open the Reactor essay, Publishers Weekly review and any Christian or conservative review published for season 2 (2026). Affects How readers took it.
+- [ ] Ch. 11 (v2): Nurugai (age 12) undressing in front of Tenza. Confirm exactly what is drawn (full nudity, partial, from behind, obscured) and the framing. Written note only. Decides the adult flag and every frame's Depiction concern.
+- [ ] Ch. 21-22 (v3): Mei (child body) undressed and bathed. Confirm what is drawn. Written note only. Decides the adult flag.
+- [ ] Scan every Nurugai and Mei chapter for any other nudity or sexualized framing; none beyond ch. 11 and 21-22 was reported in sources opened. Written note only.
+- [ ] Ch. 33, 35, 56 and 72: Bōchū Jutsu; confirm how explicit the ritual sex is. Written note only. Affects Sexuality (7).
+- [ ] Ch. 1 and early chapters: Sagiri's nudity among corpses; confirm. Written note only.
+- [ ] Confirm Gabimaru's and Yui's ages (Yui 17 per fan wiki) and the bath memory in ch. 22. Affects Sexuality.
+- [ ] Confirm Yuzuriha's fan service and its frequency. Affects Sexuality.
+- [ ] Spot-check VIZ language in 3-4 chapters. Affects Language (3).
+- [ ] Ch. 126-127: confirm the ending details (Yui, the chief's fate, the faked deaths). Affects Outlook and Winners.
+- [ ] Read Kaku's author notes and the fan book Kaitai Shinsho interview for theme statements. Affects Creator context.
+- [ ] Open the not-opened sources (Publishers Weekly, Comic Book Bin, the interviews). Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

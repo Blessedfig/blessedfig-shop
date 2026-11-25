@@ -1,170 +1,174 @@
-# Jujutsu Kaisen 0 (Gege Akutami)
+# Jujutsu Kaisen 0
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: medium for series facts, the overall plot and the four chapter titles (Wikipedia and the Jujutsu Kaisen Fandom wiki, both opened); low to medium for which of the four chapters holds each scene. Most content detail comes from parent guides to the 2021 film adaptation (Common Sense Media, Plugged In), which follows the manga closely but adds scenes; film-only details are labeled. The Fandom wiki's Yuta page gave page-level citations for a few scenes (ch. 0-1 p. 16; ch. 0-2 pp. 6-7, 35; ch. 0-4 pp. 8-11, 30-35, 43-44). Anything from memory is marked "(from general knowledge; to verify)" or "likely." Facts are kept consistent with the main *Jujutsu Kaisen* entry (/mnt/project-files/manga-entries/jujutsu-kaisen.md).
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 15 lookups). The work is complete: four chapters (ch. 0-1 to 0-4) serialized in Jump GIGA in 2017 and collected as a single volume in 2018; VIZ published it in English on January 5, 2021. Series facts, creator statements and reception come from English Wikipedia (the Jujutsu Kaisen 0 article), the AniList and MangaUpdates APIs and VIZ's product page (rating). Plot detail comes from a fan-written plot summary of the 2021 film adaptation (themoviespoiler.com; facts only), which follows the manga closely; where the film and manga may differ this entry says so. Reviews and guides opened: Kevin Cormack's ANN retrospective review of the manga, Common Sense Media's reviews of the film and of the Jujutsu Kaisen TV series. The Jujutsu Kaisen fan wiki blocked automated access, so chapter placement within the four chapters is from general knowledge and marked "likely." Plugged In's film review was found but would not load. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Jujutsu Kaisen 0 (English). Japanese: 呪術廻戦 0 東京都立呪術高等専門学校 (Jujutsu Kaisen Zero: Tōkyō Toritsu Jujutsu Kōtō Senmon Gakkō, "Tokyo Metropolitan Curse Technical School"). The volume is subtitled *Blinding Darkness* (Mabushii Yami) (Wikipedia). |
-| Creators | Gege Akutami (story and art). Pen name; same author as *Jujutsu Kaisen*. |
-| Origin | Jump GIGA (Shueisha), a Jump special issue; shonen (boys') demographic. Four chapters, April 28 to July 28, 2017: "The Cursed Child," "Deeply Blackened," "The Punishment for Being Weak," "A Bright Darkness." First titled *Tokyo Metropolitan Curse Technical School*; renamed as the prologue to *Jujutsu Kaisen* after the main series began in Weekly Shonen Jump in March 2018. One volume, December 4, 2018 (released with *JJK* vol. 3). Complete (Wikipedia; MyAnimeList). |
-| English edition | Viz Media, January 5, 2021; one volume, about 200 pages (ANN encyclopedia). Publisher age rating: T+ (Older Teen) (from general knowledge; to verify on viz.com or the back cover; library catalog pages found but not opened). Volumes: 1 in Japan, 1 in English. ANN's encyclopedia tags it "Objectionable content: Significant." |
-| Anime | Film *Jujutsu Kaisen 0*, MAPPA, directed by Sunghoo Park. Japan December 24, 2021; US and Canada March 18, 2022 (Crunchyroll). Highest-grossing Japanese film of 2021 (about ¥13.75 billion in Japan). MPA rating PG-13 for "violent content, bloody images, language, thematic material and some suggestive references" (Common Sense Media page). Also a novel (2021) and a stage play (2024-2025) (Wikipedia). |
-| Recognition | Over 1.9 million copies sold in Japan by November 2021 (Oricon, per Wikipedia). New York Times graphic books list (13th, January 2022). ICv2: seventh best-selling volume of 2023 in North America. Film: Best Anime, 44th Anime Grand Prix; Best Film, 7th Crunchyroll Anime Awards; nominated, Japan Academy Film Prize (Wikipedia). MyAnimeList manga score 8.03, popularity #118. |
-| Other guides | Common Sense Media (film): 14+; parents' average 14+ (7 reviews), kids' average 12+ (30 reviews). Plugged In (film): heavy violence, sorcery themes, suicide attempt mentioned. ScreenWise has a guide titled for *Jujutsu Kaisen 0* (found, not opened). Main-series anime: Common Sense Media 15+, TV-MA. |
+| Title | Jujutsu Kaisen 0. Japanese: 呪術廻戦 0 東京都立呪術高等専門学校 (Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou); first serialized as Tokyo Metropolitan Curse Technical School (Wikipedia; AniList id 105469, confirmed) |
+| Creators | Gege Akutami (story and art), the pen name of the creator of Jujutsu Kaisen (2018-2024); Akutami has not disclosed personal details (from general knowledge; to verify). Akutami named Naruto as an influence (Wikipedia) |
+| Origin | Jump GIGA (Shueisha), a seasonal shonen magazine, April 28 to July 28, 2017, four chapters; renamed and collected as Jujutsu Kaisen vol. 0 on December 4, 2018, after the main series launched. **Complete.** A prequel to Jujutsu Kaisen (Wikipedia) |
+| English edition | VIZ Media (Shonen Jump), January 5, 2021, 199 pages. Publisher rating: **Teen Plus (T+)** (VIZ product page) |
+| Adaptation | Anime film by MAPPA, dir. Sunghoo Park, released in Japan December 24, 2021; novelization by Baraddo Kitaguni from Hiroshi Seko's script; stage play December 2024 to January 2025 (Wikipedia). Film rated PG-13 in the US (from general knowledge; to verify) |
+| Recognition | Over 1.9 million copies sold by November 2021 (Oricon); on the New York Times graphic books list (2022) and ICv2's seventh best-selling volume of 2023 (Wikipedia). Database scores: AniList average 79 (about 73,000 members); MangaUpdates 7.47 (Bayesian, 263 votes) |
+| Other guides | Common Sense Media (film, Tara McNamara): 14+; gory fights, a sword through an eye, a child's death in a car accident, suicide talked about as a solution more than once, mild-to-moderate profanity. Common Sense Media (Jujutsu Kaisen TV series): 15+. Plugged In reviewed the film (found, not opened). AniList tags: Demons, Body Horror, Bullying, Exorcism, Curses |
 | Entry tier | From summaries |
 
-**Premise.** Yuta Okkotsu is a timid 16-year-old haunted by Rika Orimoto, his childhood friend, who died in a traffic accident six years earlier. As children they promised to marry. Rika now follows him as a huge Cursed Spirit and kills or maims anyone who hurts him, starting with bullies (ch. 0-1). In November 2016, Satoru Gojo brings Yuta to Tokyo Jujutsu High instead of letting him be executed, so he can learn to control Rika. He trains with Maki Zenin, Toge Inumaki and Panda. Suguru Geto, Gojo's former best friend, now leads a religious group as a cover and wants to kill all non-sorcerers. He declares the "Night Parade of a Hundred Demons" on Shinjuku and Kyoto for December 24 as a feint, then attacks the school to take Rika. Yuta promises Rika himself if she helps him win; Geto is beaten, then executed by Gojo. Gojo reveals the twist: Rika never cursed Yuta. Yuta cursed Rika when she died, by refusing to let her go, using power inherited from his ancestor Sugawara no Michizane. The curse is broken, Rika passes on in peace and asks Yuta to live his life (Wikipedia; Fandom wiki, ch. 0-4 pp. 43-44).
+**Premise.** Yuta Okkotsu, 16, is haunted by Rika Orimoto, the childhood friend who died in a car accident when they were about ten, the day she gave him a ring and they promised to marry. Rika's curse protects him violently: when four classmates bully him, she injures them grievously (ch. 0-1). The jujutsu authorities want Yuta executed; he has already tried to end his own life and been stopped by Rika, and wants only to be left alone. Satoru Gojo, a teacher at Tokyo Jujutsu High, enrolls him instead, alongside Maki Zen'in, Toge Inumaki and Panda. Yuta trains, learns to channel Rika through a sword and finds friends (ch. 0-1 to 0-2). Suguru Geto, Gojo's former best friend, now leads a fake religious group that takes money to "cure" curses and kills those who stop paying; he believes sorcerers should rule and that ordinary humans ("monkeys") should be wiped out. On December 24 he launches a Night Parade of a Hundred Demons in Shinjuku and Kyoto as a diversion and attacks the school to seize Rika (ch. 0-3). Yuta releases Rika fully, tells her he loves her and offers himself to her, and defeats Geto; Gojo then kills his old friend (ch. 0-4). Gojo reveals that Yuta, a descendant of Sugawara no Michizane, cursed Rika by refusing to let her die; when Yuta lets her go, she thanks him and passes on in peace (Wikipedia; film summary).
 
 ## Life message
 
-**A good life is lived for others and with others: love should free the beloved rather than bind them, and a wounded person can turn their pain into protecting people.** Yuta moves from wanting to die to wanting to be needed and to live (The Mary Sue; Plugged In). Plugged In quotes the film's version of Gojo's lesson: "The curse placed upon you is one that can save people, too, depending on how it's used." The book's frame, "There's no curse more twisted than love" (Gojo; ch. 0-1 p. 16 per the Fandom wiki, paraphrased there; exact Viz wording to verify), is answered at the end when Yuta's clinging love is released (ch. 0-4).
+**Love that clings becomes a curse: a good life lets the dead go with gratitude, lives on for the living, and uses one's strength to protect friends and strangers rather than to rule over those who are weaker.**
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | Pair-bonding taken to an extreme: a child's promise to marry outlives death and turns protective love into lethal guarding. Group belonging (Yuta's classmates) replaces the lost bond. Geto's plan is a "species" war: sorcerers as a superior kind who should replace ordinary humans. |
-| Pragmatic | Power is useful or deadly depending on control. The jujutsu higher-ups order Yuta's execution as a risk; Gojo bets on training him instead. Geto's Night Parade is a calculated feint (he gives himself about 30% odds, per Animehunch, film-based). |
-| Religious | Curses are born from human negative emotion; a Shinto onryo figure (Sugawara no Michizane, historically deified as Tenjin after being feared as a vengeful spirit) is named as Yuta's ancestor (Wikipedia; Tenjin detail from general knowledge; to verify). Geto dresses as a monk and runs a "false religious organization" (Akutami, per Wikipedia's Geto article). Attachment that will not let the dead go is the true curse, a theme readers may connect to Buddhist teaching on clinging (this entry's framing). No god acts. |
-| Socio-cultural | A school as a found family for a bullied, isolated teen. A closed jujutsu elite would rather kill a dangerous boy than help him. Death and grief drive the story; romance is a childhood promise, not teen dating. |
+| Evolutionary biology | A boy bonded to a lost mate; a protective spirit that kills rivals; a band of young fighters who become a family. Geto's creed is a caricature of group selection: one kind of human should replace the other. |
+| Pragmatic | Training works: Yuta goes from helpless to capable in three months (Wikipedia). Geto's fraud is a business model (fees for false cures). |
+| Religious | Built on Japanese spirit lore: curses born of negative emotion, the vengeful-spirit tradition, and Sugawara no Michizane, a ninth-century scholar who was feared as a vengeful spirit and later honored as the god Tenjin (from general knowledge; to verify). Organized religion appears as Geto's fraudulent group. Faith readers will weigh spirit-binding as the hero's power against a strong message about letting the dead rest. |
+| Socio-cultural | School bullying (ch. 0-1); a cold elite that would execute a troubled teen; Geto's supremacist ideology; found family as the answer (ANN; Common Sense Media). |
+
+Outlook: Hopeful — a boy who wanted to die chooses to live, his friends survive, and Rika passes on in peace asking him not to hurry after her; the sorrow is Geto's death at his old friend's hand.
+Hope source: F — the story's way through is friends and community: Yuta finds a reason to live in his classmates and teacher; love between two (L) is the bittersweet second, honored by being released.
 
 ## Content scores
 
-Overall content level: 7 out of 10 (set by violence and fear/intensity). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 7 out of 10** (set by Violence and by Fear and intensity). Content scores measure intensity only: higher = more of it, not better or worse.
 
-| Category | Intensity (0 to 10) | Frequency | Framing | Evidence |
+| Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 7 | Frequent | Shown with consequences | Rika crushes bullies and stuffs one into a locker (ch. 0-1; Plugged In film, Beneath the Tangles: "bullies being torn apart"). Sorcerers eaten or crushed by curses; Geto kills guards; Panda impaled; Geto wounds Maki, Panda and Toge severely (ch. 0-3 to 0-4 likely). Night Parade battles in Shinjuku and Kyoto. Common Sense Media (film): "swords through eyeballs," "a face being ripped off," "pools of blood." Geto loses an arm; Gojo executes him (ch. 0-4, Wikipedia). A child is killed in a car accident (Rika, flashback). |
-| Fear and intensity | 7 | Frequent | Shown with consequences | Rika's monstrous form (Beneath the Tangles: "The creepy factor is strong with this one"); grotesque curses (Plugged In). Yuta held in solitary confinement under a death sentence (ch. 0-1; from general knowledge; to verify). Geto's mass curses (a "thousand curses" threat). |
-| Sexuality and romance | 2 | Rare | Neutral | The core bond is two children who promised to marry; Rika still treats Yuta as her fiancé (Common Sense Media: "children falling in love and getting engaged"). Beneath the Tangles finds the "partly romantic" undertones of a child-like creature toward Yuta uncomfortable. Film only (to verify for manga): a breast-size joke, a short skirt nearly showing underwear, a shirtless man with hearts over his nipples, a monster rubbing against a teen girl, and a girl's curse giving her dreams of rape (Plugged In; Common Sense Media). No nudity or sex in the manga is reported (to verify). |
-| Language | 4 | Occasional | Neutral | Film subtitles (Plugged In): the s-word four times, "d--n" eight times, "G--d--n" twice, Jesus' name misused once. Common Sense Media: teen characters say "s--t" frequently. Viz print wording to verify. |
-| Substances | 1 | Rare | Neutral | Film: empty liquor bottles in an alley; Toge uses throat medicine after using his cursed speech (Plugged In). Common Sense Media lists none. |
-| Mental health and self-harm | 6 | Recurring | Shown with consequences | Yuta says he once tried to end his life and Rika stopped him; he offers to die to be with her (Plugged In; The Mary Sue). Survivor's guilt and isolation after Rika's death; bullying. Film: a mother tells her daughter she wishes she had never had her (Plugged In; manga to verify). Yuta's arc moves from wanting to die toward valuing his life (Wikipedia's Yuta article, citing The Mary Sue). |
-| Imitable behavior | 3 | Occasional | Neutral | Sword training; "I'll give you everything" vow to a spirit; cursed-speech catchphrases (Toge's rice-ball words). |
-| Commercial | 3 | Background (franchise) | Neutral | Large film tie-ins: Uniqlo collaboration (ANN encyclopedia), café events, stage play, an alternate cover with Yuta and Yuji (Wikipedia). |
+| Violence | 7 | Frequent | Shown with consequences | Rika grievously injures four bullies (ch. 0-1). Curses devour and maim; Common Sense Media (film) notes gory animated fights and a sword through an eye. Geto is said to have cursed more than 100 people to death and kills clients who stop paying (film summary; likely ch. 0-2). He severely wounds Panda, Inumaki and Maki (ch. 0-3 to 0-4). Geto loses an arm; Gojo kills him (ch. 0-4; Wikipedia). AniList tags Body Horror. |
+| Fear and intensity | 7 | Frequent | Shown with consequences | Rika's monstrous curse form; a horde of curses in Shinjuku and Kyoto (ch. 0-3); a child's death in a car accident (flashback; Common Sense Media). Monster imagery throughout. |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 2 | Rare | Neutral | A childhood promise to marry and an engagement ring (ch. 0-1, 0-4); in the climax Yuta tells Rika he loves her, and a kiss is implied (film summary; manga to verify). Common Sense Media (film): a joke about breast size. No fan service reported. |
+| Language | 4 | Occasional | Neutral | Common Sense Media (film): "damn," "goddammit," "s--t." Geto calls non-sorcerers "monkeys." VIZ text not checked (to verify). |
+| Substances | 1 | Rare | Neutral | None reported. Inumaki's throat spray is medicine. |
+| Mental health and self-harm | 6 | Recurring | Shown with consequences | Yuta had tried to kill himself with a knife and was stopped by Rika; he isolates himself and wants to die (ch. 0-1; film summary). Common Sense Media: suicide is discussed as a solution more than once. He comes to want to live and be needed (ch. 0-1 to 0-2). Grief that will not let go is the central theme. Backstory: Nanako and Mimiko were abused and imprisoned as children by their village (film summary). |
+| Imitable behavior | 3 | Occasional | Neutral | Sword and staff training; nothing realistic to copy beyond fighting. |
+| Commercial | 3 | Background (franchise) | Neutral | Part of a major franchise: a hit film, stage play, cafe events and merchandise (Wikipedia). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Recurring | The higher-ups order Yuta's execution; Gojo shields him. The school class becomes a found family. Maki trains to prove herself against her clan's contempt (from general knowledge; to verify how much vol. 0 shows). Geto treats two girls he rescued (Nanako and Mimiko) as daughters while planning mass murder (from general knowledge; to verify on page). |
-| Religion and spirituality | Central | Curses, cursed speech, binding vows and spirit-bonds are the story's mechanics. Geto masquerades as a monk and leads a false religious group that takes believers' money while gathering curses (Wikipedia; Animehunch: he gathered curses "while pretending to cure non-shamans"). Sugawara no Michizane, a historical figure revered in Shinto as Tenjin, is named as Yuta's ancestor (Wikipedia). |
-| Gender and identity (incl. LGBTQ) | Incidental | Common Sense Media: "male and female characters are portrayed as equally strong," and the protagonist is "a sensitive, caring boy." Maki is the strongest fighter among the students without cursed energy (from general knowledge; to verify). No LGBTQ content reported. |
-| Politics and social issues | Recurring | Geto's supremacist ideology: non-sorcerers are lesser (Plugged In: he calls them "monkeys") and should be wiped out to stop curses from being born (Wikipedia). Bullying. An elite that executes the dangerous rather than helping them. |
+| Family and authority | Recurring | Gojo is a protective teacher who defies the elders' death sentence (ch. 0-1); the jujutsu higher-ups are cold; the class becomes a family. |
+| Religion and spirituality | Central | Curses, spirits of the dead, exorcism; Sugawara no Michizane; Geto's fraudulent religious group; monk-like robes worn by the villain (to verify in manga). |
+| Gender and identity (incl. LGBTQ) | Incidental | Maki, who cannot see curses without glasses, fights as well as anyone (film summary); no LGBTQ content reported. |
+| Politics and social issues | Recurring | Geto's supremacist ideology; bullying; an elite that would execute a troubled teen. |
 
-**Virtues shown:** courage, self-sacrifice, loyalty to friends, accepting help, honesty about grief, letting go of the dead, patience in training, mercy (Geto spares the students only because Gojo is his friend; Gojo thanks him for that), keeping a promise.
+**Virtues shown:** courage, loyalty, friendship, love that lets go, gratitude, protecting the weak, perseverance in training, honesty about guilt (Yuta's apology to Rika, ch. 0-4).
 
 ## Family frames
 
-Each row summarizes how parents within that tradition might read the volume, in the tradition's own terms, drawing on the per-frame guides in /mnt/project-files/frame-guides/. Grades are each tradition's view, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself; intensity for age stays in Content scores. All frame guides are drafts from general knowledge, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: love that binds is shown as a curse and love that releases as healing; a suicidal teen learns to live; a supremacist cult leader posing as a monk is defeated; the hero's power is a bound spirit of a dead girl and he offers it his soul; a Shinto onryo-turned-deity is his ancestor; on the page: violence 7, fear 7, mental health 6. Grades are kept consistent with the main *Jujutsu Kaisen* entry; this volume lacks the Mei Mei material and the long Shibuya despair, and its fake-religion villain is plainly condemned.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a bullied, suicidal teenager who learns to want to live (ch. 0-1 to 0-2); a protective spirit of a dead girl bound to him as his power; a vow of love and of himself to that spirit in the climax (ch. 0-4); a fraudulent religious leader who preaches the extermination of non-sorcerers and is defeated (ch. 0-2 to 0-4); bloody fantasy violence; the release of the dead girl in peace (ch. 0-4); and a teacher who kills his former best friend (ch. 0-4). No sexual content involving a minor was reported in sources opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Significant | Love that lets go; a despairing teen comes to value his life; friends and a mentor who protect him; a false religious leader exposed. | Sorcery and a spirit-bond are the hero's power (CCC 2115-2117 on spiritism, judged here by framing); Yuta offers his soul to a curse; past suicide attempt. | CCC 2280-2283 on suicide and the gift of life; 1 Corinthians 13:4-7 ("love does not insist on its own way") against Rika's possessive love; Inter Mirifica 7. |
-| Eastern Orthodox | C | Significant | Grief, remembrance of the dead and their release; struggle against a deceiver. | Spirits of the dead bound to the living and used in battle treat spiritual reality as a tool; guarding the senses against the gore. | The Fathers on the passions (possessive love as a passion); prayer for the departed versus binding them; St. Basil's canon 13 on killing. |
-| Baptist | C | Significant | Courage, loyalty, a bullied boy finding friends; a cult leader's fraud exposed. | Spirit contact and vows to a curse (Deuteronomy 18:10-12); suicide content. Congregations differ on fantasy magic. | Romans 12:19-21; Ephesians 4:29 on speech; Plugged In's warning about "sorcery themes." |
-| Non-denominational Evangelical | B | Significant | A clear deceiver (fake monk) defeated; sacrificial love; trauma turned to service ("a curse... that can save people," Plugged In). | Occult mechanics; a dead girl's spirit as the hero's weapon. Range is wide on fantasy magic. | John 15:13; Philippians 4:8; Matthew 7:15 on false prophets (Geto's cult). |
-| Pentecostal / Charismatic | D | Significant | Evil is real and must be fought; a false religion exposed. | Media as an "open door": a spirit of the dead attached to a boy, a vow of his soul to it, curses summoned and absorbed are the story's engine. | Ephesians 6:12; Deuteronomy 18:10-12; Assemblies of God teaching on the occult. |
-| Reformed / Presbyterian | B | Discuss | Common grace: love, loyalty and courage shine in a dark world; religious hypocrisy judged. | Occult framework; suicide (WLC Q136, handled pastorally). | Kuyper on common grace; WLC Q135-136; Matthew 23 on religious hypocrisy. |
-| Lutheran | B | Discuss | Law and gospel shapes: Yuta's guilt binds him; release comes from the truth being told and accepted. | Occult themes (Large Catechism on sorcery); LCMS and WELS stricter than ELCA. | Luther on despair; the fifth commandment; vocation: Yuta finds a calling to protect. |
-| Methodist / Wesleyan | B | Discuss | Grace-like turning: a boy who wanted to die chooses to live for others; social holiness in a found community. | Occult; holiness churches more cautious than UMC. | Wesley's General Rules ("do no harm, do good"); discussing Gojo's "save people" lesson as works of mercy. |
-| Anglican / Episcopal | B | Discuss | Grief, remembrance and letting the dead rest; sacrifice; a fantasy tradition with Anglican roots. | Occult system; a false religious group. Episcopal families generally less concerned than ACNA families. | BCP burial rite ("rest eternal") against a dead girl bound to earth; Lewis on imagination; Article 37 on just war. |
-| Anabaptist (Mennonite, Amish, Brethren) | D | Significant | Mutual care; a gentle protagonist; release of grasping love. | Violence as the heroes' calling and climax (Matthew 5:39); occult themes. Conservative groups avoid most popular media. | Schleitheim Confession on the sword; Confession of Faith in a Mennonite Perspective (1995) on peace; is Yuta's vow to fight a loving act? |
-| Latter-day Saint | C | Significant | Covenant-like promise and faithfulness; family-like loyalty; hope after death (Rika passes on in peace). | Spirits of the dead bound to the living and used as weapons; suicide content. | For the Strength of Youth on media; the plan of salvation and the spirit world versus a spirit kept from moving on. |
-| Mainline progressive Protestant | B | Discuss | Bullying, trauma and healing; a found community; critique of an elite that would execute a troubled teen; supremacy defeated. | Suicide content for younger readers; childhood-engagement framing. | Micah 6:8; denominational statements on mental health and on racism and supremacy (compare Geto's "monkeys"). |
-| Seventh-day Adventist | C | Significant | Self-sacrifice; friendship; hope beyond grief. | Spiritualism is rejected; here the dead persist as a conscious spirit bound to the living, the reverse of the Adventist teaching that the dead sleep. | "By beholding we become changed" (2 Corinthians 3:18); Fundamental Belief on death and resurrection; Ecclesiastes 9:5. (from general knowledge; to verify) |
-| Jehovah's Witness | D | Significant | Love among friends; a false religion exposed. | Spiritism and contact with the dead are the core of the story; fighting as the hero's calling. | jw.org's question whether media feature spiritism or violence (Psalm 11:5; Deuteronomy 18:10-12). (from general knowledge; to verify) |
-| Christian Science | C | Significant | The twist that Yuta's own thought (refusal to let go) made the curse fits the teaching that thought shapes experience; love heals. | Death and evil spirits shown as real and overwhelming. | "Stand porter at the door of thought" (Science and Health 392). (from general knowledge; to verify) |
-| Orthodox Jewish | C | Significant | Pikuach nefesh: protecting life; mourning that ends and lets the dead rest. | Necromancy-like bond with the dead (Deuteronomy 18:11) is the hero's power; suicide content. Many Haredi homes restrict such media. | Deuteronomy 18:10-12; the limits of mourning (shloshim, the year); Sanhedrin 4:5. (from general knowledge; to verify) |
-| Conservative Jewish | B | Discuss | Saving life; healthy mourning; a hateful supremacist defeated. | Bond with the dead as a craft; suicide content. | Sanhedrin 4:5; Jewish mourning stages as a frame for letting Rika go. (from general knowledge; to verify) |
-| Reform Jewish | B | Discuss | Human dignity against supremacy ("monkeys"); healing from trauma; tikkun olam through service. | Suicide content; childhood-engagement framing. | Informed autonomy; how mourning can heal or trap. (from general knowledge; to verify) |
-| Muslim | D | Significant | Protecting the weak; patience (sabr); a false religious leader who takes people's money is defeated. | Sihr and binding with a spirit of the dead are the hero's craft; offering one's soul to a spirit; suicide content. | Qur'an 2:102 on sorcery; Qur'an 4:29 on not killing oneself; jinn as real but not to be sought out; Qur'an 49:13 against supremacy. |
-| Hindu | B | Discuss | Duty to protect; release of an attached soul so it can move on; karma-like justice for Geto. | Sacred-adjacent imagery (monk robes, mudras) used for spectacle; gore. | Bhagavad Gita on detachment from the fruits and from clinging; ahimsa; shraddha rites for the dead as a contrast. |
-| Buddhist | B | Discuss | The central twist is about attachment: clinging to the dead creates suffering, and release brings peace. Compassion for all beings answers Geto's hatred. | A man in monk's robes runs a fraudulent group (critiqued, but the image is borrowed); violence and the first precept. | The Second Noble Truth on craving; the Dhammapada on hatred ("hatred is never appeased by hatred"); the Kisa Gotami story on accepting death. |
-| Sikh | B | Discuss | Courage to defend others; ego and hatred (Geto) defeated; seva-like service. | Spirit-binding; little sacred framing. | The five vices (moh, attachment, in Yuta's clinging; ahankar in Geto); the saint-soldier ideal. (from general knowledge; to verify) |
-| Bahá'í | C | Significant | Unity and the oneness of humanity against Geto's supremacy; service. | Strong commitment to non-violence; spirit contact; suicide content. | Oneness of humankind; a "chaste and holy life" and degrading art. (from general knowledge; to verify) |
-| Shinto | B | Discuss | Onryo (vengeful spirits) and their pacification are deep Shinto themes; Sugawara no Michizane, feared as an onryo and later honored as Tenjin, is invoked as Yuta's ancestor; Rika is "purified" and freed. | A revered kami-figure used as a power source in a battle story. | Purification (harae) and pacifying restless spirits; makoto (sincerity). (from general knowledge; to verify) |
-| Wiccan / Pagan | B | Minor | Bonds with spirits shown with responsibility; consent and release of a spirit; a cult leader's abuse of power condemned. | "Harm none" set against lethal guarding; a vow of one's soul. | Ethics of binding versus releasing; power and responsibility. (from general knowledge; to verify) |
-| Scientologist | B | Minor | The Way to Happiness: help others, do not murder; the murderer is defeated. | Trauma and suicide themes, which the Church reads apart from psychiatry. | Which precepts does Yuta live out? (from general knowledge; to verify) |
-| Secular progressive | B | Discuss | A bullied, sensitive boy as hero; women as strong as men (Common Sense Media); supremacy and an elite that would execute a troubled teen are critiqued; trauma turned to care. | Suicide content and safe messaging; romanticized child engagement. | Common Sense Media's 14+; mental-health resources alongside Yuta's story. |
-| Secular humanist | A | Discuss | Meaning comes from relationships and chosen purpose; a teen chooses life; human dignity against supremacy; magic clearly fiction. | Suicide and grief content for younger readers. | Humanist Manifesto III; healthy grief and moving on. |
-| Conservative / traditional | B | Discuss | Duty, sacrifice, loyalty, a faithful promise, good mentors; a clear villain whose ideology is condemned. | The institution (higher-ups) is cold; fan affection for Geto. | Burke on reforming institutions (Gojo's stance); courage versus recklessness. |
-| Unitarian Universalist | B | Discuss | Inherent worth of every person against Geto's supremacy; healing community. | Suicide content; violence. | Who decides who is disposable (higher-ups and Geto alike)? (from general knowledge; to verify) |
-| Satanist | B | Minor | Compassion and bodily autonomy; a fraudulent religious leader exposed (Satanic Temple Tenets 1 and 5); no divine command. | Self-sacrifice for others over self-interest; harm to children in backstory. | Is love that binds another a form of control? (from general knowledge; to verify) |
+| Catholic | B | Significant | Love that lets go; a despairing teen comes to value his life (CCC 2280); friends and a mentor who protect him; a false religious leader exposed. | Binding a spirit of the dead is the hero's power (CCC 2115-2117 on spiritism, judged here by framing); Yuta offers himself to a curse; suicide content handled briefly. | Grief and letting go: how does Rika's release compare with praying for the dead? |
+| Eastern Orthodox | C | Significant | Grief, remembrance of the dead and their release; struggle against a deceiver. | Spirits of the dead bound to the living and used in battle treat spiritual reality as a tool; guarding the senses against gore. | Memory eternal: remembering the dead without holding them back. (from general knowledge; to verify) |
+| Baptist | C | Significant | Courage, loyalty, a bullied boy finding friends; a cult leader's fraud exposed. | Spirit contact and vows to a curse (Deuteronomy 18:10-12); suicide content. Congregations differ on fantasy magic. | Deuteronomy 18:10-12 and fantasy: where do you draw the line? |
+| Non-denominational Evangelical | B | Significant | A clear deceiver defeated; sacrificial love; trauma turned to service. | Occult mechanics; a dead girl's spirit as the hero's weapon. Range is wide on fantasy magic. | "Perfect love casts out fear" (1 John 4:18): which love in the story is fearful, and which is free? |
+| Pentecostal / Charismatic | D | Significant | Evil is real and must be fought; a false religion exposed. | Media as an "open door": a spirit of the dead attached to a boy, a vow of himself to it, and curses summoned and absorbed are the story's engine. | Spiritual warfare: who has authority over spirits in this story, and who should? (from general knowledge; to verify) |
+| Reformed / Presbyterian | B | Discuss | Common grace: love, loyalty and courage shine in a dark world; religious hypocrisy judged. | Occult framework; suicide (WLC Q136, handled pastorally). | Common grace in a pagan world: what goods does the story see clearly? |
+| Lutheran | B | Discuss | Yuta's guilt binds him; release comes when the truth is told and accepted (ch. 0-4). | Occult themes (Large Catechism on sorcery); LCMS and WELS stricter than ELCA. | Confession and release: what frees Yuta and Rika? |
+| Methodist / Wesleyan | B | Discuss | A boy who wanted to die chooses to live for others; social holiness in a found community. | Occult; holiness churches more cautious than UMC. | From isolation to community: Wesley's class meetings and Yuta's class. (from general knowledge; to verify) |
+| Anglican / Episcopal | B | Discuss | Grief, remembrance and letting the dead rest; sacrifice; a fantasy tradition with Anglican roots. | Occult system; a false religious group. Episcopal families generally less concerned than ACNA families. | The prayer "rest eternal grant unto them" beside Rika's passing. (from general knowledge; to verify) |
+| Anabaptist (Mennonite, Amish, Brethren) | D | Significant | Mutual care; a gentle protagonist; release of grasping love. | Violence as the heroes' calling and climax (Matthew 5:39); occult themes. Conservative groups avoid most popular media. | Could Yuta have protected his friends without a sword? (from general knowledge; to verify) |
+| Latter-day Saint | C | Significant | Covenant-like promise and faithfulness; family-like loyalty; hope after death (Rika passes on in peace). | Spirits of the dead bound to the living and used as weapons; suicide content. | The worth of a soul and the choice to live (D&C 18:10). (from general knowledge; to verify) |
+| Mainline progressive Protestant | B | Discuss | Bullying, trauma and healing; a found community; critique of an elite that would execute a troubled teen; supremacy defeated. | Suicide content for younger readers; childhood-engagement framing. | Who decides whether a troubled teen is a danger or a person to help? |
+| Seventh-day Adventist | C | Significant | Self-sacrifice; friendship; hope beyond grief. | Here the dead persist as a conscious spirit bound to the living, the reverse of the Adventist teaching that the dead sleep (Fundamental Belief 26). | What does the story believe about the dead, and what do we? (from general knowledge; to verify) |
+| Jehovah's Witness | D | Significant | Love among friends; a false religion exposed. | Spiritism and contact with the dead are the core of the story; fighting as the hero's calling. | jw.org on spiritism and entertainment. (from general knowledge; to verify) |
+| Christian Science | C | Significant | The twist that Yuta's own refusal to let go made the curse fits the teaching that thought shapes experience; love heals. | Death and evil spirits shown as real and overwhelming. | Yuta's grief made the curse: what does that say about the power of thought? (from general knowledge; to verify) |
+| Orthodox Jewish | C | Significant | Pikuach nefesh: protecting life; mourning that ends and lets the dead rest. | A necromancy-like bond with the dead (Deuteronomy 18:11) is the hero's power; suicide content. Many Haredi homes restrict such media. | Mourning has an end (shiva, shloshim, the year): why must Yuta let Rika go? (from general knowledge; to verify) |
+| Conservative Jewish | B | Discuss | Saving life; healthy mourning; a hateful supremacist defeated. | Bond with the dead as a craft; suicide content. | Every life a world (Sanhedrin 4:5) beside Geto's "monkeys." (from general knowledge; to verify) |
+| Reform Jewish | B | Discuss | Human dignity against supremacy; healing from trauma; tikkun olam through service. | Suicide content; childhood-engagement framing. | What makes Geto's idea of "chosen" people dangerous? (from general knowledge; to verify) |
+| Muslim | D | Significant | Protecting the weak; patience (sabr); a false religious leader who takes people's money is defeated. | Sihr and binding with a spirit of the dead are the hero's craft; offering oneself to a spirit; suicide content. | Sabr in grief, and the Qur'an's warning against sorcery (2:102). |
+| Hindu | B | Discuss | Duty to protect; release of an attached soul so it can move on; karma-like justice for Geto. | Sacred-adjacent imagery used for spectacle; gore. | Attachment (moha) and release: why must Rika move on? (from general knowledge; to verify) |
+| Buddhist | B | Discuss | The central twist is about attachment: clinging to the dead creates suffering, and release brings peace. Compassion answers Geto's hatred. | A villain in monk-like robes runs a fraudulent group (critiqued, but the image is borrowed); violence and the first precept. | Upadana (clinging) and Rika's release. |
+| Sikh | B | Discuss | Courage to defend others; ego and hatred (Geto) defeated; service. | Spirit-binding; little sacred framing. | Seva and courage: who does Yuta learn to serve? (from general knowledge; to verify) |
+| Bahá'í | C | Significant | Unity and the oneness of humanity against Geto's supremacy; service. | Strong commitment to non-violence; spirit contact; suicide content. | The oneness of humanity beside Geto's two kinds of people. (from general knowledge; to verify) |
+| Shinto | B | Discuss | Vengeful spirits and their pacification are deep Shinto themes; Sugawara no Michizane, feared as a vengeful spirit and later honored as Tenjin, is invoked. | A revered kami-figure used as a power source in a battle story. | Why was Michizane enshrined as Tenjin? Compare Rika's peaceful passing. (from general knowledge; to verify) |
+| Wiccan / Pagan | B | Minor | Bonds with spirits shown with responsibility; consent and release of a spirit; a cult leader's abuse of power condemned. | "Harm none" set against lethal guarding; a vow of oneself. | Honoring the dead and letting them go. (from general knowledge; to verify) |
+| Scientologist | B | Minor | The Way to Happiness: help others, do not murder; the murderer is defeated. | Trauma and suicide themes, which the church reads apart from psychiatry. | Which precepts does Geto break? (from general knowledge; to verify) |
+| Secular progressive | B | Discuss | A bullied, sensitive boy as hero; capable women fighters; supremacy and an elite that would execute a troubled teen are critiqued. | Suicide content and safe messaging; romanticized child engagement. | What does Geto's "monkeys" talk have in common with real-world supremacist language? |
+| Secular humanist | A | Discuss | Meaning comes from relationships and chosen purpose; a teen chooses life; human dignity against supremacy; magic clearly fiction. | Suicide and grief content for younger readers. | What gives Yuta a reason to live? |
+| Conservative / traditional | B | Discuss | Duty, sacrifice, loyalty, a faithful promise, good mentors; a clear villain whose ideology is condemned. | The institution (higher-ups) is cold; fan affection for Geto. | What does Gojo show about being a good mentor? |
+| Unitarian Universalist | B | Discuss | Inherent worth of every person against Geto's supremacy; a healing community. | Suicide content; violence. | Inherent worth versus Geto's ranking of people. (from general knowledge; to verify) |
+| Satanist | B | Minor | Compassion and bodily autonomy; a fraudulent religious leader exposed (Satanic Temple tenets); no divine command. | Self-sacrifice for others over self-interest; harm to children in backstory. | Is Geto's group a religion or a con? (from general knowledge; to verify) |
+| Historically Black Protestant | C | Significant | A bullied, despairing boy lifted up by a community; a false prophet who preaches contempt for ordinary people defeated; hope after grief. | Spirits of the dead and curses as the hero's power, which Holiness and Pentecostal families may see as spiritually real; suicide content; gore. | "Weeping may endure for a night, but joy comes in the morning" (Psalm 30:5) beside Yuta's story. |
+| Atheist | A | Discuss | A fraudulent religious leader who takes money for false cures is exposed; meaning comes from friendship and chosen purpose; spirits are fantasy furniture. | Violence and suicide content for younger readers. | How did Geto's followers get fooled, and how could they have checked? |
+| Agnostic | A | Discuss | Gentle about the big questions: grief, love and what happens after death are handled with humility; no preaching. | A charismatic leader demanding devotion appears, though as the villain. | Where do you think Rika goes, and does the story need to say? |
+| Nothing in particular | A | Discuss | Loyalty to friends, a loved one who protects from beyond, a peaceful farewell, hope. | Gore and suicide content may be heavy for younger readers. | Have you ever had to let go of something you loved? |
 
-**Where traditions disagree.** The main divide is the spirit-bond at the center: Yuta's power is the bound spirit of a dead girl, and he offers her his soul. Pentecostal, Muslim, Jehovah's Witness and Anabaptist families (the last mainly over violence) see real conflict; Orthodox, Baptist, Adventist and Orthodox Jewish families see a strong concern. Catholic, Anglican, Lutheran, Reformed and secular frames weigh the framing and note that the story calls clinging love the curse and ends with release. Buddhist, Hindu and Shinto readers will recognize attachment and the pacifying of a restless spirit as familiar religious themes. The fake-monk cult is condemned by every frame.
+**Where traditions disagree.** Nearly every frame welcomes the story's message that clinging love must be released, its rescue of a despairing teen, and its defeat of a supremacist fraud. The split is over the spirit world. Traditions that forbid contact with the dead or sorcery (Pentecostal, Jehovah's Witness, Muslim, Anabaptist) grade it D, and many Christian and Jewish frames grade it C because a dead girl's spirit is the hero's weapon. Buddhist, Shinto, Hindu and secular readers find the theme of attachment and release close to their own and grade it B or A.
 
 ## Winners, losers and sympathy
 
-The story sides with a frightened boy who learns to love without clinging and to live for others, and it defeats a charismatic supremacist who wanted only sorcerers to survive.
+Those who love and protect are rewarded with life and friendship; the man who would sort humanity into masters and "monkeys" dies.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Yuta Okkotsu | Live to be needed by and to protect others; let the dead go | Survives, wins, frees Rika; keeps training (ch. 0-4) | Endorsed |
-| Rika Orimoto | Love as eternal possession ("forever") | Curse broken; passes on peacefully and asks Yuta to live (ch. 0-4 pp. 43-44, Fandom wiki) | Pitied; her release is the happy ending |
-| Satoru Gojo | Train the next generation instead of killing the dangerous | Saves Yuta from execution; executes Geto | Admired; his choice is vindicated |
-| Suguru Geto | Kill all non-sorcerers; sorcerers as a superior kind | Beaten by Yuta, loses an arm, executed by Gojo (Wikipedia) | Condemned, but given a tragic friendship with Gojo; his fall is explained in the main series (vol. 9) |
-| The jujutsu higher-ups | Execute the dangerous | Overruled by Gojo | Critiqued |
-| Maki, Toge, Panda | Friendship and teamwork | Badly wounded, survive | Endorsed |
+| Yuta Okkotsu | Love that releases; live to protect others | Survives, stays a sorcerer, keeps the ring (ch. 0-4) | Endorsed |
+| Rika Orimoto | Possessive love that will not let go | Released, thanks Yuta and passes on in peace (ch. 0-4) | Sympathetic |
+| Suguru Geto | Sorcerers are superior; non-sorcerers should be exterminated | Loses an arm and is killed by Gojo (ch. 0-4) | Condemned, with pathos |
+| Satoru Gojo | Raise and protect the next generation | Saves the students; kills his former best friend (ch. 0-4) | Endorsed, sorrowful |
+| Maki, Inumaki, Panda | Loyalty and courage | Badly hurt; survive (ch. 0-4) | Endorsed |
+| The jujutsu higher-ups | Control through fear; execute the dangerous | Overruled by Gojo (ch. 0-1) | Critiqued |
 
-**Fan favorites versus the official moral.** Yuta placed eighth in a Viz Media poll (March 2021) and eighth in a Weekly Shonen Jump poll (December 2021), and second for Best Male Character in Animage's 2022 Anime Grand Prix (Wikipedia, Yuta article). Geto, the villain, placed 12th in the March 2021 Viz poll and rose to 4th in the second official poll; he was nominated for Best Supporting Character at the 8th Crunchyroll Anime Awards and got Uniqlo merchandise (Wikipedia, Geto article). Critics compared him to Magneto and Grindelwald (Wikipedia). So the villain is very popular, but as a tragic figure; the series' polls still put the student heroes and Gojo higher. Gojo's last words to Geto are hidden from the reader, which fans have long speculated about (from general knowledge; to verify).
+**Fan favorites versus the official moral.** No official poll was found in sources opened. Critics rate it the strongest story in the franchise: ANN's Kevin Cormack calls it the best and most complete, and Otaquest and others preferred Yuta to the main series' hero (Wikipedia). Geto became a fan favorite through the later Hidden Inventory arc (ANN), which gives him more sympathy than this volume does; the story's verdict on his ideology does not change.
 
 ## Message delivery
 - Style: Woven in
 - Preachiness: 3
 - Opposing views: Mixed
-- Evidence: Reviewers praise Geto's presence but Otaku USA wanted more time for him; Beneath the Tangles calls his introduction muddied.
-- Note: The love-as-curse theme is stated once in a line by Gojo and then shown through plot, while Geto's ideology gets little room in this volume.
+- Evidence: The love-as-curse twist is explained by Gojo once and then shown (Wikipedia); Geto's ideology gets little room in four chapters, and Otaquest wished the supporting cast had more (Wikipedia). Akutami says there was no specific theme in mind (Wikipedia).
+- Note: The message about letting go is carried by the plot twist and Rika's farewell rather than speeches.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
 | Suguru Geto | Sorcerers are superior; non-sorcerers should be exterminated | Villain | Mixed |
 | Yuta Okkotsu | Love that releases; live to protect others | Hero | Sympathetic |
-| Rika Orimoto | Possessive love that will not let go | Other | Sympathetic |
+| Rika Orimoto | Possessive love that will not let go | Love interest | Sympathetic |
 | Satoru Gojo | Raise and protect the next generation | Mentor | Sympathetic |
 
 ## Creator and publisher context
 
-- **Gege Akutami** is a pen name; the author does not show their face and has shared little personal information (consistent with the main entry). **Status: Needs more info on the creators.**
-- **On-record statements (Wikipedia, citing interviews and guidebooks):** Akutami had writer's block in 2017. An earlier prototype was a horror story about sorcerers stopping Yuta and Rika from killing people. Yuta and Rika were the first characters created, as "a combo," inspired by *Naruto*'s idea of a hero living with a demon; like Naruto, Yuta makes peace with his curse. The first editor found the story too dark and suggested a school setting, which Akutami disliked. Moving the story from Weekly Shonen Jump to Jump GIGA saddened the author, but the response led to *Jujutsu Kaisen* becoming the main series. Sugawara no Michizane was included as a tribute to an editor (the JJK 0 article says a late editor; the Yuta article names former editor Yamanaka; wording to verify). Akutami said Geto could have won if he had destroyed the barrier between Shinjuku and Kyoto.
-- **On Geto and religion (Wikipedia, Geto article):** Akutami dressed Geto as a monk to contrast a man who builds a "false religious organization while masquerading as a monk" with the trust monks get in real life; Geto was made to explore a character who "quickly prejudged others." No statement on the author's own religion or politics was found.
-- **Secondhand:** Sportskeeda reports that Akutami said at an exhibition in Osaka that Geto's lines in *JJK 0* set the later final battleground; the article contradicts itself (Shinjuku versus Shibuya), so treat as unverified.
-- **Publisher:** Shueisha (Hitotsubashi Group); English by Viz Media, owned by Shueisha, Shogakukan and Shogakukan-Shueisha Productions (from general knowledge; to verify).
-- **Controversies:** None specific to this volume found in reputable outlets. Franchise-wide controversies (fan backlash after Gojo's death, "Copykaisen" homage debate, MAPPA overwork) are in the main entry.
+- Gege Akutami (pen name) created Jujutsu Kaisen 0 in 2017 and the main Jujutsu Kaisen series (2018-2024) that grew out of it (Wikipedia).
+- On-record intent (via Wikipedia): Akutami wrote it without a specific theme in mind, aiming for characters who looked cool; was inspired by Naruto and says Yuta and Rika mirror Naruto and the beast sealed inside him, an idea reused for Yuji and Sukuna; first planned Maki, not Gojo, to recruit Yuta; resented an editor's push toward a school setting because the story was thought too dark; and regretted having too many characters.
+- Publisher: Shueisha (Jump GIGA); VIZ Media publishes it in English, rated T+.
+- No statement on religion or politics was found. No controversies involving the creator were found in sources opened.
 
 ## Worldview lenses
 
-Dominant lenses: Pagan/occult (Japanese folk religion and Shinto), Existentialism, Communitarianism, Dharmic (attachment and release), Might makes right (critiqued, through Geto's supremacy). Labels are this entry's framing unless a source is named.
+Dominant lenses: Pagan/occult (Japanese spirit lore), Existentialism, Communitarianism, Buddhist ideas (attachment and release), Might makes right (critiqued, through Geto's supremacy). Labels are this entry's framing unless a source is named.
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Pagan/occult (Japanese folk religion, Shinto) | 7 | Explored | C | A dead girl's spirit bound to the living; cursed speech; binding vows; Michizane as ancestor (Wikipedia); Geto absorbs and commands curses. The occult is the world's physics, neither endorsed nor condemned. |
-| Existentialism | 6 | Affirmed | A | Yuta moves from wanting to die to choosing to live and to be needed (The Mary Sue; Plugged In); meaning is made through choices and relationships. |
-| Communitarianism | 6 | Affirmed | B | Yuta heals through classmates and a teacher, not alone (Common Sense Media: managing "demons" "through teamwork and support from others"). Not authoritarian: the higher-ups are overruled. This entry's own framing. |
-| Dharmic (Hindu/Buddhist) | 5 | Explored | B | The twist makes attachment the curse and release the cure (ch. 0-4); Geto's monk robes over a fraudulent group (Wikipedia). This reading is this entry's framing; no source opened calls it Buddhist. |
-| Might makes right | 5 | Critiqued | D | Geto: the strong (sorcerers) should rule and the weak be wiped out; chapter 3 is titled "The Punishment for Being Weak." He loses. |
-| Secular humanism | 5 | Affirmed | B | Human dignity and care over Geto's supremacy; no divine command. |
-| Utilitarianism | 4 | Critiqued | D | The higher-ups' execution order on Yuta as a risk; Geto's plan to kill billions so curses stop. Both are overruled or defeated. |
-| Classical virtue ethics | 4 | Affirmed | B | Courage, loyalty and temperance in Yuta and Maki. |
-| Traditionalism | 3 | Critiqued | D | A cold elite that would kill a boy for safety (from general knowledge; to verify how much vol. 0 shows). |
-| Pragmatism | 3 | Explored | C | Gojo bets on training rather than killing; Geto's feint and odds-calculation. This entry's own framing. |
-| Collectivism/authoritarianism | 2 | Critiqued | D | The higher-ups' order-by-execution. |
-| Progressivism | 2 | Affirmed (soft) | B | Reform through educating the next generation (Gojo). |
-| Confucian ethics | 2 | Explored | C | Teacher-student bond (Gojo and Yuta; Gojo and Geto as former classmates). This entry's own framing. |
-| Expressive individualism | 2 | Explored | C | Yuta's choice to live for himself as well as others; Rika's wish that he live fully. |
-| Christian | 1 | Not central | C | Self-giving love that releases rather than possesses can be read alongside 1 Corinthians 13; this is this entry's framing, and no Christian content appears in the text (to verify). |
-| Feminism | 1 | Incidental | C | Equal strength of male and female characters (Common Sense Media). |
-| Consumerism | 1 | Incidental | C | Geto's cult takes believers' money (to verify on page). |
-| 0 for all of these | 0 | — | — | Jewish, Islamic, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Stoicism, Critical theory, Marxism, Postmodernism, Environmentalism, Absurdism, Nihilism, Anti-natalism, Hedonism, Libertarianism, Transhumanism. |
+| Pagan/occult | 7 | Explored | C | Curses, spirit-binding and exorcism are the story's physics; Sugawara no Michizane's legacy (Wikipedia). |
+| Existentialism | 6 | Affirmed | A | A boy who wanted to die chooses a reason to live (ch. 0-1 to 0-4). |
+| Communitarianism | 6 | Affirmed | B | The class becomes a family; Real Sound praised the bond among the sorcerers (Wikipedia). |
+| Might makes right | 5 | Critiqued | D | Geto's claim that strong sorcerers should rule and "monkeys" should die is defeated (ch. 0-3 to 0-4). |
+| Buddhist ideas | 4 | Affirmed | B | The central twist: clinging to the dead creates suffering and release brings peace (ch. 0-4); a villain in monk-like robes is a borrowed image, not a teaching. |
+| Secular humanism | 4 | Affirmed | B | Meaning from friendship and chosen purpose; a fraudulent religious leader exposed. |
+| Utilitarianism | 4 | Critiqued | D | Geto's calculus that killing ordinary people will end curses. |
+| Classical virtue ethics | 4 | Affirmed | B | Courage, loyalty and perseverance through training. |
+| Traditionalism | 3 | Critiqued | D | The elders' order to execute Yuta is overruled (ch. 0-1). |
+| Pragmatism | 3 | Explored | C | Training and teamwork win fights. |
+| Collectivism/authoritarianism | 2 | Critiqued | D | Cold higher-ups. |
+| Progressivism | 2 | Affirmed | B | A sensitive, bullied boy as hero. |
+| Confucian ethics | 2 | Explored | C | Teacher-student bonds. |
+| Expressive individualism | 2 | Explored | C | Yuta finds his own place. |
+| Christian | 1 | Explored | C | Christmas Eve as the date of the attack; nothing more. |
+| Feminism | 1 | Explored | C | Maki as a capable fighter. |
+| Jewish, Islamic, Hindu ideas, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Stoicism, Duty ethics, Critical theory, Marxism, Postmodernism, Environmentalism, Nihilism, Absurdism, Anti-natalism, Hedonism, Consumerism, Pacifism / nonviolence, Bushido / honor code, Patriotism / nationalism, Libertarianism, Liberalism, Anarchism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
 
-| Political axis | Score (0 to 10, 5 = no side) | Why |
+| Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Money is not a theme beyond Geto's cult. |
-| Social (0 authority, 10 liberty) | 6 | Gojo overrides the higher-ups' execution order, but the heroes work inside the school. |
-| Cultural (0 traditional, 10 progressive) | 5 | A faithful childhood promise and good mentors are honored; a cold elite and a fake religion are critiqued. |
-| Community (0 individual first, 10 community first) | 7 | Yuta heals through his class; Geto's in-group supremacy is the villain's version of community and is defeated. |
+| Economic (0 collective, 10 free market) | 5 | Geto's group fleeces believers, but no economic order is argued. |
+| Social (0 authority, 10 liberty) | 6 | Gojo bends the elders' rules to save a student; the school is still a disciplined institution. |
+| Cultural (0 traditional, 10 progressive) | 5 | Traditional spirit lore used respectfully; a gentle, bullied boy as hero. |
+| Community (0 individual first, 10 community first) | 7 | Yuta is saved by a community and chooses to live for it. |
 
 **Moral foundations profile (0 to 10):** care 9, loyalty 8, fairness 6, sanctity 5, authority 4, liberty 5.
 
-**Profile notes for parents:** This is a contained story about grief, guilt and a teenager choosing to live, set inside a violent horror-action world. Its moral center is care and loyalty, and its spiritual world (spirits of the dead, curses, binding vows) is the story's engine. Its villain voices a supremacist ideology that the story rejects but makes charismatic.
+**Profile notes for parents:** Care leads: the story is about a hurting boy, a protective teacher and friends who look after each other. Loyalty is close behind. Sanctity sits in the middle because the dead are honored and released, but spirit-binding is the hero's power. The main content concerns are fantasy violence and suicide talk; VIZ rates it T+ and Common Sense Media puts the film at 14+.
 
 ## Folkways and cultural values
 
@@ -173,122 +177,94 @@ Dominant lenses: Pagan/occult (Japanese folk religion and Shinto), Existentialis
 | Dignity vs honor | 4 | Rika's revenge on bullies (ch. 0-1) is shown as the curse's danger, not as justice; Yuta fights to protect friends, not to answer insults (ch. 0-4). |
 | Order vs freedom | 5 | Gojo bends the higher-ups' order to save Yuta (ch. 0-1), while the class trains under discipline (ch. 0-2). |
 | Civic vs kin | 4 | Yuta's bond to one person (Rika) is loosened into care for his class and for strangers; Geto's in-group loyalty to sorcerers is condemned (ch. 0-3 to 0-4). |
-| Equality vs hierarchy | 4 | Geto's ranking of sorcerers over "monkeys" is the villain's creed (Plugged In); teacher authority is warm but real. |
-| Tradition vs secular-rational | 6 | Japanese spirit lore (onryo, Michizane) is used respectfully as story physics, but organized religion appears as Geto's fraud. |
-| Survival vs self-expression | 5 | Survival under threat dominates, but the ending's message is to live a full life (Rika's last wish, ch. 0-4). |
+| Equality vs hierarchy | 4 | Geto's ranking of sorcerers over "monkeys" is the villain's creed; teacher authority is warm but real. |
+| Tradition vs secular-rational | 6 | Japanese spirit lore is used respectfully as story physics, but organized religion appears as Geto's fraud. |
+| Survival vs self-expression | 5 | Survival under threat dominates, but the ending's message is to live a full life (Rika's farewell, ch. 0-4). |
 
-Closest clusters: Catholic Europe; Yankeedom; The Midlands
+Closest clusters: Confucian; The Midlands; Catholic Europe
 
-Japanese source culture: The school class, senpai-teacher bonds and the shonen sword-training montage reflect Japanese school norms; the onryo figure of Sugawara no Michizane and the idea of pacifying a vengeful spirit come from Japanese religious history rather than the story's own message.
+Japanese source culture: The school class, teacher-student bonds and the training montage reflect Japanese school and shonen norms; the vengeful-spirit figure of Sugawara no Michizane and the idea of pacifying a restless spirit come from Japanese religious history rather than from the story's own message.
 
 ## Philosophy essay
 
-**The central question.** When does love become a curse? The volume opens with a boy followed by the monstrous spirit of the girl he promised to marry. Gojo names the theme early: "There's no curse more twisted than love" (as quoted by Plugged In and The Mary Sue for the film; manga wording to verify, ch. 0-1). Everything that follows tests whether that line is the last word.
+**The central question.** What happens to love when the person you love is gone? Yuta was ten when Rika died, the day she gave him a ring. Six years later her spirit still clings to him and destroys anyone who hurts him. He believes she cursed him; he wants to die so that no one else gets hurt.
 
-**The answer the story gives.** The twist in the final chapter turns the question around. Rika did not curse Yuta; Yuta cursed Rika, because at the moment she died he would not let her go (Wikipedia; Fandom wiki, ch. 0-4 pp. 43-44). Love that grasps binds the beloved and harms others. Love that releases heals. Rika passes on in peace and asks Yuta to live. Gojo's earlier lesson, as Plugged In quotes the film, is the hinge: "The curse placed upon you is one that can save people, too, depending on how it's used." A wound can become a way of protecting others.
+**The answer the story gives.** Love that refuses to let go becomes a curse, and love that lets go is a gift. The twist (ch. 0-4) is that Yuta cursed Rika, not the other way round: his grief bound her to him. When he releases her, she thanks him and passes on in peace, asking him to live a full life (Wikipedia). Along the way Yuta finds what he lacked: friends who need him and a teacher who will not give up on him.
 
-**Characters as arguments.** Yuta argues, at first, that a person who hurts others by existing should disappear; he has tried to die (Plugged In). His arc argues that a life can be redeemed by being needed. Rika embodies love as "forever" possession (The Mary Sue: "how far 'forever' can go"). Geto argues that the strong owe nothing to the weak and that curses will stop only when non-sorcerers are gone; he hides this under a monk's robes and a false religion (Akutami, per Wikipedia). Gojo argues for teaching rather than killing: he saves Yuta from execution and, in the end, kills his best friend, which shows the cost of his own position. Maki argues that worth is proven by effort.
+**Characters as arguments.** Yuta argues that even a person who has given up can find a reason to live. Rika is love as possession, then love as blessing. Gojo argues that the young should be raised, not disposed of. Geto argues that the strong should rule and the weak should be removed; he also wears the costume of religion while running a con (film summary). Maki argues that worth is not measured by inborn gifts.
 
-**Symbols and motifs.** The engagement ring, a child's promise that outlives death. Rika's ever-larger body, love grown monstrous. The monk's robes, sacred trust worn by a fraud. December 24 and the "Night Parade of a Hundred Demons," a Japanese folklore image of spirits marching through the city. The chapter titles move from "The Cursed Child" through "The Punishment for Being Weak" to "A Bright Darkness."
+**Symbols and motifs.** The engagement ring; the cursed girl behind the boy; the sword through which love becomes power; Christmas Eve as the night of a hundred demons; the white uniform Akutami gave Yuta (Wikipedia).
 
-**Traditions it echoes.** Japanese beliefs about onryo, vengeful spirits of the wronged dead, and the historical case of Sugawara no Michizane, whose feared spirit was pacified by being honored as a deity (from general knowledge; to verify). Akutami cites *Naruto*'s hero living with a demon (Wikipedia). A Japanese academic, Hiroko Sakata, compared Yuta and Rika to oni folklore and to *Demon Slayer*'s Tanjiro and Nezuko (Wikipedia). Readers may also hear Buddhist teaching on attachment, and the Western ghost story in which the dead cannot rest until the living release them.
+**Traditions it echoes.** Japanese beliefs about vengeful spirits and their pacification, including the historical Michizane, enshrined as Tenjin (from general knowledge; to verify); Buddhist teaching on attachment; Naruto's hero who carries a monster inside him (Akutami). Christian readers may hear 1 Corinthians 13: love does not insist on its own way.
 
-**How each lens is portrayed.** The occult is the world's physics and is neither blessed nor condemned. Existential choice is affirmed: Yuta decides to live. Community is the cure for isolation. Supremacy and might-makes-right are defeated. Organized religion appears only as Geto's fraud, which some faith readers will read as a critique of hypocrisy rather than of faith.
+**How each lens is portrayed.** Japanese spirit lore is the story's world and is treated with respect. Existentialist choice and community are affirmed. Might makes right and supremacist utilitarian logic are defeated in Geto. Organized religion appears only as fraud, which faith readers may notice; the story's spiritual heart (letting the dead rest) is closer to Buddhist and Shinto feeling than to any creed.
 
-**Shifts across the series.** The volume moves from horror (a cursed boy in isolation, ch. 0-1) to school training and friendship (ch. 0-2), to Geto's declaration of war (ch. 0-3), to a large battle and a quiet ending (ch. 0-4). Read before or after the main series, it sets up Geto's fate, which the main series later ties to a body-stealing villain, and Yuta's return in the late arcs (see the main entry).
+**Shifts across the series.** Four chapters: ch. 0-1, Yuta's arrival and first mission; ch. 0-2, training, a mission with Inumaki and Geto's appearance; ch. 0-3, the Night Parade and Geto's attack; ch. 0-4, the battle, Rika's release and Gojo's farewell to Geto (likely; to verify).
 
 **Discussion questions.**
-1. Gojo says no curse is more twisted than love. When can love become harmful? How is healthy love different?
-2. The twist says Yuta cursed Rika by refusing to let her go. What helps people let go of someone who has died?
-3. Yuta once wanted to die and later chooses to live. What changed for him? Who can a young person talk to when they feel that way?
-4. Geto says sorcerers are better than ordinary people. Where do we see real-world versions of that idea, and why are they appealing to some?
-5. Geto pretends to be a monk to get followers. How can people tell a trustworthy religious or community leader from a fraud?
+1. Yuta thought Rika had cursed him. Why does it matter that it was the other way around?
+2. What helps Yuta go from wanting to die to wanting to live?
+3. Geto calls ordinary people "monkeys." What makes that kind of thinking dangerous?
+4. Gojo has to stop his best friend. How would you feel in his place?
+5. Is there someone or something you have had to let go of?
 
 ## How readers took it
 
-| Reading | Who (viewpoint; anime or manga) | Summary | Source |
+| Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Critics, manga | Wikipedia reception summary (manga) | Critics praised Yuta's arc, his bond with Rika and the volume as a prequel; several found Yuta more compelling than Yuji. Some criticized the art's proportions. ANN's Kevin Cormack called it probably the best and most complete story in the franchise. | https://en.wikipedia.org/wiki/Jujutsu_Kaisen_0 |
-| Critic, film | Kim Morrissy, Anime News Network (film) | Overall B. Praises the Yuta-Rika "morbid sweetness" and Megumi Ogata's voice work; calls the script "unmemorable" and the middle act padded. | https://www.animenewsnetwork.com/review/jujutsu-kaisen-0/.181005 |
-| Critics, film | Wikipedia film reception | Praised accessible story, fights and curse designs; criticized short runtime and thin supporting cast (Otaku USA wanted more Geto). 98% on Rotten Tomatoes. | https://en.wikipedia.org/wiki/Jujutsu_Kaisen_0_(film) |
-| Secular parent guide | Common Sense Media (film) | 14+; PG-13. Gore, references to suicidal ideation, a child engagement plot, language; positive message that you can manage your "demons" through teamwork. | https://www.commonsensemedia.org/movie-reviews/jujutsu-kaisen-0-the-movie |
-| Christian parent guide | Plugged In (film) | Praises the message that trauma can help others; warns of heavy blood, sorcery, suicide attempt, profanity including God's and Jesus' names, a villain calling non-sorcerers "monkeys." | https://www.pluggedin.com/movie-reviews/jujutsu-kaisen-0-the-movie-2022/ |
-| Christian anime blog (craft review) | claire, Beneath the Tangles (film) | Not a faith reading; says "the pacing is fatally off," finds Rika's partly romantic child-like presence uncomfortable and the fanservice cutaways weak. | https://beneaththetangles.com/2022/03/14/review-jujutsu-kaisen-0/ |
-| Progressive / grief reading | The Mary Sue (film) | Reads Rika as grief made monstrous, "a haunting, gutwrenching take on how far 'forever' can go"; relates it to the reviewer's own grief; content warning for attempted suicide. | https://www.themarysue.com/jujutsu-kaisen-0-review/ |
-| Pop-culture critic | Den of Geek (film) | Sees the Gojo-Geto split as showing how "the strict and brutal jujutsu world can set two best friends on different and opposing paths." | https://www.denofgeek.com/?p=747450 |
-| Fan database | MyAnimeList (manga) | Score 8.03; popularity #118; 129,403 members. | https://myanimelist.net/manga/115710/Jujutsu_Kaisen_0__Tokyo_Toritsu_Jujutsu_Koutou_Senmon_Gakkou |
-| Japanese reception | Sales and awards (Wikipedia) | 1.9 million copies by late 2021; film was Japan's top domestic film of 2021 and won the Anime Grand Prix. Academic Hiroko Sakata linked the story to oni folklore. | https://en.wikipedia.org/wiki/Jujutsu_Kaisen_0 |
-| Conservative / religious-right | None found specific to this volume | Movieguide's general concern about anime is noted in the main entry; no JJK 0-specific conservative review was opened. | — |
+| Critic (manga, retrospective) | Kevin Cormack, Anime News Network | Calls the prequel probably the best and most complete story in the franchise, rough as it is; Yuta and Rika give it emotional stakes later arcs lack. | https://www.animenewsnetwork.com/review/jujutsu-kaisen/manga-series/.232103 |
+| Critics (manga) | The Mary Sue, CBR, Otaquest, Manga News, Real Sound (via Wikipedia) | Praise for Yuta's growth and the curse twist; Otaquest wanted more of the supporting cast; Real Sound praises the bonds among the sorcerers. | https://en.wikipedia.org/wiki/Jujutsu_Kaisen_0 |
+| Parent guide (film) | Tara McNamara, Common Sense Media | 14+; gory fights, suicide talked about as a solution, mild profanity; positive messages about managing inner "demons" with support. | https://www.commonsensemedia.org/movie-reviews/jujutsu-kaisen-0-the-movie |
+| Parent guide (TV series) | Ty'Kira Smalls, Common Sense Media | 15+ for the main series; some violence; teamwork and perseverance. | https://www.commonsensemedia.org/tv-reviews/jujutsu-kaisen |
+| Academic | Hiroko Sakata (via Wikipedia) | Compares the story to Japanese folklore and to Demon Slayer's sibling bond. | https://en.wikipedia.org/wiki/Jujutsu_Kaisen_0 |
+| Fan databases | AniList, MangaUpdates | AniList average 79 (about 73,000 members); MangaUpdates 7.47. | AniList API; MangaUpdates API |
+| Christian parent guide (film) | Plugged In | Found in search; page would not load. | https://www.pluggedin.com/movie-reviews/jujutsu-kaisen-0/ |
+
+No public controversy was found. Readers broadly agree it is the franchise's tightest story; the main divide among guides is age (Common Sense Media 14+ for the film, VIZ T+ for the book).
 
 ## Most loaded parts and pages to photograph
 
-The volume holds four chapters, numbered 0-1 to 0-4 (about 200 pages, so roughly 45-55 pages each). Fandom wiki page citations place Gojo's love-curse framing at ch. 0-1 p. 16, Maki's training at ch. 0-2 pp. 6-7 and 35, the climactic vow and battle at ch. 0-4 pp. 8-11 and 30-35, and the Michizane reveal and Rika's release at ch. 0-4 pp. 43-44. Other placements are inferred and marked "likely."
+One volume, four chapters (ch. 0-1 to 0-4; Wikipedia). No chapter-level source could be opened; scene placement within the chapters is likely and should be confirmed.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Geto's ideology: non-sorcerers as "monkeys," his plan to exterminate them, the Night Parade declaration | ch. 0-3 likely (vol. 0) | Core ideological content; supremacist rhetoric voiced charismatically; Politics theme and Message delivery. |
-| 2 | Geto's false religious group, his monk's robes and treatment of followers | ch. 0-2 to 0-3 likely (vol. 0) | Religion theme; how faith is portrayed (fraud versus faith); all religious-frame grades. |
-| 3 | Yuta's vow to Rika: offering himself (his soul, per Wikipedia) to unlock her full power | ch. 0-4 pp. 8-11, 30-35 (Fandom wiki) | Spirit-bond as heroic act; Pentecostal, Muslim, JW, Adventist weights; Mental health. |
-| 4 | The twist: Yuta cursed Rika; Michizane ancestry; Rika's release and last words | ch. 0-4 pp. 43-44 (Fandom wiki) | The Life message and the love-as-curse answer; Shinto and Buddhist rows. |
-| 5 | Yuta's past suicide attempt and wish to die | ch. 0-1 likely (reported for the film by Plugged In and The Mary Sue) | Mental health score 6; safe-messaging concerns; Catholic, Muslim, secular rows. |
-| 6 | "No curse more twisted than love" | ch. 0-1 p. 16 (Fandom wiki, paraphrase) | The book's thesis line; confirm Viz wording. |
-| 7 | Rika attacks the bullies (locker) | ch. 0-1 (vol. 0) | Violence and Fear scores; revenge framing. |
-| 8 | Gojo executes Geto; hidden last words | ch. 0-4 (Wikipedia) | Friendship, justice and mercy; Winners table. |
-| 9 | Geto wounds Maki, Panda and Toge; Night Parade battles in Shinjuku and Kyoto | ch. 0-4 (likely) | Peak violence; confirm how graphic the manga is versus the film's "swords through eyeballs." |
-| 10 | Film-only items to check against the manga: breast joke, skirt, the curse-victim girl's rape dreams, the mother's "wish I'd never had you" line | ch. 0-1 to 0-2 if present (likely film additions) | Sexuality score (2) and Mental health; confirm or remove. |
+| 1 | Rika injures the four bullies; Yuta's confinement and his past suicide attempt | ch. 0-1 | Violence; Mental health (6); frame rows on suicide. |
+| 2 | Geto's fraudulent religious group; his killing of a client; "monkeys" | likely ch. 0-2 | Religion value row; frame rows on false religion. |
+| 3 | Geto's assault on the school; Maki, Inumaki and Panda badly hurt | ch. 0-3 to 0-4 | Violence (7); Fear. |
+| 4 | Yuta's vow to Rika, the implied kiss, and his offer of himself to her | ch. 0-4 | Spirit-binding concern for many frames; confirm what is shown. |
+| 5 | Gojo kills Geto; Rika's release | ch. 0-4 | Outlook; Winners table. |
 
-Estimate: the whole volume is four chapters (about 200 pages); photographing about 20-25 pages would confirm every score.
+Estimate: the whole volume is four chapters; about 20-25 pages to photograph.
 
 ## Sources
 
-Pages opened:
+Pages actually opened:
 - https://en.wikipedia.org/wiki/Jujutsu_Kaisen_0
-- https://en.wikipedia.org/wiki/Jujutsu_Kaisen_0_(film)
-- https://en.wikipedia.org/wiki/Yuta_Okkotsu
-- https://en.wikipedia.org/wiki/Suguru_Geto
-- https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu
-- https://jujutsu-kaisen.fandom.com/wiki/Suguru_Geto (no JJK 0 details in the fetched text)
-- https://www.animenewsnetwork.com/encyclopedia/manga.php?id=24194
-- https://www.animenewsnetwork.com/review/jujutsu-kaisen-0/.181005
+- AniList API, media id 105469 (graphql.anilist.co)
+- MangaUpdates API, series 13045114572 (api.mangaupdates.com)
+- https://www.viz.com/manga-books/manga/jujutsu-kaisen-volume-0-0/product/6537 (Teen Plus)
+- https://themoviespoiler.com/?p=2644 (fan-written film plot summary; facts only)
+- https://www.animenewsnetwork.com/review/jujutsu-kaisen/manga-series/.232103
 - https://www.commonsensemedia.org/movie-reviews/jujutsu-kaisen-0-the-movie
-- https://www.pluggedin.com/movie-reviews/jujutsu-kaisen-0-the-movie-2022/
-- https://www.themarysue.com/jujutsu-kaisen-0-review/
-- https://beneaththetangles.com/tag/jjk-0/
-- https://beneaththetangles.com/2022/03/14/review-jujutsu-kaisen-0/
+- https://www.commonsensemedia.org/tv-reviews/jujutsu-kaisen
+- https://www.simonandschuster.ca/books/Jujutsu-Kaisen-0/Gege-Akutami/9781974720149 (no rating shown)
+
+Found in search, not opened (fetch failed, blocked or not prioritized):
+- https://www.pluggedin.com/movie-reviews/jujutsu-kaisen-0/ (failed to load)
+- https://jujutsu-kaisen.fandom.com (blocked automated access)
+- https://www.animenewsnetwork.com/encyclopedia/manga.php?id=24194
+- https://themarysue.com/?p=539204
 - https://www.denofgeek.com/?p=747450
-- https://animehunch.com/jujutsu-kaisen-0-night-parade-of-a-100-demons-explained/ (film-based fan explainer; used for plot facts only)
-- https://www.sportskeeda.com/anime/geto-s-dialogue-jujutsu-kaisen-0-foreshadowed-shinjuku-showdown-arc-gege-s-latest-comments-prove-it (internally inconsistent; not relied on)
-- https://myanimelist.net/manga/115710/Jujutsu_Kaisen_0__Tokyo_Toritsu_Jujutsu_Koutou_Senmon_Gakkou
-- Continuity: /mnt/project-files/manga-entries/jujutsu-kaisen.md (main series entry)
-
-Found by search but not opened (never quoted as content):
 - https://screenwiseapp.com/guides/parent-s-guide-to-jujutsu-kaisen-0-blinding-darkness
-- https://www.ageratingjuju.com/jujutsu-kaisen-0-parents-guide-age-rating/
+- https://uat4.www.digitaltrends.com/movies/jujutsu-kaisen-0-anime-movie-review
 - https://tvtropes.org/pmwiki/pmwiki.php/Manga/JujutsuKaisen
-- https://www.mangaupdates.com/series/5zqq2to
-- https://beneaththetangles.com/2023/11/20/life-lessons-with-gojo-sensei/
-- https://www.slashfilm.com/1018047/jujutsu-kaisen-0-review-this-anime-franchise-prequel-is-a-heartwarming-spectacle
-- https://empireonline.com/movies/reviews/jujutsu-kaisen-0
-- https://gizmodo.com/jujutsu-kaisen-0-film-review-1848649784
-- https://www.thewrap.com/jujutsu-kaisen-0-film-review-anime-prequel
-- https://reflector.uindy.edu/2022/03/25/jujutsu-kaisen-0-movie-review/
-- https://link.rockportlibrary.org/resource/Tu27DcPtpy4 (library record for the Viz edition)
-
-No scan, scanlation, aggregator or Crunchyroll Manga page was opened. Chapter-reader pages that appeared in search results (daddyjim.ai "Chapter 0-1" to "0-4") were deliberately skipped.
 
 ## Full-read review checklist
 
-- [ ] Ch. 0-1: Rika's attack on the bullies (locker). Affects Violence and Fear. Confirm how graphic it is.
-- [ ] Ch. 0-1 p. 16: Gojo's "no curse more twisted than love" line. Affects Life message and essay. Confirm the exact Viz wording.
-- [ ] Ch. 0-1 (likely): Yuta's past suicide attempt and wish to die; his confinement and death sentence. Affects Mental health (6) and several frame rows. Confirm what is said and where.
-- [ ] Ch. 0-2 pp. 6-7, 35: Maki's training and mission; Maki's clan background if mentioned. Affects Gender theme.
-- [ ] Ch. 0-2 to 0-3 (likely): Geto's religious group, monk's robes, money from followers, Nanako and Mimiko. Affects Religion theme, Consumerism lens and all religious frames.
-- [ ] Ch. 0-3 (likely): Geto's "monkeys" line, his plan, the Night Parade declaration for December 24. Affects Politics theme and Message delivery. Confirm Viz wording.
-- [ ] Ch. 0-4 pp. 8-11, 30-35: Yuta's vow to Rika (does he offer his life, soul or "everything"?); wounds to Maki, Panda and Toge. Affects Mental health, Violence and the Pentecostal, Muslim, JW and Adventist rows.
-- [ ] Ch. 0-4 pp. 43-44: the Michizane reveal, the twist that Yuta cursed Rika, Rika's release and last words. Affects Life message, Shinto and Buddhist rows.
-- [ ] Ch. 0-4: Gojo and Geto's last exchange and whether Gojo's words are hidden. Affects Winners table and Fan favorites.
-- [ ] Film-only items (breast joke, skirt, monster rubbing a girl, a girl's rape dreams, the mother's "wish I'd never had you" line, Miguel in Kenya): check whether any appear in the manga. Affects Sexuality (2) and Mental health.
-- [ ] Language: spot-check Viz profanity across the volume. Affects Language (4, film-based).
-- [ ] Viz rating: confirm T+ on the back cover.
-- [ ] Author afterword and volume extras for statements on Yuta, Rika, Geto, religion or the editor tribute. Affects Creator context.
-- [ ] Re-score and sign off: update all scores, change the label to "Full read," record reviewer name and date, delete the photos.
+- [ ] Confirm which chapter holds each scene (bullies, Geto's group, the Night Parade, the climax). Affects all chapter references.
+- [ ] Ch. 0-1: confirm how Yuta's suicide attempt and wish to die are shown in the manga. Affects Mental health (6) and frame rows.
+- [ ] Ch. 0-4: confirm the vow to Rika and whether a kiss is shown in the manga. Affects Sexuality (2) and spirit-binding frame rows.
+- [ ] Likely ch. 0-2: confirm Geto's religious group, his robes and the killing of a client. Affects Religion value row and frame rows.
+- [ ] Spot-check VIZ language. Affects Language (4).
+- [ ] Open Plugged In's film review and any Christian review of the manga. Affects How readers took it.
+- [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

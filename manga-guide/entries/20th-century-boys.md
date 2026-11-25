@@ -28,8 +28,8 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Religious | A false messiah is the villain: Friend fakes psychic powers with stage tricks, stages a resurrection and is treated as divine (Wikipedia; TV Tropes). The Pope visits Japan and is a target; a priest who was once a gangster shelters Kanna (TV Tropes). Sonntagsblatt (a Protestant weekly) reads it as a study of how abuse of power works in the name of faith. |
 | Socio-cultural | Showa-era nostalgia (Expo '70, 1960s-70s manga and rock) and its dark side. Critics including Thompson and Polygon's Tom Speelman link the Friends to the Aum Shinrikyo cult (Wikipedia). A party wins power through a staged crisis and a vaccine, then exiles the unvaccinated and bans travel (Wikipedia). |
 
-Outlook: Bittersweet: Friend is defeated and the old friends are reunited, but a manufactured pandemic has killed a large part of humanity (TV Tropes cites ch. 169 for three billion deaths) and many friends have died.
-Hope source: F: the story's way through is the childhood friends and the community they rebuild: Kenji's call brings back those who fled, Kanna unites rival gangs, and Kenji's song becomes a rallying anthem (Wikipedia); owning up to old wrongs (R) is the close second.
+Outlook: Bittersweet — Friend is defeated and the old friends are reunited, but a manufactured pandemic has killed a large part of humanity (TV Tropes cites ch. 169 for three billion deaths) and many friends have died.
+Hope source: F — the story's way through is the childhood friends and the community they rebuild: Kenji's call brings back those who fled, Kanna unites rival gangs, and Kenji's song becomes a rallying anthem (Wikipedia); owning up to old wrongs (R) is the close second.
 
 ## Content scores
 
