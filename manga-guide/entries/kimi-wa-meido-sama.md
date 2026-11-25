@@ -26,7 +26,7 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Evolutionary biology | A household forms around protection and care: a capable adult protects a boy whose parents are absent, and he gives her belonging. A slow romance between a young woman (about 21, fan wiki) and a teenage boy is the courtship thread; fan-service framing of her body is part of the appeal (Anime Feminist). |
 | Pragmatic | Yuki learns concrete skills (cleaning, cooking, school life) by trial and error; Hitoyoshi teaches her patiently. Her combat skills save lives (the truck, ch. 1; a purse snatcher stopped without killing, anime ep. 3). |
 | Religious | No religion shapes the plot in sources opened. Christmas is the date of Yuki's family tragedy and the setting of a holiday arc whose anime episode titles mention "the forbidden fruit," a snake, prayers and "joyous tidings" (ch. 27-34; Wikipedia episode list); how much this draws on Christian imagery is not known (to verify). Faith readers will weigh the redemption theme against an unmarried adult woman living alone with a minor. |
-| Socio-cultural | The "hardened killer in a cozy home" comedy (compared to Spy x Family and Way of the Househusband by Anime Feminist) meets the Japanese maid trope and the "high schooler who lives alone" setup (ANN). Absent, separated parents are part of Hitoyoshi's loneliness (ANN; Common Sense Media). Anime Feminist reads the arc as sliding into traditional gender roles. |
+| Socio-cultural | The comedy of a hardened killer in a cozy home (compared to Spy x Family and Way of the Househusband by Anime Feminist) meets the Japanese maid trope and the setup of a high schooler who lives alone (ANN). Absent, separated parents are part of Hitoyoshi's loneliness (ANN; Common Sense Media). Anime Feminist reads the arc as sliding into traditional gender roles. |
 
 Outlook: Hopeful — the story is a gentle comedy of healing in which Yuki gains a name, a home and friends, though her past (her murdered parents, her lost sister) keeps returning and the series is still unfinished.
 Hope source: F — the way through is a found family: Yuki's healing comes from the Yokoya household, Riko, school friends and a dog; love between the two leads (L) is the slowly growing second.
@@ -174,7 +174,7 @@ Dominant lenses: Communitarianism (found family), Pacifism / nonviolence (no-kil
 
 Closest clusters: Confucian; The Midlands; Catholic Europe
 
-Japanese source culture: Builds on the Japanese maid comedy and the "high schooler living alone" setup (ANN), with a cultural festival, summer festival and Christmas as seasonal set pieces; the title puns meido (the underworld) on "maid."
+Japanese source culture: Builds on the Japanese maid comedy and the setup of a high schooler living alone (ANN), with a cultural festival, summer festival and Christmas as seasonal set pieces; the title puns meido (the underworld) on "maid."
 
 ## Philosophy essay
 

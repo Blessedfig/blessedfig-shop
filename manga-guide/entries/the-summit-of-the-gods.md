@@ -33,7 +33,7 @@ Hope source: E — the way through is giving everything to a hard goal: the seri
 
 ## Content scores
 
-**Overall content level: 5 out of 10** (set by Fear and intensity). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 6 out of 10** (set by Fear and intensity). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|

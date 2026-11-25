@@ -33,7 +33,7 @@ Hope source: N — the story, as far as it goes, finds little hope: the only 'he
 
 ## Content scores
 
-**Overall content level: 8 out of 10** (set by Substances and by Fear and intensity). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 9 out of 10** (set by Substances). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|

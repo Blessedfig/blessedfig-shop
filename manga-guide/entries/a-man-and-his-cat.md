@@ -42,7 +42,7 @@ Hope source: F — family and friends: the man and the cat as a family, then riv
 | Sexuality and romance (incl. fan service, manga art vs anime) | 0 | None | Neutral | Kanda's marriage is remembered through tender flashbacks (Manga Bookshelf: they knew each other from childhood). No romantic or sexual content reported. |
 | Language | 1 | Rare | Neutral | No profanity reported in reviews of vol. 1; cat narration with puns (Anime UK News; Manga Bookshelf). Later volumes not checked (to verify). |
 | Substances | 0 | None noted | Neutral | None reported (to verify). |
-| Mental health and self-harm | 3 | Recurring | Shown with compassion | Grief: Kanda weeps at times, and the reason becomes clear (vol. 3); he played only sad songs before the cat (Manga Bookshelf); post-traumatic stress around concert halls and performing since his wife's death (Wikipedia); anxiety (vol. 13). The kitten has "all but given up on life" (vol. 1). A teenager who has stopped attending high school (vol. 12). |
+| Mental health and self-harm | 3 | Recurring | Shown with compassion | Grief: Kanda weeps at times, and the reason becomes clear (vol. 3); he played only sad songs before the cat (Manga Bookshelf); post-traumatic stress around concert halls and performing since his wife's death (Wikipedia); anxiety (vol. 13). The kitten has nearly given up on life (vol. 1). A teenager who has stopped attending high school (vol. 12). |
 | Imitable behavior | 1 | Rare | Mostly positive | Responsible pet care modeled; a cat getting out of the house (vol. 5) shown as dangerous. |
 | Commercial | 2 | Outside the book | Neutral | Drama, game, picture book and merchandise; the pet-shop pricing of kittens is a plot point (vol. 1). |
 

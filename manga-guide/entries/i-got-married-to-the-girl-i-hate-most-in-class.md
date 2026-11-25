@@ -174,7 +174,7 @@ Dominant lenses: Traditionalism (explored), Classical virtue ethics (affirmed), 
 | Tradition vs secular-rational | 4 | Arranged marriage and family custom guide life. |
 | Survival vs self-expression | 5 | Wealth secure; love grows as personal fulfillment. |
 
-Closest clusters: South and Southeast Asia; Latin America; Tidewater
+Closest clusters: Confucian; South and Southeast Asia; Tidewater
 
 Japanese source culture: Family-business inheritance, deference to grandparents, the household (ie) as a unit, keeping private matters hidden at school and the tsundere character type are Japanese context, described not judged. Japan's marriage age was 16 for girls with parental consent until April 2022 and is now 18 for both (from general knowledge; to verify); the story's legal setup was not checked.
 

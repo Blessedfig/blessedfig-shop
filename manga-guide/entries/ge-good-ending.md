@@ -49,7 +49,7 @@ Hope source: L — love between two: the "good ending" of the title is Kurokawa 
 | Values theme | Presence | Portrayal |
 |---|---|---|
 | Family and authority | Incidental | Kurokawa's strict, traditional father (TV Tropes); parents mostly in the background. |
-| Religion and spirituality | None | None found in sources opened. |
+| Religion and spirituality | Absent | None found in sources opened. |
 | Gender and identity (incl. LGBTQ) | Recurring | Girls judged by rumor and sexual reputation (Kurokawa, Shou); fan service; a girl's right to say no and a boy's respect for it (ch. 87). No LGBTQ storylines found. |
 | Politics and social issues | Recurring | Non-consensual recording and sharing of a sexual video; sexual harassment at work (ch. 80); a controlling, violent ex. |
 

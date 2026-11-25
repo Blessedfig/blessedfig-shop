@@ -8,7 +8,7 @@ Built from summaries, databases and the fan wiki (From summaries); no pages were
 |---|---|
 | Title | Kengan Omega. Japanese: ケンガンオメガ (AniList id 107267, confirmed). Sequel to Kengan Ashura (2012-2018) |
 | Creators | Yabako Sandrovich (story), also writer of How Heavy Are the Dumbbells You Lift?, set in the same world; Daromeon (art) (Wikipedia; AniList; MangaUpdates) |
-| Origin | Ura Sunday website and MangaONE app, Shogakukan, from January 17, 2019 (prologue a day earlier per the fan wiki); **ongoing**, weekly. 34 volumes as of September 11, 2026 (Wikipedia); the fan wiki's list runs to ch. 374 (MangaUpdates genres: Action, Drama, Martial Arts, Mature, Shounen) |
+| Origin | Ura Sunday website and MangaONE app, Shogakukan, from January 17, 2019 (the fan wiki dates ch. 1 to January 16, 2019); **ongoing**; Comikey posts new chapters on Wednesdays. 34 volumes as of September 11, 2026 (Wikipedia); the fan wiki's list runs to ch. 374 (MangaUpdates genres: Action, Drama, Martial Arts, Mature, Shounen) |
 | English edition | Comikey, digital simulpub (Wednesdays), with a Brazilian Portuguese edition. **Publisher rating: none shown** on Comikey's series page; Comikey tags it Martial Arts, Shonen, Thriller, Tragedy. No English print edition found |
 | Anime | None for Omega. The Netflix anime Kengan Ashura (2019-2024, 52 episodes) adapted the prequel to its end; the crossover film Baki Hanma VS Kengan Ashura (Netflix, 2024) (Wikipedia) |
 | Recognition | No awards found. Database scores: AniList average 73, about 12,400 members; MangaUpdates 7.25 (Bayesian, 82 votes) |
