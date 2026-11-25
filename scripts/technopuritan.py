@@ -84,8 +84,8 @@ GUIDE = {
         'Lying and deception': "Values honest reasoning and updating beliefs on evidence; deception shown as clever without cost is a mild concern.",
     },
     'media': "Judges a story mainly by its message about family, discipline and progress rather than by intensity.",
-    'status': 'estimated',
-    'note': "Grades for this tradition are estimated, not written series by series: each one is worked out from the guide's existing analysis of the story's main ideas. A story gains when it affirms practical problem-solving, discipline and virtue, self-control, family duty, tradition, progress or helpful technology, and loses when it affirms pleasure-seeking, anti-natalism, nihilism, consumerism or self-expression as the goal of life (critiquing those counts in its favor).",
+    'status': 'draft',
+    'note': "Grades for this tradition were written series by series (November 2026) against this guide's rubric, then audited for consistency; they come from general knowledge of each series and are being checked.",
 }
 
 d = json.load(open(os.path.join(G, 'data.json')))
