@@ -20,8 +20,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=M+PLUS+Rounded+1c:wght@400;700;800&family=Noto+Serif+JP:wght@900&display=swap">
-<link rel="preload" as="image" href="img/goose.png">
-<link rel="preload" as="image" href="img/goose_fits.png">
+<link rel="preload" as="image" href="img/goose_all.png">
 <style>
 :root {
   --night: #160a33; --violet: #2b1458; --plum: #4a1f7a; --pink: #ff4fa3; --pink-2: #ff9ad0; --cyan: #45d0ff;
@@ -40,10 +39,11 @@ a { color: var(--cyan); text-underline-offset: 3px; }
 img { max-width: 100%; }
 .wrap { max-width: 1080px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
-.gs { position: relative; aspect-ratio: 50 / 92; image-rendering: pixelated; }
+.gs { position: relative; aspect-ratio: 56 / 91; image-rendering: pixelated; }
 .gs i { position: absolute; inset: 0; background-repeat: no-repeat; image-rendering: pixelated; }
-.gs .b { background-image: url(img/goose.png); background-size: 100% 100%; }
-.gs .f { background-image: url(img/goose_fits.png); background-size: 1100% 100%; }
+.gs .b { display: none; }
+/* goose_all.png: 6 columns of animation frames x 11 rows (row 0 = Goose Goose, rows 1-10 = outfits; col 0 idle, 1 blink/breathe ...) */
+.gs .f { background-image: url(img/goose_all.png); background-size: 600% 1100%; background-position: calc(var(--c, 0) * 20%) calc(var(--r, 0) * 10%); }
 .chrome { font-family: var(--font-display); line-height: 0.95; letter-spacing: 0.02em; color: #fff;
   background: linear-gradient(180deg, #ffffff 0%, #d9f1ff 42%, #3b5fa8 50%, #ffffff 58%, #ff9ad0 100%);
   -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
@@ -248,7 +248,7 @@ section.sec { padding-block: 64px 24px; scroll-margin-top: 70px; }
   background: linear-gradient(180deg, #fff, var(--paper-2)); color: var(--ink); border: 3px solid var(--ink); border-radius: 8px; font: 800 .8rem var(--font-body); }
 .form:hover { transform: translateY(-2px); }
 .form[aria-pressed="true"] { background: linear-gradient(180deg, #fff6b0, var(--yellow)); box-shadow: 0 0 0 3px var(--pink); }
-.thumb { width: 45px; height: 83px; image-rendering: pixelated; background-repeat: no-repeat; background-image: url(img/goose_fits.png), url(img/goose.png); background-size: 1100% 100%, 100% 100%; }
+.thumb { width: 51px; height: 83px; image-rendering: pixelated; background-repeat: no-repeat; background-image: url(img/goose_all.png); background-size: 600% 1100%; background-position: 0 calc(var(--r, 0) * 10%); }
 .tf-acts { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 16px; }
 
 /* honk attack */
@@ -303,7 +303,7 @@ body.shake { animation: shake .35s steps(6) 1; }
 .sp-card:nth-child(3n+2) { box-shadow: 6px 6px 0 var(--pink); }
 .sp-card:nth-child(3n) { box-shadow: 6px 6px 0 var(--yellow); }
 .sp-card.gg-kin { background: linear-gradient(160deg, #fff, #fff6b0); }
-.sp { width: 72px; height: 104px; image-rendering: pixelated; background: url(img/goose_species.png) calc(var(--i) * 10%) 0 / 1100% 100% no-repeat; border-radius: 6px;
+.sp { width: 72px; height: 104px; image-rendering: pixelated; background: url(img/goose_species2.png) calc(var(--i) * 10%) calc(var(--b, 0) * 100%) / 1100% 200% no-repeat; border-radius: 6px;
   background-color: #dff3ff; box-shadow: inset 0 -14px 0 #bfe6a0; }
 .sp-card h3 { font: 400 1.25rem var(--font-display); margin: 0; line-height: 1.15; }
 .sp-card .lat { margin: 2px 0 8px; font-size: .88rem; color: var(--muted); }
@@ -1080,7 +1080,7 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
   function show(id) { ["s0", "sv", "s1", "s2", "s3", "s4", "s5", "s6"].forEach(function (s) { $(s).classList.toggle("on", s === id); }); }
   function flash() { var f = $("flash"); f.classList.remove("go"); void f.offsetWidth; f.classList.add("go"); }
   function at(sec, fn) { timers.push(setTimeout(fn, sec * 1000)); }
-  function setFit(el, i) { el.style.backgroundPosition = pos(i); }
+  function setFit(el, i) { el.style.setProperty("--r", i); }
   var CARDS = [
     [0.0, [["THE BLESSED", 8, 34, 9], ["FIG TREE", 8, 46, 9]]],
     [0.6, [["PRESENTS", 30, 44, 7]]],
@@ -1141,7 +1141,7 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
   FITS.forEach(function (f, i) {
     var li = document.createElement("li"), b = document.createElement("button");
     b.type = "button"; b.className = "form"; b.setAttribute("aria-pressed", "false");
-    var t = document.createElement("span"); t.className = "thumb"; t.setAttribute("aria-hidden", "true"); t.style.backgroundPosition = pos(i) + ", 0 0";
+    var t = document.createElement("span"); t.className = "thumb"; t.setAttribute("aria-hidden", "true"); t.style.setProperty("--r", i);
     var l = document.createElement("span"); l.textContent = f[1];
     b.appendChild(t); b.appendChild(l); b.addEventListener("click", function () { wear(i, true); });
     li.appendChild(b); list.appendChild(li); buttons.push(b);
@@ -1149,7 +1149,8 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
   function restart(el, cls) { el.classList.remove(cls); void el.offsetWidth; el.classList.add(cls); }
   function wear(i, user) {
     cur = i;
-    fits.forEach(function (f) { f.style.backgroundPosition = pos(i); });
+    fits.forEach(function (f) { f.style.setProperty("--r", i); });
+    happyUntil = Date.now() + 700;
     $("formname").innerHTML = ""; $("formname").appendChild(document.createTextNode(FITS[i][2]));
     var sm = document.createElement("small"); sm.textContent = FITS[i][1]; $("formname").appendChild(sm);
     buttons.forEach(function (b, k) { b.setAttribute("aria-pressed", k === i ? "true" : "false"); });
@@ -1207,7 +1208,7 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
   function countText() { $("honkcount").textContent = "Honks unleashed on this device: " + honks; }
   countText();
   function honk() {
-    honkSound();
+    honkSound(); honkUntil = Date.now() + 450;
     honks++; store("goose-honks", String(honks)); countText();
     var hit = $("hit"); hit.classList.remove("on"); void hit.offsetWidth; hit.classList.add("on");
     clearTimeout(hitT); hitT = setTimeout(function () { hit.classList.remove("on"); }, 700);
@@ -1268,6 +1269,31 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
     box.appendChild(pr); box.appendChild(h); box.appendChild(opts); box.appendChild(fb); box.appendChild(next);
   }
   renderQ();
+
+  /* ---------- sprite animation: idle breathing, blinks, tail flicks, honk and happy frames ---------- */
+  var honkUntil = 0, happyUntil = 0, tick = 0;
+  function frameFor(row, now) {
+    if (row === 0) {
+      if (now < honkUntil) return 3;
+      if (now < happyUntil) return 4;
+      if (tick % 46 < 2) return 2;                 // blink
+      if (tick % 71 >= 30 && tick % 71 < 33) return 5; // tail flick
+      return (tick >> 3) % 2;                      // breathe: idle / squash
+    }
+    if (now < honkUntil || now < happyUntil) return 1;
+    return (tick % 46 < 2) ? 1 : 0;                // outfits: idle with a blink
+  }
+  function animate() {
+    tick++; var now = Date.now();
+    document.querySelectorAll(".gs .f").forEach(function (f) {
+      var r = parseInt(f.style.getPropertyValue("--r") || "0", 10) || 0;
+      f.style.setProperty("--c", frameFor(r, now));
+    });
+    if (tick % 23 === 0) {                        // one field-guide goose blinks now and then
+      var sp = document.querySelectorAll(".sp"); if (sp.length) { var g = sp[(Math.random() * sp.length) | 0]; g.style.setProperty("--b", 1); setTimeout(function () { g.style.setProperty("--b", 0); }, 220); }
+    }
+  }
+  if (!reduce) setInterval(animate, 110);
 
   /* ---------- start ---------- */
   var hashFit = idx(location.hash.slice(1)), saved = idx(store("goose-fit") || "");
