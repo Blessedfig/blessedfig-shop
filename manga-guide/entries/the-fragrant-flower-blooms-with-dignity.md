@@ -1,23 +1,21 @@
-# The Fragrant Flower Blooms With Dignity (Saka Mikami)
+# The Fragrant Flower Blooms With Dignity
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium-low.** Series facts come from Wikipedia, the Kodansha USA series page and Kodansha Japan volume pages (all opened). Kodansha Japan pages give official chapter ranges for volumes 19, 22 and 23 only; other volume-to-chapter ranges are inferred from those and marked "likely". Scene locations come from publisher blurbs, Anime UK News volume reviews, Anime News Network, Da Vinci Web and Dengeki Online (opened). Common Sense Media (anime), Anime Feminist, MyAnimeList reviews and two parts of a K MANGA creator interview were also opened. No Christian, conservative or Plugged In review was found. Items resting on general knowledge are marked "(from general knowledge; to verify)".
-
-**Intensity note:** this series is much lower in content intensity than most prior entries (overall 3 out of 10, against 5 for *Horimiya* and far higher for action and horror titles). It has no sexual content reported, little violence, and its heaviest material is low self-esteem, past bullying, and a teacher's backstory trauma whose details are not yet confirmed (vol. 23-24).
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 22 lookups). The series is ongoing: sources reach **chapter 207** ("So That One Day," uncollected; English Wikipedia and the fan wiki's page list), with 24 Japanese volumes (to ch. 187, September 2026) and English volumes from Kodansha USA in print (vol. 15 on October 13, 2026; vol. 16 due December 22, 2026). Series facts and the volume-to-chapter map come from English Wikipedia (the series article, opened through its raw-text endpoint), the AniList and MangaUpdates APIs, and Kodansha USA's series page (age rating 13+). Plot points for the later arcs come from the fan wiki (kaoruhana.fandom.com, read through its API: the volume pages for vols. 2, 3, 6, 13, 14, 19 and 21-24, and the Rintaro, Kaoruko, Ayame Toki and Saka Mikami pages; facts only). Reviews opened: Anime News Network (Kevin Cormack, manga vols. 1-3), Common Sense Media (anime), Anime Feminist (anime series review), The A.V. Club and Aftermath (anime). Creator statements: K Manga's two-part interview with Saka Mikami (Kodansha) and the Production section of Wikipedia. The fan wiki began returning a bot check partway through, so individual chapter pages (for example ch. 100-101 and 158-159) could not be opened; Beneath the Tangles, Plugged In and The Manga Critic have no review of this series in search results. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | The Fragrant Flower Blooms With Dignity. Japanese: 薫る花は凛と咲く (*Kaoru Hana wa Rin to Saku*) |
-| Creators | Saka Mikami (story and art). Mikami won Kodansha's 105th Newcomer Manga Award for the one-shot *Kurage no Uta* (*Song of the Jellyfish*) before this series (Wikipedia; K MANGA interview) |
-| Origin | Magazine Pocket (Kodansha web and app), Shōnen Magazine Comics imprint; shōnen (Kodansha Manga Award shōnen nominations 2023-2026). Began October 20, 2021. **Ongoing**: 24 volumes in Japan as of September 9, 2026 (Wikipedia; Kodansha Japan) |
-| English edition | **Kodansha USA** (confirmed). Digital simulpub on K Manga; print from vol. 1 (June 4, 2024). Publisher age rating: **13+** (Kodansha USA series page; Anime UK News: "Teen 13+"). English print vol. 15 out October 13, 2026; vols. 16-18 scheduled December 2026 to April 2027 (Wikipedia). Volumes: 24 JP, 15 EN (November 2026) |
-| Anime | CloverWorks, dir. Miyuki Kuroki; 13 episodes, July 6 to September 28, 2025; Netflix worldwide (US from September 7, 2025). Common Sense Media lists it as TV-PG. The anime ends around the confession (vol. 6); vol. 7 is "the first volume beyond the anime" (Anime UK News) |
-| Recognition | Over 10 million copies in circulation by December 2025. 6th, Next Manga Award 2022 (web); 2nd, Tsutaya Comic Award; 7th, Nationwide Bookstore Employees' Recommended Comics 2023; Kodansha Manga Award shōnen nominee 2023-2026; Japan Expo Awards 2026 Best Romance Manga. Anime: Crunchyroll Anime Awards Best Romance; Anime Trending Couple of the Year (Wikipedia). MyAnimeList manga score 8.76, rank #572, popularity #98 (opened, November 2026) |
-| Other guides | Common Sense Media (anime): **10+** (Danae Stahlnecker); parents' average 13+ (3 reviews). No Plugged In or ScreenWise review found |
+| Title | The Fragrant Flower Blooms With Dignity. Japanese: 薫る花は凛と咲く (Kaoru Hana wa Rin to Saku) (Wikipedia; AniList id 140475, confirmed) |
+| Creators | Saka Mikami (story and art). Her one-shot "Song of the Jellyfish" won Kodansha's 105th Newcomer Manga Award (Wikipedia); she was earlier an assistant to Satoru Nii (Wind Breaker) (fan wiki; K Manga interview) |
+| Origin | Magazine Pocket (Kodansha's web and app magazine), shonen line (Shonen Magazine Comics). Serialized from October 20, 2021; **ongoing**. 24 volumes as of September 2026; chapters 188-207 not yet collected (Wikipedia). MangaUpdates lists 24 volumes, ongoing |
+| English edition | Kodansha USA, digital first on K Manga, print from June 4, 2024 (vol. 1). Publisher rating: **13+** (Kodansha USA series page). Vol. 15 October 13, 2026; vol. 16 December 22, 2026 (Wikipedia) |
+| Anime | CloverWorks, 13 episodes, July 6 to September 28, 2025 (dir. Miyuki Kuroki); streamed on Netflix, which held it back outside Asia until September 2025 (Aftermath). It adapts vols. 1-6 (ch. 1-40), skipping ch. 32 and parts of ch. 23-24 and 27 (MangaUpdates). Common Sense Media rates the anime 10+ |
+| Recognition | Nominated for the Kodansha Manga Award (shonen) four years running, 2023-2026; second in the Tsutaya Comic Awards; seventh in the 2023 Bookstore Employees' Recommended Comics; Japan Expo Daruma for Best Romance Manga (2026). Over 10 million copies in circulation by December 2025 (Wikipedia). Database scores: AniList average 86, about 82,500 members; MangaUpdates 7.85 (Bayesian, 314 votes) |
+| Other guides | Common Sense Media (anime): age 10+; positive messages and role models rated high; violence "a little," language and romance "some," drinking and smoking not present. No Plugged In, Beneath the Tangles or Anime Feminist manga review found. AniList tags: Iyashikei, Primarily Teen Cast, Coming of Age, Delinquents. MangaUpdates categories include Prejudice, Rival Schools, Low Self-Esteem, Loving Family, Supportive Family |
 | Entry tier | From summaries |
 
-**Premise.** Two schools sit side by side: Chidori Public High, a low-ranked boys' school whose students are written off as delinquents, and Kikyo Girls' Academy, an elite private school for girls from wealthy families. The schools despise each other. Rintaro Tsumugi, a tall, blond, pierced Chidori second-year with a "scary face," is gentle and helps at his family's cake shop, Patisserie Plain. Kaoruko Waguri, a small, cheerful Kikyo scholarship student from an ordinary family, is a regular customer who was never afraid of him. When they learn each other's schools, Rintaro tries to keep away, then realizes that avoiding her because of her school is the same prejudice he has always faced (Da Vinci Web, ch. 1-2). Their friendship, and their friends' (Shohei Usami, Saku Natsusawa, Ayato Yorita, Subaru Hoshina, Madoka Yuzuhara), slowly breaks down the schools' hostility. Kodansha USA calls it a *Romeo and Juliet* retelling "with a playful twist." There is no villain; the antagonist is prejudice, and later a Kikyo teacher whose wound explains the rift (vol. 22-24).
+**Premise.** Rintaro Tsumugi is a tall, stern-looking second-year at Chidori Public High, an all-boys school with a reputation for low grades and delinquents. He works at his family's cake shop, where he meets Kaoruko Waguri, a small, cheerful scholarship student at the elite Kikyo Private Academy for girls next door. The two schools despise each other. Kaoruko sees Rintaro's kindness rather than his face or his uniform, and their friendship slowly draws in his friends Saku, Shohei and Ayato and her friends Subaru and Madoka. Subaru, who was bullied as a child and fears boys, comes to trust them (ch. 6-13); Rintaro confesses and the two begin dating (ch. 38-40, vol. 6). Later volumes follow birthdays, school trips and career choices (Rintaro aims to be a patissier; Kaoruko studies for medical school), and then the adults: in vol. 22 a Kikyo teacher, Ms. Toki, discovers the relationship and urges Kaoruko to leave the school. Through a Chidori teacher, Mr. Tsukada, the students meet Kikyo's principal and Ms. Toki, whose guilt over a former student injured eleven years earlier turns out to be the root of the schools' division (vols. 23-24). The latest chapters follow Saku and Subaru's feelings (Wikipedia; fan wiki).
 
 ## Life message
 
@@ -25,111 +23,119 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | A slow, careful pair bond between two teens across a group boundary (in-group/out-group schools). Parents vet the partner: Rintaro faces Kaoruko's mother (vol. 8). Coalitions (the two friend groups) merge. Status signals (uniform tailoring, school rank) shape mate and friend choice and are overcome. No fighting for mates; Rintaro "doesn't fight back" (CSM). |
-| Pragmatic | Problems are solved by talking: misunderstandings are cleared in person (vol. 10), and the school conflict ends in a meeting with the principal, not a fight (vol. 23). Tutoring gets the Chidori boys through exams (vol. 4). Career paths and mock exams take up later volumes (chapter titles "Rintaro's Path," "Job Interview," "To the National Mock Exams"). Critics say the relentless apologizing and thanking can feel unrealistic (MAL reviews). |
-| Religious | No religion on the page beyond custom: a New Year shrine visit (vol. 14) and a Christmas date the blurb calls a "holy night" (vol. 14), both secular-seasonal. The moral core (do not judge by appearance, humility, reconciliation, honoring parents) overlaps with many faiths without naming any. |
-| Socio-cultural | A study of class and stereotype: a working-class boys' school and an elite girls' school, uniforms as status markers (Anime Feminist), a scholarship girl inside wealth. It challenges the "delinquent" label on boys and the "snotty" label on rich girls (Anime Feminist), and questions macho norms through a gentle hero. Institutional prejudice (Kikyo's rule against contact, a teacher's ultimatum, vol. 22) is resolved by dialogue. |
+| Evolutionary biology | A slow courtship in which trust is earned by reliability, care for family (Kaoruko keeps house while her mother is in hospital; fan wiki) and protection of the vulnerable (Rintaro steps in when girls are harassed, ch. 1). Groups that saw each other as rivals become one band of friends. |
+| Pragmatic | Misunderstandings are talked through quickly instead of being drawn out (Aftermath praises the characters for simply talking to each other). Conflicts between schools are settled by meetings arranged through teachers and a principal (vols. 22-23), not by defiance. |
+| Religious | No religion shapes the plot. A New Year shrine visit (vol. 14) and Christmas are shown as ordinary customs. Faith readers will find much to affirm: the story's core idea (do not judge by outward appearance) has close parallels in scripture and in Buddhist and Confucian teaching; the main question for conservative families is teen dating. |
+| Socio-cultural | A story about class and school-rank prejudice in Japan. Anime Feminist reads it as putting down "the labels of socioeconomic difference"; The A.V. Club reads Rintaro as a model of gentle, respectful masculinity; Common Sense Media names stereotypes as the main theme. The adults' prejudice is traced to a past injury and grief rather than malice (vols. 23-24). |
+
+Outlook: Hopeful: the couple and their friends bridge the two schools, the adults reconcile and begin new exchanges between Chidori and Kikyo (vol. 24), and both leads move toward the careers they chose.
+Hope source: F: the way through is friends and community; prejudice is overcome as two groups of friends become one and the teachers follow (vols. 22-24). Love between two (L) is the close second.
 
 ## Content scores
 
-**Overall content level: 3 out of 10** (set by Violence, Sexuality and romance, and Mental health, all at 3). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 3 out of 10** (set by Violence, Sexuality and romance, and Mental health). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 3 | Occasional | Condemned / Shown with consequences | Rintaro is rumored to be a bully but "doesn't fight back"; he "does get hurt when stopping other people's fights"; "minor blood from pushing, kicking, and punching" (CSM, anime). Rintaro defends Kaoruko from strangers harassing her at night (vol. 1, likely ch. 1-5; Wikipedia, Anime Feminist). "A few fights with troublemaking undesirables," with "no gang warfare" (ANN vols. 1-3). Ayato is a skilled fighter who acts when friends are hurt (Mangapedia). No weapons or gore reported. |
-| Fear and intensity | 2 | Rare | Neutral | Harassment at night (vol. 1). Emotional tension in confrontations between the schools; the Toki ultimatum and conference (vol. 22-23). A past "major incident (a trauma)" behind the school rift is revealed in vol. 23-24 (Kodansha Japan; Dengeki Online); its nature is not confirmed (to verify). |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 3 | Central (romance); none (sex) | Endorsed (romance) | Slow-burn romance is the subject; ANN's Silverman calls the anime finale "incredibly romantic" with minimal physical contact (Wikipedia). Confession at the summer festival, accepted (vol. 6, likely ch. 22-25; Anime UK News). Christmas date where they "share a special moment" (vol. 14, likely ch. 54-57; Kodansha Japan blurb): likely a first kiss (to verify). Rintaro "ends up alone with Kaoruko in her room" on her birthday (vol. 19, ch. 74-77; Kodansha Japan blurb), framed as a tease (what happens: to verify). A MAL reviewer notes the series "avoids fan service." No nudity or sexual content reported. CSM (anime): "Teens have crushes... romances develop slowly." |
-| Language | 2 | Occasional, mild | Neutral | CSM (anime): "jerk," "give a damn," "idiot"; Chidori called the "stupid kids' school." Kodansha USA English text not checked (to verify). |
-| Substances | 0 | None | Not present | CSM: not present. None reported in the manga. |
-| Mental health and self-harm | 3 | Recurring | Shown with consequences (healed through friendship) | Rintaro's low self-esteem and habit of giving up (Mangapedia; ANN calls his self-critical thoughts "completely understandable"). Subaru was bullied by boys as a child over her hair color and fears men (Mangapedia, vol. 2-3). Ayumi Sawatari "starts to put herself down" (vol. 10, likely ch. 38-41). CSM: "minor self-harm when kids pinch or punch themselves" (anime; likely comic or self-rebuke, to verify). Toki's guilt over failing to protect a former student (vol. 24). One MAL reviewer warns against reading it "when you are... depressed" because of its emotional pull. No suicide (ANN vols. 1-3). |
-| Imitable behavior | 1 | Rare | Neutral | Rintaro's piercings and dyed hair (appearance only). Meeting across a school rule that forbids contact (vol. 22). |
-| Commercial | 2 | Light | Neutral | Bakery and cakes throughout; Netflix anime; Wind Breaker crossover promotion (Kodansha USA, found in search, not opened). CSM: consumerism not present. |
+| Violence | 3 | Occasional | Condemned / Shown with consequences | Ch. 1: delinquents corner Kaoruko and a friend at night and Rintaro intervenes (Anime Feminist; CSM: "teen girls are cornered at night by strangers who harass them"). Rintaro does not fight back when provoked but is hurt stopping others' fights; "a little blood" from punches and kicks (CSM). Vol. 14 synopsis mentions a Christmas Eve "battle won" in Yorita's arc (ch. 94-98; nature not confirmed). The schools' rift traces to a Kikyo student who fell from a hill in a park eleven years earlier and was hospitalized (vols. 23-24, fan wiki; details to verify). |
+| Fear and intensity | 2 | Rare | Neutral | Tense confrontations between the schools; Ms. Toki's demand that Kaoruko leave Kikyo (vol. 22); a horror-movie outing played for fun (ch. 116, title only). |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 3 | Central (romance); none (sex) | Endorsed (romance) | A slow, chaste romance: Rintaro's confession and the start of dating (ch. 38-40, vol. 6). ANN's Rebecca Silverman notes the anime (to ch. 40) has minimal touching and no kissing (via Wikipedia). Christmas date with a "special moment" and a "passionate exchange" (vol. 14 synopses, ch. ~100-101; likely a first kiss, to verify). Beach trips (ch. 33, vol. 5; ch. 137, vol. 18; swimsuits likely, from general knowledge; to verify). Ch. 142 (vol. 19): on her birthday Rintaro ends up alone with Kaoruko in her room (fan wiki synopsis; what happens not confirmed). Shohei jokes about wanting a girlfriend (CSM). No fan service or sexual content reported by any source opened. |
+| Language | 2 | Occasional, mild | Neutral | CSM (anime dub): "jerk," "give a damn," "idiot"; Chidori is called the "stupid kids' school." English manga text not checked (to verify). |
+| Substances | 0 | None | Not present | CSM lists no drinking, drugs or smoking for the anime; none reported in manga sources. |
+| Mental health and self-harm | 3 | Recurring | Shown with consequences (healed through friendship) | Rintaro's low self-esteem after childhood rejection; he once resolved to stop trying to make friends (A.V. Club). Subaru's fear of boys after being bullied (ch. 6-13). Kaoruko's anxiety and her load of housework and care while her mother is often hospitalized (fan wiki). Saku's past (ch. 71) and Yorita's crisis about his future (ch. 94-98). Ms. Toki's long guilt over a former student (vols. 23-24). CSM: "minor self-harm" in the sense that kids pinch or slap themselves to snap out of a mood. |
+| Imitable behavior | 1 | Rare | Neutral | Self-slapping to shake off a mood (CSM); students meeting against a school rule (vols. 21-22) before the matter goes to teachers. |
+| Commercial | 2 | Light | Neutral | Anime, Blu-rays, a postcard book and a Wind Breaker crossover illustration (Kodansha USA); the cake shop is a setting, not a product. |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Recurring | Rintaro's parents run the bakery; his mother Kyoko is "a caring parent with healthy boundaries" (CSM); his parents' own story is told in later chapters ("Kyoko and Keiichiro," "Keiichiro and Kyoko"). Rintaro bakes cakes and comes to value his father's work (vol. 5). He faces Kaoruko's mother and chooses what to say (vol. 8). A parent-teacher meeting and career choices (later chapters). School authority is first an obstacle (Kikyo's hostility; Toki's ultimatum, vol. 22) and then a partner (teachers "moved by the sincerity" of students, vol. 24). Respectful challenge, not rebellion. |
-| Religion and spirituality | Incidental | New Year shrine visit and Christmas date (vol. 14) as seasonal customs. No religious characters. |
-| Gender and identity (incl. LGBTQ) | Recurring | Single-sex schools and gender stereotypes on both sides are the setting; Rintaro is a gentle, domestic tall boy, Kaoruko a small, strong-willed girl; Anime Feminist and CSM highlight how "gender, class, and social pressure affect students." Subaru's fear of boys from bullying is treated with care. No LGBTQ characters reported (to verify). |
-| Politics and social issues | Central | Class prejudice and stereotype ("An important theme is how stereotypes are harmful," CSM); scholarship student among the wealthy; bullying; institutional distrust between schools resolved by dialogue (vol. 23-24). Not partisan. |
+| Family and authority | Recurring | Loving, involved parents: Rintaro's mother dyed her hair and got piercings so her son would not be stigmatized for his (ch. 21, "Blond Hair and Pierced Ears"; A.V. Club); Rintaro meets Kaoruko's family (ch. 55-57, vol. 8) and her father (ch. 126, vol. 17). Teachers are first an obstacle (Ms. Toki) and then the means of reconciliation (Mr. Tsukada, the principal; vols. 22-24). |
+| Religion and spirituality | Incidental | A New Year shrine visit and Christmas (vol. 14) as customs; no religious argument. |
+| Gender and identity (incl. LGBTQ) | Recurring | A boy who bakes and a gentle, tall "scary" boy challenge male stereotypes (A.V. Club; Wikipedia, Production); Kaoruko is both soft-spoken and firm (CSM). Girls' and boys' school stereotypes about each other are taken apart. No LGBTQ storylines found in sources opened. |
+| Politics and social issues | Central | Prejudice by school rank and class; scholarships and family income (Kaoruko's scholarship depends on her grades, fan wiki); institutional separation and how it is reformed (vols. 22-24). |
 
-**Virtues shown:** kindness, humility, honesty, courage to face prejudice, patience, gratitude, apology and forgiveness, loyalty to friends, diligence (study, baking, part-time work), respect for parents, gentleness and restraint from violence.
+**Virtues shown:** kindness, honesty, patience, humility, courage to speak up, loyalty to friends, forgiveness, diligence (study, baking, part-time work), gratitude to parents, respect for elders even in disagreement, reconciliation.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only; **Depiction concern** is that tradition's view of the explicitness itself. All frame guides are drafts from general knowledge, so every row is a draft. What the rows weigh: the core message (do not judge by appearance, reconcile divided groups, honesty, kindness, honoring parents) is clear and consistently rewarded; violence is rare and the hero refuses to fight back; there is no sexual content reported, but the series is centered on unchaperoned teen dating, with a private room scene (vol. 19) and a likely kiss (vol. 14) still to confirm; religion is absent except seasonal customs. The main dividing line is teen dating itself, which some traditions counsel against.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a story whose core is not judging people by appearance, school or class; a slow teen romance with dating from ch. 40, a likely first kiss in vol. 14 (to verify) and a scene alone in a girl's room (ch. 142); loving parents and teachers who reconcile two schools through dialogue (vols. 22-24); a gentle hero who does not return blows; mild language; no substances, no occult and no sexual content reported. No sexual content involving minors was found in sources opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | A | Minor | Dignity of every person regardless of class (CCC 1700, 1935); charity across division; courtship that involves parents (vol. 8); reconciliation of enemies. | Romance without a faith horizon; teen alone in a girl's room (vol. 19, to verify). | Inter Mirifica's test: does it serve truth and dignity? Prejudice as a sin against justice (CCC 1935). What makes a friendship chaste and good? |
-| Eastern Orthodox | A | Minor | Humility, meekness (Rintaro does not return blows), love shown in small service (baking), peacemaking. | Romance as the center of life; guarding the senses applies lightly. | Meekness as strength. Watchfulness over self-contempt as well as pride. (from general knowledge; to verify) |
-| Baptist | A | Minor | "Man looks on the outward appearance, but the Lord looks on the heart" (1 Samuel 16:7) is the premise; honesty, apology, honoring parents. | Teen dating with little explicit boundary-setting; no faith frame. Each family decides. | Philippians 4:8 test: most chapters pass. What does honoring one another (Romans 12:10) look like in dating? |
-| Non-denominational Evangelical | A | Minor | Breaking down "dividing walls of hostility" (Ephesians 2:14 echo) between groups; kindness to outsiders; forgiveness. | Hope and healing come from friends, not God; dating as a main source of meaning. | Where does the story's reconciliation come from, and what would the gospel add? |
-| Pentecostal / Charismatic | A | Minor | Restoration of the low in spirit; warm community; no occult content. | Holiness standards on dating and appearance (piercings, dyed hair) vary by church. | Self-worth as identity in Christ compared with worth found in being seen by friends. |
-| Reformed / Presbyterian | A | Minor | Common grace in a well-made, kind story; confession and apology; a lawful authority (school) persuaded rather than defied. | Nothing lascivious reported (WLC Q139); teen romance focus. | Prejudice and pride as sins; the story's high view of human goodness ("everyone is kind," Mikami) against total depravity. |
-| Lutheran | A | Minor | Vocation: baking, study, part-time work, parents' work honored (vol. 5). Confession and forgiveness among friends. | Little; confessional families may weigh dating counsel. | Vocation as love of neighbor; the Fourth Commandment in Rintaro's respect for his parents. |
-| Methodist / Wesleyan | A | Minor | Social holiness on a small scale; inclusion of the despised; "do no harm" in Rintaro's restraint. | Holiness churches more cautious about romance-centered media than UMC. | Wesley's General Rules: does it "tend to the knowledge or love of God"? Means of grace in friendship. |
-| Anglican / Episcopal | A | Minor | Reconciliation, class barriers questioned, imagination used generously. | Little to raise. | Lewis's *The Four Loves*: which loves (friendship, eros, affection) does the story show? |
-| Anabaptist (Mennonite, Amish, Brethren) | B | Discuss | Nonresistance (Rintaro refuses to fight back), humility, peacemaking between communities, forgiveness. | Separation from worldly media makes a secular teen romance a concern for Old Order families; MC USA families vary. | Peacemaking as the way the two schools are reconciled; Matthew 5:9. |
-| Latter-day Saint | A | Minor | Kindness, family-centered life, involving parents in courtship, honesty, ministering to the lonely. | For the Strength of Youth counsels care in dating as a teen; the private room scene (vol. 19) and piercings may be discussed. | Does it invite the Spirit? Seeing others as children of God beyond labels. |
-| Mainline progressive Protestant | S | Minor | Justice across class lines, challenge to gender stereotypes, welcome of the outsider, care for bullying survivors. | Little to raise; no LGBTQ representation reported. | Who is the "Chidori" in our town? Systemic prejudice and how institutions change (vol. 23-24). |
-| Seventh-day Adventist | B | Minor | Kindness, temperance (no substances), service, family. | Romance-centered entertainment (Ellen White on fiction exciting the passions); adornment counsel (piercings). | Fundamental Belief 22; "by beholding we become changed" applied to a gentle story. (from general knowledge; to verify) |
-| Jehovah's Witness | B | Discuss | Kindness, honesty, peaceableness, no spiritism or violence glorified. | jw.org counsels dating only when old enough to marry; teen dating and being alone together (vol. 19). | Psalm 11:5 test is passed; Galatians 5:22-23 fruits (mildness, kindness) in Rintaro. (from general knowledge; to verify) |
-| Christian Science | A | Minor | Love dissolves fear and prejudice; right thinking about others replaces false labels. | Dwelling on self-doubt and sorrow; little else. | "Stand porter at the door of thought": how do the characters replace fearful thoughts about each other? (from general knowledge; to verify) |
-| Orthodox Jewish | B | Discuss | Kavod habriyot (human dignity), avoiding lashon hara about the other school, honoring parents, hesed. | Tzniut: mixed-sex teen dating and being alone together (yichud) are against halacha; many Haredi homes would not have it; Modern Orthodox families more selective. | Lashon hara and group stereotypes; the story as a parable of sinat chinam (baseless hatred). (from general knowledge; to verify) |
-| Conservative Jewish | A | Minor | Dignity, lovingkindness, repairing relations between communities. | Teen dating left to family values. | Sinat chinam and how the schools overcome it. (from general knowledge; to verify) |
-| Reform Jewish | A | Minor | Tikkun olam on a small scale; dignity; challenging stereotypes. | Little to raise. | How do stereotypes start, and how did these students repair them? (from general knowledge; to verify) |
-| Muslim | B | Discuss | Justice and dignity regardless of status (Qur'an 49:13: "the most noble... is the most righteous"); honoring parents; mercy; good character (akhlaq). | The premise is unchaperoned dating; being alone together (khalwa, vol. 19); a likely kiss (vol. 14). No sexual content reported. | Qur'an 49:11-13 on mocking other groups and on nobility by piety, not wealth. Adab between young men and women. |
-| Hindu | A | Minor | Seva, respect for parents and teachers, humility, freedom from caste-like contempt for others. | Romance in the student stage (brahmacharya) for some families. | Seeing the same Self in all (Gita 5.18: the wise see equally the learned and the outcast). (from general knowledge; to verify) |
-| Buddhist | A | Minor | Right speech, compassion, non-violence, letting go of views about others. | Attachment in romance, gently shown. | Labels as wrong view; how do Rintaro and Kaoruko see past them? |
-| Sikh | A | Minor | Equality of all regardless of status (rejection of caste), seva, honest work (kirat karni), humility. | Romance-centered; little else. | Langar's equality and the two schools' class divide. (from general knowledge; to verify) |
-| Bahá'í | A | Minor | Elimination of prejudice is a core Bahá'í principle; unity; parents involved in the relationship. | Teen dating with chastity left implicit. | The oneness of humanity and the abandonment of prejudice of class. (from general knowledge; to verify) |
-| Shinto | A | Minor | Makoto (sincerity), harmony restored, gratitude; New Year shrine visit shown naturally (vol. 14). | Little to raise. | Hatsumode as a family custom; sincerity in Rintaro's speech to the principal (vol. 23). (from general knowledge; to verify) |
-| Wiccan / Pagan | A | Minor | "Harm none," acceptance of difference, no stereotyping of pagans. | Little to raise. | How harm comes from labels. (from general knowledge; to verify) |
-| Scientologist | A | Minor | Communication resolves conflict; The Way to Happiness precepts (be worthy of trust, honor parents, respect others). | Little to raise. | Which precepts do the friends keep? (from general knowledge; to verify) |
-| Secular progressive | A | Minor | Anti-stereotype message, class awareness, gentle masculinity, consent-respecting slow romance, healthy parents (CSM). | No LGBTQ representation reported; Kikyo's authorities are slow to change. | Where do stereotypes about other schools or neighborhoods come from? CSM 10+. |
-| Secular humanist | A | Minor | Reason, dialogue and empathy settle conflict; meaning in human relationships. | Characters' near-uniform goodness can feel idealized (MAL critics). | What evidence changed each side's mind? |
-| Conservative / traditional | A | Minor | Hard work, family business, respect for parents and teachers, gentlemanly conduct, courtship that faces the parents (vol. 8), change through proper channels (vol. 23). | Teen dating normalized; the private room scene (vol. 19). | Is Rintaro a model of chivalry? How should students challenge a school rule respectfully? |
-| Unitarian Universalist | S | Minor | Inherent worth and dignity of every person; justice and community; free search for understanding. | Little to raise. | How does a community notice its own prejudice? (from general knowledge; to verify) |
-| Satanist | B | Minor | Challenges unjust institutional rules (Satanic Temple Tenet 2, justice); compassion (Tenet 1); reason over prejudice. | Church of Satan readers may find the constant apologizing and self-effacement a weak model; little else. | Is Rintaro's humility strength or self-denial? (from general knowledge; to verify) |
+| Catholic | A | Minor | Dignity of every person regardless of class or reputation (CCC 1700, 1935); charity across division; courtship that involves parents (vol. 8); enemies reconciled (vols. 23-24). | Teen romance without a faith horizon; the leads alone in Kaoruko's room (ch. 142; content to verify). | "Man looks on the outward appearance, but the Lord looks on the heart" (1 Samuel 16:7): who in your school gets judged by their "uniform"? |
+| Eastern Orthodox | A | Minor | Meekness (Rintaro does not return blows), love shown in small service (baking), peacemaking, humility. | Romance as the center of life; guarding the senses applies only lightly here. | "Blessed are the peacemakers" (Matthew 5:9): who makes peace between Chidori and Kikyo, and how? |
+| Baptist | A | Minor | 1 Samuel 16:7 is the premise; honesty, apology, honoring parents (Ephesians 6:1-3); no profanity of note. | Teen dating with little explicit boundary-setting; the private room scene (ch. 142); no faith frame. Each family decides. | Talk about dating standards using Rintaro's respect for Kaoruko as a starting point. |
+| Non-denominational Evangelical | A | Minor | Breaking down "the dividing wall of hostility" (Ephesians 2:14 echo) between two groups; kindness to outsiders; forgiveness of a teacher who wronged them. | Hope and healing come from friends, not God; dating as a main source of meaning. | Ephesians 2:14 beside the two schools: what walls do we build, and what tears them down? |
+| Pentecostal / Charismatic | A | Minor | Restoration of the low in spirit (Rintaro, Subaru); warm community; no occult content. | Holiness standards on dating and appearance (piercings, dyed hair) vary by church. | Isaiah 61:3, "beauty for ashes," beside Rintaro's and Subaru's healing. (from general knowledge; to verify) |
+| Reformed / Presbyterian | A | Minor | Common grace in a well-made, kind story; confession and apology; a lawful authority (the school) persuaded rather than defied (vol. 23). | Nothing lascivious reported (WLC Q139); teen-romance focus. | How do the students honor their teachers while disagreeing with them (WLC Q124-129 on the fifth commandment)? |
+| Lutheran | A | Minor | Vocation: baking, study, part-time work and parents' work honored; confession and forgiveness among friends. | Little; confessional (LCMS, WELS) families may weigh dating counsel. | Vocation: how do Rintaro's and Kaoruko's callings (patissier, doctor) serve their neighbors? |
+| Methodist / Wesleyan | A | Minor | Social holiness on a small scale; inclusion of the despised; "do no harm" in Rintaro's restraint. | Holiness churches more cautious about romance-centered media than the UMC. | Wesley's "do no harm, do good": where does each character practice both? |
+| Anglican / Episcopal | A | Minor | Reconciliation; class barriers questioned; imagination used generously. | Little to raise. | The baptismal promise to "respect the dignity of every human being" beside the two schools. |
+| Anabaptist (Mennonite, Amish, Brethren) | B | Discuss | Nonresistance (Rintaro will not fight back), humility, peacemaking between communities, forgiveness. | Separation from worldly media makes a secular teen romance a concern for Old Order families; MC USA families vary. | Matthew 5:39 beside Rintaro's refusal to hit back. (from general knowledge; to verify) |
+| Latter-day Saint | A | Minor | Kindness, family-centered life, parents involved in courtship, honesty, ministering to the lonely. | For the Strength of Youth counsels care with teen dating; the private room scene (ch. 142) and piercings may be discussed. | For the Strength of Youth on dating: what makes Rintaro and Kaoruko's relationship respectful? |
+| Mainline progressive Protestant | S | Minor | Justice across class lines, challenge to gender stereotypes, welcome of the outsider, care for bullying survivors (Subaru). | Little to raise; no LGBTQ representation found. | Who are the "Chidori boys" of our town, judged before they speak? |
+| Seventh-day Adventist | B | Minor | Kindness, temperance (no substances), service, family. | Romance-centered entertainment (Ellen White on fiction that excites the passions); adornment counsel (piercings). | "By beholding we become changed": what do Rintaro's friends learn by watching him? |
+| Jehovah's Witness | B | Discuss | Kindness, honesty, peaceableness; no spiritism and no violence glorified. | jw.org counsels dating only when old enough to marry; teen dating and being alone together (ch. 142). | jw.org questions on dating readiness beside the leads' choices. (from general knowledge; to verify) |
+| Christian Science | A | Minor | Love dissolves fear and prejudice; right thinking about others replaces false labels. | Dwelling on self-doubt and sorrow; little else. | How does fear (Subaru, Ms. Toki) give way to love? |
+| Orthodox Jewish | B | Discuss | Kavod habriyot (human dignity); avoiding lashon hara about the other school; honoring parents; chesed. | Tzniut: mixed-sex teen dating and being alone together (yichud, ch. 142) are against halacha; many Haredi homes would not keep it; Modern Orthodox families are more selective. | Lashon hara: how do rumors about Rintaro and about Kikyo girls do harm? |
+| Conservative Jewish | A | Minor | Dignity, lovingkindness, repair between communities. | Teen dating left to family values. | Shalom bayit writ large: what does peace between two schools require? |
+| Reform Jewish | A | Minor | Tikkun olam on a small scale; dignity; challenging stereotypes. | Little to raise. | What stereotypes do we hold about other schools or towns? |
+| Muslim | B | Discuss | Justice and dignity regardless of status ("the most noble of you in the sight of God is the most righteous," 49:13); honoring parents; mercy; good character (akhlaq). | The premise is unchaperoned teen dating; being alone together (khalwa, ch. 142); a likely kiss (vol. 14). No sexual content reported. | Qur'an 49:11-13 on mockery and labels beside the two schools' insults. |
+| Hindu | A | Minor | Seva, respect for parents and teachers, humility, freedom from caste-like contempt for others. | Romance in the student stage (brahmacharya) for some families. | Seeing the same self in everyone (Gita 6:29) beside Kaoruko's way of seeing. (from general knowledge; to verify) |
+| Buddhist | A | Minor | Right speech, compassion, non-harm, letting go of fixed views about others; Ms. Toki released from a long grief (vol. 24). | Attachment in romance, gently shown. | How does holding on to an old hurt keep Ms. Toki and the schools stuck? |
+| Sikh | A | Minor | Equality of all regardless of status (rejection of caste), seva, honest work (kirat karni), humility. | Romance-centered; little else. | Kirat karni: Rintaro at the bakery, Kaoruko at her part-time job. |
+| Bahá'í | A | Minor | Elimination of prejudice, a core Bahá'í principle; unity; parents involved in the relationship. | Teen dating with chastity left implicit. | "Ye are the fruits of one tree": what makes two schools one? |
+| Shinto | A | Minor | Makoto (sincerity), harmony restored, gratitude; a New Year shrine visit shown naturally (vol. 14). | Little to raise. | Sincerity (makoto) in Rintaro's apologies and thanks. (from general knowledge; to verify) |
+| Wiccan / Pagan | A | Minor | "Harm none," acceptance of difference, no stereotyping of anyone. | Little to raise. | How does each character practice "harm none" toward the other school? |
+| Scientologist | A | Minor | Communication resolves conflict; The Way to Happiness precepts (be worthy of trust, honor parents, respect others). | Little to raise. | Which Way to Happiness precepts do the teachers finally follow in vol. 23? |
+| Secular progressive | A | Minor | Anti-stereotype message, class awareness, gentle and respectful masculinity (A.V. Club), slow romance built on friendship, healthy parents (CSM). | No LGBTQ representation found; the institutions change slowly and only after students push. | Who benefits when two groups are kept apart, and who pays? |
+| Secular humanist | A | Minor | Reason, dialogue and empathy settle conflict; meaning found in human relationships and good work. | The near-uniform goodness of the cast can feel idealized (Mikami says she wanted everyone to be kind; K Manga interview). | What evidence changed each character's mind about the other school? |
+| Conservative / traditional | A | Minor | Hard work, family business, respect for parents and teachers, gentlemanly conduct, courtship that faces the parents (vol. 8), change through proper channels (vol. 23). | Teen dating normalized; the private room scene (ch. 142). | Is Rintaro's respect for Kaoruko's parents a model for dating? |
+| Unitarian Universalist | S | Minor | Inherent worth and dignity of every person; justice and community; free search for understanding. | Little to raise. | The first UU principle beside the "stupid kids' school" label. |
+| Satanist | B | Minor | Challenges an unjust institutional rule (Satanic Temple Tenet 2); compassion (Tenet 1); reason over prejudice. | Church of Satan readers may find the constant apologizing and self-effacement a weak model; little else. | Is reforming the rule through the principal better than breaking it? (from general knowledge; to verify) |
+| Historically Black Protestant | A | Minor | A people judged by outward signs and pushed down by those above them, answered with dignity rather than hatred; 1 Samuel 16:7; reconciliation without revenge; honoring parents and elders. | Teen dating and the private room scene (ch. 142); no faith frame. Holiness-minded families may also weigh piercings and dyed hair. | "For he is our peace, who hath made both one, and hath broken down the middle wall of partition" (Ephesians 2:14) beside the two schools. |
+| Atheist | A | Minor | Goodness from empathy rather than command; prejudice dissolved by evidence of who people really are; no supernatural answer needed. | Little to raise. | What did the characters actually see that changed their minds? |
+| Agnostic | A | Minor | Humility about first impressions; open-mindedness; no preaching in either direction. | Little to raise. | Why is it hard to admit you judged someone wrongly? |
+| Nothing in particular | A | Minor | Loyalty to friends, everyday decency, fairness, kindness that pays off, finding your own path. | Some families may want to talk about teen dating. | If a friend group at your school looked down on another, what would you do? |
 
-**Where traditions disagree.** Disagreement is small. The main line is teen dating itself: Orthodox Jewish, Muslim, Jehovah's Witness and Old Order Anabaptist families may hold off or discuss unchaperoned dating and the private room scene, while most others find little to raise. Grades are high across frames because the series' message (anti-prejudice, kindness, honesty, nonviolence) is one most traditions affirm in their own terms.
+**Where traditions disagree.** Every frame welcomes the series' central message: do not judge people by their face, school or class, and make peace by honest talk. The only real divide is teen dating. Orthodox Jewish, Muslim, Jehovah's Witness and conservative Anabaptist readings grade it B because the premise is unchaperoned romance and the leads are alone together in vol. 19 (ch. 142), while Mainline and Unitarian frames read it as a near-ideal (S). The Adventist and Satanist B grades rest on different points: romance-centered fiction for the first, the cast's constant self-effacement for the second.
 
 ## Winners, losers and sympathy
 
-The losers are prejudice and mutual contempt between the schools; nearly every character is redeemed or understood, including the Kikyo teacher who enforced the divide.
+The kind and honest characters win: the couple stays together, both friend groups merge, and even the adults who kept the schools apart are given understanding and a way to make amends.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Rintaro and Kaoruko | Seeing past labels; honest, slow love | Dating from vol. 6; together through the school conflict (vol. 22-24) | Endorsed |
-| The Chidori and Kikyo friend groups | Chosen friendship across a divide | Merge into one group (vol. 4 onward) | Endorsed |
-| Subaru Hoshina | Fear of boys from past bullying; protectiveness | Grows to trust the Chidori boys; begins to think about romance with Saku (vol. 19) | Sympathetic; healed |
-| Saku Natsusawa | Cynical hostility to Kikyo | Softens; bonds with Subaru (vol. 7, 19) | Sympathetic |
-| Ms. Toki (Kikyo teacher) | Institutional separation, born of guilt | Issues an ultimatum (vol. 22), then reveals her trauma; smiles at the students' growth (vol. 24) | Fair; understood rather than condemned |
-| Harassers and troublemakers | Contempt and aggression | Driven off; minor | Condemned |
+| Rintaro Tsumugi | Do not judge by appearance; gentle strength | Dating Kaoruko (ch. 40); a permanent position at his dream patisserie (vol. 21); wins over teachers of both schools (vols. 23-24) | Endorsed |
+| Kaoruko Waguri | See the person, not the label | Keeps her place at Kikyo and her relationship; studies for medical school (vols. 17, 21) | Endorsed |
+| Saku Natsusawa | Distrust of the privileged other school | Reconciles with Rintaro, warms to the Kikyo girls, falls for Subaru (Wikipedia) | Endorsed as he changes |
+| Subaru Hoshina | Protective separation after being hurt | Overcomes her fear of boys; begins to think about love (vol. 19) | Endorsed as she changes |
+| Ms. Ayame Toki | Institutional separation to protect students | Her guilt over a former student is revealed; she meets the students and moves toward repair (vols. 23-24) | Understood and given a way to atone |
+| Mr. Makoto Tsukada | Dialogue between institutions | Brokers the meeting with Kikyo's principal (vol. 23) | Endorsed |
 
-**Fan favorites versus the official moral.** No official popularity poll was found. The couple won Anime Trending's Couple of the Year (Wikipedia), and MAL reviewers single out Kaoruko and Subaru. There are no beloved villains. Fan dissent is about tone, not morals: some MAL reviewers call it "every overused shoujo romance cliche, soak[ed] in syrup" and complain that characters apologize "AT THE LEAST EVERY OTHER CHAPTER," while others praise its "emotional maturity."
+**Fan favorites versus the official moral.** Fans and story agree: the couple won the 2026 Anime Trending Awards for Couple of the Year, and Rintaro, Kaoruko, Saku and Subaru were all nominated in character categories (Wikipedia). No official popularity poll was found. The only split is among critics who find the near-total kindness of the cast a little idealized; Mikami says that was the point from the start (K Manga interview).
 
 ## Message delivery
 - Style: Woven in
 - Preachiness: 4
 - Opposing views: Fair
-- Evidence: MAL critics: characters lose essence avoiding miscommunication, apologizing constantly; CSM: "An important theme is how stereotypes are harmful."
-- Note: The anti-prejudice theme is stated often in dialogue, but the prejudiced side, including Kikyo's teacher Toki, is given understandable reasons.
+- Evidence: CSM: "An important theme is how stereotypes are harmful." The prejudiced side (Saku, Subaru, Ms. Toki) is given understandable reasons, and Ms. Toki's past injury explains her stance (vols. 23-24).
+- Note: The anti-prejudice theme is stated often in dialogue, but it is carried by small scenes of kindness rather than speeches, and no character is a cartoon villain.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
 | Rintaro Tsumugi | Do not judge by appearance; gentle masculinity | Hero | Sympathetic |
 | Saku Natsusawa | Distrust of the privileged other school | Foil | Fair |
 | Subaru Hoshina | Protective separation after being hurt | Foil | Sympathetic |
-| Ms. Toki | Institutional separation to protect students | Other | Fair |
+| Ms. Ayame Toki | Institutional separation to protect students | Other | Fair |
 
 ## Creator and publisher context
 
-- Saka Mikami (pen name) won Kodansha's 105th Newcomer Manga Award for *Kurage no Uta*; her editor then proposed a coming-of-age serial (Wikipedia; K MANGA interview).
-- On-record statements (K MANGA Blog interview, originally April 14, 2022, two parts): she wanted a manga where "all of the main cast are kind people" and "did not want to stray from the 'everyone is kind' aspect." She "decided that Rintaro would look intimidating, but actually be quite nice." The hostility between schools was her choice; her editor asked for more tension, and she called "Capturing the tension between Chidori and Kikyo" the hardest part. On Kaoruko: "I went with her being from a regular family." On Subaru: "someone with low self-esteem who tends to bottle up their feelings." Influences: *Attack on Titan* made her want to draw manga; *Shugo Chara* was her first manga.
-- No statement on religion, politics or class as a political theme was found. Mikami keeps her private life private. **Status: Needs more info on the creators.**
-- Publisher: Kodansha (Japan) and Kodansha USA, a subsidiary (from general knowledge; to verify). Anime by CloverWorks with Aniplex; streamed on Netflix. Kodansha once proposed a film adaptation before the anime went ahead (Wikipedia).
-- No reputable reports of controversy involving the creator were found.
+- Saka Mikami (story and art) first read shojo manga such as Shugo Chara! and decided to become a manga artist after reading Attack on Titan; she attended a high school with a beauty apprenticeship program and submitted her first work in her third year (K Manga interview, part 1).
+- Her one-shot "Song of the Jellyfish" won Kodansha's 105th Newcomer Manga Award; her editor then suggested a coming-of-age serial (Wikipedia; K Manga). She worked as an assistant to Satoru Nii on Wind Breaker (fan wiki; K Manga part 2).
+- On-record intent: she wanted a manga in which all the characters were kind (Wikipedia, Production); she did not want to stray from the "everyone is kind" idea and wrote Rintaro's friends as the ones who bring him "out of the darkness" (K Manga part 2). The bad blood between the schools was planned from chapter 1 and sharpened at her editor's suggestion (Wikipedia; K Manga part 1). She first planned Kaoruko as rich, then made her from an ordinary family in chapter 3 (K Manga part 2).
+- She names the park scene between Kaoruko and Subaru (ch. 10-11) as the part she spent most time on (K Manga part 2).
+- No statements on religion or politics were found. **Status: Needs more info on the creator** (no interview after 2024 was opened).
+- Publisher: Kodansha (Magazine Pocket; Shonen Magazine Comics). Kodansha USA publishes the English edition, rated 13+. No controversies involving the creator were found.
 
 ## Worldview lenses
 
@@ -137,156 +143,138 @@ Dominant lenses: Classical virtue ethics, Communitarianism, Secular humanism.
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Classical virtue ethics | 6 | Affirmed | A | Kindness, honesty, courage and humility are rewarded in almost every chapter (ANN: "positive, affirming emotional growth"); Mikami's "everyone is kind." |
-| Communitarianism | 5 | Affirmed | B | Two friend groups and then two schools reconcile through shared life and dialogue (vol. 4, 23-24). My own framing. |
-| Secular humanism | 4 | Affirmed (implicit) | B | Meaning and healing come from human empathy and reason; no religion offered. My own framing. |
-| Critical theory | 3 | Explored | C | Class and stereotype are named themes (CSM, Anime Feminist), but resolved by personal encounter, not structural critique. My own framing. |
-| Confucian ethics | 3 | Explored | C | Respect for parents and teachers; carrying on a family trade (vol. 5); change sought through proper authority (principal, vol. 23). My own framing. |
-| Progressivism | 3 | Explored | C | Challenges gender and class stereotypes; institutions reform. Not argued as politics. |
-| Feminism | 2 | Explored | C | A strong-willed heroine; gentle masculinity questioned against Chidori's machismo (Anime Feminist). |
-| Traditionalism | 2 | Explored | C | Family business, parents involved in courtship (vol. 8), seasonal customs. |
-| Moralistic therapeutic deism | 2 | Explored | C | A "be kind, be happy" ethic without God fits its moral shape; there is no deity at all. My own framing. |
-| Pragmatism | 2 | Incidental | C | Tutoring, exams, career paths, practical problem-solving. |
-| Expressive individualism | 2 | Explored | C | Rintaro's look is his own; Mangapedia and a MAL reviewer stress "being true to one's self," but the story values belonging more. |
-| Christian, Jewish, Islamic, Dharmic, Pantheist/New Age, Pagan/occult, Naturalism, Stoicism, Utilitarianism, Marxism, Postmodernism, Environmentalism, Existentialism, Absurdism, Nihilism, Anti-natalism, Hedonism, Consumerism, Might makes right, Libertarianism, Collectivism/authoritarianism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
+| Classical virtue ethics | 6 | Affirmed | A | Character is shown in habits: honesty, patience, courage to speak, diligence in baking and study; Mikami built the cast around kindness (Wikipedia). |
+| Communitarianism | 5 | Affirmed | B | Two friend groups become one community; parents, teachers and a principal take part in the resolution (vols. 22-24). |
+| Secular humanism | 4 | Affirmed (implicit) | B | Problems are solved by dialogue, empathy and effort; no supernatural element. |
+| Pacifism / nonviolence | 3 | Affirmed | B | Rintaro does not fight back when provoked and steps in only to stop harm (CSM); Ayato avoids violence (Wikipedia). An everyday, limited form, not an anti-war argument. |
+| Critical theory | 3 | Explored | C | School rank and class divide the town; Anime Feminist reads the story as putting down labels of socioeconomic difference. The story resolves it by persuasion, not by overturning institutions. |
+| Confucian ethics | 3 | Explored | C | Respect for parents and teachers; harmony restored through proper relationships and channels (vol. 23). |
+| Progressivism | 3 | Explored | C | Gentle masculinity and anti-stereotype themes (A.V. Club); reform of an old school rule. |
+| Feminism | 2 | Explored | C | Kaoruko is soft-spoken but firm and pursues medicine; the girls' school is not reduced to a stereotype. |
+| Traditionalism | 2 | Explored | C | Family business and respect for elders kept; an inherited feud between schools set aside. |
+| Pragmatism | 2 | Incidental | C | Misunderstandings settled by talking them through (Aftermath). |
+| Expressive individualism | 2 | Explored | C | Rintaro learns to show his real self (A.V. Club); identity is not the central theme. |
+| Christian, Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Feel-good faith, Naturalism, Stoicism, Duty ethics, Utilitarianism, Existentialism, Absurdism, Nihilism, Anti-natalism, Hedonism, Bushido / honor code, Strength rules, Marxism, Postmodernism, Libertarianism, Liberalism, Anarchism, Authoritarianism, Patriotism / nationalism, Environmentalism, Consumerism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side. Class difference is social; a family bakery and a scholarship are the only economic threads. |
-| Social (0 authority, 10 liberty) | 6 | Students quietly defy a separation rule, but resolve it through the principal and teachers, not rebellion (vol. 22-24). |
-| Cultural (0 traditional, 10 progressive) | 6 | Challenges class and gender stereotypes; keeps parents, family trade and courtship norms. |
-| Community (0 individual first, 10 community first) | 7 | Reconciling groups is the arc; personal happiness is found within friends, families and schools. |
+| Economic (0 collective, 10 free market) | 5 | No economic argument; scholarships and family income noted. |
+| Social (0 authority, 10 liberty) | 6 | Unjust separation is challenged, but through legitimate authority (vol. 23). |
+| Cultural (0 traditional, 10 progressive) | 6 | Stereotypes questioned; family, courtesy and teachers respected. |
+| Community (0 individual first, 10 community first) | 7 | Healing comes through friend groups, families and schools working together. |
 
 **Moral foundations profile (0 to 10):** care 9, loyalty 6, fairness 8, sanctity 2, authority 4, liberty 5.
 
-**Profile notes for parents:** This is one of the gentlest entries so far: almost no violence, no sexual content reported, mild language, no substances. Its weight is moral rather than graphic: prejudice by class and appearance, and low self-worth. Families who discuss teen dating will want to look at the private room scene (vol. 19) and the Christmas "special moment" (vol. 14).
+**Profile notes for parents:** Care and fairness dominate: kindness to the hurting and fair treatment across class lines. Authority is respected and in the end persuaded, not defied. Sanctity is low only because it is little engaged: there is no crude content, and the romance is slow and chaste in the sources opened. Kodansha USA rates it 13+; Common Sense Media rates the anime 10+.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 2 | Worth is inner, not reputational; Rintaro "doesn't fight back" when insulted (CSM); school "honor" is the problem the story dissolves. |
-| Order vs freedom | 5 | Students meet against a school rule (vol. 22) but resolve it through teachers and the principal (vol. 23); rules are reformed, not discarded. |
-| Civic vs kin | 4 | Family matters (bakery, parents), but the story's hope is bridging two strangers' groups into one community. |
+| Dignity vs honor | 2 | Worth is inner, not reputational; Rintaro does not fight back when insulted (CSM); school "honor" is the problem the story dissolves. |
+| Order vs freedom | 5 | Students meet against a school rule (vols. 21-22) but resolve it through teachers and the principal (vol. 23); rules are reformed, not discarded. |
+| Civic vs kin | 4 | Family matters (bakery, parents), but the story's hope is bridging two groups of strangers into one community. |
 | Equality vs hierarchy | 3 | Class rank between schools is critiqued; respect for parents and teachers remains. |
 | Tradition vs secular-rational | 6 | Secular daily life with customs kept lightly (shrine, Christmas, vol. 14); dialogue and reason settle conflict. |
 | Survival vs self-expression | 7 | Tolerance, trust and being seen as oneself are the central values; study and work are present but not the point. |
 
 Closest clusters: The Midlands; Yankeedom; Catholic Europe
 
-Japanese source culture: The ranking of high schools by academic level, the stigma of "delinquent" boys' schools, single-sex private academies, part-time work and scholarships, the expectation of carrying on a family shop, New Year shrine visits and the constant apologizing and thanking critics note are Japanese norms that frame the story more than they form its message.
+Japanese source culture: The ranking of high schools by academic level, the stigma of "delinquent" boys' schools and of dyed hair and piercings (A.V. Club), single-sex private academies, scholarships and part-time work, the expectation of carrying on a family shop, New Year shrine visits and constant apologizing and thanking are Japanese norms that frame the story more than they form its message.
 
 ## Philosophy essay
 
-**The central question.** Can people see each other as they are when everything around them has already decided who they are? Two schools stand side by side. One is for boys the world has written off; one is for girls the world has set above them. Curtains in Kikyo's windows are always closed (Mangapedia). The question is whether two students, and then two communities, can open them.
+**The central question.** What do we lose when we judge people by the label they carry? Chidori boys are "stupid" and dangerous; Kikyo girls are snobs. Rintaro has heard the first verdict about himself so often that he half believes it. The series asks what happens when one person refuses to accept the label, and then what it takes for a whole town to follow.
 
-**The answer the story gives.** Yes, slowly, through honest encounter. Kaoruko was never afraid of Rintaro's face, and Rintaro learns that keeping away from her because of her school is the same prejudice that has hurt him (Da Vinci Web, ch. 1-2). Each friend in turn meets the other side and drops a label: Subaru her fear of boys, Saku his contempt for the rich girls, Ayumi her pedestal (vol. 10). The institutions follow last: a teacher's ultimatum (vol. 22) gives way to a meeting with the principal (vol. 23) and to teachers "moved by the sincerity" of their students (vol. 24, Dengeki Online).
+**The answer the story gives.** Patient kindness, honest talk and the courage to be seen. Kaoruko sees Rintaro's kindness at the bakery before she sees his face or his uniform (ch. 1). Rintaro tells his friends the truth about his family's shop and invites them home (ch. 21); his mother's tears at hearing him laugh with friends are the emotional center of the anime (A.V. Club). In the end the same method works on the adults: a meeting arranged through Mr. Tsukada, honest speech before Kikyo's principal, and Ms. Toki's own confession of grief (vols. 22-24).
 
-**Characters as arguments.** Rintaro argues that gentleness is a kind of strength; his low self-esteem argues that prejudice is internalized. Kaoruko argues that seeing clearly is a choice. Subaru argues that fear often comes from real past harm and deserves patience. Saku argues for the skeptic who must be shown, not told. Ms. Toki argues that rules that divide may have begun as an attempt to protect; her guilt over a former student (vol. 24) makes the "villain" a wounded guardian.
+**Characters as arguments.** Rintaro argues for gentle strength. Kaoruko argues for seeing past labels, and also for firmness: she is the one who will not give up the relationship when told to leave her school (vol. 22). Saku argues the case for distrust and changes his mind when the evidence changes. Subaru shows how a childhood hurt becomes a wall, and how trust takes it down (ch. 6-13). Ms. Toki is the hardest case: her strictness is not cruelty but guilt over a student she could not protect, and the story gives her understanding and a way to make amends (vols. 23-24).
 
-**Symbols and motifs.** Cake: a small, shared sweetness that crosses the class line, and a craft Rintaro inherits from his father (vol. 5). Closed curtains: the separation of the two worlds. Height difference: Mikami says she loves "couples with a height difference," and the image of a huge boy bending to listen recurs. Summer festivals bracket the romance (confession, vol. 6; the year-on festival, vol. 22).
+**Symbols and motifs.** The curtain or wall between the two schools (ch. 24, "Beyond the Curtains"). Cake, made to see someone smile. The title flower: dignity that blooms quietly. Hair color and piercings as false signs, worn by Rintaro's mother out of love (ch. 21).
 
-**Traditions it echoes.** Kodansha USA and reviewers name *Romeo and Juliet* and *West Side Story* (ANN), but without the tragedy: the feud is ended by its children talking. It also echoes the Japanese "gap" character (scary look, soft heart) and the shōjo-influenced slow-burn romance Mikami grew up reading.
+**Traditions it echoes.** Romeo and Juliet without the tragedy (Kodansha USA; ANN's Kevin Cormack also names West Side Story). The Japanese "delinquent with a heart of gold" story and the shojo slow-burn romance, which Mikami grew up reading (K Manga). Religious readers will hear 1 Samuel 16:7 and Ephesians 2:14; Buddhist readers right speech and letting go; Confucian readers harmony restored through proper relationships.
 
-**How each lens is portrayed.** Virtue ethics is the spine. Communitarian and humanist ideas carry the healing. Critical-theory themes of class and stereotype are present but answered by personal friendship, not structural critique. Religious frameworks are absent; seasonal customs appear without comment. Traditional values (parents, family trade, respectful courtship) sit comfortably beside progressive ones (gentle masculinity, anti-stereotype).
+**How each lens is portrayed.** Virtue ethics and community win throughout. Critical-theory readers can see a class critique, but the story resolves it through persuasion and reform from within, which conservative readers will also welcome. Nonviolence appears in a limited, everyday form. No lens is attacked; the only thing the story argues against is prejudice itself.
 
-**Shifts across the series.** Vols. 1-5: meeting, the school reveal, the friend groups merge, exams and a birthday cake. Vol. 6: confession and dating (anime ends here). Vols. 7-13: telling friends, meeting Kaoruko's mother (vol. 8), other Kikyo students won over (vol. 10). Vols. 14-21: Christmas, New Year, the final year, career paths and exams. Vols. 22-24: the relationship is exposed, a teacher's ultimatum, and the long rift between schools traced to an old trauma. The series is ongoing.
+**Shifts across the series.** Vols. 1-6 (ch. 1-45): meeting, friendship across the school divide and the confession (the anime's span). Vols. 7-15 (ch. 46-117): dating, families, friends' arcs (Saku, Yorita), Christmas and the New Year. Vols. 16-21 (ch. 118-164): third year, careers, Kaoruko's room, the summer festival. Vols. 22-24 (ch. 165-187): exposure by Ms. Toki and reconciliation of the schools. Ch. 188-207 (uncollected): Saku and Subaru.
 
 **Discussion questions.**
-1. Rintaro decides that avoiding Kaoruko because of her school is prejudice. Have you ever avoided someone because of a group they belong to?
-2. Subaru distrusts boys because she was bullied. How can friends be patient with someone whose fear has a real cause?
-3. Ms. Toki's rule against contact came from guilt and a wish to protect. When is a protective rule fair, and when does it become unfair?
-4. Rintaro does not fight back when he is attacked. Is that strength or weakness? What does your family's tradition teach?
-5. Critics say the characters apologize too much. When is apologizing a virtue, and when can it hide low self-worth?
+1. Why did people decide Rintaro was a delinquent? Have you ever been judged that way, or judged someone else?
+2. Saku and Subaru both distrusted the other school. What changed their minds?
+3. Ms. Toki wanted to keep the schools apart to protect her students. Was she wrong, and what helped her change?
+4. Rintaro never hits back. Is that weakness or strength? When does he step in?
+5. What do you think makes Rintaro and Kaoruko's relationship healthy? What boundaries would your family want?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Manga critic | Kevin Cormack, Anime News Network; manga vols. 1-3 | A, A, A. "Almost every chapter features positive, affirming emotional growth"; themes of "class-based bigotry," tribalism and appearance; "the best manga romance I've read since Sweat and Soap." | https://animenewsnetwork.com/review/fragrant-flower-blooms-with-dignity-volume-1-3-manga/.216918 |
-| Manga critic | Demelza, Anime UK News; vols. 4-5 and 6-7 | 9/10 each. Romance "feels natural"; no "ham-fisted misunderstandings"; "one of the most charming ongoing high school romance manga." | https://animeuknews.net/2025/10/the-fragrant-flower-blooms-with-dignity-volumes-4-and-5-review ; https://animeuknews.net/2026/01/the-fragrant-flower-blooms-with-dignity-volumes-6-7-review |
-| Secular parent guide | Common Sense Media (Danae Stahlnecker); anime | 10+, TV-PG. Messages and role models "a lot": "Trust, honesty, and vulnerability"; mild violence and language; no substances. | https://www.commonsensemedia.org/tv-reviews/the-fragrant-flower-blooms-with-dignity |
-| Feminist / progressive | Cy Catwell, Anime Feminist; anime | Praises its questioning of class labels and Chidori machismo, women-led staff, and pacing "true to life"; wants more of the relationship. | https://www.animefeminist.com/the-fragrant-flower-blooms-with-dignity-series-review/ |
-| Japanese critic | Da Vinci Web; manga ch. 1-2 | A modern Japanese *Romeo and Juliet*; Rintaro's growth and changing friendships are its strength. | https://ddnavi.com/article/d1202548/a/ |
-| Fan reception | MyAnimeList manga reviews | 8.76. Split: 8 recommended, 9 mixed, 3 not recommended among visible reviews. Praise for art and "emotional maturity"; criticism of saccharine tone, melodrama and constant apologies ("Horimiya gone wrong," one says). | https://myanimelist.net/manga/144267/Kaoru_Hana_wa_Rin_to_Saku/reviews |
-| Awards | Japanese and global | Next Manga Award, Tsutaya, bookstore staff rankings; Crunchyroll Best Romance; 10 million copies. | https://en.wikipedia.org/wiki/The_Fragrant_Flower_Blooms_with_Dignity |
-| Christian / conservative | none found | No Plugged In, Christian or conservative review found. | n/a |
+| Critic (manga, vols. 1-3) | Kevin Cormack, Anime News Network | Grades A; a study of prejudice by class and appearance; compares it to Romeo and Juliet and West Side Story; "a cut above the average manga rom-com." | https://animenewsnetwork.com/review/fragrant-flower-blooms-with-dignity-volume-1-3-manga/.216918 |
+| Parent guide (anime) | Common Sense Media | Age 10+; friendship and challenging stereotypes; mild violence and language; no substances; positive role models including Rintaro's mother. | https://www.commonsensemedia.org/tv-reviews/the-fragrant-flower-blooms-with-dignity |
+| Feminist (anime series review) | Anime Feminist | Praises how the leads take apart the labels of class and school; love shown as something tended slowly; regrets only that the anime ends early. | https://www.animefeminist.com/the-fragrant-flower-blooms-with-dignity-series-review/ |
+| Culture critic (anime) | The A.V. Club | Reads Rintaro as a counter-model to resentful, controlling masculinity; singles out ch. 21's shared meal and his mother's reaction. | https://www.avclub.com/the-fragrant-flower-blooms-with-dignity-healthy-masculinity-rejects-chauvinism |
+| Critic (manga and anime release) | Aftermath | Praises characters who simply talk; notes the story "questions the eagerness of young people" to rush into relationships; complains about Netflix and K Manga access. | https://aftermath.site/anime-manga-disney-jail-netflix-fragrant-flower |
+| Critics (anime) | ANN (Rebecca Silverman), Polygon, The Daily Star (via Wikipedia) | Silverman: romantic with minimal touching and no kissing (to ch. 40); Polygon and The Daily Star praise the writing and production. | https://en.wikipedia.org/wiki/The_Fragrant_Flower_Blooms_with_Dignity |
+| Awards | Kodansha Manga Award nominations, Japan Expo Daruma (via Wikipedia) | Four Kodansha nominations; Daruma for Best Romance Manga 2026; anime awards including Couple of the Year. | https://en.wikipedia.org/wiki/The_Fragrant_Flower_Blooms_with_Dignity |
+| Fan databases | AniList, MangaUpdates | AniList average 86 (about 82,500 members); MangaUpdates 7.85. | AniList API; MangaUpdates API |
+| Christian outlets (Plugged In, Beneath the Tangles) | — | No review found in search. | none |
 
-No public controversy was found. The only debate is a fan one over tone: whether its consistent kindness is refreshing or unrealistic.
+No public controversy was found. Reception is close to unanimous; the mildest criticism is that the cast is idealized.
 
 ## Most loaded parts and pages to photograph
 
-Volume-to-chapter map: Kodansha Japan pages give official chapters for vol. 19 (ch. 74-77), vol. 22 (ch. 86-89) and vol. 23 (ch. 90-93), about four official chapters per volume. Other ranges below are inferred from that pattern and marked "likely" (vol. 1 likely ch. 1-5; then vol. N likely ch. 4N-2 to 4N+1). Some fan databases count split chapter parts separately and show roughly double the numbers (MangaUpdates lists ch. 156.5 in vol. 21); use volume numbers to locate scenes.
+Volume-to-chapter map (English Wikipedia, opened): v1 ch. 1-5; v2 6-13; v3 14-21; v4 22-29; v5 30-37; v6 38-45; v7 46-53; v8 54-61; v9 62-69; v10 70-77; v11 78-85; v12 86-93; v13 94-100; v14 101-109; v15 110-117; v16 118-125; v17 126-133; v18 134-141; v19 142-149; v20 150-156; v21 157-164; v22 165-172; v23 173-179; v24 180-187; ch. 188-207 not yet collected. The fan wiki lists bonus chapters (e.g. 2.5, 12.5, 100.5). Scene chapters come from Wikipedia chapter titles and fan wiki volume synopses.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Toki's ultimatum (leave Kikyo), the principal meeting, and Toki's past trauma over former student Matsukasa | 86-89 (v22), 90-93 (v23); likely 94-97 (v24) | The ideological climax (authority vs. students, institutional prejudice) and the only possibly heavy content. Confirm what the "major incident" was (violence? assault?) and re-score Fear, Violence and Mental health if needed. |
-| 2 | Ch. 1-2: harassment rescue; school reveal; Rintaro sees his own prejudice | likely 1-5 (v1) | The thesis of the series; sets Violence (3) and the anti-prejudice message. Confirm blood and harassment detail. |
-| 3 | Alone in Kaoruko's room on her birthday | 74-77 (v19) | Key scene for frames that counsel against teens being alone (Orthodox Jewish, Muslim, JW, LDS). Confirm what happens. |
-| 4 | Christmas date "special moment" | likely 54-57 (v14) | Likely first kiss; affects Sexuality score and several frame rows. Confirm. |
-| 5 | Meeting Kaoruko's mother and what Rintaro chooses to say | likely 30-33 (v8) | Parents in courtship; Family and authority and conservative rows. |
-| 6 | Summer festival confession and Kaoruko's backstory | likely 22-25 (v6) | Start of dating; the anime's end point. |
-| 7 | Subaru's bullying past and her attempt to separate Kaoruko from Rintaro | likely 6-13 (v2-3) | Mental health row; treatment of fear of boys. |
-| 8 | Ayumi Sawatari's self-deprecation; Saku says he understands | likely 38-41 (v10) | Mental health; class pedestal reversed. |
-| 9 | Fights Rintaro stops; "kids pinch or punch themselves" (CSM) | v1-5, chapters to verify | Confirm Violence (3) and the self-harm note (likely comic). |
-| 10 | Rintaro's and Saku's career paths; parent-teacher meeting | later chapters (titles from Wikipedia), to verify | Family and authority; Confucian and Traditionalism lenses. |
+| 1 | Rintaro alone with Kaoruko in her room on her birthday | 142 (v19) | The main concern for Orthodox Jewish, Muslim, Latter-day Saint and Jehovah's Witness rows; confirm what happens. Written note is enough; photograph only if nothing more than conversation is shown. |
+| 2 | Christmas date: "special moment," "passionate exchange" | ~100-101 (v13-14) | Confirm whether a kiss is shown and how. Sexuality score (3). |
+| 3 | Ms. Toki discovers the relationship and tells Kaoruko to consider leaving Kikyo | 158-166 (v21-22) | Authority theme; Fear and intensity; frame rows on respect for teachers. |
+| 4 | The meeting with the principal; Ms. Toki's past and the park incident | 172-181 (v22-24) | Confirm how the former student's fall is shown and whether it involves self-harm or violence (to verify). Mental health and Violence. |
+| 5 | Ch. 1: delinquents harass Kaoruko and a friend at night | 1 (v1) | Violence (3). |
+| 6 | Subaru's past bullying and fear of boys; the park scene | 6-13 (v2) | Mental health; Mikami's favorite scene. |
+| 7 | "Blond Hair and Pierced Ears": the shared meal and Rintaro's mother | 21 (v3) | The series' message in one chapter (A.V. Club). |
+| 8 | Beach chapters | 33 (v5); 137 (v18) | Check for any fan service (none reported). |
+| 9 | Yorita's past and the Christmas Eve "battle" | 94-98 (v13) | Confirm the nature of the conflict. Violence. |
 
-Estimate: about 25-30 official chapters (roughly 450-550 pages) cover these items; photographing about 35 key pages would confirm the scores.
+Estimate: about 25 chapters cover the above; about 30-45 pages to photograph.
 
 ## Sources
 
-Opened:
-- https://en.wikipedia.org/wiki/The_Fragrant_Flower_Blooms_with_Dignity
-- https://www.wikiwand.com/en/articles/The_Fragrant_Flower_Blooms_with_Dignity
-- https://kodansha.us/series/the-fragrant-flower-blooms-with-dignity
-- https://www.kodansha.co.jp/comic/products/0000360687 (vol. 1)
-- https://www.kodansha.co.jp/comic/products/0000376154 (vol. 8)
-- https://www.kodansha.co.jp/comic/products/0000382113 (vol. 10)
-- https://www.kodansha.co.jp/comic/products/0000398532 (vol. 14)
-- https://www.kodansha.co.jp/comic/products/0000418203 (vol. 19)
-- https://www.kodansha.co.jp/comic/products/0000425044 (vol. 22)
-- https://www.kodansha.co.jp/comic/products/0000427814 (vol. 23)
-- https://dengekionline.com/article/202609/87024 (vol. 24)
-- https://ddnavi.com/article/d1202548/a/
-- https://mangapedia.com/%E8%96%AB%E3%82%8B%E8%8A%B1%E3%81%AF%E5%87%9B%E3%81%A8%E5%92%B2%E3%81%8F-7g2n6p2od
-- https://www.mangaupdates.com/series/efg5tyb/kaoru-hana-wa-rin-to-saku
-- https://bookbrainz.org/series/a402e6d8-10c0-4e67-9b59-c48878b5b17b
-- https://bookwalker.com/volume/3F71YMZP7F6G/the-fragrant-flower-blooms-with-dignity-13 (no useful content)
+Pages actually opened:
+- https://en.wikipedia.org/wiki/The_Fragrant_Flower_Blooms_with_Dignity (raw wikitext)
+- AniList API, media id 140475 (graphql.anilist.co)
+- MangaUpdates API, series 31409091299 (api.mangaupdates.com)
+- https://kodansha.us/series/the-fragrant-flower-blooms-with-dignity (13+)
+- https://kaoruhana.fandom.com (through its API; facts only): page list; Manga Volume 2, 3, 6, 13, 14, 19, 21, 22, 23, 24; Rintaro Tsumugi; Kaoruko Waguri; Ayame Toki; Saka Mikami; Chapter 21, 40, 142 (stubs)
 - https://animenewsnetwork.com/review/fragrant-flower-blooms-with-dignity-volume-1-3-manga/.216918
-- https://www.animenewsnetwork.com/review/the-fragrant-flower-blooms-with-dignity/.226667 (only byline retrieved)
-- https://animeuknews.net/2025/10/the-fragrant-flower-blooms-with-dignity-volumes-4-and-5-review
-- https://animeuknews.net/2026/01/the-fragrant-flower-blooms-with-dignity-volumes-6-7-review
-- https://www.animefeminist.com/the-fragrant-flower-blooms-with-dignity-series-review/
 - https://www.commonsensemedia.org/tv-reviews/the-fragrant-flower-blooms-with-dignity
-- https://www.commonsensemedia.org/tv-reviews/the-fragrant-flower-blooms-with-dignity/user-reviews/adult
-- https://myanimelist.net/manga/144267/Kaoru_Hana_wa_Rin_to_Saku/reviews
+- https://www.animefeminist.com/the-fragrant-flower-blooms-with-dignity-series-review/
+- https://www.avclub.com/the-fragrant-flower-blooms-with-dignity-healthy-masculinity-rejects-chauvinism
+- https://aftermath.site/anime-manga-disney-jail-netflix-fragrant-flower
 - https://kmanga.kodansha.com/blog/article/the-fragrant-flower-blooms-with-dignity-sweet-romance-with-saka-mikami-part-1/
-- https://kmanga.kodansha.com/blog/?p=1005
+- https://kmanga.kodansha.com/blog/?p=1005 (part 2)
 
-Found in search, not opened:
-- https://www.animenewsnetwork.com/encyclopedia/manga.php?id=27864
+Found in search, not opened (refused, blocked or not prioritized):
+- https://kaoruhana.fandom.com/wiki/Chapter_100 , Chapter_101, Chapter_158, Chapter_159, Chapter_173 (bot check)
+- https://www.animenewsnetwork.com/review/the-fragrant-flower-blooms-with-dignity/.226667 (ANN anime review; summarized via Wikipedia)
+- https://www.animefeminist.com/the-fragrant-flower-blooms-with-dignity-episodes-1-2
 - https://kodansha.us/2025/07/18/wind-breaker-and-the-fragrant-flower-blooms-with-dignity-crossover-in-special-interview-and-illustration/
 - https://vfxvoice.com/the-art-of-translating-the-fragrant-flower-blooms-with-dignity-into-anime/
-- https://www.graphiclibrary.org/reviews/the-fragrant-flower-blooms-with-dignity-vol-4-by-saka-mikami
+- https://www.thepopverse.com/tv-the-fragrant-flower-blooms-with-dignity-netflix-anime-romance-non-toxic-masculinity-popverse-jump
 - https://animeuknews.net/2024/07/the-fragrant-flower-blooms-with-dignity-volume-1
-- https://archeroracle.org/143992/arts-entertainment/review-the-fragrant-flower-blooms-with-dignity-is-perfect-for-weekend-watches/
-- https://cineparenting.com/the-fragrant-flower-blooms-with-dignity-rating/ (fetch blocked by the site)
-- https://www.soapcentral.com/anime/the-fragrant-flower-blooms-dignity-do-rintaro-kaoruko-start-dating (fetch refused)
+- https://myanimelist.net/manga/144267/Kaoru_Hana_wa_Rin_to_Saku/reviews
+- No Plugged In, Beneath the Tangles or The Manga Critic page found in search.
 
 ## Full-read review checklist
 
-- [ ] Vol. 23-24 (ch. 90-97): what was the "major incident (a trauma)" involving Toki and former student Matsukasa? Affects Fear, Violence, Mental health and possibly the overall level (3).
-- [ ] Vol. 22 (ch. 86-89): wording of Toki's ultimatum and the "year apart" in the blurb; whether students break rules openly. Affects Social axis and Order vs freedom.
-- [ ] Vol. 19 (ch. 74-77): what happens alone in Kaoruko's room. Affects Sexuality (3) and the Orthodox Jewish, Muslim, JW and LDS rows.
-- [ ] Vol. 14 (likely ch. 54-57): the Christmas "special moment"; is it the first kiss, and how is it drawn? Affects Sexuality and frame rows.
-- [ ] Vol. 1 (likely ch. 1-5): the harassment scene and any blood; Rintaro's restraint. Affects Violence (3).
-- [ ] Find the fights Rintaro breaks up and the "pinch or punch themselves" moments (CSM). Affects Violence and Mental health.
-- [ ] Vol. 2-3: Subaru's bullying backstory and how her fear of boys is handled. Affects Mental health.
-- [ ] Vol. 8: meeting Kaoruko's mother; what Rintaro says. Affects Family and authority and Traditionalism.
-- [ ] Confirm official chapter ranges for every volume (Kodansha Japan pages or volume contents) and replace "likely" ranges.
-- [ ] Spot-check Kodansha USA language in 3-4 chapters. Affects Language (2).
-- [ ] Check for any LGBTQ characters or same-sex romance in later volumes. Affects Gender and identity.
-- [ ] Read author afterwords in volumes for statements of intent on class and prejudice. Affects Creator context.
-- [ ] Look for an official character popularity poll. Affects Fan favorites.
-- [ ] Look for Christian, conservative or Plugged In reviews of the anime or manga. Affects How readers took it.
+- [ ] Ch. 142 (v19): Rintaro alone with Kaoruko in her room. Confirm what happens (conversation, kiss, anything more). Affects Sexuality (3) and the Orthodox Jewish, Muslim, Latter-day Saint and Jehovah's Witness rows.
+- [ ] Ch. ~100-101 (v14): the Christmas "special moment." Confirm whether this is the first kiss and how it is drawn. Affects Sexuality.
+- [ ] Ch. 172-181 (v22-24): Ms. Toki's past. Confirm how the former student Matsusaka was injured (fall from a hill) and whether self-harm or violence is involved. Affects Mental health, Violence and the Winners table.
+- [ ] Ch. 94-98 (v13): Yorita's past and the Christmas Eve "battle." Confirm whether it is a fight and how violent. Affects Violence.
+- [ ] Beach chapters (ch. 33, 137) and any bath or changing scenes: confirm there is no fan service. Affects Sexuality and Depiction concern rows.
+- [ ] Spot-check Kodansha's English text for language in 3-4 chapters. Affects Language (2).
+- [ ] Ch. 188-207: Saku and Subaru; confirm nothing changes the outlook or adds new content. Affects Outlook.
+- [ ] Read the author's afterwords for statements by Mikami on themes. Affects Creator context.
+- [ ] Open the ANN anime review and the Kodansha crossover interview. Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

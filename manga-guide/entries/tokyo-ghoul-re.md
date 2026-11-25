@@ -1,307 +1,286 @@
 # Tokyo Ghoul:re
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** The volume-to-chapter map and the chapter numbers for every loaded scene come from the Tokyo Ghoul fan wiki's per-chapter summary pages (read through the wiki's public MediaWiki API, used to locate scenes only, never quoted for interpretation). Series facts come from Wikipedia, MyAnimeList and Anime News Network. Reviews come from Anime News Network, Anime UK News, No Flying No Tights, The Outer Haven, AIPT, Beneath the Tangles and MyAnimeList; the creator's statements come from The Japan News (Yomiuri) interview and ComicBook.com. No Common Sense Media, ScreenWise or Plugged In review of :re exists or was found. Research on the first series is not repeated here; see the Tokyo Ghoul entry (tokyo-ghoul.md). Items from general knowledge are marked "(from general knowledge; to verify)".
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 20 lookups). The series is **complete**: 179 chapters in 16 volumes (Weekly Young Jump, October 16, 2014 to July 5, 2018), all 16 published in English by VIZ Media (October 17, 2017 to April 21, 2020) (English Wikipedia; AniList; MangaUpdates). It is the sequel to Tokyo Ghoul (2011-2014), which has its own entry. Series facts and the volume-to-chapter map come from English Wikipedia (the chapter list and the Sui Ishida article through the raw-text endpoint; the Tokyo Ghoul article through a page reader), the AniList and MangaUpdates APIs, and VIZ Media's vol. 1 product page (Teen Plus). Plot points come from the Tokyo Ghoul fan wiki (read through its API; facts only): the Tokyo Ghoul:re volume list, Ken Kaneki's synopsis page (with chapter references), and the Touka Kirishima, Tooru Mutsuki and Nimura Furuta pages. Reviews opened: Anime News Network (Rebecca Silverman, vols. 5-7), Anime UK News (vol. 12), Common Sense Media (the first Tokyo Ghoul anime, not :re), Beneath the Tangles (tag page only) and a FandomWire article on fan reaction to ch. 125. No Plugged In, Anime Feminist or Manga Critic review of :re was found, and no on-record Ishida interview about :re was opened. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Tokyo Ghoul:re. Japanese: 東京喰種トーキョーグール:re (ANN) |
-| Creators | Sui Ishida (story and art) |
-| Origin | Weekly Young Jump (Shueisha), seinen. Ran October 16, 2014 to July 5, 2018. Complete: 179 numbered chapters plus extra chapters (wiki lists ch. 31.5, "With the Lord"; MyAnimeList counts 181), 16 volumes |
-| English edition | Viz Media (VIZ Signature). Vol. 1 October 17, 2017; vol. 16 April 21, 2020; box set October 20, 2020 (Wikipedia; ANN). Age rating listed by ANN for vol. 1 and vol. 16: **16+**; No Flying No Tights reports the publisher label "Older Teen" (Viz's T+ band; check the printed back cover). Volumes: 16 in Japan, 16 in English |
-| Anime | Tokyo Ghoul:re, Studio Pierrot, dir. Toshinori Watanabe, 24 episodes in two cours, April to December 2018; Crunchyroll and Funimation released it in North America (Wikipedia). It compresses the manga heavily (Beneath the Tangles suggests reading the manga "to fill gaps"). Licensed game "Tokyo Ghoul:re Call to Exist" is rated ESRB M (17+) for Blood, Language, Suggestive Themes, Violence |
-| Recognition | Combined Tokyo Ghoul and :re sales over 47 million by 2021 (see tokyo-ghoul.md). MyAnimeList (manga): score 8.37, ranked #287, popularity #21, about 332,000 members, 24,006 favorites (as viewed). ANN users: median "Very good" |
-| Other guides | No Common Sense Media, ScreenWise or Plugged In review of :re found. The first series is rated 15+ by both Common Sense Media and ScreenWise (tokyo-ghoul.md). ANN's encyclopedia tags the manga's "objectionable content" as "Intense." No Flying No Tights (library review): "suited more for older teens and adults" |
-| Prequel | Tokyo Ghoul (14 volumes), its own entry; :re assumes it ("you cannot pick up and read without previous knowledge of the original," The Outer Haven) |
+| Title | Tokyo Ghoul:re. Japanese: 東京喰種トーキョーグール:re (Tokyo Guru:re) (Wikipedia; AniList id 85611, confirmed) |
+| Creators | Sui Ishida (story and art), born December 28, 1986, in Fukuoka Prefecture; creator of Tokyo Ghoul (2011-2014), Choujin X (2021-) and the game Jack Jeanne (2021) (Wikipedia, Sui Ishida) |
+| Origin | Shueisha's Weekly Young Jump, a seinen (adult men's) magazine, October 16, 2014 to July 5, 2018; **complete**, 179 chapters in 16 volumes (December 19, 2014 to July 19, 2018). A sequel set two years after Tokyo Ghoul (Wikipedia; fan wiki) |
+| English edition | VIZ Media, VIZ Signature imprint, 16 volumes, October 17, 2017 to April 21, 2020. Publisher rating: **Teen Plus (T+)** (VIZ vol. 1 product page). No age is given on the input record; VIZ's rating is the one used here |
+| Anime | Studio Pierrot, two 12-episode seasons (April-June and October-December 2018), dir. Toshinori Watanabe; Crunchyroll and others (Wikipedia). MangaUpdates says both seasons are abridged with changes (season 1 covers v1-6, season 2 v6-16). Common Sense Media rates the first Tokyo Ghoul anime 15+ and lists it TV-MA |
+| Recognition | Among Japan's best-selling manga in 2015-2018 (5.3 million copies in 2017, fifth overall); the franchise passed 47 million copies by 2021. Harvey Award nomination 2018 (franchise). Database scores: AniList average 84, about 106,000 members; MangaUpdates 8.04 (Bayesian, 937 votes) (Wikipedia; AniList; MangaUpdates) |
+| Other guides | Common Sense Media (first anime): 15+, "excessive violence and scary imagery," profanity including the f-word, brief partial nudity, adult drinking and smoking. The series appears on PEN America's school book ban index for 2025-2026, and Tokyo Ghoul √A was on a 2015 Chinese ban list (Wikipedia). AniList tags: Gore, Body Horror, Dissociative Identities, Suicide, Human Experimentation, Nudity (low rank), Incest (low rank), Transgender. MangaUpdates genres include Mature and Horror |
 | Entry tier | From summaries |
 
-**Premise.** Two years after the CCG's raid on Anteiku (the wiki's ch. 1 framing; some summaries say three), the CCG trains the Quinx Squad, humans given surgically implanted ghoul organs. Their mentor, Investigator Haise Sasaki, is Ken Kaneki with no memory of his past. The squad hunts the serial killer Torso, raids a ghoul auction of captured humans, and destroys the ghoul-run Tsukiyama family. Haise's memories return (ch. 53). He breaks out of the CCG, fights his mentor Kishou Arima, and learns that the Washuu clan running the CCG are ghouls themselves (ch. 82-83). Kaneki founds Goat, a ghoul group seeking coexistence (ch. 99). The new CCG head, Furuta, launches a purge of ghouls (ch. 127). Kaneki turns into a city-destroying monster, "Dragon" (ch. 144-145). Ghouls and investigators then ally to stop it and its spreading ghoul-making disease. The story ends six years later: the CCG is replaced by a joint human-ghoul agency, and Kaneki and Touka are married with a daughter (ch. 179).
+**Premise.** Two years after the raid on the cafe Anteiku, Ken Kaneki, a half-ghoul who eats people to survive, has lost his memory. As Haise Sasaki he works for the CCG, the agency that hunts ghouls, and mentors the "Quinx" squad, humans given ghoul organs (v1). Investigations of the serial killer Torso, a human auction and the Tsukiyama ghoul family (v1-6) bring his memories back; he arrests Eto, the leader of the terror group Aogiri Tree, who reveals to the press that she is a ghoul (v6). Kaneki then betrays the CCG to rescue the captive Hinami and defeats his mentor Kishou Arima, who kills himself and reveals that the Washuu clan running the CCG are ghouls (ch. 82-84). Kaneki becomes the "One-Eyed King," founds Goat, an organization seeking coexistence, and orders that investigators not be killed (ch. 99, 128). He and Touka become a couple, she becomes pregnant and they marry (v12). Nimura Furuta seizes the CCG; Kaneki is turned into a giant monster, "Dragon," that poisons Tokyo (v13-14), and humans and ghouls unite to stop it. Kaneki defeats Furuta and Dragon's core (v16). Six years later humans and ghouls live together, and Kaneki and Touka have a daughter and another child coming (ch. 179) (Wikipedia; fan wiki).
 
 ## Life message
 
-**Life is a series of choices whose results must be carried, not undone; a person who accepts his own sins and chooses to live can help build a world where enemies live together, and a family is worth living for.** (Kaneki in ch. 143 and 159: life "is just a series of choices"; he will "try to bear" his sins. Ishida: "The world merely exists. This is something I wanted to have Kaneki say.")
+**Even after you have been made into a monster, you can choose to live for the people you love and to make peace with your enemies; coexistence comes from refusing to kill and from seeing the other side as people.**
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | Two species, predator and prey, end in a negotiated truce rather than extinction. Kin and mating drive the turn: Touka's pregnancy (ch. 131) is what makes Kaneki want "to live on and protect her" (ch. 132). Half-human hybrids age early and die young (ch. 83, 131), so lineage and lifespan are real stakes. The Washuu clan's "pure bloodline" breeding program (ch. 101) is shown as monstrous. |
-| Pragmatic | Every faction weaponizes the other's bodies: quinques, Quinx surgery, Oggai child soldiers (ch. 118), and Kaneki gains strength and heals by eating Oggai (ch. 157, 163). The peace that ends the story is a working alliance of necessity against Dragon (ch. 150 onward), not a conversion of hearts. |
-| Religious | Christian imagery is more frequent than in the first series: a Christmas chapter titled "With the Lord" (ch. 31.5), Eto reciting biblical references and proclaiming herself Kanae's "new god" (ch. 43), a hymn-like chapter title "Come, You Sweet Hour of Death" (ch. 161; likely after Bach's "Komm, süßer Tod," from general knowledge), Donato Porpora's cross-shaped kagune (ch. 169) and his abuse of orphanage children (ch. 172), and Rize asking whether Kaneki will "look past" his sins (ch. 159). Ishida says his "parents were Christians" (Japan News). No god is shown as real. |
-| Socio-cultural | The minority-majority allegory widens into institutional politics: the CCG is secretly run by ghouls (ch. 83), a new leader turns it into a purge machine (ch. 127), and the ending replaces it with a mixed agency (ch. 179). Families are abusive (Kaneki's mother, ch. 53; Mutsuki's father, ch. 73; Saeki's father, ch. 78) or chosen (the Quinx "family," Goat, the marriage of Kaneki and Touka). |
+| Evolutionary biology | Predator and prey: ghouls must eat humans to live, so survival itself pits two species against each other. The story's resolution is a kind of truce across species, sealed by a mixed family (Kaneki and Touka's daughter, ch. 179). |
+| Pragmatic | Kaneki forces the CCG to negotiate rather than trying to win outright (ch. 99); Rc suppressant drugs and a medical group make coexistence workable (ch. 103, 116). The story rewards practical alliances over ideology. |
+| Religious | No religion shapes the plot. There is passing Christian imagery (Amon's cross, ch. 118), the Washuu clan as a hidden ruling caste, and talk of a "King." Faith readers may see a story of sin, sacrifice, forgiveness and a new family, but it is not framed religiously. |
+| Socio-cultural | A story about prejudice and the politics of fear: ANN's Silverman notes its use of Frankenstein and Kafka and its critique of fear between humans and ghouls. Corrupt institutions (the Washuu clan, V, human experiments, child soldiers) are exposed. |
+
+Outlook: Hopeful — after enormous losses, humans and ghouls make peace and Kaneki, who wanted to die for much of the story, chooses to live and starts a family; the fan wiki sums the ending as his dream of peace come true.
+Hope source: F — Kaneki keeps going for his friends and loved ones: Hide urges him to live (ch. 75), he renews his will to fight and live for them against Arima (vol. 8), and the ending is a family and a united community; forgiveness of enemies (R) is the close second.
 
 ## Content scores
 
-**Overall content level: 9 out of 10** (set by Violence and Fear and intensity; Sexuality and Mental health are each higher than in the first series). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 9 out of 10** (set by Violence and Mental health and self-harm). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 9 | Constant | Shown with consequences | Torso eats victims' torsos (ch. 1, 4; The Outer Haven). Underground auction of captured humans for ghouls (ch. 10-31, v2-3). Haise tortured during the auction raid, Takizawa having torn out his eyes (ch. 29). Arima cuts off Kaneki's limbs as they regrow (ch. 74-75). Arima slits his own throat (ch. 82-83). Takizawa tortured and force-fed in Kanou's lab (ch. 111). Furuta's Oggai kill suspected ghouls in restaurants and stores across Tokyo (ch. 127). Juuzou leaves Kaneki limbless; Kaneki devours Oggai, then becomes Dragon, which consumes the city (ch. 143-146, 157). Dragon's spawn devour investigators (ch. 148, 153). AIPT on vol. 8: "There's so much gore in the illustrations that bring horrific scenes to life." |
-| Fear and intensity | 9 | Constant | Neutral | Body horror (Dragon's eyes and mouths, ch. 160), mass death across Tokyo (ch. 145-146), a ghoul-making gas that turns humans into ghouls (ch. 164), a boy watching his father dismember a girl (Saeki's backstory, ch. 78). AIPT: "The darkness in this manga has gotten... darker." Beneath the Tangles (anime): "not a show for people who are bothered easily by blood and gore." |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 6 | Occasional, with one explicit chapter | Shown within love (Kaneki and Touka); predatory desire shown as menacing | Ch. 125 (v12, "X") is wholly given to Kaneki and Touka's first sex: undressing, bare breasts, full nudity, intercourse shown without graphic genital detail (wiki summary; ComicBook.com called the panels NSFW). Touka raised the subject in ch. 122. They marry after her pregnancy (ch. 131-132). Anime UK News: handled "with delicacy and maturity," "never feels like pure fanservice." Other content: Torso rips open Mutsuki's shirt (ch. 4) and later dresses him "as a girl" in captivity (ch. 73); Mutsuki has sex with what he believes is Sasaki, actually Uta's disguised, mangled body (ch. 114); Matsuri strips and caresses himself while thinking of Urie (ch. 100); Rize as a "recipient womb" whom Furuta feared would be raped (ch. 101); the Nutcracker eats men's testicles (auction arc; ESRB game summary). The anime tones some of this down but was still called "sexually suggestive or explicit" in places (Beneath the Tangles). |
-| Language | 5 | Frequent | Neutral | Viz text not checked. The first series' anime used "f--k" and "s--t" (Common Sense Media, tokyo-ghoul.md). Expect similar (to verify). Beneath the Tangles found "little swearing" in the :re anime. |
-| Substances | 2 | Occasional | Neutral | Mutsuki's father drinks and beats him (ch. 73). Smoking by adult investigators (Fura "quits smoking," ch. 179). Rc suppressant injections are medical (ch. 112). |
-| Mental health and self-harm | 9 | Recurring | Shown with consequences | Arima's suicide in front of Kaneki (ch. 82-83). Shirazu's nightmare of his father hanging and asking his son to die (ch. 34). An inner "Hide" criticizes Kaneki's "suicidal tendencies" (ch. 75); his inner "Kaneki" wants "to die in style" (ch. 53). Memory of childhood abuse by his mother (ch. 53). Mutsuki's breakdown: repressed memory of killing his own family (ch. 79), obsession and violence (ch. 114, 155). Urie's Rc-driven frenzy (ch. 112). Recovery is shown: Kaneki chooses to live (ch. 132, 159), and Mutsuki "has been forgiven" (ch. 179). |
-| Imitable behavior | 3 | Occasional | Neutral | Kaneki/Haise and Juuzou cosplay and memes carry over from the first series (from general knowledge). Self-harm imagery (Mutsuki, Urie) and a suicide on the page are the talk-through items. |
-| Commercial | 3 | Outside the book | Neutral | Anime, a mobile game ([:re birth]), the console game Call to Exist (ESRB M), merchandise. No product placement known in the manga. |
+| Violence | 9 | Constant | Shown with consequences | Ghouls eat people and fight with organic weapons (kagune); limbs severed and regrown repeatedly (Arima versus Kaneki, ch. 74-82); the Rushima and Cochlea raids (v7-8); the 24th ward raid and the Dragon war, with mass deaths and poisoning (v13-16); child soldiers, the Oggai squads, sent against ghouls (v12). Arima cuts his own throat (ch. 82). AniList tags Gore and Body Horror; Common Sense Media (first anime): torture, cannibalism, decapitation. |
+| Fear and intensity | 8 | Constant | Neutral | Horror imagery (Torso, the auction of captured humans, v2-3); human experimentation (Quinx, Oggai, Amon in a tank, ch. 110-111); Dragon as cosmic horror (v14-16; AniList Cosmic Horror). |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 6 | Occasional | Shown within love (Kaneki and Touka); predatory obsession shown as menacing | Ch. 124-125: Kaneki and Touka, both adults, spend the night together, shown discreetly (fan wiki; Anime UK News says the chapter is handled "with delicacy and maturity" and never feels like fan service); Touka becomes pregnant and they marry (v12). Ch. 121: frank talk between them about virginity (fan wiki). Ch. 75: Kaneki naked in a dream-vision (fan wiki). Torso, a ghoul who stalks and captures Mutsuki, is a predatory figure (v1, v8); the exact nature of his obsession is to verify. Shuu Tsukiyama's obsession with Kaneki is partly comic. AniList tags Nudity and Incest at low rank (the incest tag likely refers to the Washuu clan's breeding; to verify). |
+| Language | 5 | Frequent | Neutral | Common Sense Media lists frequent profanity including the f-word for the first anime; VIZ's English :re text not checked (to verify). |
+| Substances | 2 | Rare | Neutral | Rc suppressant drugs as medicine and weapon (ch. 103-110, 123); Common Sense Media notes adult drinking and smoking in the first anime. |
+| Mental health and self-harm | 9 | Constant | Shown with consequences | Kaneki's split identity as Haise (AniList Dissociative Identities); he plans to die by Arima's hand after saving Hinami (ch. 68-69) and in a vision walks into a river to drown before Hide stops him (ch. 75); Arima's suicide (ch. 82-84); Mutsuki's breakdown and repressed trauma (v8); Kaneki's despair before Dragon (v13). AniList tags Suicide and Tragedy. |
+| Imitable behavior | 3 | Occasional | Neutral | Self-harm imagery and cannibalism are fantasy-bound; the fighting is supernatural. |
+| Commercial | 3 | Outside the book | Neutral | Anime, novels, games and merchandise; the original anime's theme song "Unravel" is sung by Kaneki and Nishiki in ch. 103 (fan wiki). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Abusive parents (Kaneki's mother, ch. 53; Mutsuki's father, ch. 73; Saeki's father, ch. 78; Shirazu's father, ch. 34), surrogate fathers (Arima, whom Haise "views like a father," ch. 74), found family (the Quinx household; Goat's ghoul children, ch. 131). Marriage and a child are the ending's reward (ch. 131-132, 179). Authority is rotten at the top: the Washuu clan, ghouls breeding a "pure bloodline," secretly run the CCG (ch. 83, 101), and Furuta uses it for a purge (ch. 127); investigators who question orders (Urie, Ui, Kuroiwa) are honored. |
-| Religion and spirituality | Recurring (as imagery) | Christmas chapter "With the Lord" (ch. 31.5); Eto as a self-proclaimed "new god" with biblical references (ch. 43); Donato's cross-shaped kagune and the abuse of orphans in his care (ch. 169, 172); the "sins" Kaneki chooses to bear (ch. 159); a character becomes a monk in the epilogue (ch. 179). Kanou says the Washuu "came from the Middle East and practiced cannibalism" (ch. 149), a fictional backstory that some readers may find touches on regional stereotypes (our observation; no source found raising it). |
-| Gender and identity (incl. LGBTQ) | Recurring | Tooru Mutsuki is a trans man (binder, "biologically female," ch. 4, 155); villains misgender and sexualize him (Torso, ch. 4, 73); he later becomes unstable and violent, then is forgiven (ch. 114, 155, 179). No Flying No Tights calls the reveal "trans body horror" and the bait plot "a transphobic creative choice." Matsuri's attraction to Urie (ch. 100) and Hide's "he loves Kaneki" (ch. 148) are read by some fans as queer (fan reading). Women fighters and leaders: Touka, Akira, Saiko, Eto. |
-| Politics and social issues | Central | Fear-driven policy ("the humans are reacting like prey - with fear," ANN), a secret ruling clan, a purge with child soldiers (ch. 118, 127), harboring a ghoul punished by law (Article 88, ch. 129), and a negotiated coexistence (ch. 179). |
+| Family and authority | Central | Arima as Kaneki's teacher and father figure (ch. 85); found family at :re cafe and Goat; Kaneki and Touka marry and become parents (v12, ch. 179). Authority is corrupt: the Washuu clan, ghouls themselves, run the CCG and breed half-humans (ch. 84). |
+| Religion and spirituality | Incidental | Passing Christian imagery (Amon's cross); no religious institution or teaching shapes the story. |
+| Gender and identity (incl. LGBTQ) | Recurring | Tooru Mutsuki is a trans man (fan wiki: sex female, gender male) whose trauma and later obsession make him an antagonist in v12; Touka, Akira, Eto and Saiko are strong women. Identity itself (Haise or Kaneki) is the main theme. |
+| Politics and social issues | Central | Prejudice between species, state violence, human experiments and child soldiers, terrorism (Aogiri Tree), and negotiated coexistence (Goat, the TSC). |
 
-**Virtues shown:** mercy toward enemies, forgiveness (Mutsuki, ch. 179), conscience inside an institution (Urie, Ui, Akira, Amon), choosing to live, marital love and responsibility for a child, friendship that does not quit (Hide), cooperation across group lines, bearing one's own guilt.
+**Virtues shown:** mercy to enemies (Kaneki spares Arima and Furuta, ch. 82, v16), forgiveness, self-sacrifice (Hide; Kaneki at Cochlea), loyalty to friends, refusal to kill (Goat's order, ch. 128), honesty about identity, perseverance, care for the vulnerable (rescuing Hinami; medicine for Akira).
 
 ## Family frames
 
-Each row describes how that tradition's own sources would usually read the series. These are each tradition's views, not the site's. **Grade** measures message fit only, judged by each tradition's own teaching on art and media in its frame guide, and is never lowered by intensity alone. **Depiction concern** is how the tradition views the explicitness itself. All frame guides are drafts "from general knowledge (to verify)," so these rows inherit that status.
-
-Message summary used for grading: compared with the first series, :re moves from tragedy toward hope. Cruelty, purges and abuse are framed as evil; corrupt authority falls; enemies forgive each other; Kaneki accepts his sins and chooses to live; marriage and a child close the story. The concerns are a premarital sex chapter shown with nudity (ch. 125), sexualized violence around a trans character (ch. 4, 73, 114), an on-page suicide framed as a mentor's sacrifice (ch. 82-83), cannibalism as a source of strength (ch. 157, 163), and no transcendent source of the redemption. Explicitness remains extreme (Violence 9, Fear 9, Sexuality 6).
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a hero who refuses to kill and seeks peace with his enemies (ch. 99, 128); forgiveness and mercy (ch. 82, v16); a corrupt state and human experiments exposed; constant graphic violence and cannibalism as the setting; suicidal despair and a mentor's suicide (ch. 68-84); sex between the adult leads before marriage, then pregnancy and marriage (ch. 124-126, v12); a trans man who becomes an antagonist (v12); child soldiers (v12); a hopeful ending in family and coexistence (ch. 179). No sexual content involving minors was found in sources opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Significant | Dignity of the enemy; forgiveness and reconciliation; corrupt power judged; marriage and openness to a child at the end (ch. 179). Evil is shown as evil, not made attractive (Inter Mirifica 7). | Sex before marriage on the page (ch. 125); Arima's suicide framed as noble (CCC 2280-2283); gore and nudity that "Ethics in Communications" warns against. | Kaneki "will try to bear" his sins (ch. 159): what does the sacrament of reconciliation add that he lacks? Is the ghoul "marriage by bite" (ch. 131) a marriage? |
-| Eastern Orthodox | C | Significant | Struggle with the passions; repentance-like turn in Kaneki; love of enemies. | Guarding the senses (nepsis) weighs heavily against ch. 125 and the gore; Eto's mock "new god" (ch. 43) and the cross-shaped kagune of an abuser (ch. 169, 172) touch reverence for holy things. | Hunger and the passions. What would theosis look like next to Kaneki's healing by eating others? |
-| Baptist | C | Significant | Sin has consequences; marriage and fatherhood as responsibility; forgiveness. | Phil 4:8 test: explicit sex outside marriage, gore, an honored suicide; salvation is self-made. Each congregation and family decides (soul liberty). | Can a person "bear" his own sins (ch. 159), or is grace needed (Eph 2:8-9)? Choosing media by Phil 4:8. |
-| Non-denominational Evangelical | B | Significant | A redemption arc, enemy-love and reconciliation; Christian readers (Beneath the Tangles) engage it as a story of identity and "tragic hope." | Ch. 125 and the gore; no Christ-figure redemption. Families split between "engage" and "separate." | Romans 7 and Haise's divided self. Is human reconciliation without God enough? |
-| Pentecostal / Charismatic | C | Significant | Clear battle between destructive and protective power; deliverance-like rescue of Kaneki from Dragon (ch. 160-163). | Possession-like inner voices (ch. 53, 75, 158-159), Eto's "god" claim, sexual content; media as an "open door." | Ephesians 6:12. Guarding the heart (Proverbs 4:23). |
-| Reformed / Presbyterian | B | Significant | Total depravity on every side; corrupt magistrates fall; common grace allows valuing a serious work. | WLC Q139 lists "lascivious... pictures"; ch. 125 is a direct concern. No providence shown. | Is the Washuu-run CCG a "magistrate bearing the sword" (Romans 13)? Where is grace in "the world merely exists"? |
-| Lutheran | B | Discuss | Law without gospel: people cannot save themselves; vocation (Urie, Ui) inside a broken institution. | Sexual content and gore; confessional (LCMS, WELS) families stricter than ELCA. | Two kingdoms and Furuta's purge. Where would the gospel enter Kaneki's story? |
-| Methodist / Wesleyan | B | Significant | Social holiness: care for the hunted and the orphaned (Goat's children, ch. 131); reconciliation. | Wesley's rule on diversions makes the sex chapter and gore heavy for holiness churches; less so for many UMC families. | Prevenient grace in Kaneki and Mutsuki. Works of mercy across enemy lines. |
-| Anglican / Episcopal | B | Discuss | Judged by how good and evil are framed: cruelty condemned, mercy rewarded, marriage at the end. | Premarital sex on the page and the honored suicide; ACNA families stricter than Episcopal ones. | Gothic literature and the sympathetic monster. Just-war questions about the alliance against Dragon. |
-| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | The cycle of violence is broken by forgiveness and a negotiated peace; the CCG is replaced. | Violence remains the main means of change and is often heroic; Old Order groups avoid such media. | Could Goat's coexistence have come without the war? Forgiving Mutsuki. |
-| Latter-day Saint | B | Significant | Agency, repentance, marriage and family as the end of the story. | For the Strength of Youth asks for media that invites the Spirit; ch. 125 (sex outside marriage, nudity) and gore are the issue. | Agency and opposition (2 Nephi 2). What makes a covenant marriage? |
-| Mainline progressive Protestant | B | Discuss | Critique of state violence, purges and child soldiers; inclusion of a trans character; reconciliation. | The trans character's arc is sexualized and pathologized (No Flying No Tights); fan glamour of violence. | Structural sin: a CCG run by those it hunts. How is Mutsuki treated by the story? |
-| Seventh-day Adventist | C | Significant | Consequences of evil; care for the vulnerable; family at the end. | Fundamental Belief 22 and "by beholding we become changed": horror, gore and a sex chapter weigh heavily. | 2 Corinthians 3:18 as used in Adventist teaching. |
-| Jehovah's Witness | D | Significant | Prejudice shown as wrong; peace preferred. | Violence is constant and settles the conflict (Psalm 11:5); sexual immorality on the page (Galatians 5:19-21); spiritistic inner voices. | Why jw.org counsel on entertainment would advise against it. |
-| Christian Science | C | Significant | Hope, healing and reconciliation at the end. | "Stand porter at the door of thought": bodily horror, disease (the ROS ghoul-making illness, ch. 164-165) and death dominate. | Guarding thought (Science and Health 392). |
-| Orthodox Jewish | C | Significant | Pikuach nefesh and the value of each life; warning against dehumanizing a people; marriage and a child. | Tzniut and nivul peh make the nudity, sex and language serious; cannibalism; many Haredi homes avoid such media. | What happens when a group is defined as less than human? Teshuvah and Kaneki's "bearing" of sins. |
-| Conservative Jewish | B | Significant | Respect for life; repair after catastrophe (the joint agency, ch. 179); forgiveness. | Dignity of speech and modesty weighed against ch. 125 and gore. | Teshuvah and tikkun after the Dragon war. |
-| Reform Jewish | B | Discuss | Tikkun olam: a broken society rebuilt; minority rights; informed autonomy. | Watch for stereotypes: the cannibal clan "from the Middle East" (ch. 149); the trans character's treatment. | Who repairs the city, and how? |
-| Muslim | C | Significant | Justice against oppression (Furuta's purge); mercy; patience under suffering. | Lowering the gaze (Qur'an 24:30-31) and the sex chapter; human flesh as the deepest taboo (49:12 image); an honored suicide; the cannibal clan's "Middle East" origin (ch. 149) may read as a stereotype. | Fighting only against oppression. Repentance (tawbah) and Kaneki. |
-| Hindu | B | Discuss | Karma of violence returning on all; dharma in impossible duties; householder life at the end. | Ahimsa traditions find the premise repellent; tamasic content (Gita 17). | Kaneki as an Arjuna who finally chooses his duty. |
-| Buddhist | B | Discuss | Craving as the root of suffering; "the world merely exists" (Ishida) echoes non-attachment; compassion for enemies. | First precept broken constantly; entertainment avoided on observance days. | Furuta's despair at impermanence (ch. 176) versus Kaneki's acceptance. |
-| Sikh | B | Discuss | Sant-sipahi: fighting to protect the oppressed; equality of all people. | The five vices (lust, anger) shown in excess; intoxicant and meat taboos make the premise jarring. | When is fighting justified? Seeing one light in all. |
-| Bahá'í | B | Discuss | The oneness of humanity realized as coexistence; unity in diversity. | A "chaste and holy life" weighs against ch. 125 and degrading content. | What did reconciliation require of each side? |
-| Shinto | B | Discuss | Harmony restored; purification after catastrophe. | Blood, corpses and death as kegare on almost every page; no shrines mocked. | Purity, pollution and renewal. |
-| Wiccan / Pagan | B | Minor | Balance restored between two kinds of beings; respect for the unlike. | "Harm none" broken everywhere. | Harm none, and when protection justifies harm. |
-| Scientologist | B | Discuss | A being's identity surviving memory loss and implanted overlays (Haise's recovery, ch. 53); The Way to Happiness precepts on not murdering and honoring others. | Medicalized control (Quinx surgery, Rc suppressants) and the psychiatric framing of trauma conflict with the Church's opposition to psychiatry; violence. No Scientology guidance on manga found. | Memory, identity and trauma in Haise. |
-| Secular progressive | B | Discuss | Critique of state purges, fear-driven policy and child soldiers; minority coexistence achieved; a trans character in a major role. | No Flying No Tights: the trans reveal is "trans body horror," Mutsuki lacks "real agency," and it did not recommend the book for libraries; safe-messaging concerns about the honored suicide. | Compare how the story treats Mutsuki with Kaneki. Who writes the laws, like Article 88? |
-| Secular humanist | B | Discuss | Meaning made by human choice in an indifferent world ("the world merely exists"); reason and science cure the ROS crisis (ch. 179); free inquiry. | Pseudoscience-like biology is fiction, not fact; violence glamorized by fans. | Kaneki versus Furuta: does meaninglessness justify destruction (ch. 176)? |
-| Conservative / traditional | B | Significant | Marriage and family as the happy ending; duty and loyalty; corrupt elites removed. | Sex before marriage, gore and language; heavy anti-authority strand; gender identity theme. | Is Urie's disobedience duty or rebellion? Does the good end justify the content? |
-| Unitarian Universalist | B | Discuss | Inherent worth and dignity extended to the "other"; justice; a free search for meaning. | Stereotype concerns (Mutsuki; the "Middle East" clan) and violence. | Who belongs in the circle of worth? |
-| Satanist | B | Minor | The Satanic Temple's tenets of compassion and justice and the Church of Satan's self-determination fit the rebellion against a corrupt order and Kaneki's self-chosen path. | Non-consensual harm (Mutsuki's captivity, Torso) conflicts with TST's bodily autonomy tenet and the Eleven Rules on harming children (the Oggai, Donato's orphans). | Bodily autonomy and who owns a body (Quinx surgery, Oggai). |
+| Catholic | B | Significant | Dignity of the other (ghouls treated as persons); mercy to enemies; marriage and an open welcome of a child (v12, ch. 179); human experimentation condemned (Dignitas Personae). | Premarital sex (ch. 124-125, CCC 2353); Arima's suicide (CCC 2280-2283); constant gore and cannibalism imagery. | Love of enemies (Matthew 5:44): who in the story learns to see the other side as persons? |
+| Eastern Orthodox | C | Significant | Repentance and transformation; sacrificial love (Hide, Kaneki). | Guarding the senses (nepsis) against relentless gore; premarital sex; despair. | Theosis and identity: who is Kaneki really, and who does he choose to be? (from general knowledge; to verify) |
+| Baptist | C | Significant | Forgiveness and sacrifice; protecting the weak; marriage and family at the end. | Gore and cannibalism; premarital sex; suicide; no God in the answer. Philippians 4:8 test. | "Overcome evil with good" (Romans 12:21) beside Kaneki's order not to kill investigators. |
+| Non-denominational Evangelical | B | Significant | Redemption, sacrifice and love of enemies are central; Beneath the Tangles (Christian) discusses the series' "tragic hope." | Extreme gore; premarital sex; suicide; some evangelical parents would avoid the horror itself. | Where does hope come from in a tragic world (Romans 5:3-5)? |
+| Pentecostal / Charismatic | C | Significant | Deliverance from bondage (Hinami, Cochlea); perseverance; self-sacrifice. | Holiness standards on gore, premarital sex and dark imagery; monstrous transformation. | Bondage and freedom in Kaneki's story (Galatians 5:1). (from general knowledge; to verify) |
+| Reformed / Presbyterian | B | Significant | Total depravity on both sides; common grace in mercy and sacrifice; corrupt rulers exposed. | WLC Q136 (Arima's suicide); Q139 (lascivious content, ch. 125); gore. | What does the story say human nature is like, and what restrains it? |
+| Lutheran | B | Discuss | Vocation of protector; grace and mercy; repentance of former enemies (Amon, Takizawa). | Sixth Commandment (premarital sex); gore; suicide. | Simul iustus et peccator: Kaneki as both monster and saint. (from general knowledge; to verify) |
+| Methodist / Wesleyan | B | Discuss | Social holiness: exposing state violence and experiments; works of mercy (medicine for Akira, ch. 116). | Holiness churches cautious about gore and sexual content. | Wesley's "do no harm" beside Kaneki's order not to kill. |
+| Anglican / Episcopal | B | Discuss | Reconciliation across enemies; sacrifice; family. | Gore; premarital sex; suicide. | What makes reconciliation possible between enemies? |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Kaneki's refusal to kill and his peacemaking (ch. 128). | Violence as the main action; separation from worldly media; gore. | Can someone who fights still be a peacemaker? (from general knowledge; to verify) |
+| Latter-day Saint | B | Significant | Family as the goal; agency; repentance and second chances. | For the Strength of Youth on graphic violence and sexual content; law of chastity (ch. 125). | Choosing who you become: Haise or Kaneki. (from general knowledge; to verify) |
+| Mainline progressive Protestant | B | Discuss | Critique of prejudice and state violence; peacemaking; mental health honesty. | Mutsuki, a trans man, becomes an obsessive antagonist (v12), which some readers find troubling; gore. | Who is treated as less than human, and why? |
+| Seventh-day Adventist | C | Significant | Peacemaking; health and medicine as care. | FB 22 on entertainment; cannibalism and gore; "by beholding we become changed." | What does the story train readers to look at? (from general knowledge; to verify) |
+| Jehovah's Witness | D | Significant | Peace and family. | Graphic violence, horror and sexual immorality against jw.org entertainment counsel. | jw.org questions on choosing entertainment. (from general knowledge; to verify) |
+| Christian Science | C | Discuss | Identity beyond the body; overcoming fear. | Bodily horror and death are the substance of the story. | Is Kaneki defined by his body? (from general knowledge; to verify) |
+| Orthodox Jewish | C | Significant | Pikuach nefesh (saving lives); peace (shalom); a family at the end. | Kavod ha-met and gore; cannibalism; tzniut; suicide. | Shalom between enemies: what makes it possible? (from general knowledge; to verify) |
+| Conservative Jewish | B | Discuss | Teshuvah of former enemies; justice against corrupt rulers. | Gore; premarital sex. | Can a former enemy do teshuvah? (from general knowledge; to verify) |
+| Reform Jewish | B | Discuss | Tikkun olam through coexistence; critique of prejudice. | Gore; portrayal of Mutsuki. | How do the characters repair a broken world? (from general knowledge; to verify) |
+| Muslim | C | Significant | Mercy and justice; family; protecting the oppressed. | Zina before marriage (ch. 125); gore and cannibalism; suicide (4:29). | Mercy to enemies and the hope of reconciliation (41:34). |
+| Hindu | B | Discuss | Dharma as protector; karma of the corrupt clan; ahimsa in Kaneki's refusal to kill. | Violence and cannibalism; premarital sex. | Kaneki's dharma as king: protect without killing. (from general knowledge; to verify) |
+| Buddhist | B | Discuss | Non-self and identity (Haise and Kaneki); compassion toward enemies; breaking the cycle of killing. | First and third precepts broken often; gore. | Who is the real Kaneki, if the self is not fixed? |
+| Sikh | B | Discuss | Courage to protect the weak; seva; justice against tyranny. | Gore; premarital sex. | Sant-sipahi: protecting others without hatred. (from general knowledge; to verify) |
+| Bahá'í | B | Discuss | Unity of peoples; peace through consultation (Goat's negotiation). | Gore; premarital sex. | Unity of humankind beside human-ghoul coexistence. (from general knowledge; to verify) |
+| Shinto | B | Discuss | Harmony restored; family and community. | Kegare (blood, death) pervasive. | Harmony after pollution: how is the city made whole? (from general knowledge; to verify) |
+| Wiccan / Pagan | B | Minor | "Harm none" in Goat's order; transformation; balance between two peoples. | Gore. | Balance between predator and prey. (from general knowledge; to verify) |
+| Scientologist | B | Discuss | Overcoming suppressive people (the Washuu clan, Furuta); survival with others. | Psychiatric drugs and experimentation shown; gore. | Who are the suppressive people in the story? (from general knowledge; to verify) |
+| Secular progressive | B | Discuss | Critique of prejudice, state violence and experiments on children; strong women. | Mutsuki's arc as a trans man turned obsessive villain; child soldiers used for spectacle. | How does the story treat people the system calls monsters? |
+| Secular humanist | B | Minor | Human choice and empathy build peace; no supernatural answer. | Bleak violence; suicide. | What lets enemies finally see each other as people? |
+| Conservative / traditional | B | Discuss | Loyalty, sacrifice, marriage and children as the happy ending. | Gore; premarital sex; institutions shown as rotten. | Is the CCG the problem, or the people who corrupted it? |
+| Unitarian Universalist | B | Minor | Inherent worth of every person, ghoul or human; justice and compassion. | Gore; portrayal of Mutsuki. | Inherent worth across the human-ghoul line. (from general knowledge; to verify) |
+| Satanist | B | Minor | Rejection of corrupt authority; personal sovereignty; justice against tyrants. | Self-sacrifice and pacifism sit apart from its individualism. | Is Kaneki's mercy strength or weakness? (from general knowledge; to verify) |
+| Historically Black Protestant | B | Significant | Deliverance and justice: a hunted, despised people win peace and recognition; Kaneki stands up to injustice without hatred, forbidding the killing of investigators (ch. 128); second chances for former enemies. | Extreme gore and cannibalism; sex before marriage (ch. 124-125); suicide and long despair; no God who makes a way. | "Let justice roll down like waters" (Amos 5:24): what does justice for ghouls require, and what does peace require? |
+| Atheist | B | Minor | Goodness from empathy and choice; corrupt hidden rulers exposed; science (Rc suppressants) serving healing. | Glorified cruelty in places; suicide. | Why does Kaneki choose not to kill, with no god telling him to? |
+| Agnostic | B | Minor | Open questions of identity and what makes someone human; fanaticism (Aogiri, V) condemned. | Bleak violence. | What makes someone human: body, memory or choices? |
+| Nothing in particular | B | Discuss | Loyalty to friends and family; payback for the corrupt; a hopeful ending with a new family. | Violence and gore beyond a younger teen's age; suicide. | Who stood by Kaneki when he was lost, and why did it matter? |
 
-Where traditions disagree: the message is more hopeful than the first series (reconciliation, forgiveness, marriage and a child), so most frames sit at B. The sex chapter (ch. 125) is the new dividing line: Catholic, Orthodox, Latter-day Saint, Adventist, Jehovah's Witness, Orthodox Jewish, Muslim and conservative families weigh it as Significant whatever the message, while Lutheran, Anglican, Reform and secular families more often read it as a serious, non-exploitative scene (Anime UK News). Progressive and secular frames raise the treatment of Mutsuki as the main message concern.
+**Where traditions disagree.** Most frames welcome the message of mercy, peacemaking and family, so many grade it B. The divide is over how much the setting itself weighs: frames with strict media standards (Jehovah's Witness, Seventh-day Adventist, Pentecostal, Anabaptist, Orthodox Jewish) see relentless cannibal gore and suicide as hard to separate from the message, and Christian, Muslim and Latter-day Saint frames note that the leads have sex before marrying. Progressive frames praise the critique of prejudice but question Mutsuki's turn from trans survivor to obsessive antagonist.
 
 ## Winners, losers and sympathy
 
-Coexistence wins: the corrupt CCG and its ruling clan fall, the purge ends, and humans and ghouls build a shared agency, at the cost of a city and many lives.
+Those who choose mercy and coexistence survive and build families; those who rule by lies and experiments fall.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Ken Kaneki / Haise Sasaki | From self-erasing investigator to a man who accepts his past, leads ghouls toward coexistence and chooses to live | Becomes Dragon (ch. 144-145), is rescued (ch. 160-163), defeats Furuta (ch. 174-176); married with a daughter (ch. 179) | Endorsed; his acceptance of sins and choice to live is the moral |
-| Touka Kirishima | Love that waits and digs him out ("determined to save her husband," ch. 160) | Wife and mother (ch. 179) | Endorsed |
-| Quinx Squad (Urie, Mutsuki, Saiko, Shirazu) | Humans altered to fight ghouls, learning conscience | Shirazu dies (vol. 6, likely); Urie hunts Dragon's spawn; Saiko becomes the Quinx "mother"; Mutsuki falls into violence and "has been forgiven" (ch. 179) | Sympathetic; Mutsuki's arc is the most debated |
-| Kishou Arima | The perfect investigator secretly serving the ghouls' cause | Slits his own throat after handing Kaneki the "One-Eyed King" role (ch. 82-83) | Revered as tragic mentor |
-| Washuu clan / V | A hidden ghoul aristocracy ruling humans through the CCG | Exposed (ch. 83), destroyed (ch. 166-178) | Condemned |
-| Nimura Furuta | Nihilism: life ends, so destroy it all | Defeated, dies dreaming of a family with Rize (ch. 174-176) | Condemned, then pitied |
-| Eto Yoshimura | Revolutionary terror; author who unmasks ghoul life | Used as a puppet by V (ch. 166), dies smiling (ch. 178) | Ambivalent |
-| Hide | Unconditional friendship | Returns as "Scarecrow" (ch. 138, 148), narrates the epilogue (ch. 179) | The moral heart |
+| Ken Kaneki | Live for others; refuse to kill; coexistence | Defeats Arima and Furuta, stops Dragon, marries Touka, peace achieved (ch. 82, v16, ch. 179) | Endorsed |
+| Touka Kirishima | Waiting, loyalty, a safe place (:re) | Marries Kaneki and becomes a mother (v12, ch. 179) | Endorsed |
+| Kishou Arima | A killer who wanted someone to surpass him | Kills himself after passing his mission to Kaneki (ch. 82-84) | Sympathetic, tragic |
+| Nimura Furuta / the Washuu clan / V | Hidden rule by a ghoul clan; people as tools | Exposed and defeated; Furuta beaten by Kaneki and confesses he wanted a normal life (v16; his death from general knowledge; to verify) | Condemned, with pity for Furuta |
+| Eto Yoshimura | Break the world to remake it | Mortally wounded (v8); her plan succeeds through Kaneki | Mixed |
+| Tooru Mutsuki | Obsession born of trauma | Hunts Kaneki with child soldiers (v12); alive at the end (fan wiki age 27 at ch. 179) | Mixed |
+| Koutarou Amon | Doing what is morally right | Freed from experiments, joins Goat (ch. 116-119) | Endorsed |
+| Hideyoshi Nagachika | Self-giving friendship | Survives, scarred (v15-16) | Endorsed |
 
-**Fan favorites versus the official moral.** MyAnimeList ranks the manga #21 in popularity with about 24,000 favorites (as viewed), lower than the first series' 52,000. Official Weekly Young Jump character poll results were not found (to verify). MAL reviewers praise "moral grey areas" and Kaneki's development, but the most common complaint is a rushed final arc ("Poorly executed redemptions and revivals," bluecoke_, 9/10), and one reviewer called the late Dragon a "convenient plot" device. Mutsuki is a lightning rod: one MAL reviewer calls him the series' worst character, while a library reviewer criticizes the book for how it treats him. Many fans of the first series' tragic tone were "baffled" by the happy ending, which Ishida says he intended.
+**Fan favorites versus the official moral.** No official popularity poll was opened. The biggest fan dispute was over the Kaneki and Touka romance in ch. 124-125: FandomWire reports that some fans who wanted Kaneki paired with Hide sent the author hate mail and threats, and it argues the backlash was toxic. Reviewers generally prefer Kaneki's inner story to the battles (ANN, vols. 5-7).
 
 ## Message delivery
-- Style: Woven in
+- Style: Explicit
 - Preachiness: 4
-- Opposing views: Mixed
-- Evidence: Beneath the Tangles finds its dark themes "authentic"; No Flying No Tights criticizes Mutsuki's handling; neither calls it preachy.
-- Note: Coexistence and the choice to live are argued through Kaneki's confrontation with Furuta's nihilism.
+- Opposing views: Fair
+- Evidence: Kaneki states his aims openly (ch. 99, 128) and reflects at length in the final battle; enemies such as Arima, Eto and Furuta are given reasons and sympathetic last words.
+- Note: The message is spoken by Kaneki, but the story gives its villains real grievances, so the case for coexistence is argued rather than simply asserted.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
-| Ken Kaneki | Accept past sins and choose to live | Hero | Sympathetic |
-| Nimura Furuta | Everything ends, so nothing matters | Villain | Mixed |
-| Kishou Arima | Serve a cause in secret and pass it on | Mentor | Sympathetic |
-| Washuu clan | Hidden aristocracy ruling through the CCG | Villain | Fair |
+| Ken Kaneki | Coexistence; refusing to kill | Hero | Sympathetic |
+| Kishou Arima | Duty as a killer; hope for a successor | Mentor | Sympathetic |
+| Nimura Furuta | Power through manipulation | Villain | Mixed |
+| Eto Yoshimura | Destroy the system to remake it | Foil | Fair |
 
 ## Creator and publisher context
 
-- **Sui Ishida** (b. 1986, Fukuoka). Background in tokyo-ghoul.md; not repeated.
-- **On-record statements** (The Japan News / Yomiuri, Yayoi Kawatoko, via inkl; undated, after :re ended): "I wanted to reset the story to turn Kaneki into an investigator on the humans' side." "I thought of killing Kaneki, who has become a monster, to unite the two species. But if I did that, I knew there would be nothing left." "I thought it'd be better to make the ending so happy the readers would be baffled." "The world merely exists. This is something I wanted to have Kaneki to say." "I don't think a single person can save the world." "I wanted to depict evil characters who also belong to a minority group." "If you think there are unexplored parts in the story -- which I did intentionally -- I want to leave it to the readers to imagine."
-- **Religious background, now on record:** the same interview quotes Ishida directly: "My parents were Christians as well as company employees who were often transferred," and "I was the person listening to friends who would talk about religion, gender and family issues." (This updates the Tokyo Ghoul entry, which had only Looper's paraphrase.) He does not tie his faith background to the story's imagery in the quotes found; this entry does not go further.
-- **End-of-series comment** (Twitter, July 2018, fan translation reported by ComicBook.com): he called the series "such a crude work made by an unskilled hand" but was "quite proud of myself for being able to draw until the very end."
-- **Publisher:** Shueisha; Viz Media is owned by Shueisha and Shogakukan (from general knowledge).
-- **Controversies:** None found involving Ishida personally. The anime of the first series was banned in China in 2015 (tokyo-ghoul.md). For :re, the main documented criticism is of the trans character's treatment (No Flying No Tights).
+- Sui Ishida, born December 28, 1986, in Fukuoka Prefecture. Tokyo Ghoul (Weekly Young Jump, 2011-2014) topped the New York Times manga best-seller list in English in 2015; :re followed (2014-2018). He also storyboarded a Hunter x Hunter side story (2016), created Choujin X (2021-) and the game Jack Jeanne (2021) (Wikipedia, Sui Ishida).
+- The Fire Punch fan wiki says Ishida was among the established artists who noticed Tatsuki Fujimoto's early one-shots.
+- No on-record statement by Ishida about the meaning of :re was opened. The Tokyo Ghoul Zakki art book contains his commentary (Wikipedia), not checked. **Status: Needs more info on the creator.**
+- Publisher: Shueisha (Weekly Young Jump, a seinen magazine). VIZ Media publishes it under VIZ Signature, rated T+ (Teen Plus).
+- FandomWire reports harassment of Ishida by some fans over the ch. 125 romance; no controversy involving the creator's own conduct was found.
 
 ## Worldview lenses
 
-Dominant lenses: Existentialism, Absurdism, Critical theory, Collectivism/authoritarianism (critiqued), Communitarianism, Nihilism (critiqued).
+Dominant lenses: Existentialism, Communitarianism (coexistence), Critical theory (prejudice and state violence), Pacifism tested in war.
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Existentialism | 8 | Affirmed | A | Haise must decide who he is after amnesia (ch. 53); "life is just a series of choices, and the results... have to be accepted" (ch. 143). |
-| Absurdism | 6 | Affirmed | B | "The world merely exists" (Ishida); Kaneki: "everyone is the protagonist of their own tragedies... and yet people still strive" (ch. 177). My label. |
-| Critical theory | 6 | Affirmed | B | A hidden ruling clan behind the institution that oppresses a minority (ch. 83, 101); laws punishing anyone who shelters ghouls (Article 88, ch. 129). My label. |
-| Collectivism / authoritarianism | 6 | Critiqued | D | Furuta's purge and Oggai child soldiers (ch. 118, 127). |
-| Communitarianism | 6 | Affirmed | B | Goat's ghoul community and children (ch. 99, 131); the joint Tokyo Security Committee (ch. 179). My framing. |
-| Nihilism | 6 | Critiqued | D | Furuta "reached the conclusion that the inevitable end of existence made life meaningless" and so wants to destroy (ch. 176); the story rejects him. |
-| Transhumanism | 5 | Critiqued | D | Quinx surgery, Oggai, Kanou's hybrids, the Washuu breeding program (ch. 83, 101, 118). |
-| Secular humanism | 5 | Affirmed | B | Meaning chosen by humans; science cures the ROS illness and Saiko and Haru recover (ch. 179). |
-| Might makes right | 5 | Critiqued | D | Furuta and V rule by force; Kaneki's own growth through eating others is shown as monstrous (Dragon). |
-| Christian | 3 | Explored (by imagery) | C | Christmas "With the Lord" (ch. 31.5), sins borne (ch. 159), Eto's "new god" (ch. 43), cross-shaped kagune (ch. 169). |
-| Traditionalism | 3 | Explored | C | Marriage, a child and family gatherings as the happy end (ch. 131-132, 179). |
-| Utilitarianism | 3 | Explored | C | The alliance with ghouls to save the most lives (ch. 150). |
-| Feminism | 3 | Explored | C | Touka, Akira, Saiko and Eto have full arcs; Rize used as a "recipient womb" is condemned (ch. 101). |
-| Dharmic (Hindu/Buddhist) | 2 | Explored (by echo) | C | Acceptance of impermanence against Furuta's despair. My framing. |
-| Stoicism | 2 | Explored | C | Kaneki's acceptance of what cannot be changed (ch. 143). |
-| Progressivism | 2 | Explored | C | A trans character and a mixed society, without a stated agenda. |
-| Pragmatism | 2 | Incidental | C | Alliance of necessity (ch. 150). |
-| Classical virtue ethics | 2 | Explored | C | Courage and loyalty in Urie, Akira and Amon. |
-| Jewish, Islamic, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Marxism, Postmodernism, Environmentalism, Anti-natalism, Expressive individualism, Hedonism, Consumerism, Libertarianism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
+| Existentialism | 8 | Affirmed | B | Kaneki chooses who he is after losing his memory; his final reflection that life is sad but we strive to choose (v16, fan wiki). |
+| Communitarianism | 6 | Affirmed | B | :re cafe, Goat and the united front against Dragon; peace as a shared project (ch. 99, v15-16). |
+| Pacifism / nonviolence | 6 | Affirmed | B | Kaneki spares Arima (ch. 82), orders Goat not to kill investigators (ch. 128) and tries to handle V agents non-lethally (ch. 108); he still fights throughout, so fighting stays central. |
+| Critical theory | 6 | Affirmed | B | Prejudice and the politics of fear (ANN); a hidden ruling clan, human experiments and child soldiers exposed. |
+| Authoritarianism | 6 | Critiqued | D | The Washuu clan and V secretly rule the CCG (ch. 84); Furuta's takeover; Aogiri's terror. |
+| Nihilism | 6 | Critiqued | D | Kaneki's wish to die is answered by Hide's call to live (ch. 75); Furuta's emptiness defeated (v16). |
+| Absurdism | 5 | Explored | C | A tragic world in which characters keep going; Kafka references (ch. 75; ANN). |
+| Transhumanism | 5 | Critiqued | D | Quinx and Oggai surgeries, half-humans bred by the Washuu, Amon in a tank (ch. 84, 110-111). |
+| Secular humanism | 5 | Affirmed | B | Peace is built by human empathy, medicine and negotiation, with no supernatural help. |
+| Strength rules | 5 | Critiqued | D | Arima and Furuta as the strongest; strength turned to protecting others is what the story rewards. |
+| Christian | 3 | Explored | C | Passing imagery (Amon's cross, ch. 118); sacrifice and love of enemies as themes. My own framing. |
+| Traditionalism | 3 | Explored | C | Marriage and children as the ending (ch. 179). |
+| Utilitarianism | 3 | Explored | C | Arima and Eto's long plan to make Kaneki king at the cost of their lives (v8). |
+| Feminism | 3 | Explored | C | Strong women leaders and fighters (Touka, Akira, Eto). |
+| Stoicism | 2 | Explored | C | Enduring pain and loss. |
+| Progressivism | 2 | Explored | C | A new social order of coexistence (the TSC). |
+| Pragmatism | 2 | Explored | C | Negotiation and practical alliances (ch. 99, 103). |
+| Classical virtue ethics | 2 | Explored | C | Courage and mercy as character traits. |
+| Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Feel-good faith, Naturalism, Duty ethics, Marxism, Postmodernism, Environmentalism, Anti-natalism, Expressive individualism, Hedonism, Consumerism, Bushido / honor code, Libertarianism, Liberalism (rights and consent), Anarchism, Patriotism / nationalism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. The old Dharmic lens (2, by echo of non-self) falls below the threshold for Buddhist ideas. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side; economics is not a theme. |
-| Social (0 authority, 10 liberty) | 6 | Corrupt authority and purges are condemned, but the ending builds a new shared institution rather than abolishing order. |
-| Cultural (0 traditional, 10 progressive) | 5 | Minority coexistence and a trans character, balanced by marriage and family as the reward. |
-| Community (0 individual first, 10 community first) | 7 | Kaneki's choices are made for Goat, Touka and the coming child; the story ends on a joint community. |
+| Economic (0 collective, 10 free market) | 5 | Economics barely figures; corporations (the Tsukiyama group) and the state are mixed. |
+| Social (0 authority, 10 liberty) | 7 | Secret rulers, experiments and terror are condemned; freedom to live openly is the goal. |
+| Cultural (0 traditional, 10 progressive) | 5 | Prejudice is criticized, while marriage and family form the happy ending. |
+| Community (0 individual first, 10 community first) | 7 | Peace is a shared project of two peoples; Kaneki gives up his own wish to die for others. |
 
-**Moral foundations profile (0 to 10):** care 9, loyalty 7, fairness 7, sanctity 5, authority 3, liberty 7.
+**Moral foundations profile (0 to 10):** care 8, loyalty 8, fairness 7, sanctity 3, authority 3, liberty 7.
 
-**Profile notes for parents:** :re is more hopeful than Tokyo Ghoul: corrupt power falls, enemies forgive, and the hero chooses to live, marry and raise a child. It is also more explicit: a full chapter of premarital sex with nudity (ch. 125), sexualized violence around a trans character, an on-page suicide and mass-casualty horror. Viz rates it 16+ (Older Teen); there is no Common Sense Media or ScreenWise review of :re, but both rate the first series 15+.
+**Profile notes for parents:** Care and loyalty are strongest: Kaneki lives for others, and friends repeatedly save him. Fairness drives the critique of a rigged system. Authority is low because the official institutions are secretly corrupt. Sanctity is low: bodies are eaten and cut apart constantly. VIZ rates it T+, but its gore and suicide themes are heavy for younger teens.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 4 | Revenge cycles are broken by forgiveness (Mutsuki forgiven, ch. 179; Goat and CCG ally, ch. 150). Duels of honor still recur (Kaneki and Arima, ch. 74-83; Uta and Yomo's "fun" fight, ch. 169-171). |
-| Order vs freedom | 5 | The secret Washuu order and Furuta's purge are condemned (ch. 83, 127), but the ending builds a new shared institution (Tokyo Security Committee, ch. 179) rather than freedom from rule. |
-| Civic vs kin | 5 | Marriage, a child and family gatherings close the story (ch. 131-132, 179), while the alliance widens loyalty to former enemies (ch. 150). |
-| Equality vs hierarchy | 3 | A hidden aristocratic clan breeding a "pure bloodline" is the villain (ch. 101); investigators who question rank are honored (Urie, ch. 133). |
-| Tradition vs secular-rational | 6 | Christian imagery is symbolic (ch. 31.5, 43, 159); science and research cure the ROS crisis and half-human lifespans (ch. 179). |
-| Survival vs self-expression | 6 | Survival dominates the war, but the end values tolerance, choosing one's own identity (Haise and Kaneki merging, ch. 53) and quality of life. |
+| Dignity vs honor | 4 | Kaneki rejects revenge and spares his enemies; Aogiri's vengeance politics fail. |
+| Order vs freedom | 6 | The existing order is corrupt, but the goal is a new, negotiated order (the TSC), not chaos. |
+| Civic vs kin | 5 | Found family (:re, Goat) balanced with a wider peace for two peoples. |
+| Equality vs hierarchy | 3 | The hidden Washuu hierarchy is evil; Kaneki as king is reluctant and consultative. |
+| Tradition vs secular-rational | 7 | Secular world; medicine and negotiation solve problems; marriage kept as a personal choice. |
+| Survival vs self-expression | 4 | Survival is constant, but identity and self-acceptance are the inner arc. |
 
-Closest clusters: Catholic Europe; The Midlands; New France
+Closest clusters: Confucian; The Midlands; Catholic Europe
 
-Japanese source culture: The workplace-family feel of the Quinx household and the senpai-kohai bond of Haise and Arima reflect Japanese organizational norms; Urie's struggle between obeying orders and conscience (ch. 132-133) and the wedding-and-family ending follow familiar Japanese story patterns. These are context, not the story's own argument.
+Japanese source culture: Set in Tokyo's wards with a police-bureaucracy (the CCG) and senpai-kohai teams; the father-son bond between Arima and Kaneki and the stress on duty and hierarchy reflect Japanese workplace and seinen conventions, while the story's answer pushes toward coexistence across lines.
 
 ## Philosophy essay
 
-**The central question.** If the world has no built-in meaning, what is worth living for? The first series asked what makes someone human. :re asks what a person who has done monstrous things should do with the rest of his life.
+**The central question.** Can someone who has been made into a monster, and who has done monstrous things, still choose to be good? And can two peoples who must kill to survive ever live together?
 
-**The answer the story gives.** Live, carry the weight, and build something with others. Kaneki starts :re as Haise Sasaki, a man who has forgotten his sins. When his memories return (ch. 53), he must decide whether to die "in style," as his inner voice wants, or accept his past. Later, Rize's ghost asks whether he will "look past" his sins. He answers that he will "try to bear them" (ch. 159). Ishida said he considered killing Kaneki but realized "there would be nothing left." Instead the story ends with a marriage, a child and a city rebuilt by former enemies.
+**The answer the story gives.** Yes, by choosing to live for others and by refusing to kill where possible. Kaneki wants to die for much of the series (ch. 68-75); Hide calls him back to life, Arima hands him a mission, and he builds Goat around the rule that investigators are not to be killed (ch. 128). The ending, six years on, shows humans and ghouls living together and Kaneki and Touka raising a child (ch. 179).
 
-**Characters as arguments.** Furuta is the argument against the ending. As a child he decided that because everything ends, nothing matters, so he chose to destroy (ch. 176). Kaneki agrees the world "merely exists" but refuses Furuta's conclusion. Arima is the argument that a man can serve a cause in secret and die to pass it on (ch. 82-83); traditions differ on whether his suicide can be honored. Mutsuki is the argument that abuse and identity pressure can break a person, and that even then forgiveness is possible (ch. 79, 114, 179). Many readers find the story handles him poorly. Urie is conscience inside an institution: he obeys, then questions, then charges his own leader (ch. 133). Touka is love that waits.
+**Characters as arguments.** Arima argues that even a born killer can leave something good behind. Eto argues that the world's shell must be broken. Furuta argues that everything is a game, and admits at the end that he only wanted a normal life (v16). Mutsuki shows trauma turning into obsession. Amon argues for doing what is right whatever side you are on (ch. 119). Touka argues for patience and a home to return to.
 
-**Symbols and motifs.** The "re" of the title: return, restart, recollection. Kaneki's white and black hair as his two selves. The egg Kaneki says must be broken for a new world (ch. 99). Dragon, his own power turned against the city. Bite marks as a wedding ring (ch. 131). The Christmas chapter "With the Lord" (ch. 31.5) and the cross-shaped kagune of a ghoul who abused orphans (ch. 169, 172). The Bach-like title "Come, You Sweet Hour of Death" (ch. 161) over the chapter where Kaneki seems dead.
+**Symbols and motifs.** The coffee shop :re as a home; the One-Eyed King; Kafka's characters (Kaneki in the river, ch. 75); Frankenstein's creature (ANN); the centipede and the dragon as Kaneki's monstrous forms; Touka's parents' ring (ch. 126).
 
-**Traditions it echoes.** Kafka and Frankenstein, which ANN names. Existentialism and Camus's absurd hero who chooses to go on. Christian language of sin and bearing it, without a savior. Japanese stories of the restored household.
+**Traditions it echoes.** Gothic horror (Frankenstein), Kafka's Metamorphosis, the tragic hero, and the Japanese seinen battle saga. Christian readers can read Hide's sacrifice and Kaneki's love of enemies through the gospel, and Buddhist readers can read the Haise-Kaneki split through non-self, though the work itself frames neither.
 
-**How each lens is portrayed.** Existential choice is affirmed. Nihilism is given a full voice in Furuta and rejected. Authoritarian rule and transhumanist breeding are villains. Communitarian coexistence is the reward. Religious imagery is symbolic and never decisive.
+**How each lens is portrayed.** Existentialism and communitarianism win: Kaneki chooses meaning and builds a community. Authoritarian rule and strength-worship are defeated. Pacifism is affirmed but practiced by a warrior. Transhumanist experiments are shown as abuse.
 
-**Shifts across the series.** Volumes 1-5 (ch. 1-52) are a police procedural from the CCG's side: Torso, the auction, the Tsukiyama raid. Volumes 6-8 (ch. 53-86) return Kaneki's memory and end with Arima's death and the reveal of the Washuu. Volumes 9-12 (ch. 87-132) follow Goat, Furuta's purge and Kaneki's marriage. Volumes 13-16 (ch. 133-179) are the Dragon war and the epilogue. ANN found the middle "not as compelling as its predecessor"; many MAL readers found the last arc rushed.
+**Shifts across the series.** Vols. 1-6 (ch. 1-63) are a police procedural as Haise trains the Quinx and recovers his memories; vols. 7-8 (ch. 64-86) are the Rushima and Cochlea raids and Arima's death; vols. 9-12 (ch. 87-132) follow Goat, the romance and the Oggai; vols. 13-16 (ch. 133-179) cover the Dragon war and the epilogue.
 
 **Discussion questions.**
-1. Kaneki says he will "try to bear" his sins rather than be freed of them. What does your tradition say about guilt, forgiveness and repair?
-2. Arima chooses to die so that Kaneki can carry on. How does your family view his choice?
-3. Furuta decides that because life ends, nothing matters. How would you answer him?
-4. How does the story treat Mutsuki? Is he given dignity, and does the ending's forgiveness feel earned?
-5. The CCG's own leaders were ghouls. What does that say about institutions built on fear?
+1. Haise and Kaneki share one body. Which one is the "real" person, and why?
+2. Why does Kaneki order his followers not to kill investigators, even when they are being hunted?
+3. Arima chose to die. What did he want Kaneki to carry on?
+4. How do fear and prejudice keep humans and ghouls at war?
+5. What helped Kaneki choose to live when he wanted to give up?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Critics | Rebecca Silverman, ANN (manga vols. 5-7) | B-. "At its best when it's exploring the inner struggles of Ken Kaneki-turned-Haise Sasaki"; the humans are "reacting like prey - with fear"; fights hard to follow (Art C); "not as compelling as its predecessor." | https://animenewsnetwork.com/review/tokyo-ghoul-re/gns-5-7/.138157 |
-| Critics | Anime UK News (manga vol. 12) | 8/10. The consummation chapter handled "with delicacy and maturity," "never feels like pure fanservice"; Mutsuki subplot "a bit over-the-top." | https://animeuknews.net/2019/10/tokyo-ghoul-re-volume-12-review |
-| Critics | AIPT (manga vol. 8) | Positive; "The darkness in this manga has gotten... darker." | https://aiptcomics.com/2019/02/04/tokyo-ghoul-re-vol-8-review/ |
-| Critics | The Outer Haven (manga vol. 1) | Positive; enjoys the CCG perspective; needs the original first. | https://www.theouterhaven.net/2017/10/tokyo-ghoulre-vol-1-review |
-| Progressive / library (trans reader view) | No Flying No Tights (vols. 1-3) | Not recommended for library collections: the reveal is "trans body horror," the bait plot "a transphobic creative choice," Mutsuki lacks "real agency." Praises the art and Haise's identity struggle as a metaphor for mental illness. | https://noflyingnotights.com/blog/2018/10/30/tokyo-ghoul-re-vols-1-3/ |
-| Christian | Beneath the Tangles (Emdaisy1, anime part 1, 2018) | Enjoyed; warns of gore and sexually suggestive scenes; dark themes "presented in a way that makes them authentic." A TangleCast episode discusses the series' "tragic hope" ("as misguided as it may be"). | https://beneaththetangles.com/2018/06/29/tokyo-ghoulre-review/ ; https://beneaththetangles.com/2018/12/11/otherness-transformation-hope/ |
-| Fan press | ComicBook.com (ch. 125 news) | Reported the chapter as "steamier than you might've expected," with NSFW panels. | https://comicbook.com/anime/news/tokyo-ghoul-chapter-125-touka-ken-sex |
-| Fan reviews | MyAnimeList (manga) | Score 8.37. Praise for moral grayness and Kaneki; criticism of the rushed last arc, Dragon, cluttered fights and Mutsuki. | https://myanimelist.net/manga/81117/Tokyo_Ghoul_re/reviews |
-| Secular parent guides | None for :re | Common Sense Media and ScreenWise review only the first series (15+). | See tokyo-ghoul.md |
-| Conservative | Not found | No conservative outlet review was found. | none |
-| Japanese reception | Not reached | No Japanese review or poll was opened. | none |
+| Critic (manga, vols. 5-7) | Rebecca Silverman, Anime News Network | B-: strongest when exploring Kaneki's inner struggle; praises its use of Frankenstein and Kafka and its critique of the politics of fear; finds the art hard to follow and the battles less compelling. | https://animenewsnetwork.com/review/tokyo-ghoul-re/gns-5-7/.138157 |
+| Critic (manga, vol. 12) | HWR, Anime UK News (2019) | 8/10: "an emotional turning point"; the Kaneki and Touka chapter handled with delicacy and maturity; the Mutsuki subplot over the top. | https://animeuknews.net/2019/10/tokyo-ghoul-re-volume-12-review |
+| Parent guide (first anime, not :re) | Common Sense Media | 15+ (TV-MA): excessive gore, torture and cannibalism; strong profanity; brief partial nudity. | https://www.commonsensemedia.org/tv-reviews/tokyo-ghoul |
+| Christian (anime) | Twwk and Emdaisy1, Beneath the Tangles | Podcast on "the tragic hope of Tokyo Ghoul" (otherness, transformation, hope) and reviews of :re; only the tag page excerpts were read. | https://beneaththetangles.com/tag/tokyo-ghoul-re/ |
+| Fan reaction (manga) | FandomWire | Reports hate mail and threats to Ishida from fans opposed to the Kaneki and Touka romance (ch. 125); argues fans owe him an apology. | https://fandomwire.com/we-all-owe-an-apology-to-sui-ishida-how-tokyo-ghoul-fans-burned-the-manga-over-1-scene-simply-because-it-wasnt-gay/ |
+| Bans (franchise) | via Wikipedia | Tokyo Ghoul √A on a 2015 Chinese ban list; the series on PEN America's school book ban index, 2025-2026. | https://en.wikipedia.org/wiki/Tokyo_Ghoul |
+| Fan databases | AniList, MangaUpdates | AniList average 84 (about 106,000 members); MangaUpdates 8.04. | AniList API; MangaUpdates API |
+| Plugged In, Anime Feminist, The Manga Critic | — | No review of :re found in search. | none |
+
+The main public controversies are school-library challenges to the franchise (PEN America index) and fan harassment of the author over the ch. 125 romance. Critics tend to rate :re below the original series while praising Kaneki's arc.
 
 ## Most loaded parts and pages to photograph
 
-Volume to chapter map (Tokyo Ghoul fan wiki volume pages): v1 ch. 1-9; v2 10-20; v3 21-31; v4 31.5-41; v5 42-52; v6 53-63; v7 64-75; v8 76-86; v9 87-98; v10 99-110; v11 111-122; v12 123-132; v13 133-144; v14 145-154; v15 155-164; v16 165-179. Chapter numbers below come from the wiki's chapter summaries.
+Volume-to-chapter map (fan wiki volume list, opened; English Wikipedia agrees): v1 ch. 1-9; v2 10-20; v3 21-31 + Joker side story; v4 31.5-41; v5 42-52; v6 53-63; v7 64-75; v8 76-86; v9 87-98; v10 99-110; v11 111-122; v12 123-132; v13 133-144; v14 145-154; v15 155-164; v16 165-179. Scene chapters come from the fan wiki's chapter-referenced Kaneki synopsis unless marked "likely."
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Kaneki and Touka's first sex; the earlier virginity talk; pregnancy, bite-mark "marriage" and wedding | 125 (v12); 122 (v11); 131-132 (v12) | Sexuality (6); the main new depiction issue for most religious frames; Anime UK News calls it mature, ComicBook.com NSFW. |
-| 2 | Mutsuki's arc: Torso rips his shirt; captivity dressed "as a girl"; father's abuse; memory of killing his family; sex with Uta's disguised body; final forgiveness | 4 (v1); 73 (v7); 79 (v8); 114 (v11); 155 (v15); 179 (v16) | Gender and identity; the main progressive critique (No Flying No Tights); Sexuality and Mental health. |
-| 3 | Arima fights Kaneki, slits his own throat, reveals the Washuu and half-humans | 73-75, 82-83 (v7-8) | On-page suicide framed as sacrifice; Mental health (9); Catholic and Muslim rows. |
-| 4 | Furuta's purge, Oggai child soldiers, Article 88 | 118 (v11); 127, 129 (v12) | Collectivism lens; politics; Satanist and progressive rows. |
-| 5 | Juuzou's defeat of Kaneki; Kaneki devours Oggai; Dragon destroys Tokyo | 143-146 (v13-14); 157, 163 (v15) | Peak violence; cannibalism as strength; Fear (9). |
-| 6 | Kaneki's return of memory (mother's abuse, death wish); inner "Hide" on suicidal tendencies; Rize and his sins; ch. 177 monologue; ending | 53 (v6); 75 (v7); 158-159 (v15); 176-177, 179 (v16) | The life message; Existentialism and Absurdism lenses; Grades. |
-| 7 | Religious imagery: "With the Lord" Christmas chapter; Eto as "new god"; "Come, You Sweet Hour of Death"; Donato's cross kagune and abuse of orphans | 31.5 (v4); 43 (v5); 161 (v15); 169, 172 (v16) | Christian lens; Orthodox, Catholic and Pentecostal rows. |
-| 8 | Washuu "from the Middle East" cannibal clan; Rize as a "recipient womb" | 149 (v14); 101 (v10) | Possible stereotype; Feminism; Muslim, Reform Jewish, UU rows. |
-| 9 | Auction arc and Torso: human auction, Nutcracker, Haise tortured with eyes torn out | 10-31 (v2-3); 29 (v3) | Violence and sexualized predation. |
-| 10 | Shirazu's father's suicide nightmare; Matsuri's nude scene; spot checks for profanity | 34 (v4); 100 (v10); random chapters | Mental health, Sexuality, Language (5). |
+| 1 | Kaneki and Touka spend the night together (adults); pregnancy and wedding follow | 124-126 (v12) | Sexuality (6); premarital sex in several frame rows. Written note only. |
+| 2 | Arima dismembers Kaneki; Kaneki's drowning vision and choice to live; Arima's suicide | 73-85 (v7-8) | Violence (9), Mental health (9), Outlook. Photograph the vision and Arima's last words; not the suicide. |
+| 3 | Kaneki plans to die after rescuing Hinami | 68-69 (v7) | Mental health; Hope source. |
+| 4 | Torso stalks and captures Mutsuki; Mutsuki's repressed trauma | likely 1-9 (v1) and 76-80 (v8) | Predatory obsession; Mutsuki's arc; confirm any sexual element. Written note only until checked. |
+| 5 | Human auction of captives | likely 10-31 (v2-3) | Fear and intensity; Violence. |
+| 6 | Goat's founding and the order not to kill investigators | 99, 128 (v10, v12) | Pacifism lens; frame alignments. |
+| 7 | Mutsuki and the Oggai child soldiers attack Kaneki and Touka | 122-124 (v11-12) | Child soldiers; Mutsuki's portrayal in progressive frames. |
+| 8 | Dragon: Tokyo poisoned, mass deaths, Kaneki versus Furuta | likely 133-176 (v13-16) | Violence and Fear; Winners table. |
+| 9 | Epilogue: coexistence; Kaneki and Touka's family | 179 (v16) | Outlook (hopeful); Life message. |
 
-Estimate: about 45-55 chapters cover the above; photographing key spreads would take roughly 100-140 pages.
+Estimate: about 35 chapters cover the above; about 40-60 pages to photograph, excluding rows marked written note only.
 
 ## Sources
 
 Pages actually opened:
-- https://en.wikipedia.org/wiki/List_of_Tokyo_Ghoul_chapters
-- https://en.wikipedia-on-ipfs.org/wiki/List_of_Tokyo_Ghoul_chapters
-- https://en.wikipedia.org/wiki/Tokyo_Ghoul:re_(season_1)
-- https://myanimelist.net/manga/81117/Tokyo_Ghoul:re
-- https://myanimelist.net/manga/81117/Tokyo_Ghoul_re/reviews
-- https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16317
-- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=34195 (vol. 1)
-- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=42331 (vol. 16)
+- https://en.wikipedia.org/wiki/List_of_Tokyo_Ghoul_chapters (raw wikitext)
+- https://en.wikipedia.org/wiki/Sui_Ishida (raw wikitext)
+- https://en.wikipedia.org/wiki/Tokyo_Ghoul (through a page reader)
+- AniList API, media id 85611 (graphql.anilist.co)
+- MangaUpdates API, series 45405144027 (api.mangaupdates.com)
+- https://tokyoghoul.fandom.com (through its API; facts only): Tokyo Ghoul:re (volume list); Story Arcs; Ken Kaneki/Synopsis; Touka Kirishima/Synopsis; Tooru Mutsuki and Tooru Mutsuki/Synopsis; Nimura Furuta
+- https://www.viz.com/read/manga/tokyo-ghoul-re-volume-1/product/5300 (Teen Plus, VIZ Signature)
 - https://animenewsnetwork.com/review/tokyo-ghoul-re/gns-5-7/.138157
 - https://animeuknews.net/2019/10/tokyo-ghoul-re-volume-12-review
+- https://www.commonsensemedia.org/tv-reviews/tokyo-ghoul
+- https://beneaththetangles.com/tag/tokyo-ghoul-re/ (tag page excerpts only)
+- https://fandomwire.com/we-all-owe-an-apology-to-sui-ishida-how-tokyo-ghoul-fans-burned-the-manga-over-1-scene-simply-because-it-wasnt-gay/
+
+Found in search, not opened (fetch failed or not prioritized):
+- https://AnimeNewsNetwork.com/review/tokyo-ghoul-re/gns-1-2/.124801 ; https://AnimeNewsNetwork.com/review/tokyo-ghoul-re/gn-3/.137480
 - https://aiptcomics.com/2019/02/04/tokyo-ghoul-re-vol-8-review/
 - https://www.theouterhaven.net/2017/10/tokyo-ghoulre-vol-1-review
-- https://noflyingnotights.com/blog/2018/10/30/tokyo-ghoul-re-vols-1-3/
-- https://a-raging-spitfire.medium.com/tokyo-ghoul-gender-experience-18540bc13190 (about the first series; a personal essay, not used for :re claims)
-- https://beneaththetangles.com/tag/tokyo-ghoul-re/
-- https://beneaththetangles.com/2018/06/29/tokyo-ghoulre-review/
-- https://beneaththetangles.com/2018/12/11/otherness-transformation-hope/
-- https://comicbook.com/anime/news/tokyo-ghoul-chapter-125-touka-ken-sex
-- https://comicbook.com/anime/news/tokyo-ghoul-ending-sui-ishida-comment-manga-anime
-- https://www.inkl.com/news/tokyo-ghoul-creator-opens-up (The Japan News / Yomiuri interview)
-- https://www.esrb.org/ratings/36571/tokyo-ghoulre-call-to-exist/
-- Tokyo Ghoul fan wiki (scene location only), read through its MediaWiki API: volume pages https://tokyoghoul.fandom.com/wiki/Re:_Volume_1 through Re:_Volume_16, and chapter pages https://tokyoghoul.fandom.com/wiki/Re:_Chapter_1 through Re:_Chapter_179 plus Re:_Chapter_31.5
-
-Tried but not reached (site error): https://tokyoghoul.fandom.com/wiki/Tokyo_Ghoul:re_(manga) (web view); https://tvtropes.org/pmwiki/pmwiki.php/Manga/TokyoGhoulRe ; https://AnimeNewsNetwork.com/review/tokyo-ghoul-re/gns-1-2/.124801 ; https://www.manga-news.com/index.php/manga-vo/editions/Tokyo-Ghoul:re-jp/vol-12 ; https://www.simonandschuster.co.uk/books/Tokyo-Ghoul-re-Vol-16/Sui-Ishida/Tokyo-Ghoul-re/9781974707423
-
-Found in search results but not opened (titles only; content not verified):
-- ANN vol. 3 review: https://AnimeNewsNetwork.com/review/tokyo-ghoul-re/gn-3/.137480
-- ANN anime episode 12 review: https://animenewsnetwork.com/review/tokyo-ghoul-re/episode-12/.133167
-- Gaming Trend vol. 1 review: https://gamingtrend.com/reviews/hungry-grab-a-human-tokyo-ghoulre-volume-1-review/
-- ComicBook.com, ending and anime coverage: https://comicbook.com/anime/news/tokyo-ghoul-ends-over-manga-final-chapter-179 ; https://comicbook.com/anime/news/tokyo-ghoul-re-anime-season-finale-review-angry ; https://comicbook.com/anime/news/tokyo-ghoul-re-kaneki-touka-marriage-anime
-- University of Delaware thesis: https://udspace.udel.edu/server/api/core/bitstreams/8809dcfb-1315-49d3-841f-5de888861a4c/content
-- Leiden student thesis: https://studenttheses.universiteitleiden.nl/access/item%3A4082688/view
-- Metropolis Japan, LGBTQ+ anime: https://metropolisjapan.com/?p=207142
-- AnimeClick (Ishida's thanks): https://www.animeclick.it/news/75580-tokyo-ghoulre-e-ormai-finito-ecco-i-ringraziamenti-di-ishida
-- Beneath the Tangles first impressions: https://beneaththetangles.com/2018/04/08/first-impressions-tokyo-ghoulre/
-
-Not reached: Common Sense Media and ScreenWise (no :re review exists), Plugged In (none found), Anime Feminist (none found), any conservative outlet, Pixiv Encyclopedia, official character poll results.
+- https://animenewsnetwork.com/review/tokyo-ghoul-re/episodes-13-14/.138293
+- https://animefeminist.com/podcast-chatty-af-42-spring-2018-mid-season-check-in (anime; not opened)
+- Beneath the Tangles full posts (TangleCast 42; Review: Tokyo Ghoul:re) not opened.
+- No Plugged In or Manga Critic page for :re found in search.
 
 ## Full-read review checklist
 
-- [ ] Confirm the Viz age rating printed on vol. 1 and vol. 16 back covers (ANN lists 16+; reported label "Older Teen"). Affects Series facts and Profile notes.
-- [ ] Ch. 125 (v12): how explicit is the art (nudity, framing of intercourse)? Also ch. 122 and 131-132. Affects Sexuality (6) and every frame's Depiction concern.
-- [ ] Ch. 4, 73, 79, 114, 155, 179: Mutsuki's arc. Check how the art frames his body, the captivity, the ch. 114 scene, and the wording of his forgiveness. Affects Gender row, Sexuality and progressive frames.
-- [ ] Ch. 82-83 (v8): how Arima's suicide is drawn and framed. Affects Mental health (9) and Catholic, Muslim and secular rows.
-- [ ] Ch. 34 and 53, 75: suicidal imagery (Shirazu's dream, Kaneki's inner voices). Affects Mental health.
-- [ ] Locate Shirazu's death (v6, likely). Affects Winners table.
-- [ ] Ch. 118, 127, 129: Oggai ages and purge scenes. Affects Collectivism lens and Satanist row.
-- [ ] Ch. 143-146, 157, 163: how Kaneki's eating of Oggai is shown and judged. Affects Violence and the "endorsed or depicted" question.
-- [ ] Ch. 31.5, 43, 161, 169, 172: confirm the religious imagery and chapter titles in the Viz text (the Viz title for ch. 161 and its hymn source). Affects Christian lens and Orthodox, Catholic and Pentecostal rows.
-- [ ] Ch. 149: exact wording of the Washuu "Middle East" origin in Viz. Affects Muslim, Reform Jewish and UU rows.
-- [ ] Ch. 100: Matsuri's nude scene. Affects Sexuality.
-- [ ] Spot-check Viz profanity in 4-5 random chapters. Affects Language (5).
-- [ ] Ch. 174-179: Kaneki and Furuta's dialogue and the epilogue. Affects Life message and Absurdism lens.
-- [ ] Read Ishida's author comments in each volume and any afterword in vol. 16. Record statements of intent, especially on religion and on Mutsuki. Affects Creator context.
-- [ ] Find official Weekly Young Jump character poll results for :re. Affects Fan favorites.
-- [ ] Open the ANN vol. 3 review, the Delaware and Leiden theses and Metropolis Japan; look for a conservative review and a Japanese review. Affects How readers took it.
+- [ ] Ch. 124-125 (v12): confirm how much of the night between Kaneki and Touka is shown. Written note only. Affects Sexuality (6) and frame rows.
+- [ ] Torso's chapters (likely v1 and ch. 76-80, v8): confirm whether his obsession with Mutsuki has a sexual element and how it is drawn. Written note only.
+- [ ] Mutsuki's backstory (v8): confirm what trauma is revealed (from general knowledge: abuse and the killing of family; to verify). Written note only.
+- [ ] Check for nudity (AniList Nudity tag; ch. 75 vision) and confirm no minor is involved. Written note only.
+- [ ] Check the Oggai child soldiers' ages and how their deaths are shown (v12-16). Affects Violence.
+- [ ] Confirm Furuta's fate and the epilogue (ch. 175-179). Affects Winners table and Outlook.
+- [ ] Confirm what the AniList Incest tag refers to (likely the Washuu clan's breeding). Affects Sexuality.
+- [ ] Spot-check VIZ language in 3-4 chapters. Affects Language (5).
+- [ ] Read Ishida's volume afterwords and the Zakki art book for statements of intent. Affects Creator context.
+- [ ] Open the ANN reviews of vols. 1-3 and the Beneath the Tangles posts. Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

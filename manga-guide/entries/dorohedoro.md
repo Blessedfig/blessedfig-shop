@@ -1,21 +1,21 @@
-# Dorohedoro (Q Hayashida)
+# Dorohedoro
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Series facts, the volume-to-chapter map and chapter titles come from Wikipedia pages that were opened; the VIZ "Mature" rating comes from VIZ's own vol. 23 page. A few scenes were placed on the Dorohedoro fan wiki (ch. 1, 148, 155 and Kaiman's character page; used to locate scenes only), and the ending (ch. 166-167) from a recap article. Many fan wiki chapter pages refused to load, so several chapter numbers are inferred from chapter titles and volume reviews and are marked "likely". Common Sense Media, Anime News Network, Anime Feminist, the World Socialist Web Site, Gizmodo, a Manga Bookshelf reviewer, TV Tropes, MyAnimeList and a Comic Natalie interview with the creator were opened. No Christian or conservative review of Dorohedoro was found. Items still resting on general knowledge are marked "(from general knowledge; to verify)".
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 28 lookups). The series is complete: 167 chapters serialized November 30, 2000 to September 12, 2018 across Monthly Ikki, Hibana and Monthly Shonen Sunday, collected in 23 volumes; one-shot extra chapters followed in February 2020 and April 2026 (English Wikipedia). Series facts and the volume-to-chapter map come from English Wikipedia (the series article, the chapter list and the Q Hayashida article, opened through the raw-text endpoint), the AniList and MangaUpdates APIs, and VIZ's vol. 23 product page (publisher rating). Chapter-level plot points come from the Dorohedoro fan wiki (Caiman, Nikaido and Ebisu pages read through its API; the chapter pages for the finale are empty) and the TV Tropes series page (facts only). Reviews opened: Common Sense Media (anime), Anime News Network (Lynzee Loveridge, anime season 1), Anime Feminist (Kirsten Doroff's creator spotlight on Hayashida), World Socialist Web Site (anime), and Sean Gaffney's review of the final volume (A Case Suitable for Treatment, Manga Bookshelf). The Reactor (Tor.com) essay could not be opened (site error). No creator interview was opened. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Dorohedoro. Japanese: ドロヘドロ (a coined word; roughly "mud" plus "sludge/vomit" sounds; Wikipedia notes the title is ambiguous) |
-| Creators | Q Hayashida (story and art). Born 1977 in Tokyo; studied oil painting at Tokyo University of the Arts; very private, with her real name and face not public (Wikipedia, opened) |
-| Origin | Seinen (adult men's) manga. Began in Spirits Zokan Ikki (Shogakukan) on November 30, 2000; the magazine became Monthly Ikki (2003), which closed in 2014; moved to Hibana (2015-2017), then Monthly Shonen Sunday (from November 2017). Ended September 12, 2018. Complete: 167 chapters ("Spells") plus 23 "Extra Evil" bonus pieces and a special chapter, in 23 volumes. A 14-page extra chapter ran in February 2020 (Wikipedia, opened) |
-| English edition | VIZ Media, VIZ Signature imprint (licensed 2009; first digital via SigIKKI; print vol. 1 March 16, 2010 to vol. 23 September 17, 2019). Translation by AltJapan. VIZ age rating: **Mature** (VIZ vol. 23 page, opened). Volumes: 23 in Japan, 23 in English |
-| Anime | MAPPA, directed by Yuichiro Hayashi. Season 1: Tokyo MX, January-March 2020; Netflix worldwide May 28, 2020. Season 2 aired April-May 2026; a third season is announced (Wikipedia, opened). TV-MA (Common Sense Media, opened) |
-| Recognition | MyAnimeList manga score about 8.68, popularity #46, about 212,000 members (as viewed). Anime nominated at the 5th Crunchyroll Anime Awards (2021). No sales figures found on the pages opened. A 2020-2022 touring exhibition of Hayashida's art (Wikipedia) |
-| Other guides | Common Sense Media (anime): 17+, "Bizarre anime series is compelling but extremely violent" (opened). No Plugged In, ScreenWise or other faith-based guide found |
+| Title | Dorohedoro (ドロヘドロ, roughly "mud-sludge"; the word appears once, for a viscous lake in ch. 56) (Wikipedia; AniList id 31133, confirmed) |
+| Creators | Q Hayashida (story and art), pen name of a Tokyo-born artist (born 1977) who studied oil painting at Tokyo University of the Arts; she keeps her real name and face private. Other works: Maken X Another (1999-2001) and Dai Dark (2019-) (Wikipedia, Q Hayashida). English translation by AltJapan (Matt Alt and Hiroko Yoda) |
+| Origin | Spirits Zokan Ikki / Monthly Ikki (Shogakukan, a seinen magazine for adult readers), November 2000 to September 2014; Hibana, 2015-2017; Monthly Shonen Sunday, November 2017 to September 12, 2018. **Complete**: 167 chapters, 23 volumes (January 2002 to November 2018). Extra one-shots in 2020 and 2026; a databook with a bonus story (2018) (Wikipedia) |
+| English edition | VIZ Media, digitally on SigIKKI from 2009; 23 print volumes under VIZ Signature, March 16, 2010 to September 17, 2019. Publisher rating: **Mature (M)** (VIZ vol. 23 product page; 18+ in the input data). Artbook Mud and Sludge in English September 22, 2026 |
+| Anime | MAPPA, dir. Yuichiro Hayashi, scripts by Hiroshi Seko: season 1 (12 episodes, January-March 2020; Netflix worldwide May 2020) plus six shorts; season 2 (11 episodes, April-May 2026, Netflix and Crunchyroll); a third season announced (Wikipedia). The anime adapts to about ch. 79 (vol. 13), skipping ch. 11 and 32 (MangaUpdates) |
+| Recognition | Crunchyroll Anime Awards nomination (2021). Praised by Otaku USA, ComicsAlliance and About.com; ANN's Carlo Santos was critical of the early volumes (Wikipedia). Database scores: AniList average 86 (about 90,000 members); MangaUpdates 8.64 (Bayesian, 1,100 votes) |
+| Other guides | Common Sense Media (anime): 17+; a lot of fantasy blood and gore; some nudity (nearly bare breasts, a naked man's side); heavy beer drinking; very little positive messaging, though Nikaido is a strong, loyal friend. MangaUpdates genres include Mature and Horror; tags include Blood and Gore, Brutality, Nudity, Big Breasts. AniList tags: Gore (88%), Body Horror, Demons, Nudity (56%), Class Struggle, Human Experimentation |
 | Entry tier | From summaries |
 
-**Premise.** The story is set in the Hole, a filthy, lawless city of ordinary humans. Sorcerers from another dimension come through magic doors to practice spells on its people. Caiman is a man with a lizard's head and no memory. He bites sorcerers' heads to ask the man who lives inside his mouth whether this is the sorcerer who cursed him. His friend Nikaido runs the gyoza (dumpling) restaurant Hungry Bug and fights beside him. Their hunting draws the attention of En, a crime boss who rules the sorcerers' world with his "family" of enforcers. Above both worlds stand the devils of Hell, led by Chidaruma, who created sorcerers and treats every world as entertainment. The plot unravels who Caiman really is, ties him to the Cross-Eyes gang, and ends with a giant devil-being born from the grudge of the Hole's murdered dead.
+**Premise.** In the Hole, a polluted, lawless slum city, sorcerers from another dimension come through magic doors to practice their spells on humans. Caiman, a man with a reptile's head and no memory, hunts sorcerers with his friend Nikaido, who runs the Hungry Bug gyoza restaurant: he bites their heads, and the man living in his throat says whether they are the one who cursed him. Caiman works at Dr. Vaux's clinic for magic victims (ch. 1-6). His killings draw the attention of En, a mushroom-wielding sorcerer crime boss, who sends his "cleaners" Shin and Noi, along with the low-ranked Fujita and the brain-damaged teenage Ebisu, to find him. The search uncovers the Cross-Eyes gang, the drug Black Powder, Caiman's link to a sorcerer named Aikawa and to his friend Risu, and finally Hole-kun, a giant being born from the grudges of humans killed by sorcerers' practice. Nikaido turns into a devil, Caiman is killed and revived, and both worlds fight the monster in Hell's Department Store (ch. 138-166). In the end the monster is destroyed, the devils' ruler Chidaruma is made to live as a human, sorcerers' magic is weakened in the Hole, and Nikaido reopens the Hungry Bug with Caiman (ch. 167) (Wikipedia; fan wiki; TV Tropes; Gaffney).
 
 ## Life message
 
@@ -23,94 +23,103 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | Life is a ranked food chain: devils above sorcerers, sorcerers above humans. Sorcerers are born with a "devil" tumor in the brain that makes magic smoke (TV Tropes); power is literally biological. Survival rests on small coalitions: partners (Shin and Noi), En's family, Caiman and Nikaido. Romance is minor; bonding is through food and fighting together. |
-| Pragmatic | Alliances shift with need. Enemies become coworkers; corpses are revived; heads are reattached. Violence is mostly a tool and rarely carries lasting cost, since a healer (Noi) and revivals undo much of it. The heroes win by teaming up with old enemies in the end (ch. 166). |
-| Religious | Hell is a real realm and devils are its rulers. Chidaruma made sorcerers "for amusement" (TV Tropes). Becoming a devil is a promotion that sorcerers earn by exam, and the ending treats it as a reward (Asu and Risu plan to take the exam, ch. 167). Sorcerers' graves are upside-down crosses on eggs (TV Tropes). No god appears. A monument to the dead devil Hole-kun stands in the Hole at the end (ch. 167). The supernatural is a power system, not a moral order. |
-| Socio-cultural | A class picture: privileged sorcerers prey on the poor Hole, and the Hole's grudge finally takes form (ch. 148). Family means chosen loyalty, not blood: En's crime family and the partner system. Women are strong fighters who are not sexualized (Anime Feminist). Death is cheap and often comic. |
+| Evolutionary biology | A world of predators and prey: sorcerers treat humans as test subjects or food (TV Tropes), crews and "families" survive by loyalty, and partnership (Shin and Noi; Caiman and Nikaido) is the unit of survival. Food and a shared table recur as the reward. |
+| Pragmatic | Characters solve problems with knives, cooking and odd magic; work is valued (Vaux's clinic, the restaurant, En's cleaners). Little moral reasoning is shown; what matters is who you can count on. |
+| Religious | Hell, devils and a Devil Church are part of the world's machinery, not a moral order: devils are bored, often friendly beings who make sorcerers and grant powers (Wikipedia). Inverted crosses and occult imagery are style. After the monster dies, Hole's people build a monument and a cult around its corpse (TV Tropes). Faith readers weigh devils shown as benign or desirable; secular readers see fantasy furniture. |
+| Socio-cultural | A class allegory: sorcerers with rare powers have status, humans are left in a polluted slum, and En's crime family rules the sorcerer world (Wikipedia). ANN's Loveridge reads strict class divisions with oppressors as Hell's denizens; the World Socialist Web Site finds the social critique shallow. Hole-kun is the grievance of the exploited dead turned into a monster. |
+
+Outlook: Hopeful — after the slaughter in Hell's Department Store, the survivors go back to their jobs and friendships, the magic practice that preyed on the Hole is ended, and the Hungry Bug reopens (ch. 167); Gaffney calls it a mostly happy ending, though many characters died along the way.
+Hope source: F — the story's way through is friends and partners: Caiman and Nikaido, Shin and Noi, Fujita and Ebisu stick together through everything, and the ending is a shared meal.
 
 ## Content scores
 
 **Overall content level: 9 out of 10** (set by Violence). Content scores measure intensity only: higher = more of it, not better or worse.
 
-| Category | Intensity (0 to 10) | Frequency | Framing (Endorsed / Neutral / Shown with consequences / Condemned) | Evidence (with chapter numbers where known) |
+| Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 9 | Constant | Neutral (often played for comedy) | Caiman bites a sorcerer's head and kills him in ch. 1 (fan wiki). Common Sense Media (anime): "an extensive amount of fantasy blood and gore," body parts severed and thrown about, people maimed or turned into other beings. ANN: "nothing short of a bloodbath." TV Tropes: beheadings, a hallway of heads, devils quartered and skinned, mass killings of sorcerers by the Cross-Eyes. Shin's magic is vivisection (TV Tropes; fan wiki). En turns people into mushrooms. Vol. 21 (ch. 138-147): "decapitations, eviscerations, eye gouging" on nearly every page (Gaffney). Hole-kun beheads Asu and Nikaido (ch. 155, fan wiki). Manga art is black and white; Gizmodo says season 2's gore at times exceeds the manga. |
-| Fear and intensity | 8 | Frequent | Neutral | Body horror, zombies, flesh-melting flashback of Ai (vol. 21, Gaffney; likely ch. 145 "The Root of Evil"). Ebisu's doppelganger slashes open her head (vol. 10, ch. 56-61; Gaffney calls the series "incredibly terrifying at times"). Kai devours victims whole (TV Tropes). Balanced by slapstick: ANN's This Week in Anime calls it "a slapstick sitcom wearing the hollowed out skin of a seinen action-horror story." |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 3 | Occasional | Neutral | Male and female nudity appear, presented as non-sexual (Anime Feminist: nudity is "natural rather than titillating"; avoids sexual violence). A manga bath scene of Nikaido and Ebisu is cut from the anime (TV Tropes; chapter to verify). Common Sense Media (anime): "nearly bare breasts" without nipples, cleavage, sides of a naked man. Running gags: Shin and Noi mistakenly seen "sleeping together"; Chota's one-sided crush on En (TV Tropes). No romance arc: the vol. 23 reviewer calls the story "not about romance." |
-| Language | 4 | Frequent | Neutral | Common Sense Media (anime): "bitch" and similar. VIZ manga text not checked; VIZ's Mature rating suggests stronger profanity is possible (to verify). |
-| Substances | 6 | Recurring | Shown with consequences (Black Powder); Neutral (alcohol) | Black Powder, ground from sorcerers' devil tumors, is a drug the Cross-Eyes sell; it boosts magic and cripples unprepared users (TV Tropes). En's mushrooms bring dreams that turn into nightmares. Common Sense Media: "Caiman drinks lots of beer"; hard alcohol in bars and clubs. |
-| Mental health and self-harm | 6 | Recurring | Neutral | Caiman's amnesia and split self (Kaiman, Ai, Aikawa, Kai are "all the same person," ch. 155, fan wiki). Shin cut off his own fingers and arms looking for the smoke vessels as a youth (fan wiki character page; chapter not located). Ai's past self tore the skin off his face (fan wiki). Ebisu is left traumatized and mute after Caiman's bite early in the series (from general knowledge; to verify, likely vol. 1-2). |
-| Imitable behavior | 3 | Occasional | Neutral | Killing as a casual job, hammer and knife violence and partying are framed as fun; protagonists "kill freely" (ANN). Far from real-world settings, so direct imitation is less likely; the comic framing of killing is the point families tend to raise. |
-| Commercial | 3 | Occasional | Neutral | Coca-Cola cans "prominently visible" in the anime (Common Sense Media). Art book and merchandise (VIZ). The final chapter has a "sorcerer repellent" Hole-kun souvenir as a gag (ch. 167, recap). |
+| Violence | 9 | Constant | Neutral (often played for comedy) | Common Sense Media (anime): people slashed, crushed and mangled, body parts severed. Ch. 1-6: Caiman bites sorcerers' heads; Nikaido cuts off Ebisu's fingers and Caiman's bite tears the skin from her face (Wikipedia). Shin's magic dismantles people alive; Kasukabe's door is made of sorcerer skin; Kai keeps a room of heads and devours Ton and Natsuki (v15 onward); the Cross-Eyes occupation arc is extremely gory (TV Tropes). En's mushrooms kill Caiman from the inside (fan wiki). ANN's Loveridge calls it a bloodbath that revels in absurdity. |
+| Fear and intensity | 8 | Frequent | Neutral | Body horror, zombies, the Hole's monster; nightmarish settings compared to Bosch (Encyclopedia of Science Fiction via Wikipedia). Comedy undercuts much of it. |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 4 | Occasional | Neutral | The manga shows frank nudity of adult women and men, and clothing damage is frequent, especially for women (TV Tropes); a bath scene with Noi and Nikaido is nude in the manga and clothed in the anime (TV Tropes; likely v5-6). Common Sense Media (anime): nearly bare breasts and a naked man's side. Anime Feminist: nudity is shown confidently and naturally, not for the male gaze, and there is no sexual violence. No sex scenes; both lead pairs stay friends (TV Tropes; Gaffney). Ebisu, whose age is never stated (the fan wiki lists 13), has running comic gags about her flat chest, stuffing her bra to compete with Noi (TV Tropes); no nudity involving her was reported (checklist). Magical "partner" contracts can be forced (Nikaido's contract with En). |
+| Language | 4 | Frequent | Neutral | Common Sense Media (anime): words like "bitch"; VIZ text not checked (to verify). |
+| Substances | 6 | Recurring | Shown with consequences (Black Powder); Neutral (alcohol) | Black Powder, a drug made from devil-shaped tumors that boosts magic and cripples unprepared users, is dealt by the Cross-Eyes; Ebisu took it from early childhood, which warps her magic (fan wiki; TV Tropes). Caiman nearly tries it (fan wiki). Heavy beer and liquor drinking (Common Sense Media); Caiman and Nikaido get drunk at a hostel (fan wiki). |
+| Mental health and self-harm | 6 | Recurring | Neutral | Amnesia and split identity (Caiman, Aikawa, Kai, Risu); Ebisu's brain damage after her face is torn off is played for comedy (fan wiki; TV Tropes); Caiman rips the scales from his own face in shock when he learns his past (fan wiki, likely v14-15). |
+| Imitable behavior | 3 | Occasional | Neutral | Knife fighting and drug use are the riskiest examples; all set in an obviously fantastic world. |
+| Commercial | 3 | Occasional | Neutral | Gyoza and the restaurant as a running joy; anime on Netflix and Crunchyroll, a concept album, artbooks (Wikipedia). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Chosen family over blood. En's crime "family" is shown with affection and loyalty though it rules by fear and murder. Partners (Shin and Noi, Caiman and Nikaido) are the strongest bonds. Ebisu's birth parents flee from a magical copy of her (vol. 10, Gaffney). Authority is mostly power: En and Chidaruma rule because they are strongest; Chidaruma is finally punished by being made a human baby (ch. 167). |
-| Religion and spirituality | Central (as setting) | Hell, devils, a devil "exam" and a devil ruler who creates sorcerers for amusement; upside-down crosses as decoration and grave markers; Hole-kun honored with a statue after death (TV Tropes; ch. 167). No god, prayer or sacred tradition is shown as true. The supernatural is treated as a bizarre, often comic power system, not as good or evil in itself. |
-| Gender and identity (incl. LGBTQ) | Recurring | Strong, muscular women who are not sexualized (Anime Feminist). Caiman cross-dresses as a gag (vol. 7, ANN). In the finale, Turkey casually reveals living as a woman for the past few years, and the En family is more surprised by Turkey's edible mask (vol. 23, Gaffney). Chota's crush on En (TV Tropes). |
-| Politics and social issues | Recurring | A class divide: sorcerers treat the Hole's residents as test subjects; Anime Feminist notes the show's interest in "power dynamics" between the privileged and the poor. Toxic rain and pollution (Common Sense Media). The WSWS critic says the class picture is never explained beyond power "simply arose by force." |
+| Family and authority | Central | En's crime "family" and its loyal cleaners; found families (Caiman and Nikaido; Fujita and Ebisu); Nikaido's adoptive devil brother Asu. Authority is held by force (En, Chidaruma) and humbled at the end (ch. 167). |
+| Religion and spirituality | Central (as setting) | Hell, devils, a Devil Church, sorcerers created by the devil Chidaruma; inverted crosses as decoration. The monster's corpse becomes the center of a new cult (TV Tropes). No real-world faith is depicted. |
+| Gender and identity (incl. LGBTQ) | Recurring | Strong, muscular women (Nikaido, Noi) written as complex people (Anime Feminist); Chota's unreciprocated crush on En; Turkey, a man who gradually turns himself into a woman by magic, revealed casually in the epilogue (TV Tropes; Gaffney). |
+| Politics and social issues | Recurring | Class division between sorcerers and humans; pollution from magic waste; human experimentation; a drug trade (Wikipedia; ANN; WSWS). |
 
-**Virtues shown:** loyalty to friends and partners, keeping promises, hospitality and sharing food, hard work (the restaurant, En's rebuilding), courage, forgiveness of old enemies (Shin lets Caiman "off the hook," ch. 167), humor under pressure, honoring the dead (Fujita at Matsumura's grave, ch. 167).
+**Virtues shown:** loyalty to partners and friends, hospitality (the Hungry Bug), hard work, keeping your word, courage, forgiveness between old enemies (Shin and Caiman fight the monster together), and honoring the dead (Fujita, per Gaffney).
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself; intensity for age stays in Content scores. All 31 frame guides are still drafts from general knowledge, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: devils and Hell are real, run the world, and are shown as amusing and even aspirational (becoming a devil is a reward, ch. 167); upside-down crosses are decoration; the heroes kill casually and the story rarely frames killing as wrong; loyalty, friendship, work and forgiveness are honored; the class predator (sorcerers) and the cruel devil ruler (Chidaruma, punished ch. 167) are checked in the end; women are not sexualized. On the page: extreme gore (9), drug trade, non-sexual nudity.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: loyal partnerships and found families; hospitality and shared meals; constant graphic killing, often played for comedy and rarely judged; devils and Hell shown as ordinary, sometimes friendly parts of the world, with inverted-cross imagery; a drug (Black Powder) dealt and abused; frank adult nudity in the manga without sexual violence; comic breast-size gags about Ebisu, whose age is unstated (fan wiki: 13); oppression of humans by sorcerers, answered by a monster born of the exploited dead; and an ending in which the cruel ruler is humbled and friends reopen their restaurant (ch. 167). No sexual content involving a minor was reported by any source opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | C | Significant | Loyalty, hospitality and friendship; the abusive powerful (Chidaruma) are humbled; forgiveness between old enemies. | Killing is rarely framed as wrong, so evil is often "made attractive" through comedy (Inter Mirifica 7); devils shown as benign or desirable; inverted crosses as decor (CCC 2115-2117 on the occult is about practice, but framing matters). | What makes violence funny, and when is that a problem? Devils in Scripture versus devils as a career path. The works of mercy at the Hungry Bug. |
-| Eastern Orthodox | D | Significant | Loyalty and shared meals; the proud devil ruler brought low (ch. 167). | Evil spirits are taken as real, so friendly devils, devil exams and inverted crosses are a serious concern; guarding the senses (nepsis) makes the gore a concern too. | Pride and its fall in Chidaruma. What one looks at shapes the soul: how do families decide? |
-| Baptist | D | Significant | Loyalty, hard work, honesty among friends. | Demons and Hell played as comedy and reward; occult imagery throughout (Deuteronomy 18:10-12); killing without consequence. Views vary by congregation. | Philippians 4:8 as a test. Is a story where devils are "fun" telling the truth about evil? |
-| Non-denominational Evangelical | C | Significant | Friendship, sacrificial loyalty (Kaiman fights to bring back Nikaido, ch. 155), forgiveness. | Many accept fantasy magic but are wary of demons and spirit dealings; here devils are rulers and role models. Depiction of sin is common but endorsement is the question. | Romans 14 freedom and conscience. Depicting versus endorsing: which does Dorohedoro do with its devils? |
-| Pentecostal / Charismatic | F | Significant | Loyalty and courage. | Media as an "open door": devils and Hell are central, friendly and aspirational; heroes accept devil power (ch. 155); inverted crosses throughout. Views vary between churches. | Ephesians 6:12 compared with a world where devils are bored entertainers. Why some families avoid demonic imagery entirely. |
-| Reformed / Presbyterian | C | Significant | Common grace: craft, humor and friendship by a non-Christian artist; depravity is everywhere and no one is innocent. | Hell and devils made comic; WLC Q136 on killing applies to casual murder; nudity (WLC Q139). | Total depravity without grace: what is missing from the Hole? Can art show a fallen world without a redeemer? |
-| Lutheran | C | Significant | Daily vocation (cook, doctor, cleaner) honored; no character saves himself. | Devils as benign rulers; occult throughout. LCMS and WELS families tend to be more cautious than ELCA families. | Adiaphora and conscience: who in the family decides? The "theology of the cross" versus a world run on power. |
-| Methodist / Wesleyan | C | Significant | Works of mercy (Noi's healing, Vaux's free clinic, likely ch. 96 "Free Hospital"); hospitality. | Wesley's rule against diversions not done "in the name of the Lord Jesus"; holiness churches more cautious than UMC; casual killing. | Is there any repentance in the story? Where does grace appear, if anywhere? |
-| Anglican / Episcopal | C | Significant | Strong fantasy tradition judges by framing; friendship and loyalty. | Good and evil are blurred: heroes kill freely and devils are not framed as evil. | C.S. Lewis's Screwtape compared with Chidaruma: two ways of drawing devils. |
-| Anabaptist (Mennonite, Amish, Brethren) | D | Significant | Simple work and shared meals; forgiveness of enemies at the end. | Violence as fun and as the main tool throughout (Matthew 5:39); occult setting. Conservative groups avoid such media; MC USA families vary. | What would nonresistance look like in the Hole? |
-| Latter-day Saint | D | Significant | Loyalty, work, friendship. | For the Strength of Youth asks for media that invites the Spirit; graphic violence, devils and nudity weigh against it; occult and spirit dealings avoided. | Article of Faith 13: what here is "virtuous, lovely, or of good report"? |
-| Mainline progressive Protestant | C | Discuss | Class critique (sorcerers exploit the poor); strong women not sexualized; casual acceptance of Turkey's gender (vol. 23). | Glorified, comic violence; the poor's grudge becomes a mass-killing monster (ch. 148), so justice is mostly revenge. | Structural sin: how does privilege make "monsters" on both sides? |
-| Seventh-day Adventist | D | Significant | Friendship and work; the cruel ruler humbled. | Spiritualism and revived dead; Hell as a living realm conflicts with teaching that the dead sleep; gore. | "By beholding we become changed" (2 Corinthians 3:18). Fundamental Belief 22 on entertainment. (from general knowledge; to verify) |
-| Jehovah's Witness | F | Significant | Loyalty and hospitality. | jw.org asks whether media features what God hates: violence (Psalm 11:5) and spiritism (Galatians 5:19-21); both are central, and devils are friendly. | Why demon contact in entertainment is avoided. (from general knowledge; to verify) |
-| Christian Science | D | Significant | Friendship and good humor outlast horror. | Fear, gore and evil shown as powerful realities; "stand porter at the door of thought" (Science and Health 392). | What does dwelling on body horror do to thought? (from general knowledge; to verify) |
-| Orthodox Jewish | D | Significant | Hospitality, loyalty, honoring the dead (Fujita, ch. 167). | Sorcery and necromancy (Deuteronomy 18:10-11) central; revived corpses; tzniut concerns with nudity; many Haredi homes restrict such media altogether. | Revenge forbidden (Leviticus 19:18): compare Caiman's hunt. (from general knowledge; to verify) |
-| Conservative Jewish | C | Significant | Hospitality, loyalty, memory of the dead. | Sorcery forbidden but fantasy generally accepted; casual killing; revenge as motive. | Self-defense versus revenge in Caiman's quest. (from general knowledge; to verify) |
-| Reform Jewish | C | Discuss | Class critique, women's strength, tolerance of difference. | Glorified violence; justice as mass revenge (ch. 148). | Tikkun olam: what would repairing the Hole require? (from general knowledge; to verify) |
-| Muslim | D | Significant | Hospitality, loyalty, care for the injured. | Sihr (sorcery) shown as normal and powerful; devils (shayatin) as rulers and role models; casual killing; nudity and lowering the gaze (Qur'an 24:30-31). | Jinn and shayatin in Islamic teaching compared with these devils. Justice versus revenge. |
-| Hindu | C | Discuss | Food and hospitality; a proud being humbled and reborn as a human baby (ch. 167). | Black magic disapproved; much tamasic content (Gita ch. 17); violence without dharma. | Chidaruma's punishment as a karma story. Which qualities does the series feed? |
-| Buddhist | C | Significant | Impermanence and absurdity; devils' boredom as a picture of craving without end. | Killing as comedy, against the first precept; little compassion for the killed. | The devils' endless pleasures as dukkha. Right speech and what feeds the mind. |
-| Sikh | D | Significant | Loyalty, work, standing up to the oppressor. | Magic rejected by the Gurus; anger and ego (two of the five vices) are often shown as fun. | Defending the oppressed versus killing for revenge. (from general knowledge; to verify) |
-| Bahá'í | D | Significant | Friendship and unity across old enemies (ch. 166-167). | Strong commitment to non-violence; spiritualism discouraged; "chaste and holy life" counsel. | What makes unity possible in the Hole at the end? (from general knowledge; to verify) |
-| Shinto | B | Discuss | Spirits and devils as part of a living world, like yokai; no disrespect toward kami or shrines; gratitude for food and work. | Blood and death (kegare) everywhere; the grudge of the unburied dead becomes a monster, a familiar folk idea treated mostly as horror. | The Hole-kun statue and cemetery (ch. 167) compared with honoring and calming angry spirits. (from general knowledge; to verify) |
-| Wiccan / Pagan | B | Discuss | Magic as part of the world, not shown as Satanic; respect for strangeness and bodies. | "Harm none": sorcerers use magic to harm the weak, which may read as a negative picture of magic users; harm is rarely judged. | Magic used to harm versus to heal (Noi). (from general knowledge; to verify) |
-| Scientologist | C | Minor | Loyalty and work. | The Way to Happiness's "do not murder" sits against casual killing. | Which precepts do the heroes keep or break? (from general knowledge; to verify) |
-| Secular progressive | B | Discuss | Class critique; women not sexualized (Anime Feminist); casual acceptance of Turkey's gender; environmental decay. | Glorified, comic violence; drug trade played lightly; Common Sense Media 17+. | Who has power and why? Is laughing at gore a problem? |
-| Secular humanist | B | Discuss | No supernatural moral authority; friendship, work and humor make life good; reason (Vaux, Kasukabe) is useful. | Cruelty played for laughs; little moral reflection. | What does the story say makes a life worth living when there is no fair order? |
-| Conservative / traditional | C | Significant | Loyalty, hard work, small business, family-style bonds and keeping your word. | Demonic and inverted-cross imagery; chaos without lawful order; gore. | What holds people together when institutions fail? |
-| Unitarian Universalist | C | Discuss | Worth of outsiders, women's strength, tolerance of difference. | Violence as the main solution; little justice beyond revenge. | Inherent worth in a world that ranks beings by power. (from general knowledge; to verify) |
-| Satanist | A | Minor | Devils and magic are not stereotyped as Satanic evil; self-reliance, loyalty, proportionate retaliation (Caiman's hunt); arbitrary power (Chidaruma) is punished. | Little to raise; harm to the innocent (Ebisu, the Hole's victims) would be the concern. | Is Caiman's revenge just retaliation? Tenet 1 on compassion. (from general knowledge; to verify) |
+| Catholic | C | Significant | Loyalty, hospitality and friendship; the abusive powerful (Chidaruma) are humbled; forgiveness between old enemies. | Killing is rarely framed as wrong, so evil is often made attractive through comedy (Inter Mirifica 7); devils shown as benign or desirable; inverted crosses as decor (CCC 2115-2117 on the occult); nudity (CCC 2521-2524). | "Life is cheap in the Hole" (ANN): what would it take for the characters to treat every life as precious (CCC 2258)? |
+| Eastern Orthodox | D | Significant | Loyalty and shared meals; the proud devil ruler brought low (ch. 167). | Evil spirits are taken as real, so friendly devils, devil exams and inverted crosses are a serious concern; guarding the senses (nepsis) makes the gore a concern too. | The demons in the Philokalia are never friends: how is that different from Asu? (from general knowledge; to verify) |
+| Baptist | D | Significant | Loyalty, hard work, honesty among friends. | Demons and Hell played as comedy and reward; occult imagery throughout (Deuteronomy 18:10-12); killing without consequence. Views vary by congregation. | Philippians 4:8 as a test: what in Dorohedoro passes, and what doesn't? |
+| Non-denominational Evangelical | C | Significant | Friendship, sacrificial loyalty (Caiman fights to free Nikaido from En), forgiveness. | Many accept fantasy magic but are wary of demons and spirit dealings; here devils are rulers and role models. Depiction of sin is common, but endorsement is the question. | Is the story showing sin, or celebrating it? Pick one scene and decide. |
+| Pentecostal / Charismatic | F | Significant | Loyalty and courage. | Media as an "open door": devils and Hell are central, friendly and aspirational; Nikaido becomes a devil to save her friend; inverted crosses throughout. Views vary between churches. | Ephesians 6:12 on spiritual warfare beside a story where devils are friends. (from general knowledge; to verify) |
+| Reformed / Presbyterian | C | Significant | Common grace: craft, humor and friendship by a non-Christian artist; depravity is everywhere and no one is innocent. | Hell and devils made comic; WLC Q136 on killing applies to casual murder; nudity (WLC Q139). | Total depravity on display: is anyone in the Hole good? |
+| Lutheran | C | Significant | Daily vocation (cook, doctor, cleaner) honored; no character saves himself. | Devils as benign rulers; occult throughout. LCMS and WELS families tend to be more cautious than ELCA families. | Vocation in a ruined world: Nikaido's restaurant and Vaux's clinic. |
+| Methodist / Wesleyan | C | Significant | Works of mercy (Vaux's clinic for magic victims; Noi's healing); hospitality. | Holiness churches more cautious than UMC; casual killing. | Works of mercy in the Hole: who helps the victims? (from general knowledge; to verify) |
+| Anglican / Episcopal | C | Significant | A strong fantasy tradition judges by framing; friendship and loyalty. | Good and evil are blurred: heroes kill freely and devils are not framed as evil. | How does the story frame the killing it shows? |
+| Anabaptist (Mennonite, Amish, Brethren) | D | Significant | Simple work and shared meals; forgiveness of enemies at the end. | Violence as fun and as the main tool throughout (Matthew 5:39); occult setting. Conservative groups avoid such media; MC USA families vary. | What would a peacemaker do in the Hole? (from general knowledge; to verify) |
+| Latter-day Saint | D | Significant | Loyalty, work, friendship. | For the Strength of Youth asks for media that invites the Spirit; graphic violence, devils and nudity weigh against it; occult and spirit dealings avoided. | For the Strength of Youth on choosing entertainment. (from general knowledge; to verify) |
+| Mainline progressive Protestant | C | Discuss | Class critique (sorcerers exploit the poor); strong women not sexualized (Anime Feminist); casual acceptance of Turkey's change of sex (ch. 167). | Glorified, comic violence; the poor's grudge becomes a mass-killing monster, so justice is mostly revenge. | Who pays for the sorcerers' "practice," and does the story give them justice? |
+| Seventh-day Adventist | D | Significant | Friendship and work; the cruel ruler humbled. | Spiritualism and revived dead; Hell as a living realm conflicts with teaching that the dead sleep; gore. (from general knowledge; to verify) | "By beholding we become changed" (2 Corinthians 3:18). (from general knowledge; to verify) |
+| Jehovah's Witness | F | Significant | Loyalty and hospitality. | jw.org asks whether media features what God hates: violence (Psalm 11:5) and spiritism (Galatians 5:19-21); both are central, and devils are friendly. (from general knowledge; to verify) | Psalm 11:5 and Galatians 5:19-21 as a test. (from general knowledge; to verify) |
+| Christian Science | D | Significant | Friendship and good humor outlast horror. | Fear, gore and evil shown as powerful realities; "stand porter at the door of thought" (Science and Health 392). (from general knowledge; to verify) | What thoughts does a story invite in? (from general knowledge; to verify) |
+| Orthodox Jewish | D | Significant | Hospitality (hachnasat orchim), loyalty, honoring the dead (Fujita, ch. 167). | Sorcery and necromancy (Deuteronomy 18:10-11) central; revived corpses; tzniut concerns with nudity; many Haredi homes restrict such media altogether. (from general knowledge; to verify) | Deuteronomy 18:10-11 on sorcery beside a world run by sorcerers. (from general knowledge; to verify) |
+| Conservative Jewish | C | Significant | Hospitality, loyalty, memory of the dead. | Sorcery forbidden but fantasy generally accepted; casual killing; revenge as motive. (from general knowledge; to verify) | Hachnasat orchim (welcoming guests) at the Hungry Bug. (from general knowledge; to verify) |
+| Reform Jewish | C | Discuss | Class critique, women's strength, tolerance of difference. | Glorified violence; justice as mass revenge. (from general knowledge; to verify) | Who in the story stands up for the powerless? (from general knowledge; to verify) |
+| Muslim | D | Significant | Hospitality, loyalty, care for the injured. | Sihr (sorcery) shown as normal and powerful; devils (shayatin) as rulers and role models; casual killing; intoxicants; nudity and lowering the gaze (Qur'an 24:30-31). | Qur'an 2:102 on sorcery beside the sorcerers of Dorohedoro. |
+| Hindu | C | Discuss | Food and hospitality; a proud being humbled and made to live as a human (ch. 167). | Black magic disapproved; much tamasic content (Gita ch. 17); violence without dharma. | Gita 17 on tamasic things: dark, heavy, harmful. Where does Dorohedoro fall? (from general knowledge; to verify) |
+| Buddhist | C | Significant | Impermanence and absurdity; the devils' boredom as a picture of craving without end. | Killing as comedy, against the first precept; little compassion for the killed; intoxicants. | Chidaruma is bored with infinite power: what does that say about craving? |
+| Sikh | D | Significant | Loyalty, work, standing up to the oppressor. | Magic rejected by the Gurus; anger and ego (two of the five vices) are often shown as fun; intoxicants. (from general knowledge; to verify) | The five vices (kaam, krodh, lobh, moh, ahankar): which characters are ruled by them? (from general knowledge; to verify) |
+| Bahá'í | D | Significant | Friendship and unity across old enemies (ch. 166-167). | Strong commitment to non-violence; spiritualism discouraged; intoxicants forbidden; "chaste and holy life" counsel. (from general knowledge; to verify) | Unity across old enemies at the end. (from general knowledge; to verify) |
+| Shinto | B | Discuss | Spirits and devils as part of a living world, like yokai; no disrespect toward kami or shrines; gratitude for food and work. | Blood and death (kegare) everywhere; the grudge of the unburied dead becomes a monster, a familiar folk idea treated mostly as horror. (from general knowledge; to verify) | The grudge of the unquieted dead (onryo) and how it is laid to rest. (from general knowledge; to verify) |
+| Wiccan / Pagan | B | Discuss | Magic as part of the world, not shown as Satanic; respect for strangeness and bodies. | "Harm none": sorcerers use magic to harm the weak, which may read as a negative picture of magic users; harm is rarely judged. (from general knowledge; to verify) | Magic used to harm versus to heal (Noi). (from general knowledge; to verify) |
+| Scientologist | C | Minor | Loyalty and work. | The Way to Happiness's "do not murder" sits against casual killing; drugs. (from general knowledge; to verify) | "Do not take harmful drugs": Black Powder in the story. (from general knowledge; to verify) |
+| Secular progressive | B | Discuss | Class critique; women not sexualized (Anime Feminist); casual acceptance of Turkey's change of sex; environmental decay. | Glorified, comic violence; drug trade played lightly; Common Sense Media 17+. | Is the Hole's suffering the story's point, or just its scenery? |
+| Secular humanist | B | Discuss | No supernatural moral authority; friendship, work and humor make life good; reason (Vaux, Kasukabe) is useful. | Cruelty played for laughs; little moral reflection (WSWS). | Can friends be good to each other in a world that isn't? |
+| Conservative / traditional | C | Significant | Loyalty, hard work, small business, family-style bonds and keeping your word. | Demonic and inverted-cross imagery; chaos without lawful order; gore. | What holds the Hungry Bug together when nothing else does? |
+| Unitarian Universalist | C | Discuss | Worth of outsiders, women's strength, tolerance of difference. | Violence as the main solution; little justice beyond revenge. (from general knowledge; to verify) | Who in the story is treated as if they don't matter? (from general knowledge; to verify) |
+| Satanist | A | Minor | Devils and magic are not stereotyped as Satanic evil; self-reliance, loyalty, proportionate retaliation (Caiman's hunt); arbitrary power (Chidaruma) is punished. | Little to raise; harm to the innocent (Ebisu, the Hole's victims) would be the concern. (from general knowledge; to verify) | Is Caiman's hunt justice or revenge? (from general knowledge; to verify) |
+| Historically Black Protestant | D | Significant | Loyalty and hospitality; oppressors who prey on the poor are humbled at the end (ch. 167). | Devils and Hell are friendly and aspirational and sorcery is everywhere (Deuteronomy 18:10-12); killing and revenge are celebrated as fun (Romans 12:19); drug dealing; nudity. Holiness and COGIC families especially cautious. (from general knowledge; to verify) | The Hole's people are oppressed, but their deliverance comes as a monster's revenge. What does real deliverance look like (Exodus 3:7-8)? |
+| Atheist | B | Discuss | Devils, Hell and magic are fiction and do not lower the grade; no faith is the answer; people rely on each other, and the dead monster's new cult is shown wryly (TV Tropes). | Cruelty is played for laughs and rarely judged by empathy. | Why do Hole's people make a religion out of the monster's corpse? |
+| Agnostic | B | Discuss | Strange, open-ended world with mysteries the story does not fully explain; no preaching either way. | Gore and casual killing with little reflection. | What is never explained in Dorohedoro, and does that bother you? |
+| Nothing in particular | C | Significant | Loyalty to friends, everyday work, karma-like comeuppance for the cruel (Chidaruma made to live as a human, ch. 167); a happy ending at the restaurant. | Cruelty and gore celebrated as fun; Common Sense Media 17+. | Who in the story gets what they deserve, and who doesn't? |
 
-**Where traditions disagree.** The main dividing line is the devils. For Pentecostal, Jehovah's Witness, Orthodox, Muslim, Adventist and conservative Baptist families, devils that run the world, create sorcerers for fun and offer promotion to devilhood are the central concern, whatever the comedy. For Shinto, Pagan, secular and Satanist readers, the devils are fantasy or folklore and raise little. The second line is violence played as comedy, which weighs most for Anabaptist, Bahá'í, Buddhist and Sikh families. Secular progressive readers find the most to praise in the series' class critique and its non-sexualized women.
+**Where traditions disagree.** The deepest divide is over the devils. Traditions that hold demons to be real (Orthodox, Pentecostal, Jehovah's Witness, Baptist, Historically Black Protestant, Muslim) read friendly devils and a hero who becomes one as a serious message problem (D to F). Shinto, Wiccan and Satanist frames see devils and magic as world-building and grade it B or A. Secular and agnostic frames accept the fantasy but, like most religious frames, are troubled that killing is played for laughs and rarely judged. Every frame welcomes the loyalty, hospitality and shared meals.
 
 ## Winners, losers and sympathy
 
-Loyal friends who share food survive and reopen the restaurant. The powerful who treat others as playthings are knocked down a rung, but no side is clean.
+Those who keep faith with their partners and friends survive and return to ordinary work, while the arbitrary powers (Chidaruma, En's rule, the sorcerers' practice on humans) are humbled; the exploited dead get their revenge as a monster that is then destroyed.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Caiman and Nikaido | Loyalty, friendship, the simple life of work and gyoza | Caiman learns he is one self with Ai, Aikawa and Kai (ch. 155), becomes strong enough to destroy Hole-kun (ch. 166) and is free of his devil tumor; Nikaido is restored and reopens the Hungry Bug (ch. 167, recap) | Endorsed |
-| En and his family (Shin, Noi, Ebisu, Fujita, Turkey) | Power held in a loyal crime "family" | En survives and rebuilds; Shin and Noi stay partners (ch. 167) | Sympathetic; their killings rarely judged |
-| Chidaruma and the devils | Power as amusement; everything is a game | Chidaruma loses a bet and is sentenced to live as a human baby without memory or power (ch. 167; recap says 5,000 years, TV Tropes says 50,000; to verify) | Mixed: comic, then humbled |
-| Kai / Cross-Eyes boss and Hole-kun | The Hole's grudge; "Slaughter all Magic Users" (ch. 148) | Destroyed (ch. 166); a statue of Hole-kun and a cemetery for victims stand at the end (ch. 167) | Mixed: the grievance is real, the slaughter is horror |
-| Asu and Risu | Second chances | Plan to take the devil exam together (ch. 167) | Sympathetic |
+| Caiman | Loyalty; finding yourself through friends | Killed and revived; helps destroy the monster; works at the reopened Hungry Bug (ch. 167) | Endorsed |
+| Nikaido | Hospitality and fierce friendship | Becomes a devil, then chooses the restaurant over being a devil or sorcerer (ch. 167, Gaffney) | Endorsed |
+| En | Power held as a family patriarch | Struggles to hold his family together (VIZ vol. 23 synopsis); survives | Sympathetic |
+| Shin and Noi | Loyal enforcers; violence as a job | Stay partners (Gaffney) | Sympathetic |
+| Chidaruma | Power as amusement | Made to live as a human for 50,000 years (TV Tropes) | Mixed, then humbled |
+| Hole-kun / Kai | Grievance of the exploited turned to slaughter | Destroyed; its bones end the sorcerers' practice in the Hole (TV Tropes) | Mixed |
+| Fujita and Ebisu | Low-ranked sorcerers; survival | Survive; Fujita honors the dead (Gaffney) | Sympathetic |
 
-**Fan favorites versus the official moral.** TV Tropes lists Caiman, Fujita, Ebisu and Kikurage as fan favorites, and calls Ebisu a beloved character whose status as a villain is "up for debate." Hayashida herself says Shin became more appealing to her once animated, and that she pushed to keep the fan-favorite baseball episode in the anime (Comic Natalie interview). No official popularity poll was found. Since the story has no official moral line between good and evil, fan affection for En's killers matches the text more than it challenges it. The one act fans treat as beyond the line is Kai killing Natsuki (TV Tropes "Moral Event Horizon").
+**Fan favorites versus the official moral.** No poll was found. ANN's Loveridge found it impossible to dislike any of the characters, villains included, and the Encyclopedia of Science Fiction (via Wikipedia) praises the antagonists; fans and story agree that En's family is as lovable as the heroes. The split is with critics who find the violence a shortcut (WSWS) or the early chapters formless (Carlo Santos, ANN, via Wikipedia).
 
 ## Message delivery
 - Style: Subtle
 - Preachiness: 1
 - Opposing views: Fair
-- Evidence: ANN's This Week in Anime calls it "a slapstick sitcom" in horror's skin; WSWS faults weak social analysis. No reviewer calls it preachy.
+- Evidence: ANN's Loveridge says it revels in absurdity; WSWS faults its weak social analysis; Anime Feminist stresses heart and whimsy. No reviewer calls it preachy.
 - Note: The series gives sorcerers, humans and devils each sympathetic and cruel members, and states no message outright.
 
 | Character | Ideology | Role | Treatment |
@@ -122,182 +131,155 @@ Loyal friends who share food survive and reopen the restaurant. The powerful who
 
 ## Creator and publisher context
 
-- **Q Hayashida** is very private: her real name and face are not public (Wikipedia). Born 1977 in Tokyo; trained in oil painting at Tokyo University of the Arts; debut with *Maken X Another* (1999-2001); later works include *Dai Dark* (2019-present) and enemy designs for the game *Shadows of the Damned* prequel *Huvahh* (Wikipedia).
-- **On-record statements found:** In a Comic Natalie interview (Mimi Miki, December 2019, posted February 10, 2020) she describes the Hole as dark and dirty and the sorcerers' world as bright with blue skies, says she paints the color pages "for fun" with no fixed scheme, praises the anime's mix of CG and hand-drawn art, says Shin became more appealing to her once animated, and asks fans to "just watch it." Anime Feminist (Kirsten Doroff, 2020), citing a SigIKKI interview, reports her working method (editor brainstorms, dialogue scripts, storyboards; covers made with spray paint, cloth and Amazon cardboard). An ANN news item reports she discussed balancing serious and comic elements in that SigIKKI interview (not quoted).
-- **No statements found** on religion, devils, Hell, politics or the meaning of the ending. Volume afterwords and "Extra Evil" pages were not checked.
-- **Publishers:** Shogakukan (Japan); VIZ Media in English, which is owned by Shogakukan and Shueisha (from general knowledge; to verify). No controversies involving the creator were found in reputable outlets.
-
-**Status: Needs more info on the creators.**
+- Q Hayashida (story and art), born 1977 in Tokyo, studied oil painting at Tokyo University of the Arts; she keeps her real name and face private (Wikipedia). She uses paint and textiles in her art and is known for balancing horror and comedy.
+- Career: second place in Afternoon's seasonal contest with the ghost-in-a-sofa one-shot Sofa-chan (1997); Maken X Another; enemy designs and a prequel one-shot for the game Shadows of the Damned (2011); Dai Dark (2019-), nominated for the 2022 Next Manga Award. A 20-year traveling exhibition ran 2020-2022 (Wikipedia).
+- Anime Feminist's creator spotlight (Kirsten Doroff, 2020): her women are fierce, muscular and often stronger than the men; she avoids sexual violence for shock; nudity is drawn confidently rather than for the male gaze.
+- No interview on intent was opened. No statements on religion or politics were found. **Status: Needs more info on the creator.**
+- Publisher: Shogakukan (Ikki, a seinen magazine; later Hibana and Monthly Shonen Sunday). VIZ Media publishes it under VIZ Signature, rated M (Mature). No controversies involving the creator were found.
 
 ## Worldview lenses
 
 Dominant lenses: Pagan/occult (as setting), Absurdism, Communitarianism (found family), Might makes right (as the world's rule).
 
-| Lens | Strength (0 to 10) | Stance (Affirmed/Explored/Critiqued) | Closeness (S to F) | Evidence |
+| Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Pagan / occult | 7 | Explored | C | Magic, devils, Hell, a devil exam and devil ruler are the world's machinery (TV Tropes; ch. 148, 155, 167). Treated as setting, not as practice taught to the reader. Label is my own framing. |
-| Absurdism | 6 | Affirmed | B | Horror and slapstick side by side ("a slapstick sitcom," ANN); death is cheap and often reversed; no cosmic meaning is offered. My own framing. |
-| Communitarianism | 6 | Affirmed | B | Loyalty to partners and found family drives every faction; the ending is a shared restaurant and rebuilt home (ch. 167). |
-| Might makes right | 6 | Explored | C | The world is ranked by power (devils over sorcerers over humans); En and Chidaruma rule because they are strongest. Chidaruma's punishment (ch. 167) checks it, but the heroes also win by force. |
-| Hedonism | 4 | Affirmed | B | Food, drink and parties are the good life: gyoza at the Hungry Bug, En's feasts, Caiman's beer (Common Sense Media). Label is my own framing. |
-| Existentialism | 4 | Explored | C | Caiman's search for who he is ends in "I'm Caiman" (ch. 155): he accepts his split selves and chooses his name and life. |
-| Transhumanism | 4 | Explored | C | Devil tumors implanted to gain magic (Ai), bodies rebuilt, revived, mushroomed and turned into devils. Neither endorsed nor condemned. My own framing. |
-| Pragmatism | 4 | Explored | C | Enemies become allies when needed (ch. 166); fixers and doctors patch everything. |
-| Critical theory | 3 | Explored | C | Privileged sorcerers prey on the Hole; the victims' grudge becomes a monster (ch. 148). Anime Feminist notes "power dynamics"; WSWS says the analysis stays thin. |
-| Marxism | 2 | Explored | C | Class domination is visible, but WSWS criticizes the series for not explaining it ("simply arose by force"). |
-| Nihilism | 3 | Explored | C | Devils kill for fun and treat humans as fit for experiments or eating (TV Tropes); the story does not affirm this, but rarely condemns it. |
-| Feminism | 3 | Explored | C | Fierce, strong women who are not sexualized (Anime Feminist: Nikaido "not sexualized at all"). |
-| Expressive individualism | 2 | Explored | C | Turkey's gender revealed and accepted with a shrug (vol. 23, Gaffney); Caiman claiming his own identity. |
-| Environmentalism | 2 | Explored | C | Toxic rain and magic pollution (Common Sense Media; TV Tropes). |
-| Classical virtue ethics | 2 | Explored | C | Loyalty, courage and keeping one's word, without a wider ethic of justice. |
-| Collectivism / authoritarianism | 2 | Explored | C | En rules his world by fear yet is shown with affection; his family rebuilds rather than falls (ch. 167). |
-| Libertarianism | 2 | Explored | C | The Hole has no working state; people fend for themselves. My own framing. |
-| Christian | 1 | Critiqued (imagery only) | D | Inverted crosses decorate the sorcerers' world and mark graves (TV Tropes); no Christian content beyond iconography. |
-| Jewish, Islamic, Dharmic (Hindu/Buddhist), Pantheist/New Age, Moralistic therapeutic deism, Secular humanism, Naturalism, Stoicism, Utilitarianism, Postmodernism, Anti-natalism, Consumerism, Traditionalism, Progressivism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
+| Pagan/occult | 7 | Explored | C | Sorcerers, devils, Hell and a Devil Church as the world's machinery; magic is power, neither good nor evil. |
+| Absurdism | 6 | Affirmed | B | Horror and slapstick side by side; ANN: it revels in its absurdity. |
+| Communitarianism | 6 | Affirmed | B | Found families and crews: the Hungry Bug, En's family, Vaux's clinic. |
+| Might makes right | 6 | Explored | C | Power ranks sorcerers; devils rule; the strongest magic wins, until the ending humbles Chidaruma. |
+| Hedonism | 4 | Affirmed | B | Food, drink and parties as life's rewards. |
+| Existentialism | 4 | Explored | C | Caiman's search for who he is, with no given answer. |
+| Transhumanism | 4 | Explored | C | Bodies remade by magic; Turkey's chosen transformation. |
+| Pragmatism | 4 | Explored | C | Work and skill solve problems; little theory. |
+| Critical theory | 3 | Explored | C | Class division and exploitation of humans by sorcerers (ANN; WSWS). |
+| Nihilism | 3 | Explored | C | Life is cheap; killing rarely judged. |
+| Feminism | 3 | Explored | C | Strong, non-sexualized women (Anime Feminist). |
+| Marxism | 2 | Explored | C | Class grievance becomes a monster; WSWS's reading. |
+| Expressive individualism | 2 | Explored | C | Masks, fashion and Turkey's self-chosen change. |
+| Environmentalism | 2 | Explored | C | Toxic magic pollution of the Hole. |
+| Classical virtue ethics | 2 | Explored | C | Loyalty and courage valued. |
+| Collectivism/authoritarianism | 2 | Explored | C | En's rule of the sorcerer world. |
+| Libertarianism | 2 | Explored | C | Small businesses in a lawless city. |
+| Christian | 1 | Critiqued (imagery only) | D | Inverted crosses and a Devil Church as decoration. |
+| Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Moralistic therapeutic deism, Secular humanism, Naturalism, Stoicism, Utilitarianism, Postmodernism, Anti-natalism, Consumerism, Traditionalism, Progressivism, Confucian ethics, Bushido / honor code, Patriotism / nationalism, Pacifism / nonviolence, Duty ethics, Liberalism, Anarchism (the Hole is lawless, but no stateless ideal is argued) | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side. Small business (the Hungry Bug) is shown fondly, and the sorcerers' wealth is shown as predatory; economics is not argued. |
-| Social (0 authority, 10 liberty) | 6 | No legitimate authority exists; the Hole is lawless and En's rule is by force. The story does not argue for order, but ends with En rebuilding. |
-| Cultural (0 traditional, 10 progressive) | 6 | Non-traditional families and a casual gender reveal; strong women; no traditional faith or custom upheld. Not framed as a cause. |
-| Community (0 individual first, 10 community first) | 7 | Loyalty to one's partner and crew comes before self; the ending is a restored shared home. |
+| Economic (0 collective, 10 free market) | 5 | Small businesses and crime families side by side; no economic argument. |
+| Social (0 authority, 10 liberty) | 6 | Arbitrary rulers are humbled, but no free order replaces them. |
+| Cultural (0 traditional, 10 progressive) | 6 | Casual acceptance of difference (Turkey) and no traditional morality. |
+| Community (0 individual first, 10 community first) | 7 | Partners and crews come first. |
 
 **Moral foundations profile (0 to 10):** care 5, loyalty 9, fairness 4, sanctity 1, authority 5, liberty 6.
 
-**Profile notes for parents:** The series runs on loyalty and friendship, not on a clear line between good and evil. Its devils and Hell are part of the scenery and are often funny, even desirable, which is the point religious families most often weigh. Its violence is extreme and frequently played for laughs; Common Sense Media rates the anime 17+ and VIZ rates the manga Mature.
+**Profile notes for parents:** Loyalty is the strongest note by far: partners and crews stand by each other through anything. Care for outsiders and fairness are weak, since killing is casual and rarely judged, and sanctity is very low (gore, devils, drugs, frank nudity). VIZ rates it M (Mature) and Common Sense Media puts the anime at 17+.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 7 | Wrongs are answered personally: Caiman hunts the sorcerer who cursed him (ch. 1 on); En's family avenges attacks on it; the Hole's dead take revenge as Hole-kun (ch. 148). There are no courts. |
+| Dignity vs honor | 7 | Wrongs are answered personally: Caiman hunts the sorcerer who cursed him (ch. 1 on); En's family avenges attacks on it; the Hole's dead take revenge as Hole-kun. There are no courts. |
 | Order vs freedom | 7 | The lawless Hole and its free-for-all life are the norm; En's order is enforced by fear, not celebrated as law. |
 | Civic vs kin | 9 | Partners and crews come first: Shin and Noi, Caiman and Nikaido, En's "family." Strangers are often fair game. |
 | Equality vs hierarchy | 6 | Ranks are real (devils, En, his cleaners) and shown with affection, but the top devil is humbled (ch. 167) and humans and sorcerers mix at the Hungry Bug. |
 | Tradition vs secular-rational | 7 | No sacred tradition guides life; Hell and magic are mechanics; science (Vaux, Kasukabe) and craft solve problems. |
-| Survival vs self-expression | 6 | Survival in a harsh world, but also food, parties, odd fashion and casual tolerance of difference (Turkey, vol. 23). |
+| Survival vs self-expression | 6 | Survival in a harsh world, but also food, parties, odd fashion and casual tolerance of difference (Turkey, ch. 167). |
 
 Closest clusters: El Norte; Latin America; Orthodox Europe
 
-Japanese source culture: The food culture (gyoza, the restaurant as home), oyabun-style crime "families," and the folk idea that the grudge of the unburied dead becomes a vengeful spirit are Japanese elements; the devils and inverted crosses borrow Western occult imagery as style rather than belief.
+Japanese source culture: The food culture (gyoza, the restaurant as home), oyabun-style crime "families," and the folk idea that the grudge of the unquieted dead becomes a vengeful spirit are Japanese elements; the devils and inverted crosses borrow Western occult imagery as style rather than belief.
 
 ## Philosophy essay
 
-**The central question.** What makes life bearable in a world with no fair rulers? The Hole is poisoned, lawless and used as a testing ground. The sorcerers' world is bright but run by a crime boss. Above them both, devils treat everything as a game. No god or law protects anyone.
+**The central question.** Who are you when you cannot remember, and who will stand by you anyway? Caiman does not know his name, his face or his past. All he has is a knife, a hunger for gyoza and a friend who keeps feeding him.
 
-**The answer the story gives.** The series answers with people, not principles. A good life is a plate of gyoza, a partner who has your back and a place to come home to. The final chapter does not end with justice or salvation but with the Hungry Bug reopening and Caiman learning to cook (ch. 167, recap). The vol. 23 reviewer calls it close to a fairy-tale ending and "not about romance": the bonds are friendship and loyalty.
+**The answer the story gives.** You are the company you keep. Caiman learns he was once someone else (Aikawa), that part of him is a murderer (Kai), and that he may be a sorcerer himself; none of that decides who he is. Nikaido does, by choosing him as her partner at the Hungry Bug (fan wiki), and the series ends with them back at work (ch. 167). The world stays cruel; the meal is the answer.
 
-**Characters as arguments.** Caiman is the argument that identity is something you claim. He learns that Kaiman, Ai, Aikawa and Kai are "all the same person" and still chooses to be Caiman (ch. 155). Nikaido is loyalty that pays a price: she even becomes part devil to save her friends. En is power wrapped in family feeling; he kills freely but keeps his people. Shin and Noi are partnership as love without romance. Chidaruma is power with nothing to do but play. Hole-kun is the grievance of the exploited, given a body and a single wish, "Slaughter all Magic Users" (ch. 148).
+**Characters as arguments.** Caiman argues for loyalty without self-knowledge. Nikaido argues for friendship stronger than power: she would rather run a restaurant than be a devil (Gaffney). En argues that power and family go together, and is likable while doing it. Shin and Noi make killing a job done with partnership and good cheer. Chidaruma, the bored god-like devil, is the argument that infinite power leads to emptiness, and he is made to live as a human (TV Tropes). Hole-kun is the argument of the exploited dead: years of sorcerers' "practice" on humans come back as a monster (Wikipedia; TV Tropes).
 
-**Symbols and motifs.** Food is the center: the Hungry Bug, En's restaurant, a chapter called "The Devil's Gyoza." Masks mark the sorcerers and hide or reveal identity (Turkey's edible mask in vol. 23). Smoke is power, drawn from a devil in the brain. Heads are bitten, collected, cut off and reattached. Doors connect worlds. Upside-down crosses on eggs mark graves.
+**Symbols and motifs.** Masks (every sorcerer wears one); the man in Caiman's mouth; mushrooms; gyoza; doors cut in the air; the polluted Hole; the kitchen knife that can kill devils; inverted crosses and the Devil Church; the sludge lake of the title (ch. 56).
 
-**Traditions it echoes.** Japanese folk belief that angry, unburied dead become vengeful spirits. Western occult imagery used as style. Yakuza family structure. Alice in Wonderland, which ANN's reviewer notes in the anime's look. Punk and grotesque art traditions, which Hayashida's painted covers draw on.
+**Traditions it echoes.** Alice in Wonderland (ANN), Bosch's hells (Encyclopedia of Science Fiction), punk and heavy-metal art (Otaku USA compares Pushead), yakuza films, and the Japanese folk belief that the grudge of the wronged dead becomes a vengeful spirit.
 
-**How each lens is portrayed.** Occult elements are scenery, not doctrine: devils are not framed as evil, and becoming one is a reward. Might-makes-right is the world's rule and is only partly checked when Chidaruma is humbled. Class critique is present but, as the WSWS critic notes, unexplained. Feminist readers praise women who are strong and not sexualized. Absurdism is the governing mood: horror and comedy together, with death often undone.
+**How each lens is portrayed.** Occult imagery and might-makes-right are the world's rules, presented without verdict until the ending humbles the strongest. Absurdism carries the tone. Communitarianism, in the form of loyal crews, is the closest thing to a moral. Class critique is present but undeveloped (WSWS).
 
-**Shifts across the series.** Early volumes (ch. 1-36) are episodic hunts and comedy in the Hole and the sorcerers' world. The middle (roughly ch. 37-101) turns to the Cross-Eyes, Black Powder and Caiman's past. From vol. 17 (ch. 102 on) the story becomes an apocalyptic war: devils intervene, Nikaido turns devil (vol. 20-21), Ai's origin is revealed (vol. 21) and Hole-kun is born (ch. 148). The last volume restores most of the cast and ends in quiet daily life.
+**Shifts across the series.** Vols. 1-7 (ch. 1-43): episodic hunts in the Hole and the sorcerer world, the anime's first season. Vols. 8-14 (ch. 44-85): Nikaido's secret, En's search, the Cross-Eyes. Vols. 15-20 (ch. 86-137): Caiman's past, Kai and the occupation of the sorcerer world, the darkest and goriest stretch (TV Tropes). Vols. 21-23 (ch. 138-167): Hell's Department Store, Hole-kun, Nikaido's devil transformation and the ending.
 
 **Discussion questions.**
-1. The heroes kill sorcerers without much thought. Does the comedy change how we judge that?
-2. The devils run the world, and becoming one is shown as a reward. How does that compare with what your family believes about evil spirits?
-3. The Hole's murdered dead become a monster that wants revenge on all sorcerers. Is that justice? What would justice look like instead?
-4. Caiman learns he is several people and still chooses one name. What makes you who you are?
-5. Why might the author end a blood-soaked story with a restaurant reopening?
+1. Caiman doesn't know who he was. Does that change who he is now?
+2. Why does Nikaido keep standing by Caiman? What makes a friend that loyal?
+3. The sorcerers treat the Hole's people as practice. How does the story answer that wrong?
+4. Many deaths in Dorohedoro are jokes. How does that change how you feel about violence?
+5. Is Chidaruma's punishment fair?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Critical acclaim (anime) | Lynzee Loveridge, ANN (anime season 1) | A-; "nothing short of a bloodbath," with "playful humor despite the ongoing grotesqueries"; compares the class satire to Lewis Carroll. | https://www.animenewsnetwork.com/review/dorohedoro/.160193 |
-| Critical acclaim (anime) | Isaiah Colbert, Gizmodo (season 2, 2026) | "the apex of what an anime take on horror comedy should look like"; gore at times exceeds the manga. | https://gizmodo.com/dorohedoro-season-2-review-mappa-q-hayashida-anime-2000763927 |
-| Critical, mixed (manga) | Carlo Santos, ANN (vol. 7) | B-; praises balance and campy humor but says the story "lapses right back into action-adventure mode." Wikipedia also quotes him saying the story "never develops a sense of flow." | https://Animenewsnetwork.Com/review/dorohedoro/gn-7 |
-| Critics (manga, collected) | Otaku USA, Blogcritics, ComicsAlliance, About.com (via Wikipedia) | Praise for gritty art and weirdness; Deb Aoki calls it "violent and surreal." | https://en.wikipedia.org/wiki/Dorohedoro |
-| Fan-critic reviews (manga) | Sean Gaffney, A Case Suitable for Treatment (vols. 10, 21, 23) | Vol. 10 "incredibly terrifying at times"; vol. 21 full of decapitations and eviscerations; vol. 23 a "badass, dark but hilarious journey" ending near fairy tale. | https://suitablefortreatment.mangabookshelf.com/2019/09/28/dorohedoro-vol-23/ |
-| Comedy reading | Nicholas Dupree and Steve Jones, ANN This Week in Anime | "a slapstick sitcom wearing the hollowed out skin of a seinen action-horror story"; cast of "lovable homicidal weirdos." | https://www.animenewsnetwork.com/this-week-in-anime/2020-06-11/.160481 |
-| Secular parent guide | Common Sense Media (anime), Melissa Camacho | 17+; "compelling but extremely violent"; flags gore, near-nudity, beer and hard alcohol, "bitch"; positive messages "very little," but Nikaido is "a strong, independent young woman." Parents average 15+, kids 13+. | https://www.commonsensemedia.org/tv-reviews/dorohedoro |
-| Feminist | Caitlin Moore, Anime Feminist (episode 1, 2020) | Praises Nikaido as capable and "not sexualized at all" and the show's avoidance of sexual violence; reads the violence as showing how sorcerers treat the Hole as disposable. | https://animefeminist.com/dorohedoro-episode-1 |
-| Feminist | Kirsten Doroff, Anime Feminist (2020) | Hayashida's women are "fierce, muscular"; she "chooses to eschew" fan-service tropes; the series is "genuinely heartwarming" despite gore. | https://animefeminist.com/the-devils-in-the-details-the-grotesquely-charming-world-of-hayashida-q |
-| Socialist / left | Luke Galvin, World Socialist Web Site (2022) | Praises the look but says the class story is thin (the ruling family "simply arose by force") and the violence is a shortcut: "she takes the easy way out." | https://www.wsws.org/en/articles/2022/07/07/rlya-j07.html |
-| Christian, conservative | None found | No Christian or conservative review of Dorohedoro was found in searches. | n/a |
-| Fan reviews | MyAnimeList (manga) | Score about 8.68, popularity #46, about 212,000 members; tagged Action, Comedy, Fantasy, Horror, Gore, Seinen. | https://myanimelist.net/manga/1133/Dorohedoro |
-| Japanese reception | Comic Natalie (creator interview) | Feature interview for the anime launch; no reception data. No Japanese poll found. | https://natalie.mu/comic/pp/dorohedoro_anime |
+| Parent guide (anime) | Melissa Camacho, Common Sense Media | 17+: a lot of gore and severed body parts, some nudity, heavy drinking; very little positive messaging; Nikaido a strong, loyal friend. | https://www.commonsensemedia.org/tv-reviews/dorohedoro |
+| Critic (anime, season 1) | Lynzee Loveridge, Anime News Network (A-) | Praises characters, art and fight timing; reads class divisions; a bloodbath that "revels in its absurdity." | https://www.animenewsnetwork.com/review/dorohedoro/.160193 |
+| Feminist (creator spotlight, manga) | Kirsten Doroff, Anime Feminist (2020) | Women fierce, muscular and complex; no sexual violence for shock; nudity drawn naturally, not for the male gaze. | https://animefeminist.com/the-devils-in-the-details-the-grotesquely-charming-world-of-hayashida-q |
+| Marxist (anime) | Luke Galvin, World Socialist Web Site (2022) | Bold art and sound; class setting left unexplained; violence used as a shortcut; deaths played for jokes. | https://www.wsws.org/en/articles/2022/07/07/rlya-j07.html |
+| Critic (manga, final volume) | Sean Gaffney, A Case Suitable for Treatment (2019) | Loved it: a satisfying, mostly happy climax to a dark, funny, violent series; "It was worth it." | https://suitablefortreatment.mangabookshelf.com/2019/09/28/dorohedoro-vol-23/ |
+| Critics (manga) | Otaku USA, Blogcritics, ComicsAlliance, About.com; Carlo Santos (ANN) (via Wikipedia) | Praise for gritty, detailed art and dark humor; Santos found the story formless. | https://en.wikipedia.org/wiki/Dorohedoro |
+| Fan databases | AniList, MangaUpdates | AniList average 86 (about 90,000 members); MangaUpdates 8.64. | AniList API; MangaUpdates API |
+| Christian outlets | — | No Plugged In, Beneath the Tangles or other faith-based review found in search. | none |
 
-No documented controversy was found. The main disagreement among reviewers is whether the comic treatment of violence is a strength (ANN, Gizmodo, Anime Feminist) or a shortcut (WSWS).
+No public controversy was found. Critics agree on the art and humor; the split is over the violence, which some find joyful and absurd (ANN, Anime Feminist) and others a substitute for substance (WSWS).
 
 ## Most loaded parts and pages to photograph
 
-Volume to chapter map (counted from Wikipedia's chapter list; titles are unnumbered there, so treat as likely): v1 ch. 1-6; v2 7-11; v3 12-17; v4 18-23; v5 24-30; v6 31-36; v7 37-43; v8 44-49; v9 50-55; v10 56-61; v11 62-67; v12 68-73; v13 74-79; v14 80-85; v15 86-93; v16 94-101; v17 102-109; v18 110-117; v19 118-127; v20 128-137; v21 138-147; v22 148-155; v23 156-167 (plus a special chapter). Each volume also has an "Extra Evil" bonus.
+Volume-to-chapter map (English Wikipedia chapter list, opened): v1 ch. 1-6; v2 7-11; v3 12-17; v4 18-23; v5 24-30; v6 31-36; v7 37-43; v8 44-49; v9 50-55; v10 56-61; v11 62-67; v12 68-73; v13 74-79; v14 80-85; v15 86-93; v16 94-101; v17 102-109; v18 110-117; v19 118-127; v20 128-137; v21 138-147; v22 148-155; v23 156-167. Scene chapters come from the fan wiki, TV Tropes and Wikipedia; most are marked "likely" because the fan wiki's chapter summaries are empty.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | The ending: devils lose a bet, Chidaruma sentenced to life as a human baby; Asu and Risu decide to take the devil exam; Hole-kun statue and cemetery; Turkey's gender reveal | 166-167 (v23) | Shows becoming a devil as a reward and the devil ruler humbled: the heart of the religious frames. Gender row. Confirm the sentence length (5,000 or 50,000 years). |
-| 2 | Ex-devils make Kaiman a sorcerer to bring back Nikaido and Asu; Kaiman accepts his selves ("I'm Caiman") | 155 (v22) | Hero accepts devil power: weighs for Pentecostal, JW, Orthodox and Muslim frames; Existentialism lens. |
-| 3 | Birth of Hole-kun: Chidaruma greets the "newborn" devil; it names itself "Kill Magic Users," eats a man's head | 148 (v22) | Grievance turned to slaughter; devils as cheerful midwives of horror; Critical theory lens. |
-| 4 | Hell, devils and the devil exam; Nikaido's devil training and transformation; Chidaruma's massacre in Haru's flying house; devils' gambling | likely 81 (v14), 119-127 (v19), 128-147 (v20-21; "Evil Gambling" likely 140) | Religion theme and frames; Violence. Locate the clearest depiction of Hell itself. |
-| 5 | Ai's origin: flesh-melting flashback, devil tumors implanted, the Hole's grudge | likely 145 "The Root of Evil" (v21) | Transhumanism lens; Fear score; ties the Hole's dead to the final monster. |
-| 6 | Cross-Eyes and Black Powder: drug made from devil tumors; Kai devours victims and collects heads; Kai kills Natsuki | likely 45-47 (v8); Natsuki's death chapter to verify | Substances (6); Violence; the act fans treat as beyond the line. |
-| 7 | Shin's backstory: father killed by an anti-sorcerer militia, Shin cuts off his own fingers and arms, mutilates the militia | chapter not located (to verify) | Mental health and self-harm (6); revenge framing. |
-| 8 | Ebisu's doppelganger slashes open her head; her parents flee from her copy | v10 (ch. 56-61) | Fear (8); family theme. |
-| 9 | Opening: Caiman bites a sorcerer's head and kills him; Ebisu's trauma after Caiman's bite | 1 (v1); Ebisu likely v1-2 | Baseline violence and the heroes' casual killing. |
-| 10 | Nudity: Nikaido and Ebisu bath scene (cut from anime); inverted-cross graves | chapter to verify | Sexuality (3) and depiction concern; Christian imagery row. |
+| 1 | Ebisu (age unstated; fan wiki: 13) has her fingers cut off and her face torn off; later brain damage played for comedy | ch. 1-6 (v1) | Violence against a young teen; Mental health; every frame's concerns. Written note only. |
+| 2 | Bath scene with Noi and Nikaido, nude in the manga | likely v5-6 (ch. 24-36) | Sexuality score (adult nudity). Do not photograph or scan; review in print, written note only. |
+| 3 | Ebisu's bra-stuffing and flat-chest gags | chapters not given (TV Tropes) | Confirm her age as shown and that no nudity or sexualized framing involves her. Do not photograph or scan; written note only. Affects the content-warning decision. |
+| 4 | Kai's room of heads; Kai devours Ton and Natsuki; the Cross-Eyes occupation | likely v15-20 (ch. 86-137) | Violence (9) and Fear (8). |
+| 5 | Black Powder dealing; Ebisu's childhood use; Caiman nearly tries it | likely v13-15 | Substances (6). |
+| 6 | Caiman tears the scales from his own face | likely v14-15 | Mental health (6). |
+| 7 | Hell's Department Store; Nikaido's devil transformation; Nikaido unclothed inside her devil body with Caiman | ch. 138-155 (v21-22) | Religion theme; Sexuality (non-sexual nudity of an adult). Written note only for the nudity. |
+| 8 | Final battle and ending: Hole-kun destroyed, Chidaruma made human, the Hungry Bug reopens | ch. 156-167 (v23) | Outlook and Winners table. |
 
-Estimate: about 40-55 chapters cover the above; photographing key spreads would take about 80-120 pages.
+Estimate: about 40 chapters cover the above; about 40-60 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
 Pages actually opened:
-- https://en.wikipedia.org/wiki/Dorohedoro
-- https://en.wikipedia.org/wiki/List_of_Dorohedoro_chapters
-- https://en.wikipedia.org/wiki/Q_Hayashida
-- https://www.viz.com/dorohedoro
-- https://www.viz.com/blog/posts/the-frenzied-finale-to-dorohedoro (resolved to the VIZ vol. 23 product page: rating Mature)
+- https://en.wikipedia.org/wiki/Dorohedoro (raw wikitext)
+- https://en.wikipedia.org/wiki/List_of_Dorohedoro_chapters (raw wikitext)
+- https://en.wikipedia.org/wiki/Q_Hayashida (raw wikitext)
+- AniList API, media id 31133 (graphql.anilist.co)
+- MangaUpdates API, series 72792030757 (api.mangaupdates.com)
+- https://dorohedoro.fandom.com (through its API; facts only): Caiman; Nikaido; Ebisu; Chapter 166 (empty summary); Chapter 167 and Hole-kun pages missing
+- https://tvtropes.org/pmwiki/pmwiki.php/Manga/Dorohedoro (facts only)
+- https://www.viz.com/manga-books/manga/dorohedoro-volume-23-0/product/6039 (Mature)
 - https://www.commonsensemedia.org/tv-reviews/dorohedoro
 - https://www.animenewsnetwork.com/review/dorohedoro/.160193
-- https://Animenewsnetwork.Com/review/dorohedoro/gn-7
-- https://www.animenewsnetwork.com/this-week-in-anime/2020-06-11/.160481
-- https://admin.animenewsnetwork.com/news/2010-04-22/dorohedoro-hayashida-solanin-asano-interviewed
-- https://animefeminist.com/dorohedoro-episode-1
 - https://animefeminist.com/the-devils-in-the-details-the-grotesquely-charming-world-of-hayashida-q
 - https://www.wsws.org/en/articles/2022/07/07/rlya-j07.html
-- https://gizmodo.com/dorohedoro-season-2-review-mappa-q-hayashida-anime-2000763927
-- https://natalie.mu/comic/pp/dorohedoro_anime
-- https://suitablefortreatment.mangabookshelf.com/2013/08/27/dorohedoro-vol-10/
-- https://suitablefortreatment.mangabookshelf.com/2017/06/27/dorohedoro-vol-21/
 - https://suitablefortreatment.mangabookshelf.com/2019/09/28/dorohedoro-vol-23/
-- https://epicstream.com/article/dorohedoro-manga-ending-explained (ending recap, facts only)
-- https://myanimelist.net/manga/1133/Dorohedoro
-- TV Tropes (facts only): https://tvtropes.org/pmwiki/pmwiki.php/Manga/Dorohedoro ; https://tvtropes.org/pmwiki/pmwiki.php/YMMV/Dorohedoro
-- Fan wiki (scene location only): https://dorohedoro.fandom.com/wiki/Kaiman ; https://dorohedoro.fandom.com/wiki/Shin ; https://dorohedoro.fandom.com/wiki/Chapter_1 ; https://dorohedoro.fandom.com/wiki/Chapter_148 ; https://dorohedoro.fandom.com/wiki/Chapter_155
 
-Tried but could not load: fan wiki pages for Chidaruma and chapters 81, 119, 140, 145, 167; https://reactormag.com/dorohedoro-the-unlikely-joys-of-a-fetid-wonderland/
-
-Found in search results but not opened (titles only; content not verified):
-- Common Sense Media parent and kid reviews: https://www.commonsensemedia.org/tv-reviews/dorohedoro/user-reviews/adult
-- ANN news on the ending: https://animenewsnetwork.com/news/2018-07-11/q-hayashida-dorohedoro-manga-ends-in-3-chapters/.134141
-- ANN encyclopedia: https://AnimeNewsNetwork.com/encyclopedia/manga.php?id=4669
-- ANN season 2 episode reviews: https://www.animenewsnetwork.com/review/dorohedoro-season-2/episode-11/.237955
-- SF Encyclopedia: https://www.sf-encyclopedia.com/entry/dorohedoro
-- Syfy Wire: https://www.syfy.com/index%2Ephp/syfy-wire/netflix-anime-recommendation-dorohedoro
-- Comic Natalie, Dai Dark feature: https://natalie.mu/comic/pp/daidark
-- KAI-YOU (Kikan S feature on Hayashida): https://kai-you.net/article/96569
-- MAPPA staff interview, season 2: https://anitrendz.net/news/2026/07/29/dorohedoro-season-2-interview-mappa/
-- CBR trivia: https://www.cbr.com/dorohedoro-hidden-details-trivia/
-- Manga Bookshelf vol. 9: https://suitablefortreatment.mangabookshelf.com/2013/04/25/dorohedoro-vol-9
+Found in search, not opened (refused, failed or not prioritized):
+- https://reactormag.com/dorohedoro-the-unlikely-joys-of-a-fetid-wonderland/ (site error)
+- https://animefeminist.com/dorohedoro-episode-1
+- https://www.animenewsnetwork.com/this-week-in-anime/2020-06-11/.160481
+- https://www.animenewsnetwork.com/review/dorohedoro-season-2/episode-9/.237406
+- https://blogcritics.org/manga-review-dorohedoro-01-by-q/
+- https://www.viz.com/blog/posts/the-frenzied-finale-to-dorohedoro
+- https://suitablefortreatment.mangabookshelf.com/category/dorohedoro/
+- No Plugged In or Beneath the Tangles review found in search.
 
 ## Full-read review checklist
 
-- [ ] Ch. 166-167 (v23): confirm the devils' bet, Chidaruma's sentence (5,000 vs 50,000 years), Asu and Risu's plan to take the devil exam, the Hole-kun statue and cemetery, and Turkey's reveal. Affects Religion theme, frame grades, Gender row.
-- [ ] Ch. 155 (v22): confirm the ex-devils' offer and Kaiman becoming a sorcerer; check how the scene frames devil power. Affects Pentecostal, JW, Orthodox, Muslim grades.
-- [ ] Ch. 148 (v22): confirm Hole-kun's birth, "Kill Magic Users," and the head-eating. Affects Violence and Critical theory lens.
-- [ ] Locate the chapters showing Hell itself, the devil exam and Nikaido's devil training (likely v14, v19-21). Record how Hell is drawn (bureaucratic, comic, tormenting?). Affects Religion theme and Pagan/occult lens.
-- [ ] Ai's origin flashback (likely ch. 145, v21): confirm tumor implantation and the Hole's grudge. Affects Transhumanism lens and Fear score.
-- [ ] Locate Shin's backstory chapter; confirm self-mutilation and militia killings. Affects Mental health (6).
-- [ ] Cross-Eyes and Black Powder chapters (likely v8 ch. 45-47) and Natsuki's death. Affects Substances (6) and Fan favorites.
-- [ ] Vol. 10 (ch. 56-61): Ebisu's doppelganger scene. Affects Fear (8).
-- [ ] Find the bath scene (TV Tropes) and check overall nudity level in the manga art. Affects Sexuality (3).
-- [ ] Spot-check VIZ profanity in 3-4 chapters. Affects Language (4).
-- [ ] Count inverted-cross imagery and any explicitly Christian symbols. Affects Christian lens and Catholic, Orthodox, Baptist rows.
-- [ ] Confirm VIZ "Mature" rating on the vol. 1 back cover; confirm VIZ ownership (Shogakukan/Shueisha).
-- [ ] Read the "Extra Evil" bonus pages and any author comments or afterwords in each volume; record statements on intent, devils or religion. Affects Creator context.
-- [ ] Verify Ebisu's early trauma chapter (likely v1-2). Affects Mental health row.
+- [ ] Every scene with Ebisu: confirm her stated or implied age (fan wiki: 13; TV Tropes: never stated) and that none of the bra-stuffing gags, transformations or injuries show her nude or in a sexualized way; none reported by any source opened. Written note only. Affects the content-warning decision and every frame's Depiction concern.
+- [ ] Likely v5-6: the bath scene with Noi and Nikaido; confirm chapter and nudity level. Written note only. Affects Sexuality (4).
+- [ ] Check Natsuki (a young Cross-Eyes girl, age not given) for any sexualized framing; none reported.
+- [ ] Ch. 1-6: confirm the scenes of Ebisu's fingers and face. Written note only. Affects Violence.
+- [ ] Ch. 156-167: summarize the ending (Hole-kun, Chidaruma, Nikaido, the Hungry Bug) from the book; sources disagree on whether Chidaruma is made a human baby or an adult. Affects Outlook and Winners.
+- [ ] Confirm Black Powder chapters and Caiman's near-use. Affects Substances (6).
+- [ ] Spot-check VIZ language in 3-4 chapters. Affects Language (4).
+- [ ] Read the 2020 and 2026 one-shots and the databook bonus story for anything that changes the ending.
+- [ ] Open the Reactor essay and Anime Feminist's premiere review. Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.
