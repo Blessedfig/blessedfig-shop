@@ -61,7 +61,7 @@ Each row describes how that tradition's own teaching on art and media would usua
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Discuss | Protecting orphans and the weak; fidelity; courage; the local Church's care for orphans. | Fan service against custody of the eyes (CCC 2521-2523); the Church's leadership as kidnappers (vol. 11-13); a duel to the death honored (CCC 2269). | What makes the orphanage sisters different from the people who took Millie? |
+| Catholic | B | Discuss | Protecting orphans and the weak; fidelity; courage; the local Church's care for orphans. | Fan service against custody of the eyes (CCC 2521-2523); a Church shown holding a child captive (vol. 11-13); a duel to the death honored (CCC 2269). | What makes the orphanage sisters different from the people who took Millie? |
 | Eastern Orthodox | B | Discuss | Faithfulness and protection of the vulnerable. | Guarding the senses against fan service; magic as power. | Power as service, not domination. (from general knowledge; to verify) |
 | Baptist | B | Discuss | Rescue of a child; loyalty; humility about great power. | Fan service (Philippians 4:8); magic and demons; a corrupt church hierarchy. | James 1:27: caring for orphans, beside Shin's protection of Millie. |
 | Non-denominational Evangelical | B | Discuss | Strength used to serve others; faithful love. | Fan service; magic presented as neutral tools. | Mark 10:42-45: greatness as service. |
@@ -126,7 +126,7 @@ Those Shin protects thrive; those who exploit or kidnap (the Church faction at S
 | Shin | Power used to protect | Hero | Sympathetic |
 | Schnee Raizar | Faithful devotion | Ally | Sympathetic |
 | Girard | Warrior's honor and a chosen death | Ally | Fair |
-| The Church leadership at Shigerus | Religious power used for gain | Villain | Strawman |
+| Millie's captors in the Church at Shigerus | Religious power used for gain | Villain | Strawman |
 
 ## Creator and publisher context
 
@@ -148,7 +148,7 @@ Dominant lenses: Communitarianism, Classical virtue ethics, Bushido / honor code
 | Pagan/occult | 3 | Explored | C | Magic, curses, a fox spirit (Element Tail) found at a shrine, nature spirits; used as game mechanics. |
 | Transhumanism | 3 | Explored | C | Game avatars become real bodies, computer characters become conscious people, and Origin linked the two worlds (fan wiki, light novels). |
 | Might makes right | 3 | Explored | C | Stats and levels settle every conflict; Shin's power is overwhelming but used for others. |
-| Christian | 2 | Explored | C | A Church with sisters, an orphanage, purification prayer and a Holy Land; its leadership kidnaps Millie (vol. 11-13). |
+| Christian | 2 | Explored | C | A Church with sisters, an orphanage, purification prayer and a Holy Land; the Church captures Millie (vol. 11, publisher blurb); who in it is responsible is not confirmed. |
 | Existentialism | 2 | Explored | C | What is real after a game becomes a world; Shin chooses to stay (light novels). |
 | Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Secular humanism, Stoicism, Utilitarianism, Duty ethics, Absurdism, Nihilism, Anti-natalism, Hedonism, Expressive individualism, Consumerism, Pacifism / nonviolence, Marxism, Critical theory, Feminism, Postmodernism, Environmentalism, Traditionalism, Progressivism, Libertarianism, Liberalism, Anarchism, Collectivism/authoritarianism, Patriotism / nationalism, Pragmatism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
 
@@ -184,13 +184,13 @@ Japanese source culture: The samurai class, katana craft and a Japan-like land (
 
 **The answer the story gives.** You owe it care. Shin hides his power and uses it to protect: an orphan with foresight, a cursed elf, a dying fox spirit, whole cities in monster floods. When old friends appear, he honors them, even granting Girard the warrior's death he asks for (vol. 5). The light novels add that he chooses to stay for Schnee (fan wiki).
 
-**Characters as arguments.** Shin argues for strength as service. Schnee argues for faithful waiting; ANN calls her arc tragic and beautiful. Girard argues for honor in death. Wilhelm, gruff but kind, argues for protecting the vulnerable without credit. The Church's leadership at Shigerus argues the opposite, using a child's gift for power, and loses.
+**Characters as arguments.** Shin argues for strength as service. Schnee argues for faithful waiting; ANN calls her arc tragic and beautiful. Girard argues for honor in death. Wilhelm, gruff but kind, argues for protecting the vulnerable without credit. Millie's captors in the Church at Shigerus argue the opposite, using a child's gift for power, and loses.
 
 **Symbols and motifs.** The gate between game and world; the katana Shin forges; the Moon Shrine, a store that waited 500 years; Millie's foresight; slave collars that only Shin can remove (light novels).
 
 **Traditions it echoes.** Sword Art Online and the web-novel isekai; the samurai ideal of a protector's blade; for faith readers, the call to defend the orphan (James 1:27; Quran 93:9).
 
-**How each lens is portrayed.** Communitarian and virtue-ethics readings are affirmed. Bushido is affirmed through Shin and Girard. Might makes right is present as game logic but bent toward protection. Religion is mixed: local care, corrupt headquarters.
+**How each lens is portrayed.** Communitarian and virtue-ethics readings are affirmed. Bushido is affirmed through Shin and Girard. Might makes right is present as game logic but bent toward protection. Religion is mixed: local care, and captors within the Church at its headquarters.
 
 **Shifts across the series.** Volumes 1-3 (ch. 1-20): arrival, Tiera, Millie, Yuzuha, Schnee. Volumes 4-5 (ch. 21-34): the Beast Alliance and Girard's duel. Volumes 6-9: Bayreuth, the Holy Land, monster floods, players thought dead. Volumes 10-13: the Church plot and Millie's rescue. Volumes 14-16: demons, Filma and the sea voyage to Hinomoto.
 
