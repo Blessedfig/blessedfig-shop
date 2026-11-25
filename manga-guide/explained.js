@@ -194,7 +194,7 @@ function valuesBody() {
   ${dl((D.dims || Object.keys(DIMS)).map(d => { const [l, r] = d.split(' vs '); return [esc(d), `<div class="ends"><span>0 ${esc(l)}</span><span>10 ${esc(r)}</span></div>${esc(DIMS[d] || '')}`]; }))}
   ${groups.map(g => `<h3>${esc(g === 'Folkway' ? 'The four British folkways' : g === 'American nation' ? 'The eleven American nations' : g === 'World zone' ? 'World culture zones' : g)}</h3>${CL_GROUPS[g] ? `<p>${esc(CL_GROUPS[g])}</p>` : ''}
     <div class="xcards">${cl.filter(c => c.group === g).map(c => `<div class="xc"><h4>${esc(c.name)}</h4><p>${esc(c.values)}</p></div>`).join('')}</div>`).join('')}
-  <h3>Cultural heritage</h3><p>On <a href="#values">Our family's values</a> you can start from a heritage your family identifies with (${(D.heritage || []).length} to choose from). Each heritage only points to the clusters its people commonly settled into or came from. It is a starting point, never a description of your family, and nothing about it is genetic.</p>
+  <h3>Cultural heritage</h3><p>In the <a href="#values">quick version of the Family match quiz</a> you can start from a heritage your family identifies with (${(D.heritage || []).length} to choose from). Each heritage only points to the clusters its people commonly settled into or came from. It is a starting point, never a description of your family, and nothing about it is genetic.</p>
   <p class="note">Cluster positions are our estimates from each book's description, not scores printed in the books, and are still being checked.</p>`;
 }
 
@@ -206,7 +206,7 @@ window.viewExplained = function () {
   const body = {breakdown, traditions: () => `<p>Every grade is read from inside a tradition, using its own teaching. Each is described here in its own terms, in a sentence or two. None is ranked above another.</p><div id="xtrads" class="stack" style="gap:10px">${tradBody()}</div>`,
     philosophies: () => `<p>Beyond the traditions, each series is checked against ${(D.lenses || []).length} philosophies and worldviews. These describe what a story argues, not whether it is right. A story can give voice to an idea in order to reject it.</p>${lensBody()}`,
     leanings: leaningsBody, values: valuesBody, hope: hopeBody};
-  return `<div class="stack xp"><div class="stack" style="gap:8px"><h1>Philosophies explained</h1>
+  return `<div class="stack xp"><div class="stack" style="gap:8px"><h1>Glossary</h1>
   <p class="lede">What every part of a series breakdown means, and a plain description of each tradition, philosophy and culture the guide uses. Every description is written to be fair to the people who hold it.</p>
   <nav class="jump" aria-label="On this page">${SECTIONS.map(([k, t]) => `<a href="#explained-${k}">${esc(t)}</a>`).join('')}</nav></div>
   ${SECTIONS.map(([k, t]) => `<section class="xs" id="x-${k}"><h2>${esc(t)}</h2>${body[k]()}</section>`).join('')}</div>`;

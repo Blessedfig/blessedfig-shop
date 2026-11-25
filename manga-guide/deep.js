@@ -191,10 +191,10 @@ const limit = (c, i) => { const v = ans('lim:' + c); return v != null && v !== '
 // ---- Each step ----
 function stepIntro() {
   const n = D.series.filter(s => s.entry).length;
-  return `<h1>In-depth family profile</h1>
+  return `<h1>Family match quiz</h1>
   <p class="lede">A longer, optional quiz that covers every category this guide grades: your faith or philosophy, mature content limits by category, the big ideas a story can push, moral priorities, society and politics, everyday culture, and your reader's temperament. It then ranks the ${n} graded series by how well each one fits your whole profile, and says why.</p>
   <div class="banner">About 10 to 15 minutes. Every question can be skipped, and you can jump to your matches at any time. Answers stay in this browser and are not sent anywhere. Nothing here asks about ancestry, race or genetics, and no answer is better than another.</div>
-  <p class="note">Want something quicker? <a href="#start">Find manga</a> asks just two questions.</p>`;
+  <p class="note">Short on time? The <a href="#values">2-minute quick version</a> covers everyday values only, and <a href="#start">Find manga</a> asks just two questions.</p>`;
 }
 function stepReader() {
   return `<h2>How old is your reader?</h2><p class="note">This sets starting limits for mature content. You can change each one on the content step.</p>
@@ -240,7 +240,7 @@ function stepAxes() {
 function stepFolk() {
   const saved = typeof VALS !== 'undefined' && VALS && VALS.pos;
   return `<h2>Everyday culture</h2><p class="note">Eighteen statements on honor, order, family loyalty, rank, tradition and self-expression. Answer as your household lives, not as you think you should. Only some series are placed on these values so far, so this counts only where we have data.</p>
-  ${saved ? `<p><button type="button" class="linkbtn" id="dqvals">Use the values profile you saved on "Our family's values" instead</button></p>` : ''}${ans('folkFrom') ? '<p class="note"><strong>Using your saved values profile.</strong> Answer below to replace it.</p>' : ''}${agreeList('fw', FOLK_Q)}`;
+  ${saved ? `<p><button type="button" class="linkbtn" id="dqvals">Use the values you saved in the quick version instead</button></p>` : ''}${ans('folkFrom') ? '<p class="note"><strong>Using your saved values profile.</strong> Answer below to replace it.</p>' : ''}${agreeList('fw', FOLK_Q)}`;
 }
 function stepBig5() {
   return `<h2>Your reader's temperament (optional)</h2><p class="note">Ten statements about your reader, not you. Personality says little about beliefs, so this only nudges genre and tone, for example fewer horror titles for a reader who scares easily. It is the smallest part of the match.</p>${agreeList('b5', BIG5_Q)}`;

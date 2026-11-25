@@ -525,9 +525,8 @@ input[type=search],select{border:2px solid var(--line);border-radius:4px;backgro
         <a href="#popular" data-view="popular">Popular manga</a>
         <a href="#browse" data-view="browse">All manga, with filters</a>
         <a href="#ideas" data-view="ideas">By philosophy</a>
-        <a href="#values" data-view="values">Our family's values</a>
-        <a href="#deep" data-view="deep">In-depth family profile</a>
-        <a href="#explained" data-view="explained">Philosophies explained</a>
+        <a href="#deep" data-view="deep">Family match quiz</a>
+        <a href="#explained" data-view="explained">Glossary</a>
         <a href="#method" data-view="method">How we grade</a>
       </div></details>
     </nav>
@@ -797,7 +796,7 @@ function findResults(q) {
   if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
   return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${coverImg(s, 'cover sm')}${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
 }
-const EXPLORE = [['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#values','Our family\'s values','A 2-minute quiz on everyday values like honor and tradition.'],['#deep','In-depth family profile','A longer quiz across every category, for a closely matched list.'],['#explained','Philosophies explained','What each part of a breakdown means, and every tradition, philosophy and culture in plain words.'],['#method','How we grade','What the grades, age bands and labels mean.']];
+const EXPLORE = [['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#deep','Family match quiz','Answer a few questions (or all of them) and get manga ranked for your family.'],['#explained','Glossary','Every tradition, philosophy and culture in plain words.'],['#method','How we grade','What the grades, age bands and labels mean.']];
 const exploreCards = () => `<section class="stack" style="gap:10px"><h2>More ways to explore</h2><div class="explore">${EXPLORE.map(([h,t,d])=>`<a href="${h}"><strong>${t}</strong><span>${d}</span></a>`).join('')}</div></section>`;
 function shelf() {
   const band = pickedBand() || '10+', p = state.profile;
@@ -914,7 +913,8 @@ function viewValues() {
   const res = VALS ? (VALS.suggest ? VALS.suggest.map(n=>({c:cl.find(x=>x.name===n)})).filter(x=>x.c) : nearest(VALS.pos)) : [];
   const fw = D.series.filter(s=>s.entry?.folkways);
   const close = VALS ? fw.map(s=>{ const f=s.entry.folkways.dims; const pos=D.dims.map(d=>f[d]?.pos ?? 5); return {s, d: dist(VALS.pos, pos)}; }).sort((a,b)=>a.d-b.d) : [];
-  return `<div class="stack" style="max-width:80ch"><div class="stack" style="gap:8px"><h1>Our family's values</h1>
+  return `<div class="stack" style="max-width:80ch"><div class="stack" style="gap:8px"><h1>Family match quiz: quick version</h1>
+  <p class="note"><a href="#deep">Back to the full Family match quiz</a></p>
   <p class="lede">An optional layer about everyday values: honor, order, family loyalty, rank, tradition and self-expression. It compares a series' values with yours, separate from religion. The quiz uses values only. You can also start from a region or a cultural heritage your family identifies with; that only suggests a starting point and never describes your family. No cluster is better than another.</p></div>
   <section class="panel"><h2>Take the 2-minute quiz</h2><p class="note">Ten statements. Answer as your household lives, not as you think you should. Nothing is stored unless you choose to save.</p>
   <ol class="stack" style="gap:14px;padding-left:1.2em">${QUIZ.map(([q],i)=>`<li><p style="margin:0 0 6px">${esc(q)}</p><div style="display:flex;flex-wrap:wrap;gap:6px">${AGREE.map((a,j)=>`<label class="chip" style="cursor:pointer"><input type="radio" name="q${i}" value="${j}" data-q="${i}" ${QANS[i]===j?'checked':''}> ${a}</label>`).join('')}</div></li>`).join('')}</ol>
@@ -1165,7 +1165,7 @@ function guidesBody() {
 }
 function viewMethod() {
   return `<div class="stack md" style="max-width:72ch"><h1 style="display:block">How we grade</h1>
-  <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order. For a plain description of every tradition, philosophy and culture, see <a href="#explained">Philosophies explained</a>.</p>
+  <p class="lede">This guide describes what each manga holds up as true, good and worth living for. Every description is written once, in neutral words, and is the same for every reader. Your tradition only changes the grade and the order. For a plain description of every tradition, philosophy and culture, see <a href="#explained">Glossary</a>.</p>
   <h2>Main function and push</h2><p>Every analyzed series opens with its <strong>main function</strong>: the one idea it is most built around, and whether it <strong>argues for</strong> it, <strong>argues against</strong> it, or only <strong>explores</strong> it. It is the strongest of the philosophies we check, preferring one the story takes a side on when two are close.</p>
   <p><strong>Push</strong> (1 to 10) is how hard the story presses that idea. It adds how central the idea is (its strength, 0 to 10, weighted 0.6) to how openly the story argues it (subtle 1, woven into the plot 2, explicit 3, heavy-handed 4). Light is 1 to 4, Moderate 5 to 6, Strong 7 to 10. Push measures force, not approval: a story can push hard for an idea your tradition rejects, or argue against one it holds. The series page also shows the other ideas it carries and which characters carry each one.</p>
   <h2>What each story argues</h2><p>Every analyzed series opens with one plain sentence on what it argues about life: what it holds up as good and worth living for. It is drawn from the story itself (who is rewarded, who changes, how it ends), not from how dark it looks. Many violent or sad series argue for mercy, sacrifice or hope. Below the sentence are the ideas the story <strong>champions</strong> and the one it most <strong>pushes back on</strong>, in plain words; the full list is under "Philosophies it leans toward".</p>
