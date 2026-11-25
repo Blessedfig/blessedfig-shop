@@ -95,6 +95,15 @@ for s in d['series']:
     if not e: continue
     key = str(s['id']) if s.get('id') else 'e-' + e['slug']
     out['grades'][key] = grade(e)
+# Written, series-by-series grades (Nov 24, 2026 onward) replace the estimates; kept in their own file.
+WP = os.path.join(G, 'technopuritan_written.json')
+written = json.load(open(WP)) if os.path.exists(WP) else {}
+nw = 0
+for key, w in written.items():
+    if key in out['grades'] and w.get('grade') in ('S', 'A', 'B', 'C', 'D', 'F'):
+        out['grades'][key] = {'frame': NAME, 'grade': w['grade'], 'aligns': w.get('aligns', ''), 'concerns': w.get('concerns', '')}
+        nw += 1
+print(nw, 'written grades applied')
 json.dump(out, open(os.path.join(G, 'technopuritan.json'), 'w'), ensure_ascii=False, separators=(',', ':'))
 from collections import Counter
 print(len(out['grades']), 'series graded', sorted(Counter(g['grade'] for g in out['grades'].values()).items()))
