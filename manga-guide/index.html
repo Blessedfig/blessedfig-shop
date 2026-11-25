@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Karla:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Boldonse&family=Work+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap">
 <style>
 /* Layout: a calm family bookshelf. Sticky masthead, a picker sentence as the hero, results as a graded list (grade tile left, reasons right). */
 :root{
@@ -459,6 +459,54 @@ label.chip:has(input){min-height:44px;display:inline-flex;align-items:center;gap
 .ideas-ctl>label:not(.grow){flex:1 1 210px}
 @media (max-width:520px){.ideas-ctl>label,.ideas-ctl>label:not(.grow){flex:1 1 100%}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+/* Nov 24: "Manga ink" theme, matching the store's manga bookmark: cream screentone paper, black ink panels,
+   plum and gold accents, Boldonse display type, manga-panel frames with a plum offset, speech-bubble lede. */
+:root{
+  --paper:#f6ecda;--panel:#fffaf0;--ink:#1e161c;--muted:#5c4b55;--rule:#d8c6ad;--accent:#62206a;--accent-soft:#f0e2ef;--tone:#e7d9c3;
+  --warm:#b8861f;--warm-soft:#f8ecd0;--fig:#62206a;--gold:#c4942a;--line:#1e161c;--warm-ink:#7a5410;
+  --shadow:4px 4px 0 var(--fig);
+  --f-display:"Work Sans","Segoe UI",system-ui,sans-serif;
+  --f-body:"Work Sans","Segoe UI",system-ui,sans-serif;
+  --f-mono:"Work Sans","Segoe UI",system-ui,sans-serif;
+  --f-manga:"Boldonse","Work Sans",Impact,sans-serif;
+  --dots:radial-gradient(rgba(30,22,28,.07) 1px,transparent 1.3px);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#18121a;--panel:#221a25;--ink:#f3e9da;--muted:#bfaebb;--rule:#3d2f40;--accent:#d9a3e0;--accent-soft:#33203a;--tone:#3a2d3c;--warm:#e6b35c;--warm-soft:#3a2c14;--fig:#b56cc0;--gold:#e6b35c;--line:#f3e9da;--warm-ink:#e6b35c;--dots:radial-gradient(rgba(243,233,218,.06) 1px,transparent 1.3px)}}
+:root[data-theme="dark"]{--paper:#18121a;--panel:#221a25;--ink:#f3e9da;--muted:#bfaebb;--rule:#3d2f40;--accent:#d9a3e0;--accent-soft:#33203a;--tone:#3a2d3c;--warm:#e6b35c;--warm-soft:#3a2c14;--fig:#b56cc0;--gold:#e6b35c;--line:#f3e9da;--warm-ink:#e6b35c;--dots:radial-gradient(rgba(243,233,218,.06) 1px,transparent 1.3px)}
+body{background:var(--paper) var(--dots) 0 0/6px 6px;font-size:17px}
+header.mast{background:var(--panel);border-bottom:3px solid var(--line);box-shadow:0 3px 0 var(--fig)}
+.brand{font:400 1rem/1.2 var(--f-manga);letter-spacing:.02em;text-transform:uppercase;align-items:center}
+.brand small{font:700 .62rem var(--f-body);color:var(--panel);background:var(--fig);padding:2px 6px;border-radius:3px;letter-spacing:.08em}
+nav.tabs a{font-weight:700;border-radius:4px}
+nav.tabs a[aria-current="page"]{color:var(--panel);background:var(--fig)}
+h1{font:400 clamp(1.5rem,4vw,2.3rem)/1.35 var(--f-manga);text-transform:uppercase;letter-spacing:.01em;color:var(--fig);text-shadow:2px 2px 0 var(--gold)}
+h2{font-weight:800;font-size:1.3rem}
+h3{font-weight:800}
+.eyebrow{font-weight:700;color:var(--fig)}
+/* manga panels */
+.panel,.controls,.verdict,.legend div,.mcscale li{border:2px solid var(--line);border-radius:4px;box-shadow:var(--shadow)}
+.mcscale li{border-left-width:8px;border-left-color:var(--lv)}
+.grade{border:2px solid currentColor;border-radius:4px}
+.pill{border:2px solid var(--line);font-weight:700}
+.pill[aria-pressed="true"]{background:var(--fig);border-color:var(--line);color:#fff}
+input[type=search],select{border:2px solid var(--line);border-radius:4px;background:var(--panel)}
+.iam select{border-radius:4px;color:var(--fig);border-color:var(--line);box-shadow:3px 3px 0 var(--gold)}
+.row:hover{background:var(--accent-soft)}
+.list{border-top:2px solid var(--line)}
+.chip.sum{border-color:var(--fig);color:var(--fig)}
+.message{border-left:6px solid var(--fig)}
+.banner{border:2px dashed var(--fig)}
+/* start-page hero: art panel + speech-bubble lede */
+.hero.slim{position:relative}
+.mhero{margin:0;border:3px solid var(--line);box-shadow:6px 6px 0 var(--fig);background:var(--panel);overflow:hidden;border-radius:2px}
+.mhero img{display:block;width:100%;height:auto;aspect-ratio:720/603;object-fit:cover}
+.hero-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:28px;align-items:center}
+@media (max-width:760px){.hero-grid{grid-template-columns:minmax(0,1fr)}.mhero{order:-1;max-width:none}.mhero img{aspect-ratio:16/8;object-position:50% 18%}}
+.finder{border:2px solid var(--line)!important;border-radius:4px!important;box-shadow:var(--shadow)!important}
+.hero .lede{position:relative;color:var(--ink);background:var(--panel);border:2px solid var(--line);border-radius:22px;padding:14px 18px;margin-top:14px;max-width:56ch}
+.hero .lede::before{content:"";position:absolute;left:34px;top:-14px;border:12px solid transparent;border-bottom:14px solid var(--line);border-top:0}
+.hero .lede::after{content:"";position:absolute;left:37px;top:-9px;border:9px solid transparent;border-bottom:11px solid var(--panel);border-top:0}
 </style>
 <link rel="stylesheet" href="/helper/helper.css">
 <script src="/helper/helper.js" defer></script>
@@ -717,8 +765,9 @@ function shelfRow(title, sub, list, more) {
 function viewStart() {
   const p = state.profile, pool = startPool(); SHOWN = new Set();
   const ages = [['', 'Every age'], ...AGES.map(([a]) => [a, a])];
-  let h = `<div class="stack" style="gap:32px"><section class="hero slim"><div class="intro"><h1>What is your kid reading, and what does it teach?</h1>
+  let h = `<div class="stack" style="gap:32px"><section class="hero slim"><div class="hero-grid"><div class="intro"><h1>What is your kid reading, and what does it teach?</h1>
     <p class="lede">A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, graded S to F from your own tradition's view.</p></div>
+    <figure class="mhero"><img src="../img/manga_hero.webp" width="720" height="603" alt="Three manga-style kids and a white goose cheering, holding books" fetchpriority="high"></figure></div>
     <div class="finder"><div class="sel"><label for="profile" class="trad">Your tradition${profileSelect('profile', p)}</label>
     <label for="agesel">Reader's age<select id="agesel">${ages.map(([v,l])=>`<option value="${esc(v)}" ${(state.age||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label></div>
     ${findBox()}</div></section>`;
