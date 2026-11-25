@@ -596,6 +596,7 @@ function applyRealign(d, a) {
   d.frames = [...new Set([...(d.frames || []), ...(a.frames || [])])];
   d.groups = [...(d.groups || []), ['New', (a.frames || []).filter(f => !(d.groups || []).some(g => g[1].includes(f)))]];
   d.lenses = [...new Set([...(d.lenses || []).filter(l => !retire.has(l)), ...(a.lenses || [])])];
+  const EX = new Set((a.exclude || []).map(String)); d.series = d.series.filter(s => !EX.has(String(s.id)));
   const E = a.entries || {}, AD = a.adult || {}, OL = a.outlook || {};
   d.series.forEach(s => { const k = String(s.id); if (E[k]) s.entry = E[k]; if (AD[k]) { s.adult = true; s.adult_reason = AD[k]; } if (OL[k]) s._ol = OL[k]; });
   d.series.forEach(s => { const e = s.entry, x = e && a.series[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return;
