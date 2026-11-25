@@ -1,0 +1,165 @@
+/* The Blessed Fig Tree: "Ask a question" helper.
+   Uses each page's own CSS variables where they exist (home page: --card, --ink, --line, --wood-*;
+   manga guide: --panel, --rule, --accent; almanac: --sheet, --rule, --spruce-3), with the home page's values as fallbacks. */
+.bfh-btn, .bfh-panel {
+  --bfh-bg: var(--card, var(--panel, var(--sheet, #fbefc9)));
+  --bfh-ink: var(--ink, #3a2410);
+  --bfh-muted: var(--muted, #6b4d2c);
+  --bfh-line: var(--line, var(--rule, #c9a45a));
+  --bfh-soft: var(--band, var(--tone, var(--rule-soft, #e6c987)));
+  --bfh-accent: var(--leaf, var(--accent, var(--spruce-3, #3a6a28)));
+  --bfh-on-accent: var(--leaf-ink, var(--panel, #ffffff));
+  --bfh-trim: var(--ribbon, var(--warm, var(--maple, #b5803f)));
+  --bfh-focus: var(--fig, var(--maple, #6a2a68));
+  --bfh-wood: var(--wood-mid, var(--accent, var(--spruce-3, #8a5a2b)));
+  --bfh-wood-dark: var(--wood-dark, var(--ink, #3b2412));
+  --bfh-wood-light: var(--wood-light, rgba(255, 255, 255, 0.28));
+  --bfh-on-wood: var(--cream, var(--panel, var(--sheet, #fbeec6)));
+  --bfh-display: var(--font-display, var(--f-display, "Young Serif", Georgia, "Times New Roman", serif));
+  --bfh-body: var(--font-body, var(--f-body, "Karla", system-ui, -apple-system, "Segoe UI", sans-serif));
+  --bfh-safe-b: env(safe-area-inset-bottom, 0px);
+  --bfh-safe-r: env(safe-area-inset-right, 0px);
+  box-sizing: border-box;
+  font-family: var(--bfh-body);
+  letter-spacing: normal;
+  text-transform: none;
+}
+.bfh-btn *, .bfh-panel *, .bfh-panel *::before, .bfh-panel *::after { box-sizing: border-box; }
+/* The host pages style bare form, input, h2, h3 and p (the home page notches them with clip-path); undo that inside the widget. */
+.bfh-btn, .bfh-panel form, .bfh-panel input, .bfh-panel button, .bfh-panel h2, .bfh-panel h3, .bfh-panel p, .bfh-panel a {
+  clip-path: none; text-shadow: none; text-wrap: wrap; max-width: none; letter-spacing: normal; text-transform: none;
+}
+.bfh-panel form { display: flex; grid-template-columns: none; background: none; border: 0; box-shadow: none; padding: 0; margin: 0; }
+.bfh-panel h2, .bfh-panel h3 { display: block; background: none; border: 0; box-shadow: none; padding: 0; }
+
+/* ---- the floating button: a small wooden sign, like the site's Menu button ---- */
+.bfh-btn {
+  position: fixed;
+  right: max(16px, var(--bfh-safe-r));
+  bottom: calc(16px + var(--bfh-safe-b));
+  z-index: 40;
+  display: inline-flex; align-items: center; gap: 8px;
+  margin: 0; padding: 7px 14px 9px 9px;
+  min-height: 44px;
+  font: 800 0.95rem/1 var(--bfh-body);
+  color: var(--bfh-on-wood);
+  background: var(--bfh-wood);
+  border: 4px solid var(--bfh-wood-dark);
+  border-radius: 4px;
+  box-shadow: inset 0 3px 0 var(--bfh-wood-light), inset 0 -3px 0 rgba(0, 0, 0, 0.25), 0 4px 0 rgba(0, 0, 0, 0.35);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.bfh-btn:hover { filter: brightness(1.1); }
+.bfh-btn:active { transform: translateY(2px); box-shadow: inset 0 3px 0 var(--bfh-wood-light), inset 0 -3px 0 rgba(0, 0, 0, 0.25), 0 2px 0 rgba(0, 0, 0, 0.35); }
+.bfh-btn-icon {
+  display: inline-grid; place-items: center;
+  width: 24px; height: 24px; border-radius: 50%;
+  font: 700 1rem/1 var(--bfh-display);
+  color: var(--bfh-wood-dark);
+  background: var(--bfh-on-wood);
+}
+html.bfh-raised .bfh-btn { bottom: calc(76px + var(--bfh-safe-b)); }
+
+/* ---- the panel ---- */
+.bfh-panel {
+  position: fixed;
+  right: max(16px, var(--bfh-safe-r));
+  bottom: calc(80px + var(--bfh-safe-b));
+  z-index: 41;
+  width: min(380px, calc(100vw - 32px));
+  max-height: min(580px, calc(100vh - 110px));
+  max-height: min(580px, calc(100dvh - 110px));
+  display: flex; flex-direction: column; gap: 10px;
+  padding: 14px 16px 16px;
+  overflow-y: auto; overscroll-behavior: contain;
+  color: var(--bfh-ink);
+  background: var(--bfh-bg);
+  border: 1px solid var(--bfh-line);
+  border-top: 3px solid var(--bfh-trim);
+  border-radius: 4px;
+  box-shadow: 0 0 0 4px var(--bfh-bg), 0 0 0 5px var(--bfh-trim), 0 14px 34px rgba(30, 16, 4, 0.35);
+  font-size: 16px; line-height: 1.5; text-align: left;
+}
+.bfh-panel[hidden] { display: none !important; }
+html.bfh-raised .bfh-panel { bottom: calc(140px + var(--bfh-safe-b)); max-height: min(580px, calc(100dvh - 170px)); }
+@media (prefers-reduced-motion: no-preference) {
+  .bfh-panel:not([hidden]) { animation: bfh-in 0.16s ease-out; }
+  @keyframes bfh-in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+}
+
+.bfh-panel .bfh-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.bfh-panel .bfh-title { margin: 0; font: 400 1.3rem/1.15 var(--bfh-display); color: var(--bfh-ink); }
+.bfh-panel .bfh-close {
+  flex: none; width: 36px; height: 36px; margin: -4px -6px 0 0; padding: 0;
+  font: 400 1.6rem/1 var(--bfh-body); color: var(--bfh-ink);
+  background: transparent; border: 0; border-radius: 4px; cursor: pointer;
+}
+.bfh-panel .bfh-close:hover { background: var(--bfh-soft); }
+.bfh-panel .bfh-sub { margin: 0; font-size: 0.86rem; color: var(--bfh-muted); }
+
+.bfh-panel .bfh-form { display: flex; gap: 8px; margin: 0; }
+.bfh-panel .bfh-input {
+  flex: 1; min-width: 0; margin: 0;
+  padding: 10px 12px; min-height: 44px;
+  font: 400 16px/1.2 var(--bfh-body);   /* 16px keeps phones from zooming in */
+  color: var(--bfh-ink); background: var(--bfh-bg);
+  border: 2px solid var(--bfh-line); border-radius: 4px;
+}
+.bfh-panel .bfh-input::placeholder { color: var(--bfh-muted); opacity: 0.8; }
+.bfh-panel .bfh-go {
+  flex: none; min-height: 44px; margin: 0; padding: 0 16px;
+  font: 700 1rem/1 var(--bfh-body);
+  color: var(--bfh-on-accent); background: var(--bfh-accent);
+  border: 2px solid var(--bfh-accent); border-radius: 4px; cursor: pointer;
+}
+.bfh-panel .bfh-go:hover { filter: brightness(1.1); }
+
+.bfh-btn:focus-visible, .bfh-panel a:focus-visible, .bfh-panel button:focus-visible, .bfh-input:focus-visible {
+  outline: 3px solid var(--bfh-focus); outline-offset: 2px;
+}
+.bfh-panel .bfh-input:focus { border-color: var(--bfh-focus); }
+
+.bfh-panel .bfh-out:empty { display: none; }
+.bfh-panel .bfh-out { display: flex; flex-direction: column; gap: 8px; }
+.bfh-panel .bfh-status, .bfh-panel .bfh-asked { margin: 0; font-size: 0.85rem; color: var(--bfh-muted); }
+.bfh-panel .bfh-asked { font-style: italic; overflow-wrap: anywhere; }
+.bfh-panel .bfh-answer {
+  display: flex; flex-direction: column; gap: 6px;
+  padding: 12px 14px;
+  background: var(--bfh-soft);
+  border-left: 4px solid var(--bfh-focus);
+}
+.bfh-panel .bfh-q { margin: 0; font: 700 1rem/1.3 var(--bfh-body); color: var(--bfh-ink); }
+.bfh-panel .bfh-q { font-weight: 700 !important; }   /* the manga guide sets h1-h3 to 400 !important */
+.bfh-panel .bfh-a { margin: 0; font-size: 0.95rem; max-width: none; overflow-wrap: anywhere; }
+.bfh-panel a { color: var(--bfh-accent); font-weight: 700; text-underline-offset: 3px; }
+.bfh-panel .bfh-more { align-self: flex-start; font-size: 0.9rem; }
+.bfh-panel .bfh-more::after { content: " \2192"; }
+
+.bfh-panel .bfh-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.bfh-panel .bfh-chips:empty { display: none; }
+.bfh-panel .bfh-chips-label { flex-basis: 100%; margin: 2px 0 0; font-size: 0.8rem; font-weight: 700; color: var(--bfh-muted); }
+.bfh-panel .bfh-chip {
+  margin: 0; padding: 7px 11px; min-height: 36px;
+  font: 500 0.88rem/1.25 var(--bfh-body); text-align: left;
+  color: var(--bfh-ink); background: var(--bfh-bg);
+  border: 1px solid var(--bfh-line); border-radius: 4px; cursor: pointer;
+}
+.bfh-panel .bfh-chip:hover { border-color: var(--bfh-accent); color: var(--bfh-accent); }
+
+.bfh-sr { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+/* ---- phones: the panel becomes a sheet along the bottom ---- */
+@media (max-width: 520px) {
+  .bfh-btn { padding: 6px 12px 8px 8px; font-size: 0.9rem; }
+  .bfh-panel, html.bfh-raised .bfh-panel {
+    left: max(8px, env(safe-area-inset-left, 0px)); right: max(8px, var(--bfh-safe-r));
+    bottom: calc(8px + var(--bfh-safe-b));
+    width: auto;
+    max-height: calc(100vh - 24px); max-height: calc(100dvh - 24px);
+  }
+  html.bfh-open .bfh-btn { display: none; }
+}
+
+@media print { .bfh-btn, .bfh-panel { display: none !important; } }

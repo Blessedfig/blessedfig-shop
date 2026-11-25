@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="google-site-verification" content="lxiaxjK8k86Db2JialU-q_i7OVnPfgRf6lqy8BvUdMg">
+<link rel="stylesheet" href="/helper/helper.css">
+<script src="/helper/helper.js" defer></script>
 <title>The Blessed Fig Tree | Independent Bookstore in Antigo, WI</title>
 <meta name="description" content="The Blessed Fig Tree is an independent bookstore at 800 5th Ave in downtown Antigo, Wisconsin, with mostly new books, manga, snacks and art. Open Tuesday through Sunday.">
 <link rel="canonical" href="https://www.theblessedfigtree.com/">
@@ -305,6 +307,7 @@ section > .wrap > h2 { max-width: calc(100% - 76px); }
 /* phone nav: collapsed behind a Menu button */
 .menu-btn { display: none; font-family: var(--font-body); font-weight: 800; font-size: 1rem; letter-spacing: 0.02em; color: var(--cream); background: var(--wood-mid); border: 4px solid var(--wood-dark); box-shadow: inset 0 3px 0 var(--wood-light), inset 0 -3px 0 #5e3a18; padding: 6px 16px 8px; text-shadow: 1px 1px 0 var(--wood-dark); cursor: pointer; }
 .menu-btn:focus-visible { outline: 3px solid var(--fig); outline-offset: 2px; }
+.menu-btn { min-height: 44px; }
 .stick { display: none; }
 @media (max-width: 800px) {
   .menu-btn { display: inline-block; }
@@ -497,9 +500,201 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   .mo { bottom: calc(12px * var(--s)); }
 }
 
+/* ================= LAYOUT REFRESH (Nov 24) ================= */
+/* wider trunk on big screens: --tx is the trunk's horizontal pixel scale; the content column grows with it */
+:root { --tx: var(--s); --wrapw: 1000px; --notch: polygon(0 var(--n), var(--n) var(--n), var(--n) 0, calc(100% - var(--n)) 0, calc(100% - var(--n)) var(--n), 100% var(--n), 100% calc(100% - var(--n)), calc(100% - var(--n)) calc(100% - var(--n)), calc(100% - var(--n)) 100%, var(--n) 100%, var(--n) calc(100% - var(--n)), 0 calc(100% - var(--n))); }
+@media (min-width: 1400px) { :root { --tx: 3.5; --wrapw: 1170px; } }
+@media (min-width: 1680px) { :root { --tx: 3.75; --wrapw: 1240px; } }
+.wrap { max-width: var(--wrapw); }
+.tk { width: min(100%, calc(400px * var(--tx))); background-size: calc(400px * var(--tx)) calc(256px * var(--s)); }
+.rb-roots, .rb-myc { width: calc(800px * var(--tx)); margin-left: calc(-400px * var(--tx)); }
+.fd { left: calc(50% - 20px * var(--tx)); }
+.gmini { left: calc(50% + 76px * var(--tx)); }
+.rb-mole { left: calc(50% - 152px * var(--tx)); }
+.ts { left: calc(50% - 70px * var(--tx)); }
+.rb-worm { left: calc(50% + 18px * var(--tx)); }
+@media (max-width: 700px) { .rb-mole { left: calc(50% - 95px * var(--s)); } }
+.mo, .btn.sm { min-height: 44px; }
+
+/* photo frames: parchment checker + faint pixel fig while loading; the picture fades in on top */
+.ph { display: block; position: relative; overflow: hidden; border: 4px solid var(--wood-dark); clip-path: var(--notch);
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 14" shape-rendering="crispEdges" opacity=".26"><path fill="%239bd05a" d="M4 0h1v1h-1zM3 1h1v1h-1zM6 1h1v1h-1z"/><path fill="%234f8a2e" d="M5 0h1v1h-1zM4 1h2v1h-2zM5 2h2v1h-2z"/><path fill="%237a4a20" d="M4 2h1v1h-1zM5 3h1v1h-1z"/><path fill="%233f1a3e" d="M3 4h1v1h-1zM7 4h1v1h-1zM2 5h1v1h-1zM8 5h1v1h-1zM1 6h1v1h-1zM9 6h1v1h-1zM1 7h1v1h-1zM9 7h1v1h-1zM1 8h1v1h-1zM9 8h1v1h-1zM1 9h1v1h-1zM9 9h1v1h-1zM1 10h1v1h-1zM9 10h1v1h-1zM2 11h1v1h-1zM8 11h1v1h-1zM3 12h1v1h-1zM7 12h1v1h-1zM4 13h3v1h-3z"/><path fill="%237a2f78" d="M4 4h3v1h-3zM3 5h5v1h-5zM2 6h7v1h-7zM3 7h6v1h-6zM3 8h6v1h-6zM2 9h7v1h-7zM2 10h7v1h-7zM3 11h5v1h-5zM4 12h3v1h-3z"/><path fill="%23b46bb0" d="M2 7h1v1h-1zM2 8h1v1h-1z"/></svg>') 50% 50% / 33px 42px no-repeat,
+    repeating-conic-gradient(#ead3a0 0 25%, #e3c78f 0 50%) 0 0 / 16px 16px; }
+.ph img, .ph picture { display: block; width: 100%; }
+.ph img { height: auto; border: 0 !important; clip-path: none; }
+.mosaic .shot img.ld, .ph img.ld { opacity: 0; }
+@media (prefers-reduced-motion: no-preference) { .ph img, .mosaic .shot img { transition: opacity 0.45s ease, transform 0.3s; } }
+.seal .ph { border: 0; clip-path: none; }
+.strip .ph img { image-rendering: pixelated; aspect-ratio: 192 / 56; }
+.parking .ph { aspect-ratio: 1 / 1; }
+.parking .ph img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; }
+.plate figcaption { padding-top: 8px; }
+
+/* header nav: bigger, roomier pills on desktop */
+@media (min-width: 801px) {
+  header.top { gap: 18px 24px; padding-bottom: 22px; }
+  nav#sitenav { gap: 12px 14px; }
+  nav#sitenav a { display: inline-flex; align-items: center; min-height: 50px; padding: 8px 20px 10px; font-size: 1.05rem; }
+  section { scroll-margin-top: 70px; }
+  #top { scroll-margin-top: 70px; }
+}
+
+/* sticky compact nav (desktop/tablet) */
+nav.snav { position: fixed; z-index: 40; top: 0; left: 0; right: 0; display: block; gap: 0; font-size: 1rem;
+  background: repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.04) 0 3px, transparent 3px 13px), var(--wood);
+  border-bottom: 4px solid var(--wood-dark); box-shadow: inset 0 3px 0 var(--wood-light), inset 0 -3px 0 #5e3a18, 0 4px 0 rgba(16, 8, 4, 0.45);
+  transform: translateY(-120%); visibility: hidden; }
+nav.snav.on { transform: none; visibility: visible; }
+@media (prefers-reduced-motion: no-preference) {
+  nav.snav { transition: transform 0.22s ease, visibility 0s linear 0.22s; }
+  nav.snav.on { transition: transform 0.22s ease; }
+}
+.snav-in { max-width: var(--wrapw); margin: 0 auto; display: flex; align-items: center; gap: 18px; padding: 5px 16px 6px; }
+nav.snav a { clip-path: none; background: none; border: 0; box-shadow: none; padding: 0; text-shadow: none; }
+nav.snav .snav-logo { flex: none; line-height: 0; }
+nav.snav .snav-logo img { width: 128px; height: auto; filter: drop-shadow(0 2px 0 rgba(36, 20, 10, 0.6)); }
+.snav-links { display: flex; flex-wrap: nowrap; gap: 6px; margin-left: auto; }
+nav.snav .snav-links a { display: inline-flex; align-items: center; min-height: 44px; padding: 6px 13px 8px; border: 3px solid transparent; color: var(--cream);
+  font: 700 0.95rem/1 var(--font-body); letter-spacing: 0.02em; text-decoration: none; text-shadow: 1px 1px 0 var(--wood-dark); clip-path: var(--notch); }
+nav.snav .snav-links a:hover { background: var(--wood-mid); border-color: var(--wood-dark); }
+nav.snav .snav-links a.cur { background: var(--fig); border-color: #3f1a3e; box-shadow: inset 0 3px 0 #8e4a8b, inset 0 -3px 0 #4d1d4b; color: #fff; }
+nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px; }
+@media (max-width: 800px) { nav.snav { display: none; } }
+
+/* back to top: a pixel fig, bottom-left (bottom-right is kept free for a chat button) */
+.totop { position: fixed; z-index: 35; left: max(12px, env(safe-area-inset-left, 0px)); bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+  width: 56px; height: 56px; display: grid; place-items: center; background: var(--wood-mid); border: 4px solid var(--wood-dark);
+  box-shadow: inset 0 3px 0 var(--wood-light), inset 0 -3px 0 #5e3a18; clip-path: var(--notch);
+  opacity: 0; visibility: hidden; transform: translateY(8px); }
+.totop.on { opacity: 1; visibility: visible; transform: none; }
+.totop svg { display: block; width: 22px; height: 40px; filter: drop-shadow(2px 2px 0 rgba(36, 20, 10, 0.55)); }
+.totop:hover { filter: brightness(1.12); }
+.totop:focus-visible { outline: 3px solid var(--gold); outline-offset: -8px; }
+@media (prefers-reduced-motion: no-preference) {
+  .totop { transition: opacity 0.2s, transform 0.2s, visibility 0s linear 0.2s; }
+  .totop.on { transition: opacity 0.2s, transform 0.2s; }
+  html { scroll-behavior: smooth; }
+}
+
+/* hero: on phones the two buttons sit side by side, and the cat window comes up */
+@media (max-width: 800px) {
+  header.top { padding-bottom: 6px; }
+  .hero { gap: 22px; padding-block: 6px 30px; }
+  .hero h1 { margin-top: 6px; }
+  .hero p.lede { margin-top: 14px; }
+  .cta-row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin-top: 18px; max-width: 520px; }
+  .cta-row .btn { display: flex; align-items: center; justify-content: center; text-align: center; min-height: 54px; padding: 8px 10px 10px; line-height: 1.2; }
+}
+@media (max-width: 420px) {
+  .hero h1 { font-size: 2.3rem; }
+  .hero p.lede { font-size: 1.04rem; padding: 11px 13px; line-height: 1.5; }
+  .cta-row .btn { font-size: 0.95rem; padding-inline: 6px; }
+}
+
+/* visit: intro across the top, then hours and storefront side by side at the same height */
+.visit-intro { display: grid; gap: 16px; margin-top: 22px; }
+.visit-row { display: grid; gap: 22px; margin-top: 26px; }
+.hours-card { background: var(--card); border: 4px solid var(--wood-mid); box-shadow: inset 0 0 0 3px #f3dfaa; padding: 22px 24px 20px; clip-path: var(--notch); }
+.hours-card .hours-title { margin-top: 0; padding-bottom: 10px; border-bottom: 3px dashed var(--line); }
+.hours-card .hours { margin: 14px 0 12px; gap: 6px 22px; }
+.photo.fill { display: flex; flex-direction: column; min-width: 0; }
+.photo.fill .ph { aspect-ratio: 4 / 3; }
+.photo.fill .ph img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+@media (min-width: 801px) {
+  .visit-intro { grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: 32px; }
+  .visit-row { grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.25fr); gap: 28px; align-items: stretch; }
+  .photo.fill .ph { aspect-ratio: auto; flex: 1 1 auto; min-height: 280px; }
+}
+
+/* alternate picture sides */
+.split.flip { grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr); align-items: center; }
+.split.flip > .photocol { order: -1; }
+.split.nook { margin-top: 36px; }
+@media (max-width: 800px) {
+  .split.flip { grid-template-columns: minmax(0, 1fr); }
+  .split.flip > .photocol { order: 0; }
+}
+
+@media (min-width: 641px) and (max-width: 800px) {
+  .split.flip { grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 24px; }
+  .split.flip > .photocol { order: -1; }
+  .visit-row { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: stretch; }
+  .photo.fill .ph { aspect-ratio: auto; flex: 1 1 auto; min-height: 240px; }
+}
+@media (min-width: 801px) { .split.nook { grid-template-columns: minmax(0, 0.72fr) minmax(0, 1.28fr); gap: 36px; } }
+@media (min-width: 1000px) { #explore .places { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
+/* inside the shop: a mosaic with one big picture, captions on little wooden tags */
+.gallery.mosaic { display: grid; gap: 12px; margin-top: 16px; grid-template-columns: repeat(4, minmax(0, 1fr)); grid-template-rows: repeat(2, minmax(0, 1fr)); aspect-ratio: 2.7 / 1; }
+.mosaic .shot { display: block; position: relative; overflow: hidden; min-height: 0; border: 4px solid var(--wood-dark); clip-path: var(--notch);
+  background: repeating-conic-gradient(#ead3a0 0 25%, #e3c78f 0 50%) 0 0 / 16px 16px; }
+.mosaic .shot:nth-child(1) { grid-column: 1 / 3; grid-row: 1 / 3; }
+.mosaic .shot:nth-child(2) { grid-column: 3; grid-row: 1 / 3; }
+.mosaic .shot img { width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; border: 0; clip-path: none; }
+.mosaic .shot span { position: absolute; left: 8px; bottom: 8px; max-width: calc(100% - 16px); padding: 3px 10px 5px; background: var(--wood-dark); color: var(--cream);
+  font: 700 0.85rem/1.3 var(--font-body); box-shadow: inset 0 2px 0 var(--wood-mid); text-shadow: 1px 1px 0 #000; }
+.mosaic .shot:hover { border-color: var(--gold); }
+.mosaic .shot:focus-visible { outline: 3px solid var(--gold); outline-offset: -10px; }
+@media (prefers-reduced-motion: no-preference) { html:not(.nomo) .mosaic .shot:hover img { transform: scale(1.03); } }
+@media (max-width: 640px) {
+  .gallery.mosaic { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-template-rows: none; aspect-ratio: auto; gap: 10px; }
+  .mosaic .shot:nth-child(1) { grid-column: 1 / 3; grid-row: auto; aspect-ratio: 4 / 3; }
+  .mosaic .shot:nth-child(2) { grid-column: 1; grid-row: 2 / 4; }
+  .mosaic .shot:nth-child(3), .mosaic .shot:nth-child(4) { grid-column: 2; aspect-ratio: 4 / 3; }
+  .mosaic .shot span { font-size: 0.8rem; left: 6px; bottom: 6px; max-width: calc(100% - 12px); }
+}
+
+/* shelves: book-spine cards; intro beside them on wide screens */
+#shelves .places { gap: 14px; }
+#shelves .places li { --spine: var(--fig); background: var(--card); border: 3px solid var(--wood-mid); border-left: 12px solid var(--spine); box-shadow: inset 0 0 0 2px #f3dfaa; padding: 12px 16px 14px; }
+#shelves .places li:nth-child(2) { --spine: var(--leaf); }
+#shelves .places li:nth-child(3) { --spine: #2f4f7a; }
+#shelves .places li:nth-child(4) { --spine: var(--wood-mid); }
+#shelves .places li:nth-child(5) { --spine: #9a3a2a; }
+#shelves .places li:nth-child(6) { --spine: #b07a14; }
+#shelves .places span { color: #5c4024; }
+@media (min-width: 1000px) {
+  .shelves-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2.1fr); gap: 32px; align-items: start; }
+  .shelves-grid .section-intro { margin-top: 26px; font-size: 1.08rem; line-height: 1.65; }
+  .shelves-grid .places { margin-top: 26px; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+/* explore: intro beside the pixel strip on wide screens */
+@media (min-width: 1000px) {
+  .explore-head { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 32px; align-items: center; margin-top: 12px; }
+  .explore-head .section-intro, .explore-head .strip { margin-top: 0; }
+  .explore-head .strip { justify-self: end; width: 100%; }
+}
+@media (min-width: 1000px) { #stay .parking .ph { aspect-ratio: 4 / 3; } }
+
+/* reviews: a swipe row on phones and narrow tablets */
+.rq-ctrl { display: none; }
+@media (max-width: 900px) {
+  .rqs { columns: auto; display: flex; gap: 12px; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; padding: 2px 2px 6px; margin-inline: -2px; scrollbar-width: none; }
+  .rqs::-webkit-scrollbar { display: none; }
+  .rqs .rq { flex: 0 0 min(80%, 330px); margin: 0; scroll-snap-align: start; }
+  .rqs:focus-visible { outline: 3px solid var(--fig); outline-offset: 2px; }
+  .rq-ctrl { display: flex; align-items: center; justify-content: center; gap: 12px; margin: 6px 0 4px; }
+  .rq-dots { display: flex; gap: 6px; }
+  .rq-dots i { width: 9px; height: 9px; background: #d9bd80; box-shadow: inset 0 0 0 2px var(--wood-mid); }
+  .rq-dots i.cur { background: var(--fig); box-shadow: inset 0 0 0 2px #3f1a3e; }
+  .rq-btn { width: 44px; height: 44px; display: grid; place-items: center; padding: 0; cursor: pointer; background: var(--band); border: 4px solid var(--wood-dark);
+    box-shadow: inset 0 3px 0 #f6e6b3, inset 0 -3px 0 #c9a45a; clip-path: var(--notch); }
+  .rq-btn::before { content: ""; width: 10px; height: 14px; background: var(--wood-dark); clip-path: polygon(0 0, 100% 50%, 0 100%); }
+  .rq-btn.prev::before { transform: scaleX(-1); }
+  .rq-btn:disabled { opacity: 0.4; cursor: default; }
+  .rq-btn:focus-visible { outline: 3px solid var(--fig); outline-offset: -8px; }
+}
+
 </style>
 
 <a class="skip" href="#visit">Skip to content</a>
+<nav class="snav" id="snav" aria-label="Jump to section">
+  <div class="snav-in">
+    <a class="snav-logo" href="#top"><picture><source srcset="img/title.webp" type="image/webp"><img src="img/title.png" alt="The Blessed Fig Tree" width="1100" height="469" loading="lazy" decoding="async"></picture></a>
+    <div class="snav-links"><a href="#visit">Visit</a><a href="#shelves">Shelves</a><a href="#stay">Stay</a><a href="#explore">Explore</a><a href="#play">Play</a><a href="#find">Find us</a></div>
+  </div>
+</nav>
 <div class="tree">
   <div class="sc" aria-hidden="true"><i class="sc-stars"></i><i class="sc-p1"></i><i class="sc-p2"></i><i class="sc-p3"></i><i class="sc-p4"></i></div>
   <div class="tk" aria-hidden="true"></div>
@@ -554,11 +749,12 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   <div class="wrap">
     <span class="label">Visit the shop</span>
     <h2>An independent bookstore</h2>
-    <div class="split">
-      <div class="copy">
-        <p>The Blessed Fig Tree opened in downtown Antigo in May 2023, in the former Buckalows Eatery at 800 Fifth Avenue. It carries about 4,000 books, mostly new with some used: history, philosophy, fantasy, Wisconsin and outdoors titles, and a manga section the shop counts among the best in northern Wisconsin.</p>
-        <p>The owner runs the shop and is usually downstairs during business hours. Ask for a recommendation, grab an unusual snack, or pick out something to read.</p>
-        <div>
+    <div class="visit-intro">
+      <p>The Blessed Fig Tree opened in downtown Antigo in May 2023, in the former Buckalows Eatery at 800 Fifth Avenue. It carries about 4,000 books, mostly new with some used: history, philosophy, fantasy, Wisconsin and outdoors titles, and a manga section the shop counts among the best in northern Wisconsin.</p>
+      <p>The owner runs the shop and is usually downstairs during business hours. Ask for a recommendation, grab an unusual snack, or pick out something to read.</p>
+    </div>
+    <div class="visit-row">
+        <div class="hours-card">
           <h3 class="hours-title">Bookstore hours</h3>
           <dl class="hours">
             <dt>Monday</dt><dd>Closed</dd>
@@ -571,12 +767,10 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
           </dl>
           <p class="small">Central time. Holiday hours may vary.</p>
         </div>
-      </div>
-      <div class="photocol"><figure class="photo">
-        <img loading="lazy" decoding="async" src="img/store.webp" alt="The Blessed Fig Tree storefront on the corner of 5th Avenue in downtown Antigo, with book racks outside and a carved wooden sign reading The Blessed Fig Tree" width="1400" height="1050">
+      <figure class="photo fill">
+        <span class="ph"><img loading="lazy" decoding="async" src="img/store.webp" alt="The Blessed Fig Tree storefront on the corner of 5th Avenue in downtown Antigo, with book racks outside and a carved wooden sign reading The Blessed Fig Tree" width="1400" height="1050"></span>
         <figcaption>800 5th Ave, downtown Antigo.</figcaption>
       </figure>
-      </div>
     </div>
     <div class="reviews">
       <div class="score"><b>4.9</b><span aria-label="4.9 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span><small>73 Google reviews</small></div>
@@ -586,19 +780,19 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
     <div class="rqs"><figure class="rq"><blockquote>&ldquo;The best bookstore ever. Super friendly with a huge selection of books in every topic. Perfect place to gift shop.&rdquo;</blockquote><figcaption>Caitlyn B. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;My family and I stopped in today, and I’m convinced the owner is at least part fae. We parted with our money way too easily and enthusiastically for this place to be anything other than magical. What an absolute gem of a shop.&rdquo;</blockquote><figcaption>Sharon F. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Friendly staff. Large variety of new and used books as well as many book related things. So much to see.&rdquo;</blockquote><figcaption>Heather S. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Wonderful selection and the owner is so sweet&rdquo;</blockquote><figcaption>Christin W. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Fun shop to explore! Loved the atmosphere the most.&rdquo;</blockquote><figcaption>Windy-Marie K. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Manga lovers will love this store!&rdquo;</blockquote><figcaption>Melissa E. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;What a fun place and the owner is super nice.&rdquo;</blockquote><figcaption>Momma J &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Great bookstore! Something for everyone!&rdquo;</blockquote><figcaption>Matt R. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Great place with varied selection of books, treats, gifts, statues, etc.&rdquo;</blockquote><figcaption>A. W. &middot; Google review</figcaption></figure></div>
     <details class="rqmore"><summary class="btn alt">More reviews</summary><div class="rqs"><figure class="rq"><blockquote>&ldquo;Very good store with a broad selection. And if they didn’t have it, they knew where to find it. The staff are also very knowledgeable on a broad array of topics and give great book recommendations.&rdquo;</blockquote><figcaption>Mason W. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;You can tell he has so much pride in his incredible store. He has a lot of great merchandise and some of the coolest products.&rdquo;</blockquote><figcaption>Sabrina D. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;This place has a magical vibe that is rare and beautiful. I went 3 times in my one week vacation to the area.&rdquo;</blockquote><figcaption>Brian O. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Great independent book store! A good selection for only a fraction of the cost that you would pay at a Barnes and Noble. Knowledgeable and friendly staff!&rdquo;</blockquote><figcaption>Kayla M. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;This place is absolutely amazing! Such a beautiful little store with so much creativity and love put into it! Definitely worth checking out.&rdquo;</blockquote><figcaption>Andrew L. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Popped in today for the first time, such a great addition to our downtown! Bright smiles, helpful staff &amp; AMAZING selection of a wide variety of books, local artist work &amp; a welcoming environment!&rdquo;</blockquote><figcaption>Ellen D. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;Wow. Went to the store for the first time yesterday. Owner is very nice and knowledgeable. There is a huge selection to choose from. I also found some unique treasures as well. I cannot wait to stop in again.&rdquo;</blockquote><figcaption>Bonnie S. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;I stopped in on a whim and absolutely loved my experience here. The owner is friendly and helpful, and they have a good variety of books. I loved their section of books relating to tabletop RPGs.&rdquo;</blockquote><figcaption>Zachary W. &middot; Google review</figcaption></figure><figure class="rq"><blockquote>&ldquo;We love this place! Adorable book shop (don’t miss the secret reading nook - pure magic)&rdquo;</blockquote><figcaption>Eleanor P. &middot; Google review</figcaption></figure></div></details>
     <h3 class="gal-title">Inside the shop</h3>
-    <div class="gallery four">
+    <div class="gallery four mosaic">
       <button class="shot" type="button" data-cap="The manga wall"><img loading="lazy" decoding="async" src="img/s1.webp" alt="A long wall of shelves packed with manga volumes and books, with collectible figures on top, under framed prints and a neon sign" width="1100" height="825"><span>The manga wall</span></button>
       <button class="shot" type="button" data-cap="Fantasy shelves"><img loading="lazy" decoding="async" src="img/s2.webp" alt="Two white bookcases of fantasy books and wizard-themed gifts, with dragon figures on top and plants hanging nearby" width="825" height="1100"><span>Fantasy shelves</span></button>
       <button class="shot" type="button" data-cap="Imported snacks and drinks"><img loading="lazy" decoding="async" src="img/s3.webp" alt="A wooden counter and shelves of imported chips, candy and snacks beside a glass-door drinks cooler" width="1100" height="825"><span>Imported snacks and drinks</span></button>
       <button class="shot" type="button" data-cap="Books by the front windows"><img loading="lazy" decoding="async" src="img/s4.webp" alt="Wooden bookshelves of books and manga under the front windows, with a sign reading War and Peace and pendant lanterns overhead" width="1100" height="874"><span>Books by the front windows</span></button>
     </div>
-    <div class="split nook">
+    <div class="split nook flip">
       <div class="copy">
         <h3 class="hours-title">Der Kinderwald</h3>
         <p><b>The Child&rsquo;s Forest</b> is the secret reading nook tucked inside the shop: a woodland hideaway with a little wooden door, built for kids and for anyone young at heart. Bring a book from the shelves and settle in.</p>
       </div>
       <div class="photocol"><figure class="photo">
-        <img loading="lazy" decoding="async" src="img/nook.webp" alt="A woodland-themed hallway in the bookstore with forest wallpaper, tree trunks, ivy, a pair of owls on a shelf, a stone wall and a small wooden cabin door at the end" width="900" height="900">
+        <span class="ph"><img loading="lazy" decoding="async" src="img/nook.webp" alt="A woodland-themed hallway in the bookstore with forest wallpaper, tree trunks, ivy, a pair of owls on a shelf, a stone wall and a small wooden cabin door at the end" width="900" height="900"></span>
         <figcaption>Der Kinderwald, the kids&rsquo; reading nook.</figcaption>
       </figure></div>
     </div>
@@ -609,6 +803,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   <div class="wrap">
     <span class="label">On the shelves</span>
     <h2>What you will find inside</h2>
+    <div class="shelves-grid">
     <p class="section-intro">About 4,000 personally selected books, mostly new with some used mixed in, instead of millions of algorithm-sorted listings. Walk in looking for one thing and leave with something you did not expect.</p>
     <ul class="places">
       <li><b>Manga</b><span>A long wall of it, the section the shop is best known for, with collectible figures along the top shelves.</span></li>
@@ -618,6 +813,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
       <li><b>Tabletop games</b><span>A shelf of books for tabletop roleplaying games, for players and the people who run them.</span></li>
       <li><b>Snacks, art and gifts</b><span>Imported chips, candy and drinks, work by local artists, and figures and statues worth a second look.</span></li>
     </ul>
+    </div>
   </div>
 </section>
 
@@ -627,8 +823,8 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
     <h2>Sleep above the shelves</h2>
     <p class="section-intro">We rent furnished apartments with full kitchens in the same building, so you can spend a weekend, a work trip or a month above the shop. Check-in is at 3:00 PM and check-out is by 11:00 AM.</p>
     <div class="parking">
-      <figure class="plate"><img loading="lazy" decoding="async" class="lotphoto" src="img/a1.webp" alt="Apartment A living room with a tan sofa, navy daybed and bookshelves" width="1100" height="825"><figcaption>The 3-Bed Reading Apartment</figcaption></figure>
-      <figure class="plate"><img loading="lazy" decoding="async" class="lotphoto" src="img/c1.webp" alt="Apartment C living room with a reading corner" width="1100" height="825"><figcaption>The 1-Bedroom Downtown</figcaption></figure>
+      <figure class="plate"><span class="ph"><img loading="lazy" decoding="async" class="lotphoto" src="img/a1.webp" alt="Apartment A living room with a tan sofa, navy daybed and bookshelves" width="1100" height="825"></span><figcaption>The 3-Bed Reading Apartment</figcaption></figure>
+      <figure class="plate"><span class="ph"><img loading="lazy" decoding="async" class="lotphoto" src="img/c1.webp" alt="Apartment C living room with a reading corner" width="1100" height="825"></span><figcaption>The 1-Bedroom Downtown</figcaption></figure>
     </div>
     <p style="margin-top:20px"><a class="btn" href="https://stays.theblessedfigtree.com">See the apartments and request a stay</a></p>
   </div>
@@ -638,8 +834,10 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   <div class="wrap">
     <span class="label">Explore Antigo</span>
     <h2>A working Northwoods town</h2>
+    <div class="explore-head">
     <p class="section-intro"><a href="https://www.langladecounty.org/business-info/tourism/" target="_blank" rel="noopener">Langlade County</a> calls itself the County of Trails, and Antigo is an Ice Age Trail Community. You can spend a day on foot without moving the car.</p>
-    <figure class="strip"><img loading="lazy" decoding="async" src="img/strip.png" alt="Pixel-art Northwoods morning: pines, a lake with the sun low over it, a hiker on a trail with a yellow trail blaze, a deer at the shore and a small brick downtown with a clock tower" width="576" height="168"></figure>
+    <figure class="strip"><span class="ph"><img loading="lazy" decoding="async" src="img/strip.png" alt="Pixel-art Northwoods morning: pines, a lake with the sun low over it, a hiker on a trail with a yellow trail blaze, a deer at the shore and a small brick downtown with a clock tower" width="576" height="168"></span></figure>
+    </div>
     <ul class="places">
       <li><b>Downtown</b><span>Boutiques, cafés, antiques and locally owned restaurants, including the Dixie Lunch, open for over 75 years. Yesterday's Sign Park tells the story of the main street through signs from past eras.</span></li>
       <li><b>The public library</b><span>Directly across the street from the shop.</span></li>
@@ -657,15 +855,15 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
     <span class="label">Play the game</span>
     <h2>The Unwritten</h2>
     <div class="notice"><strong>A huge work in progress:</strong><span>this is an early, unfinished build. Expect rough edges, placeholder lines, missing story and things that change from week to week.</span></div>
-    <div class="split">
+    <div class="split flip">
       <div class="copy">
         <p>A free pixel-art adventure in the style of the 1990s role-playing games, set in the real streets of Antigo. Start in the shop at 800 5th Ave, walk downtown, step into the places you know and see where the story takes you.</p>
         <p>It plays right here in your browser. Nothing to install, no account, and your save stays on your own device.</p>
         <p class="small">Best on a computer with a keyboard. Much of the town and most of the story are still being built.</p>
-        <p><a class="btn" href="unwritten/">Play the work-in-progress build</a></p>
+        <p><a class="btn" href="unwritten/">Play the work-in-progress build</a> <a class="btn alt" href="unwritten/guide/">Game guide</a></p>
       </div>
       <div class="photocol"><figure class="photo">
-        <picture><source srcset="img/game.webp" type="image/webp"><img loading="lazy" decoding="async" src="img/game.jpg" alt="Pixel-art screenshot of The Unwritten: a red robin in a maroon A jersey stands outside The Blessed Fig Tree on 5th Avenue, beside its book racks and hanging sign, with a crosswalk and passing cars" width="1152" height="864" style="image-rendering:pixelated"></picture>
+        <span class="ph"><picture><source srcset="img/game.webp" type="image/webp"><img loading="lazy" decoding="async" src="img/game.jpg" alt="Pixel-art screenshot of The Unwritten: a red robin in a maroon A jersey stands outside The Blessed Fig Tree on 5th Avenue, beside its book racks and hanging sign, with a crosswalk and passing cars" width="1152" height="864" style="image-rendering:pixelated"></picture></span>
         <figcaption>Outside the shop on 5th Ave, in the game (work in progress).</figcaption>
       </figure></div>
     </div>
@@ -690,11 +888,11 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
       <span>Parking in front of the building is limited to 2 hours. For longer visits, use the Guest Parking lot across the street.</span>
     </div>
 <div class="parking">
-      <figure class="plate"><img loading="lazy" decoding="async" class="pixmap" src="img/lotroute.webp" alt="Aerial map of the corner of 5th Ave and Clermont St. A bed pin marks the bookstore and apartments on the north side of 5th Ave. The Guest Parking lot, marked P, is south of 5th Ave. A red route leads from the lot up the Clermont St sidewalk, across 5th Ave to the pin." width="800" height="800"><figcaption>Park in the Guest Parking lot (red P). Follow the red route up the Clermont St sidewalk and across 5th Ave to the pin. The shop is right there. The curb in front of the store is the 2-hour parking.</figcaption></figure>
-      <figure class="plate"><img loading="lazy" decoding="async" class="lotphoto" src="img/lot.webp" alt="The overnight parking lot across the street at night, with vintage Kelvinator, Cities Service and Shell signs at the edge and a painted arrow on the pavement" width="800" height="600"><figcaption>The overnight lot across the street, with the vintage signs at its edge.</figcaption></figure>
+      <figure class="plate"><span class="ph"><img loading="lazy" decoding="async" class="pixmap" src="img/lotroute.webp" alt="Aerial map of the corner of 5th Ave and Clermont St. A bed pin marks the bookstore and apartments on the north side of 5th Ave. The Guest Parking lot, marked P, is south of 5th Ave. A red route leads from the lot up the Clermont St sidewalk, across 5th Ave to the pin." width="800" height="800"></span><figcaption>Park in the Guest Parking lot (red P). Follow the red route up the Clermont St sidewalk and across 5th Ave to the pin. The shop is right there. The curb in front of the store is the 2-hour parking.</figcaption></figure>
+      <figure class="plate"><span class="ph"><img loading="lazy" decoding="async" class="lotphoto" src="img/lot.webp" alt="The overnight parking lot across the street at night, with vintage Kelvinator, Cities Service and Shell signs at the edge and a painted arrow on the pavement" width="800" height="600"></span><figcaption>The overnight lot across the street, with the vintage signs at its edge.</figcaption></figure>
     </div>
     <footer>
-      <div class="seal"><img loading="lazy" decoding="async" src="img/eng.webp" alt="Engraved fig tree with a python coiled around its trunk, beneath a banner reading The Blessed Fig Tree" width="760" height="1013"></div>
+      <div class="seal"><span class="ph"><img loading="lazy" decoding="async" src="img/eng.webp" alt="Engraved fig tree with a python coiled around its trunk, beneath a banner reading The Blessed Fig Tree" width="760" height="1013"></span></div>
       <div class="lines">
         <b>The Blessed Fig Tree</b>
         <div>800 5th Ave, Antigo, WI 54409</div>
@@ -728,6 +926,8 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
   });
 })();
 </script>
+
+<a class="totop" id="totop" href="#top" aria-label="Back to top"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 20" shape-rendering="crispEdges" width="22" height="40" aria-hidden="true" focusable="false"><path fill="#3f1a3e" d="M5 0h1v1h-1zM4 1h1v1h-1zM6 1h1v1h-1zM3 2h1v1h-1zM7 2h1v1h-1zM2 3h1v1h-1zM8 3h1v1h-1zM1 4h1v1h-1zM9 4h1v1h-1zM1 5h9v1h-9zM3 11h1v1h-1zM7 11h1v1h-1zM2 12h1v1h-1zM8 12h1v1h-1zM1 13h1v1h-1zM9 13h1v1h-1zM1 14h1v1h-1zM9 14h1v1h-1zM1 15h1v1h-1zM9 15h1v1h-1zM1 16h1v1h-1zM9 16h1v1h-1zM2 17h1v1h-1zM8 17h1v1h-1zM3 18h1v1h-1zM7 18h1v1h-1zM4 19h3v1h-3z"/><path fill="#f2b84b" d="M5 1h1v1h-1zM4 2h3v1h-3zM3 3h5v1h-5zM2 4h7v1h-7z"/><path fill="#9bd05a" d="M4 7h1v1h-1zM3 8h1v1h-1zM6 8h1v1h-1z"/><path fill="#4f8a2e" d="M5 7h1v1h-1zM4 8h2v1h-2zM5 9h2v1h-2z"/><path fill="#7a4a20" d="M4 9h1v1h-1zM5 10h1v1h-1z"/><path fill="#7a2f78" d="M4 11h3v1h-3zM3 12h5v1h-5zM2 13h7v1h-7zM3 14h6v1h-6zM3 15h6v1h-6zM2 16h7v1h-7zM3 17h5v1h-5zM4 18h3v1h-3z"/><path fill="#b46bb0" d="M2 14h1v1h-1zM2 15h1v1h-1z"/></svg></a>
 
 <dialog id="lb" aria-label="Photo viewer">
       <img loading="lazy" decoding="async" id="lbimg" alt="">
@@ -765,6 +965,87 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
       new IntersectionObserver(function (es) { hide[id] = es[0].isIntersecting; upd(); }, { threshold: 0.15 }).observe(el);
     });
   }
+})();
+</script>
+<script>
+/* layout refresh: image fade-in, sticky nav + current section, back to top, review swipe row */
+(function () {
+  var d = document, w = window;
+  // fade pictures in once they arrive (only ones not already loaded, so nothing flashes)
+  var imgs = d.querySelectorAll(".ph img, .mosaic .shot img");
+  for (var i = 0; i < imgs.length; i++) (function (im) {
+    if (im.complete && im.naturalWidth) return;
+    im.classList.add("ld");
+    function done() { im.classList.remove("ld"); }
+    im.addEventListener("load", done); im.addEventListener("error", done);
+  })(imgs[i]);
+
+  var snav = d.getElementById("snav"), top = d.getElementById("totop"), head = d.querySelector("header.top");
+  var reduce = w.matchMedia && w.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if ("IntersectionObserver" in w) {
+    if (head && snav) new IntersectionObserver(function (es) { snav.classList.toggle("on", !es[0].isIntersecting); }, { threshold: 0 }).observe(head);
+    var links = snav ? snav.querySelectorAll(".snav-links a") : [], map = {};
+    for (var j = 0; j < links.length; j++) map[links[j].getAttribute("href").slice(1)] = links[j];
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        for (var k in map) { map[k].classList.remove("cur"); map[k].removeAttribute("aria-current"); }
+        var a = map[e.target.id]; if (a) { a.classList.add("cur"); a.setAttribute("aria-current", "location"); }
+      });
+    }, { rootMargin: "-35% 0px -60% 0px" });
+    for (var id in map) { var sec = d.getElementById(id); if (sec) io.observe(sec); }
+  }
+  if (top) {
+    var tick = false;
+    function onScroll() { tick = false; top.classList.toggle("on", w.scrollY > w.innerHeight * 0.9); }
+    w.addEventListener("scroll", function () { if (!tick) { tick = true; w.requestAnimationFrame(onScroll); } }, { passive: true });
+    onScroll();
+    top.addEventListener("click", function (e) {
+      e.preventDefault();
+      w.scrollTo({ top: 0, behavior: reduce || d.documentElement.classList.contains("nomo") ? "auto" : "smooth" });
+      var logo = d.querySelector(".mark-logo"); if (logo) logo.focus({ preventScroll: true });
+      if (history.replaceState) history.replaceState(null, "", location.pathname + location.search);
+    });
+  }
+
+  // reviews: swipe row on narrow screens, with previous/next buttons and position dots
+  var narrow = w.matchMedia("(max-width: 900px)");
+  var rows = d.querySelectorAll(".rqs");
+  for (var r = 0; r < rows.length; r++) (function (row, n) {
+    var cards = row.querySelectorAll(".rq"); if (cards.length < 2) return;
+    var ctrl = d.createElement("div"), dots = "";
+    for (var c = 0; c < cards.length; c++) dots += "<i></i>";
+    ctrl.className = "rq-ctrl";
+    ctrl.innerHTML = '<button type="button" class="rq-btn prev" aria-label="Previous review"></button><div class="rq-dots" aria-hidden="true">' + dots +
+      '</div><button type="button" class="rq-btn next" aria-label="Next review"></button>';
+    row.parentNode.insertBefore(ctrl, row.nextSibling);
+    var dl = ctrl.querySelectorAll(".rq-dots i"), prev = ctrl.querySelector(".prev"), next = ctrl.querySelector(".next"), cur = 0;
+    row.id = row.id || "rqs" + n;
+    prev.setAttribute("aria-controls", row.id); next.setAttribute("aria-controls", row.id);
+    function pos(k) { return cards[k].offsetLeft - cards[0].offsetLeft; }
+    function upd() {
+      var x = row.scrollLeft, best = 0;
+      for (var k = 1; k < cards.length; k++) if (Math.abs(pos(k) - x) < Math.abs(pos(best) - x)) best = k;
+      var end = x + row.clientWidth >= row.scrollWidth - 4;
+      if (end) best = cards.length - 1;
+      cur = best;
+      for (var k2 = 0; k2 < dl.length; k2++) dl[k2].classList.toggle("cur", k2 === cur);
+      prev.disabled = x <= 4; next.disabled = end;
+    }
+    function go(k) { k = Math.max(0, Math.min(cards.length - 1, k)); row.scrollTo({ left: pos(k), behavior: reduce ? "auto" : "smooth" }); }
+    prev.addEventListener("click", function () { go(cur - 1); });
+    next.addEventListener("click", function () { go(cur + 1); });
+    var t = false;
+    row.addEventListener("scroll", function () { if (!t) { t = true; w.requestAnimationFrame(function () { t = false; upd(); }); } }, { passive: true });
+    function mode() {
+      if (narrow.matches) { row.setAttribute("tabindex", "0"); row.setAttribute("role", "region"); row.setAttribute("aria-label", "Google reviews, scroll sideways for more"); upd(); }
+      else { row.removeAttribute("tabindex"); row.removeAttribute("role"); row.removeAttribute("aria-label"); }
+    }
+    if (narrow.addEventListener) narrow.addEventListener("change", mode); else if (narrow.addListener) narrow.addListener(mode);
+    var det = row.closest("details"); if (det) det.addEventListener("toggle", upd);
+    w.addEventListener("resize", upd);
+    mode();
+  })(rows[r], r);
 })();
 </script>
 </body>
