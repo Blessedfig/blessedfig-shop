@@ -187,7 +187,7 @@ Dominant lenses: Nihilism (explored and argued against), Might makes right (expl
 | Tradition vs secular-rational | 8 | Cynical, transactional worldview; religion appears as a gun-running church. |
 | Survival vs self-expression | 2 | Money and staying alive come first for everyone. |
 
-Closest clusters: The Far West; Borderer; Orthodox Europe
+Closest clusters: The Far West; Greater Appalachia; Orthodox Europe
 
 Japanese source culture: Rock's salaryman background, his estrangement from his parents and the yakuza arc (ch. 22-37) contrast Japanese corporate conformity and giri (duty) with Roanapur's lawlessness; Yukio's honor suicide draws on Japanese tragic ideals that the story mourns rather than praises.
 
