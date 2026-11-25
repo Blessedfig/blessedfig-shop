@@ -598,7 +598,8 @@ function applyRealign(d, a) {
   d.lenses = [...new Set([...(d.lenses || []).filter(l => !retire.has(l)), ...(a.lenses || [])])];
   const EX = new Set((a.exclude || []).map(String)); d.series = d.series.filter(s => !EX.has(String(s.id)));
   const E = a.entries || {}, AD = a.adult || {}, OL = a.outlook || {};
-  d.series.forEach(s => { const k = String(s.id); if (E[k]) s.entry = E[k]; if (AD[k]) { s.adult = true; s.adult_reason = AD[k]; } if (OL[k]) s._ol = OL[k]; });
+  const UN = new Set(a.unadult || []);
+  d.series.forEach(s => { const k = String(s.id); if (UN.has(k)) { s.adult = false; s.adult_reason = null; } if (E[k]) s.entry = E[k]; if (AD[k]) { s.adult = true; s.adult_reason = AD[k]; } if (OL[k]) s._ol = OL[k]; });
   d.series.forEach(s => { const e = s.entry, x = e && a.series[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return;
     const drop = new Set(x.lenses_drop || []); e.lenses = (e.lenses || []).filter(l => !drop.has(l.lens));
     (x.lenses_add || []).forEach(l => { if (!e.lenses.some(m => m.lens === l.lens)) e.lenses.push(l); });
