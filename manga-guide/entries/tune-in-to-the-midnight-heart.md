@@ -29,7 +29,7 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Socio-cultural | The streaming era: VTubers, subscriber counts, Tek Tok comments, talent agencies. ANN's reviewers find Arisu a self-absorbed, dominating lead; Anime UK News finds him earnest. Parents and children clash over insecure creative careers (Nene's father; about ch. 40-69). |
 
 Outlook: Hopeful — each girl moves closer to her dream, broken friendships and a father-daughter conflict are mended, and Apollo has confessed; the series is not finished and the mystery is still open.
-Hope source: E — E — the way through is effort and growing stronger: every arc turns on practice, coaching and facing fear (Iko confronting her former bully, Rikka singing her own songs); love between two (L), the Apollo mystery, is the close second.
+Hope source: E — the way through is effort and growing stronger: every arc turns on practice, coaching and facing fear (Iko confronting her former bully, Rikka singing her own songs); love between two (L), the Apollo mystery, is the close second.
 
 ## Content scores
 

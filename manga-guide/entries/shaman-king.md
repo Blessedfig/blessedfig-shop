@@ -24,12 +24,12 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Meta lens | How it reads the series |
 |---|---|
 | Evolutionary biology | Kin and clan drive much of the plot: the Asakura and Tao families groom heirs, a twin feud runs through it, and Hao's hatred begins with his mother's death (backstory, v26). Mating appears only as an arranged engagement that becomes real love (v19-20) and a family at the end (ch. 300). |
-| Pragmatic | Battles are won by "strength of soul" (furyoku) and by cooperation; Yoh's plan to let Hao become king and strike while he sleeps (v25) is practical rather than heroic. The final victory is persuasion, not force. |
+| Pragmatic | Battles are won by strength of soul (furyoku) and by cooperation; Yoh's plan to let Hao become king and strike while he sleeps (v25) is practical rather than heroic. The final victory is persuasion, not force. |
 | Religious | Religion is the whole setting. Shamanism, Japanese onmyodo and itako mediumship, Taoist jiangshi, Ainu spirits, a fictional Native American tribe, Christian angel names (the X-Laws), Buddhist Buddhas and bodhisattvas (the Gandhara), Hell and its kings, and the Great Spirit as the place all souls return to. Takei chose shamanism to explore how many cultures relate to the dead (Wikipedia). The heroes are mediums who speak with and channel the dead, which several faith traditions forbid. |
 | Socio-cultural | A multicultural team from Japan, China, Hokkaido, Germany, England and New York; Takei wanted to show different cultures, backgrounds and values (Wikipedia). Critics note the design of the African American character Chocolove (Joco) resembled blackface caricature; VIZ edited his lips (Wikipedia; TV Tropes). Black Nerd Problems calls out racism in the anime. |
 
 Outlook: Hopeful — Hao is not destroyed but persuaded to forgive humanity and postpone his plan, the dead the heroes loved return to help, and the last chapter is a peaceful reunion; many deaths along the way are undone by resurrection.
-Hope source: R — R — the way through is forgiveness: Asanoha tells her son that hating humans means hating himself and that mercy saves him too (fan wiki), and Ren, Lyserg, Chocolove and Ryu each turn from hatred or crime; friendship (F) is the close second.
+Hope source: R — the way through is forgiveness: Asanoha tells her son that hating humans means hating himself and that mercy saves him too (fan wiki), and Ren, Lyserg, Chocolove and Ryu each turn from hatred or crime; friendship (F) is the close second.
 
 ## Content scores
 

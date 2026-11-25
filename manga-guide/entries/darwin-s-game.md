@@ -144,12 +144,12 @@ Dominant lenses: Pragmatism, Might makes right (critiqued), Utilitarianism, Comm
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
 | Pragmatism | 6 | Affirmed | B | Strategy, information (Rein) and rational choice win every arc; points treated as tools (fan wiki). |
-| Might makes right | 5 | Critiqued | C | Wang, Banda-kun and the Eighth rule by force and fall; Shuka's belief that the strong always win is revised after Kaname beats her (fan wiki). |
+| Might makes right | 5 | Critiqued | D | Wang, Banda-kun and the Eighth rule by force and fall; Shuka's belief that the strong always win is revised after Kaname beats her (fan wiki). |
 | Utilitarianism | 5 | Explored | C | The Game Master runs a death game to train champions against the Greed, a greater-good logic the story weighs (Wikipedia). |
 | Communitarianism | 4 | Affirmed | B | Sunset Ravens as a found family; Shibuya made a safe zone (Wikipedia). |
 | Pacifism / nonviolence | 3 | Explored | C | Kaname's early refusal to kill breaks after Shinozuka's death and returns as the clan's rule against killing unless necessary (TV Tropes; ANN). |
-| Collectivism/authoritarianism | 3 | Critiqued | C | The Eighth's rule of Shibuya by terror and a clan bound to a religious movement (fan wiki). |
-| Nihilism | 3 | Critiqued | C | Killers who play for fun or points (Banda-kun, Wang) are defeated. |
+| Collectivism/authoritarianism | 3 | Critiqued | D | The Eighth's rule of Shibuya by terror and a clan bound to a religious movement (fan wiki). |
+| Nihilism | 3 | Critiqued | D | Killers who play for fun or points (Banda-kun, Wang) are defeated. |
 | Bushido / honor code | 2 | Explored | C | Xuelan's assassin-clan code and formal clan duels (Wikipedia). |
 | Christian, Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Secular humanism, Classical virtue ethics, Stoicism, Duty ethics, Confucian ethics, Critical theory, Marxism, Feminism, Postmodernism, Existentialism, Absurdism, Anti-natalism, Expressive individualism, Hedonism, Consumerism, Traditionalism, Progressivism, Libertarianism, Liberalism, Anarchism, Patriotism / nationalism, Transhumanism, Environmentalism | 0 | Not present | none | No meaningful evidence found. |
 

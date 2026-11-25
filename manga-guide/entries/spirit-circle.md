@@ -28,8 +28,8 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Religious | Rebirth is literally true in this world: souls rise from rock to animal to human to higher beings (TV Tropes). Religious authorities often do harm: elders keep a human sacrifice for morale, a Church orders a herbalist killed as a witch. Yet priests also appear as flawed helpers (Vann's wayward priest companion). Faith readers weigh the strong forgiveness message against a reincarnation framework that differs from most Western faiths. |
 | Socio-cultural | Human cruelty driven by fear, superstition and the search for meaning, not fate, keeps the cycle going (Wrong Every Time). Future lives raise science-fiction questions: banning genetic research, keeping minds in jars, "recycling" the spirits of the dead. |
 
-Outlook: Hopeful: across tragic past lives, the present ends in reconciliation, the marks of the old grudge fade, and the spirits who helped Fuuta are reborn as humans (TV Tropes).
-Hope source: R: forgiveness and redemption are the way through: Fuuta's empathy wears down Kouko's hatred, and the essays read forgiveness of the world and oneself as the core (Wrong Every Time; ComicsAlliance); Rune's promise that something good will happen adds a note of simple hope (J).
+Outlook: Hopeful — across tragic past lives, the present ends in reconciliation, the marks of the old grudge fade, and the spirits who helped Fuuta are reborn as humans (TV Tropes).
+Hope source: R — forgiveness and redemption are the way through: Fuuta's empathy wears down Kouko's hatred, and the essays read forgiveness of the world and oneself as the core (Wrong Every Time; ComicsAlliance); Rune's promise that something good will happen adds a note of simple hope (J).
 
 ## Content scores
 

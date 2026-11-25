@@ -28,8 +28,8 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Religious | No religion appears beyond an occult club played for laughs (ch. 7). Faith readers weigh a clean, kind comedy against a same-sex crush that the story cheers on. |
 | Socio-cultural | Anime Feminist reads it as part of a newer wave of BL about identity rather than sex, a gentle gay romantic comedy styled after 1980s-90s Rumiko Takahashi comedies. Otaku USA calls it a treat for LGBT readers. The gay lead is ordinary rather than tragic or fetishized. |
 
-Outlook: Hopeful: nobody is hurt, Nakamura grows braver, and he ends with the friendship he wanted, if not yet the romance.
-Hope source: E: effort and growing braver are the way through: each failed attempt builds toward the honest moment in ch. 11; friendship (F) is the reward.
+Outlook: Hopeful — nobody is hurt, Nakamura grows braver, and he ends with the friendship he wanted, if not yet the romance.
+Hope source: E — effort and growing braver are the way through: each failed attempt builds toward the honest moment in ch. 11; friendship (F) is the reward.
 
 ## Content scores
 

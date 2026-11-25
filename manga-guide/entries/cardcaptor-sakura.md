@@ -29,7 +29,7 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Socio-cultural | The production notes say every kind of love is shown without judging whether it is right (Wikipedia). That includes same-sex love, which made the series a touchstone for queer fans, and romances between adults and children, which critics call uncomfortable (ANN Manga Guide; Wikipedia). |
 
 Outlook: Hopeful — everyone keeps the one they love most, the judge Yue becomes a friend instead of a master, Toya and Yukito are together, and Syaoran returns for good.
-Hope source: F — F — the way through is love of family and friends: Sakura beats Yue because she will not hurt him and because the cards and her friends stand by her (v6, v11); love between two (L), Sakura and Syaoran, is the close second.
+Hope source: F — the way through is love of family and friends: Sakura beats Yue because she will not hurt him and because the cards and her friends stand by her (v6, v11); love between two (L), Sakura and Syaoran, is the close second.
 
 ## Content scores
 

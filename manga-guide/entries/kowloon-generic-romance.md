@@ -28,8 +28,8 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 | Religious | No faith shapes the plot. Chinese paper talismans hang on the walls, but in this world they hide computer error codes (anime ep. 10). A dead woman is recreated by technology, not by any afterlife. Faith readers weigh the strong affirmation of each person's worth against unmarried adult sex, constant smoking and a story where meaning is made entirely by people. |
 | Socio-cultural | A love letter to Kowloon Walled City and to nostalgia, which Anime Feminist reads as also questioning nostalgia's links to Japanese imperialism in Hong Kong. A pharmaceutical company's cover-up and a rich family's use of people as replacements (Miyuki was adopted to stand in for a dead son) are the social villains. The Encyclopedia of Science Fiction (via Wikipedia) reads it as a study of memory and identity through cloning, mind uploading and virtual reality. |
 
-Outlook: Bittersweet: the original Kujirai is dead and the city that held Kudou's regret dissolves, but Reiko survives as herself and, in the anime's ending, meets Kudou again outside the walls (the manga's ending was not confirmed in sources opened).
-Hope source: S: the way through is being true to yourself: Reiko refuses to die so that Kudou can be free and insists on becoming fully herself (ANN vols. 7-8; anime ep. 12); friendship with Yaomay and Xiaohei is the close second (F).
+Outlook: Bittersweet — the original Kujirai is dead and the city that held Kudou's regret dissolves, but Reiko survives as herself and, in the anime's ending, meets Kudou again outside the walls (the manga's ending was not confirmed in sources opened).
+Hope source: S — the way through is being true to yourself: Reiko refuses to die so that Kudou can be free and insists on becoming fully herself (ANN vols. 7-8; anime ep. 12); friendship with Yaomay and Xiaohei is the close second (F).
 
 ## Content scores
 
