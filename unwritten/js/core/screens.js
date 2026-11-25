@@ -2,8 +2,12 @@
 // =====================================================================
 //  TITLE AND THE TOWN MAP
 // =====================================================================
+// The Blessed Fig Tree's chrome title logo, a small "presented by" mark under the menu (Nov 24).
+// assets/ui/blessedfig_title.png is the 1100x469 original; the game draws the 96x41 nearest-neighbour copy.
+// Loaded like the other game images; if it fails, the title screen simply draws without it.
+const FIG_LOGO = new Image(); FIG_LOGO.onerror = () => { FIG_LOGO.failed = true; }; FIG_LOGO.src = 'assets/ui/blessedfig_title_96.png';
 MODES.title = {
-  enter() { this.sel = 0; this.opts = (loadGame() ? ['CONTINUE'] : []).concat(typeof storeLoad === 'function' && storeLoad() ? ['THE STORE'] : []).concat(['NEW GAME', 'ALMANAC']); },
+  enter() { this.t0 = frame; this.sel = 0;this.opts = (loadGame() ? ['CONTINUE'] : []).concat(typeof storeLoad === 'function' && storeLoad() ? ['THE STORE'] : []).concat(['NEW GAME', 'ALMANAC']); },
   update() {
     if (pressed.up) this.sel = (this.sel + this.opts.length - 1) % this.opts.length;
     if (pressed.down) this.sel = (this.sel + 1) % this.opts.length;
@@ -21,6 +25,16 @@ MODES.title = {
     txt('THE UNWRITTEN', SW / 2, 70, '#ffd860', 'center');
     txt('a Fig Tree tale · Antigo, Wisconsin', SW / 2, 86, '#c8c8e0', 'center', SMALL);
     this.opts.forEach((o, i) => txt((i === this.sel ? '▶ ' : '  ') + o, SW / 2 - 40, 140 + i * 14, i === this.sel ? '#ffd860' : '#fff'));
+    // presented-by mark: between the menu (ends by y 190 with four options) and the work-in-progress label (y 274)
+    if (!FIG_LOGO.failed && FIG_LOGO.complete && FIG_LOGO.naturalWidth) {
+      const a = Math.min(1, Math.max(0, (frame - (this.t0 || 0)) / 45));   // fades in over the first 3/4 second
+      const lw = FIG_LOGO.naturalWidth, lh = FIG_LOGO.naturalHeight;
+      ctx.save(); ctx.globalAlpha = a;
+      txt('PRESENTED BY', SW / 2, 204, '#8a8aa0', 'center', SMALL);
+      ctx.imageSmoothingEnabled = false;
+      ctx.drawImage(FIG_LOGO, Math.round((SW - lw) / 2), 214, lw, lh);
+      ctx.restore();
+    }
     txt('A HUGE WORK IN PROGRESS · EARLY BUILD', SW / 2, SH - 14, '#8a8aa0', 'center', SMALL);
   }
 };
