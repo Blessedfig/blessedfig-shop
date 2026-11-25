@@ -146,7 +146,7 @@ Dominant lenses: Classical virtue ethics and Communitarianism (affirmed), Buddhi
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
 | Classical virtue ethics | 6 | Affirmed | A | Courage, loyalty, perseverance and self-sacrifice are what make Yusuke and his friends strong; Genkai's training as character formation (ch. 27-35, 51). |
-| Buddhist ideas | 5 | Explored | B | The Sanzu River, King Enma's judgment, heaven and hell and judgment by deeds shape the setting (ch. 1-17); Togashi cites Buddhist afterlife beliefs (Wikipedia); used as world-building rather than doctrine. Replaces the old Dharmic score. |
+| Buddhist ideas | 5 | Explored | B | The Sanzu River, King Enma's judgment, heaven and hell and judgment by deeds shape the setting (ch. 1-17); Togashi cites Buddhist afterlife beliefs (Wikipedia); used as world-building rather than doctrine. |
 | Communitarianism | 5 | Affirmed | A | Team Urameshi as found family; friends' rage at Yusuke's death unlocks their power (ch. 146-147); Genkai leaves her land to all of them (ch. 175). |
 | Might makes right | 5 | Explored | C | The Demon Plane is ruled by the strongest; Toguro became a demon to keep his strength (ch. 90); Yusuke's answer is a regular tournament for the throne, which keeps strength as the measure while ending war. |
 | Pagan/occult | 4 | Explored | C | Ghosts, yokai, demons, spirit energy and psychic powers throughout; Togashi's occult interests (Wikipedia). |
