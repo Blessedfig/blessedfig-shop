@@ -1,313 +1,288 @@
 # Gachiakuta
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Series facts, awards and the premise come from Wikipedia, Kodansha USA, Penguin Random House and MyAnimeList pages that were opened. The main parent guide (Common Sense Media, anime) and several reviews (Anime News Network, School Library Journal, The A.V. Club, Bleeding Cool, Beneath the Tangles, Anime Corner, Otaku Orbit) were opened. The fan wiki blocked most requests: only its Story Arcs page and Rudo's character page were read. So chapter numbers come from arc ranges, and the volume numbers here are estimates marked "likely". No volume-to-chapter list could be opened. Items resting on general knowledge are marked "(from general knowledge; to verify)". Most published reviews cover the anime (2025), not the manga.
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 15 lookups). The series is ongoing: sources reach **chapter 176** ("In," uncollected, November 2026), with 19 Japanese volumes (July 16, 2026) and 13 English volumes (vol. 13, November 24, 2026; vol. 14 due January 12, 2027) (English Wikipedia). Series facts, the volume and chapter-title list, the vol. 1 synopsis and anime episode summaries come from English Wikipedia (the series article and the List of Gachiakuta characters, both opened through the raw-text endpoint), the AniList and MangaUpdates APIs, and Kodansha USA's series page (16+). Arc chapter ranges come from Beebom (to ch. 131, August 2025). Reviews opened: ANN (manga vol. 1), School Library Journal's Good Comics for Kids (vol. 1), Anime Feminist (anime premiere), ANN (anime episode 17) and Anime Corner (anime episode 13, Amo's backstory); FandomWire on Amo. Creator statements: Kodansha's K MANGA blog interview with Kei Urana and ANN's 2025 interview. The fan wiki was not opened. Chapter numbers for scenes after ch. 43 are approximate. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Gachiakuta. Japanese: ガチアクタ (Gachiakuta; Wikipedia glosses it roughly as "Legit Trash", and School Library Journal as "serious trash") |
-| Creators | Kei Urana (story and art). Hideyoshi Andou (graffiti designs, lettering, calligraphy and visual flourishes, per ANN interview). Kodansha USA credits the series "By Kei Urana and Hideyoshi Andou" |
-| Origin | Weekly Shonen Magazine (Kodansha), a shonen magazine aimed at boys and teens. Serialized from February 16, 2022. Ongoing; 19 volumes in Japan as of July 2026 (Wikipedia). The fan wiki has chapter pages up to at least ch. 166 (search result) |
-| English edition | Kodansha USA (Kodansha Comics), licensed March 2023; vol. 1 January 16, 2024. Publisher age rating: **16+** (Kodansha USA series page, opened). School Library Journal rates it Older Teen, 16+. The Kodansha page (as viewed) listed vols. 1-8 out and vol. 9 for January 20, 2026; Penguin Random House listed vol. 8 (October 21, 2025) as "Book 8 of 17". The current English count is likely higher (to verify) |
-| Anime | Bones Film. Director Fumihiko Suganuma, series composition Hiroshi Seko, music Taku Iwasaki, character design Satoshi Ishino. 24 episodes, July 6 to December 2025; second season announced (Wikipedia). Streams on Crunchyroll. Common Sense Media lists it **TV-MA** and 15+. MyAnimeList lists PG-13 |
-| Recognition | 50th Kodansha Manga Award, shonen category (2026); nominated 2023 and 2024. Next Manga Award 2022: 13th in print, most popular with English voters. Crunchyroll Anime Awards (10th, 2026): Best New Series, Best Background Art, Best Character Design. New York Times Graphic Books and Manga list (vol. 1, February to July 2026). Circana BookScan monthly top-20 lists since July 2025 (all Wikipedia, opened). No sales figures found |
-| Other guides | Common Sense Media (anime): 15+, "Violence, themes of trafficking in dystopian anime" (opened). School Library Journal (vol. 1): Older Teen 16+ (opened). Kodansha USA: 16+. CineParenting has a guide (found, not readable). Plugged In: none found |
+| Title | Gachiakuta. Japanese: ガチアクタ (roughly "legit trash") (Wikipedia; AniList id 144946, confirmed) |
+| Creators | Kei Urana (story and art), born in Hiroshima, winner of a 2019 rookie manga award and a former assistant on Atsushi Ohkubo's Fire Force; this is her first serialized work (K MANGA blog interview). Graffiti designs by Hideyoshi Andō (Wikipedia) |
+| Origin | Weekly Shōnen Magazine, Kodansha, a shōnen (boys') magazine. Serialized from February 16, 2022; **ongoing**. 19 volumes as of July 16, 2026; chapters to 176 (Wikipedia) |
+| English edition | Kodansha USA (from vol. 1, January 16, 2024) and K MANGA (simulpub). Publisher rating: **16+ (Older Teen)** (Kodansha USA series page; School Library Journal). 13 English volumes as of November 24, 2026 (Wikipedia) |
+| Anime | Bones Film, dir. Fumihiko Suganuma, scripts by Hiroshi Seko: 24 episodes, July 6 to December 22, 2025 (Crunchyroll); English dub on Adult Swim's Toonami from October 18, 2026; season 2 announced (Wikipedia). Season 1 covers ch. 1-88 (MangaUpdates). A stage play and a video game in development (Wikipedia) |
+| Recognition | 50th Kodansha Manga Award, shōnen category (2026); 13th in the 2022 Next Manga Award (print) and the top pick of English-language voters; vol. 1 on the New York Times manga bestseller list (February-July 2026). The anime won Best New Series at the 10th Crunchyroll Anime Awards (2026) (Wikipedia). Database scores: AniList average 81, about 69,100 members; MangaUpdates 7.6 (Bayesian, 194 votes) |
+| Other guides | School Library Journal (vol. 1): rated 16+, filed as Young Adult; language may be much for younger readers. Anime Feminist (premiere) content warnings: state violence against children and internalized classism. No Common Sense Media or Plugged In review found. MangaUpdates tags include Human Trafficking, Discrimination, Slum/s, Traumatic Past, Revenge, Environmental Degradation and Black Character/s. AniList tags: Dystopian, Revenge, Class Struggle, Tragedy, Body Horror |
 | Entry tier | From summaries |
 
-**Premise.** Rudo Surebrec lives in the slums of the Sphere, a floating city with a rigid caste system. He is one of the "tribesfolk", descendants of criminals whom city people treat as filth. His father was thrown into the Abyss for murder. Rudo scavenges and repairs things the rich throw away. His foster father Regto is murdered, and Rudo is framed for it. He is tased, quickly condemned, and thrown into the Pit, where criminals and trash are dumped (ch. 1). The Pit, or "Ground", is inhabited. Trash comes alive there as monsters called Trash Beasts. Only "Givers", who draw power (Anima) from cherished everyday objects called Vital Instruments, can fight them. Rudo's power comes from the gloves Regto gave him. He joins the Cleaners, a team of Givers, and wants to climb back up for revenge and the truth.
+**Premise.** High above the world floats the Sphere, divided between wealthy citizens and the "tribesfolk," descendants of criminals who live in the slums by the wall. Everyone throws trash, and condemned criminals, into the Pit below. Rudo, a tribesfolk boy whose real father was an executed killer, scavenges discarded things because his foster father Regto taught him that objects have souls. When Regto is stabbed by a masked intruder, Rudo is blamed, condemned without a fair hearing, rejected even by the girl he liked, and thrown into the Pit, swearing revenge on the killer, the elite and the slum-dwellers alike (ch. 1). Below he finds the Ground: a polluted wasteland with towns, traffickers and Trash Beasts born from discarded things. Enjin, a Cleaner, discovers that Rudo is a Giver, someone whose love for an object can turn it into a weapon (a Vital Instrument), and recruits him to the Cleaners, who fight the beasts. Arcs follow Rudo through Canvas Town (ch. 23-28), Penta and the traumatized girl Amo (ch. 29-43), a long war with the Raiders (ch. 44-81), the mystery of his father Alto and the border (ch. 82-130) and a festival arc (ch. 131 on) (Wikipedia; Beebom).
 
 ## Life message
 
-**Nothing and no one is trash. Things and people that others throw away hold value, and a good life repairs, cherishes and protects them instead of discarding them.**
+**Nothing and no one is trash: things and people others throw away still have worth, and a good life cares for them, protects them and refuses to throw anyone away.**
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | A story of in-group and out-group: the Sphere marks a hereditary out-group (the tribesfolk) and expels its members, a picture of status competition and scapegoating. Rudo survives by finding a new group (the Cleaners) that accepts him. His rage after betrayal is the response of an outcast with no kin. Romance is minor (his feelings for Chiwa, ch. 1). |
-| Pragmatic | Repair beats waste. Objects that were cared for become powerful tools; neglected trash becomes monsters. Skill, training and teamwork in a working guild (the Cleaners) win fights. Revenge is shown as a poor plan: Rudo's goal shifts from killing the "Celestials" to protecting his friends (Rudo fan wiki page). |
-| Religious | No organized religion is central. The idea that cherished objects gain a soul (Anima) echoes the Japanese folk belief in tsukumogami, objects that gain spirit after long use (my own framing; Otaku Orbit's chapter 1 review asks "Do souls dwell in trash?"). Hereditary guilt for ancestors' crimes, execution by casting into a pit, and a figure called "the Angel" give the world an inverted heaven-and-hell shape (the Sphere above, the Pit below). Beneath the Tangles notes the tribesfolk are "Eternally punished for a forgotten hereditary crime." |
-| Socio-cultural | A sharp critique of class and caste: the rich waste goods and despise the poor (ANN: "Appropriately seething anger against the obscenely super-rich"). Found family replaces lost family. Graffiti and street art carry identity and self-expression (Wikipedia). Common Sense Media notes classist discrimination against "Tribes folk" and multiple Black characters. Gender roles are not a focus; women fight alongside men. |
+| Evolutionary biology | Survival in a hostile wasteland; outcasts form a new tribe (the Cleaners) that protects its members. Rudo's revenge drive is the instinct the story tests. |
+| Pragmatic | Value is found in use and care: the longer a Giver cherishes an object, the stronger it becomes (Wikipedia). Practical skill and teamwork beat raw rage. |
+| Religious | No organized religion drives the plot. Objects carry Anima from human feeling, and a vast being, the Watchman, guards the border (Wikipedia). Faith readers find echoes of human dignity and care for creation; some will be wary of soul-filled objects and curses. |
+| Socio-cultural | A dystopia of class contempt and waste: the rich live above and throw their garbage, and their outcasts, onto the poor below. Anime Feminist reads its sharpest anger as aimed at oppressed people who blame and police each other; ANN praises its anger at the super-rich. |
+
+Outlook: Bittersweet — an unjust world, a murdered father and a wrongful exile, but Rudo finds a found family, learns to protect, and the people and things he once saw as trash keep proving their worth; the larger injustice is unresolved.
+Hope source: F — the way through is found family: the Cleaners take Rudo in and he begins to fight for them rather than only for revenge (Wikipedia, episode summaries); protecting others (P) is the close second.
 
 ## Content scores
 
-**Overall content level: 7 out of 10** (set by Violence, with the child sexual abuse storyline in Amo's arc). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 7 out of 10** (set by Violence). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 7 | Constant | Shown with consequences | Regto's murder and Rudo being tased and thrown into the Pit (ch. 1). Fights with Trash Beasts and Raiders throughout. Common Sense Media (anime): violence rated "a lot", with tasers, guns and swords and "heavy gore"; "death by pit" as execution. A Raider is "arrested and shot by the Hell Guard" (Beebom). Amo's abuser falls to his death (ANN episode review). Manga gore level not confirmed on the page (to verify). |
-| Fear and intensity | 6 | Frequent | Neutral | Grotesque trash monsters; toxic zones; the black figure Rudo sees while falling (ch. 1, per Otaku Orbit). Unstable villains such as Jabber Wonger, introduced as a "psycho" (review headline, episodes 11-12; manga likely ch. 17-22). |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 5 | Rare but serious | Condemned | Amo's backstory: as a child she was sold to a trafficker ("Mister") who groomed and raped her (ANN episodes 13-14 review; Anime Corner). The abuse is shown through childlike crayon drawings "adorned in flowers and sparkles" that avoid graphic depiction; Anime Corner says this style "comes straight from the manga." Manga chapters likely ch. 38-43 (v5-6; Penta arc ch. 23-43; vol. 6 blurb says Amo "begins to tell them about her past"). Common Sense Media: a character is "trafficked, groomed, and sexually assaulted by an adult man"; nudity limited to "non-detailed drawings." Romance: a light crush on Chiwa (ch. 1). Fan service in the manga is not reported in opened sources (to verify; Amo's outfit and design are worth checking). |
-| Language | 5 | Frequent | Neutral | Common Sense Media: "bastard," "bitch," variations of "s--t," and bullying language. Regto's dying words ask Rudo to change "this shitty world" (Otaku Orbit, ch. 1). SLJ: the language "might be much for younger readers." The slur-like insult "filthy" for tribesfolk is part of the story's critique. |
-| Substances | 1 | Rare or none | Neutral | Common Sense Media: no drinking, drugs or smoking in the anime. Not checked in the manga (to verify). |
-| Mental health and self-harm | 6 | Recurring | Shown with consequences | Rudo's trust issues, rage and self-blame (Rudo fan wiki page); abuse and abandonment by his parents (same page, no chapter). Amo's trauma from trafficking and grooming; ANN says her trauma will stay with her. A hatred-fueled "curse"-like force in Rudo (fan wiki, per Semiu). No suicide reported in opened sources. |
-| Imitable behavior | 3 | Occasional | Mixed | Rudo steals trash to sell (ch. 1), which Regto and Chiwa criticize. Graffiti is celebrated as art (Heritage Mural arc, ch. 82-90), which may prompt questions about tagging (from general knowledge; to verify). Repairing and reusing objects is a positive imitable habit. |
-| Commercial | 4 | Moderate outside the book | Neutral | Anime, stage play (2026), a Com2uS console game announced for 2027 (Wikipedia). An Italian article argues the anime "accuses consumerism" (found, not opened). The manga's own message is anti-waste. |
+| Violence | 7 | Frequent | Mixed: cruelty condemned; battle action heroic | Regto stabbed to death (ch. 1). Executions by throwing people into the Pit; on the Ground a criminal's execution is watched (ch. 2). Rudo bites off two fingers of a trafficker who captured him (ch. 2-3; anime ep. 2). Trash Beast battles in most arcs; a Giver's power makes bodies burst (Wikipedia, character list). Zanka is poisoned, paralyzed and offered to beasts (Trash Storm arc, likely ch. 50-58; ANN ep. 17). Amo pushes her abuser from a tower and he dies (backstory, Lady of Penta arc; FandomWire). Anime Feminist warns of state violence against children. AniList tags Body Horror. |
+| Fear and intensity | 6 | Frequent | Neutral | Monstrous Trash Beasts, toxic zones, the incomprehensible Watchman; betrayal by a trusted senior Cleaner (Tamsy is secretly "the Angel," Wikipedia); cosmic-horror tags (AniList). |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 5 | Occasional | Condemned (abuse); light romance | Amo's backstory: sold as a child by her mother to a trafficker who abused her, including sexually (Lady of Penta arc, likely ch. 37-40; anime ep. 13; Anime Corner; reported as stylized and not detailed). Amo is drawn in very revealing clothing (Anime Corner) and later grows close to Rudo (Wikipedia). Rudo's crush on Chiwa, who rejects him (ch. 1). Riyo teases Rudo (ch. 3). Love-triangle hints (AniList). No sex scenes reported. |
+| Language | 5 | Frequent | Neutral | School Library Journal: the language might be much for younger readers. Slurs calling the tribesfolk impure (anime ep. 2). Exact Kodansha USA profanity not checked (to verify). |
+| Substances | 1 | Rare | Neutral | None reported. |
+| Mental health and self-harm | 6 | Recurring | Shown with consequences | Rudo's grief and rage after Regto's murder and his rejection (ch. 1). Zanka once sat in a well hoping to die after a defeat (backstory; Wikipedia). Amo's trauma and manipulation by her mother and abuser (Anime Corner). Gountess starved by Mymo (Wikipedia). Abandonment as a theme (MangaUpdates). |
+| Imitable behavior | 3 | Occasional | Neutral | Graffiti as identity and expression (Wikipedia); revenge oaths; scavenging dumps. |
+| Commercial | 4 | Outside the book | Neutral | Bones anime, stage play, video game in development, music (Wikipedia). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Regto, a foster father, is the moral anchor; Common Sense Media: he "teaches him right from wrong." Rudo's birth parents abused and abandoned him (fan wiki). The Cleaners become a found family (CSM: "building your own family"). Civil authority in the Sphere is shown as unjust: a rushed conviction (ch. 1), hereditary guilt, the Hell Guard shooting a prisoner (Beebom). |
-| Religion and spirituality | Incidental | Anima (soul-like power in cherished objects) is the magic system. "The Angel" is linked to Regto's murder (Rudo fan wiki page; to verify). No organized religion is treated in opened sources. |
-| Gender and identity (incl. LGBTQ) | Incidental | Women fight as equals (Riyo, Amo, Semiu; from general knowledge; to verify). Amo's arc treats child sexual abuse as abuse. No LGBTQ storylines found. Urana criticized fans for unofficial "ships" (Brazilian headline, not opened). |
-| Politics and social issues | Central | Caste and class discrimination, hereditary punishment, waste by the rich, capital punishment, trafficking. Common Sense Media flags "classist discrimination against 'Tribes folk'." The Raiders plan to "take down the Sphere" (vol. 8 blurb), a violent answer to the same injustice the hero hates. In 2026 the creator faced accusations of racial insensitivity over a shared fan video (see Creator context). |
+| Family and authority | Central | Regto, a loving foster father, is murdered (ch. 1). The Sphere's authorities convict Rudo without proof; Enjin becomes a mentor and the Cleaners a found family. Amo's mother sells her (backstory). Zanka's elite family of Hell Guards (Wikipedia). |
+| Religion and spirituality | Incidental | Objects with souls (Anima); the Watchman; "the Angel" as a title; no organized religion. |
+| Gender and identity (incl. LGBTQ) | Recurring | Capable women fighters (Riyo, a former hitman; Kyouka, a Hell Guard commander; Hyo); Amo as an abused girl given a path to healing. No LGBTQ storylines found in sources opened. |
+| Politics and social issues | Central | Class division, discrimination against descendants of criminals, punishment without due process, waste and consumerism, pollution, human trafficking (Wikipedia; MangaUpdates; Anime Feminist). |
 
-**Virtues shown:** care for neglected things and people, repair and thrift, loyalty, compassion for fellow victims (Rudo reaching out to Amo), courage, perseverance, gratitude to a mentor, teamwork, seeking truth and justice.
+**Virtues shown:** respect for what others discard, gratitude (Rudo is moved to tears when thanked, anime ep. 5), loyalty to a found family, protecting the weak, perseverance, mercy toward the traumatized (Amo is rescued and taken in), honesty about injustice.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether there are consequences, whether justice or redemption is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 31 frame guides are still drafts from general knowledge, so every row is a draft. What the rows weigh: the dignity of outcasts and the poor is the core message; a falsely accused boy seeks justice; revenge is the hero's early motive and is gradually replaced by protecting friends; objects with soul-like power (Anima) are the magic system; child trafficking and sexual abuse (Amo, likely ch. 38-43) is condemned and shown indirectly; violence and coarse language are frequent.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a wrongful conviction and exile of a poor boy (ch. 1) and a society that despises descendants of criminals; care for discarded things and people as the central virtue; a revenge oath as Rudo's first motive, tested by found family; constant battle violence, a bitten-off finger and bodies bursting; human trafficking and the abuse of a child (Amo) condemned (ch. 29-43); objects with souls and curses (Anima); strong language; women as capable fighters. Sexual abuse of a child exists in Amo's backstory (likely ch. 37-40, v5; anime ep. 13), reported as stylized and not detailed; see checklist.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | A | Discuss | Dignity of every person and the preferential option for the poor; the wasteful rich are judged; a "throwaway culture" is critiqued, close to Pope Francis's phrase (Laudato Si' 22; my own framing). Abuse is shown as evil (Inter Mirifica 7). | Revenge as the hero's early aim; souls in objects; coarse language; the abuse arc needs care. | Laudato Si' on the "throwaway culture" applied to people and things. Justice without revenge (Romans 12:19). |
-| Eastern Orthodox | B | Significant | Mercy to the outcast; repentance and healing of rage; care for creation. | Anger as a passion the hero feeds on; objects with spirit-like power; nepsis makes the gore and abuse flashback a concern. | Rudo's anger as a passion to be healed. What does "nothing is trash" share with the Orthodox view of creation? |
-| Baptist | B | Discuss | False accusation and injustice are condemned; the poor are defended (Proverbs 31:8-9); abuse is evil. | Revenge motive; Anima as soul-like power; profanity (Ephesians 4:29). Views vary by congregation. | Philippians 4:8 as a test for the language and gore. "Vengeance is mine" (Romans 12:19) set beside Rudo's vow. |
-| Non-denominational Evangelical | B | Discuss | Worth of the rejected; echoes of "the stone the builders rejected" (Psalm 118:22; my own framing). Depicts sin without endorsing it. | Revenge; the spiritual meaning of Anima; language. | Imago Dei and the tribesfolk. Can anger at injustice be righteous without becoming revenge? |
-| Pentecostal / Charismatic | C | Significant | Justice for the oppressed; deliverance from bondage (Amo). | Objects carrying soul-like power and spirit-like monsters may read as an "open door"; a figure called "the Angel" tied to murder (to verify). | Ephesians 6:12 compared with the story's power system. Is Anima a picture of love for things or a spiritual claim? |
-| Reformed / Presbyterian | B | Discuss | Common grace lets families value a work that exposes oppression; hereditary guilt is shown as unjust (Ezekiel 18:20). | Objects with souls; revenge; WLC Q139 concerns on coarse speech. | Ezekiel 18: the son does not bear the father's guilt. Total depravity shown in rich and poor alike? |
-| Lutheran | B | Discuss | Two kingdoms: unjust rulers judged; love of neighbor; vocation in the Cleaners' work. | Revenge; spirit-like objects. LCMS and WELS families more cautious than ELCA. | The Eighth Commandment and false witness (ch. 1). Vocation: honest work versus Rudo's theft. |
-| Methodist / Wesleyan | A | Discuss | Social holiness: defending the poor; works of mercy; Rudo's turn from revenge toward protecting others. | Profanity and violence; holiness churches more cautious than UMC. | Wesley's care for the poor compared with the Cleaners. What changes Rudo's heart? |
-| Anglican / Episcopal | A | Discuss | Justice and mercy; a dystopia in the tradition of moral fantasy; good and evil judged by framing. | Revenge motive; language. | Compare with Lewis on myth. "Let justice roll down" (Amos 5:24) and the Sphere. |
-| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Simple living and repair; solidarity with the poor; suspicion of unjust state power and the death penalty. | Violence as the heroes' main tool; revenge; conservative groups avoid such media. | What would a nonviolent answer to the Sphere look like? Rudo's gloves as tools of repair or of war? |
-| Latter-day Saint | B | Discuss | Worth of souls (D&C 18:10); found family; service. | Coarse language and violence; the abuse arc. | For the Strength of Youth: does this media invite the Spirit? How the story values every person. |
-| Mainline progressive Protestant | A | Minor | Structural sin made visible: caste, waste, police injustice, trafficking. | Creator controversy over a racially insensitive video (2026); revenge. | Who is "trash" in our society? Systems versus individuals in the Sphere. |
-| Seventh-day Adventist | C | Significant | Care for creation, stewardship, justice for the poor. | "By beholding we become changed": frequent violence and coarse speech; objects with spirits; Fundamental Belief 22. | Whether the story's message can be separated from its intensity. (from general knowledge; to verify) |
-| Jehovah's Witness | C | Significant | Love of neighbor; condemnation of injustice and abuse. | Violence (Psalm 11:5); soul-like power in objects close to spiritism; worldly rebellion against rulers. | jw.org's questions about violence and spiritism applied here. (from general knowledge; to verify) |
-| Christian Science | C | Significant | Worth of every person; healing of hatred. | Fear, waste and evil treated as powerful realities; constant violence. | "Stand porter at the door of thought": what does dwelling on rage do? (from general knowledge; to verify) |
-| Orthodox Jewish | B | Significant | Justice for the oppressed and for the stranger; false witness condemned (Exodus 20:13); bal tashchit (do not waste) echoed (my own framing). | Nivul peh (coarse speech); the abuse arc and violence; many Haredi homes restrict such media. | Bal tashchit and the Sphere's waste. Justice versus revenge (Leviticus 19:18). (from general knowledge; to verify) |
-| Conservative Jewish | A | Discuss | Tikkun olam; dignity of the stranger and the poor; bal tashchit. | Coarse language; revenge. | "Justice, justice you shall pursue" (Deuteronomy 16:20) and Rudo's trial. (from general knowledge; to verify) |
-| Reform Jewish | A | Minor | Tikkun olam; anti-discrimination; protection of trafficking victims. | Creator controversy over racial insensitivity (2026). | Informed autonomy: what does a family read and why? Hereditary blame and its history. (from general knowledge; to verify) |
-| Muslim | B | Discuss | Justice ('adl) for the oppressed; condemnation of waste (Qur'an 17:26-27, israf); orphans protected (Rudo, Amo). | Revenge; objects with soul-like power; coarse language; the abuse arc and lowering the gaze. | Israf and the Sphere's waste. Forgiveness preferred over revenge (Qur'an 42:40). |
-| Hindu | B | Discuss | Critique of hereditary caste stigma echoes reformers; seva; respect for objects in use. | Constant violence (tamasic for some families); anger as a driving force. | Is the Sphere's caste like varna as reformers critique it? Anger (krodha) in the Gita (2.63). |
-| Buddhist | B | Discuss | Compassion for all beings; the cycle of harm (Rudo sees Amo as a fellow victim, ANN); craving and waste. | Anger and revenge as motive; killing in fights. | Anger as one of the three poisons. How does Rudo's anger change? |
-| Sikh | A | Discuss | Equality against caste (a core Sikh teaching); defense of the oppressed; honest labor. | Anger (krodh) as the hero's fuel; violence. | Guru Nanak's rejection of caste compared with the Sphere. Krodh as a vice to master. (from general knowledge; to verify) |
-| Bahá'í | A | Discuss | Oneness of humanity; elimination of prejudice; justice. | Violence as the main path; anger. | Elimination of prejudice of class. Arts in service. (from general knowledge; to verify) |
-| Shinto | A | Minor | Respect for objects that serve us, close to tsukumogami belief (my own framing); gratitude; impurity of waste. | Little to raise in message; blood and filth as impurity. | Mottainai (regret over waste) and gratitude for things. (from general knowledge; to verify) |
-| Wiccan / Pagan | A | Minor | Animism-like respect for objects and the earth; "harm none" echoed in protecting the weak. | Little to raise. | Do things have spirit? The Pit as a picture of what a culture throws away. (from general knowledge; to verify) |
-| Scientologist | B | Minor | Way to Happiness precepts: be worthy of trust, do not murder, help others. | Revenge; violence. | Which precepts does Rudo keep or break (stealing, ch. 1)? (from general knowledge; to verify) |
-| Secular progressive | A | Discuss | Anti-classism, critique of policing and capital punishment, trafficking survivors treated with empathy, Black characters (CSM). | The creator's 2026 video controversy; a grooming storyline some reviewers felt needed more time (A.V. Club). | Common Sense Media's 15+ rating. Who is treated as "trash" today? |
-| Secular humanist | A | Minor | Human dignity apart from birth; critique of hereditary guilt and execution; repair and reason. | Revenge; violence. | Is anger at injustice useful? Rudo's "festering misanthropy" (A.V. Club). |
-| Conservative / traditional | B | Discuss | Thrift, repair, gratitude to a father figure, hard work, loyalty; justice for the falsely accused. | Class-war framing; authority shown as mostly corrupt; coarse language. | The good, the true and the beautiful in "nothing is trash." Reform versus revolution (the Raiders' plan, vol. 8). |
-| Unitarian Universalist | A | Discuss | Inherent worth and dignity of every person; justice and compassion; the interdependent web. | Violence; revenge; the creator controversy. | Worth and dignity of the "tribesfolk." Can you fight injustice without hate? (from general knowledge; to verify) |
-| Satanist | B | Minor | Rebellion against an unjust authority; justice (Satanic Temple Tenet 2); protection of children. | The story moves from personal vengeance toward duty to a group; Church of Satan readers may prefer the early Rudo. | Is Rudo's anger justified? Compassion (Tenet 1) for Amo. (from general knowledge; to verify) |
+| Catholic | A | Discuss | Against the "throwaway culture" (Laudato Si' 22) in both things and people; the preferential option for the poor; dignity of the condemned; trafficking condemned. | Revenge as Rudo's first motive (CCC 2302); souls in objects; violence and language. | Pope Francis on the throwaway culture (Laudato Si' 22) beside the Sphere's trash. |
+| Eastern Orthodox | B | Significant | Compassion for outcasts; creation's goodness; mercy. | Revenge and rage; animated objects; guarding the senses against gore and Amo's clothing. | Every person bears God's image, even the "impure." (from general knowledge; to verify) |
+| Baptist | B | Discuss | Justice for the falsely accused; care for the poor (Proverbs 31:8-9); a father's love. | "Vengeance is mine" (Romans 12:19) against Rudo's oath; profanity; violence. | Romans 12:19-21: what would overcoming evil with good look like for Rudo? |
+| Non-denominational Evangelical | B | Discuss | The least of these (Matthew 25:40); found family; second chances (Amo). | Revenge, language and violence; a 16+ book. | "The stone the builders rejected" (Psalm 118:22) beside Rudo the "trash." |
+| Pentecostal / Charismatic | C | Significant | Deliverance for the oppressed; healing for the wounded (Amo). | Spirits in objects and curses ("Watchman Series") read as occult by some; rage; language. | Healing from trauma: what does Amo need? (from general knowledge; to verify) |
+| Reformed / Presbyterian | B | Discuss | Total depravity shown in Sphere and slum alike; justice for the wronged; common grace in the Cleaners. | Revenge; animism; profanity (WLC Q135-136 on the sixth commandment). | Rudo condemns everyone as corrupt (ch. 1). Is he right about the world, and about himself? |
+| Lutheran | B | Discuss | Vocation of the Cleaners: serving neighbors in danger; care for the outcast. | Revenge and violence; LCMS and WELS families more cautious about language. | Serving the neighbor no one wants. (from general knowledge; to verify) |
+| Methodist / Wesleyan | A | Discuss | Social holiness: the poor, the condemned and the trafficked are cared for; works of mercy. | Revenge and language; holiness churches cautious about violence. | Wesley's care for the poor beside the Ground's outcasts. (from general knowledge; to verify) |
+| Anglican / Episcopal | A | Discuss | Dignity of the despised; stewardship of creation; justice. | Revenge motive; violence. Episcopal and ACNA families differ. | Who decides what, and who, is worth keeping? |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Simple living, reuse, mutual aid among the poor. | Combat as the main action; revenge. | Could the Cleaners protect people without weapons? (from general knowledge; to verify) |
+| Latter-day Saint | B | Discuss | Worth of souls is great (D&C 18:10); family love; service. | For the Strength of Youth on violence and language; Amo's revealing design. | "The worth of souls is great" beside a world that calls people trash. |
+| Mainline progressive Protestant | A | Minor | Class critique, environmental stewardship, justice for the condemned and trafficked. | Violence; revenge. | Who profits from a world that throws people away? |
+| Seventh-day Adventist | C | Significant | Care for creation; justice. | FB 22 on entertainment; violence and horror; spirits in objects. | Stewardship of creation beside the Pit. (from general knowledge; to verify) |
+| Jehovah's Witness | C | Significant | Justice and care for the poor. | Violence, spiritism-like powers and language against jw.org counsel. | jw.org questions on violent entertainment. (from general knowledge; to verify) |
+| Christian Science | C | Significant | Worth of every person; overcoming fear. | Matter, violence and disease as the setting. | Seeing the true worth beneath appearances. (from general knowledge; to verify) |
+| Orthodox Jewish | B | Significant | Justice for the falsely accused (Deuteronomy 16:20); bal tashchit (do not waste); dignity of the outcast. | Revenge (Leviticus 19:18); gore; immodest designs. | Bal tashchit (Deuteronomy 20:19) and the Sphere's waste. (from general knowledge; to verify) |
+| Conservative Jewish | A | Discuss | Tzedek and bal tashchit; care for the stranger. | Revenge; violence. | "Justice, justice shall you pursue" (Deuteronomy 16:20). |
+| Reform Jewish | A | Minor | Tikkun olam; justice for the marginalized; environmental care. | Violence. | What would repairing the Sphere's world require? (from general knowledge; to verify) |
+| Muslim | B | Discuss | Justice for the wronged (4:135); no waste (7:31); care for orphans (Rudo, Amo). | Revenge; immodest designs; violence. | "Do not waste" (7:31) and care for the orphan (93:9). |
+| Hindu | B | Discuss | Karma-like justice for the cruel; dignity of the outcast set against a caste-like order. | Revenge and rage; violence. | A society divided by birth: what does the story say about it? (from general knowledge; to verify) |
+| Buddhist | B | Discuss | Compassion for the discarded; attachment to objects explored (Vital Instruments come from love). | Revenge and hatred as fuel; violence. | Hatred is not ended by hatred (Dhammapada 5): does Rudo learn this? |
+| Sikh | A | Discuss | Equality of all regardless of birth; protecting the oppressed; seva. | Revenge; violence. | Equality beyond caste and birth in the Gurus' teaching. (from general knowledge; to verify) |
+| Bahá'í | A | Discuss | Oneness of humanity; justice; abolishing extremes of wealth and poverty. | Revenge; violence. | Extremes of wealth and poverty in the Sphere. (from general knowledge; to verify) |
+| Shinto | A | Minor | Objects that carry spirit and feeling echo the respect for things (and tsukumogami lore); purity and pollution as visible realities. | Pollution (kegare) everywhere, as genre. | Why might old, loved objects deserve respect? (from general knowledge; to verify) |
+| Wiccan / Pagan | A | Minor | Animate world, respect for objects and nature; justice. | Little beyond violence. | Honoring the spirit in things. (from general knowledge; to verify) |
+| Scientologist | B | Minor | Survival and the worth of the individual; overcoming suppressive people. | Violence and trauma. | Which characters suppress others, and how are they answered? (from general knowledge; to verify) |
+| Secular progressive | A | Discuss | Class critique, environmental justice, critique of punishment without due process; Anime Feminist praises its political anger. | Anime Feminist doubts that Rudo's adolescent rage is compelling yet; Amo's sexualized design. | Why do the oppressed in the story turn on each other? |
+| Secular humanist | A | Minor | Worth of every person, human effort and solidarity, no gods needed. | Revenge as motive. | What makes something, or someone, valuable? |
+| Conservative / traditional | B | Discuss | Thrift and repair, loyalty, a father's love, courage. | Disdain for authority; revenge; language. | Is the problem the rich, or waste and cruelty anywhere? |
+| Unitarian Universalist | A | Discuss | Inherent worth and dignity; justice; interdependent web. | Violence. | Inherent worth of every person beside the Sphere's caste. (from general knowledge; to verify) |
+| Satanist | B | Minor | Contempt for hypocritical elites; vengeance on those who wrong you. | The story's turn to protecting others over self. | Is Rudo's revenge justice? (from general knowledge; to verify) |
+| Historically Black Protestant | B | Discuss | Deliverance for the despised and the falsely condemned; dignity of those called trash; protecting the weak; a found church-like family. | Revenge as motive (Romans 12:19); spirit-filled objects; profanity. | Amos 5:24, "let justice roll down," beside Rudo's wrongful exile. |
+| Atheist | A | Minor | Humans make their own worth and solidarity; injustice is human-made and humans must fix it. | Revenge; violence. | Who made the Sphere's rules, and who could change them? |
+| Agnostic | A | Minor | Mystery (the Watchman, the border) left open; empathy as ethics; no preaching. | Violence. | What do you think lies beyond the border? |
+| Nothing in particular | A | Discuss | Found family, fairness, a spiritual sense that things carry feeling, karma-like justice. | Violence and trauma heavier than many families want. | Is there something you keep because it means more than it costs? |
 
-**Where traditions disagree.** On message, nearly every frame finds a fit in the series' defense of outcasts and its critique of waste. The dividing lines are revenge as the hero's early motive (Christian, Jewish, Muslim, Buddhist and Sikh frames, for different reasons), soul-like power in objects (Pentecostal, Adventist and Jehovah's Witness concern; Shinto and Pagan affinity), and frequent violence (Anabaptist, Bahá'í). Conservative / traditional readers value the thrift and justice themes but may question the anti-authority framing. On depiction, the coarse language, gore and the child abuse flashback weigh most for Orthodox, Anabaptist, Adventist, Jehovah's Witness, Christian Science and Orthodox Jewish families.
+**Where traditions disagree.** Almost every frame welcomes the story's defense of the discarded, its anger at waste and its justice for the falsely condemned, and many have direct teachings to match (the throwaway culture, bal tashchit, "do not waste"). The divides are smaller: revenge as Rudo's first motive concerns Christian, Jewish, Buddhist and Historically Black Protestant readers, Pentecostal, Adventist and Witness families may read soul-filled objects as spiritism, and progressive readers praise the class critique but question Amo's design.
 
 ## Winners, losers and sympathy
 
-So far, the discarded win sympathy and the wasteful elite of the Sphere lose it; the series is ongoing, so final outcomes are not known.
+The despised win respect and family, while those who throw away people and things (the Sphere's elite, traffickers) are condemned; Rudo's revenge is still pending.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Rudo Surebrec | Dignity of the discarded; rage at injustice, shifting toward protecting friends | Survives the fall; becomes a Cleaner; still seeking the truth (ongoing) | Endorsed, with his anger examined (A.V. Club) |
-| Regto | Care, repair, teaching right from wrong | Murdered (ch. 1) | Revered; his gloves and words drive the story |
-| The Cleaners | Protecting people from Trash Beasts; a found family | Survive and grow (ongoing) | Endorsed |
-| Sphere elites and townspeople | Caste purity, waste, contempt for the poor | Not yet judged (ongoing) | Condemned; Bleeding Cool calls them "comically, sneeringly evil" |
-| The Raiders (Zodyl Typhon, Jabber Wonger) | Destroy the Sphere; power by force | Fight the Cleaners; a member dies (Trash Storm arc); one defects (Fu) (Beebom) | Mostly villains; their grievance overlaps the hero's |
-| Amo Empusa | A trafficked child who learned a false "love" | Defeated, then shown sympathy (ch. likely 38-43; v6) | Sympathetic victim; her harm to others not excused (ANN) |
-| "Mister" (Amo's abuser) | Exploitation and grooming | Falls to his death (ANN) | Condemned |
+| Rudo Surebrec | Nothing is trash; at first, revenge | Survives the Pit, becomes a Cleaner, gains friends and power (ch. 2 on) | Endorsed, rage questioned |
+| Regto | Objects have souls; change the unjust world | Murdered (ch. 1); his words guide Rudo | Endorsed |
+| Enjin | Mentor who saves the discarded, himself once a slave-market orphan | Leads Team Akuta (Wikipedia) | Endorsed |
+| The Sphere's elite and tribesfolk accusers | Contempt for the poor; waste | Unpunished so far; Rudo's target | Condemned |
+| Chiwa | Conformity; rejects Rudo as a killer's son | Never seen again (Wikipedia) | Condemned |
+| Amo's abuser | Trafficking and abuse called love | Killed (backstory) | Condemned |
+| Amo Empool | Love learned from abuse | Rescued, joins the Cleaners as a healer (Wikipedia; FandomWire) | Sympathetic |
+| Tamsy ("the Angel") | A kind face hiding manipulation | Revealed as betrayer (Wikipedia) | Condemned |
 
-**Fan favorites versus the official moral.** No official character popularity poll was found in opened sources. MyAnimeList ranks the manga #147 in popularity (about 111,600 members, score 8.18) and the anime 8.20 with about 570,000 members (as viewed). Jabber Wonger is widely discussed by fans as a favorite villain (from general knowledge; to verify). The series won fan-voted Crunchyroll awards, including Best New Series (Wikipedia). Fan love lands mostly on the heroes and the outcast Amo, so fan favorites and the official moral largely line up.
+**Fan favorites versus the official moral.** No official popularity poll was found in sources opened. English-language readers voted it their top pick before it was even licensed (Next Manga Award 2022, Wikipedia), and the anime's Enjin and Rudo were Crunchyroll award nominees. Fans and story largely agree; critics differ on Rudo's anger (Anime Feminist found it shallow at first).
 
 ## Message delivery
 - Style: Explicit
 - Preachiness: 5
 - Opposing views: Mixed
-- Evidence: Bleeding Cool: elites "comically, sneeringly evil"; Otaku Orbit: "rich people are bad, poor people are oppressed"; A.V. Club: "persistent undercurrents of class disparity."
-- Note: The anti-waste and anti-caste message is stated openly through Rudo and Regto, while the wealthy are drawn broadly and the Raiders' violent answer gets more nuance.
+- Evidence: Rudo states the theme (nothing is trash) and Regto's dying words state the goal; the Sphere's elite and accusers are drawn flatly, but Raiders and Cleaners get backstories.
+- Note: The message is visual as well as spoken: Vital Instruments are made of cherished junk, and graffiti carries meaning (Wikipedia).
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
-| Rudo Surebrec | Dignity of the discarded; anger at caste injustice | Hero | Sympathetic |
-| Sphere townspeople and elites | Hereditary caste and contempt for the poor | Villain | Strawman |
-| Zodyl Typhon | Revolution by destroying the Sphere | Villain | Mixed |
-| Regto | Care and repair of what others throw away | Mentor | Sympathetic |
+| Rudo Surebrec | Value in the discarded; revenge on the unjust | Hero | Sympathetic |
+| Sphere elites and accusers | Waste, contempt and quick punishment | Villain | Strawman |
+| Zodyl Typhon | Raiders' cold pursuit of power | Villain | Mixed |
+| Regto | Objects and people have souls; change the world | Mentor | Sympathetic |
+| Enjin | Save the discarded; protect, don't destroy | Mentor | Sympathetic |
 
 ## Creator and publisher context
 
-- **Kei Urana.** Born in Hiroshima. Won the Magazine Grand Prix with the one-shot Nokase (2018) and a Rookie Manga Award with Shikido (2019). Worked as an assistant on Atsushi Ohkubo's Fire Force and named Ohkubo's work a main reason for choosing Weekly Shonen Magazine (Kodansha K MANGA blog interview, opened). On intent: "I wanted to create a great manga with trash as the core concept" (same). Wikipedia reports that the Anima idea grew from breaking a pen she loved, which left "a sense of loss," and the Vital Instrument idea from the hangers on her grandmother's dry cleaning. She first tried shojo, which felt "weird and awkward," and works to music (ANN interview, 2025). No on-record statement about religion or party politics was found. She has not stated in opened sources that the caste theme is a political message.
-- **Hideyoshi Andou.** Graffiti designer; also does calligraphy, tattoo designs and visual flourishes. Cites Mike Giant and Tribal Crew; "art itself is just art, and it doesn't have to belong to a genre" (ANN interview).
-- **Piracy statements (April 2026).** Urana told a fan that a free Discord was "illegal," posted mocking GIFs, then an English statement arguing that free access devalues manga. Some fans replied, "You write a manga about social inequality but can't recognize it in real life?" She later said she had researched prices abroad and was working with Andou on access for readers who cannot afford manga (Anime News Network, opened).
-- **Video controversy (May 2026).** Days before the Crunchyroll Anime Awards (May 23, 2026), Urana shared on Instagram Stories a clip of a man wearing leeks on his head to imitate the character Jabber's dreadlocks. Some international viewers read it as mocking Black features, and she was targeted with harsh nicknames. She said the clip came from a dance video, apologized to anyone offended and said she did not intend to mock any culture. She then deleted her X account, and Andou also left X (Omelete, opened; Express Tribune, opened). A Studio Bones animator blamed toxic online fandom (Express Tribune).
-- **Publisher.** Kodansha, Japan's largest publisher (from general knowledge); English by its US arm, Kodansha USA. Anime by Bones Film; a stage play and a Com2uS game (Wikipedia).
+- Kei Urana (story and art), from Hiroshima, won a rookie award in 2019 and assisted Atsushi Ohkubo on Fire Force before debuting with Gachiakuta in 2022; she admired Ohkubo's unconventional storytelling and says, "I wanted to create a great manga with trash as the core concept" (K MANGA blog interview). Ohkubo has recommended the series (Wikipedia).
+- Origin of the idea: as a child Urana broke a pen she loved and felt the pen was pleading with her; Vital Instruments also grew from her grandmother's dry-cleaning hangers (Wikipedia, Production). She first tried shōjo manga before switching to shōnen, and says music shapes her drawing (ANN interview, 2025).
+- Hideyoshi Andō designs the graffiti, which carries story meaning (Wikipedia; K MANGA blog).
+- No statements by Urana on religion, politics or Amo's backstory were found. **Status: Needs more info on the creators.**
+- Publisher: Kodansha (Weekly Shōnen Magazine). Kodansha USA publishes it in English, rated 16+.
+- No controversies involving the creator were found.
 
 ## Worldview lenses
 
-Dominant lenses: Critical theory, Communitarianism, Environmentalism, Secular humanism, Pagan/occult (animism).
+Dominant lenses: Critical theory (class and waste), Environmentalism, Communitarianism, Consumerism (critiqued).
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Critical theory | 7 | Affirmed | A | Caste, class contempt and hereditary stigma are the world's core structure; CSM: "classist discrimination against 'Tribes folk'." My own label; reviewers speak of "class disparity" (A.V. Club) and "class politics" (Otaku Orbit). |
-| Communitarianism | 6 | Affirmed | B | The Cleaners as a found family and working guild; Rudo's goal shifts to protecting their bonds (fan wiki). CSM: "building your own family." My own framing. |
-| Environmentalism | 6 | Affirmed | B | Waste and the dumping of usable goods as a moral wrong; ANN: the rich "disposing of easily-repairable items." Trash literally becomes monsters. |
-| Secular humanism | 5 | Affirmed | B | Dignity apart from birth; critique of hereditary guilt and execution. |
-| Pagan / occult (animism) | 5 | Explored | C | Cherished objects hold Anima, a soul-like power; echoes Japanese tsukumogami belief (my own framing). |
-| Marxism | 4 | Explored | C | Rich consumers above, the poor living on their waste below; ANN's "seething anger against the obscenely super-rich." No economic program; my own framing. |
-| Existentialism | 4 | Explored | C | Rudo makes his own worth after society labels him trash. |
-| Classical virtue ethics | 4 | Affirmed | B | Loyalty, courage, gratitude, mastery of anger. |
-| Consumerism | 4 | Critiqued | D | Waste of usable goods; an Italian article says the anime "accuses consumerism" (found, not opened). |
-| Might makes right | 4 | Critiqued | D | The Raiders take by force (Beebom); Jabber fights for its own sake (likely). |
-| Collectivism / authoritarianism | 4 | Critiqued | D | The Sphere's caste rule, swift convictions and executions (ch. 1); the Hell Guard shooting a prisoner (Beebom). |
-| Progressivism | 3 | Affirmed | B | Equality across birth; diversity of cast (CSM). |
-| Christian | 2 | Explored (by echo) | C | Worth of the rejected, false accusation, hereditary guilt rejected; my own framing; no Christian reviewer has drawn this out in opened sources. |
-| Dharmic (Hindu/Buddhist) | 2 | Explored | C | Cycle of harm and compassion for fellow victims (Amo, ANN). |
-| Nihilism | 2 | Critiqued | D | Rudo's early misanthropy ("festering misanthropy," A.V. Club) is examined, not endorsed. |
-| Libertarianism | 2 | Explored | C | Distrust of state power; self-organized guilds on the Ground. |
-| Pragmatism | 2 | Incidental | C | Results-first fighting and repair. |
-| Feminism | 1 | Incidental | C | Capable women fighters; abuse of a girl condemned. |
-| Jewish, Islamic, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Stoicism, Utilitarianism, Postmodernism, Absurdism, Anti-natalism, Expressive individualism, Hedonism, Traditionalism, Transhumanism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
+| Critical theory | 7 | Affirmed | A | A class order that literally throws the poor away; the story exposes the system and how the oppressed police each other (Anime Feminist; ANN). |
+| Environmentalism | 6 | Affirmed | B | Waste poured onto the Ground breeds monsters and toxic zones; repair and reuse are virtues (Wikipedia; MangaUpdates). |
+| Communitarianism | 6 | Affirmed | B | The Cleaners as a found family and the Ground's towns as communities of mutual aid. |
+| Consumerism | 5 | Critiqued | D | The Sphere discards new and unused items; Rudo salvages them (ch. 1). |
+| Pagan/occult | 4 | Explored | C | Objects with souls (Anima), cursed instruments, the Watchman series that requires loss to wield (Wikipedia). |
+| Secular humanism | 4 | Affirmed | B | Human worth regardless of birth; humans must fix human injustice. |
+| Collectivism/authoritarianism | 4 | Critiqued | D | Conviction without trial and execution by exile (ch. 1); the Sphere's guarded wall. |
+| Might makes right | 4 | Critiqued | D | Raiders and traffickers prey on the weak; Rudo's power is turned to protecting. |
+| Marxism | 3 | Explored | C | Class struggle between Sphere and slum (AniList tag); no explicit class politics. My own framing. |
+| Existentialism | 3 | Explored | C | Who decides what has value? Rudo makes meaning from what others reject. |
+| Liberalism | 3 | Affirmed | B | Equal dignity and the wrong of punishment without due process (ch. 1); Rudo's case as a demand for fair law. My own framing. |
+| Progressivism | 3 | Affirmed | B | Change the unjust world (Regto's last words, ch. 1). |
+| Classical virtue ethics | 3 | Affirmed | B | Gratitude, courage and loyalty grow in Rudo through the Cleaners. |
+| Nihilism | 2 | Critiqued | D | Rudo's early view that everyone is corrupt is answered by the Cleaners' kindness. |
+| Feminism | 1 | Explored | C | Capable women fighters; Amo's design noted by reviewers. |
+| Christian, Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Stoicism, Utilitarianism, Duty ethics, Absurdism, Postmodernism, Anti-natalism, Expressive individualism, Hedonism, Pacifism / nonviolence, Bushido / honor code, Traditionalism, Libertarianism, Anarchism, Patriotism / nationalism, Transhumanism, Confucian ethics, Pragmatism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 3 | Wealth and waste at the top are condemned; no market or collective program is offered. |
-| Social (0 authority, 10 liberty) | 7 | Unjust authority (caste rule, rushed trials, executions) is the main enemy; the Cleaners are a voluntary guild. |
-| Cultural (0 traditional, 10 progressive) | 6 | Against hereditary status; values street art and outsiders; also values repair, thrift and gratitude. |
-| Community (0 individual first, 10 community first) | 7 | Rudo moves from solitary revenge toward protecting his team. |
+| Economic (0 collective, 10 free market) | 3 | The rich and their waste are the problem; mutual aid on the Ground is the answer. |
+| Social (0 authority, 10 liberty) | 7 | Arbitrary state punishment is condemned; freedom to live with dignity is the goal. |
+| Cultural (0 traditional, 10 progressive) | 6 | Graffiti and outsider culture celebrated; tradition (the Sphere's order) is the oppressor. |
+| Community (0 individual first, 10 community first) | 7 | Found family and team before lone revenge. |
 
 **Moral foundations profile (0 to 10):** care 8, loyalty 7, fairness 9, sanctity 4, authority 2, liberty 8.
 
-**Profile notes for parents:** The series is built on fairness and care: a boy treated as trash because of his birth fights to prove he and the things he loves have worth. It is suspicious of authority and angry at the rich. The scenes most families discuss are the false conviction and execution (ch. 1), Rudo's revenge drive, and Amo's trafficking and abuse backstory (likely ch. 38-43), shown indirectly.
+**Profile notes for parents:** Fairness is the series' driving value (a wrongful conviction, a caste-like society), with strong care for the discarded. Authority is low: the Sphere's rulers are unjust. Sanctity sits in the middle, since objects carry feeling worth respecting. Kodansha USA rates it 16+; violence, strong language and Amo's abuse backstory (non-explicit, as reported) are the main reasons.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 4 | Worth is inherent, not set by birth or name (ch. 1 framing), but Rudo's drive to make his accusers "regret calling him filthy" (fan wiki) is an honor-style response the story gradually tempers. |
-| Order vs freedom | 6 | The Sphere's order is unjust and the hero rebels against it; the Cleaners keep discipline and training (Workplace Observation arc, ch. 7-11), so order is not rejected outright. |
-| Civic vs kin | 4 | Blood family failed Rudo; a foster father and a chosen guild replace it. Belonging is by choice and work, not lineage. |
-| Equality vs hierarchy | 2 | Hereditary caste is the central evil (ch. 1); tribesfolk and the rich are shown as equal in worth. |
-| Tradition vs secular-rational | 5 | No religion is central, but folk ideas (souls in objects) and tribal heritage and street art (Heritage Mural arc, ch. 82-90) are honored. |
-| Survival vs self-expression | 5 | Survival on the Ground is a constant pressure, while graffiti, personal style and cherished objects carry identity. |
+| Dignity vs honor | 5 | Rudo's revenge oath is honor-like; the Cleaners teach that worth is inherent, not won. |
+| Order vs freedom | 6 | The Sphere's order is unjust; the Ground's teams need discipline to survive. |
+| Civic vs kin | 4 | Found family first (Team Akuta); towns request help from the Cleaners as a civic service. |
+| Equality vs hierarchy | 2 | Hierarchy by birth is the villain; worth regardless of origin is the message. |
+| Tradition vs secular-rational | 5 | Objects with souls echo old beliefs; the society is otherwise secular. |
+| Survival vs self-expression | 5 | Survival in a toxic wasteland, yet graffiti and self-expression carry identity. |
 
 Closest clusters: The Midlands; Catholic Europe; English-speaking
 
-Japanese source culture: The idea that well-used objects gain a spirit (tsukumogami) and the feeling of mottainai (regret over waste) are Japanese folk values the story builds on (my own framing); the hip-hop and graffiti look is a global street-culture influence rather than a Japanese norm.
+Japanese source culture: The belief that long-used objects gain spirit echoes Japanese tsukumogami lore and mottainai (regret over waste) (from general knowledge; to verify); the shōnen team structure, mentors and rival squads follow Weekly Shōnen Magazine conventions; the street-art look draws on graffiti culture via Hideyoshi Andō.
 
 ## Philosophy essay
 
-**The central question.** What is something, or someone, worth once a society has thrown it away? The Sphere answers by birth and use: tribesfolk are filth because their ancestors were criminals, and anything broken goes over the edge. Rudo answers by care: a thing is worth what love and repair have put into it.
+**The central question.** Who decides what is trash? The Sphere answers that the rich decide, and they decide that broken things, poor people and convicts all go over the edge. Rudo grew up rescuing what others threw away; then he was thrown away himself.
 
-**The answer the story gives.** The story sides with Rudo's answer and makes it literal. In the Pit, objects that were cherished hold Anima and become Vital Instruments, the only weapons that work. Neglected trash becomes Trash Beasts. Urana said she wanted "trash as the core concept," and the Anima idea came from grief over a broken pen she loved (Wikipedia). The same logic applies to people. The boy the Sphere threw away becomes one of the Pit's strongest fighters, and his power flows through Regto's gloves, a gift of care.
+**The answer the story gives.** Worth is not set by those on top. A Giver's power comes from love: the longer you cherish something, the stronger it becomes (Wikipedia). Rudo's gloves can make even junk into a weapon for a moment, and the people the Sphere discarded turn out to be the ones who protect the Ground. Urana built the series on the idea that discarded things can still plead for care (Wikipedia, Production).
 
-**Characters as arguments.** Rudo is the argument that the discarded have worth, but also a test of whether anger can be turned into something good. His early vow is to return and make the Sphere suffer. Reviewers see the story examining that rage: the A.V. Club describes "a festering misanthropy" rather than a wish to change the world. Regto is the argument for repair; his last words ask Rudo to change "this shitty world" (ch. 1, per Otaku Orbit). The Cleaners stand for a community that uses power to protect. The Raiders take the same grievance against the Sphere toward destruction; their leader Zodyl wants Rudo's help to "take down the Sphere" (vol. 8 blurb). Amo is the argument that harm repeats: a child sold and groomed, who learned a false love and then hurt others, and whom Rudo reaches as a fellow victim (ANN).
+**Characters as arguments.** Regto argues that objects and people have souls and that the world should be changed (ch. 1). Rudo argues first for revenge on everyone, then learns gratitude and loyalty among the Cleaners (anime ep. 5). Enjin, once an orphan in a slave market, argues for rescue. Zanka, raised among elites, carries the resentment of a privileged boy who lost to a slum girl (ANN, ep. 17). Amo, sold and abused, shows how abuse can be dressed up as love (Anime Corner). Tamsy, kind on the surface, shows that betrayal can hide in trusted places.
 
-**Symbols and motifs.** The floating Sphere and the Pit invert heaven and hell. Gloves cover scarred hands and channel care into strength. Graffiti marks identity on discarded walls, and Andou's lettering runs across the pages. Trash Beasts are waste come alive. Chokers and a mysterious choker maker drive the later plot (Information Broker and Doll Festival arcs).
+**Symbols and motifs.** The Pit and the floating Sphere (above and below); gloves (Regto's gift and Rudo's power); graffiti (identity scrawled on what others ignore); masks (Cleaners breathe through them on toxic ground); the Watchman at the border.
 
-**Traditions it echoes.** Japanese tsukumogami folklore and the value of mottainai (my framing). Dystopias of vertical class, such as Battle Angel Alita, which Kodansha's own blurb names. Shonen conventions of guilds, training and found family, close to Fire Force, on which Urana assisted. Critiques of caste found in many reform traditions. Biblical readers may hear "the stone the builders rejected" (my framing).
+**Traditions it echoes.** Floating-city dystopias (ANN compares Yukito Kishiro's Battle Angel Alita), Japanese respect for old objects, the shōnen found-family team. For faith readers it echoes "the stone the builders rejected" and the Jewish and Muslim prohibitions on waste; for secular readers, environmental and class critique.
 
-**How each lens is portrayed.** Critical and environmental readings are on the surface: the rich waste and despise, the poor live on their garbage. Secular humanist and communitarian values are affirmed through the Cleaners. Might-makes-right and authoritarian rule live in the Raiders and the Sphere and are critiqued. Animism is part of the world's mechanics, not taught as practice. Some critics find the class message thin: Bleeding Cool calls the villains "comically, sneeringly evil."
+**How each lens is portrayed.** Critical theory and environmentalism are central and affirmed; consumerism is the target. Communitarian found family is the answer to revenge. Animist ideas (souls in things) are the fantasy engine rather than a religion.
 
-**Shifts across the series.** The opening (ch. 1-11) is a revenge and survival story. The Raiders Trap and Penta arcs (ch. 12-43) add rival Givers and Amo's tragic backstory. The Trash Storm arc (ch. 44-81) widens into war with the Raiders and their plan to destroy the Sphere. Later arcs (ch. 82 onward) turn toward mystery (the choker maker, the Hell Guard) and the Ground's own communities. The series is ongoing, so its final verdict on revenge and revolution is not yet known.
+**Shifts across the series.** Volumes 1-3 (ch. 1-22): the fall, the Cleaners, the Raiders' trap. Volumes 4-5 (ch. 23-43): Canvas Town and Penta, Amo's rescue. Volumes 5-10 (ch. 44-81): the long Raiders war, Zanka's backstory. Volumes 10-15 (ch. 82-130): Rudo's father, the information broker, first jobs. Volumes 16 on (ch. 131-176): the Doll Festival arc and after (Beebom; Wikipedia chapter titles).
 
 **Discussion questions.**
-1. Rudo is condemned because of who his father was. Is it ever fair to punish people for their family's past?
-2. In the Pit, cared-for objects gain power. What things in your home would you call "vital," and why?
-3. Rudo wants revenge, the Raiders want to destroy the Sphere, and the Cleaners protect people. Which answer to injustice does the story favor, and which does your family favor?
-4. Amo hurt others after being hurt herself. How can someone be both a victim and responsible?
-5. Some reviewers say the rich characters are too simply evil. Does that make the message stronger or weaker?
+1. The Sphere throws away new things as well as broken ones. What do we throw away too quickly?
+2. Rudo swore revenge on everyone. Has he changed? What changed him?
+3. Regto told Rudo to change the world. Is revenge a way to do that?
+4. Why do some people in the slums turn on Rudo instead of the system?
+5. What object would become your Vital Instrument, and why?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Critical acclaim | Kevin Cormack, ANN (manga vol. 1) | A-; "Great, unusual art," "heavily graffiti-inspired," and "Appropriately seething anger against the obscenely super-rich"; risk of becoming a generic power fantasy. | https://animenewsnetwork.com/review/gachiakuta/manga-volume-1/.206740 |
-| Librarian review | Renee Scott, School Library Journal (manga vol. 1) | Older Teen 16+; gritty action; language "might be much for younger readers"; Rudo wants to be treated as a person, not vermin. | https://goodcomicsforkids.slj.com/2024/02/22/gachiakuta-vol-1-review/ |
-| Secular parent guide | Common Sense Media (anime) | 15+, TV-MA. Heavy gore, trafficking and sexual assault storyline (ep. 13), profanity; positive themes of truth, justice, resilience and found family; classist discrimination portrayed. | https://www.commonsensemedia.org/tv-reviews/gachiakuta |
-| Christian blog | Gaheret, Beneath the Tangles (anime first impression) | Finds the waste of usable goods "a poignant, indicting image"; notes tribesfolk "Eternally punished for a forgotten hereditary crime"; worries Rudo may become less sympathetic. No explicit theology. | https://beneaththetangles.com/2025/07/06/first-impression-gachiakuta/ |
-| Mainstream critic, positive | Elijah Gonzalez, The A.V. Club (season 1) | "A strong debut"; "persistent undercurrents of class disparity"; Rudo's rage is examined as misanthropy; the grooming episode "could have used more time." | https://www.avclub.com/gachiakuta-review-season-1 |
-| Mainstream critic, skeptical | Adi Tantimedh, Bleeding Cool (anime) | 7/10; "just another" shonen fight anime; class rage "feels like old hat"; villains "comically, sneeringly evil." | https://bleedingcool.com/tv/gachiakuta-just-another-shonen-fight-anime-for-angry-kids-review |
-| Episode criticism on abuse arc | James Beckett, ANN (episodes 13-14); Anime Corner | The crayon-style flashback avoids graphic depiction while making the abuse clear: "as brilliant as it is cruel" (ANN); "gut wrenching" (Anime Corner). | https://www.animenewsnetwork.com/cms/.229883 ; https://animecorner.me/gachiakuta-delivers-its-hardest-hitting-episode-yet-with-amos-backstory/ |
-| Fan chapter review | Jiraiyan, Otaku Orbit (ch. 1) | Not original in its class politics ("rich people are bad, poor people are oppressed") but intriguing; praises the art's debt to Fire Force and Soul Eater. | https://otakuorbit.com/gachiakuta-chapter-1-review-do-souls-dwell-in-trash/ |
-| Fan scores | MyAnimeList | Manga 8.18, popularity #147, about 111,600 members; anime 8.20, about 570,000 members (as viewed). | https://myanimelist.net/manga/144180/Gachiakuta ; https://myanimelist.net/anime/59062/Gachiakuta |
-| Japanese reception | Real Sound, Tsutaya News; Kodansha Manga Award | Praise for world-building, art and protagonist; 50th Kodansha Manga Award (shonen, 2026) (via Wikipedia). | https://en.wikipedia.org/wiki/Gachiakuta |
-| Creator controversy (critics) | International fans on social media, via Omelete | Read a shared clip imitating Jabber's dreadlocks with leeks as mocking Black features; some escalated to harassment. | https://www.omelete.com.br/mangas-animes/gachiakuta-autora-diretor-de-arte-deixam-x-polemica |
-| Creator controversy (defenders) | Urana; a Studio Bones animator, via Express Tribune | Urana apologized and said no mockery was meant; the animator blamed toxic online fandom and harassment. | https://tribune.com.pk/story/2609996/studio-bones-animator-criticises-online-fandoms-as-creator-kei-urana-leaves-social-media?amp=1 |
-| Piracy dispute | ANN | Urana's anti-piracy posts drew both support and accusations of ignoring global inequality; she later acknowledged access problems abroad. | https://www.animenewsnetwork.com/cms/.236671 |
+| Critic (manga, vol. 1) | Kevin Cormack, ANN | A-; graffiti art praised; setting not original (echoes Kishiro) and might become a generic power fantasy; praises its anger at the super-rich. | https://animenewsnetwork.com/review/gachiakuta/manga-volume-1/.206740 |
+| Librarian (manga, vol. 1) | Renee Scott, School Library Journal Good Comics for Kids | Positive; gritty page-turner on classism and prejudice; rated 16+: "The language within Gachiakuta might be much for younger readers." | https://goodcomicsforkids.slj.com/2024/02/22/gachiakuta-vol-1-review/ |
+| Feminist (anime premiere) | Tony Sun Prickett, Anime Feminist (2025) | Cautiously curious; strong class critique; "the show is angry at the way oppressed people blame and police themselves"; doubts Rudo's anger. | https://www.animefeminist.com/gachiakuta-episode-1 |
+| Critic (anime ep. 13) | Anime Corner | Amo's backstory as the hardest-hitting episode: trafficking shown as "human trafficking adorned in flowers and sparkles"; abuser condemned. | https://animecorner.me/gachiakuta-delivers-its-hardest-hitting-episode-yet-with-amos-backstory/ |
+| Critic (anime ep. 17) | James Beckett, ANN | Praises Zanka's backstory as a study of rage born of privilege. | https://www.animenewsnetwork.com/review/gachiakuta/episode-17/.230570 |
+| Encyclopedia (anime) | The Encyclopedia of Science Fiction (via Wikipedia) | Impressive; praises worldbuilding and its look at social inequality; faults some overlong fights. | https://en.wikipedia.org/wiki/Gachiakuta |
+| Awards | Kodansha Manga Award, Crunchyroll Anime Awards (via Wikipedia) | Kodansha Manga Award (shōnen, 2026); Best New Series (Crunchyroll, 2026). | https://en.wikipedia.org/wiki/Gachiakuta |
+| Fan databases | AniList, MangaUpdates | AniList average 81 (about 69,100 members); MangaUpdates 7.6. | AniList API; MangaUpdates API |
+| Common Sense Media, Plugged In, Christian outlets | — | No review found in search. | none |
 
-No conservative or feminist outlet review of the series was found in this pass.
+No public controversy was found. Critics agree on the art and the class theme; the questions are whether Rudo's anger is compelling and whether the story will move beyond a power fantasy (ANN; Anime Feminist).
 
 ## Most loaded parts and pages to photograph
 
-No volume-to-chapter list could be opened (the Wikipedia chapter list did not load and the fan wiki blocked requests). Arc ranges come from the fan wiki's Story Arcs page and Beebom: Ground Wanderer ch. 1-6; Workplace Observation 7-11; Raiders Trap 12-22; Penta (Lady of Penta) 23-43; Trash Storm 44-81; Heritage Mural 82-90; Information Broker 91-113 (Beebom: 91-116); then Doll Festival and First Job arcs (the two sources order these differently). Volumes average about 8-9 chapters, so volume numbers below are "likely".
+Volume-to-chapter map (English Wikipedia, opened): v1 ch. 1-4; v2 5-13; v3 14-22; v4 23-31; v5 32-40; v6 41-49; v7 50-58; v8 59-67; v9 68-76; v10 77-85; v11 86-94; v12 95-103; v13 104-112 (English to here); v14 113-121; v15 122-130; v16 131-139; v17 140-149; v18 150-160; v19 161-169; ch. 170-176 not yet collected. Arc ranges from Beebom: Ground Wanderer 1-6; Workplace Observation 7-11; Raiders Trap 12-22; Successor Spellcaster 23-28; Lady of Penta 29-43; Trash Storm 44-81; Heritage Mural 82-90; Information Broker 91-116; First Job 117-130; Doll Festival 131 on.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Tribesfolk discrimination, Regto's murder, Rudo tased, condemned and thrown into the Pit; vow to send them "to hell" | 1 (v1) | Sets the caste critique, hereditary guilt, capital punishment and the revenge motive. Drives Politics theme, Critical theory lens and most frame rows. |
-| 2 | Amo's backstory: sold as a child, groomed and raped by "Mister," shown in crayon style; Mister's fall; Rudo reaches out to her | likely 38-43 (v5-6) | Sexuality (5) and Mental health (6) scores; how abuse is depicted; the Depiction concern column. |
-| 3 | Raiders reveal plans to take down the Sphere; Zodyl seeks Rudo's cooperation | likely 60-72 (v8), within Trash Storm arc 44-81 | Opposing views (Mixed): a violent answer to the same injustice. Political axes and Might makes right. |
-| 4 | Rudo's first days on the Ground: Trash Beasts, Anima, first Cleaner | 2-6 (v1) | Animism lens; Pentecostal, Adventist, Jehovah's Witness and Shinto rows. |
-| 5 | Jabber Wonger and the Raiders' trap | likely 17-22 (v2-3) | Violence and Fear peaks; the character at the center of the 2026 video controversy (check his design). |
-| 6 | Rudo's anger described as a hatred-fueled "curse" (Semiu); quote rejecting what he has been told | 16 (v2) and later (to locate) | Whether revenge is endorsed or examined; Mental health. |
-| 7 | Heritage Mural arc in Canvas Town; Hell Guard visit Cleaner HQ | 82-90 (likely v10-11) | Graffiti as identity; Sphere authority on the Ground; Tradition dimension. |
-| 8 | Regto tending Rudo's hands; the gloves' origin | 87 (likely v10) | Mentor framing; Life message. |
-| 9 | Raider Konza arrested and shot by the Hell Guard | to locate (likely Trash Storm arc) | Authority critique; Violence. |
-| 10 | Spot-checks for profanity and fan service (Amo's and other female designs) | throughout | Language (5) and Sexuality scores. |
+| 1 | Regto's murder, Rudo's conviction and exile; Chiwa's rejection | 1 (v1) | Violence, Mental health; the frames' justice theme. Safe to photograph non-gory pages. |
+| 2 | Traffickers capture Rudo; he bites off a captor's fingers | 2-4 (v1) | Violence (7); trafficking theme. Written note only for the injury. |
+| 3 | Amo's backstory: sold by her mother to a trafficker who abused her, including sexually; she kills him | likely 37-40 (v5); anime ep. 13 | Child sexual abuse is reported here (non-detailed, stylized). Do not photograph or scan; review in print, written note only. Decides whether the adult flag applies. |
+| 4 | Amo's revealing clothing and her behavior toward Rudo | 29-43 (v4-5) and later | Sexuality; confirm age and any sexualized framing. Do not photograph or scan; written note only. |
+| 5 | Raiders war: Zanka poisoned and offered to beasts; Zanka's backstory in the well | likely 50-67 (v7-8) | Violence, Mental health. Written note only for the self-harm wish. |
+| 6 | Tamsy revealed as "the Angel"; Amo kidnapped | likely 104-112 (v13) | Fear and betrayal; Winners table. |
+| 7 | Delmon's power bursting bodies | not confirmed | Violence (gore). Written note only. |
+| 8 | Latest arcs: Doll Festival and "Cleaning the Cleaners" | 131-176 (v16-19 and uncollected) | Check whether Rudo's revenge is renounced or pursued; affects Outlook and frame grades. |
 
-Estimate: about 45-60 chapters cover the above; photographing key spreads would take about 80-120 pages.
+Estimate: about 30 chapters cover the above; about 20-30 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
 Pages actually opened:
-- https://en.wikipedia.org/wiki/Gachiakuta
-- https://kodansha.us/series/gachiakuta
-- https://www.penguinrandomhouse.com/books/746066/gachiakuta-6-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/paperback
-- https://www.penguinrandomhouse.com/books/761733/gachiakuta-8-by-by-kei-urana-graffiti-designs-by-hideyoshi-andou/paperback
-- https://gachiakuta.fandom.com/wiki/Story_Arcs (arc ranges only)
-- https://gachiakuta.fandom.com/wiki/Rudo_Surebrec (scene location only)
-- https://beebom.com/gachiakuta-arcs-in-order
-- https://beebom.com/gachiakuta-who-are-raiders
-- https://www.commonsensemedia.org/tv-reviews/gachiakuta
-- https://goodcomicsforkids.slj.com/2024/02/22/gachiakuta-vol-1-review/
+- https://en.wikipedia.org/wiki/Gachiakuta (raw wikitext)
+- https://en.wikipedia.org/wiki/List_of_Gachiakuta_characters (raw wikitext)
+- AniList API, media id 144946 (graphql.anilist.co)
+- MangaUpdates API, series 25659772773 (api.mangaupdates.com)
+- https://kodansha.us/series/gachiakuta/ (16+)
+- https://beebom.com/gachiakuta-arcs-in-order (arc chapter ranges, August 2025)
 - https://animenewsnetwork.com/review/gachiakuta/manga-volume-1/.206740
-- https://www.animenewsnetwork.com/cms/.229883 (episodes 13-14 review)
-- https://www.animenewsnetwork.com/interview/2025-08-08/the-next-big-shonen-anime-gachiakuta-creator-kei-urana-graffiti-designer-hideyoshi-ando-producer-/.226582
-- https://www.animenewsnetwork.com/cms/.236671 (piracy statements)
-- https://kmanga.kodansha.com/blog/?p=1109
+- https://goodcomicsforkids.slj.com/2024/02/22/gachiakuta-vol-1-review/
+- https://www.animefeminist.com/gachiakuta-episode-1
 - https://animecorner.me/gachiakuta-delivers-its-hardest-hitting-episode-yet-with-amos-backstory/
-- https://beneaththetangles.com/tag/gachiakuta/
-- https://beneaththetangles.com/2025/07/06/first-impression-gachiakuta/
+- https://fandomwire.com/the-sad-story-of-amo-in-gachiakuta-who-did-she-kill/
+- https://www.animenewsnetwork.com/review/gachiakuta/episode-17/.230570
+- https://kmanga.kodansha.com/blog/?p=1109 (Talking Shop with Kei Urana, part 1)
+- https://www.animenewsnetwork.com/interview/2025-08-08/the-next-big-shonen-anime-gachiakuta-creator-kei-urana-graffiti-designer-hideyoshi-ando-producer-/.226582
+
+Found in search, not opened (not prioritized):
+- https://gachiakuta.fandom.com/wiki/Amo_Empool
+- https://kmanga.kodansha.com/blog/?p=1410 (Talking Shop with Kei Urana, part 2)
 - https://www.avclub.com/gachiakuta-review-season-1
-- https://bleedingcool.com/tv/gachiakuta-just-another-shonen-fight-anime-for-angry-kids-review
-- https://otakuorbit.com/gachiakuta-chapter-1-review-do-souls-dwell-in-trash/
-- https://tribune.com.pk/story/2609996/studio-bones-animator-criticises-online-fandoms-as-creator-kei-urana-leaves-social-media?amp=1
-- https://www.omelete.com.br/mangas-animes/gachiakuta-autora-diretor-de-arte-deixam-x-polemica
-- https://myanimelist.net/manga/144180/Gachiakuta
-- https://myanimelist.net/anime/59062/Gachiakuta
-
-Found in search results but not opened (titles only; content not verified):
-- Kodansha K MANGA interview part 2: https://kmanga.kodansha.com/blog/?p=1410
-- Paste season 1 review (server error): https://www.pastemagazine.com/tv/gachiakuta/gachiakuta-review-season-1
-- Anime Feminist episode 1: https://www.animefeminist.com/gachiakuta-episode-1
-- CineParenting guide (blocked): https://cineparenting.com/gachiakuta-parents-guide-and-age-rating-2025/
-- Common Sense Media parent and kid reviews: https://www.commonsensemedia.org/tv-reviews/gachiakuta/user-reviews/adult
-- ANN 50th Kodansha Manga Awards: https://www.animenewsnetwork.com/news/2026-05-11/gachiakuta-re-living-my-life-with-a-boyfriend-who-doesnt-remember-me-the-darwin-incident-win-50th-/.237244
-- CG Magazine interview: https://www.cgmagonline.com/interviews/gachiakuta-heart-from-page-to-screen
-- Anime Corner interview and Lucca press conference: https://animecorner.me/inside-the-gachiakuta-anime-interview-with-kei-urana-creator-hideyoshi-andou-graffiti-artist-and-naoki-amano-producer/ ; https://animecorner.me/press-conference-kei-urana-hideyoshi-andou-at-lucca-comics-games-2025/
-- Animation Magazine (director interview): https://www.animationmagazine.net/2025/09/life-in-dystopia-gachiakuta-director-fumihiko-suganuma-offers-insights-into-the-popular-apocalyptic-anime
-- Critical Hits (racism accusation; fan ships): https://criticalhits.com.br/anime/criadora-de-gachiakuta-desativa-conta-no-x-apos-acusacoes-de-racismo-relacionadas-a-video/ ; https://criticalhits.com.br/anime/autora-de-gachiakuta-critica-fas-por-teorias-e-ships-nao-oficiais-sobre-o-manga/
-- Sportskeeda (Helluva Boss controversy): https://www.sportskeeda.com/anime/gachiakuta-creator-gets-controversy-praising-helluva-boss
-- FandomWire (stage play "blackface" headline): https://fandomwire.com/gachiakuta-stage-racist-blackface-moment-unhinged/
-- SensaCine (anime censorship): https://www.sensacine.com/noticias/series/noticia-1000177932/
-- Libreriamo (consumerism): https://libreriamo.it/intrattenimento/gachiakuta-lanime-accusa-consumismo/
-- Rolling Stone India, The Star, The Outer Haven, Comics Beat reviews (titles only)
-- Pixiv Encyclopedia (failed to load): https://dic.pixiv.net/en/a/Gachiakuta
-
-Not reached: Wikipedia chapter list (not found), fan wiki volume and chapter pages (blocked), Plugged In (no review found), conservative outlets (none found).
+- https://www.pastemagazine.com/tv/gachiakuta/gachiakuta-review-season-1
+- https://animeuknews.net/2024/05/gachiakuta-volumes-1-and-2-review
+- https://www.schoollibraryjournal.com/review/gachiakuta-vol-1
+- https://www.cgmagonline.com/interviews/gachiakuta-heart-from-page-to-screen
+- https://animecorner.me/press-conference-kei-urana-hideyoshi-andou-at-lucca-comics-games-2025/
+- No Common Sense Media, Plugged In or Beneath the Tangles review found in search.
 
 ## Full-read review checklist
 
-- [ ] Build the volume-to-chapter map from the volumes' contents pages. Affects every chapter citation marked "likely".
-- [ ] Confirm the 16+ rating printed on the Kodansha vol. 1 cover and the current English volume count. Affects Series facts.
-- [ ] Ch. 1 (v1): check how the tribesfolk are drawn and named, how graphic Regto's murder is, how the conviction is staged, the "Angel" figure, and Rudo's vow. Affects Violence (7), Politics theme and Message delivery (Strawman row).
-- [ ] Ch. 2-6 (v1): how Anima and Vital Instruments are explained; any spiritual language. Affects Pagan/animism lens and the Pentecostal, Adventist, Jehovah's Witness and Shinto rows.
-- [ ] Raiders Trap arc (ch. 12-22): Jabber's introduction and design; level of gore. Affects Violence, Fear and the controversy context.
-- [ ] Ch. 16: the quote where Rudo rejects what he has been told. Affects Message delivery and Mental health.
-- [ ] Amo's backstory (likely ch. 38-43, v5-6): confirm chapters, how the crayon-style pages depict the abuse, whether anything is explicit, and Amo's outfit and design. Affects Sexuality (5), Mental health (6) and Depiction concern column.
-- [ ] Trash Storm arc (ch. 44-81, v8 blurb): Zodyl's stated reasons for destroying the Sphere and how fairly they are framed; Konza's shooting by the Hell Guard; Noerde's death. Affects Opposing views (Mixed), Political axes and Winners table.
-- [ ] Heritage Mural arc (ch. 82-90) and ch. 87: graffiti as heritage; Regto tending Rudo's hands. Affects Tradition dimension and Life message.
-- [ ] Spot-check Kodansha's English profanity in 3-4 chapters. Affects Language (5).
-- [ ] Look for any fan service panels across volumes. Affects Sexuality.
-- [ ] Read author's notes and volume afterwords for statements about class, discrimination or intent. Affects Creator context.
-- [ ] Check for official character popularity polls in volume extras or Weekly Shonen Magazine. Affects Fan favorites.
-- [ ] Open the Paste review, Anime Feminist episode 1 post, ANN Kodansha award news, K MANGA interview part 2, and any conservative or Christian long-form review. Affects How readers took it and Message delivery.
-- [ ] Verify the stage play "blackface" headline and the Helluva Boss item against reputable outlets before adding them. Affects Creator context.
+- [ ] Likely ch. 37-40 (v5): Amo's backstory. Confirm the chapters and whether any sexual abuse is shown on the page (sources describe it as stylized and not detailed). Written note only; do not photograph. Decides the adult flag and every frame's Depiction concern.
+- [ ] Confirm Amo's stated age and check her appearances (ch. 29-43 and later) for sexualized framing beyond her revealing outfit. Written note only.
+- [ ] Check Riyo, Guita and other young characters for fan service; none reported. Written note only.
+- [ ] Ch. 2-4: trafficking and the finger-biting scene; confirm gore level. Affects Violence (7).
+- [ ] Ch. 131-176: confirm whether Rudo's revenge goal changes, who killed Regto, and the status of the Sphere. Affects Outlook, frame rows on revenge and the Winners table.
+- [ ] Zanka's backstory (wish to die in a well): confirm chapter and framing. Affects Mental health (6).
+- [ ] Spot-check Kodansha USA language in 3-4 chapters (School Library Journal flags it). Affects Language (5).
+- [ ] Open the K MANGA interview part 2 and the CGMagazine interview for Urana's statements on themes. Affects Creator context.
+- [ ] Open the not-opened reviews (AV Club, Paste, Anime UK News). Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

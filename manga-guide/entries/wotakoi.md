@@ -1,21 +1,21 @@
-# Wotakoi: Love Is Hard for Otaku (Fujita)
+# Wotakoi: Love Is Hard for Otaku
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium-low.** Series facts come from English and Japanese Wikipedia, MyAnimeList, MangaUpdates and Kodansha's own volume pages (all opened). Scene details come from TV Tropes (main, characters and YMMV pages), the fan wiki, Kodansha synopses, Anime News Network reviews and Bloom Reviews (opened, used to locate scenes only). Creator statements come from three opened interviews (Kodansha 2022 two-part finale interview, Kodansha 2025 ten-year interview, Anime Corner 2025). No Common Sense Media, Plugged In or ScreenWise review exists that could be found. **Chapter numbering is unreliable for this series:** the web serial on Comic Pool ran about 60 numbered chapters (ANN), MangaUpdates lists 82 chapters, MyAnimeList 105 entries, and TV Tropes cites chapter numbers up to 86, so this entry anchors scenes to Japanese (JP) and English (EN) volumes and marks chapter numbers with their source. Items resting on general knowledge are marked "(from general knowledge; to verify)".
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 16 lookups for this series, plus shared lookups for the batch). The series is complete: 11 Japanese volumes (about 86 main chapters plus numbered extras; AniList counts 115 with extras), published in English as six Kodansha volumes (five 2-in-1 omnibuses and a single final volume). Chapter numbers follow the Japanese volumes as given by the fan wiki. Series facts come from English Wikipedia (opened through its raw-text endpoint), the AniList and MangaUpdates APIs and Kodansha USA's 2026 print series guide (PDF, which gives the publisher rating); Kodansha's own series pages were blocked. Character and late-series facts come from the Wotakoi fan wiki (Narumi, Hanako and Kou pages, read through its API; facts only). Reviews opened: Anime News Network's Spring 2018 Manga Guide (three reviewers), Soliloquy in Blue (Manga Bookshelf), Otaku USA, and Anime Feminist (anime premiere). Creator statement: Anime Corner's interview with Fujita at Kodansha House. No Common Sense Media, Plugged In or Christian-site review was found; Kodansha's two-part 2022 finale interview with Fujita was found but blocked. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Wotakoi: Love Is Hard for Otaku. Japanese: ヲタクに恋は難しい (*Wotaku ni Koi wa Muzukashii*, "Love is difficult for an otaku") |
-| Creators | Fujita (story and art), a pen name. Fujita has not made gender or private life a topic in English sources; English interviews use different pronouns, so this entry uses the name only |
-| Origin | Posted on pixiv from April 17, 2014; serialized in Comic Pool (a joint Ichijinsha-pixiv web magazine) from November 6, 2015 to July 16, 2021. Print by Ichijinsha, 11 volumes (April 30, 2015 to October 14, 2021), with OAD-bundled special editions of vols. 7, 10 and 11 (Wikipedia). TV Tropes and MangaUpdates class it as josei (adult women); MAL lists no demographic and tags it "Adult Cast, Otaku Culture, Workplace." Complete |
-| English edition | Kodansha Comics (Kodansha USA). Six English books: five 2-in-1 omnibuses (EN 1 = JP 1-2, EN 2 = JP 3-4, EN 3 = JP 5-6, EN 4 = JP 7-8, EN 5 = JP 9-10) and a standalone final EN 6 = JP 11 (Wikipedia; MangaUpdates; Bloom Reviews confirms EN 3 = JP 5-6). Dates: April 17, 2018 to June 14, 2022. **Kodansha age rating: 16+** (vols. 1, 2, 4, 5, 6 pages opened). Kodansha's site and Penguin Random House list the books as paperback; the series is widely described as a hardcover omnibus line (from general knowledge; to verify on a copy). Volumes: 11 in Japan, 6 in English. An Official Art Works book is also in English |
-| Anime | A-1 Pictures, 11 episodes, April to June 2018 on Fuji TV's noitaminA (dir. Yoshimasa Hiraike); streamed on Amazon Prime Video (license since expired). Three OADs (2019, 2021, 2021; the last two by Lapin Track and staff unlisted). The anime covers JP vol. 1 to vol. 4 (MangaUpdates). TV rating not found. Live-action film (Toho, dir. Yuichi Fukuda, February 7, 2020), first at the Japanese box office on opening weekend; a stage play in May 2022 (Wikipedia; Japanese Wikipedia) |
-| Recognition | Next Manga Award 2014/2015, web manga category (winner); *Kono Manga ga Sugoi!* 2016, first in the women's list; 9th in the Bookstore Employees' Recommended Comics 2017; nominated for the 41st Kodansha Manga Award (general); JP vols. 2 and 4 topped Oricon's weekly chart. Over 10 million copies by August 2020 (English Wikipedia), over 12 million by June 2021 (Japanese Wikipedia). MyAnimeList: 8.34, popularity #94, about 153,000 members (opened November 2026) |
-| Other guides | No Common Sense Media, Plugged In or ScreenWise review found. Publisher rating Kodansha 16+ |
+| Title | Wotakoi: Love Is Hard for Otaku. Japanese: ヲタクに恋は難しい (Wotaku ni Koi wa Muzukashii, "love is hard for otaku") (Wikipedia; AniList id 86717, confirmed) |
+| Creators | Fujita (story and art). The series began as Fujita's personal webcomic; Fujita says it grew out of conversations with otaku friends about everyday life and relationships (Anime Corner interview) |
+| Origin | First posted on Pixiv on April 17, 2014; serialized in Comic Pool, a web magazine run by Ichijinsha and Pixiv, from November 6, 2015 to July 16, 2021; 11 volumes from Ichijinsha (April 30, 2015 to October 14, 2021). **Complete.** Classed as josei (adult women's) by MangaUpdates and AniList (Wikipedia; MangaUpdates) |
+| English edition | Kodansha USA (Kodansha Comics): five 2-in-1 omnibuses (April 2018 to October 2021) and volume 6 (Japanese vol. 11; digital May 24, 2022, print June 14, 2022). Publisher rating: **T+ (Teens 16+)** in Kodansha's 2026 print series guide, which defines T+ as possibly containing "some nudity and sexuality, gory violence, and harsh language" (Kodansha PDF; Wikipedia) |
+| Anime and film | A-1 Pictures TV anime, 11 episodes, April 13 to June 22, 2018 (Fuji TV noitaminA; streamed on Amazon Prime Video, license since expired), adapting about Japanese vol. 1-4; three OVAs (2019-2021); live-action film, February 2020 (Wikipedia; MangaUpdates) |
+| Recognition | First Next Manga Award, web category (2015); ranked first in Kono Manga ga Sugoi! 2016; ninth in the 2017 bookstore staff poll; nominated for the 41st Kodansha Manga Award; won the 2017 Web Manga General Election; over 10 million copies by August 2020 (Wikipedia). Database scores: AniList average 82, about 66,000 members; MangaUpdates 8.21 (Bayesian, 641 votes) |
+| Other guides | No Common Sense Media, Plugged In or Christian-site review found in search. MangaUpdates genres: Comedy, Josei, Romance, Slice of Life; tags include Alcohol, Smoking, Big Breasts, Small Breasts, Cross-dressing, Fujoshi and Office Romance. AniList tags: Otaku Culture, Primarily Adult Cast, Office Lady, Iyashikei, Crossdressing |
 | Entry tier | From summaries |
 
-**Premise.** Narumi Momose, 26, is a fujoshi (a woman fan of boys' love manga), cosplayer and doujinshi artist who has been dumped by boyfriends once they learned she was an otaku. After her last breakup she changes jobs and plans to hide her hobbies. At the new office she meets her childhood friend Hirotaka Nifuji, a handsome, deadpan, highly capable gamer who has loved her since middle school. Over drinks after work, he proposes that they date, since two otaku will not have to hide from each other (JP vol. 1). Their senior coworkers Hanako Koyanagi, a famous male-character cosplayer, and Taro Kabakura, a "light otaku" who guards his image, are a bickering couple who have dated since high school. Hirotaka's non-otaku younger brother Naoya, 19, befriends Kou Sakuragi, a shy, tall gamer he first takes for a boy. The series is an episodic office comedy about four adult friends and three couples; it ends with Narumi facing her fear of being outed at work (JP vol. 11) and a company trip.
+**Premise.** Narumi Momose, 26, an office worker, has been dumped by boyfriends who found out she is an otaku and a fujoshi (a fan of boys' love, or BL, manga), and at her last job an ex spread it around the office (Anime Feminist). At her new company she meets her childhood friend Hirotaka Nifuji, a capable, expressionless gamer who does not hide his hobby. He outs her by asking about Comiket, then offers himself as a boyfriend who will accept her as she is, and they start dating (ch. 1; Kodansha summary via AniList). Their coworkers Hanako Koyanagi, a popular cosplayer, and Taro Kabakura, a gentler fan, are a long-time bickering couple. Hirotaka's cheerful non-otaku brother Naoya befriends Kou Sakuragi, a shy, anxious gamer whom he first takes for a boy. The story is mostly short comic episodes about games, conventions, drinking after work and small fights; Hanako and Kabakura marry (vol. 9, ch. 65.3) and expect a child (vol. 11, ch. 86), Naoya and Kou become a couple, and the author's afterword sketches show Hirotaka proposing to Narumi and the two raising a son (fan wiki).
 
 ## Life message
 
@@ -23,275 +23,252 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | Mate choice by shared interests (assortative pairing) is the premise: Hirotaka argues that matching hobbies make a durable bond (JP vol. 1). Long pair-bonds lead to engagement (JP vol. 7), marriage (JP vol. 9) and a pregnancy (TV Tropes ch. 86) for Hanako and Kabakura. Status anxiety is real: Kabakura guards his image; Narumi fears losing standing at work. Hanako, drunk, voices mate-insecurity ("not his type"; TV Tropes). |
-| Pragmatic | The couples work out problems by talking, often over drinks. Hirotaka is a model worker who finishes his paperwork first (fan wiki, JP vol. 1). Hobbies are recreation that keeps adults sane; Fujita says partners and hobbies help the characters "look after themselves" (Kodansha 2025). |
-| Religious | No religion on the page beyond seasonal customs (a Christmas story; Beneath the Tangles). Adult dating, routine drinking, smoking and boys'-love fandom sit outside any religious frame and are not judged. One Christian blogger reads the Christmas episode through 1 John 4:7-11 (love is from God) and another pairs Narumi and Hirotaka with 1 Corinthians 13. |
-| Socio-cultural | A study of stigma: in Japan, adult otaku (especially women) are expected to hide their hobbies at work. Caitlin Moore (Anime Feminist) notes the double standard: Hirotaka games openly at lunch while Narumi fears being shunned. Fujita frames Narumi's hiding as a Japanese pressure to conceal difference that younger readers increasingly find puzzling, a sign of "cultural progress" (Kodansha 2025). |
+| Evolutionary biology | Pair-bonding among adults at the age of settling down: two couples, then marriage and a child for the older pair (vol. 9-11). Status at work and the fear of being shunned by the group drive Narumi's secrecy. |
+| Pragmatic | Relationships work through small, practical kindnesses: Hirotaka helping with Narumi's doujinshi deadline, noticing when she is unwell (Soliloquy in Blue). Kabakura claims he simply enjoys things in moderation (Soliloquy in Blue). |
+| Religious | No religion appears; seasonal events such as Christmas are social occasions. Faith readers weigh the warm picture of faithful love, marriage and friendship against routine drinking, breast jokes and BL fantasy talk. |
+| Socio-cultural | A story about the stigma on adult and especially female otaku: Anime Feminist notes that Narumi's hobby ruined her last workplace while Hirotaka games openly at lunch. Fujita says the hope was that people could accept each other's private sides and be kind (Anime Corner). |
+
+Outlook: Hopeful. No one is lost or punished; the couples grow steadier, the older pair marries and expects a child, and the shy characters find friends and love.
+Hope source: L (love between two). The story's way through is a partner who accepts you whole; friendship among the four (F) is the close second.
 
 ## Content scores
 
-**Overall content level: 4 out of 10** (set by Substances). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 4 out of 10** (set by Substances, with Sexuality and romance close behind). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 1 | Occasional, comic | Neutral (gags) | Slapstick between Hanako and Kabakura ("slap-slap-kiss"; Hanako grabs his necktie; she jokes about fantasizing about killing him several times a day; TV Tropes). Amy McNulty (ANN) calls their insulting arguments unhealthy. No weapons, blood or fights. |
-| Fear and intensity | 0 | None | Neutral | No danger or horror. Tension is social: fear of being outed. |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 3 | Central (romance); frequent (jokes) | Endorsed (romance); Neutral (jokes) | Adult dating and an office romance are the subject; the leads' relationship is so low-key that fans and Narumi herself wonder if it is just friendship (TV Tropes YMMV). An almost-kiss turns into a hug (anime ep. 9, manga ch. 14 per TV Tropes). Recurring breast-size jokes about Narumi ("A-cup angst") and Hanako; Hirotaka prefers busty figurines and teases Narumi (TV Tropes); reviewers flag "boob gags" (Beckett, ANN; Moore, Anime Feminist; Silverman calls them "standard"). Hanako searches Hirotaka's apartment for a porn stash; "big breast books" on Kabakura's desk (TV Tropes). Narumi and Hanako talk about BL pairings (who is seme or uke), have Hirotaka "kabedon" Kabakura for their fantasy, and Narumi sells doujinshi at Comiket (TV Tropes); the doujinshi contents are not shown in sources (to verify). Mild same-sex teasing ("Les Yay," "Ambiguously Bi"; Hanako's first love was a Takarazuka actress; TV Tropes). Hanako and Kabakura engage (JP vol. 7), marry (JP vol. 9) and expect a child (TV Tropes ch. 86): sex implied within marriage only. Whether Narumi and Hirotaka sleep together or live together is not reported in any opened source (to verify). No nudity reported. |
-| Language | 2 | Occasional | Neutral | Insults in Hanako and Kabakura's fights (ANN, McNulty). Kodansha's English profanity not checked (to verify). |
-| Substances | 4 | Frequent | Neutral to Endorsed (social drinking as normal adult life); occasional comic consequences | After-work drinking is where the story starts: Narumi "chugs an entire liter of beer in despair" over her breakup (Steve Jones, ANN, anime ep. 1; JP vol. 1); the leads grumble "over a beer" (Creamer, ANN). Hanako is a lightweight: "a couple of beers" leave her ranting and stumbling, and drunk she confesses her fear that Kabakura is with her for convenience (TV Tropes; Japanese Wikipedia, JP vol. 1). Hirotaka has a high tolerance (fan wiki) and is described as a heavy smoker who smokes at izakaya (Japanese Wikipedia; fan wiki). A "good angel" suggests Kabakura go drinking with his kohai (TV Tropes ch. 60). All drinkers are adults; no drugs reported. |
-| Mental health and self-harm | 2 | Recurring | Shown with care | Narumi's anxiety about being outed at work, which drives the final arc and an argument with Hirotaka (Kodansha EN 6; JP vol. 11). Kou's social anxiety and low self-esteem: she runs off in tears when Naoya learns she is a woman (TV Tropes); Fujita calls her the kindest character because low self-esteem makes people careful not to hurt others (Kodansha 2022). Hanako's insecurity in her relationship. No self-harm. |
-| Imitable behavior | 2 | Occasional | Neutral | Drinking to cope with a breakup (ep. 1); smoking; slacking at work (Narumi checks her newsfeed instead of working; Silverman, ANN). |
-| Commercial | 3 | Frequent | Endorsed (fandom as joy) | Otaku buying is everyday life: an Animate store trip (fan wiki, ep. 2), Comiket (TV Tropes), figurines, games, cosplay magazines. Many real-title parodies (an *Evangelion* parody in ep. 2). The franchise itself spans anime, OADs, film, stage play and an art book. |
+| Violence | 1 | Occasional, comic | Neutral (gags) | Slapstick: smacks and kicks between bickering partners, game-style battle panels (Otaku USA). Nothing injurious. |
+| Fear and intensity | 0 | None | Neutral | A haunted-house or horror-ride outing played for laughs (fan wiki, Hanako page). |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 3 | Central (romance); frequent (jokes) | Endorsed (romance); Neutral (jokes) | Adult romance with kisses and dates; no sex shown in sources opened (whether couples are shown staying the night is to verify). Breast-size jokes about Hanako and Narumi recur: ANN's Rebecca Silverman lists routine breast jokes among the humor; Anime Feminist flags a jarring comment by Hirotaka about Narumi's chest (anime ep. 1). Narumi and Hanako debate which of their boyfriends would be top or bottom in a BL pairing and pose them for photos (fan wiki). Narumi draws BL doujinshi (vol. 1); explicitness of any doujinshi shown is to verify. Hanako crossplays male characters; Kou is mistaken for a boy (fan wiki). MangaUpdates tags Big Breasts, Small Breasts, Cross-dressing. |
+| Language | 2 | Occasional | Neutral | Hanako and Kabakura trade "ugly" and "idiot" (Soliloquy in Blue); ANN's Amy McNulty found their insults grating. Strong profanity not reported (to verify in the Kodansha text). |
+| Substances | 4 | Frequent | Neutral to Endorsed (social drinking as normal adult life) | Drinking at bars after work is the friends' main meeting place (fan wiki, Hanako and Narumi pages); Narumi has a high tolerance; Hanako's drunkenness is played as comedy (earlier quick read; to verify chapter). MangaUpdates tags Alcohol and Smoking; which characters smoke is to verify (Kabakura and Hanako, from general knowledge; to verify). |
+| Mental health and self-harm | 2 | Recurring | Shown with care | Kou's social anxiety and constant apologizing; her self-doubt before Naoya asks her out (fan wiki). Narumi's fear of being found out and shunned (Anime Feminist). Fujita says characters' personal struggles were not to be made light of (Anime Corner). |
+| Imitable behavior | 2 | Occasional | Neutral | Gaming through the night, spending on hobby goods, heavy drinking after work. |
+| Commercial | 3 | Frequent | Endorsed (fandom as joy) | Games, Comiket, cosplay, idol and otome-game fandom are the texture of the series; real titles referenced (Otaku USA notes moe, waifu, MMORPG and NTR jargon with a glossary). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Incidental | Families are mostly offstage. Naoya cooks for and looks after his older brother (TV Tropes). The office hierarchy is light: senpai Hanako and Kabakura give advice from experience (Fujita, Anime Corner). Bosses are minor. Marriage and a child arrive for the senior couple (JP vol. 7-9; ch. 86). |
-| Religion and spirituality | Not present | Seasonal customs only (a Christmas story). |
-| Gender and identity (incl. LGBTQ) | Recurring | Women's geek hobbies carry more stigma than men's (Moore, Anime Feminist). Hanako crossplays male characters and Kou is gender-nonconforming in looks; Kou is a woman mistaken for a man, not a trans character, and Fujita added a note that her romance is not a BL subplot (TV Tropes YMMV). BL fandom is central to Narumi and Hanako's identity. Fujita says Hirotaka is "actually meant to be the heroine" and that Narumi was meant as a hero who saves him (Kodansha 2022). No same-sex couple. |
-| Politics and social issues | Incidental | Social stigma against otaku and conformity pressure at work; the series is often credited with helping adult otaku feel they can be open (Fujita, Kodansha 2022). |
+| Family and authority | Incidental | Families are mostly offstage; Hirotaka and Naoya's brotherly care is warm; Kou's father shared her gaming (fan wiki). Office seniors (senpai) are friends and mentors, not authorities to fear. |
+| Religion and spirituality | Not present | None found in sources opened. |
+| Gender and identity (incl. LGBTQ) | Recurring | Stigma on female otaku (Anime Feminist); BL fandom as a women's hobby; a woman crossplays male characters; a woman mistaken for a boy is accepted as she is. No LGBTQ couple among the main cast in sources opened. |
+| Politics and social issues | Incidental | Workplace conformity and the shame of hobbies; generational change in Japan's view of otaku (earlier quick read citing Kodansha, 2025; to verify). |
 
-**Virtues shown:** acceptance, patience (letting a partner open up at their own pace), loyalty in long friendship and long love, kindness to the shy (Naoya and Kou), honesty after fights, diligence at work (Hirotaka), generosity, good humor.
+**Virtues shown:** acceptance, patience in love, faithfulness (two long relationships, one ending in marriage), kindness to the shy (Naoya and Kou), loyalty among friends, diligence at work, apology and reconciliation after fights.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only; intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself; intensity for age stays in Content scores. All frame guides are still drafts from general knowledge, so every row is a draft. What the rows weigh: the core message (acceptance, patience, faithful long-term love, kindness to the shy) is warm; **social drinking and smoking are normal adult life, shown without judgment**; the leads date as adults with no religious frame, and whether they are sexually active or cohabit is not reported (to verify); the senior couple marries before a pregnancy; BL fandom and breast jokes are recurring humor. On the page: no nudity or sex reported, mild language.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: an adult romance built on acceptance and patience; two long relationships, one ending in marriage and an expected child (vol. 9-11); kindness to a socially anxious young woman; routine after-work drinking and some smoking shown as normal; recurring breast jokes and BL fantasy talk about coworkers; affectionate but sharp insults between partners; the leads' unmarried relationship, with marriage only in the author's afterword sketches. All main characters are adults; no content involving minors was reported by any source opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Discuss | Faithful, patient love; a long courtship that ends in marriage and a child (Hanako and Kabakura, JP vol. 7-9); dignity of the outsider; friendship. | BL fantasy talk and breast gags as humor (CCC 2521-2524 on modesty); drinking to cope (CCC 2290 permits moderation, not drunkenness); premarital status of the leads unaddressed. | Inter Mirifica 7: is anything evil made attractive here? Love that "does not dishonor others" (1 Cor 13) in how the couples tease. |
-| Eastern Orthodox | B | Discuss | Gentle, faithful love; humility; marriage and children as the senior couple's path. | Guarding the senses (nepsis) for gags and BL fantasies; hobbies as the center of life. Alcohol is permitted in Orthodoxy; drunkenness is condemned. | Do our hobbies serve love of neighbor or crowd it out? (from general knowledge; to verify) |
-| Baptist | B | Discuss | Kindness, loyalty, apology after fights, marriage before a child. | Many Baptists abstain from alcohol (SBC resolutions), and here drinking is the normal social glue; smoking; breast jokes and BL fantasies against Philippians 4:8. | Philippians 4:8 as the test for the gags. What does honest friendship look like without a drink in hand? |
-| Non-denominational Evangelical | B | Discuss | "Accept one another" (Romans 15:7) is close to the story's core; patient love; reconciliation. | Social drinking as normal; same-sex fantasy talk as humor; no faith in the characters' lives. Engage-or-separate views differ by family. | Romans 14 on liberty and conscience applied to drinking. Where does identity come from: hobbies, partner, or God? |
-| Pentecostal / Charismatic | C | Discuss | Joy, warmth, friendship, kindness to the anxious (Kou). | Many abstain from alcohol (AG position); holiness standards on modesty and worldly amusements; BL fandom. No occult content. | Worldliness and the place of entertainment in a believer's life. |
-| Reformed / Presbyterian | B | Discuss | Common grace: honest work, faithful love and marriage shown well by a non-Christian author. | WLC Q139 on lascivious books and pictures applies mainly to the breast gags and BL fantasy talk; drunkenness (Hanako) is sinful by WLC Q139, though it is played as a joke. | Vocation and work (Hirotaka's diligence). Are hobbies idols or gifts? |
-| Lutheran | B | Minor | Vocation in daily work and friendship; entertainment as adiaphora; marriage honored. | Hanako's drunkenness; the gags. LCMS and WELS families weigh these more than ELCA families. | The Sixth Commandment and the Small Catechism's "decent" life; Christian freedom in recreation. |
-| Methodist / Wesleyan | C | Discuss | Kindness, inclusion of the shy, faithful love. | Historic abstinence (General Rules; holiness churches ask members to abstain; UMC recommends abstinence as a witness) against a story where drinking is constant; diversions that do not "tend to the knowledge or love of God." | "Do no harm" applied to drinking to cope with sorrow (ep. 1). |
-| Anglican / Episcopal | A | Minor | A gentle, well-told comedy whose good is clearly good; marriage and family; moderate drinking normal in the tradition. | Drunkenness as a gag; breast jokes. Episcopal and ACNA families differ on the leads' unmarried status and same-sex teasing. | Love "bears all things": patience with a partner who is slow to open up. |
-| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Simple friendship, forgiveness, peaceable couples, faithful marriage. | Separation from worldly media makes a secular hobby comedy a concern for Old Order families; many abstain from alcohol; consumer hobby culture. MC USA families vary. | Simplicity: what do the characters' purchases and hobbies cost them? |
-| Latter-day Saint | C | Discuss | Faithful love, marriage and a child; kindness; honest work. | Word of Wisdom: alcohol and tobacco are shown as normal and pleasant; law of chastity as to the leads is unaddressed; breast gags and BL fantasy talk. | For the Strength of Youth: does this invite the Spirit? How do the couples show love without alcohol? |
-| Mainline progressive Protestant | A | Minor | Welcome of people who feel they must hide who they are; women's hobbies taken seriously; a gender-nonconforming woman (Kou) accepted. | Breast jokes; drinking to cope. | Who in our community hides something harmless out of fear of judgment? |
-| Seventh-day Adventist | C | Discuss | Kindness, diligence, marriage and family. | Alcohol and tobacco, which members abstain from (Fundamental Belief 22 and the health message), are shown as normal; entertainment centered on hobbies and romance. | "By beholding we become changed" applied to the drinking scenes. (from general knowledge; to verify) |
-| Jehovah's Witness | C | Discuss | Honesty, kindness, a long courtship ending in marriage (senior couple). | Drunkenness played as a joke (Hanako); BL fantasy talk; worldly entertainment as identity. No violence or spiritism. | jw.org's question: does it feature what God hates? Galatians 5:19-21 on drunkenness. (from general knowledge; to verify) |
-| Christian Science | C | Minor | Love and acceptance dispel fear: Narumi's anxiety about being outed eases through Hirotaka's support. | Members abstain from alcohol and tobacco (Church Manual), shown here as normal; dwelling on anxiety. | "Stand porter at the door of thought": how did Narumi's fear change? (from general knowledge; to verify) |
-| Orthodox Jewish | C | Significant | Kindness, loyalty, marriage and children for the senior couple. | Tzniut: mixed-sex dating and office flirting, breast gags, BL fantasy talk; nivul peh in the couples' insults. Many Haredi homes would not have the series; Modern Orthodox families are selective. | Shalom bayit and the bickering couple. Kavod habriyot for the shy and judged. (from general knowledge; to verify) |
-| Conservative Jewish | B | Discuss | Dignity of people who feel they must hide; family formed through marriage; kind speech after fights. | Modesty in the gags; insults between partners; drinking. | Lashon hara and how coworkers might talk about Narumi if she were outed. (from general knowledge; to verify) |
-| Reform Jewish | A | Minor | Dignity and inclusion of the judged; informed choices about hobbies; healthy adult relationships. | Breast gags; drinking to cope. | What would tikkun olam look like for an office that shames people's hobbies? (from general knowledge; to verify) |
-| Muslim | C | Significant | Kindness, loyalty, marriage before children, honest work. | Alcohol is forbidden (Qur'an 5:90) and is constant here; unchaperoned dating; lowering the gaze (24:30-31) for the breast gags; BL fantasy talk. | Friendship and support without intoxicants. What does the Qur'an say about mocking others (49:11) compared with the couples' teasing? |
-| Hindu | B | Discuss | Grihastha (householder) life arriving through marriage; friendship; diligence. | Many devotional families abstain from alcohol; some apply the Gita's tamasic category (ch. 17) to intoxication and idle entertainment. | Balance of duty (work) and pleasure (hobbies) in a householder's life. (from general knowledge; to verify) |
-| Buddhist | B | Minor | Patience, compassion for the anxious, letting others move at their own pace. | Fifth precept (no intoxicants) against routine drinking; attachment to collecting and fandom. | Is fandom a joy or a craving? Right speech in the couples' insults. |
-| Sikh | C | Discuss | Seva-like kindness among friends, honest work, faithful marriage. | Tobacco is one of the four kurehits and alcohol is rejected; both are normal here. Kaam (lust) in the gags; moh (attachment) to possessions. | Sangat (good company) and what makes company good. (from general knowledge; to verify) |
-| Bahá'í | C | Discuss | Unity, kindness, inclusion of the judged, marriage. | Alcohol is forbidden and shown as normal; the call to a "chaste and holy life" for the gags and unaddressed premarital status. | What does a chaste and holy life mean for adults dating? (from general knowledge; to verify) |
-| Shinto | A | Minor | Sincerity (makoto), harmony in the group, gratitude; drinking among friends fits Japanese social custom. | Little to raise. | Harmony versus honesty: when should a person stop hiding? (from general knowledge; to verify) |
-| Wiccan / Pagan | A | Minor | "Harm none" in accepting friends; self-expression through cosplay; no stereotyping of pagans. | Little to raise; insults between partners. | Self-expression and costume as identity. (from general knowledge; to verify) |
-| Scientologist | B | Minor | The Way to Happiness: be worthy of trust, be faithful to one's partner, help others; problems solved by communication. | Drinking to cope; excess discouraged. | Which precepts do the couples keep? Communication as the way through Narumi and Hirotaka's argument (JP vol. 11). (from general knowledge; to verify) |
-| Secular progressive | A | Minor | Anti-stigma message, women's geek hobbies taken seriously (Moore), a gender-nonconforming woman accepted, consent-minded pacing ("watching over someone as they move at their own pace," Fujita). | "Out-of-place boob comments" (Moore); unhealthy insults in the senior couple (McNulty); drinking as coping. | Why does Narumi fear judgment more than Hirotaka does? Kodansha rates it 16+. |
-| Secular humanist | A | Minor | Meaning from friendship, love and chosen pleasures; reason and communication solve problems; no supernatural claims. | Little to raise; responsible drinking is the main talking point. | What makes a hobby healthy? How do adults support each other without pressure? |
-| Conservative / traditional | B | Discuss | Long faithful courtship, marriage before a child, diligent work, loyalty among friends. | Adults whose identity centers on hobbies and consumer fandom; BL fandom; drinking and smoking as normal; the leads' unmarried relationship has no stated endpoint. | What makes a good husband or wife: shared hobbies or shared duties? |
-| Unitarian Universalist | A | Minor | Inherent worth of the judged; free search for one's own interests; acceptance of difference. | Breast jokes. | How does a community make it safe to be open? (from general knowledge; to verify) |
-| Satanist | A | Minor | Indulgence in chosen pleasures without guilt, refusal to conform to office norms, loyalty to those who earn it (Church of Satan); compassion (Satanic Temple Tenet 1). | Narumi's long self-concealment reads as yielding to herd judgment. | Is hiding your hobbies self-protection or surrender? (from general knowledge; to verify) |
+| Catholic | B | Discuss | Faithful, patient love; a long courtship that ends in marriage and an expected child (Hanako and Kabakura, vol. 9, ch. 65.3; vol. 11, ch. 86); dignity of the outsider; friendship. | BL fantasy talk and breast gags as humor (CCC 2521-2524 on modesty); drinking as social glue (CCC 2290 permits moderation, not drunkenness); the leads' premarital relationship is not addressed. | CCC 1604 on love as the vocation of every person: what makes Hirotaka's love for Narumi real? |
+| Eastern Orthodox | B | Discuss | Gentle, faithful love; humility; marriage and children as the older couple's path. | Guarding the senses (nepsis) for gags and BL fantasies; hobbies at the center of life. Alcohol is permitted; drunkenness is condemned. | Marriage as a path of mutual care: what does Kabakura give up for Hanako? (from general knowledge; to verify) |
+| Baptist | B | Discuss | Kindness, loyalty, apology after fights, marriage before a child. | Many Baptists abstain from alcohol (SBC resolutions), and here drinking is the normal social glue; smoking; breast jokes and BL fantasies against Philippians 4:8. | "Accept one another, then, just as Christ accepted you" (Romans 15:7): how do these friends accept each other? |
+| Non-denominational Evangelical | B | Discuss | Acceptance (Romans 15:7) is close to the story's core; patient love; reconciliation. | Social drinking as normal; same-sex fantasy talk as humor; no faith in the characters' lives. Engage-or-separate views differ by family. | Is a hobby an idol or a gift? Where is the line? |
+| Pentecostal / Charismatic | C | Discuss | Joy, warmth, friendship, kindness to the anxious (Kou). | Many abstain from alcohol (Assemblies of God position); holiness standards on modesty and worldly amusements; BL fandom. No occult content. | Joy and friendship without alcohol: could these friends have the same fun sober? (from general knowledge; to verify) |
+| Reformed / Presbyterian | B | Discuss | Common grace: honest work, faithful love and marriage shown well by a non-Christian author. | WLC Q139 on lascivious books and pictures applies mainly to the breast gags and BL fantasy talk; drunkenness is played as a joke. | WSC Q1 beside a life organized around hobbies: what is a hobby for? |
+| Lutheran | B | Minor | Vocation in daily work and friendship; entertainment as adiaphora; marriage honored. | Drunkenness as a gag; the jokes. LCMS and WELS families weigh these more than ELCA families. | Vocation at the office: how do Narumi and Hirotaka serve their coworkers? |
+| Methodist / Wesleyan | C | Discuss | Kindness, inclusion of the shy, faithful love. | Historic abstinence (General Rules; holiness churches ask members to abstain; UMC recommends abstinence as a witness) against a story where drinking is constant; diversions that do not tend to the love of God. | Wesley's rule on diversions: which of these hobbies build up, and which do not? (from general knowledge; to verify) |
+| Anglican / Episcopal | A | Minor | A gentle, well-told comedy whose good is clearly good; marriage and family; moderate drinking normal in the tradition. | Drunkenness as a gag; breast jokes. Episcopal and ACNA families differ on the leads' unmarried status and the same-sex teasing. | The marriage service's "mutual joy": where do these couples find it? |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Simple friendship, forgiveness, peaceable couples, faithful marriage. | Separation from worldly media makes a secular hobby comedy a concern for Old Order families; many abstain from alcohol; consumer hobby culture. MC USA families vary. | Simplicity: what do these friends own, and what owns them? (from general knowledge; to verify) |
+| Latter-day Saint | C | Discuss | Faithful love, marriage and a child; kindness; honest work. | Word of Wisdom: alcohol and tobacco shown as normal and pleasant; the law of chastity as to the leads is unaddressed; breast gags and BL fantasy talk. | The Word of Wisdom beside a friendship that meets at a bar. (from general knowledge; to verify) |
+| Mainline progressive Protestant | A | Minor | Welcome of people who feel they must hide who they are; women's hobbies taken seriously; a woman mistaken for a boy accepted as she is. | Breast jokes; drinking as the default way to unwind. | Who in your church might feel they have to hide part of themselves? |
+| Seventh-day Adventist | C | Discuss | Kindness, diligence, marriage and family. | Alcohol and tobacco, which members abstain from (Fundamental Belief 22 and the health message), are shown as normal; entertainment centered on hobbies and romance. | The health message beside after-work drinking. (from general knowledge; to verify) |
+| Jehovah's Witness | C | Discuss | Honesty, kindness, a long courtship ending in marriage (the older couple). | Drunkenness played as a joke; BL fantasy talk; worldly entertainment as identity. No violence or spiritism. | jw.org questions on choosing entertainment and friends. (from general knowledge; to verify) |
+| Christian Science | C | Minor | Love and acceptance dispel fear: Narumi's anxiety about being outed eases through Hirotaka's support. | Members abstain from alcohol and tobacco (Church Manual), shown here as normal; dwelling on anxiety. | How does love replace fear for Narumi? (from general knowledge; to verify) |
+| Orthodox Jewish | C | Significant | Kindness, loyalty, marriage and children for the older couple. | Tzniut: mixed-sex dating and office flirting, breast gags, BL fantasy talk; nivul peh in the couples' insults. Many Haredi homes would not have the series; Modern Orthodox families are selective. | Shalom bayit and the way Hanako and Kabakura speak to each other. (from general knowledge; to verify) |
+| Conservative Jewish | B | Discuss | Dignity of people who feel they must hide; family formed through marriage; kind speech after fights. | Modesty in the gags; insults between partners; drinking. | Lashon hara: Narumi's ex spread her secret at work. What does the tradition say about that? (from general knowledge; to verify) |
+| Reform Jewish | A | Minor | Dignity and inclusion of the judged; informed choices about hobbies; healthy adult relationships. | Breast gags; drinking as the default. | Kavod habriyot (human dignity) beside workplace shaming. (from general knowledge; to verify) |
+| Muslim | C | Significant | Kindness, loyalty, marriage before children, honest work. | Alcohol is forbidden (Qur'an 5:90) and is constant here; unchaperoned dating; lowering the gaze (24:30-31) for the breast gags; BL fantasy talk. | Qur'an 49:11 on mocking others and insulting nicknames, beside the couples' teasing. |
+| Hindu | B | Discuss | Grihastha (householder) life arriving through marriage; friendship; diligence. | Many devotional families abstain from alcohol; some apply the Gita's tamasic category (ch. 17) to intoxication and idle entertainment. | Which of these pastimes are sattvic, rajasic or tamasic? (from general knowledge; to verify) |
+| Buddhist | B | Minor | Patience, compassion for the anxious, letting others move at their own pace. | Fifth precept (no intoxicants) against routine drinking; attachment to collecting and fandom. | Right speech: how do the couples' insults land? |
+| Sikh | C | Discuss | Seva-like kindness among friends, honest work, faithful marriage. | Tobacco is one of the four kurehits and alcohol is rejected; both are normal here. Kaam (lust) in the gags; moh (attachment) to possessions. | Moh: when does a hobby become attachment? (from general knowledge; to verify) |
+| Bahá'í | C | Discuss | Unity, kindness, inclusion of the judged, marriage. | Alcohol is forbidden and shown as normal; the call to a chaste and holy life for the gags and the leads' unmarried status. | Unity in diversity among very different friends. (from general knowledge; to verify) |
+| Shinto | A | Minor | Sincerity (makoto), harmony in the group, gratitude; drinking among friends fits Japanese social custom. | Little to raise. | Makoto: being sincere about who you are at work. (from general knowledge; to verify) |
+| Wiccan / Pagan | A | Minor | "Harm none" in accepting friends; self-expression through cosplay; no stereotyping of pagans. | Little to raise; insults between partners. | Self-expression and acceptance in a chosen community. (from general knowledge; to verify) |
+| Scientologist | B | Minor | The Way to Happiness: be worthy of trust, be faithful to one's partner, help others; problems solved by communication. | Drinking as the default; excess discouraged. | Which precepts do the couples keep? (from general knowledge; to verify) |
+| Secular progressive | A | Minor | Anti-stigma message and women's geek hobbies taken seriously (Anime Feminist, Caitlin Moore); a woman mistaken for a boy accepted; relationships paced by mutual consent. | Anime Feminist objects to out-of-place breast comments; ANN's Amy McNulty finds the older couple's insults grating. | Why is it harder for women to be open about geek hobbies? |
+| Secular humanist | A | Minor | Meaning from friendship, love and chosen pleasures; reason and communication solve problems; no supernatural claims. | Little to raise; responsible drinking is the main talking point. | What makes a good partner: shared hobbies or something deeper? |
+| Conservative / traditional | B | Discuss | Long faithful courtship, marriage before a child, diligent work, loyalty among friends. | Adults whose identity centers on hobbies and consumer fandom; BL fandom; drinking and smoking as normal; the leads' marriage appears only in the afterword. | Can adults keep childhood hobbies and still grow up? |
+| Unitarian Universalist | A | Minor | Inherent worth of the judged; free search for one's own interests; acceptance of difference. | Breast jokes. | Inherent worth and the fear of being judged at work. (from general knowledge; to verify) |
+| Satanist | A | Minor | Indulgence in chosen pleasures without guilt, refusal to conform to office norms, loyalty to those who earn it (Church of Satan); compassion (Satanic Temple Tenet 1). | Narumi's long self-concealment reads as yielding to herd judgment. | Why does Narumi hide, and what does she gain by stopping? (from general knowledge; to verify) |
+| Historically Black Protestant | B | Discuss | Faithful love that leads to marriage and a child; friends who stand by one another; kindness that lifts a shy, anxious young woman. | Drinking as the normal way friends meet, with no one abstaining; breast jokes and BL fantasy talk; no faith in the characters' lives. | "Let all that you do be done in love" (1 Corinthians 16:14): where do you see it among these friends? |
+| Atheist | A | Minor | No faith claims; meaning built from friendship, love and chosen work and play; problems solved by talking honestly. | Little to raise; some may question jokes that lean on body size. | Why do people feel they must hide harmless interests? |
+| Agnostic | A | Minor | Tolerance of different ways of living; no one is preached at; open-minded friends of different kinds (otaku and non-otaku). | Little to raise. | Naoya is not an otaku but accepts everyone. What makes him a good friend? |
+| Nothing in particular | A | Minor | Loyalty to friends, everyday decency, a partner who accepts you, and finding your own path at work and in love. | Routine drinking and breast jokes may need a word for younger teens. | Is there something you like that you keep quiet about? Why? |
 
-**Where traditions disagree.** The main dividing line is alcohol and tobacco: abstaining traditions (Latter-day Saint, Seventh-day Adventist, Muslim, Bahá'í, Sikh, Christian Science, holiness Methodist, many Pentecostal and Baptist families, Buddhist precept-keepers) see routine, pleasant drinking and smoking as the main message conflict; moderation traditions (Catholic, Orthodox, Anglican, Lutheran, Reformed, Jewish) focus on Hanako's drunkenness-as-gag. A second line is modesty and same-sex content: breast gags and BL fandom concern Orthodox Jewish, Muslim and conservative Christian families more than others. Progressive, humanist, UU, Shinto and Pagan frames find the closest fit in its anti-stigma message.
+**Where traditions disagree.** Every frame welcomes the series' kindness, faithful relationships and acceptance of people who feel judged, and the older couple's marriage and expected child. The divide is about everyday conduct: traditions that ask members to abstain from alcohol or tobacco (Baptist, Methodist and holiness churches, Pentecostal, Latter-day Saint, Adventist, Muslim, Sikh, Bahá'í) grade it lower because drinking is the friends' normal meeting place, and modesty-focused readings weigh the breast jokes and BL fantasy talk. Progressive, secular and nonreligious frames grade it high and note the breast jokes and the couples' insults as the main things to discuss.
 
 ## Winners, losers and sympathy
 
-Everyone wins: all three couples stay together and grow, the shy are welcomed, and the only loser is the outlook that otaku must hide or be ashamed.
+Everyone in the main cast wins something; the series has no villains, only the outside pressure to hide.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Narumi | Closeted otaku; fear of judgment | Outed at work and faces it, with Hirotaka's support, after an argument (JP vol. 11; Kodansha EN 6) | Sympathetic; her fear is the problem the series resolves |
-| Hirotaka | Unashamed otaku; quiet, patient, steady love | Keeps Narumi; Fujita says he finally "saves" her at the end (Kodansha 2022) | Endorsed |
-| Hanako and Kabakura | Long love expressed through bickering; image-consciousness (Kabakura) | Engaged (JP vol. 7), married (JP vol. 9), expecting a child (TV Tropes ch. 86) | Endorsed; the fighting is played as affection, though some fans find it stale or unhealthy |
-| Naoya and Kou | Non-otaku openness; low self-esteem | Naoya confesses (TV Tropes ch. 77) and they date; Kou grows more confident (Bloom Reviews; Kodansha EN 6) | Sympathetic; Naoya is the "source of light" for Kou (Fujita) |
-| Narumi's ex-boyfriend and the judging world | Otaku as shameful | Offstage; his disclosure "more-or-less ruined" her old job (Moore) | Shown as the cause of harm, not developed as a character |
+| Narumi Momose | Hiding her hobbies to fit in, then learning to be open | Finds a partner who accepts her; marriage and a son in the afterword sketch (fan wiki) | Endorsed as she changes |
+| Hirotaka Nifuji | Unashamed self-acceptance; love by patience | Wins Narumi; grows more expressive (fan wiki, Hanako page) | Endorsed |
+| Hanako Koyanagi and Taro Kabakura | Bickering, loyal long-term love | Marry (vol. 9, ch. 65.3); expecting a child (vol. 11, ch. 86) | Endorsed |
+| Kou Sakuragi | Shy solitude, then friendship | Becomes Naoya's girlfriend (fan wiki) | Endorsed |
+| Naoya Nifuji | The accepting non-otaku | Wins Kou's trust | Endorsed |
+| Narumi's ex (offstage) | Shaming someone for her hobbies | Not seen again | Condemned |
 
-**Fan favorites versus the official moral.** TV Tropes YMMV says Naoya is the "Ensemble Dark Horse" and that some readers follow the manga mainly for Hanako and Kabakura, especially readers who find the main pair too low-key. Narumi and Kabakura are base-breakers: Narumi for passivity and for judging herself, Kabakura for abrasiveness. Japanese and Western critics debated whether the cast are "real" otaku or too well-adjusted (TV Tropes YMMV; Loveridge, ANN). No official popularity poll was found. There is no villain.
+**Fan favorites versus the official moral.** No official popularity poll was found. Hirotaka is a favorite of reviewers (Soliloquy in Blue calls him really great), and readers and critics broadly share the story's own view of its characters. The main critical complaint is about jokes (breast comments, the older couple's insults), not about the message (Anime Feminist; ANN).
 
 ## Message delivery
 - Style: Subtle
 - Preachiness: 2
 - Opposing views: Fair
-- Evidence: Fujita rates the mix "comedy 8, romance 1.5, seriousness 0.5" (Anime Corner); critics call it breezy and genuine.
+- Evidence: Fujita rates the mix as comedy 8, romance 1.5 and seriousness 0.5 out of 10 (Anime Corner); critics call it relatable and grounded.
 - Note: Its anti-stigma theme emerges through gags and small arcs, and the non-otaku Naoya is drawn as kindly as the otaku.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
 | Narumi Momose | Hiding one's hobbies to fit social norms | Hero | Sympathetic |
 | Hirotaka Nifuji | Unashamed self-acceptance; love by patience | Hero | Sympathetic |
-| Taro Kabakura | Guarding a respectable image while secretly a fan | Foil | Sympathetic |
+| Taro Kabakura | Enjoying things in moderation; a respectable image | Foil | Sympathetic |
 | Naoya Nifuji | The accepting non-otaku | Foil | Sympathetic |
 
 ## Creator and publisher context
 
-- Fujita began the work on pixiv in 2014; it was picked up by Comic Pool as pixiv's most popular work (Wikipedia). Fujita says the idea came from "what if" talks with a friend and from otaku friends' conversations, captured "in a very high resolution"; it is "not just based on my experience" (Kodansha 2022; Anime Corner 2025). Fujita also traces it to a character-making game with design-school classmates and describes the work as roughly 80% comedy, 20% romance (Japanese Wikipedia).
-- On intent: Fujita wanted to "acknowledge that feeling of reluctance" otaku have about their interests, and needed Narumi to face her "inner conflict about hiding her otaku ways" before the ending; closet otaku are "already becoming a minority" (Kodansha 2022). Fujita links Narumi's arc to a Japanese pressure to hide differences, calls younger readers' puzzlement at it "cultural progress," and names "watching over someone as they move at their own pace" as central (Kodansha 2025). On secrets: "it's okay to have these sides of ourselves and be kind to each other" (Anime Corner 2025).
-- On characters: Hirotaka is "actually meant to be the heroine," and editors often rejected storyboards over his portrayal; the ending was reworked with editor Suzuki and differs from Fujita's first plan (Kodansha 2022). Fujita added a note that Kou's romance is not a BL subplot (TV Tropes YMMV; note not seen directly).
-- On adult life: Fujita wanted to show adults who keep a "youthful side," and expects family, household and work stress for the characters but hopes they keep "fun and fulfilling lives" (Anime Corner 2025; Kodansha 2025).
-- No statement on drinking, smoking, sexuality, religion or politics was found. Fujita uses a pen name and keeps private life private; English sources disagree on Fujita's pronouns, so this entry makes no claim. **Status: Needs more info on the creators.**
-- Publishers: Ichijinsha (Japan), owned by Kodansha since 2017 (from general knowledge; to verify), with pixiv as web partner; English edition Kodansha USA. Anime by A-1 Pictures (an Aniplex studio); film by Toho.
-- No reputable reports of controversy involving the creator were found.
+- Fujita (pen name) began Wotakoi as a personal webcomic on Pixiv in 2014; Ichijinsha offered serialization, and Fujita insisted the web chapters stay free, adding book-only extras instead (Wikipedia; Anime Corner).
+- On intent (Anime Corner interview at Kodansha House): Fujita is "very much an otaku," was about the characters' age when starting, and wanted adult characters to show grown-ups who keep a youthful side; everyone has private, slightly embarrassing sides, and the hope was that people could understand each other and be kind. Fujita tried not to treat characters' personal struggles lightly.
+- No statements on religion or politics were found. A later Kodansha "10 years of Wotakoi" interview and a two-part 2022 finale interview were found but not opened. **Status: Needs more info on the creator.**
+- Publisher: Ichijinsha (Comic Pool, with Pixiv). English: Kodansha USA, rated T+ (16+).
+- No controversies involving the creator were found.
 
 ## Worldview lenses
 
-Dominant lenses: Expressive individualism, Communitarianism, Consumerism, Secular humanism.
+Dominant lenses: Expressive individualism (gently), Communitarianism (the friend group), Consumerism (fandom as joy), Secular humanism (implicit).
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Expressive individualism | 6 | Affirmed (gently) | A | The central arc is about ceasing to hide what you love (JP vol. 11); Fujita calls growing openness "cultural progress" (Kodansha 2025). Tempered by respect for each person's pace. |
-| Communitarianism | 5 | Affirmed | B | A close circle of coworkers and couples supports each other; senpai advise from experience (Anime Corner). My own framing. |
-| Consumerism | 4 | Explored (affirmed as fun) | C | Shopping at Animate, Comiket, figurines, games and cosplay are the substance of identity and bonding (TV Tropes; fan wiki). Never critiqued. My own framing. |
-| Secular humanism | 4 | Affirmed (implicit) | B | Meaning comes from friends, love and chosen pleasures; no religion is needed or offered. My own framing. |
-| Hedonism | 3 | Explored | C | Fun, drinking and hobbies as rewards of adult life, but within loyalty and work. |
-| Classical virtue ethics | 3 | Affirmed | B | Patience, loyalty, diligence and kindness are rewarded. |
-| Traditionalism | 3 | Explored | C | Engagement, wedding and a child for the senior couple (JP vol. 7, 9; ch. 86); stable office work. |
-| Progressivism | 3 | Explored | C | Anti-stigma message; gender-nonconforming Kou and crossplaying Hanako accepted; women's geek hobbies defended (Moore). Not argued as politics. |
-| Feminism | 2 | Explored | C | Moore (Anime Feminist) reads the double standard on women otaku as the show's point while objecting to breast gags. |
-| Confucian ethics | 2 | Explored | C | Senpai-kohai roles at work; Naoya's care for his brother. My own framing. |
-| Pragmatism | 2 | Incidental | C | Problems are solved by talking and practical help. |
-| Existentialism | 1 | Incidental | C | Narumi chooses to own who she is (JP vol. 11). |
-| Christian, Jewish, Islamic, Dharmic, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Stoicism, Utilitarianism, Critical theory, Marxism, Postmodernism, Environmentalism, Absurdism, Nihilism, Anti-natalism, Might makes right, Libertarianism, Collectivism/authoritarianism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
+| Expressive individualism | 6 | Affirmed | A | Narumi learns she need not hide what she loves; Hirotaka never hides; Hanako's cosplay as self-expression. |
+| Communitarianism | 5 | Affirmed | B | The four coworkers and Naoya and Kou as a chosen circle that shares advice across ages (Fujita, Anime Corner). |
+| Consumerism | 4 | Explored | C | Games, goods, conventions and doujinshi as the texture of life, affirmed as fun. |
+| Secular humanism | 4 | Affirmed | B | Meaning from love, friendship and chosen pleasures; no supernatural frame. |
+| Hedonism | 3 | Explored | C | Drinking, gaming and fandom as rewards after work; tempered by work and commitment. |
+| Classical virtue ethics | 3 | Affirmed | B | Patience, faithfulness and kindness as what makes the couples work. |
+| Traditionalism | 3 | Explored | C | Marriage and a child as the older couple's path; the afterword gives the same to the leads. |
+| Progressivism | 3 | Explored | C | Acceptance of the stigmatized; female geek culture taken seriously (Anime Feminist). |
+| Feminism | 2 | Explored | C | The double standard between male and female otaku (Anime Feminist). |
+| Confucian ethics | 2 | Explored | C | Senpai-kohai advice; respect within the office. |
+| Pragmatism | 2 | Explored | C | Kabakura's moderation; small practical kindnesses. |
+| Existentialism | 1 | Explored | C | Choosing to be oneself. Incidental. |
+| Christian, Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Nihilism, Absurdism, Postmodernism, Stoicism, Utilitarianism, Duty ethics, Bushido / honor code, Pacifism / nonviolence, Critical theory, Marxism, Environmentalism, Anti-natalism, Might makes right, Liberalism, Libertarianism, Anarchism, Patriotism / nationalism, Collectivism/authoritarianism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side; ordinary salaried work and hobby spending. |
-| Social (0 authority, 10 liberty) | 7 | Sympathy lies with the individual against social pressure to conform at work. |
-| Cultural (0 traditional, 10 progressive) | 6 | Favors openness and accepts gender nonconformity, but its senior couple follows a traditional path to marriage and a child. |
-| Community (0 individual first, 10 community first) | 5 | Self-acceptance is the goal, reached inside a supportive friend group. |
+| Economic (0 collective, 10 free market) | 5 | No economic theme; office work is a stable background. |
+| Social (0 authority, 10 liberty) | 7 | Freedom to live one's hobbies openly against workplace conformity. |
+| Cultural (0 traditional, 10 progressive) | 6 | Acceptance of nonconforming interests and gender expression, alongside marriage and family. |
+| Community (0 individual first, 10 community first) | 5 | Individual self-acceptance pursued within a close circle of friends. |
 
 **Moral foundations profile (0 to 10):** care 7, loyalty 7, fairness 5, sanctity 2, authority 3, liberty 7.
 
-**Profile notes for parents:** This is a mild adult workplace comedy whose main content issues are routine social drinking (with one character often drunk), smoking, breast-size jokes and frank talk about boys'-love fandom; no sex or nudity is reported. Its message is acceptance: adults need not hide harmless passions, and partners should let each other open up at their own pace. Kodansha rates it 16+, mostly for the adult setting and humor.
+**Profile notes for parents:** The series runs on care and loyalty among adult friends and couples, with liberty to be oneself. Sanctity is low mainly because of the casual drinking, smoking and breast or BL jokes, not because anything explicit is shown. Kodansha rates it T+ (16+), and all main characters are working adults.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 2 | Worth is inherent; the story asks for acceptance, not for anyone to defend reputation. Narumi's fear of losing face at work is the problem to overcome (JP vol. 11), not a value. |
+| Dignity vs honor | 2 | Worth is inherent; no one defends reputation by force. Narumi's fear of losing face at work is the problem to overcome, not a value. |
 | Order vs freedom | 6 | Office rules are followed, but the story sides with people's freedom to live their hobbies openly. |
 | Civic vs kin | 4 | Care flows through a chosen circle of coworkers and friends more than family; families are mostly offstage. |
-| Equality vs hierarchy | 4 | Senpai give advice and juniors listen (Anime Corner), but the friends treat each other as equals and tease freely across rank. |
-| Tradition vs secular-rational | 7 | Secular daily life; customs appear only as seasonal events (Christmas). Marriage is valued for the senior couple. |
+| Equality vs hierarchy | 4 | Older friends give advice and younger ones listen (Fujita, Anime Corner), but everyone teases freely across rank. |
+| Tradition vs secular-rational | 7 | Secular daily life; customs appear only as seasonal events; marriage valued for the older couple. |
 | Survival vs self-expression | 8 | Self-expression and quality of life (hobbies, cosplay, fandom) are the central values; work is a steady background. |
 
 Closest clusters: New Netherland; English-speaking; Yankeedom
 
-Japanese source culture: After-work drinking with coworkers (nomikai), senpai-kohai relations, the pressure to keep private hobbies out of the workplace, and the special stigma on adult and female otaku are Japanese norms that frame the story. Fujita presents the shift toward openness as a generational change in Japan (Kodansha 2025).
+Japanese source culture: After-work drinking with coworkers (nomikai), senpai-kohai relations, the pressure to keep private hobbies out of the workplace, and the special stigma on adult and female otaku are Japanese norms that frame the story; the series argues for loosening the last two.
 
 ## Philosophy essay
 
-**The central question.** Must you hide what you love to be loved? Narumi has been left by boyfriends who learned she reads boys'-love manga and plays otome games. At a new job she plans a double life: polished office worker by day, fujoshi at night. Hirotaka, who has known her since childhood, offers another way: date someone in front of whom nothing needs hiding. The series asks whether that is enough, and whether she can stop hiding from everyone else.
+**The central question.** Can you be loved for the whole of who you are, including the parts you are embarrassed by? Narumi has learned to hide her BL fandom because past boyfriends left her over it and an ex shamed her at work. The series asks whether hiding protects love or prevents it.
 
-**The answer the story gives.** Yes, slowly. The comedy is mostly small: game nights, Comiket, cosplay, office lunches, arguments over pairings. The arc beneath it is Narumi's fear of being outed. In the last volume she slips up at work, panics and turns inward, and her first real fight with Hirotaka follows (Kodansha EN 6). Fujita says the ending had to resolve that conflict and that Hirotaka, at the end, saves her (Kodansha 2022). The answer is not a speech but a pace: Fujita names "watching over someone as they move at their own pace" as central (Kodansha 2025).
+**The answer the story gives.** It prevents it. Hirotaka offers Narumi a relationship in which she never has to hide, and the rest of the series is small proof that this works: he helps with her doujinshi deadline, notices when she is sad, and tells her he likes seeing her do what makes her happy (Soliloquy in Blue). Fujita states the hope plainly: everyone has private, slightly embarrassing sides, and we can accept that in each other and be kind (Anime Corner).
 
-**Characters as arguments.** Narumi argues the cost of hiding. Hirotaka argues that patient, unshowy love is real love; fans and Narumi herself sometimes ask whether it is just friendship (TV Tropes YMMV). Kabakura argues for image-management and pays for it in anxiety; Hanako argues that loud, bickering love can be faithful, and her drunk confession of insecurity shows what the noise covers. Naoya, the cheerful non-otaku, argues that acceptance does not need shared hobbies. Kou argues that a shy person who fears being a burden is often the kindest one present (Fujita, Kodansha 2022).
+**Characters as arguments.** Narumi argues for caution and fitting in, then lets it go. Hirotaka argues for being unashamed, and also for patience: he waits for her to open up. Hanako and Kabakura argue that a loud, bickering couple can be deeply loyal; their marriage (vol. 9) and expected child (vol. 11) are the series' clearest picture of where love leads. Naoya, the non-otaku, argues that acceptance does not require sharing every interest. Kou argues that the shy and anxious deserve friends who move at their pace.
 
-**Symbols and motifs.** Games stand for Hirotaka's way of loving: he asks Narumi out by proposing they grind levels together (TV Tropes YMMV). Cosplay, especially Hanako's male roles and Kou's boyish looks, plays with the idea that appearances mislead. The izakaya is where truth gets told, usually with a beer. Matching hidden pendants and a lost necklace stand for the secret long love of Hanako and Kabakura, resolved by rings (JP vol. 7).
+**Symbols and motifs.** Game screens and menus as the language of love (Otaku USA notes battle-option panels). Comiket and the doujinshi deadline as a test of partnership. The bar after work as the friends' commons. Cosplay as a way to be someone else and, oddly, more oneself.
 
-**Traditions it echoes.** The Japanese office romantic comedy and the episodic four-panel and short-gag tradition; Fujita names *Gintama*, *Ranma 1/2* and *Maison Ikkoku* as influences (Kodansha 2022). Its picture of identity as something one discloses echoes the language of coming out, which reviewers also use ("outed"), though the subject is hobbies.
+**Traditions it echoes.** The office romantic comedy and the "otaku romance" (compared by Anime Feminist to Recovery of an MMO Junkie). Its ethic of acceptance echoes Romans 15:7 for Christian readers and the humanist value of inherent worth for secular ones; its routine drinking is where many religious families will part ways with it.
 
-**How each lens is portrayed.** Expressive individualism is affirmed but gentle: no one is forced to reveal anything. Consumer fandom is portrayed only as joy, never as cost. Secular humanism is the unstated frame. Traditionalism appears in the senior couple's engagement, wedding and pregnancy. Progressive and feminist readers welcome its defense of women's geek hobbies and gender-nonconforming characters but object to breast gags (Moore, Anime Feminist). Faith traditions that abstain from alcohol will notice that nearly every honest talk happens over drinks.
+**How each lens is portrayed.** Expressive individualism is affirmed but gently, inside a community of friends. Consumerism is enjoyed rather than questioned. Traditional milestones (marriage, a child) arrive naturally for the older couple and in the afterword for the leads. Feminist readers find a fair point about double standards, and object to the breast jokes.
 
-**Shifts across the series.** JP vols. 1-2 (EN 1): the couple forms, the group of four gathers, Naoya and Kou appear, Comiket. JP vols. 3-6 (EN 2-3): a no-otaku date, Hanako and Kabakura's high school backstory, Kou's gender misunderstanding resolved. JP vols. 7-10 (EN 4-5): Kabakura proposes (vol. 7), the wedding (vol. 9), Naoya's confession (TV Tropes ch. 77), Hanako's pregnancy (TV Tropes ch. 86). JP vol. 11 (EN 6): Narumi is outed at work, the couple fights and reconciles, Naoya and Kou date, a company trip ends the series.
+**Shifts across the series.** Japanese volumes 1-4 (the anime's span) set up the two couples and Naoya and Kou. Middle volumes deepen each relationship. Volumes 9-11 bring the older couple's marriage and pregnancy, Kou and Naoya's relationship, and Narumi's fear of being outed at work, ending with the afterword's glimpse of everyone's future.
 
 **Discussion questions.**
-1. Narumi hides her hobbies at work. Is there anything you love that you keep private? Why?
-2. Hirotaka says two people who share hobbies can be good partners. What else does a lasting relationship need?
-3. Many of the friends' honest talks happen while drinking. What does your family believe about alcohol, and how else can adults open up?
-4. Hanako and Kabakura insult each other but stay together. Where is the line between teasing and unkindness?
-5. Kou thinks of herself as a burden. How did Naoya help her, and how can we help someone like her?
+1. Why does Narumi hide her hobbies at work? Was she wrong to?
+2. Hirotaka outs Narumi in the first chapter. Was that fair? What does he do to make it right?
+3. Hanako and Kabakura call each other names. When is teasing affectionate, and when does it hurt?
+4. Drinking is how these friends relax. What else could they do?
+5. Naoya is not an otaku. What makes him a good friend anyway?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Manga critics | Rebecca Silverman, Lynzee Loveridge, Amy McNulty (ANN Spring 2018 Manga Guide; EN vol. 1) | Silverman: relatable, otaku status "a foothold into the story rather than defining it"; notes "standard boob jokes." Loveridge: "a rare read, starring actual adult characters in a romantic comedy." McNulty: charming but calls Kabakura and Koyanagi's insults unhealthy. | https://www.animenewsnetwork.com/feature/2018-05-29/the-spring-2018-manga-guide/wotakoi/.132160 |
-| Anime critics | ANN Preview Guide (Beckett, Jensen, Silverman, Creamer, Martin) and Steve Jones (ep. 1-2, B+) | Mostly positive; Beckett: "best romance series" of the season but "a little too much on boob gags"; Silverman finds Narumi immature; Jones notes she "chugs an entire liter of beer in despair." | https://www.animenewsnetwork.com/preview-guide/2018/spring/wotakoi-love-is-hard-for-otaku/.130404 ; https://fast.animenewsnetwork.com/review/wotakoi-love-is-hard-for-otaku/episodes-1-2/.130643 |
-| Feminist | Caitlin Moore, Anime Feminist (anime ep. 1) | Loves its grounded adult romance and its view of the "stigma against women having geeky interests"; asks it to "drop the out-of-place boob comments." | https://animefeminist.com/review-wotakoi-love-is-hard-for-an-otaku-episode-1 |
-| Christian | Beneath the Tangles (Samuru, 2018; Josh, 2021; anime) | Reads the Christmas episode as about time with loved ones, tied to 1 John 4:7-11; pairs Narumi and Hirotaka with 1 Corinthians 13 ("does not dishonor others") for their mutual respect. No content concerns raised. | https://beneaththetangles.com/2018/12/19/12-days-of-christmas-anime-day-6-wotakoi/ ; https://beneaththetangles.com/2021/02/14/love-and-soul-12-anime-couples-for-valentines-day-out-of-song-and-scripture/ |
-| Manga blogs | Sean Gaffney (Manga Bookshelf, EN 1); Bloom Reviews (EN 3) | "Despite the otaku veneer, Wotakoi feels genuine" (Gaffney). Bloom: "a comfy and feel-good series," praises the art. | http://suitablefortreatment.mangabookshelf.com/2018/04/23/wotakoi-love-is-hard-for-otaku-vol-1/ (listed on https://mangabookshelf.com/category/wotakoi/) ; https://bloomreviewsblog.com/2019/02/01/wotakoi-manga-volume-3-review/ |
-| Fan reception | MyAnimeList; MangaUpdates; TV Tropes YMMV | MAL 8.34, popularity #94; MangaUpdates 8.3. Fans debate whether the cast are "real" otaku, whether the main romance is too low-key, and whether the senior couple's fighting is fun or stale. | https://myanimelist.net/manga/89087/Wotaku_ni_Koi_wa_Muzukashii ; https://tvtropes.org/pmwiki/pmwiki.php/YMMV/WotakoiLoveIsHardForOtaku |
-| Japanese reception | Awards, sales, film | *Kono Manga ga Sugoi!* 2016 first (women's); Next Manga Award; 10-12 million copies; live-action film first at the box office. | https://en.wikipedia.org/wiki/Wotakoi:_Love_Is_Hard_for_Otaku ; https://ja.wikipedia.org/wiki/ヲタクに恋は難しい |
+| Critics (manga, vol. 1) | Rebecca Silverman, Lynzee Loveridge, Amy McNulty, Anime News Network Spring 2018 Manga Guide | Generally positive: relatable adults and honest relationships; Silverman notes "standard boob jokes"; Loveridge wanted more real-feeling nerds; McNulty finds the older couple's bickering grating. | https://www.animenewsnetwork.com/feature/2018-05-29/the-spring-2018-manga-guide/wotakoi/.132160 |
+| Critic (manga, vol. 1) | Michelle Smith, Soliloquy in Blue (Manga Bookshelf, 2018) | Positive: Hirotaka is the highlight; the bickering couple works because of real affection. | https://soliloquyinblue.mangabookshelf.com/2018/06/10/wotakoi-love-is-hard-for-otaku-vol-1/ |
+| Critic (manga, vol. 1) | Danica Davidson, Otaku USA (2018) | Positive: more realistic than most geek-dating manga; banter feels authentic; mostly jokes with few romantic scenes. | https://otakuusamagazine.com/wotakoi-love-hard-otaku-review/ |
+| Feminist (anime premiere) | Caitlin Moore, Anime Feminist (2018) | Loved it: a romance between functional adults that sees the double standard against female otaku; asks it to drop the breast comments. | https://www.animefeminist.com/review-wotakoi-love-is-hard-for-an-otaku-episode-1/ |
+| Creator interview | Anime Corner (Kodansha House) | Fujita on origins, adult characters, and kindness toward people's private sides. | https://animecorner.me/interview-fujita-creator-of-wotakoi-love-is-hard-for-otaku/ |
+| Awards and polls | Next Manga Award, Kono Manga ga Sugoi!, Kodansha Manga Award (via Wikipedia) | Web-manga winner 2015; first in Kono Manga ga Sugoi! 2016; Kodansha award nomination. | https://en.wikipedia.org/wiki/Wotakoi:_Love_Is_Hard_for_Otaku |
+| Fan databases | AniList, MangaUpdates | AniList average 82 (about 66,000 members); MangaUpdates 8.21. | AniList API; MangaUpdates API |
+| Common Sense Media, Plugged In, Christian sites | — | No review found in search. | none |
 
-No conservative, Plugged In or Common Sense Media review was found. There is no public controversy; the main debates are fan-level (breast gags, how "real" the otaku are, the senior couple's insults).
+No public controversy was found. Critics agree on the warmth and humor; the recurring complaints are the breast jokes and the harshness of the older couple's insults.
 
 ## Most loaded parts and pages to photograph
 
-Volume map: EN 1 = JP 1-2; EN 2 = JP 3-4; EN 3 = JP 5-6; EN 4 = JP 7-8; EN 5 = JP 9-10; EN 6 = JP 11 (Wikipedia; MangaUpdates; Bloom Reviews). Chapter numbers differ by source (web serial about 60; MangaUpdates 82; MAL 105; TV Tropes up to 86), so chapters below carry their source; volumes are firmer. The anime covers JP vols. 1-4.
+Japanese-to-English volume map (Wikipedia, opened): English vol. 1 = JP 1-2; vol. 2 = JP 3-4; vol. 3 = JP 5-6; vol. 4 = JP 7-8; vol. 5 = JP 9-10; vol. 6 = JP 11. Chapter numbers come from the fan wiki; most scenes below are placed by volume only.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Narumi slips up and is outed at work; she withdraws; argument and reconciliation with Hirotaka | final chapters (JP vol. 11; EN 6) | The series' thesis on hiding versus openness; sets Message delivery, Expressive individualism and Winners table. Confirm how coworkers react. |
-| 2 | Izakaya reunion: Narumi drinks to cope with her breakup (a liter of beer in the anime), Hirotaka smokes, the dating proposal | ch. 1 (JP vol. 1; EN 1; anime ep. 1) | Sets Substances (4) and the alcohol rows for abstaining frames. Confirm drinking and smoking on the page. |
-| 3 | Hanako drunk after a couple of beers; confesses insecurity to Narumi | likely early JP vol. 1 (EN 1; to verify) | Drunkenness as a gag and as a truth-telling device; affects Substances framing and moderation frames. |
-| 4 | Hanako's porn-stash search, breast gags, Narumi's "A-cup angst," BL pairing talk and the "kabedon" fantasy | scattered, JP vols. 1-4 (to verify) | Sets Sexuality (3) and modesty concerns (Orthodox Jewish, Muslim, LDS, Reformed). |
-| 5 | Kou's gender misunderstanding: Naoya sees her leave the women's restroom; she runs off in tears | likely JP vols. 2-5; resolved by EN 3 (Bloom Reviews) | Gender and identity row; Fujita's note that it is not BL; Mental health (Kou's anxiety). |
-| 6 | Comiket arc: Narumi sells her doujinshi | likely JP vol. 1-2 (EN 1; Loveridge mentions a Comiket arc) | Confirm whether the doujinshi are shown or described as adult content; affects Sexuality. |
-| 7 | Kabakura proposes; Hanako's lost necklace | JP vol. 7 (EN 4) | Traditionalism and Winners table. |
-| 8 | Hanako and Kabakura's wedding | JP vol. 9 (EN 5) | Marriage as the senior couple's outcome; conservative and faith rows. |
-| 9 | Hanako's pregnancy revealed | ch. 86 per TV Tropes (likely JP vol. 10-11; to verify) | Sex implied within marriage; family values row. |
-| 10 | Naoya confesses to Kou | ch. 77 per TV Tropes (likely JP vol. 9-10; to verify) | Kindness to the shy; Winners table. |
+| 1 | Breast-size jokes and Hirotaka's comment about Narumi's chest | From ch. 1 (JP vol. 1; English vol. 1) | Sexuality (3); Anime Feminist's and ANN's main complaint. Photograph 2-4 pages. |
+| 2 | BL fantasy talk: Narumi and Hanako posing their boyfriends and debating top and bottom | JP vol. 1-2 (English vol. 1); recurs | Sexuality framing and the modesty rows. Photograph 2-3 pages. |
+| 3 | Narumi's doujinshi deadline: what of her BL work is shown on the page | JP vol. 1-2 (English vol. 1) | Confirm whether any explicit doujinshi art appears. Written note only until checked. |
+| 4 | Bar scenes and Hanako's drunkenness; smoking | Throughout (likely JP vol. 1-6) | Substances (4) and the abstinence-tradition rows. Photograph 2-3 pages. |
+| 5 | Hanako and Kabakura's marriage | JP vol. 9, ch. 65.3 (English vol. 5) | Family themes and the Christian, Jewish and Muslim aligns. Photograph 1-2 pages. |
+| 6 | Pregnancy announcement and the afterword sketches (proposal, son) | JP vol. 11, ch. 86 (English vol. 6) | Outlook and Winners; confirms the leads' future is only in the afterword. Photograph 2 pages. |
+| 7 | Narumi's fear of being outed at work | JP vol. 11 (English vol. 6), from the earlier quick read; to verify | Life message and Mental health (2). Photograph 2-3 pages. |
+| 8 | Kou mistaken for a boy; Kabakura and Kou at the bookstore | ch. 74 (JP vol. 9 or 10; to verify) | Gender and identity row. Photograph 1-2 pages. |
 
-Estimate: confirming these needs about 15-20 chapters (roughly 250 pages), with about 35 key pages to photograph.
+Estimate: about 12 chapters cover the above; about 15-25 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
-Opened:
-- https://en.wikipedia.org/wiki/Wotakoi:_Love_Is_Hard_for_Otaku
-- https://ja.wikipedia.org/wiki/ヲタクに恋は難しい
-- https://myanimelist.net/manga/89087/Wotaku_ni_Koi_wa_Muzukashii
-- https://www.mangaupdates.com/series/ff8xqtk
-- https://kodansha.us/volume/wotakoi-love-is-hard-for-otaku-1
-- https://kodansha.us/volume/wotakoi-love-is-hard-for-otaku-2
-- https://kodansha.us/volume/wotakoi-love-is-hard-for-otaku-4
-- https://kodansha.us/volume/wotakoi-love-is-hard-for-otaku-5
-- https://kodansha.us/volume/wotakoi-love-is-hard-for-otaku-6
-- https://www.penguinrandomhouse.com/books/711407/wotakoi-love-is-hard-for-otaku-6-by-fujita/paperback
-- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=43453
-- https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20478
+Pages actually opened:
+- https://en.wikipedia.org/wiki/Wotakoi:_Love_Is_Hard_for_Otaku (raw wikitext)
+- AniList API, media id 86717 (graphql.anilist.co)
+- MangaUpdates API, series 33573739016 (api.mangaupdates.com)
+- https://kodansha.us/wp-content/uploads/2026/06/all-series-handout-june-11-2026-final.pdf (Kodansha print series guide; T+)
+- https://wotaku-ni-koi-wa-muzukashii.fandom.com (through its API; facts only): Narumi Momose, Hanako Koyanagi, Kou Sakuragi
+- https://wotakoi.fandom.com (through its API; facts only): Hanako Koyanagi, Narumi Momose
 - https://www.animenewsnetwork.com/feature/2018-05-29/the-spring-2018-manga-guide/wotakoi/.132160
-- https://www.animenewsnetwork.com/preview-guide/2018/spring/wotakoi-love-is-hard-for-otaku/.130404
-- https://fast.animenewsnetwork.com/review/wotakoi-love-is-hard-for-otaku/episodes-1-2/.130643
-- https://admin.animenewsnetwork.com/news/2021-07-16/wotakoi-love-is-hard-for-otaku-manga-gets-spinoff-after-finale/.175192
-- https://animefeminist.com/review-wotakoi-love-is-hard-for-an-otaku-episode-1
-- https://tvtropes.org/pmwiki/pmwiki.php/Anime/WotakoiLoveIsHardForOtaku
-- https://tvtropes.org/pmwiki/pmwiki.php/Characters/WotakoiLoveIsHardForOtaku
-- https://tvtropes.org/pmwiki/pmwiki.php/YMMV/WotakoiLoveIsHardForOtaku
-- https://wotaku-ni-koi-wa-muzukashii.fandom.com/wiki/Are_We_Now_Dating%3F
-- https://wotaku-ni-koi-wa-muzukashii.fandom.com/wiki/Hanako_Koyanagi
-- https://wotaku-ni-koi-wa-muzukashii.fandom.com/wiki/Hirotaka_Nifuji
-- https://kodansha.us/2022/07/01/exclusive-interview-fujita-on-wotakoi-finale-part-1/
-- https://kodansha.us/?p=756 (finale interview, part 2)
-- https://kodansha.us/?p=1764 (ten-year interview, 2025)
+- https://soliloquyinblue.mangabookshelf.com/2018/06/10/wotakoi-love-is-hard-for-otaku-vol-1/
+- https://otakuusamagazine.com/wotakoi-love-hard-otaku-review/
+- https://www.animefeminist.com/review-wotakoi-love-is-hard-for-an-otaku-episode-1/
 - https://animecorner.me/interview-fujita-creator-of-wotakoi-love-is-hard-for-otaku/
-- https://www.epicdope.com/wotakoi-manga-ends-final-volume-oad-releases-in-october/
-- https://mangabookshelf.com/category/wotakoi/
-- https://bloomreviewsblog.com/2019/02/01/wotakoi-manga-volume-3-review/
-- https://beneaththetangles.com/tag/wotakoi/
-- https://beneaththetangles.com/2018/12/19/12-days-of-christmas-anime-day-6-wotakoi/
-- https://beneaththetangles.com/2021/02/14/love-and-soul-12-anime-couples-for-valentines-day-out-of-song-and-scripture/
 
-Found in search, not opened:
-- http://suitablefortreatment.mangabookshelf.com/2018/04/23/wotakoi-love-is-hard-for-otaku-vol-1/ (summarized from the Manga Bookshelf category page)
-- https://comicbastards.com/comics/review-wotakoi-love-is-hard-for-otaku-vol-1
-- https://boyslovelibrary.com/?p=2217
-- https://newbookrecommendation.com/summary-of-wotaku-ni-koi-wa-muzukashii-vol-5-by-fujita/
-- https://www.animenewsnetwork.com/news/2021-06-18/wotakoi-love-is-hard-for-otaku-manga-ends-with-new-anime-episode/.174141
-- https://beneaththetangles.com/2020/11/05/what-are-your-five-favorite-non-shonen-anime-here-are-ours/
-- https://m.imdb.com/title/tt8019444/parentalguide (fetch refused by the site)
+Found in search, not opened (fetch cap reached, blocked or not prioritized):
+- https://kodansha.us/series/wotakoi-love-is-hard-for-otaku/ (blocked)
+- https://kodansha.us/2022/07/01/exclusive-interview-fujita-on-wotakoi-finale-part-1/ and part 2 (blocked)
+- https://kodansha.us/?p=1764 (10-year interview)
+- https://www.fandompost.com/2019/01/24/wotakoi-love-is-hard-for-otaku-vol-02-manga-review/
+- https://butwhytho.net/2018/06/19/geek-romance-and-how-wotakoi-love-is-hard-for-an-otaku-gets-it-right/
+- https://www.animenewsnetwork.com/review/wotakoi-love-is-hard-for-otaku/episodes-1-2/.130643
+- https://tvtropes.org/pmwiki/pmwiki.php/Anime/WotakoiLoveIsHardForOtaku
+- No Common Sense Media, Plugged In or Christian-site page found in search.
 
 ## Full-read review checklist
 
-- [ ] Ch. 1 (JP vol. 1): izakaya scene; how much Narumi drinks, whether Hirotaka smokes on the page, and the framing. Affects Substances (4) and the abstaining-frame rows.
-- [ ] Confirm how often Hirotaka smokes across the series (Japanese Wikipedia says "heavy smoker"). Affects Substances.
-- [ ] Find Hanako's drunk confession and other drunk scenes; record chapters. Affects Substances framing (comic consequences?).
-- [ ] Narumi and Hirotaka: any kiss, overnight stay, sex or cohabitation in JP vols. 5-11. Affects Sexuality (3) and every sexual-ethics frame row (currently "unaddressed").
-- [ ] Comiket arc: are Narumi's doujinshi or any BL material shown, and is any of it adult? Affects Sexuality and modesty rows.
-- [ ] Count breast gags and the porn-stash scene; note any fan-service art. Affects Sexuality and Depiction concern.
-- [ ] Kou's gender misunderstanding and restroom scene: record chapters and Fujita's "not BL" note (TV Tropes; find it in the volume). Affects Gender and identity.
-- [ ] Kabakura's proposal (JP vol. 7), wedding (JP vol. 9), pregnancy (TV Tropes ch. 86): confirm chapters in Kodansha numbering. Affects Traditionalism and Winners table.
-- [ ] Naoya's confession (TV Tropes ch. 77): confirm volume. Affects Winners table.
-- [ ] JP vol. 11 (EN 6): the outing at work, coworkers' reaction, the argument, the reconciliation and the company trip; whether any proposal occurs for Narumi and Hirotaka (fans speculated from the ch. 59 visual). Affects Message delivery, Expressive individualism, Winners table.
-- [ ] Spot-check Kodansha English profanity and the senior couple's insults in 3-4 chapters. Affects Language (2) and Violence (1).
-- [ ] Confirm the print format (hardcover or paperback) and the 16+ rating printed on each book. Affects Series facts.
-- [ ] Read author notes, extras and afterwords in every volume for statements of intent. Affects Creator context.
-- [ ] Look again for Plugged In, Common Sense Media or conservative reviews of the anime or film. Affects How readers took it.
+- [ ] Check whether any couple is shown or implied staying the night, and whether anything beyond kisses is shown. Affects Sexuality (3) and the chastity concerns in several rows.
+- [ ] Check what of Narumi's BL doujinshi is drawn on the page (covers, panels). Written note only until checked. Affects Sexuality and Depiction concern.
+- [ ] Count bar and drinking scenes and identify who smokes and how often. Affects Substances (4).
+- [ ] Confirm chapter numbers for the wedding (vol. 9, ch. 65.3) and the pregnancy (vol. 11, ch. 86), and whether the leads' engagement appears in the story or only in the afterword sketch.
+- [ ] Confirm the volume and content of Narumi's fear of being outed at work in the final volume. Affects Life message.
+- [ ] Spot-check language in the Kodansha translation. Affects Language (2).
+- [ ] Open the Kodansha finale interviews with Fujita. Affects Creator context.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

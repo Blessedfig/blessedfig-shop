@@ -1,21 +1,21 @@
 # Bloom Into You
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Series facts, creator statements and reception come from Wikipedia pages that were opened. The volume-to-chapter map comes from BookBrainz edition pages for vols. 3, 5, 6, 7 and 8 (opened); the vol. 1/2 split is inferred. Key scene chapters were located on TV Tropes (opened, facts only). Reviews from Anime News Network, Anime Feminist, Okazu (Erica Friedman), AIPT and Beneath the Tangles (a Christian anime blog) were opened. No Common Sense Media or Plugged In review of this series was found in search. Items resting on general knowledge are marked "(from general knowledge; to verify)". Pages found in search but not opened are listed apart in Sources.
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 26 lookups). The series is **complete**: Dengeki Daioh (ASCII Media Works), April 27, 2015 to September 27, 2019, 45 chapters plus interludes in 8 volumes; Seven Seas published all 8 in English, January 3, 2017 to August 18, 2020 (English Wikipedia). Series facts, production history, creator statements, the volume-to-chapter map and the critical reception (Friedman, Silverman, Bauman, Jones, Kaiser, Henderson) come from English Wikipedia (the series and Nio Nakatani articles, opened through the raw-text endpoint and API); Japanese Wikipedia supplies the full plot and the characters' ages; plus the AniList and MangaUpdates APIs. Reviews opened: Okazu (Erica Friedman) on the Japanese and English vol. 8, ANN's feature by Nicki Bauman (2020), ANN's anime review of episodes 1-3 (Rose Bridges), Anime Feminist's premiere review (Vrai Kaiser, 2018) and feature (Alex Henderson, 2019), and Wrong Every Time on vol. 5 (2023). The Seven Seas series and vol. 8 pages were opened but show no age rating; the guide's input record lists Teen 13+ from Seven Seas. ANN's vol. 1 review by Rebecca Silverman would not load (summarized through Wikipedia), and no source opened describes how the chapter 44 scene is drawn. No Christian, Common Sense Media or Plugged In review was found. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Bloom Into You. Japanese: やがて君になる (Yagate Kimi ni Naru, literally "Eventually, Becoming You") |
-| Creators | Nio Nakatani (story and art). Spin-off novels Regarding Saeki Sayaka by Hitoma Iruma, illustrated by Nakatani |
-| Origin | Dengeki Daioh (ASCII Media Works, a Kadokawa brand), a monthly magazine Wikipedia describes as shonen. Ran April 27, 2015 to September 27, 2019. Complete: 45 numbered chapters plus interludes in 8 volumes (MyAnimeList counts 50 including extras) |
-| English edition | Seven Seas Entertainment (licensed February 14, 2016; vol. 1 January 3, 2017; vol. 8 August 18, 2020). Rating: the Anime News Network encyclopedia lists 13+ for vol. 1 and vol. 8 (opened). A comics-distributor listing labels vol. 8 "(Mature)" (comicpreviews.com, opened). Check the printed rating on your copy. Volumes: 8 in Japan, 8 in English. Seven Seas also publishes the two-volume official anthology and the three Regarding Saeki Sayaka novels |
-| Anime | Troyca, 13 episodes, October 5 to December 28, 2018 (about the first five volumes, ending with the aquarium chapter). Sentai Filmworks license; streamed on HIDIVE. MyAnimeList lists it PG-13 (opened). Stage plays in 2019, 2020 (Sayaka novels) and 2022 (covering the manga's ending) |
-| Recognition | About 1 million copies in print in Japan by 2019. 4th in the 2017 Next Manga Awards. 3rd in AnimeJapan's 2018 "Manga Most Wanted as Anime" fan poll. Vols. 4 and 5 charted on Oricon (30th, 21st) (all via Wikipedia, opened). MyAnimeList manga score about 8.65 (as viewed; the page's rank figure was garbled) |
-| Other guides | No Common Sense Media, Plugged In or ScreenWise page was found. Okazu (a long-running yuri review site) gave vol. 2 "Service 1" and noted of vol. 8 only that "There is a sex scene" (opened) |
+| Title | Bloom Into You. Japanese: やがて君になる (Yagate Kimi ni Naru, "eventually, becoming you") (Wikipedia; AniList id 86218, confirmed) |
+| Creators | Nio Nakatani, story and art; from Shiga Prefecture, graduate of Kyoto Seika University; known earlier for Touhou Project doujinshi under the name "Rireba"; professional debut Farewell to My Alter (2014). Current series: My Beloved Apocalypse (Wikipedia, Nio Nakatani) |
+| Origin | Dengeki Daioh (ASCII Media Works, Kadokawa), a shonen (boys') magazine, April 27, 2015 to September 27, 2019; 8 volumes (October 2015 to November 2019). A full-color webtoon version began on BookWalker in 2021 (Wikipedia) |
+| English edition | Seven Seas Entertainment, 8 volumes, January 3, 2017 to August 18, 2020. Publisher rating: **Teen 13+** per the guide's input record; the Seven Seas series and vol. 8 pages opened show no rating (to verify) |
+| Anime | Troyca, 13 episodes, October 5 to December 28, 2018 (dir. Makoto Kato; scripts by Jukki Hanada), covering the first five volumes; licensed by Sentai Filmworks. A stage play and three spin-off light novels, Regarding Saeki Sayaka (Hitoma Iruma), followed (Wikipedia) |
+| Recognition | Over 1,000,000 copies in print in Japan by 2019; Next Manga Award 2017, 4th; AnimeJapan 2018 "most wanted as anime" poll, 3rd. AniList average 86 (about 67,000 members); MangaUpdates 8.68 (593 votes) |
+| Other guides | No Common Sense Media, Plugged In or Christian review found. AniList tags: Yuri (98%), Coming of Age, LGBTQ+ Themes, Primarily Teen Cast, Aromantic, Asexual, Nudity (36%, spoiler). MangaUpdates: First-Time Intercourse, First Kiss, Lesbian Character/s, Asexual Character/s |
 | Entry tier | From summaries |
 
-**Premise.** Yuu Koito is a first-year high-school girl who loves shoujo romance manga but has never felt anything when someone confessed to her. Student council member Touko Nanami, admired as the perfect senior, confesses to Yuu, saying she does not expect Yuu to feel the same. Yuu becomes Touko's campaign manager and joins the student council. She learns that Touko is imitating her late older sister Mio, who died in an accident, and is trying to revive the council play Mio never got to perform. The play, about an amnesiac girl choosing which version of herself is true, becomes the story's central metaphor. Yuu slowly falls in love with Touko. Touko's best friend Sayaka loves Touko in secret. The story ends with Yuu and Touko as a couple; an epilogue shows them three years later at university, wearing rings.
+**Premise.** Yuu Koito, a first-year high school student, has never felt the romantic love she reads about in shoujo manga. She meets Touko Nanami, the admired student council member who turns down every confession, and expects a kindred spirit; instead Touko confesses to her and, on one condition, that Yuu never fall for her, the two begin an unequal relationship (v1). Touko becomes student council president and revives the council's stage play, which her older sister Mio was producing when she died in a traffic accident seven years earlier; Touko has been living as a copy of her sister (v2-4). Yuu and the aspiring writer Koyomi change the play's ending so its heroine chooses to be herself (v4-6). Touko's best friend Sayaka loves Touko in silence and is gently turned down on the school trip (ch. 37, v7). Yuu confesses, a misunderstanding parts them, and the two finally become a real couple (v6-8). After Touko's first performance with a local theater troupe, Yuu stays over and they sleep together for the first time (ch. 44). An epilogue years later finds them at university, wearing rings, still together (ch. 45) (Wikipedia; Japanese Wikipedia).
 
 ## Life message
 
@@ -23,268 +23,254 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | A story of pair-bonding without reproduction. Attraction is treated as something that may arrive late or not at all (Yuu early on, Maki throughout). Grief over a lost sibling shapes a family's behavior. There is no fighting; the stakes are status, belonging and attachment within a small peer group. |
-| Pragmatic | Problems are solved by honest talk, not grand gestures: rewriting the play's ending (ch. 28) and stating feelings plainly (ch. 34, 40). Touko's mask works as a short-term strategy but drains her. Institutions (the student council, the school play) give the teens structure and a reason to work together. |
-| Religious | Almost no religious content. Touko visits Mio's grave before the play (TV Tropes; chapter to verify), and a class trip goes to Kyoto (ch. 36-37, likely). Traditions with teaching on sexuality read the series mainly through its affirmed same-sex romance and the couple's first sexual encounter (ch. 44); traditions that affirm same-sex relationships read it through its honesty and self-acceptance themes. |
-| Socio-cultural | A Japanese yuri romance that, per Anime News Network's Nicki Bauman, both follows and breaks the genre's habits: it keeps the senpai-kohai school setting but lets the romance last past high school and includes a stable adult female couple (Riko and Miyako). Senpai-kohai respect, family expectations and keeping up appearances are the social pressures the story questions. Death appears only as Mio's past accident, which shapes Touko's identity. |
+| Evolutionary biology | Courtship and pair-bonding drawn slowly: attraction, hesitation, jealousy (Sayaka), and commitment ending in a lasting pair (rings, ch. 45). The story stresses choice over instinct; Nakatani says she wanted the couple to have chosen each other, not be destined (Wikipedia). |
+| Pragmatic | Student council work, an election and a stage production give the feelings a practical frame: speeches, scripts and rehearsals (v1-6). Problems are solved by honest talk and by rewriting the script, not by grand gestures. |
+| Religious | No religion shapes the story. Mio's grave and memory (v3-4) and a school trip to Kyoto (v7) appear as ordinary Japanese life. Faith readers weigh the honesty, kindness and grief against the same-sex romance and the premarital intimacy between teens (ch. 44). |
+| Socio-cultural | A yuri romance written to break with Class S tropes in which love between girls is "just a phase" (Henderson, Anime Feminist; Bauman, ANN). Adult role models (the couple Riko and Miyako) show a lasting same-sex relationship. Critics debate Touko's early kisses without permission and whether Yuu's story closes off an aromantic or asexual reading (Friedman, Kaiser, Bauman). |
+
+Outlook: Hopeful — Touko stops living as her dead sister and finds her own path as an actress, Sayaka is rejected kindly and finds love later, and the final chapter shows the couple years on, still together and wearing rings (Wikipedia; Japanese Wikipedia).
+Hope source: L — the way through is love between two people that lets each become herself: Yuu's insistence that Touko not hate herself frees Touko from her sister's role, and Nakatani wanted the ending to show that they freely chose each other (Wikipedia, Production); being true to yourself (S) is the close second.
 
 ## Content scores
 
-**Overall content level: 5 out of 10** (set by Sexuality and romance). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 6 out of 10** (set by Sexuality and romance). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 0 | None | Neutral | No fighting reported. Mio's death in an accident happened years before the story and is not shown as violence (Wikipedia). |
-| Fear and intensity | 1 | Rare | Neutral | Touko's dream of her sister leaving to take out the trash and never coming back (ch. 10, per TV Tropes). Emotional tension, not fear. |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 5 | Constant (romance); occasional (kissing); once (sex) | Endorsed | Romance is the whole plot. Touko kisses Yuu unexpectedly in ch. 2 and repeatedly after; Bauman (ANN) writes, "Touko repeatedly kisses Yuu unexpectedly and without permission." Yuu kisses Touko when she confesses (ch. 34). The couple's first sexual encounter is in ch. 44 (v8, TV Tropes; Wikipedia). How explicit it is was not confirmed; it is understood to be non-graphic with partial undress (from general knowledge; to verify). The adult couple Riko and Miyako are shown kissing (ch. 11). Okazu scores fan service 1 for vol. 2; no panty shots or gratuitous fan service reported. The anime covers only vols. 1-5 and has no sex scene. |
-| Language | 1 | Rare | Neutral | No strong profanity reported (TV Tropes). Mild insults such as "idiot." Seven Seas text not checked (to verify). |
-| Substances | 1 | Rare | Neutral | No teen drinking or smoking reported (TV Tropes). Adults (Riko, Miyako) may drink at home or at Miyako's café (from general knowledge; to verify). |
-| Mental health and self-harm | 4 | Recurring | Shown with consequences | Touko is self-loathing beneath her "perfect senpai" facade and says her love for Yuu is the only thing about her that isn't fake (TV Tropes). She builds her identity around imitating her dead sister, and learns in ch. 21 that Mio was not who she remembered. Yuu's worry that something is wrong with her for not feeling love. Sayaka's hidden love and rejection (ch. 37-38). No self-harm. Erica Friedman (Okazu, vol. 2) worries about how isolated the teens are, with no adult to talk to. |
-| Imitable behavior | 2 | Occasional | Neutral to shown with consequences | Kissing without asking first (ch. 2 onward); Touko later sees she pressured Yuu to hide her feelings (ch. 34-35). The couple hides the relationship from Yuu's parents through the end (TV Tropes). |
-| Commercial | 1 | Rare | Neutral | Anime, stage plays, novels, anthology, a color webtoon edition (2021). No product placement reported. |
+| Violence | 0 | None | Neutral | None reported. Mio's death in a traffic accident is backstory (Wikipedia). |
+| Fear and intensity | 1 | Rare | Neutral | Emotional tension (the misunderstanding, Sayaka's heartbreak); no frightening content. |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 6 | Constant (romance); occasional (kissing); once (sex) | Endorsed; consent in early kisses debated by critics | Romance is the whole story. Touko kisses Yuu at a railroad crossing early on and repeatedly afterward, even after Yuu says she does not love her (likely ch. 2-10, v1-2; Japanese Wikipedia; Bauman, ANN, calls this the predatory-lesbian trope; Friedman doubted the kisses' consensuality). ANN's Rose Bridges found Touko's persistence "kinda creepy" (anime). Physical intimacy grows after they become a couple (v8). Ch. 44: after a bowling date and a sleepover while Touko's parents are away, Yuu and Touko, both 16 (Japanese Wikipedia gives both as 16 until the final chapter), have sex for the first time (Wikipedia; Bauman; Okazu notes only that there is a sex scene). Nakatani considered the chapter necessary to show their feelings fully (Wikipedia). How much is drawn was not described by any source opened; AniList's spoiler tag Nudity (36%) suggests some nudity (see checklist). Friedman praised the series' lack of fan service elsewhere (Wikipedia). Sayaka's middle-school relationship with an older girl is backstory (v3-4). |
+| Language | 1 | Rare | Neutral | No profanity reported (from general knowledge; to verify). |
+| Substances | 1 | Rare | Neutral | None reported; adult characters at Miyako's café (to verify). |
+| Mental health and self-harm | 4 | Recurring | Shown with consequences | Touko's self-hatred and grief: she hates both her real self and the sister she imitates (Japanese Wikipedia; Nakatani designed her with deep insecurity and self-hatred, Wikipedia); her emptiness and inability to picture a future (v5; Wrong Every Time). Yuu's distress at not feeling love (v1). Sayaka's long hidden love and heartbreak (ch. 37). No self-harm reported. |
+| Imitable behavior | 2 | Occasional | Neutral to shown with consequences | Kissing without asking (questioned by critics); a sleepover while parents are away leading to sex (ch. 43-44). |
+| Commercial | 2 | Outside the book | Neutral | Anime, stage play, light novels, anthology and webtoon. |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Recurring | Touko's family and community still grieve Mio, and Touko feels she must replace her. Yuu's older sister Rei supports her and her story in ch. 33 prompts Yuu's confession. Yuu has not told her parents about Touko by the end. Adults are mostly in the background; the literature teacher Riko, the council's adviser, is in a long relationship with Miyako, who runs a café. The student council and school play are respected institutions. |
-| Religion and spirituality | Incidental | A grave visit before the play and a Kyoto class trip; no religious themes reported. |
-| Gender and identity (incl. LGBTQ) | Central | A romance between two high-school girls, presented as natural and ending happily (married-style rings in the ch. 45 epilogue, three years on). Nakatani said she did not want the girls' sex to be the central conflict (TV Tropes, Trivia). Sayaka is also in love with Touko; a stable adult female couple (Riko and Miyako) serves as a model. Identity in a broader sense is the core theme: Touko's mask, the play's question of which version of a person is "real." Aromantic and asexual readings: Yuu first thinks she and Maki may be asexual; Maki never feels attraction and stays single (TV Tropes). Critics split on Yuu: Rebecca Silverman (ANN) praised "potential for aromantic representation"; Vrai Kaiser (Anime Feminist) worried that aro/ace fans could be "disappointed or even hurt"; Bauman (ANN) argues "Yuu is not asexual, nor is she demisexual or gray asexual/aromantic"; Friedman says the series was "never about an asexual or aromantic" character. Nakatani said stories that present a relationship as necessary to feel whole made her feel "something was wrong with me" (Wikipedia). No character voices a religious or traditional objection to same-sex love in the main manga; in the Sayaka novels, Sayaka's first girlfriend ends things calling it a phase (TV Tropes). |
-| Politics and social issues | Incidental | No politics. Social pressure to conform and keep up appearances; whether same-sex couples continue past school (the epilogue says yes, and most friends know). |
+| Family and authority | Recurring | Touko's parents and the town's expectations push her to replace her dead sister (v3-4); Yuu's family is warm (her sister Rei guesses the relationship). Teachers are supportive: the adviser Riko is half of an adult couple who counsel Sayaka (Wikipedia). |
+| Religion and spirituality | Incidental | Mio's grave and the family's grief; a school trip to Kyoto (v7). No faith content. |
+| Gender and identity (incl. LGBTQ) | Central | A same-sex romance presented as the good life; Sayaka's growth from "just a phase" heartbreak to self-acceptance; an adult lesbian couple as role models; Maki, a boy who feels no romantic attraction and is content (Wikipedia). Critics debate the aromantic/asexual reading of Yuu (Kaiser; Jones; Bauman). |
+| Politics and social issues | Incidental | A student council election (v1-2); questions of conformity and expectation rather than politics. |
 
-**Virtues shown:** honesty with oneself and others, patience, kindness, loyalty in friendship (Sayaka), courage to confess, respect for another person's growth, perseverance in a shared project (the play), grace in rejection.
+**Virtues shown:** honesty about oneself, kindness in refusing someone (Touko to Sayaka, ch. 37; Yuu's early refusals), patience, perseverance in a shared project (the play), friendship and loyalty (Sayaka), grief honored without being worshipped, courage to change.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only, judged by that tradition's own documented teaching: whether the work endorses or merely depicts, how it frames right and wrong, and what it presents as a good life. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of what is shown (romance and kissing between girls, an implied sex scene in ch. 44); intensity for age stays in Content scores. All 31 frame guides are drafts from general knowledge, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: the series endorses a same-sex romance between teenage girls as its central good, including a first sexual encounter before marriage (ch. 44) and a lasting relationship (ch. 45); its other messages (honesty, being oneself, letting grief heal, kindness in rejection) are widely shared values. Traditions that hold marriage as between a man and a woman and sex within marriage will find the central message in conflict; traditions that affirm same-sex relationships will mostly weigh consent (Touko's kisses) and the aro/ace debate. No tradition's own documents were found commenting on this series.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a same-sex romance between two high school girls presented as the good life and ending in a lasting relationship (ch. 45); premarital sex between the two 16-year-olds (ch. 44); early kisses by Touko without asking, which critics debate (v1-2); honesty, kindness in rejection and the freedom to be oneself (the play, v4-6); grief for a dead sister and the danger of living as someone else; an adult same-sex couple as mentors; no violence, profanity or fan service reported. Sexual content involving minors: yes. Yuu and Touko, both 16, have sex in ch. 44 (v8) (Wikipedia; Japanese Wikipedia for ages). No source opened says how much is drawn (see checklist).
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | D | Discuss | Truthfulness and refusing to live a lie; healing from grief; respect for each person; kindness in rejection (Sayaka). | The central romance is same-sex and is presented as the good life, culminating in premarital sex (ch. 44), against CCC 2357-2359 and chastity teaching (CCC 2337-2359). The Catechism also calls for respect and sensitivity toward persons (CCC 2358). | Respect for persons alongside teaching on acts (CCC 2358). Chastity as a virtue for everyone. What does the story say about honesty and the masks people wear? |
-| Eastern Orthodox | D | Significant | Humility and honesty about the self; grief and memory of the dead (Mio); repentance-like change in Touko (ch. 34-35). | Traditional teaching on marriage and sexuality; romance and physical intimacy offered as the story's goal. Guarding the senses (nepsis) weighs on the kissing and ch. 44. | The passions versus love that seeks the other's good. How do the Fathers speak of finding one's true self? |
-| Baptist | D | Significant | Honesty, perseverance, kindness, loyal friendship. | Same-sex romance affirmed as the central good (BF&M 2000, Article XVIII; usually a significant concern); premarital sex (ch. 44). Views vary by congregation under soul liberty. | Philippians 4:8 as the test. Speaking truth in love (Ephesians 4:15) about identity and attraction. |
-| Non-denominational Evangelical | D | Significant | Being honest about who you are; patience; care for a hurting friend. | Most churches hold traditional sexual ethics, against the affirmed romance and ch. 44; some affirming congregations would read it differently. Beneath the Tangles writers differ: one argues Christians need not avoid yuri as a category and should judge by personal temptation; another, writing from personal experience of same-sex attraction, recommends Bloom Into You for empathy yet stopped watching the genre. | Romans 14 and conscience. Beneath the Tangles: "It isn't about sex—it's about safety." Empathy for peers who struggle with identity. |
-| Pentecostal / Charismatic | D | Significant | No occult or spiritual-warfare content, so the "open door" concern is absent. Honesty and growth. | Traditional teaching on sexuality (AG position papers) against the affirmed romance and ch. 44; holiness and modesty standards. | Holiness of life and friendships. What does the Spirit-led life say about identity? |
-| Reformed / Presbyterian | C | Discuss | Common grace: well-made art by non-Christians may be valued; honest depiction of grief and self-deception. | Conservative churches (PCA, OPC) hold traditional teaching on marriage; PC(USA) is affirming. WLC Q139 lists lascivious books and pictures among sins against the seventh commandment, relevant to ch. 44. | The heart's deceitfulness and masks (Jeremiah 17:9). Identity grounded in God rather than others' expectations. |
-| Lutheran | C | Discuss | Entertainment as adiaphora, judged by love and conscience; honesty; "put the best construction on everything" in how the friends treat each other. | LCMS and WELS hold traditional teaching on marriage and chastity; ELCA is affirming. | Sixth Commandment explanation and Christian freedom. Vocation and identity. |
-| Methodist / Wesleyan | C | Discuss | Love that seeks the other's good; honesty; care for the lonely. | UMC affirming since 2024; Global Methodist, Wesleyan and Nazarene traditional on sexuality and chastity. | Does the story "tend to the love of God" or of neighbor? Holiness and relationships. |
-| Anglican / Episcopal | C | Discuss | A literary tradition that judges works by moral vision; honesty, grief and growth. | The Episcopal Church allows same-sex marriage; ACNA holds traditional teaching. Premarital sex is a concern across the range. | What does the story say about truth and self-knowledge? How do your parish's teachings differ? |
-| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | No violence; humility, honesty, community work (the play). | Conservative groups hold traditional teaching on marriage and avoid most popular media; romance and intimacy as the story's goal. MC USA families vary and some are moving toward affirming. | Separation from the world. Honest community where people need not wear masks. |
-| Latter-day Saint | D | Significant | Honesty (Article of Faith 13); kindness; developing talents (acting). | Traditional teaching ("The Family: A Proclamation to the World") and the law of chastity against the affirmed romance and ch. 44. | For the Strength of Youth: does the media invite the Spirit? Ministering with love to peers. |
-| Mainline progressive Protestant | A | Minor | Affirms same-sex love and a lasting relationship; an adult queer couple as role models; honesty and dignity. | Touko's kisses without asking (Bauman's "predatory lesbian" critique); teens isolated from adult support (Friedman). | Consent and healthy relationships. Imago Dei in each character. |
-| Seventh-day Adventist | D | Significant | Honesty, perseverance, kindness; no spiritualism. | Marriage between one man and one woman (General Conference statements); same-sex romance usually a significant concern; premarital sex (ch. 44). | "By beholding we become changed" (2 Corinthians 3:18). Fundamental Belief 22 on entertainment. (from general knowledge; to verify) |
-| Jehovah's Witness | D | Significant | No violence or spiritism; honesty and loyalty. | jw.org counsel against entertainment featuring immorality (Galatians 5:19-21); homosexual acts considered sinful; premarital sex framed positively. | jw.org question: does it feature what God hates? (from general knowledge; to verify) |
-| Christian Science | C | Discuss | Thought shapes experience: Touko's freedom from a false self-image; love over fear. | Purity and marriage valued; premarital sex (ch. 44). Less public teaching on same-sex relationships (to verify). | "Stand porter at the door of thought" (Science and Health 392): what thoughts does the story invite? (from general knowledge; to verify) |
-| Orthodox Jewish | D | Significant | Memory of the dead; honesty ("keep far from falsehood," Exodus 23:7); kind speech in rejection. | Same-sex acts forbidden (Leviticus 18:22); tzniut and the kissing and ch. 44; many Haredi homes restrict such media. | Shmirat einayim. Mourning and memory: Touko and Mio. (from general knowledge; to verify) |
-| Conservative Jewish | B | Discuss | Dignity of each person (CJLS 2006 permitted same-sex commitment ceremonies; views vary by congregation); honesty; grief processed in community. | Teen sexual activity (ch. 44); modesty values applied by families. | B'tselem Elohim. When is a relationship ready for intimacy? (from general knowledge; to verify) |
-| Reform Jewish | A | Minor | LGBTQ inclusion; informed autonomy; honesty and dignity. | Consent in Touko's kisses; teen sexual activity worth discussing. | Choosing a path with integrity. Consent and respect. (from general knowledge; to verify) |
-| Muslim | D | Significant | Truthfulness, patience (sabr), loyalty to friends, kindness in refusing someone. | Traditional teaching on sexuality; same-sex romance and premarital intimacy (ch. 44) as the central good; lowering the gaze (Qur'an 24:30-31) applies to the kissing. | Haya (modesty) and friendships. Being truthful about oneself. |
-| Hindu | B | Discuss | Svadharma: living one's own nature rather than another's (Bhagavad Gita 3.35 echoes Touko's arc); duty to family memory; art (theatre) evoking rasa. | Views on same-sex relationships vary, with traditional views common; teen sexual activity. | "Better one's own dharma imperfectly than another's well" and Touko imitating Mio. |
-| Buddhist | B | Minor | Letting go of a fixed self (Touko's mask); impermanence and grief; compassion in rejection; right speech in honest confession. | Third precept (avoid harmful sexual conduct): many traditions accept same-sex relationships, views vary by teacher and culture; attachment as a theme. | Is the "true self" Touko finds a fixed self, or freedom from clinging? Right intention in love. |
-| Sikh | C | Discuss | Truthful living; equality and dignity; the vice of ego (haumai) behind Touko's facade. | Sex within marriage; Akal Takht opposed same-sex marriage (2005), though diaspora views vary. | Truth is high, but higher still is truthful living (Guru Nanak). (from general knowledge; to verify) |
-| Bahá'í | C | Discuss | Rejection of prejudice; honesty; independent search for truth; unity among friends. | Teaching reserves sexual relations for marriage between a man and a woman; a "chaste and holy life" (Shoghi Effendi). | Love without prejudice alongside the teaching on chastity. (from general knowledge; to verify) |
-| Shinto | A | Minor | Sincerity (makoto) as the story's core value: Touko gives up a false face; respect for the dead (Mio's grave). | Little to raise; no doctrine on same-sex relationships (practice varies, to verify). | Sincerity and purity of heart in relationships. (from general knowledge; to verify) |
-| Wiccan / Pagan | A | Minor | Love and sexuality as positive between consenting partners; largely LGBTQ-affirming; becoming one's true self. | Consent in Touko's early kisses ("harm none"). | The Rede and consent. Transformation as the story's theme. (from general knowledge; to verify) |
-| Scientologist | B | Minor | Self-determinism; honesty; competence (acting). | Little in the message; The Way to Happiness asks faithfulness to one's sexual partner, which the couple shows. | "Be worthy of trust." (from general knowledge; to verify) |
-| Secular progressive | A | Discuss | Positive, lasting same-sex romance; adult queer couple; a character who never feels attraction treated with respect (Maki); critique of conformity. | Touko's kisses without permission (Bauman, ANN; Friedman, Okazu); aro/ace readers may feel Yuu's arc closed that reading (Kaiser, Anime Feminist); teen sexual activity and age-appropriateness. | Consent: when should Touko have asked? Is Yuu aromantic, a late bloomer, or neither? Who gets to define a character's identity? |
-| Secular humanist | A | Minor | Meaning made through honest relationships; identity chosen rather than imposed; no supernatural claims. | Consent and the lack of adult support (Friedman). | Is the self something you find or something you make? |
-| Conservative / traditional | D | Significant | Duty to a shared project, respect for senpai and teachers, perseverance, loyalty. | Same-sex romance presented to teen readers as the ideal, a concern for many when presented to children; premarital teen sex (ch. 44); relationship kept from parents. | Parents' role in children's relationships. "The good, the true and the beautiful": which does the story serve? |
-| Unitarian Universalist | A | Minor | Inherent worth and dignity; welcoming LGBTQ people; free search for truth and meaning. | Consent in Touko's kisses. | How does a community let people be who they are? (from general knowledge; to verify) |
-| Satanist | A | Minor | Individualism and self-determination; rejection of imposed identity; bodily autonomy (Satanic Temple Tenet 3); LGBTQ-affirming. | Touko's kisses without permission (Tenet 3). | Is Touko's mask self-imposed or imposed by others? (from general knowledge; to verify) |
+| Catholic | D | Discuss | Truthfulness and refusing to live a lie; healing from grief; respect for each person; kindness in rejection (Sayaka). | The central romance is same-sex and is presented as the good life, culminating in premarital sex between teens (ch. 44), against CCC 2357-2359 and teaching on chastity (CCC 2337-2350). | Touko learns she need not live as her sister: what does it mean to be the person God made you, and how does the Church's teaching on chastity speak to the story's ending? |
+| Eastern Orthodox | D | Significant | Humility and honesty about the self; grief and memory of the dead (Mio); a change of heart in Touko. | Traditional teaching on marriage and sexuality; romance and physical intimacy offered as the story's goal. Guarding the senses (nepsis) weighs on ch. 44. | Masks and the true self: what does Touko take off? (from general knowledge; to verify) |
+| Baptist | D | Significant | Honesty, perseverance, kindness, loyal friendship. | Same-sex romance affirmed as the central good (BF&M 2000, Article XVIII; usually a significant concern); premarital sex between teens (ch. 44). Views vary by congregation. | "Speaking the truth in love" (Ephesians 4:15): where do the characters do this? |
+| Non-denominational Evangelical | D | Significant | Being honest about who you are; patience; care for a hurting friend. | Most churches hold traditional sexual ethics, against the affirmed romance and ch. 44; some affirming congregations would read it differently. No Christian review was found. | Where does Touko find her worth? Compare identity in Christ (2 Corinthians 5:17). (from general knowledge; to verify) |
+| Pentecostal / Charismatic | D | Significant | No occult or spiritual-warfare content, so the "open door" concern is absent. Honesty and growth. | Traditional teaching on sexuality (AG position papers) against the affirmed romance and ch. 44; holiness and modesty standards. | Holiness and honesty in relationships. (from general knowledge; to verify) |
+| Reformed / Presbyterian | C | Discuss | Common grace: well-made art by non-Christians may be valued; honest depiction of grief and self-deception. | Conservative churches (PCA, OPC) hold traditional teaching on marriage; PC(USA) is affirming. WLC Q139 on lascivious books and pictures for ch. 44. | Self-deception and truth: how does Touko's "mask" fall? |
+| Lutheran | C | Discuss | Entertainment as adiaphora, judged by love and conscience; honesty; "put the best construction on everything" in how the friends treat each other. | LCMS and WELS hold traditional teaching on marriage and chastity; ELCA is affirming. | The Eighth Commandment's "best construction": how do the friends treat each other's secrets? |
+| Methodist / Wesleyan | C | Discuss | Love that seeks the other's good; honesty; care for the lonely. | The UMC has been affirming since 2024; Global Methodist, Wesleyan and Nazarene churches hold traditional teaching on sexuality and chastity. | What does love that seeks the other's good look like here? (from general knowledge; to verify) |
+| Anglican / Episcopal | C | Discuss | A literary tradition that judges works by moral vision; honesty, grief and growth. | The Episcopal Church allows same-sex marriage; ACNA holds traditional teaching. Premarital sex between teens is a concern across the range. | Grief and becoming oneself: what does Touko owe her sister's memory? |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | No violence; humility, honesty, community work (the play). | Conservative groups hold traditional teaching on marriage and avoid most popular media; romance and intimacy as the story's goal. MC USA families vary. | Humility versus performance: Touko's public face. (from general knowledge; to verify) |
+| Latter-day Saint | D | Significant | Honesty (Article of Faith 13); kindness; developing talents (acting). | Traditional teaching ("The Family: A Proclamation to the World") and the law of chastity against the affirmed romance and ch. 44. | Developing talents: Touko's acting as her own gift, not her sister's. (from general knowledge; to verify) |
+| Mainline progressive Protestant | A | Minor | Affirms same-sex love and a lasting relationship; an adult queer couple as role models; honesty and dignity. | Touko's kisses without asking (Bauman's predatory-lesbian critique); teens with little adult support (Friedman). | Consent and care: what changes between Touko's first kisses and the ending? |
+| Seventh-day Adventist | D | Significant | Honesty, perseverance, kindness; no spiritualism. | Marriage between one man and one woman (General Conference statements); same-sex romance usually a significant concern; premarital sex between teens (ch. 44). | Honesty and kindness in refusing someone. (from general knowledge; to verify) |
+| Jehovah's Witness | D | Significant | No violence or spiritism; honesty and loyalty. | jw.org counsel against entertainment featuring immorality (Galatians 5:19-21); homosexual acts considered sinful; premarital sex framed positively. | jw.org questions on choosing entertainment. (from general knowledge; to verify) |
+| Christian Science | C | Discuss | Thought shapes experience: Touko's freedom from a false self-image; love over fear. | Purity and marriage valued; premarital sex (ch. 44). Less public teaching on same-sex relationships (to verify). | Love casting out fear (1 John 4:18) in Touko's arc. (from general knowledge; to verify) |
+| Orthodox Jewish | D | Significant | Memory of the dead; honesty ("keep far from falsehood," Exodus 23:7); kind speech in rejection. | Same-sex acts forbidden (Leviticus 18:22); tzniut and the kissing and ch. 44; many Haredi homes restrict such media. | Ona'at devarim (hurtful words): how kindly does Touko refuse Sayaka? (from general knowledge; to verify) |
+| Conservative Jewish | B | Discuss | Dignity of each person (the CJLS 2006 rulings opened the way to same-sex commitment ceremonies; views vary by congregation); honesty; grief processed in community. | Teen sexual activity (ch. 44); modesty values applied by families. | Kavod ha-briyot (human dignity) in how the friends treat each other. (from general knowledge; to verify) |
+| Reform Jewish | A | Minor | LGBTQ inclusion; informed autonomy; honesty and dignity. | Consent in Touko's kisses; teen sexual activity worth discussing. | What does consent look like in a relationship? (from general knowledge; to verify) |
+| Muslim | D | Significant | Truthfulness, patience (sabr), loyalty to friends, kindness in refusing someone. | Traditional teaching on sexuality; same-sex romance and premarital intimacy (ch. 44) as the central good; lowering the gaze (Qur'an 24:30-31) applies to the intimate scenes. | Honesty (sidq) and kind speech: where do the characters show them? |
+| Hindu | B | Discuss | Svadharma: living one's own nature rather than another's (Bhagavad Gita 3.35 echoes Touko's arc); duty to family memory; theatre that moves the audience. | Views on same-sex relationships vary, with traditional views common; teen sexual activity. | "Better one's own dharma, though imperfect" (Gita 3.35) beside Touko's imitation of her sister. |
+| Buddhist | B | Minor | Letting go of a fixed self (Touko's mask); impermanence and grief; compassion in rejection; right speech in honest confession. | Third precept (avoid harmful sexual conduct): many traditions accept same-sex relationships, views vary by teacher and culture; attachment as a theme. | Is Touko's imitation of Mio a kind of clinging? What does letting go free her to do? |
+| Sikh | C | Discuss | Truthful living; equality and dignity; the vice of ego (haumai) behind Touko's facade. | Sex within marriage; the Akal Takht opposed same-sex marriage (2005), though diaspora views vary. | Haumai (ego) and the public mask. (from general knowledge; to verify) |
+| Bahá'í | C | Discuss | Rejection of prejudice; honesty; independent search for truth; unity among friends. | Teaching reserves sexual relations for marriage between a man and a woman; a "chaste and holy life" (Shoghi Effendi). | Independent investigation of truth: who in the story searches for their own answers? (from general knowledge; to verify) |
+| Shinto | A | Minor | Sincerity (makoto) as the story's core value: Touko gives up a false face; respect for the dead (Mio's grave). | Little to raise; no doctrine on same-sex relationships (practice varies, to verify). | Makoto: what does a sincere heart look like in Touko and Yuu? (from general knowledge; to verify) |
+| Wiccan / Pagan | A | Minor | Love and sexuality as positive between consenting partners; largely LGBTQ-affirming; becoming one's true self. | Consent in Touko's early kisses ("harm none"). | "Harm none" and consent in the early chapters. (from general knowledge; to verify) |
+| Scientologist | B | Minor | Self-determinism; honesty; competence (acting). | Little in the message; The Way to Happiness asks faithfulness to one's sexual partner, which the couple shows. | Self-determinism in Touko's choice of career. (from general knowledge; to verify) |
+| Secular progressive | A | Discuss | Positive, lasting same-sex romance; adult queer couple; a character who feels no romantic attraction treated with respect (Maki); critique of conformity. | Touko's kisses without permission (Bauman, ANN; Friedman, Okazu); aro/ace readers may feel Yuu's arc closed that reading (Kaiser, Anime Feminist); teen sex scene. | Does the story let Yuu's early feelings be valid on their own, as Kaiser asks? |
+| Secular humanist | A | Minor | Meaning made through honest relationships; identity chosen rather than imposed; no supernatural claims. | Consent and the lack of adult support (Friedman). | Who do you become when you stop living up to someone else's image? |
+| Conservative / traditional | D | Significant | Duty to a shared project, respect for senpai and teachers, perseverance, loyalty. | Same-sex romance presented to teen readers as the ideal, a concern for many when presented to children; premarital teen sex (ch. 44); the relationship kept from parents. | Respect, duty and honesty with parents: what is kept from Yuu's family, and why? |
+| Unitarian Universalist | A | Minor | Inherent worth and dignity; welcoming LGBTQ people; free search for truth and meaning. | Consent in Touko's kisses. | Inherent worth: what does Yuu see in Touko that Touko cannot see? (from general knowledge; to verify) |
+| Satanist | A | Minor | Individualism and self-determination; rejection of an imposed identity; bodily autonomy (Satanic Temple Tenet 3); LGBTQ-affirming. | Touko's kisses without permission (Tenet 3). | Bodily autonomy and the early kisses. (from general knowledge; to verify) |
+| Historically Black Protestant | C | Significant | Honesty, kindness and loyalty; grief honored; a young person freed from living under someone else's shadow; elders (Riko and Miyako) who counsel the young. | Premarital sex between teens presented as the fulfillment of love (ch. 44); the large denominations teach marriage between a man and a woman, though members' views vary (Pew 2023-24); no faith in the story. | "Let love be without dissimulation" (Romans 12:9): where do the characters drop the mask, and how does a church family talk with teens about the story's ending? |
+| Atheist | A | Minor | Identity and meaning made in this life through honest relationships; no supernatural claims; no religious pressure; equal, chosen love. | Consent in Touko's early kisses; a sex scene between 16-year-olds. | Touko chooses her own path instead of her sister's: what makes a life your own? |
+| Agnostic | A | Minor | Humility and doubt treated kindly: Yuu's uncertainty about love is never mocked, and the story lets characters work out who they are over time; critics' differing readings of Yuu are possible within the text. | Consent in Touko's early kisses; the teen sex scene. | Yuu is unsure what she feels for a long time. Is it all right not to know yet? |
+| Nothing in particular | B | Discuss | Loyalty between friends, everyday decency, finding your own path, and a hopeful ending; no preaching. | The sex scene between 16-year-olds (ch. 44) is beyond what many families want for younger teens; the early kisses without asking. | Sayaka is turned down kindly and stays a friend. What does that take? |
 
-**Where traditions disagree.** The secondary messages (honesty, healing from grief, not living as someone else) fit nearly every frame. The dividing line is the central romance. Frames with traditional teaching on marriage and sexuality (Catholic, Orthodox, Baptist, most Evangelical and Pentecostal churches, Latter-day Saint, Adventist, Jehovah's Witness, Orthodox Jewish, Muslim, Conservative / traditional) find a significant conflict, because the story presents a same-sex relationship and premarital sex as the good outcome. Frames that affirm same-sex relationships (mainline progressive, Reform Jewish, Unitarian Universalist, secular, Pagan, Satanist) grade it well, and their main concerns are consent and how the aro/ace reading was handled. Divided denominations (Reformed, Lutheran, Methodist, Anglican, Anabaptist) fall in the middle, with families' grades depending on their church body.
+**Where traditions disagree.** Every frame welcomes the honesty, kindness and the theme of not living as someone else. The divide is the romance itself and its ending: most Christian, Jewish Orthodox, Muslim, Latter-day Saint, Adventist and conservative readings treat a same-sex relationship presented as the good life, and premarital sex between 16-year-olds (ch. 44), as an endorsed message at odds with their teaching (D, some C), while progressive Protestant, Reform Jewish, Unitarian Universalist, secular, Wiccan, Shinto, Atheist and Agnostic readings grade it A. Progressive and secular critics raise their own concern: consent in Touko's early kisses and the closing of an aromantic reading of Yuu.
 
 ## Winners, losers and sympathy
 
-Honesty wins: the characters who drop their masks and say what they feel end up loved, and even rejection is shown as a step forward.
+Those who drop their masks and speak honestly are rewarded: Touko finds her own path, Yuu finds love she chose, and Sayaka, rejected, grows and finds love later. No one is a villain; the only defeated thing is the habit of living for someone else's image.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Yuu Koito | Love has to be truly felt; honesty with yourself | Falls in love slowly, confesses (ch. 34), becomes Touko's partner (ch. 40); together at university (ch. 45) | Endorsed |
-| Touko Nanami | Living as the image others need (her sister), then choosing herself | Drops the imitation of Mio, keeps acting as her own choice (ch. 45) | Sympathetic; the mask is outgrown, not condemned (Nakatani "didn't want to condemn" it, Wikipedia) |
-| Sayaka Saeki | Silent, loyal love | Confesses (ch. 37), is rejected (ch. 38), moves on with grace; her future is explored in the novels | Sympathetic; Nakatani wanted her rejection not to read as failure (Wikipedia) |
-| Riko and Miyako | A stable adult same-sex relationship | Together throughout; advise Sayaka | Endorsed as a model (Bauman, ANN; Alex Henderson, Anime Feminist, via Wikipedia) |
-| Seiji Maki | Life without romantic attraction, enjoying others' stories from outside | Single at the end; tells Yuu she is running from her feelings (ch. 39) | Respected; critics split on whether he is real ace representation (Bauman says not) |
+| Yuu Koito | Love chosen, not felt on cue | Becomes Touko's partner; at university, still together (ch. 45) | Endorsed |
+| Touko Nanami | Living as her dead sister; fear of being loved | Plays herself in the play (v6), joins a theater troupe, becomes a professional actress (ch. 45) | Endorsed as she changes |
+| Sayaka Saeki | Silent devotion; fear of "just a phase" | Confesses and is gently refused (ch. 37); later has a girlfriend (ch. 45; light novels) | Sympathetic |
+| Riko and Miyako | A lasting adult same-sex partnership | Mentor Sayaka and model the future | Endorsed |
+| Seiji Maki | Content without romance; enjoys watching others' stories | Remains a friend and observer | Fair; Bauman finds him thin aro/ace representation |
+| Mio Nanami (memory) | The perfect sister | Revealed as different from the image (v3-4); her memory released | The image critiqued; the person mourned |
 
-**Fan favorites versus the official moral.** No official character poll was found. Sayaka has a strong following: she received her own three-volume spin-off novel series and a stage play (Wikipedia). Fan debate centers less on characters than on Yuu's orientation (aromantic, asexual, demisexual or none), which Wikipedia calls widely debated. AnimeJapan 2018 and Anime Anime 2022 fan polls show demand for the anime to continue past vol. 5 (Wikipedia). There are no villains; fan affection and the story's moral line up.
+**Fan favorites versus the official moral.** No official character poll was found in sources opened. Sayaka is a critic and fan favorite: she got three spin-off novels, and Friedman, Jones, Henderson and Bauman single out her arc (Wikipedia). The fan and story morals largely agree; the main split is among critics, some of whom hoped Yuu would remain an aromantic protagonist (Friedman, Kaiser) and some of whom fault Touko's early pursuit (Bauman, Bridges).
 
 ## Message delivery
 - Style: Woven in
 - Preachiness: 3
 - Opposing views: Mixed
-- Evidence: Friedman calls it "intriguing, rather than entertaining"; Bauman calls it "not as original as we like to think." No reviewer found calls it preachy.
-- Note: Views on masks, romance and its absence get fair voices, but no character in the main manga voices a traditional objection to same-sex love.
+- Evidence: Nakatani says she avoided a story about the social obstacles to same-sex love and focused on the characters' flaws (Wikipedia, Production). The play inside the story states the theme openly (choose to be yourself).
+- Note: The message is carried by the characters' inner lives and by the school play, which mirrors Touko's choice; the adult couple and Maki are drawn to make the point that love is real and that a life without romance can be full.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
-| Touko Nanami | Becoming who others expect | Hero | Sympathetic |
-| Yuu Koito | Authentic feeling over scripted romance | Hero | Sympathetic |
-| Seiji Maki | A life without romantic attraction | Foil | Fair |
-| Riko Hakozaki and Miyako Kodama | Lasting same-sex partnership | Mentor | Sympathetic |
+| Touko Nanami | Living as someone else versus becoming yourself | Hero | Sympathetic |
+| Yuu Koito | Love chosen and grown into | Hero | Sympathetic |
+| Seiji Maki | Fulfillment without romance | Foil | Fair |
+| Riko Hakozaki and Miyako Kodama | Lasting adult same-sex partnership | Mentor | Sympathetic |
 
 ## Creator and publisher context
 
-- Nio Nakatani was born November 25 in Shiga, Japan (no year given). She became known for Touhou Project doujinshi under the pen name "Rireba," debuted professionally with the one-shot Farewell to My Alter (Dengeki Daioh, 2014; gold award, 21st Dengeki Comics Grand Prize). Later series: God Bless the Mistaken (2021-2023, Yen Press in English) and My Beloved Apocalypse (from September 2025) (Wikipedia, opened).
-- On-record statements (via Wikipedia and TV Tropes Trivia, both opened): she did not set out to write yuri and her main interest is "complex human relationships"; she wanted to draw an unambiguous romance between girls and said the series was conceived as yuri; she did not want the girls being girls to be the central conflict; she disliked stories that present a relationship as necessary to feel whole because they made her feel "something was wrong with me"; she "didn't want to condemn" Touko's imitation of her sister; she wanted Sayaka's rejection not to read as failure. In a 2018 Newtype conversation she said she "always liked" yuri, and when asked "What is love?" answered, "Please look forward to the end of the manga!" (ANN, opened). After the series she said she wanted her next work to be outside yuri.
-- Nakatani has not spoken publicly about religion, politics or her private life in sources found. **Status: Needs more info on the creators.**
-- Editor Tatsuya Kusunoki said the editor-in-chief approved the series because of the magazine's "open-minded" culture (Wikipedia).
-- Publisher: ASCII Media Works, a Kadokawa brand. Seven Seas Entertainment is an independent US publisher with a large yuri line (from general knowledge; to verify).
-- No reputable reports of controversy involving the creator were found.
+- Nio Nakatani, from Shiga Prefecture, graduate of Kyoto Seika University; drew Touhou Project doujinshi as "Rireba," which readers took as yuri though she says she had not set out to write yuri; professional debut Farewell to My Alter (Dengeki Daioh, 2014), which won the 21st Dengeki Comics Grand Prize, Gold (Wikipedia, Nio Nakatani).
+- On-record intent (Wikipedia, Production, citing Japanese interviews): she was disappointed by stories that treat a relationship as needed to complete oneself, which made her feel "something was wrong with me"; she chose not to focus on social obstacles to same-sex love; she created Maki to show that people can be fulfilled without romance, and Riko and Miyako to suggest what Yuu and Touko might become; she considered chapter 44 necessary so as not to omit that aspect of their feelings, and wanted the ending to show they chose each other freely and are happy.
+- Editor Tatsuya Kusunoki proposed the series to her at a doujinshi convention; the "light and dark" pairing (Touko dark, Yuu light) was his suggestion; Yuu's inability to feel romance was based on a real woman's account (Wikipedia).
+- Publisher: ASCII Media Works / Kadokawa (Dengeki Daioh, a shonen magazine). Seven Seas publishes it in English; rated Teen 13+ per the guide's input record (not shown on the pages opened).
+- No controversies involving the creator were found.
 
 ## Worldview lenses
 
-Dominant lenses: Expressive individualism, Existentialism, Progressivism, Secular humanism.
+Dominant lenses: Expressive individualism, Existentialism, Progressivism.
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Expressive individualism | 7 | Affirmed | A | The story's resolution is Touko choosing to be herself instead of Mio; Yuu has the play's ending changed so the girl "chooses to be herself" (ch. 28-31, Wikipedia). My own label, not a source's. |
-| Existentialism | 6 | Affirmed | B | Identity is made, not given: the title "Eventually, Becoming You"; the play's question of which view of a person is true (ch. 30-31). My own framing. |
-| Progressivism | 5 | Affirmed | B | Same-sex love presented as ordinary and lasting; Bauman credits it with breaking the "transitory same-sex love" convention; an adult queer couple as role model. |
-| Secular humanism | 4 | Affirmed | B | Meaning found in honest human relationships, with no religious frame. My own framing. |
-| Postmodernism | 3 | Explored | C | Selves constructed by others' perceptions (the play "I Only Know You," ch. 30-31; Touko as "two-faced," per character designer Goda). My own framing. |
-| Feminism | 3 | Explored | C | An all-girl romance with women's inner lives at the center; Anime Feminist praised its queer representation, while critics fault Touko's lack of consent. |
-| Classical virtue ethics | 3 | Explored | C | Honesty, courage to confess, grace in rejection (Sayaka). |
-| Communitarianism | 2 | Explored | C | The student council working toward the play together. My own framing. |
-| Confucian ethics | 2 | Explored | C | Senpai-kohai respect and filial expectation (Touko living for her family's memory of Mio), loosened rather than rejected. My own framing. |
-| Critical theory | 1 | Incidental | C | Heteronormative expectations (shoujo-manga love scripts) are questioned through Yuu, but not analyzed as systems. |
-| Traditionalism | 1 | Explored | C | Reviving the council's lapsed play tradition is honored, but as a shared project, not a duty to the past. |
-| Christian, Jewish, Islamic, Dharmic, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Stoicism, Utilitarianism, Marxism, Environmentalism, Absurdism, Nihilism, Anti-natalism, Hedonism, Consumerism, Might makes right, Libertarianism, Collectivism/authoritarianism, Transhumanism, Pragmatism | 0 | Not present | none | No meaningful evidence found. |
+| Expressive individualism | 7 | Affirmed | A | Touko's arc from her sister's image to herself; the play's ending in which the heroine chooses to be herself (v4-6). |
+| Existentialism | 6 | Affirmed | B | Identity is chosen, not given: Nakatani stresses that the two chose each other rather than being destined (Wikipedia). |
+| Progressivism | 5 | Affirmed | B | A same-sex romance ending in lasting partnership, breaking the "just a phase" convention (Bauman; Henderson). |
+| Secular humanism | 4 | Affirmed | B | Meaning through honest human relationships; no supernatural frame. |
+| Postmodernism | 3 | Explored | C | The play-within-the-story about which version of a person is real (v4-6). |
+| Feminism | 3 | Explored | C | Girls' inner lives at the center; critics debate the consent dynamics. |
+| Classical virtue ethics | 3 | Explored | C | Honesty, patience and kindness as the characters' growth. |
+| Communitarianism | 2 | Explored | C | The student council as a small community around the play. |
+| Confucian ethics | 2 | Explored | C | Senpai-kohai respect; family expectations on Touko. |
+| Critical theory | 1 | Incidental | C | Little social critique beyond the "phase" framing. |
+| Traditionalism | 1 | Explored | C | School customs (the council play revived) kept as setting. |
+| Christian, Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Stoicism, Utilitarianism, Duty ethics, Bushido / honor code, Marxism, Environmentalism, Absurdism, Nihilism, Anti-natalism, Hedonism, Consumerism, Pacifism / nonviolence, Might makes right, Liberalism, Libertarianism, Anarchism, Patriotism / nationalism, Collectivism/authoritarianism, Transhumanism, Pragmatism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side; economics appears only in Miyako's wish that her café did better (TV Tropes). |
-| Social (0 authority, 10 liberty) | 7 | Personal choice over others' expectations; the couple keeps its relationship from parents without the story judging it. School authority is benign and respected. |
-| Cultural (0 traditional, 10 progressive) | 8 | Same-sex romance as the normal good outcome; questions inherited love scripts; adult queer couple as role model. |
-| Community (0 individual first, 10 community first) | 4 | The message is personal authenticity, but it is reached through friendship and a shared school project. |
+| Economic (0 collective, 10 free market) | 5 | No economic themes. |
+| Social (0 authority, 10 liberty) | 7 | Freedom to choose one's identity and relationship is the core value. |
+| Cultural (0 traditional, 10 progressive) | 8 | A same-sex romance and premarital intimacy presented as good; traditional school life as setting. |
+| Community (0 individual first, 10 community first) | 4 | Personal identity and the couple come first, supported by a small circle of friends. |
 
 **Moral foundations profile (0 to 10):** care 8, loyalty 6, fairness 5, sanctity 2, authority 3, liberty 7.
 
-**Profile notes for parents:** A quiet, low-intensity romance whose content level comes from kissing and one non-graphic sex scene near the end (ch. 44). Its weight is in its values: it presents a same-sex teen relationship and being true to oneself as the good life, which families will read very differently by tradition. For families who affirm same-sex relationships, the main talking points are consent (Touko's early kisses) and the aromantic/asexual debate.
+**Profile notes for parents:** The series runs on care (gentle friendships, kindness in rejection) and liberty (becoming oneself). Sanctity is low in the traditional sense: premarital intimacy between teens is presented as the natural fulfillment of love. Authority is mild and mostly supportive (teachers, the council). There is no violence or fan service reported; the publisher's input record lists Teen 13+.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 2 | Conflicts are settled by honest talk; no one defends their name. Rejection is handled with grace (Sayaka, ch. 38) and the "perfect senpai" image is something Touko learns to drop (ch. 34-35). |
-| Order vs freedom | 6 | School rules and the council are respected, but the story celebrates personal choice over expectation (Touko's freedom from Mio's role; Yuu's own pace in love). |
-| Civic vs kin | 4 | Friends and the council matter as much as family; Yuu confides in her sister Rei (ch. 33) but not her parents; Touko's arc loosens her family's hold on her identity. |
-| Equality vs hierarchy | 4 | Senpai-kohai roles frame the cast, but the story undoes Touko's senpai pedestal and makes the couple equals. |
-| Tradition vs secular-rational | 8 | No religious frame; inherited scripts of romance (shoujo manga) and family roles are questioned. The revived play tradition is honored as a shared project, not as custom. |
-| Survival vs self-expression | 9 | Self-expression, tolerance and being oneself are the highest goods; the epilogue has Touko still acting by her own choice (ch. 45). |
+| Dignity vs honor | 2 | Inner sincerity over public reputation: Touko gives up the honored image of her sister. |
+| Order vs freedom | 6 | School order is kept and respected, but freedom to choose oneself is the theme. |
+| Civic vs kin | 4 | The student council and friends matter more than blood family, which is mostly background. |
+| Equality vs hierarchy | 4 | Senpai-kohai roles invert as Yuu comes to lead Touko (Japanese Wikipedia). |
+| Tradition vs secular-rational | 8 | Secular; customs kept as setting. |
+| Survival vs self-expression | 9 | Identity and love are the stakes; survival is never in question. |
 
 Closest clusters: New Netherland; The Left Coast; Protestant Europe
 
-Japanese source culture: The senpai-kohai structure, the student council, keeping up appearances (tatemae versus honne) and the "Class S" school-girl romance tradition are Japanese settings and genre conventions; the story's own message pushes against appearances in favor of honesty.
+Japanese source culture: A Japanese public co-ed high school, the student council, senpai-kohai etiquette, a school trip to Kyoto and the family grave set the scene; the yuri genre and its Class S history are the Japanese tradition the series answers (Wikipedia; Henderson, Anime Feminist).
 
 ## Philosophy essay
 
-**The central question.** Who are you when you stop being who others need you to be? The title, Yagate Kimi ni Naru, "Eventually, Becoming You," can be read two ways: becoming the person you love, or becoming yourself. The story is built to hold both.
+**The central question.** What does it mean to love, and to be yourself, when you are not sure you feel what you are supposed to feel? Yuu cannot feel the romance she reads about; Touko cannot bear to be loved because she does not love herself. The story asks whether love is a feeling that arrives or a choice that grows.
 
-**The answer the story gives.** The self is something you grow into, and real love leaves room for that growth. Touko has spent years becoming her dead sister Mio because she believes the people around her need Mio back. She loves Yuu precisely because Yuu feels nothing, so Yuu will never change and never make demands; in ch. 10 she tells Yuu not to fall for her, calling love a "shackle" (TV Tropes). The story treats this as a trap. In ch. 21 Touko learns her sister was not who she remembered, so the person she was copying never existed. Yuu has the play's ending rewritten so the amnesiac heroine chooses to be herself (ch. 28). When Yuu finally falls in love and says so (ch. 34), Touko has to accept a Yuu who changed, and a self of her own. Nakatani said she "didn't want to condemn" Touko's mask, so the epilogue keeps her acting, now by choice (ch. 45).
+**The answer the story gives.** Love is chosen and grows out of honesty. Touko's condition, that Yuu never fall for her, keeps both of them locked in roles. The play's rewritten ending, in which the heroine chooses to be herself rather than what others see (v4-6), breaks Touko's imitation of her sister. Yuu discovers that she has come to love Touko, and Nakatani says she wanted it clear that the two chose each other (Wikipedia). The final chapters show the relationship made physical (ch. 44) and lasting (ch. 45).
 
-**Characters as arguments.** Yuu argues that love cannot be forced by scripts or expectations; it comes in its own time or not at all. Touko argues, and then disproves, the idea that being loved requires a perfect performance. Sayaka argues for loyal love that does not get what it wants and is still not wasted. Maki argues that a life without romantic attraction is complete; he watches others' relationships like stage plays and stays single. Riko and Miyako argue that same-sex love can last into adulthood.
+**Characters as arguments.** Touko argues for living up to an image and learns that it is a prison. Yuu argues that love need not arrive on cue. Sayaka argues for patient devotion and learns that waiting too long can mean losing; she is refused kindly and grows (ch. 37). Maki argues that a life without romance can be full. Riko and Miyako show that love between women lasts into adulthood. Mio, the dead sister, is the absent argument: the perfect image that turns out not to be who she was.
 
-**Symbols and motifs.** The stage and the play: roles, scripts and the question of the "real" self. Masks and faces: character designer Goda called Touko "two-faced," with feelings that do not show. Water and rain (ch. 13, "Downpour"), the lighthouse (ch. 24) and the aquarium as places where feelings surface. The rings in the epilogue mark commitment.
+**Symbols and motifs.** The railroad crossing where Touko first kisses Yuu; the stars Yuu cannot reach (the first chapter's title); the play and its amnesiac heroine; the aquarium tunnel (v5); rings in the epilogue.
 
-**Traditions it echoes.** Japanese "Class S" girls' school romance, which Bauman (ANN) shows the series both follows and breaks. Existentialist themes of authenticity. Buddhist readers may see a mirror of non-attachment to a fixed self; Hindu readers may hear Bhagavad Gita 3.35 on one's own dharma. Christian readers differ: a Beneath the Tangles writer recommends it for empathy while explaining why they stopped watching yuri.
+**Traditions it echoes.** Class S stories and yuri such as Maria-sama ga Miteru, which Bauman says it often follows; Nakatani names Sound! Euphonium and Satoshi Mizukami's Lucifer and the Biscuit Hammer as influences (Wikipedia). Readers from Buddhist, Hindu and Shinto frames find echoes of letting go of a false self, one's own dharma, and sincerity.
 
-**How each lens is portrayed.** Expressive individualism and existentialism are affirmed. Progressive views of same-sex relationships are assumed as the story's background, not argued for. Traditional and religious views on sexuality are not voiced in the main manga. Aromantic and asexual readings are raised (Yuu and Maki) and remain contested among critics.
+**How each lens is portrayed.** Expressive individualism and existentialism win: the self is chosen. Progressivism is affirmed through the lasting same-sex couple. Critics from the same progressive side question the consent in early kisses and the treatment of aromantic readers.
 
-**Shifts across the series.** Vols. 1-2 (ch. 1-10) set up an uneven arrangement: one girl in love, one who feels nothing. Vols. 3-5 (ch. 11-28) build the council play and reveal Touko's grief and Mio's real story. Vol. 6 (ch. 29-34) stages the play and Yuu's confession. Vols. 7-8 (ch. 35-45) turn to Sayaka's confession, Touko's choice, the couple's first night and an adult epilogue. The tone moves from melodrama to warmth.
+**Shifts across the series.** Volumes 1-2 (ch. 1-10): the confession, the condition, the election; Touko's point of view revealed at ch. 10. Volumes 3-5 (ch. 11-28): the play, Mio's past, Touko's crisis. Volume 6 (ch. 29-34): the performance and Yuu's confession. Volumes 7-8 (ch. 35-45): Sayaka's confession, the real couple, ch. 44 and the epilogue.
 
 **Discussion questions.**
-1. Touko loves Yuu because she thinks Yuu will never change. Is that love? What changes her mind?
-2. Touko kisses Yuu without asking several times early on. How does the story treat it, and how should it?
-3. Is Yuu aromantic, a late bloomer, or something else? Why do readers care so much about the answer?
-4. Touko spent years becoming her sister. When is it good to carry on someone's legacy, and when does it cost you yourself?
-5. Your family's tradition has its own teaching about love, sex and marriage. Where does this story agree with it, and where does it not?
+1. Touko asks Yuu never to fall in love with her. Why would someone ask that?
+2. Touko tries to become her dead sister. What did she lose, and what did she gain when she stopped?
+3. Some critics say Touko should have asked before kissing Yuu. What do you think consent looks like in a relationship?
+4. Sayaka waited a long time to say how she felt. Was she right to wait?
+5. The story ends with the two girls sleeping together while still in high school. How does that fit with what your family believes about relationships?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Yuri critic, early skepticism | Erica Friedman, Okazu (manga vol. 2) | Art 8, Story 8, Overall 8; "intriguing, rather than entertaining"; uneasy about Touko not gaining consent ("Touko is playing unfair") and about the teens' isolation; thinks Yuu needs to learn about asexuality. | https://okazu.yuricon.com/2017/11/05/yuri-manga-bloom-into-you-volume-2-english/ |
-| Yuri critic, final verdict | Erica Friedman, Okazu (manga vol. 8) | Overall 9, Yuri 10; a fitting end; "There is a sex scene"; in comments says it was "never about an asexual or aromantic" character. | https://okazu.yuricon.com/2020/08/11/bloom-into-you-volume-8/ |
-| Genre critique | Nicki Bauman, Anime News Network feature (2020) | "Not as original as we like to think"; Touko's kisses reinforce a "predatory lesbian" trope; praises the adult couple, the sex scene and the post-high-school ending as breaks from yuri convention; rejects aro/ace readings of Yuu. | https://www.animenewsnetwork.com/feature/2020-09-23/how-bloom-into-you-defies-and-reinforces-yuri-tropes/.163504 |
-| Progressive / queer | Vrai Kaiser, Anime Feminist (anime ep. 1) | A "solid romantic melodrama"; worries the anime frames Yuu's lack of feeling as loss and that aro/ace fans may be "disappointed or even hurt." | https://www.animefeminist.com/review-bloom-into-you-episode-1/ |
-| Critics (summarized) | Rebecca Silverman (ANN), Alex Jones (Neo), Alex Henderson (Anime Feminist) | Praise for potential aromantic representation, not fetishizing aromanticism, and its queer representation and adult couple. | Via https://en.wikipedia.org/wiki/Bloom_Into_You |
-| General review | AIPT (manga vol. 1) | "A sweet manga with good character focus and artwork"; feelings grow "organically." | https://aiptcomics.com/2018/11/17/bloom-into-you-vol-1-review/ |
-| Christian (engaging) | Twwk, Beneath the Tangles (2021) | Argues Christians should not reject yuri for its subject alone and should avoid only what tempts them; does not discuss Bloom Into You by name. | https://beneaththetangles.com/2021/06/22/can-christians-watch-yuri-anime/ |
-| Christian (personal) | Guest writer, Beneath the Tangles (2021) | Writing from experience of same-sex attraction, recommends Bloom Into You and reads it as asexual representation ("I had never felt so seen by an anime"), but stopped watching yuri because it fed temptation. | https://beneaththetangles.com/2021/06/23/yuri-will-save-the-world-why-you-should-watch-yuri-and-why-i-dont-anymore/ |
-| Conservative / traditional | None found | No conservative or traditional-values review of this series was found in search. | none |
-| Secular parent guides | None found | No Common Sense Media, Plugged In or ScreenWise page found. ANN lists Seven Seas' rating as 13+; MyAnimeList lists the anime PG-13. | https://www.animenewsnetwork.com/encyclopedia/releases.php?id=38710 |
-| Fan reviews | MyAnimeList | Manga about 8.65 (as viewed); anime 7.88 from about 165,000 users. | https://myanimelist.net/manga/88660/Yagate_Kimi_ni_Naru/clubs ; https://myanimelist.net/anime/37786 |
-| Japanese reception | Polls and sales (via Wikipedia) | About 1 million copies; 4th in the 2017 Next Manga Awards; 3rd in AnimeJapan's 2018 most-wanted-anime poll; TV Tropes Trivia calls the anime a "sleeper hit" of fall 2018. | https://en.wikipedia.org/wiki/Bloom_Into_You ; https://tvtropes.org/pmwiki/pmwiki.php/Trivia/BloomIntoYou |
+| Yuri critic (manga, vol. 8) | Erica Friedman, Okazu (2019, 2020) | Final volume rated 9 overall; a fitting, if predictable, ending; notes only that there is a sex scene. Earlier volumes: doubts about consent in the kisses and hopes for an aromantic Yuu (via Wikipedia). | https://okazu.yuricon.com/2020/08/11/bloom-into-you-volume-8/ |
+| Feature (manga) | Nicki Bauman, ANN (2020) | Breaks the "transitory love" tradition with ch. 44 and a lasting couple, but follows yuri conventions and uses the predatory-lesbian trope: "an exhilarating but flawed and often unoriginal work." | https://www.animenewsnetwork.com/feature/2020-09-23/how-bloom-into-you-defies-and-reinforces-yuri-tropes/.163504 |
+| Critic (anime, episodes 1-3) | Rose Bridges, ANN (2018) | B; a realistic late bloomer, but Touko's persistence is "kinda creepy." | https://www.animenewsnetwork.com/review/bloom-into-you/episodes-1-3/.138409 |
+| Feminist (anime premiere) | Vrai Kaiser, Anime Feminist (2018) | A quiet slow burn; worries aro/ace viewers will be "disappointed or even hurt." | https://www.animefeminist.com/review-bloom-into-you-episode-1/ |
+| Feminist feature (anime) | Alex Henderson, Anime Feminist (2019) | Sayaka's arc and the adult couple challenge the "just a phase" trope; praises the representation of adult queer couples. | https://www.animefeminist.com/feature-not-just-a-phase-how-bloom-into-you-challenges-common-yuri-tropes/ |
+| Critic (manga, vol. 5) | Bobduh, Wrong Every Time (2023) | Yuu refuses to let Touko devalue herself; "Touko is terrified of being nothing." | https://wrongeverytime.com/2023/06/05/bloom-into-you-volume-5/ |
+| Critics (manga and anime) | Silverman (ANN), Smith and Gaffney (Manga Bookshelf), Jones (Neo), via Wikipedia | Generally positive; praise for Sayaka, the co-ed setting and the lack of forceful tropes. | https://en.wikipedia.org/wiki/Bloom_Into_You |
+| Fan databases | AniList, MangaUpdates | AniList average 86 (about 67,000 members); MangaUpdates 8.68. | AniList API; MangaUpdates API |
+| Christian outlets, Common Sense Media | — | No review found in search. | none |
+
+No public controversy was found. The main critical debates are about consent in the early kisses and whether the story closes off an aromantic or asexual reading of Yuu; faith-based outlets have not reviewed it in sources found.
 
 ## Most loaded parts and pages to photograph
 
-Volume to chapter map (BookBrainz edition pages for vols. 3 and 5-8; vols. 1-2 inferred, since Wikipedia says ch. 10 ends vol. 2): v1 ch. 1-5 (likely); v2 6-10 (likely); v3 11-16; v4 17-22 (inferred); v5 23-28; v6 29-34; v7 35-39; v8 40-45. Most volumes also have an interlude. Chapters below were located on TV Tropes or Wikipedia unless marked "likely."
+Volume-to-chapter map (English Wikipedia volume list, opened): v1 ch. 1-5; v2 6-10 + interludes and "Episode X"; v3 11-16 + interlude; v4 17-22; v5 23-28; v6 29-34; v7 35-39; v8 40-45. Ch. 44 is the penultimate chapter (Bauman; Wikipedia, Production); ch. 37 is Sayaka's confession (Wikipedia). Other chapter placements are marked "likely."
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | The couple's first sexual encounter | 44 (v8) | Sets the overall content level (5) and drives most traditional frames' concern; confirm how explicit it is and the characters' school year. |
-| 2 | Mutual confession and the epilogue with rings, three years on | 40 (v8); 45 (v8) | The story's verdict that the relationship is good and lasting; Progressivism lens; Gender and identity row. |
-| 3 | Touko's first kiss of Yuu and later unasked kisses | 2 (v1); others likely in v1-3, including 13 "Downpour" (likely) | Consent critique (Bauman, Friedman); Imitable behavior and the secular frames. |
-| 4 | Yuu's sense that she cannot feel love; she and Maki as possibly asexual | 1-5 (v1, likely); Maki 6 (v2) and 39 (v7) | The aromantic/asexual debate; check exact wording. |
-| 5 | Touko: "love is a shackle"; Mio dream | 10 (v2) | Touko's mask and the central identity theme. |
-| 6 | Touko learns Mio was not who she remembered; Yuu's answer and the rewritten ending | 21 (v4); 23, 28 (v5) | Expressive individualism and the Life message. |
-| 7 | The play "I Only Know You"; Yuu admits her love to herself; her confession | 30-32, 34 (v6) | Existentialism and Postmodernism lenses; romance peak. |
-| 8 | Sayaka's confession and rejection | 37-38 (v7) | Sympathy table; Nakatani's intent that rejection is not failure. |
-| 9 | Riko and Miyako revealed as a couple | 11 (v3) | Adult same-sex model; Family and authority row. |
-| 10 | Relationship kept from Yuu's parents | throughout; final chapter 45 (v8) | Conservative / traditional frame; Social axis. |
+| 1 | Yuu and Touko (both 16) spend the night at Touko's parents' apartment and have sex for the first time | 44 (v8) | Sexual content involving minors; Sexuality (6); the adult-flag decision and every frame's concern. Do not photograph or scan; review in print, written note only. |
+| 2 | Touko's first kiss of Yuu at the railroad crossing and later kisses without asking | likely 2-10 (v1-2) | Consent debate (Friedman, Bauman); Sexuality. Written note only. |
+| 3 | Growing physical intimacy after they become a couple; the bowling bet and the sleepover request | likely 40-43 (v8) | Sexuality; framing before ch. 44. Written note only. |
+| 4 | Sayaka's confession in Kyoto and Touko's refusal | 37 (v7) | Virtues (kindness in rejection); frames' "aligns." Photograph. |
+| 5 | The play's rewritten ending and Touko's performance | likely 29-31 (v6) | Life message and Hope source. Photograph. |
+| 6 | Touko learns her sister was not who she imagined (Ichigaya at the camp) | likely 17-20 (v4) | Mental health (4); grief. Photograph. |
+| 7 | Sayaka's middle-school relationship and the "just a phase" breakup | likely 14-16 (v3) or interlude | Henderson's reading; Gender and identity. Written note only. |
+| 8 | Epilogue: university, rings, a lasting couple | 45 (v8) | Outlook. Photograph. |
 
-Estimate: about 15-18 chapters cover the above; photographing key spreads would take about 40-60 pages.
+Estimate: about 15 chapters cover the above; about 25-35 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
 Pages actually opened:
-- https://en.wikipedia.org/wiki/Bloom_Into_You
-- https://en.wikipedia.org/wiki/Nio_Nakatani
-- BookBrainz editions (chapter contents): https://bookbrainz.org/edition/686fbe00-3532-4388-bbc0-116a2c692125 (v3) ; https://bookbrainz.org/edition/e4b06a24-c3d8-4c0e-a5e9-ab07cd3c9b86 (v5) ; https://bookbrainz.org/edition/2383224b-15e6-458f-8f01-3c8b8b68a1e4 (v6) ; https://bookbrainz.org/edition/f796ee5d-757f-4049-b111-7c510aad9347 (v7) ; https://bookbrainz.org/edition/0779ca1f-026d-477f-9f95-3bd40e566508 (v8)
-- https://www.penguinrandomhouse.com/books/701665/bloom-into-you-vol-8-by-nakatani-nio/
-- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=32457
-- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=38710
-- https://comicpreviews.com/products/bloom-into-you-graphic-novel-volume-08-mature
-- TV Tropes (facts only): https://tvtropes.org/pmwiki/pmwiki.php/Anime/BloomIntoYou ; https://tvtropes.org/pmwiki/pmwiki.php/Trivia/BloomIntoYou
-- https://yagakimi.fandom.com/wiki/Yagate_Kimi_ni_Naru?oldid=1347 (old revision; no chapter data)
-- https://www.animenewsnetwork.com/feature/2020-09-23/how-bloom-into-you-defies-and-reinforces-yuri-tropes/.163504
-- https://www.animenewsnetwork.com/interest/2018-12-14/bloom-into-you-riddle-story-of-devil-creators-talk-yuri-in-latest-newtype-issue/.140798
-- https://www.animefeminist.com/review-bloom-into-you-episode-1/
-- https://okazu.yuricon.com/2017/11/05/yuri-manga-bloom-into-you-volume-2-english/
+- https://en.wikipedia.org/wiki/Bloom_Into_You (raw wikitext)
+- https://en.wikipedia.org/wiki/Nio_Nakatani (API wikitext)
+- https://ja.wikipedia.org/wiki/やがて君になる (API wikitext; plot and ages)
+- AniList API, media id 86218 (graphql.anilist.co)
+- MangaUpdates API, series 71019989107 (api.mangaupdates.com)
+- https://sevenseasentertainment.com/series/bloom-into-you/ (no rating shown)
+- https://sevenseasentertainment.com/books/bloom-into-you-vol-8/ (no rating shown)
 - https://okazu.yuricon.com/2020/08/11/bloom-into-you-volume-8/
+- https://okazu.yuricon.com/2019/12/12/yuri-manga-yagate-kimi-ni-naru-8-%e3%82%84%e3%81%8c%e3%81%a6%e5%90%9b%e3%81%ab%e3%81%aa%e3%82%8b/
+- https://www.animenewsnetwork.com/feature/2020-09-23/how-bloom-into-you-defies-and-reinforces-yuri-tropes/.163504
+- https://www.animenewsnetwork.com/review/bloom-into-you/episodes-1-3/.138409
+- https://www.animefeminist.com/review-bloom-into-you-episode-1/
+- https://www.animefeminist.com/feature-not-just-a-phase-how-bloom-into-you-challenges-common-yuri-tropes/
+- https://wrongeverytime.com/2023/06/05/bloom-into-you-volume-5/
+
+Found in search, not opened (fetch refused or not prioritized):
+- https://Animenewsnetwork.Com/review/bloom-into-you/gn-1/.109937 (site error; summarized through Wikipedia)
+- Sean Gaffney's vol. 8 review at suitablefortreatment.mangabookshelf.com (robots refused; not located in archives)
+- https://www.goodreads.com/book/show/53601845 ; https://app.thestorygraph.com/reviews/47e374c2-45db-4236-a9bc-a3fb786d54a3 (reader reviews, not prioritized)
 - https://aiptcomics.com/2018/11/17/bloom-into-you-vol-1-review/
-- https://beneaththetangles.com/2021/06/22/can-christians-watch-yuri-anime/
-- https://beneaththetangles.com/2021/06/23/yuri-will-save-the-world-why-you-should-watch-yuri-and-why-i-dont-anymore/
-- https://myanimelist.net/manga/88660/Yagate_Kimi_ni_Naru/clubs
-- https://myanimelist.net/anime/37786
-
-Tried but not retrieved: https://en.wikipedia.org/wiki/List_of_Bloom_Into_You_chapters (not found); https://Animenewsnetwork.Com/review/bloom-into-you/gn-1/.109937 (Silverman's vol. 1 review; site error).
-
-Found in search results but not opened (titles only; content not verified):
-- ANN anime reviews: https://www.animenewsnetwork.com/review/bloom-into-you/episodes-1-3/.138409 ; https://www.animenewsnetwork.com/review/bloom-into-you/episode-9/.140233 ; ANN Fall 2018 Preview Guide: https://www.animenewsnetwork.com/preview-guide/2018/fall/bloom-into-you/.137733
-- ANN This Week in Anime: https://fast.animenewsnetwork.com/this-week-in-anime/2018-11-20/.139721
-- Kotaku, best queer anime list: https://kotaku.com/best-queer-gay-anime-gundam-sailor-moon-hunter-x-hunter-1850582981/7
-- TV Tropes characters: https://www.tvtropes.org/pmwiki/pmwiki.php/Characters/BloomIntoYou
-- Pixiv Encyclopedia: https://dic.pixiv.net/en/a/Bloom+Into+You
-- ANN manga encyclopedia: https://www.animenewsnetwork.com/encyclopedia/manga.php?id=18069
-- Sakugabooru, Manga Editors Roundtable on yuri: https://blog.sakugabooru.com/2017/01/04/manga-editors-roundtable-the-growth-of-yuri
-- MyAnimeList and AniList user reviews: https://myanimelist.net/reviews.php?id=319960 ; https://anilist.co/review/25323
-
-Not reached: Seven Seas product pages, Common Sense Media (no page found), Plugged In (no page found), Japanese interviews (Comic Natalie, Da Vinci).
+- https://animeuknews.net/2019/03/bloom-into-you-volume-3-review
+- No Christian outlet, Common Sense Media or Plugged In review found in search.
 
 ## Full-read review checklist
 
-- [ ] Confirm the age rating printed on vols. 1 and 8 (ANN lists 13+; a distributor lists vol. 8 as Mature). Affects Series facts.
-- [ ] Ch. 44 (v8): how explicit the first sexual encounter is (nudity, what is shown or implied) and the characters' school years at that point. Affects Sexuality (5), the overall level and all frame Depiction concerns.
-- [ ] Ch. 2 and v1-3: count Touko's kisses and whether Yuu is asked or objects; check ch. 13 "Downpour." Affects Imitable behavior (2) and the consent talking points.
-- [ ] Ch. 1-5 and 39: Yuu's and Maki's exact words about not feeling attraction and the word "asexual" if used. Affects Gender and identity row.
-- [ ] Ch. 10: Touko's "shackle" line and Mio dream. Affects Philosophy essay.
-- [ ] Ch. 21, 23, 28: Mio's true character and Yuu's request to rewrite the ending. Affects Expressive individualism (7).
-- [ ] Ch. 30-34: the play, Yuu's self-admission and confession. Affects Existentialism and Winners table.
-- [ ] Ch. 37-38: Sayaka's confession and rejection; Kyoto trip setting (temples or shrines shown). Affects Religion row.
-- [ ] Ch. 11 and interludes: Riko and Miyako; whether adults drink. Affects Substances (1).
-- [ ] Ch. 45: rings, who knows about the couple, parents told or not. Affects Family and authority and Social axis.
-- [ ] Touko's grave visit chapter. Affects Religious meta lens.
-- [ ] Spot-check Seven Seas profanity in 3-4 chapters. Affects Language (1).
-- [ ] Read the author's afterwords in each volume for statements of intent. Affects Creator context.
-- [ ] Confirm the vol. 1/2 and vol. 4 chapter splits from the printed contents pages. Affects the chapter map.
-- [ ] Look for a conservative or traditional-values review and a secular parent guide. Affects How readers took it.
+- [ ] Ch. 44 (v8): confirm what is drawn (nudity, explicitness, how many pages) in the scene between the two 16-year-olds. Written note only. Affects the adult-flag decision, Sexuality (6) and every frame's Depiction concern.
+- [ ] Confirm the characters' ages at ch. 44 (Japanese Wikipedia: both 16 until the final chapter). Written note only.
+- [ ] Likely ch. 2-10 (v1-2): Touko's kisses without asking; note how the story frames them. Affects Sexuality and the consent concerns in several rows.
+- [ ] Ch. 40-43 (v8): physical intimacy before ch. 44; check for any nudity. Written note only.
+- [ ] Confirm the Seven Seas age rating on the printed volumes (Teen 13+ per the input record; not shown on the pages opened). Affects Series facts and the age band.
+- [ ] Locate the first-kiss and Sayaka-backstory chapters precisely. Affects the loaded-pages table.
+- [ ] Spot-check language and the café scenes for alcohol. Affects Language (1) and Substances (1).
+- [ ] Read Nakatani's afterwords for statements on themes and on ch. 44. Affects Creator context.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

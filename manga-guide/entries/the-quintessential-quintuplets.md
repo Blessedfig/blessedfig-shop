@@ -1,21 +1,21 @@
-# The Quintessential Quintuplets (Negi Haruba)
+# The Quintessential Quintuplets
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium-low.** Series facts, sales, awards and the volume list come from Wikipedia (opened). The English age rating comes from the Kodansha vol. 1 product page and Anime UK News (both opened). Scene chapters come mainly from TV Tropes (main and YMMV pages, opened) and the fan wiki (chapter list and chapters 2, 74, 86, 108 and 122 opened, used to locate scenes only). The fan wiki chapter list stops at vol. 8; chapter ranges for vol. 9-14 are inferred from the nine-chapter pattern and checked against two fixed points (ch. 86 ends vol. 10, per the fan wiki; vol. 13 ends and vol. 14 begins with the two "If the Final Festival Was Futaro's" chapters, per Wikipedia), so they are marked "likely." Common Sense Media (TV series and film), School Library Journal, Anime News Network, Anime Feminist, The Guardian (via inkl), Popverse, A Case Suitable for Treatment, MyAnimeList, Anime Corner and a Japanese interview with the author (livedoor News) were also opened. No Plugged In, ScreenWise or Christian review was found. Items resting on general knowledge are marked "(from general knowledge; to verify)".
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 18 lookups). The series is **complete**: 122 chapters in Weekly Shonen Magazine from August 9, 2017 to February 19, 2020, collected in 14 volumes (English Wikipedia). Series facts, the volume-to-chapter map and volume-by-volume plot come from English Wikipedia (the series article, the volume list with summaries, the character list and the Negi Haruba article, opened through the raw-text endpoint), the AniList and MangaUpdates APIs and Kodansha's vol. 1 page. Chapter-level points about the drugging, the impersonation and the kisses come from the TV Tropes audience-reaction page (facts only). Reviews opened: School Library Journal (vol. 1), A Case Suitable for Treatment (Sean Gaffney, vol. 1) and Anime UK News (vol. 1); anime and award reception is summarized through Wikipedia. No Christian, Anime Feminist or Common Sense Media page was opened (none came up in the searches run), and no creator interview was opened directly; creator statements come through Wikipedia. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | The Quintessential Quintuplets. Japanese: 五等分の花嫁 (*Go-Tōbun no Hanayome*, "The Bride Divided Into Five Equal Parts") |
-| Creators | Negi Haruba (story and art; born 1991). Earlier: *Karma of Purgatory* (art, story by Shun Hirose, 2014-2015). Later: *Go! Go! Loser Ranger!* (2021-) (Wikipedia, Negi Haruba, opened) |
-| Origin | *Weekly Shōnen Magazine* (Kodansha), a **shōnen** (boys' and teens') magazine. A one-shot ran first in 2017; serialized August 9, 2017 to February 19, 2020. Complete: 122 chapters in 14 volumes. Full-color editions of all 14 volumes and five character books came out in Japan (Wikipedia) |
-| English edition | Kodansha USA (Kodansha Comics). Digital from June 2018; print vol. 1 December 31, 2018 to vol. 14 July 20, 2021 (Wikipedia, volume list). Publisher age rating: **16+ (Older Teen)** (Kodansha vol. 1 page and Anime UK News, opened). Volumes: 14 in Japan, 14 in English; a manga box set exists (found in search, not opened) |
-| Anime | Season 1: Tezuka Productions, 12 episodes, January-March 2019 (Shaft helped on ep. 11). Season 2 (∬): Bibury Animation Studios, 12 episodes, January-March 2021. *The Quintessential Quintuplets Movie* (Bibury, May 2022 in Japan) covers the ending. TV specials ∽ (Shaft, 2023) and * (Bibury, December 2024, the honeymoon). A TV series of the *Four Seasons* light-novel sequel and a new OVA were announced May 2, 2026 (all Wikipedia). Common Sense Media lists the TV series as TV-PG |
-| Recognition | Over 20 million copies in circulation by December 2022. 5th best-selling manga in Japan in 2019. 43rd Kodansha Manga Award, Best Shōnen Manga (2019, shared with *To Your Eternity*); judge Ken Akamatsu called it the most complete harem romantic comedy. 8th, Next Manga Award 2018 (Wikipedia). MyAnimeList manga score 7.90, popularity #72, about 181,000 members (opened, November 2026) |
-| Other guides | Common Sense Media (TV series, Danae Stahlnecker): **13+**, Sex, romance and nudity "a little" (opened). Common Sense Media (film): 13+ (opened). School Library Journal (manga vol. 1): "Gr 10 Up" (opened). No Plugged In or ScreenWise review found |
+| Title | The Quintessential Quintuplets. Japanese: 五等分の花嫁 (Go-Tobun no Hanayome, literally "the bride divided into five equal parts") (Wikipedia; AniList id 100230, confirmed) |
+| Creators | Negi Haruba (story and art), born July 27, 1991; earlier drew Karma of Purgatory (2014-2015, written by Shun Hirose) and later created Go! Go! Loser Ranger! (2021-). His pen name comes from Negi Springfield, hero of Negima! (Wikipedia, Negi Haruba) |
+| Origin | Weekly Shonen Magazine, Kodansha, a shonen (boys') magazine. One-shot in 2017, serialized August 9, 2017 to February 19, 2020; **complete** in 122 chapters and 14 volumes. A full-color edition ran on Magazine Pocket from 2020. A sequel light novel, The Four Seasons, began in January 2025 (3 volumes) (Wikipedia) |
+| English edition | Kodansha Comics (Kodansha USA): digital from June 2018, print from the end of 2018; all 14 volumes by 2021, plus box sets. Publisher rating: **16+ (Older Teen)** (Kodansha vol. 1 page; Anime UK News lists the same) |
+| Anime | Season 1 (Tezuka Productions, January-March 2019, ch. 1-32), season 2 (Bibury, January-March 2021, ch. 33-87), The Quintessential Quintuplets Movie (May 2022, ch. 87-122), TV specials in 2023 and 2024 (the second an original honeymoon story drafted by Haruba). A TV anime of the sequel novels and a new OVA were announced in May 2026 (Wikipedia; MangaUpdates). Streams on Crunchyroll |
+| Recognition | 43rd Kodansha Manga Award, shonen category (2019); over 20 million copies in circulation by December 2022; fifth best-selling manga in Japan in 2019 (Wikipedia). Database scores: AniList average 77, about 71,000 members; MangaUpdates 7.64 (Bayesian, 652 votes) |
+| Other guides | School Library Journal: grade 10 and up; breast-focused art and post-shower towel shots that "could raise eyebrows." AniList tags include Female Harem (94%), Marriage and Nudity (44%). MangaUpdates genres: Comedy, Drama, Harem, Mystery, Romance, School Life, Shounen. No Common Sense Media or Plugged In page for the manga was opened |
 | Entry tier | From summaries |
 
-**Premise.** Futaro Uesugi is a top student from a poor family in debt; he lives with his father and his little sister Raiha. He takes a tutoring job that pays five times the normal rate (TV Tropes). His pupils turn out to be his new classmates, the identical Nakano quintuplets, who are rich, failing and mostly hostile to him: Ichika (oldest, a secret aspiring actress), Nino (fiercely protective of her sisters), Miku (shy, a history buff), Yotsuba (cheerful, athletic, the weakest student) and Itsuki (stern, studious, wants to be a teacher like their late mother). Their stepfather Maruo, a doctor, hires him. Chapter 1 opens with a flash-forward to Futaro's wedding to one of the five, whose identity is withheld; the question "which sister?" drives the series. Over two years the sisters' grades rise and four of them fall in love with him; a childhood memory of "the girl from Kyoto" runs underneath. He chooses Yotsuba at the school festival (ch. 113, v13, likely) and marries her five years later (ch. 122, v14).
+**Premise.** Futaro Uesugi is the top student at his high school and very poor: his mother has died and his father is in debt. He takes a well-paid job tutoring the newly transferred Nakano quintuplets, his classmates, who are rich, beautiful and failing: Ichika (an aspiring actress), Nino (a hot-tempered cook), Miku (a quiet history fan), Yotsuba (an athletic helper) and Itsuki (who wants to be a teacher like their late mother). At first most of them want him gone. A flash-forward in the first chapter shows Futaro marrying one of them, and a childhood photo of a girl he met on a trip to Kyoto hides the question of which sister she was. Over two school years the sisters raise their grades, fall in love with him one by one, compete and sometimes deceive one another, and finally choose their own futures. Yotsuba is revealed as the girl from Kyoto (ch. 86-90); Futaro chooses her at the end of the school festival (ch. 113), proposes, and marries her five years later (ch. 122) (Wikipedia; TV Tropes).
 
 ## Life message
 
@@ -23,10 +23,13 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | A classic courtship contest: five near-identical rivals compete for one high-status male (top student). The tension between sister loyalty (kin) and mate competition is the series' main drama (the "Sisters' War" chapters, about ch. 78-86, v10, likely). It resolves in monogamous pair-bonding: one wedding, not a harem (ch. 122). Haruba said he added the wedding flash-forward to rule out a "they all marry him" ending (Wikipedia; livedoor interview). |
-| Pragmatic | Study is the practical engine: Futaro takes the job for money to pay family debt, and grades are the measurable goal; every arc is anchored to an exam. The sisters end with practical careers (actress, bakers, teacher) (Wikipedia, characters). Some tactics that "work" are not honest: disguises and impersonation among identical sisters (ch. 74) and Nino's sleeping-pill trick (ch. 2, 44; TV Tropes YMMV). |
-| Religious | Little faith content. The second-year school trip visits Kyoto, including Fushimi Inari shrine (ch. 80; TV Tropes), shown as setting. A bonfire "binding legend" (couples who dance at the camp bonfire are bound together; ch. 22-32 arc title; detail from general knowledge; to verify) and a bell at the grandfather's inn are romantic folklore rather than worship. The sisters visit their mother's grave monthly (ch. 57; TV Tropes). Marriage is a civil and family celebration. |
-| Socio-cultural | Japanese school life, exam pressure, class difference (poor Futaro, wealthy Nakanos), a blended family (stepfather Maruo, absent biological father), and the shōnen harem convention. Gender roles are mostly traditional: the girls cook, the boy teaches and decides. Anime Feminist reads the sisters as "essentially the same girl," built to "cater to the audience's ideals of an idealized bride." |
+| Evolutionary biology | Five rival suitors for one young man, with rivalry, display and alliance among sisters; status (the rich family) meets merit (the poor top student). Kin loyalty holds the sisters together through the competition. |
+| Pragmatic | Study works: grades rise through tutoring and sisters teaching each other in their best subjects (v7). Futaro takes the job for money to pay his father's debt; the practical motive becomes care. |
+| Religious | No religion shapes the plot. A Kyoto school trip includes famous shrines (from general knowledge; to verify), and the sisters visit their mother's grave (from general knowledge; to verify). Faith readers weigh the honest work, family loyalty, forgiveness and lifelong marriage against early fan service and kisses taken without asking. |
+| Socio-cultural | A shonen harem romance that ends in one marriage instead of leaving the question open; Haruba added the flash-forward so Futaro could not marry all five (Wikipedia). Class difference, exam pressure, a blended family and an absent biological father (Mudou, v13) are the social background. |
+
+Outlook: Hopeful — every sister grows into her own path, the family is reconciled, and the story ends in a wedding with all five sisters present (ch. 122).
+Hope source: F — the way through is family: the sisters keep choosing one another over winning, and their reconciliation (ch. 86, 114-122) is what makes the ending happy; love between two (L) is the close second.
 
 ## Content scores
 
@@ -34,85 +37,91 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 1 | Rare | Neutral | Slapping and comic hits; Itsuki slaps Nino in a sisters' quarrel, a fan-favorite moment (TV Tropes YMMV; about the Seven Goodbyes arc, ch. 39-50, likely). CSM (anime): violence "very little." |
-| Fear and intensity | 1 | Rare | Neutral | Emotional stakes only: Futaro fired and the sisters leaving home in the Seven Goodbyes arc (ch. 39-50; from general knowledge; to verify), the mother's death in backstory, Yotsuba's collapse from overwork (ch. 108). |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 5 | Frequent (romance); occasional (fan service) | Endorsed (romance, ending in marriage); Neutral (fan-service gags) | **High school characters throughout.** **Fan service** is front-loaded: towel and post-shower shots and emphasis on breasts in vol. 1 (SLJ: "could raise eyebrows"); ch. 2 notes Ichika sleeping naked and Miku trying to undress Nino in front of Futaro (fan wiki); a brief hot-spring scene (ch. 24). TV Tropes says fan service is "rarely used after the first volume," and Haruba said he avoided panty shots after vol. 1, saying "if a panty shot happens, I've lost" (livedoor interview; Wikipedia). **Bed and lap gags:** lap pillows (ch. 12, 13, 21), Futaro sleeps over in Miku's room and bed (ch. 17-18). **Innuendo:** CSM: "One character frequently makes sexual innuendos" (Ichika, from general knowledge; to verify); "Sexual imagery is common throughout the series"; partial nudity "covered by sheet/towel." **Kisses, several without consent:** an accidental "bell kiss" (end of the Scrambled Eggs arc, ch. 68, v8, likely); at the final festival Ichika kisses him after pretending to sleep (ch. 102), Nino in a hospital hallway (ch. 104), Miku pins him on the rooftop (ch. 106), Yotsuba kisses him while he is asleep and thinks it a dream (ch. 108); Itsuki's kiss is averted for laughs (ch. 111) (TV Tropes; fan wiki ch. 108). CSM (film): characters kiss "sometimes without the recipient's consent." Miku's ch. 106 pin earned her a "Memetic Molester" joke among fans (TV Tropes YMMV). **No sex is shown or implied** before marriage; the story ends with a wedding (ch. 122) and a later honeymoon special (anime, 2024). **Manga vs anime:** ANN's James Beckett said the anime camera "leers at the girls just enough to be off-putting" (ep. 1); Paul Jensen called it "pretty tame by genre standards"; The Guardian (film) says it "largely avoids ickiness, apart from the bosomy waterpark intro." CSM's film page notes bikini shots of "characters' bottoms" in the opening. Ratings differ: CSM 13+ (anime) versus Kodansha 16+ (manga). |
-| Language | 2 | Occasional | Neutral | CSM (anime): "damn," "shit," "hell," plus insults like "half-wit" and "pervert"; language "very little." Kodansha English text not checked (to verify). |
-| Substances | 2 | Rare | Neutral (played for comedy) | Nino puts Futaro to sleep with a drugged drink (sleeping pills) to get him out of the apartment (ch. 2 and again ch. 44; TV Tropes YMMV; the fan wiki says only that he is "tricked"). Never apologized for (TV Tropes YMMV). No drinking or smoking by teens reported; CSM: "very little." |
-| Mental health and self-harm | 3 | Recurring | Shown with consequences (healed through relationships) | Grief for the sisters' mother Rena (monthly grave visits, ch. 57). Yotsuba's guilt and low self-worth: she was expelled from her old school for failing and her sisters transferred with her (Wikipedia, characters); she overworks until she collapses (ch. 108) and feels she "wasted five years" (fan wiki). Futaro's early isolation. Ichika's jealousy and guilt after the Miku disguise (ch. 74) and her apology (ch. 86). No self-harm. |
-| Imitable behavior | 3 | Occasional | Neutral to mildly critiqued | Drugging a drink as a prank (ch. 2, 44); kissing someone asleep or without asking (ch. 102, 106, 108); impersonating a sibling to sway a love interest (ch. 74), which readers largely condemned (TV Tropes YMMV). Positive: steady study habits, siblings sticking together. |
-| Commercial | 4 | Recurring outside the book | Neutral | Large franchise: two anime seasons, film, specials, games, character books, colored editions. To mark the final chapter, a vendor held "wedding ceremonies" for each sister in a Shibuya chapel; fans bought digital art (1,500 yen) to become "joint partners" with a certificate (ANN, February 2020). The manga itself has no product placement reported. |
+| Violence | 1 | Rare | Neutral | Slapstick only (from general knowledge; to verify). |
+| Fear and intensity | 1 | Rare | Neutral | A test-of-courage night on the school camping trip (v4); no real danger. |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 5 | Frequent (romance); occasional (fan service) | Endorsed (romance ending in marriage); Neutral (fan-service gags); kisses without asking treated as romantic | The sisters are high school second- and then third-years (about 16-18). Vol. 1: post-shower towel scenes and breast-focused art (School Library Journal); Futaro pushes Nino down to stop her falling and Itsuki photographs it (ch. 1-5, Wikipedia). Haruba says he cut back sexualized images after vol. 1 and kept suggestive scenes ambiguous; swimsuits appear only in ch. 92 (Wikipedia, Production). Kisses: one sister kisses Futaro at the end of the inn arc, later revealed as Yotsuba (v8; TV Tropes); Ichika kisses him and Nino kisses him by surprise at the school festival (v12, Wikipedia); Miku pins him down and kisses him (ch. 106, TV Tropes); other sisters kiss him at the festival (v13). Ichika tries to seduce him in a hot spring and he refuses (Wikipedia character list; chapter to verify). A sleepover study session where Futaro wakes beside Miku (v3, innocent). AniList tags Nudity (44%). Nothing explicit reported. |
+| Language | 2 | Occasional | Neutral | Mild insults and teasing (from general knowledge; to verify). |
+| Substances | 2 | Rare | Neutral (played for comedy) | Nino puts a sleeping drug in Futaro's drink to get rid of him (ch. 2) and does it again (ch. 44) (TV Tropes); Gaffney (A Case Suitable for Treatment) says the first time goes too far. |
+| Mental health and self-harm | 3 | Recurring | Shown with consequences (healed through relationships) | Grief for the sisters' mother, Rena (v7, v11). Yotsuba's guilt for causing her sisters' school transfer and her habit of putting others first until she collapses from overwork (v7, v11, v13). Ichika's exhaustion from acting jobs (v7). Itsuki confronts the biological father who abandoned the family (v13). No self-harm reported. |
+| Imitable behavior | 3 | Occasional | Neutral to mildly critiqued | Drugging a drink (ch. 2, 44; never apologized for, TV Tropes). Sisters impersonate one another to deceive Futaro and each other (ch. 74, 78-86; Ichika is caught and apologizes). The sisters once pretended to cheat on an exam so they could follow Yotsuba to a new school (v11 backstory). |
+| Commercial | 4 | Recurring outside the book | Neutral | Two anime seasons, a film, specials, games, VR games, exhibitions and heavy merchandise (Wikipedia). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Sisterhood is the core: "the five of us" stay together (they all transferred schools with Yotsuba). The father figures are contrasted: stepfather Maruo is distant and controlling at first, then reconciles with Nino (ch. 60, 104); the biological father, Mudou, appears late as a cold figure the sisters reject (ch. 109; TV Tropes). Futaro's family is poor, warm and close (Raiha). The mother, Rena, was a strict teacher, and Maruo had been her student (Wikipedia, characters); Itsuki follows her into teaching. |
-| Religion and spirituality | Incidental | Fushimi Inari shrine on the Kyoto trip (ch. 80); romantic folklore (bonfire legend, a bell); a wedding in a chapel-style setting (ch. 122; from general knowledge; to verify). No faith practice. |
-| Gender and identity (incl. LGBTQ) | Recurring | Five girls compete for one boy who chooses; Anime Feminist reads the sisters as built for "an idealized bride." Others praise the sisters for growing "beyond their initial stereotypes" (Popverse) and each choosing her own career. Mostly traditional roles (cooking sisters; the male tutor). No LGBTQ storylines reported. |
-| Politics and social issues | Incidental | Poverty and family debt (Futaro's family) beside inherited wealth; exam pressure; a student-teacher marriage in the parents' backstory (Maruo and Rena; details to verify). |
+| Family and authority | Central | Five sisters bound together (the five of them come first); a stepfather who sets conditions and slowly earns trust (Maruo); a biological father who abandoned them and returns (Mudou, v13); a dead mother whose example shapes Itsuki's career; Futaro's devotion to his little sister and father. |
+| Religion and spirituality | Incidental | Shrine and temple visits as school-trip settings and customs (from general knowledge; to verify). No religious argument. |
+| Gender and identity (incl. LGBTQ) | Recurring | Five girls with distinct careers by the end (actress, cafe owners, teacher); a harem premise in which they compete for one boy. No LGBTQ storyline found in sources opened. |
+| Politics and social issues | Incidental | Poverty and family debt beside wealth; exam pressure; school transfers decided by parents. |
 
-**Virtues shown:** diligence in study, perseverance after failure, sisterly loyalty, forgiveness and apology (Ichika to Miku, ch. 86), keeping a childhood promise, gratitude, self-sacrifice (Yotsuba), honesty about feelings (the confessions), fidelity in choosing one partner.
+**Virtues shown:** diligence, perseverance, honesty (and repentance when it fails, ch. 86), loyalty among siblings, forgiveness, keeping a childhood promise, self-sacrifice (Yotsuba), gratitude to a late mother, faithfulness in marriage.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether there are consequences, whether repentance or redemption is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself; intensity for age stays in Content scores. All 31 frame guides are drafts from general knowledge, so every row is a draft. What the rows weigh: the message centers on study, effort, sisterly loyalty, apology and a single faithful choice that ends in marriage (ch. 113, 122), which most traditions read as a good fit; the harem premise turns five girls into rivals for one boy, several kisses happen without consent and are played as romantic (ch. 102-108), Nino's drugging is a gag (ch. 2, 44), and early chapters use fan service of high school girls (vol. 1; CSM: sexual imagery "common"). There is almost no religious content.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: hard work and study as the way out of poverty and failure; five sisters' loyalty and reconciliation; a romance that ends in one lifelong marriage (ch. 122); a stepfather and a returning biological father (v13); early fan service of high-school-age girls (vol. 1, towel shots and breast-focused art) and later swimsuits (ch. 92); several kisses taken without asking (v8, v12-13, ch. 106) and a seduction attempt that Futaro refuses; a sister drugging Futaro's drink as a joke (ch. 2, 44); and sisters deceiving one another by impersonation, with an apology (ch. 74, 86). No explicit sexual content was reported in sources opened; the teen fan service is described plainly in Content scores.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Discuss | Diligent work and study; family loyalty; forgiveness between sisters; romance resolved in one lifelong marriage (ch. 122). | Fan service of teens in vol. 1 and innuendo (CCC 2521-2524 on modesty and purity of heart); kisses without consent treated as romantic; deception among sisters (ch. 74). Evil is not made attractive (Inter Mirifica 7), but some wrongs go unaddressed (Nino's drugging). | Marriage as a free, exclusive gift of self: how is Futaro's choice like or unlike that? Purity of heart as respect for persons. |
-| Eastern Orthodox | B | Discuss | Humility and growth, love shown in service (Yotsuba), reconciliation in the family. | Guarding the senses (nepsis) against the early fan service and suggestive gags; romantic competition among sisters. | What one looks at shapes the soul: which pages invite looking? Reconciliation of Nino and her stepfather (ch. 104). (from general knowledge; to verify) |
-| Baptist | B | Discuss | Hard work, keeping a promise, one marriage as the goal; sibling loyalty. | Philippians 4:8 test on vol. 1 fan service and innuendo; kisses without consent; Nino's drugging played for laughs. Soul liberty leaves the call to families. | Philippians 4:8 page by page. 1 Corinthians 13: is Yotsuba's love "not self-seeking"? |
-| Non-denominational Evangelical | B | Discuss | Depicts rather than endorses most wrongs; apology and forgiveness (ch. 86); faithful choice of one spouse. | Fan service of minors; romantic "conquest" framing of the harem; consent in the festival kisses (ch. 102-108). Engage-or-separate views differ by family. | Romans 14 and conscience. What does it mean to honor someone you are attracted to (1 Thessalonians 4:3-6)? |
-| Pentecostal / Charismatic | B | Discuss | Joy, restoration of broken sister relationships, perseverance. | Holiness standards on modesty; romance as rivalry. No occult content, so the "open door" concern is low. | Holiness as freedom. How do the sisters choose love over jealousy? |
-| Reformed / Presbyterian | B | Discuss | Common grace in diligence and family love; vocation (teacher, baker, actress). | WLC Q139 on "lascivious... pictures" applies to vol. 1 fan service; deception and the sleeping-pill gag. | Vocation: each sister's calling at the end. Where does a romantic comedy's art cross into lasciviousness? |
-| Lutheran | B | Discuss | Vocation and daily work; Fourth Commandment (honoring parents) tested and partly repaired; marriage ending. | Sixth Commandment ("sexually pure and decent life") against the fan service and innuendo; confessional (LCMS, WELS) families more cautious than ELCA. | Small Catechism on the Sixth Commandment and on the Fourth (Nino and Maruo). |
-| Methodist / Wesleyan | B | Discuss | Diligence, mutual help in study, a small community of support. | Wesley's rule on books that do not "tend to the knowledge or love of God"; holiness churches would avoid the fan service; UMC families vary. | "Do no harm": the drugging and the unconsented kisses. Social holiness in the sisters' bond. |
-| Anglican / Episcopal | A | Discuss | Judged by framing: growth, apology, sibling loyalty and a faithful marriage. | Fan service of high school girls and consent in the kisses. | Lewis's *The Four Loves*: affection (storge) among the sisters and eros in the romance; how do they fit together? |
-| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Family loyalty, humility in Yotsuba, simple work at the end (bakery). | Separation from worldly media; fan service and romantic display of teens; the franchise's commercial side. MC USA families vary. | What kind of love serves the community? Plain living versus the wedding spectacle. |
-| Latter-day Saint | B | Significant | Education, family, marriage as the goal; developing talents (careers). | For the Strength of Youth on entertainment that invites the Spirit; modesty and chastity in thought; kisses without consent. | Article of Faith 13. What do dating and choosing a spouse look like when done well? |
-| Mainline progressive Protestant | B | Discuss | Sisters grow into their own careers; class difference bridged; apology and reconciliation. | Sexualization of minors in early art; girls defined by competition for one boy (Anime Feminist); consent in the kisses. | Who holds power in the romance? How does the story treat each sister's own goals? |
-| Seventh-day Adventist | C | Significant | Diligence, family, temperance in Futaro's frugal life. | Fundamental Belief 22 on entertainment "of the highest quality"; "by beholding we become changed" weighs on fan service and romantic obsession. | 2 Corinthians 3:18. What do we behold most here: the study, or the rivalry? (from general knowledge; to verify) |
-| Jehovah's Witness | C | Significant | Honest work, family loyalty, marriage. | jw.org counsel against entertainment featuring immorality; dating as recreation rather than with marriage in view; drugging and sensual gags. | Galatians 5:19-21 on "uncleanness"; is the courtship here aimed at marriage? (from general knowledge; to verify) |
-| Christian Science | B | Discuss | Fear and failure overcome through effort and love; Yotsuba's self-condemnation healed. | Dwelling on rivalry, jealousy and sensual images as mental influences. | "Stand porter at the door of thought" (Science and Health 392). Which thoughts does the story invite in? (from general knowledge; to verify) |
-| Orthodox Jewish | C | Significant | Torah-like value on learning (study as the plot); kibbud av va'em tested and repaired; marriage as the goal. | Tzniut: mixed-sex teen intimacy (sleepovers, kisses), fan service; many families would not keep it at home. | Shmirat einayim (guarding the eyes). Choosing a spouse with seriousness rather than as a contest. (from general knowledge; to verify) |
-| Conservative Jewish | B | Discuss | Learning, family, reconciliation, marriage. | Modesty and the sexualization of teens; families apply values case by case. | Kavod habriyot (human dignity) in how the story treats the five girls. (from general knowledge; to verify) |
-| Reform Jewish | B | Discuss | Growth, self-chosen careers, repairing family relationships (a form of tikkun). | Consent in the kisses; girls framed as prizes; informed autonomy leaves it to families. | What does respect look like in a romantic contest? (from general knowledge; to verify) |
-| Muslim | C | Significant | Seeking knowledge, honoring family, marriage as the outcome; Futaro's restraint for much of the story. | Lowering the gaze (Qur'an 24:30-31) and modest dress; unchaperoned teen intimacy and kisses; fan service; images of the body. | Haya (modesty) for both sexes. Marriage as the proper end of attraction. |
-| Hindu | B | Discuss | Vidya (learning) as a path; duty to family (dharma); a single marriage with family blessing. | Some families apply the Gita's rajasic and tamasic categories to romantic and sensual media; brahmacharya for students. | Kama within dharma: what is the right place for romance in a student's life? (from general knowledge; to verify) |
-| Buddhist | B | Discuss | Effort, letting go of jealousy, compassion among sisters; Yotsuba lets go of her past self (ch. 108). | Craving and attachment in romantic rivalry; sensual imagery as feed for the mind. | Mindful consumption. Can love be free of attachment to winning? |
-| Sikh | B | Discuss | Kirat karni (honest work), seva in helping others learn, humility. | Kaam (lust) and moh (attachment) played for comedy; ego in the rivalry. | The five vices and the sisters' jealousy. Anand Karaj-style commitment as the end of romance. (from general knowledge; to verify) |
-| Bahá'í | B | Discuss | Education, unity of a family, work as worship, marriage. | The call to a "chaste and holy life" against the fan service and casual kissing. | Unity among the sisters despite rivalry. Chastity in what we choose to read. (from general knowledge; to verify) |
-| Shinto | A | Minor | Sincerity (makoto), gratitude, honoring a deceased mother, a respectful Fushimi Inari visit (ch. 80). | Little doctrinal concern. | Remembering the dead (the monthly grave visits, ch. 57). (from general knowledge; to verify) |
-| Wiccan / Pagan | A | Minor | Self-discovery, each sister following her own path; "harm none" in reconciliation. | Consent in the kisses and the drugging gag run against harm none for some families. | What does consent look like in romance? (from general knowledge; to verify) |
-| Scientologist | B | Minor | Competence, study and work ethic; communication repairs relationships. | The Way to Happiness precepts on decency and honesty (disguises, drugging). | Which precepts do the characters keep? (from general knowledge; to verify) |
-| Secular progressive | C | Discuss | Each sister gets her own career and voice; class difference bridged; the sisters "grow beyond their initial stereotypes" (Popverse). | Harem framing of girls as interchangeable brides (Anime Feminist); kisses "without the recipient's consent" (CSM film); fan service of minors (ANN's Beckett: "off-putting"). | CSM's 13+ rating versus Kodansha 16+. Who gets to choose in this story, and who is chosen? |
-| Secular humanist | A | Discuss | Meaning from effort, learning and relationships; no supernatural framing. | Critical thinking about how the genre presents girls and consent. | Why does the story reward study? What is a fair way to end a love triangle (or pentagon)? |
-| Conservative / traditional | A | Discuss | Diligence, family loyalty, respect for parents slowly restored, monogamous marriage and a wedding as the goal; Haruba rejected a harem ending. | Fan service and innuendo in early volumes; casual kissing; deception. | Futaro as a provider who works his way up. Why does the story insist on one bride? |
-| Unitarian Universalist | B | Discuss | Inherent worth of each sister, each honored in the ending (Haruba: not to "discard the four"); reconciliation. | Age-appropriateness; consent; girls framed as rivals. | How does the ending treat the four sisters who are not chosen? (from general knowledge; to verify) |
-| Satanist | B | Minor | Self-made success (Futaro), individual choice of career; vital existence. | Concern for children in the Eleven Rules may apply to fan service of minors; the drugging gag. | Is Futaro's self-reliance or the sisters' bond the real hero? (from general knowledge; to verify) |
+| Catholic | B | Discuss | Diligent work and study; family loyalty; forgiveness between sisters (ch. 86); romance resolved in one lifelong marriage (ch. 122). | Early fan service of teens and innuendo (CCC 2521-2524 on modesty and purity of heart); kisses without consent treated as romantic; Nino's drugging goes unaddressed. | Marriage as a free, lifelong choice (CCC 1625): how does Futaro choose? |
+| Eastern Orthodox | B | Discuss | Humility and growth; love shown in service (Yotsuba); reconciliation in the family. | Guarding the senses (nepsis) against the early fan service and suggestive gags; romantic rivalry among sisters. | Yotsuba always puts others first. When is that humility, and when is it hiding? (from general knowledge; to verify) |
+| Baptist | B | Discuss | Hard work, keeping a promise, one marriage as the goal; sibling loyalty. | Philippians 4:8 test on vol. 1 fan service and innuendo; kisses without consent; the drugging played for laughs. Each congregation is self-governing. | "Whatever you do, work at it with all your heart" (Colossians 3:23) beside Futaro's studying. |
+| Non-denominational Evangelical | B | Discuss | Depicts rather than endorses most wrongs; apology and forgiveness (ch. 86); faithful choice of one spouse. | Fan service of minors; consent in the festival kisses (v12-13). Engage-or-separate views differ by family. | Ichika's lie and apology (ch. 74, 86) beside Matthew 5:23-24 on reconciling first. |
+| Pentecostal / Charismatic | B | Discuss | Joy, restoration of broken sister relationships, perseverance. | Holiness standards on modesty; romance as rivalry. No occult content, so the "open door" concern is low. | Restoration of relationships as a sign of grace. (from general knowledge; to verify) |
+| Reformed / Presbyterian | B | Discuss | Common grace in diligence and family love; vocation (teacher, actress, cafe owner). | WLC Q139 on lascivious pictures applies to the vol. 1 fan service; deception and the drugging gag. | Vocation: each sister finds her calling (v14). What makes work a calling? |
+| Lutheran | B | Discuss | Vocation and daily work; the Fourth Commandment (honoring parents) tested and partly repaired; a marriage ending. | The Sixth Commandment against the fan service and innuendo; LCMS and WELS families more cautious than ELCA. | Luther on vocation: is tutoring for money still serving the neighbor? |
+| Methodist / Wesleyan | B | Discuss | Diligence, mutual help in study, a small community of support. | Holiness churches would avoid the fan service; UMC families vary. | Wesley's small groups beside the sisters teaching each other. (from general knowledge; to verify) |
+| Anglican / Episcopal | A | Discuss | Judged by framing: growth, apology, sibling loyalty and a faithful marriage. | Fan service of high school girls; consent in the kisses. | The marriage vows ("forsaking all others") beside a story about choosing one of five. |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Family loyalty, humility in Yotsuba, simple work at the end (a bakery and cafe). | Separation from worldly media; fan service and romantic display of teens; the franchise's commercial side. MC USA families vary. | Simplicity and service in Yotsuba's character. (from general knowledge; to verify) |
+| Latter-day Saint | B | Significant | Education, family, marriage as the goal; developing talents (careers). | For the Strength of Youth on entertainment and modesty; chastity in thought; kisses without asking. | Education and eternal families: what does the ending say about marriage? (from general knowledge; to verify) |
+| Mainline progressive Protestant | B | Discuss | Sisters grow into their own careers; class difference bridged; apology and reconciliation. | Sexualization of teens in early art; girls defined by competition for one boy; consent in the kisses. | Do the sisters have lives apart from Futaro? Where does the story show it? |
+| Seventh-day Adventist | C | Significant | Diligence, family, temperance in Futaro's frugal life. | Fundamental Belief 22 on entertainment; "by beholding we become changed" weighs on fan service and romantic obsession. | Choosing media "of the highest quality": does this one qualify? (from general knowledge; to verify) |
+| Jehovah's Witness | C | Significant | Honest work, family loyalty, marriage. | jw.org counsel against entertainment featuring immorality; teen dating as recreation; drugging and sensual gags. | jw.org questions on dating with marriage in view. (from general knowledge; to verify) |
+| Christian Science | B | Discuss | Fear and failure overcome through effort and love; Yotsuba's self-condemnation healed. | Dwelling on rivalry, jealousy and sensual images. | Yotsuba thinks she is the "lesser" sister. What changes her view of herself? (from general knowledge; to verify) |
+| Orthodox Jewish | C | Significant | Learning as the plot; honoring parents tested and repaired; marriage as the goal. | Tzniut: mixed-sex teen intimacy (sleepovers, kisses) and fan service; many families would not keep it at home. | Study as a value (talmud torah) beside Futaro's devotion to learning. (from general knowledge; to verify) |
+| Conservative Jewish | B | Discuss | Learning, family, reconciliation, marriage. | Modesty and the sexualization of teens; families apply values case by case. | Shalom bayit (peace in the home) among five sisters. |
+| Reform Jewish | B | Discuss | Growth, self-chosen careers, repairing family relationships. | Consent in the kisses; girls framed as prizes. | What does consent look like in the story's kisses? |
+| Muslim | C | Significant | Seeking knowledge, honoring family, marriage as the outcome; Futaro's restraint for much of the story. | Lowering the gaze (Qur'an 24:30-31) and modest dress; unchaperoned teen intimacy and kisses; fan service. | Seeking knowledge as a duty beside Futaro's study, and Qur'an 24:30-31 on modesty. |
+| Hindu | B | Discuss | Learning (vidya) as a path; duty to family (dharma); a single marriage with family blessing. | Some families apply the Gita's rajasic and tamasic categories to romantic and sensual media; brahmacharya for students. | The student stage of life (brahmacharya) and Futaro's focus on study. (from general knowledge; to verify) |
+| Buddhist | B | Discuss | Effort, letting go of jealousy, compassion among sisters; Yotsuba lets go of the past. | Craving and attachment in the romantic rivalry; sensual imagery. | Which sister lets go of craving most fully, and what does it cost her? |
+| Sikh | B | Discuss | Honest work (kirat karni), service in helping others learn, humility. | Lust (kaam) and attachment (moh) played for comedy; ego in the rivalry. | Kirat karni: Futaro works to pay his family's debt. (from general knowledge; to verify) |
+| Bahá'í | B | Discuss | Education, unity of a family, work as worship, marriage. | The call to a chaste and holy life against the fan service and casual kissing. | Unity in a family of very different sisters. (from general knowledge; to verify) |
+| Shinto | A | Minor | Sincerity (makoto), gratitude, honoring a deceased mother; shrine visits on the Kyoto trip (to verify). | Little doctrinal concern. | Honoring the dead mother: how do the sisters keep her memory? |
+| Wiccan / Pagan | A | Minor | Self-discovery, each sister following her own path; reconciliation. | Consent in the kisses and the drugging gag run against "harm none" for some families. | "Harm none" beside the drugging gag. (from general knowledge; to verify) |
+| Scientologist | B | Minor | Competence, study and work ethic; communication repairs relationships. | The Way to Happiness precepts on decency and honesty (disguises, drugging). | Which Way to Happiness precept does the impersonation break? (from general knowledge; to verify) |
+| Secular progressive | C | Discuss | Each sister gets her own career and voice; class difference bridged. | A harem frame of girls as interchangeable brides; kisses without consent; fan service of minors (School Library Journal notes the art). | If the five sisters are "equal," why must they compete for one boy? |
+| Secular humanist | A | Discuss | Meaning from effort, learning and relationships; no supernatural framing. | Critical thinking about how the genre presents girls and consent. | What did each sister learn about herself, apart from Futaro? |
+| Conservative / traditional | A | Discuss | Diligence, family loyalty, respect for parents slowly restored, monogamous marriage and a wedding as the goal; the flash-forward rules out a harem ending (Wikipedia). | Fan service and innuendo in early volumes; casual kissing; deception. | Why does the story insist Futaro marry only one? |
+| Unitarian Universalist | B | Discuss | Inherent worth of each sister, each honored in the ending; reconciliation. | Age-appropriateness; consent; girls framed as rivals. | Inherent worth: does the story treat the four who are not chosen fairly? |
+| Satanist | B | Minor | Self-made success (Futaro), individual choice of career; vital existence. | Concern for children in the Eleven Rules may apply to fan service of minors; the drugging gag. | Futaro rejects romance at first to focus on himself. Is that wisdom or fear? (from general knowledge; to verify) |
+| Historically Black Protestant | B | Discuss | Education and hard work as the road out of poverty; honoring parents and a late mother; forgiveness among sisters (ch. 86); one faithful marriage. | Fan service of teen girls; kisses without asking; deception and drugging played for laughs. | "As iron sharpens iron" (Proverbs 27:17) beside the sisters tutoring each other, and Colossians 3:23 on working with all your heart. |
+| Atheist | A | Discuss | Effort, reason and study solve the problems; no supernatural answer; each sister chooses her own path. | Fan service and consent questions; little else to raise. | Futaro believes study can change a life. Does the story prove him right? |
+| Agnostic | A | Discuss | No preachy certainty; characters wrestle honestly with who they are and what they want. | Fan service and consent questions. | Which sister changes her mind the most, and why? |
+| Nothing in particular | A | Minor | Family loyalty, everyday decency, apology and forgiveness, finding your own path, a hopeful ending. | Some fan service and teasing in early volumes; kisses without asking. | If you had four siblings in love with the same person, how would you keep the peace? |
 
-**Where traditions disagree.** The main dividing line is depiction, not message. The story's arc (study, family repair, apology, one faithful marriage) fits most religious and conservative frames well; their concerns are the fan service of high school girls in early volumes, the casual and sometimes unconsented kisses, and the harem premise itself. Stricter frames (Anabaptist, Adventist, Witness, Orthodox Jewish, Muslim) treat that depiction as significant. Secular progressive and feminist readers split from the religious frames on different grounds: they object less to romance than to the framing of five girls as interchangeable prizes and to consent.
+**Where traditions disagree.** Most frames agree on the core: effort, family loyalty, apology and a single faithful marriage. The divide is over the early fan service of high-school-age girls and the kisses taken without asking. Traditions with strict modesty or media rules (Orthodox Jewish, Muslim, Anabaptist, Adventist, Jehovah's Witness) grade C on that account, while conservative, Anglican, Shinto, secular humanist and unaffiliated frames read the marriage ending and the work ethic warmly (A). Secular progressive readers are the most critical of the harem premise itself.
 
 ## Winners, losers and sympathy
 
-Effort, loyalty and a self-giving love win: the poor student who never quits, and the sister who put others first, end up married, while every sister also gets a career and a resolution; the cold, absent father is the only side the story rejects outright.
+Effort and honesty are rewarded: Futaro rises from poverty and the sisters pass and find careers, while deception and cruelty are forgiven only after apology; no sister is cast aside in the ending.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Futaro Uesugi | Study and effort as the way out of poverty; responsibility | Graduates, marries Yotsuba (ch. 122); his family's lost restaurant is reopened by Nino and Miku (TV Tropes) | Endorsed |
-| Yotsuba | Self-sacrifice, keeping a childhood promise, putting sisters first | Chosen (ch. 113); learns to value herself (ch. 108); bride (ch. 122) | Endorsed |
-| Ichika, Nino, Miku | Pursuing love openly, including by rivalry and trickery | Rejected romantically; actress (Ichika), bakery owners (Nino, Miku) (Wikipedia, characters) | Sympathetic; Ichika's deception (ch. 74) forgiven after apology (ch. 86) |
-| Itsuki | Duty, study, following her mother | Becomes a teacher; no romantic resolution (TV Tropes YMMV) | Sympathetic |
-| Mudou (biological father) | Cold self-interest, abandonment of family | Rejected by the sisters (ch. 109) | Condemned |
-| Maruo (stepfather) | Distant control through money | Reconciles with Nino (ch. 104) | Shown with consequences; redeemed |
+| Futaro Uesugi | Self-improvement through study and work | Graduates, marries Yotsuba (ch. 122) | Endorsed |
+| Yotsuba Nakano | Self-sacrifice; puts others first | Revealed as the girl from Kyoto (ch. 86-90); chosen and married (ch. 113-122); learns to accept being loved | Endorsed, with her self-erasure questioned |
+| Ichika Nakano | Winning love by any means | Impersonates Miku and is caught (ch. 74-86); apologizes; becomes a famous actress (v14) | Wrongs condemned, then forgiven |
+| Nino Nakano | Fierce loyalty and bold honesty in love | Confesses openly (ch. 59-60); opens a cafe with Miku (v14) | Sympathetic; her drugging is never addressed |
+| Miku Nakano | Shy perseverance | Gains confidence; goes into cooking (v12, v14) | Endorsed |
+| Itsuki Nakano | Following her mother into teaching | Becomes a teacher; stands up to her biological father (v13-14) | Endorsed |
+| Maruo Nakano (stepfather) | Distant control through conditions | Gradually reconciles with the girls (v12-13) | Mixed, softening |
+| Mudou (biological father) | Abandonment, then a self-interested return | Rebuffed by Itsuki (v13) | Condemned |
 
-**Fan favorites versus the official moral.** The winner was not the fan favorite. Miku won Anime Corner's Winter 2021 "Best Girl" poll (6.29%), with Nino 3rd, Yotsuba 5th, Itsuki 6th and Ichika 12th (Anime Corner, opened). TV Tropes calls Miku the sister with "the strongest following," especially among anime-only fans, and says Nino's popularity surged after her confession (ch. 59-60). Haruba said in a Japanese interview that he had resolved himself to the idea that about four-fifths of fans would dislike the outcome (livedoor News). The bride reveal (ch. 113) caused "the largest internet backlash," and many fans felt Yotsuba had the least romantic development (TV Tropes YMMV). There are no beloved villains; the late father Mudou was widely disliked as a plot device (TV Tropes YMMV).
+**Fan favorites versus the official moral.** Fans split sharply by "best girl": the ending with Yotsuba disappointed many readers who felt her romance was set up late, while defenders note she alone never opposed Futaro (TV Tropes). Ichika's impersonation of Miku (ch. 74) drew strong criticism, especially from Western readers, and Nino's popularity rose after her confession (ch. 59-60) (TV Tropes). Haruba gave conflicting interviews about which sister was planned first (TV Tropes). The official moral (no one is discarded; family survives the romance) and fan loyalties largely agree except on who should have won.
 
 ## Message delivery
 - Style: Woven in
 - Preachiness: 4
 - Opposing views: Mixed
-- Evidence: The Guardian's Phil Hoad calls the film "stridently sentimental and moralistic"; most reviewers treat it as genre comfort food.
-- Note: Its lessons on effort, family and fidelity come through exam arcs and sister conflicts, while the harem framing itself goes unexamined.
+- Evidence: Lessons on effort, family and fidelity come through exam arcs and sister conflicts; wrongdoers (Ichika) are given reasons and a path back. Reviewers opened treat it as solid genre romance, not as preaching.
+- Note: The harem framing itself goes unexamined, but the ending rejects the harem fantasy in favor of one marriage.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
@@ -123,11 +132,12 @@ Effort, loyalty and a self-giving love win: the poor student who never quits, an
 
 ## Creator and publisher context
 
-- Negi Haruba (born 1991) took his pen name from Negi Springfield, hero of Ken Akamatsu's *Negima!* (Wikipedia, opened). Akamatsu, a judge, praised the series at the 2019 Kodansha Manga Awards; Haruba said being chosen by him was "special" (Wikipedia).
-- **On-record statements found.** In a Japanese interview (livedoor News, opened; date about 2019, to verify): Haruba said the chapter-1 wedding was there to rule out an "everyone marries him" ending, which he considered a letdown; that he wanted an ending where each girl "properly settles things with Futaro," not one that "discards the four who aren't the bride"; that he expected about four-fifths of fans to dislike the outcome; that he wanted to draw the sisters' feelings changing from dislike to love; and on fan service, "if a panty shot happens, I've lost," preferring to leave things to the imagination (translations ours from the opened page). Wikipedia adds that he designed the sisters partly from 15-20 favorite female characters and that his editor at first rejected the quintuplet concept until the one-shot did well.
-- He announced the series would end with volume 14 on Twitter (MyAnimeList news, December 2019). No statement on religion or politics was found. No public explanation of why Yotsuba was chosen beyond the interview's general intent was found in what was opened; volume afterwords not checked.
-- Publisher: Kodansha publishes both the Japanese magazine and the English edition (Kodansha USA), so the 16+ rating is the publisher's own. A tie-in "wedding ceremony" event sold digital art certificates to fans at the series' end (ANN, February 2020).
-- No reputable reports of controversy involving the creator were found. The public debate is about the ending and the harem genre, not the creator.
+- Negi Haruba (born 1991) had pitched a story about quintuplets in love with the same person before his first serial, Karma of Purgatory; his editor rejected it, then accepted it a year later, and a one-shot tested it first (Wikipedia, Production).
+- On design and story (Wikipedia, Production): each sister has a color and a number in her name; the flash-forward was added to rule out Futaro marrying all five; all but Yotsuba begin hostile so the story can move from dislike to love; he tried to avoid sexualized images after vol. 1, saying underwear shots make characters less interesting, and kept suggestive scenes ambiguous.
+- TV Tropes reports conflicting interviews about whether Yotsuba or Itsuki was planned to appear first, and that Haruba denied a harem ending (facts only; to verify against the interviews).
+- Haruba won the 2019 Kodansha Manga Award (shonen); judge Ken Akamatsu, creator of Negima, praised the series (Wikipedia). His next series is Go! Go! Loser Ranger! (2021-).
+- Publisher: Kodansha (Weekly Shonen Magazine). Kodansha Comics publishes it in English, rated 16+.
+- No controversies involving the creator were found. **Status: Needs more info on the creator (direct interviews not opened).**
 
 ## Worldview lenses
 
@@ -135,171 +145,138 @@ Dominant lenses: Confucian ethics, Classical virtue ethics, Traditionalism, Comm
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Confucian ethics | 5 | Affirmed | B | Education as the path to a good life; filial duty tested and restored (Nino and Maruo, ch. 60, 104); a teacher-pupil relationship at the center. My own framing. |
-| Classical virtue ethics | 5 | Affirmed | B | Diligence, perseverance, honesty and self-control rewarded; Yotsuba's self-sacrifice and growth into self-respect (ch. 108). My own framing. |
-| Traditionalism | 5 | Affirmed | B | One bride, a wedding and family business restored (ch. 122); Haruba explicitly rejected a harem ending (livedoor). |
-| Communitarianism | 5 | Affirmed | B | "The five of us": sisters transfer schools together, resolve rivalries, and keep the family whole (Wikipedia, characters). My own framing. |
-| Expressive individualism | 3 | Explored | C | Each sister picks her own path (actress, baker, teacher); Ichika's acting career; CSM film: characters "decide on their own goals." |
-| Pragmatism | 3 | Explored | C | Futaro takes the job for money; results-driven study. |
-| Feminism | 2 | Critiqued (by critics, not the text) | D | Anime Feminist: the sisters "exist only to cater to the audience's ideals of an idealized bride." Popverse disagrees on growth beyond stereotypes. |
-| Hedonism | 2 | Explored | C | Fan service and romantic pleasure as entertainment, bounded by a chaste plot. |
-| Secular humanism | 2 | Affirmed (implicit) | B | Meaning from human effort and relationships; no religious framing. My own framing. |
-| Consumerism | 2 | Explored | C | Wealth versus poverty is a theme; the franchise sells weddings to fans (ANN). |
-| Christian, Jewish, Islamic, Dharmic, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Stoicism, Utilitarianism, Critical theory, Marxism, Postmodernism, Environmentalism, Existentialism, Absurdism, Nihilism, Anti-natalism, Might makes right, Progressivism, Libertarianism, Collectivism/authoritarianism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
+| Confucian ethics | 5 | Affirmed | B | Study as moral self-cultivation, duty to family and parents, respect for teachers (Itsuki follows her mother into teaching), harmony among siblings restored. |
+| Classical virtue ethics | 5 | Affirmed | B | Diligence, honesty, courage to confess, and temperance win; deception is shown as a vice that must be repented (ch. 74-86). |
+| Traditionalism | 5 | Affirmed | B | One lifelong marriage and a wedding as the goal; the harem fantasy rejected (Wikipedia, Production). |
+| Communitarianism | 5 | Affirmed | B | The five sisters as a unit; the class reconciled at the festival (v13). |
+| Expressive individualism | 3 | Explored | C | Each sister must stop dressing alike and find her own path (v8, v14). |
+| Pragmatism | 3 | Explored | C | Futaro takes the job for the pay; study methods that work. |
+| Duty ethics | 3 | Affirmed | B | Keeping a childhood promise to study (v11); lying to win love is condemned even when it might work (ch. 74, 86). |
+| Feminism | 2 | Explored | D | Critics fault the harem frame; the text gives each sister her own career. |
+| Hedonism | 2 | Explored | C | Food, fun and festival life as light comedy. |
+| Secular humanism | 2 | Affirmed | B | Human effort and relationships, no supernatural frame. |
+| Consumerism | 2 | Explored | C | Wealth and its limits (a rich family with an absent father). |
+| Christian, Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Stoicism, Utilitarianism, Critical theory, Marxism, Postmodernism, Environmentalism, Existentialism, Absurdism, Nihilism, Anti-natalism, Might makes right, Pacifism / nonviolence, Bushido / honor code, Patriotism / nationalism, Progressivism, Libertarianism, Liberalism, Anarchism, Collectivism/authoritarianism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 6 | Paid work and study lift a poor family; wealth is not criticized; not argued as politics. |
-| Social (0 authority, 10 liberty) | 5 | Parents' authority is questioned but restored; teens choose careers and partners within family bonds. |
-| Cultural (0 traditional, 10 progressive) | 4 | Monogamous marriage ending and traditional gender roles; careers for every sister. |
-| Community (0 individual first, 10 community first) | 7 | Sister unity outranks winning; Haruba wanted every sister given closure. |
+| Economic (0 collective, 10 free market) | 6 | Effort lifts the poor hero; wealth is neither blamed nor praised. |
+| Social (0 authority, 10 liberty) | 5 | Parents' and school rules shape life; the sisters push back and negotiate. |
+| Cultural (0 traditional, 10 progressive) | 4 | Traditional marriage ending and family duty; careers for the women. |
+| Community (0 individual first, 10 community first) | 7 | Family and sisterhood before personal victory. |
 
-**Moral foundations profile (0 to 10):** care 7, loyalty 8, fairness 6, sanctity 3, authority 5, liberty 5.
+**Moral foundations profile (0 to 10):** care 7, loyalty 8, fairness 6, sanctity 4, authority 5, liberty 5.
 
-**Profile notes for parents:** The message is conventional and pro-social: work hard, stick by your family, apologize, and choose one person for life. The weight for parents sits in the genre and the art: five high school girls competing for one boy, early fan service (rated 16+ in print, 13+ by Common Sense Media for the anime), and several kisses given without asking. The romance itself stays chaste and ends in marriage.
+**Profile notes for parents:** Loyalty is the strongest value (to sisters and family), with care close behind. Fairness shows in the insistence that every sister be treated as equal and that lies be repented. Sanctity is moderate: marriage is honored, but early fan service of teenage girls and casual kissing lower it. Kodansha rates it 16+ and School Library Journal recommends grade 10 and up.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
 | Dignity vs honor | 3 | Wrongs are settled by apology and talk (Ichika to Miku, ch. 86), not by retaliation; Nino's hostility softens rather than being avenged. |
-| Order vs freedom | 4 | Exams, school rules and a parent's conditions (Maruo's threat to fire Futaro if a sister fails) structure life; the sisters push back but end inside family and school order. |
-| Civic vs kin | 8 | Family first: the sisters transfer schools together for Yotsuba; "the five of us" outranks romance; Futaro works to pay family debt. |
-| Equality vs hierarchy | 5 | Peers are equals across wealth lines; tutor-pupil and parent-child roles matter; Ichika as oldest sister has a mild lead role. |
-| Tradition vs secular-rational | 5 | Secular school life; traditional marriage ending; shrine visit and grave visits as custom. |
-| Survival vs self-expression | 6 | Futaro's struggle out of poverty (survival) beside the sisters' self-chosen careers and open confessions (self-expression). |
+| Order vs freedom | 4 | Exams, school rules and the stepfather's conditions (fail and Futaro is fired, v3) structure life; the sisters push back but end inside family and school order. |
+| Civic vs kin | 8 | Family first: the sisters transfer schools together for Yotsuba (v11); the five outrank romance; Futaro works to pay family debt. |
+| Equality vs hierarchy | 5 | Peers are equals across wealth lines; tutor-pupil and parent-child roles matter; birth order among the sisters carries mild weight. |
+| Tradition vs secular-rational | 5 | Secular school life; a traditional marriage ending; shrine and grave visits as custom (to verify). |
+| Survival vs self-expression | 6 | Futaro's struggle out of poverty beside the sisters' self-chosen careers and open confessions. |
 
-Closest clusters: Catholic Europe; Latin America; First Nation
+Closest clusters: Confucian; Catholic Europe; The Midlands
 
-Japanese source culture: Exam-centered school life, the class trip to Kyoto and Fushimi Inari, monthly grave visits, family debt as shared obligation, the stepfamily formalities and the shōnen-magazine harem romance convention are Japanese norms that frame the story rather than form its message.
+Japanese source culture: Exam-centered school life, the class trip to Kyoto, family debt as a shared obligation, the stepfamily's formality, a grandfather's hot-spring inn and the shonen-magazine harem convention are Japanese norms that frame the story rather than form its message.
 
 ## Philosophy essay
 
-**The central question.** If five people love you, and you can marry only one, what do you owe the other four? The first page shows a wedding and hides the bride's face. Everything after is a slow answer to who she is, and to how a boy who started out caring only about grades and money learns to care about five people at once.
+**The central question.** Can people who start out hating each other become family, and what do you owe the ones you do not choose? Futaro takes a job for money and ends up responsible for five futures; the five sisters must decide whether loving the same person will break them apart.
 
-**The answer the story gives.** You choose one, honestly and for life, and you keep faith with the rest. Haruba said he added the wedding to rule out an ending where Futaro marries everyone, and that he wanted each girl to "properly settle things" with him rather than be discarded (livedoor). The ending follows that plan: Futaro chooses Yotsuba (ch. 113), proposes (ch. 119) and marries her (ch. 122), while Ichika becomes an actress, Nino and Miku open a bakery in his family's old restaurant, and Itsuki becomes a teacher (Wikipedia; TV Tropes). The final chapter has the sisters dress as five brides for one last test, and Futaro names each of them without hesitation (fan wiki).
+**The answer the story gives.** Effort changes people, and love is a choice made without discarding anyone. The sisters' grades rise because they work and teach one another (v7). When the romance turns to rivalry and deceit, the story makes the guilty sister apologize and the others forgive (ch. 86). In the end Futaro chooses one, and the other four are shown building their own lives and standing beside the couple at the wedding (ch. 122).
 
-**Characters as arguments.** Futaro argues for effort: a poor student who studies his way upward and then teaches others to. Yotsuba argues for self-giving love; her arc is learning that serving others is not the same as erasing herself (ch. 108). Ichika argues the opposite pole, that love may be won by any means, and her disguise as Miku (ch. 74) is the story's clearest moral misstep, followed by apology (ch. 86). Nino argues for fierce family loyalty that first shuts Futaro out, even with a drugged drink (ch. 2), and then opens up. Itsuki stands for duty and the memory of a mother. The fathers argue about what a parent owes: Maruo learns to show up (ch. 104); Mudou never does (ch. 109).
+**Characters as arguments.** Futaro argues for study and self-reliance and learns that people matter more than grades. Yotsuba argues for self-sacrifice, then learns that hiding her own wishes hurt her too (v11, v14). Ichika argues for winning at any cost and is shown its price (ch. 74-86). Nino argues for honest, bold love. Itsuki argues for honoring a dead mother by following her calling, even against the father who left (v13).
 
-**Symbols and motifs.** Identical faces are the central image: the sisters can be told apart only by "love and time," a lesson traced to their mother (TV Tropes). Disguise and impersonation test whether Futaro truly knows each one. The Kyoto photo stands for a forgotten promise. The bell at the inn and the bonfire legend stand for fate in romance; the wedding dresses for the question the whole book asks.
+**Symbols and motifs.** Five identical faces and the problem of telling them apart: Futaro must learn to see each one (v8). The childhood photo and the charm from Kyoto (v6). Disguises and impersonation. The bell that rings at the inn when one sister kisses him (v8). The wedding of the first chapter, finally reached in the last.
 
-**Traditions it echoes.** The Japanese harem romantic comedy, especially Akamatsu's *Love Hina* and *Negima!*, from which Haruba took his pen name; the "childhood promise" mystery romance; and the school-tutoring story. Its ending echoes the traditional marriage plot, where the comedy resolves in a wedding.
+**Traditions it echoes.** The harem romantic comedy (Haruba's pen name honors Negima's Negi Springfield) and the "childhood promise" romance. Its ending echoes the classic marriage plot of Western novels. Confucian ideas of study as self-cultivation and family duty are close to the surface.
 
-**How each lens is portrayed.** Confucian and virtue readings find study, filial repair and diligence rewarded. Traditional and religious readers can point to the monogamous ending and the insistence on one bride. Feminist critics such as Anime Feminist see the sisters as interchangeable brides designed for a male reader; others, such as Popverse, see five people who grow past their stereotypes. Common Sense Media names friendship, sisterhood and honesty about feelings as themes, but says they are undercut by "sexualized high school youth." The Guardian found the film "moralistic" and praised its "insistence on the essential fallibility of the teacher."
+**How each lens is portrayed.** Confucian and classical virtue ethics win: diligence, honesty and family loyalty are rewarded. Traditionalism wins in the single-marriage ending. Expressive individualism is honored in the sisters' different careers. Feminist critics question the premise of five girls competing for one boy, a question the story does not raise itself.
 
-**Shifts across the series.** Vol. 1-3 (ch. 1-23): hostility, tutoring, early fan service and sleepover gags. Vol. 4-8 (ch. 24-68): the camping trip legend, the Seven Goodbyes arc with the family crisis, Nino's confession (ch. 59-60), and the Scrambled Eggs inn arc with the bell kiss. Vol. 9-11 (ch. 69-95, likely): third year, the Sisters' War, Ichika's deception, the Kyoto trip and Yotsuba revealed as the girl from the photo (ch. 86). Vol. 12-14 (ch. 96-122, likely): the final festival with each sister's kiss, the choice (ch. 113), the father Mudou (ch. 109), graduation, proposal and wedding.
+**Shifts across the series.** Volumes 1-4 (ch. 1-32) are tutoring comedy with the most fan service. Volumes 5-8 (ch. 33-68) bring confessions and the inn arc. Volumes 9-11 (ch. 69-95) turn to rivalry, the Kyoto trip, Ichika's deception and Yotsuba's past. Volumes 12-14 (ch. 96-122) are the school festival, the choice, the family reconciliations and the wedding.
 
 **Discussion questions.**
-1. Futaro took the job for money. When did it stop being only about money? What changed him?
-2. Ichika pretended to be Miku to win Futaro (ch. 74). Was her apology enough? What makes an apology real?
-3. Several characters kiss Futaro while he is asleep or without asking. How does the story treat that, and how would you treat it?
-4. Yotsuba spent years putting others first and felt worthless. Can serving others go wrong? How did she find balance?
-5. The author wanted every sister to "settle things," not be discarded. Did the ending succeed for all five, especially Itsuki?
+1. Futaro takes the job for money. When does it stop being about money?
+2. Ichika lies to win Futaro. Why is her apology to Miku so important to the story?
+3. Yotsuba always puts others first. Is that always good?
+4. Several kisses in the story happen without asking. How would the scenes change if the characters asked first?
+5. The sisters end up in very different careers. What helped each one find her path?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Secular parent guide | Common Sense Media (Danae Stahlnecker); anime | 13+, TV-PG. "Sexual imagery is common"; "one character frequently makes sexual innuendos"; themes of "friendship, sisterhood, understanding others" undercut by "sexualized high school youth." | https://www.commonsensemedia.org/tv-reviews/the-quintessential-quintuplets |
-| Secular parent guide | Common Sense Media (Stahlnecker); film | 13+. Kisses "sometimes without the recipient's consent"; bikini shots; ending a "sweet, romantic conclusion." | https://www.commonsensemedia.org/tv-reviews/the-quintessential-quintuplets-movie |
-| Library review | School Library Journal; manga vol. 1 | Grade 10 up. "An adequate setup for a romantic comedy"; fan service "could raise eyebrows." | https://prod.slj.com/review/the-quintessential-quintuplets-vol-1 |
-| Manga critic | Demelza, Anime UK News; manga vol. 1 | 7/10; clean art; notes the 16+ rating. | https://animeuknews.net/2019/01/the-quintessential-quintuplets-volume-1-review |
-| Manga critic | Sean Gaffney, A Case Suitable for Treatment; manga vol. 14 | Satisfying "traditional" harem ending, though "it's rushed, and there's no denying that"; the wedding "a giant bundle of heartwarming." | https://suitablefortreatment.mangabookshelf.com/2020/08/30/the-quintessential-quintuplets-vol-14/ |
-| Anime critics | ANN Preview Guide (Beckett, Jensen, Creamer, Martin); anime ep. 1 | Beckett: camera "leers at the girls just enough to be off-putting"; Jensen: fan service "pretty tame by genre standards"; Creamer: "weirdly wholesome." | https://www.animenewsnetwork.com/preview-guide/2019/winter/the-quintessential-quintuplets/.141954 |
-| Anime critics | ANN This Week in Anime (Dupree, Liu); anime | "Harem-flavored comfort food"; Futaro is "kind of a dick" when not teaching. | https://www.animenewsnetwork.com:443/this-week-in-anime/2019-02-26/.143876 |
-| Feminist | Chiaki, Anime Feminist; anime season 1 | Takes "a meta-critical look at harem anime," but the sisters are "essentially the same girl" built for "an idealized bride"; credits Futaro's drive to help. | https://animefeminist.com/review-winter-2019-three-episode-check-in |
-| Mainstream critic | Phil Hoad, The Guardian (via inkl); film | "Fairly charming, if stridently sentimental and moralistic"; "an elegantly hormonal Rashomon"; values the "fallibility of the teacher." | https://www.inkl.com/news/the-quintessential-quintuplets-review-sisters-compete-for-love-in-charming-anime |
-| Fan critic | Trent Cannon, Popverse; anime specials | "Trashy romance anime that is both incredibly heartfelt and dumb"; sisters "grow beyond their initial stereotypes"; disagrees with Futaro's choice. | https://www.thepopverse.com/tv-popverse-jump-anime-quintessential-quintuplets-specials-trash-romance-watching-anyway-crunchyroll/ |
-| Fan reception | MyAnimeList; Anime Corner; TV Tropes | MAL 7.90, popularity #72. Miku 1st in Anime Corner Winter 2021 Best Girl. Bride reveal (ch. 113) caused "the largest internet backlash"; Ichika's ch. 74 disguise "largely condemned" by Western readers. | https://myanimelist.net/manga/103851/_ ; https://animecorner.me/winter-2021-best-girl-and-boy-of-the-season ; https://tvtropes.org/pmwiki/pmwiki.php/YMMV/GoToubunNoHanayome |
-| Japanese reception | Sales, awards, author | Kodansha Manga Award 2019; 20 million copies; a fan "wedding ceremony" event in Shibuya at the finale; a 2023 special's Yotsuba confession moved viewers (Abema Times). | https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets ; https://www.animenewsnetwork.com/interest/2020-02-19/the-quintessential-quintuplets-celebrates-final-chapter-with-wedding-ceremony-event/.156606 ; https://times.abema.tv/articles/-/10094925 |
+| Library review (manga, vol. 1) | School Library Journal | Grade 10 and up; an adequate romantic-comedy setup with strong chemistry; breast-focused art and towel shots may concern some. | https://www.schoollibraryjournal.com/review/the-quintessential-quintuplets-vol-1 |
+| Critic (manga, vol. 1) | Sean Gaffney, A Case Suitable for Treatment (January 1, 2019) | Lukewarm: "an okay start, but only okay"; Nino drugging Futaro goes too far. | https://suitablefortreatment.mangabookshelf.com/2019/01/01/the-quintessential-quintuplets-vol-1/ |
+| Critic (manga, vol. 1) | Demelza, Anime UK News (January 11, 2019) | 7/10; too many characters for one volume; worth checking later; rated Older Teen 16+. | https://animeuknews.net/2019/01/the-quintessential-quintuplets-volume-1-review |
+| Critics (anime, via Wikipedia) | Paul Jensen (Anime News Network), Patrick Frye, Kyle Rogacion | Jensen: 4/5, fan service does not go overboard, "good clean (well, clean-ish) fun"; Frye: little degrading fan service; Rogacion criticizes the fan-service gags. | https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets |
+| Award | Kodansha Manga Award 2019 (via Wikipedia) | Won the shonen category; judge Ken Akamatsu praised it as the most complete harem romantic comedy. | https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets |
+| Fan reaction | TV Tropes audience page (facts only) | Many fans disappointed by the Yotsuba ending (ch. 113); Ichika's ch. 74 deception widely criticized; shipping factions but little hostility. | https://tvtropes.org/pmwiki/pmwiki.php/YMMV/GoToubunNoHanayome |
+| Fan databases | AniList, MangaUpdates | AniList average 77 (about 71,000 members); MangaUpdates 7.64. | AniList API; MangaUpdates API |
+| Christian outlets, Anime Feminist, Common Sense Media (manga) | — | No review opened; none found in the searches run. | none |
 
-No Plugged In, ScreenWise, Christian or conservative review was found. The main controversy is fan reaction to the ending: shippers of other sisters, especially Miku and Nino, objected to Yotsuba's win (ch. 113) and to the rushed final volume, while supporters point to her foreshadowed backstory (ch. 86-90) and the author's stated plan. A smaller, ongoing debate concerns the harem genre's framing of girls and fan service of minors.
+The main public dispute was among fans over the choice of bride (ch. 113), not about content. Critics opened agree it is competent genre romance with lighter fan service than many harem series.
 
 ## Most loaded parts and pages to photograph
 
-Volume-to-chapter map: v1 ch. 1-5; v2 6-14; v3 15-23; v4 24-32; v5 33-41; v6 42-50; v7 51-59; v8 60-68 (fan wiki chapter list, opened). v9 69-77; v10 78-86; v11 87-95; v12 96-104; v13 105-113; v14 114-122 (likely; inferred from the nine-chapter pattern, ch. 86 as the last chapter of v10, and volume end titles on Wikipedia). Anime season 1 covers about v1-5, season 2 about v6-11, the film about v12-14 (likely).
+Volume-to-chapter map (English Wikipedia volume list, opened): v1 ch. 1-5; v2 6-14; v3 15-23; v4 24-32; v5 33-41; v6 42-50; v7 51-59; v8 60-68; v9 69-77; v10 78-86; v11 87-95; v12 96-104; v13 105-113; v14 114-122. Scene volumes come from the Wikipedia volume summaries; chapter numbers for specific scenes from TV Tropes unless marked.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | The final festival kisses: Ichika (pretending to sleep), Nino, Miku pinning him, Yotsuba while he sleeps; Itsuki's averted | 102, 104, 106, 108, 111 (v12-13, likely) | Consent framing (CSM film) for Sexuality (5) and many frames' Depiction concern; also sets up the choice. |
-| 2 | Futaro chooses Yotsuba | 113 (v13, likely) | The "which sister wins" ending; main fan controversy; Winners table. Confirm how the other sisters are treated on the page. |
-| 3 | Wedding, five-brides test, bell-kiss reveal, "was it a dream" framing | 121-122 (v14) | Traditionalism and the monogamy reading; Haruba's "settle things with each girl" intent. |
-| 4 | Vol. 1 fan service: towel and shower shots, Ichika sleeping naked, Miku undressing Nino; Nino's drugged drink | 1-5 (v1) | Sets Sexuality, Substances (2) and Imitable behavior (3); SLJ's "raise eyebrows." Confirm how much is drawn. |
-| 5 | Ichika disguises as Miku to sway Futaro; later apology | 74 (v9, likely); 86 (v10) | Deception and forgiveness; the most-condemned scene by Western readers (TV Tropes YMMV). The fan wiki is inconsistent on who is disguised: confirm. |
-| 6 | Sleepovers and bed gags | 12-13, 17-18, 21 (v2-3) | Teen intimacy framing for stricter frames. |
-| 7 | Nino's confession; stepfather Maruo confronts her; later reconciliation | 59-60 (v7-8); 104 (v12, likely) | Family and authority; Nino's popularity surge. |
-| 8 | Yotsuba revealed as the Kyoto girl; her backstory of expulsion and sisters transferring | 86-90 (v10-11, likely) | Mental health, Civic vs kin (8), foreshadowing of the ending. |
-| 9 | Biological father Mudou | 109 (v13, likely) | The only condemned figure; fans saw him as a weak plot device. |
-| 10 | Scrambled Eggs inn arc and the bell kiss; Nino's second drugging | 61-68 (v8); 44 (v6) | Sexuality and Substances; ending setup. |
+| 1 | Opening fan service: post-shower towel scenes and breast-focused art; Futaro pushes Nino down and Itsuki photographs it | 1-5 (v1) | Sexuality (5); every frame's Depiction concern. Do not photograph or scan the towel pages; review in print, written note only. |
+| 2 | Nino drugs Futaro's drink | 2 (v1) and 44 (v6) | Substances and Imitable behavior; never apologized for. |
+| 3 | School camping trip: test of courage, Futaro and Ichika locked in a woodshed, the bonfire legend | 24-32 (v4) | Romance; check for fan service. |
+| 4 | Nino's confession; the spring-break inn trip; the bell kiss (later revealed as Yotsuba) | 59-68 (v7-8) | Sexuality; consent question. |
+| 5 | Ichika impersonates Miku to confess | 74 (v9) | Deception; the story's main moral conflict. |
+| 6 | Kyoto trip: Ichika's sabotage, Futaro leaves her in the rain, her apology | 78-86 (v10) | Repentance and forgiveness; frames' aligns. |
+| 7 | Yotsuba's backstory; the mother's death; the sisters pretend to cheat to follow Yotsuba | 87-95 (v11) | Mental health; Imitable. |
+| 8 | Swimsuit chapter | 92 (v11) | Fan service involving teens. Do not photograph or scan; review in print, written note only. |
+| 9 | School festival kisses (Ichika, Nino, Miku pinning Futaro down, others) and the encounter with the biological father | 96-113 (v12-13; Miku ch. 106) | Sexuality; consent; Family row. Written note only for the kisses. |
+| 10 | Ichika's attempted seduction in a hot spring (Wikipedia character list) | to locate | Sexuality involving teen characters; confirm chapter and what is shown. Written note only. |
+| 11 | The choice, the proposal, the wedding | 113-122 (v13-14) | Message; Outlook. |
 
-Estimate: about 35 chapters (roughly 700 pages) cover these items; photographing about 50-60 key pages would confirm the scores.
+Estimate: about 35 chapters cover the above; about 20-30 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
-Opened:
-- https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets
-- https://en.wikipedia.org/wiki/List_of_The_Quintessential_Quintuplets_volumes
-- https://en.wikipedia.org/wiki/List_of_The_Quintessential_Quintuplets_characters
-- https://en.wikipedia.org/wiki/Negi_Haruba
-- https://kodansha.us/volume/the-quintessential-quintuplets-1
-- https://tvtropes.org/pmwiki/pmwiki.php/Manga/GoToubunNoHanayome
-- https://tvtropes.org/pmwiki/pmwiki.php/YMMV/GoToubunNoHanayome
-- https://5hanayome.fandom.com/wiki/List_of_Chapters_and_Volumes?oldid=2247
-- https://5hanayome.fandom.com/wiki/Chapter_2
-- https://5hanayome.fandom.com/wiki/Chapter_74?oldid=6305
-- https://5hanayome.fandom.com/wiki/Chapter_86
-- https://5hanayome.fandom.com/wiki/Chapter_108
-- https://5hanayome.fandom.com/wiki/Chapter_122
-- https://myanimelist.net/manga/103851/_
-- https://myanimelist.net/news/58761814
-- https://www.commonsensemedia.org/tv-reviews/the-quintessential-quintuplets
-- https://www.commonsensemedia.org/tv-reviews/the-quintessential-quintuplets-movie
-- https://prod.slj.com/review/the-quintessential-quintuplets-vol-1
+Pages actually opened:
+- https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets (raw wikitext)
+- https://en.wikipedia.org/wiki/List_of_The_Quintessential_Quintuplets_volumes (raw wikitext, with summaries)
+- https://en.wikipedia.org/wiki/List_of_The_Quintessential_Quintuplets_characters (raw wikitext)
+- https://en.wikipedia.org/wiki/Negi_Haruba (raw wikitext)
+- AniList API, media id 100230 (graphql.anilist.co)
+- MangaUpdates API, series 39568149365 (api.mangaupdates.com)
+- https://kodansha.us/volume/the-quintessential-quintuplets-1 (16+)
+- https://www.schoollibraryjournal.com/review/the-quintessential-quintuplets-vol-1
+- https://suitablefortreatment.mangabookshelf.com/2019/01/01/the-quintessential-quintuplets-vol-1/
 - https://animeuknews.net/2019/01/the-quintessential-quintuplets-volume-1-review
-- https://suitablefortreatment.mangabookshelf.com/2020/08/30/the-quintessential-quintuplets-vol-14/
-- https://www.animenewsnetwork.com/preview-guide/2019/winter/the-quintessential-quintuplets/.141954
-- https://animenewsnetwork.com/review/the-quintessential-quintuplets/episode-6/.143453
-- https://www.animenewsnetwork.com:443/this-week-in-anime/2019-02-26/.143876
-- https://animenewsnetwork.com/interest/2021-08-19/the-quintessential-quintuplets-are-not-equal-hulu-japan-reveals-which-girl-talks-with-futaro-the-/.176430
-- https://www.animenewsnetwork.com/interest/2020-02-19/the-quintessential-quintuplets-celebrates-final-chapter-with-wedding-ceremony-event/.156606
-- https://animefeminist.com/review-winter-2019-three-episode-check-in
-- https://www.inkl.com/news/the-quintessential-quintuplets-review-sisters-compete-for-love-in-charming-anime (The Guardian, Phil Hoad)
-- https://ca.movies.yahoo.com/quintessential-quintuplets-review-sisters-compete-070037504.html (same review)
-- https://www.thepopverse.com/tv-popverse-jump-anime-quintessential-quintuplets-specials-trash-romance-watching-anyway-crunchyroll/
-- https://animecorner.me/winter-2021-best-girl-and-boy-of-the-season
-- https://news.livedoor.com/article/detail/17065762/ (Japanese interview with Negi Haruba)
-- https://times.abema.tv/articles/-/10094925
+- https://tvtropes.org/pmwiki/pmwiki.php/YMMV/GoToubunNoHanayome (facts only)
 
-Found in search, not opened (or failed to load):
-- https://en.wikipedia.org/wiki/List_of_The_Quintessential_Quintuplets_chapters (failed)
-- https://www.animeclick.it/news/85476-fan-riscrivono-il-finale-di-the-quintessential-quintuplets-spoiler (failed)
-- https://kodansha.us/volume/the-quintessential-quintuplets-manga-box-set-part-1
-- https://www.animenewsnetwork.com/news/2020-02-04/the-quintessential-quintuplets-manga-ends-serialization-in-3-chapters/.156050
-- https://www.animenewsnetwork.com/news/2019-12-04/the-quintessential-quintuplets-manga-ends-in-14th-volume/.153958
-- https://otakuusamagazine.com/?p=267313
-- https://www.theouterhaven.net/2019/10/the-quintessential-quintuplets-series-review-to-the-power-of-five/
-- https://www.themanime.org/viewreview.php?id=2043
-- https://www.sportskeeda.com/anime/who-futaro-uesugi-marry-the-quintessential-quintuplets-manga-explained
-- https://ciatr.jp/topics/313685
-- https://nlab.itmedia.co.jp/cont/articles/3294984/amp/
-- https://www.tvtropes.org/pmwiki/pmwiki.php/Characters/TheQuintessentialQuintuplets
+Found in search, not opened (fetch refused, blocked or not prioritized):
+- https://pastelgoth.net/blog/?p=12661
+- https://www.animenewsnetwork.com/encyclopedia/manga.php?id=21269
+- https://Animenewsnetwork.Com/review/quintessential-quintuplets-the-movie/.186152
+- https://kodansha.us/volume/the-quintessential-quintuplets-14/
+- https://www.manga-news.com/index.php/dvd/critique/Gotobun-no-Hanayome
+- https://myanimelist.net/reviews.php?id=347896
+- https://anilist.co/review/22191
+- No Christian, Anime Feminist or Common Sense Media manga review found in the searches run.
 
 ## Full-read review checklist
 
-- [ ] Confirm the volume-to-chapter map for v9-14 (inferred) from the Kodansha English volumes' contents pages. Affects every "likely" chapter reference.
-- [ ] Ch. 1-5 (v1): towel and shower shots, Ichika sleeping naked, Miku undressing Nino, ages stated; how much is drawn. Affects Sexuality (5) and every Depiction concern.
-- [ ] Ch. 2 and 44: Nino's drugged drink; what is used, how it is framed, any consequence or apology. Affects Substances (2), Imitable behavior (3) and the "do no harm" rows.
-- [ ] Ch. 12-13, 17-18, 21: lap-pillow and sleepover scenes; any sexual framing. Affects stricter frames' Depiction concern.
-- [ ] Ch. 22-32 and 61-68: confirm the bonfire "binding legend" and the bell kiss; whether the bell has religious meaning. Affects Religion theme and Shinto row.
-- [ ] Ch. 39-50 (Seven Goodbyes): what happens (Futaro quitting, sisters leaving home), Itsuki's slap of Nino. Affects Family and authority, Violence (1).
-- [ ] Ch. 74 and 86: who is disguised as Miku (fan wiki is inconsistent) and the apology. Affects Imitable behavior and Message delivery (Ichika row).
-- [ ] Ch. 102-111: each kiss; whether the recipient consents; how the art and text frame it. Affects Sexuality, Secular progressive row and all Depiction concerns.
-- [ ] Ch. 109: Mudou's role and whether he is the biological father (Wikipedia's character list does not name him). Affects Winners table and Message delivery.
-- [ ] Ch. 113 and 119-122: the choice, proposal, wedding, five-brides test and "dream" framing; how the four other sisters are treated. Affects Traditionalism, Winners table and the ending controversy.
-- [ ] Confirm the parents' backstory (Rena as teacher, Maruo as her student, when they married). Affects Politics and social issues.
-- [ ] Spot-check Kodansha English profanity in 3-4 chapters. Affects Language (2).
-- [ ] Ichika's innuendo frequency in the manga (CSM's note is about the anime). Affects Sexuality.
-- [ ] Confirm the 16+ rating on later Kodansha volumes and the box set. Affects Series facts.
-- [ ] Read Haruba's volume afterwords and the vol. 14 notes for statements on the ending, fan service and intent; date the livedoor interview. Affects Creator context.
-- [ ] Look for Plugged In, ScreenWise, Christian or conservative reviews and an official Japanese popularity poll. Affects How readers took it and Fan favorites.
+- [ ] Vol. 1 (ch. 1-5): confirm the extent of the towel and bath scenes and any nudity of the sisters (high-school age). Written note only. Affects Sexuality (5) and the content-warning decision.
+- [ ] Locate Ichika's hot-spring seduction attempt (Wikipedia character list); confirm what is shown. Written note only.
+- [ ] Ch. 92 (v11): swimsuit chapter; confirm framing. Written note only.
+- [ ] Ch. 59-68 (v7-8): the inn arc and the bell kiss; confirm chapter and consent.
+- [ ] Ch. 96-113 (v12-13): list every kiss, who initiates and whether Futaro consents (Miku, ch. 106). Affects the consent notes in many frames.
+- [ ] Ch. 2 and 44: confirm the drugging scenes and whether anyone addresses them. Affects Substances and Imitable.
+- [ ] Confirm shrine, temple and grave visits on the Kyoto trip and elsewhere (marked to verify). Affects Religion row and Shinto frame.
+- [ ] Spot-check Kodansha language in 3-4 chapters. Affects Language (2).
+- [ ] Read Haruba's author notes and afterwords in vol. 14 for statements on the ending. Affects Creator context.
+- [ ] Open the not-opened sources above, especially any Christian or parent review. Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

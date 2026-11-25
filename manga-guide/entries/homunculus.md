@@ -112,13 +112,13 @@ People who hide behind masks are exposed, and the man who tears off other people
 | Ita-san | Guilt over his family; care for the homeless | Hangs himself (Japanese Wikipedia) | Sympathetic; tragic |
 | Nanako / the shifting-faced woman | A life bound to Nakoshi | Trepanned by Nakoshi and abandoned bleeding; fate unclear (TV Tropes) or dead (renote.net) | Victim |
 
-**Fan favorites versus the official moral.** No popularity poll was found. User reviewers rate it highly (AniList average 83; MangaUpdates 8.25) and many single out Ito's arc as the heart of the series (AniList and MyAnimeList reviewers). The same reviewers call the Yukari scene the worst part of the book; one AniList reviewer calls it a "nightmare therapy rape scene" out of character for Nakoshi, and a MyAnimeList reviewer says it drives some readers away. Fans and critics also split on the philosophy, from "tragic and profound" to "pseudo-philosophical" (MyAnimeList).
+**Fan favorites versus the official moral.** No popularity poll was found. User reviewers rate it highly (AniList average 83; MangaUpdates 8.25) and many single out Ito's arc as the heart of the series (AniList and MyAnimeList reviewers). The same reviewers call the Yukari scene the worst part of the book; one AniList reviewer calls it a "nightmare therapy rape scene" out of character for Nakoshi, and a MyAnimeList reviewer says it drives some readers away. Fans also split on the philosophy, some finding it deeply moving and others empty posturing (MyAnimeList).
 
 ## Message delivery
 - Style: Explicit
 - Preachiness: 5
 - Opposing views: Fair
-- Evidence: Ito explains psychoanalytic theory on the page (Wikipedia); MyAnimeList reviewers split between "profound" and "pseudo-philosophical"; the story never settles whether the visions are real (Looper).
+- Evidence: Ito explains psychoanalytic theory on the page (Wikipedia); MyAnimeList reviewers split between finding it profound and finding it pretentious; the story never settles whether the visions are real (Looper).
 - Note: Ideas about trauma and the self are spelled out in dialogue, but the plot leaves the central question (are the homunculi real?) open.
 
 | Character | Ideology | Role | Treatment |
