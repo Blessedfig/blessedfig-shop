@@ -519,6 +519,7 @@ input[type=search],select{border:2px solid var(--line);border-radius:4px;backgro
     <a class="brand" href="#start"><svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3c5 3 9 8 9 14a9 9 0 0 1-18 0c0-6 4-11 9-14z" fill="#6d3a5f"/><path d="M16 3c1.5 3 1.5 7 0 10" stroke="#2f6a4c" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M16 4c3-2 7-2 9 0-3 2-6 2-9 0z" fill="#3f8a5c"/><circle cx="12.5" cy="17" r="1.6" fill="#fffdf8" opacity=".35"/></svg>Manga Worldview Guide <small>BETA</small></a>
     <nav class="tabs" aria-label="Sections">
       <a href="../">Store</a>
+      <a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shop</a>
       <a href="#start" data-view="start">Find manga</a>
       <details class="menu" id="menu"><summary data-view-group="explore">Explore</summary><div class="menu-list">
         <a href="#popular" data-view="popular">Popular manga</a>
@@ -1245,7 +1246,7 @@ const OLOAD = fetch('outlook.json', {cache: 'no-cache'}).then(r => r.ok ? r.json
 const TLOAD = fetch('technopuritan.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
 fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(renameData).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
   d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d => TLOAD.then(t => { if (t) d.series.forEach(s => { const e = s.entry; if (!e) return; const x = t.grades[s.id ? String(s.id) : 'e-' + e.slug]; if (x && !e.frames.some(f => f.frame === t.name)) e.frames.unshift(x); }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (state.profile && !GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='';
-  $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
+  $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · <a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shop shirts, stickers and puzzles</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
 <script src="deep.js"></script>
