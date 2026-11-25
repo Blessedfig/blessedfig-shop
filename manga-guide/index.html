@@ -456,6 +456,8 @@ label.chip:has(input){min-height:44px;display:inline-flex;align-items:center;gap
   details.sect>summary{padding:var(--s3) var(--s4)}
   details.sect>div,details.sect>.md{padding:0 var(--s4) var(--s4)}
 }
+.ideas-ctl>label:not(.grow){flex:1 1 210px}
+@media (max-width:520px){.ideas-ctl>label,.ideas-ctl>label:not(.grow){flex:1 1 100%}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 <link rel="stylesheet" href="/helper/helper.css">
@@ -847,14 +849,35 @@ function viewPopular() {
 }
 function viewIdeas() {
   const names = [...new Set([...D.lenses, ...D.series.flatMap(s=>(s.entry?.lenses||[]).map(l=>l.lens))])].filter(Boolean).sort();
-  const rows = [];
-  D.series.forEach(s => (s.entry?.lenses||[]).filter(l=>l.lens===state.idea).forEach(l => rows.push({s, l, c: closeness(l)})));
-  rows.sort((a,b)=>GRADES.indexOf(a.c)-GRADES.indexOf(b.c) || b.l.strength-a.l.strength);
+  const all = [], p = state.profile;
+  D.series.forEach(s => (s.entry?.lenses||[]).filter(l=>l.lens===state.idea).forEach(l => all.push({s, l, c: closeness(l), d: dirOf(l.stance)})));
+  const key = IDEA_SORTS.some(([k])=>k===state.ideaSort) ? state.ideaSort : 'close';
+  const dir = IDEA_DIRS.some(([k])=>k===state.ideaDir) ? state.ideaDir : '';
+  const rows = sortIdeaRows(dir ? all.filter(r=>r.d===dir) : all, key, p);
+  const cnt = k => all.filter(r=>r.d===k).length;
+  const mine = key === 'grade' ? s => { const f = s.entry && fitFor(s.entry, p); return `<span class="chip" style="font-weight:700" title="${f ? esc(GRADE_TEXT[f.g][0]) : 'Not graded yet'} for ${esc(p)}">Your grade (${esc(p)}): ${f ? f.g : '–'}</span>`; } : () => '';
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>By philosophy</h1>
     <p class="lede">Pick a philosophy or worldview to see which manga sit closest to it. S means the story strongly affirms it, C means it explores the idea without settling, and D or F means it critiques it.</p></div>
-    <div class="controls"><label for="idea">Philosophy or worldview<select id="idea">${names.map(l=>`<option ${state.idea===l?'selected':''}>${esc(l)}</option>`).join('')}</select></label></div>
-    <div class="list">${rows.map(({s,l,c})=>row(s, gradeTile(c,false,'lg'), `<div class="sub" style="margin-top:4px">${esc(l.label)}: strength ${l.strength} / 10, ${esc(l.stance.toLowerCase())}</div>`)).join('') || '<p class="empty">No analyzed series engage this one yet.</p>'}</div>
+    <div class="controls"><div class="ctl-main ideas-ctl"><label for="idea" class="grow">Philosophy or worldview<select id="idea">${names.map(l=>`<option ${state.idea===l?'selected':''}>${esc(l)}</option>`).join('')}</select></label>
+      <label for="isort">Sort by<select id="isort">${IDEA_SORTS.map(([k,l])=>`<option value="${k}" ${key===k?'selected':''}>${l}</option>`).join('')}</select></label>
+      <label for="idir">Stance<select id="idir">${IDEA_DIRS.map(([k,l])=>`<option value="${k}" ${dir===k?'selected':''}>${l} (${k ? cnt(k) : all.length})</option>`).join('')}</select></label>
+      ${key === 'grade' ? `<label for="profile4">Grades for${profileSelect('profile4', p)}</label>` : ''}</div></div>
+    <p class="note" aria-live="polite" style="margin:0">${rows.length} of ${all.length} series${dir ? ' · ' + esc(IDEA_DIRS.find(([k])=>k===dir)[1].toLowerCase()) + ' only' : ''}</p>
+    <div class="list">${rows.map(({s,l,c})=>row(s, gradeTile(c,false,'lg'), `<div class="sub" style="margin-top:4px">${esc(l.label)}: strength ${l.strength} / 10, ${esc(l.stance.toLowerCase())}</div>`, mine(s))).join('') || `<p class="empty">${all.length ? 'No series take this stance on it yet.' : 'No analyzed series engage this one yet.'}</p>`}</div>
     <p class="note">Only analyzed series appear. The list of philosophies will keep growing.</p></div>`;
+}
+// Sorting for the By philosophy list. Rows are {s: series, l: its lens entry for the chosen philosophy, c: closeness grade, d: for/explores/against}.
+const IDEA_SORTS = [['close','Closest match (S to F)'],['strength','Strongest on this idea'],['stance','Stance: affirms first'],['push','Strongest push first'],['grade','Your grade, best first'],['level','Least mature content'],['popularity','Most read'],['title','Title A to Z'],['newest','Newest first']];
+const IDEA_DIRS = [['','All stances'],['for','Affirms'],['explores','Explores'],['against','Argues against']];
+function sortIdeaRows(rows, key, p) {
+  const ci = r => GRADES.indexOf(r.c), st = r => r.l.strength || 0;
+  const close = (a,b)=>ci(a)-ci(b) || st(b)-st(a);
+  const base = [...rows].sort(close); // the original order, and the tie-break for everything else
+  if (key === 'close') return base;
+  if (key === 'strength') return base.sort((a,b)=>st(b)-st(a));
+  if (key === 'stance') { const o = {for:0, explores:1, against:2}; return base.sort((a,b)=>o[a.d]-o[b.d] || st(b)-st(a)); }
+  const pos = new Map(sortSeries(base.map(r=>r.s), key, p).map((s,i)=>[s,i]));
+  return base.sort((a,b)=>pos.get(a.s)-pos.get(b.s));
 }
 
 let R = null, RLOAD = null, WHY = null, CUR = null;
@@ -1100,6 +1123,7 @@ function bind() {
   const set = (k, rerender = true) => e => { state[k] = e.target.type === 'checkbox' ? e.target.checked : e.target.value; save(); if (rerender) render(); };
   on('q','input', e=>{ state.q=e.target.value; save(); const pos=e.target.selectionStart; render(); const q=$('#q'); q.focus(); q.setSelectionRange(pos,pos); });
   ['lvl:maxLevel','pub:pub','sort:sort','an:analyzed','adult:adult','idea:idea','profile:profile','profile2:profile','profile3:profile','popn:popN','psort:popSort','ssort:startSort','maxint:maxInt','olk1:hope','olk2:hope','olk3:hope','mf2:mf','mf3:mf','agesel:age'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',set(k)); });
+  ['isort:ideaSort','idir:ideaDir','profile4:profile'].forEach(x=>{ const [id,k]=x.split(':'); on(id,'change',e=>{ state[k]=e.target.value; save(); render(); document.getElementById(id)?.focus(); }); });
   document.querySelectorAll('.genres button[data-genre]').forEach(b=>b.addEventListener('click',()=>{ state.genre=b.dataset.genre; save(); render(); }));
   document.querySelectorAll('input[data-q]').forEach(r=>r.addEventListener('change',()=>{ QANS[r.dataset.q]=+r.value; }));
   on('quizgo','click',()=>{ if (Object.keys(QANS).length < 6) { const b=$('#quizgo'); b.textContent='Answer at least 6 statements first'; return; } VALS={pos:quizScore(), label:''}; HER=new Set(); VALS_SAVED=false; render(); $('#valres')?.scrollIntoView({behavior:'smooth'}); });
