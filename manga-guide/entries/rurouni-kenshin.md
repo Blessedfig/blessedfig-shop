@@ -146,7 +146,7 @@ Dominant lenses: Pacifism / nonviolence (the no-kill vow), Classical virtue ethi
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
 | Might makes right | 7 | Critiqued | D | Shishio's creed that the weak are food for the strong is the Kyoto arc's main argument, defeated by Kenshin; Sojiro, raised on it, comes to doubt it (v13-17). |
-| Pacifism / nonviolence | 6 | Affirmed | B | A no-kill rule (limited form): Kenshin vows never to kill again and carries a reverse blade, tested in every arc, yet he still fights; the new-lens rubric anchors the series at 5. |
+| Pacifism / nonviolence | 5 | Affirmed | B | A no-kill rule (limited form): Kenshin vows never to kill again and carries a reverse blade, tested in every arc, yet he still fights (the new-lens rubric's anchor example at 5). |
 | Classical virtue ethics | 6 | Affirmed | B | Courage, mercy, humility and keeping one's word make the hero; Wikipedia names responsibility as the central theme. |
 | Duty ethics | 5 | Affirmed | B | The vow is kept as a rule even when killing would produce a better outcome (Shishio, Enishi); the rubric anchors Kenshin at 5. |
 | Bushido / honor code | 5 | Explored | C | Samurai codes everywhere: Saito's Shinsengumi creed, honor duels, the sword ban; Kenshin's vow breaks with the killing side of the warrior's way (rubric anchor at 5). |

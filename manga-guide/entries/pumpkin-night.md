@@ -148,7 +148,7 @@ Dominant lenses: Might makes right (the powerful cover up; the avenger becomes t
 | Nihilism | 5 | Explored | D | Violence without limit and little hope; Kazuya's madness after loss; the ongoing war with no end in view. My own framing. |
 | Collectivism/authoritarianism | 4 | Critiqued | D | A mayor who controls police and uses yakuza (fan wiki, Hoshinomiya); a global corporation said to control 80% of governments (fan wiki, Farms). |
 | Critical theory | 3 | Explored | C | Bullying excused by status; a privileged family's crime hidden by institutions; abuse inside psychiatric care. My own framing. |
-| Absurdism | 3 | Explored | C | AniList tags Surreal Comedy (73%); the reader review calls the teen drama ridiculous in an 1980s-slasher way. |
+| Absurdism | 3 | Explored | C | AniList tags Surreal Comedy (73%); the reader review calls the teen drama ridiculous in a 1980s-slasher way. |
 | Pagan/occult | 3 | Explored | C | Naoko seems to return from death and speak with spirits; Naruto's ghost and the dead watching over the living (fan wiki, Part 2). |
 | Existentialism | 2 | Explored | C | Naoko chooses an identity (the mask) in place of the one taken from her. My own framing. |
 | Christian | 1 | Explored | D | A doctor who kills criminals says God sent Naoko to purify the world (fan wiki, Part 2); shown as obsession. |
