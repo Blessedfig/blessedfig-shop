@@ -170,7 +170,7 @@ Dominant lenses: Classical virtue ethics, Authoritarianism (critiqued), Transhum
 | Naturalism | 2 | Explored | C | Alchemy follows laws like a science. |
 | Traditionalism | 2 | Explored | C | Ishvalan faith and rural Resembool life respected. |
 | Nihilism | 1 | Critiqued | D | Despair answered by the will to go on. |
-| Jewish, Hindu ideas, Buddhist ideas, Pagan/occult, Feel-good faith, Absurdism, Anti-natalism, Hedonism, Expressive individualism, Bushido / honor code, Postmodernism, Libertarianism, Anarchism, Environmentalism, Consumerism | 0 | Not present | none | No meaningful evidence found. (Hindu and Buddhist ideas appear only as faint echoes of the all-is-one teaching and of letting go, below the threshold; the former Dharmic score of 3 is retired.) |
+| Jewish, Hindu ideas, Buddhist ideas, Pagan/occult, Feel-good faith, Absurdism, Anti-natalism, Hedonism, Expressive individualism, Bushido / honor code, Postmodernism, Libertarianism, Anarchism, Environmentalism, Consumerism | 0 | Not present | none | No meaningful evidence found. (Hindu and Buddhist ideas appear only as faint echoes of the all-is-one teaching and of letting go, below the threshold.) |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|

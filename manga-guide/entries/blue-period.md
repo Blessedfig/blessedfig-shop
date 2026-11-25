@@ -155,7 +155,7 @@ Dominant lenses: Expressive individualism, Existentialism, Classical virtue ethi
 | Feminism | 2 | Explored | C | Capable women artists and teachers; CSM notes early objectification. |
 | Christian | 2 | Explored (by echo) | C | Mori's prayerful, religious imagery (Wikipedia); no doctrine. |
 | Consumerism | 2 | Critiqued | D | The commercial art world (Kanie) set against art for its own sake. |
-| Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Feel-good faith, Naturalism, Duty ethics, Utilitarianism, Absurdism, Nihilism, Anti-natalism, Hedonism, Pacifism / nonviolence, Bushido / honor code, Strength rules, Marxism, Traditionalism, Libertarianism, Liberalism, Anarchism, Authoritarianism, Patriotism / nationalism, Environmentalism, Transhumanism | 0 | Not present | none | No meaningful evidence found. (Buddhist ideas appear only as a temple setting in vols. 13-15, below the threshold; the former Dharmic score of 1 is retired. Authoritarianism, formerly 1, is dropped as incidental.) |
+| Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Feel-good faith, Naturalism, Duty ethics, Utilitarianism, Absurdism, Nihilism, Anti-natalism, Hedonism, Pacifism / nonviolence, Bushido / honor code, Strength rules, Marxism, Traditionalism, Libertarianism, Liberalism, Anarchism, Authoritarianism, Patriotism / nationalism, Environmentalism, Transhumanism | 0 | Not present | none | No meaningful evidence found. (Buddhist ideas appear only as a temple setting in vols. 13-15, below the threshold. Authoritarianism, formerly 1, is dropped as incidental.) |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|

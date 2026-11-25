@@ -1,21 +1,21 @@
 # Kingdom
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium for series facts, the English edition and the arc-to-chapter map; low to medium for exact scene chapters.** Series facts, the volume-to-chapter map and the Viz English release dates come from Wikipedia pages that were opened (chapter numbers on the Wikipedia list are counted from chapter titles, not printed). Arc chapter ranges come from the Kingdom fan wiki's Story Arcs page (opened; used to locate scenes only). Anime News Network's Fall 2025 Manga Guide (Viz vol. 1, rated T+) and an ANN anime review, TV Tropes, MyAnimeList, a Viz blog post with Hara's own words, a SoftBank event report quoting Hara, Business Insider Japan, a Dengeki Online 2026 character poll and Lost in Anime were also opened. No Common Sense Media, Plugged In or ScreenWise page for Kingdom was found. Items resting on general knowledge are marked "(from general knowledge; to verify)" or "likely". Names are given as Viz prints them (Chinese readings) with the Japanese reading in brackets the first time.
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium** (series facts, the creator's intent and the overall arc are well sourced; with 81 volumes and about 894 chapters, most scene-level content comes from general knowledge and is marked to verify). Built 2026-11-25 (about 20 lookups). The series is ongoing: sources reach **chapter 894** ("The Price of Negotiations," uncollected, October-November 2026; English Wikipedia's chapter list), with 81 Japanese volumes (November 18, 2026) and 13 English volumes from VIZ Media (vol. 13 on November 17, 2026). Series facts and the volume-to-chapter map come from English Wikipedia (the series article, the chapter list and the Yasuhisa Hara article, opened through the raw-text endpoint), the AniList and MangaUpdates APIs, and VIZ Media's vol. 13 product page (Teen Plus). Creator statements come from VIZ's Q&A with Hara. The fan wiki's Story Timeline page (opened through the web reader) gave the order of campaigns. Reviews opened: Anime News Network's Fall 2025 Manga Guide (Rebecca Silverman and Kevin Cormack, vol. 1), Siliconera (vol. 1) and Manga Test Drive (vol. 1); a Sixth Tone essay gives context on modern portrayals of the First Emperor. TV Tropes returned a bot check, the fan wiki's character pages could not be opened (permission request not answered), and no Common Sense Media, Plugged In or Christian review of the manga or anime was found in search. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Kingdom. Japanese: キングダム (Kingudamu) |
-| Creators | Yasuhisa Hara (story and art). Born 1975, Kiyama, Saga Prefecture; former Fujitsu systems engineer (2000-2003); worked several months as an assistant to Takehiko Inoue (Vagabond) in 2005 (Wikipedia) |
-| Origin | Shueisha's Weekly Young Jump, a seinen magazine (aimed at young adult men). Serialized since January 26, 2006; ongoing. 80 volumes in Japan as of August 19, 2026, with vol. 81 listed for November 18, 2026 (Wikipedia). About 878 collected chapters. Hara said in 2015 he planned about 100 volumes, and he plans to continue "until the unification of China" (Viz blog) |
-| English edition | **Yes, an official English print edition exists.** Viz Media licensed the manga in February 2025 and began releasing it on November 11, 2025, roughly one volume a month (vol. 13 dated November 17, 2026; vol. 16 scheduled February 16, 2027) (Wikipedia chapter list). Chapters also go on Viz's Shonen Jump digital service after each volume (Wikipedia). Viz age rating: **T+** (ANN Fall 2025 Manga Guide, opened); Viz's T+ is its "Older Teen" (16+) band (from general knowledge; to verify on the printed volume). Translation by Nathan A. Collins. Volumes: 80 (81 listed) in Japan; about 13 in English as of November 2026. Before 2025 there was no licensed English manga, only the anime |
-| Anime | Studio Pierrot (season 3 with Studio Signpost). Season 1 (38 eps., 2012-13), 2 (39 eps., 2013-14), 3 (26 eps., 2020-21), 4 (26 eps., 2022), 5 (13 eps., 2024), 6 (October to December 2025); a sequel is announced. English license: Crunchyroll (Wikipedia). US TV rating not confirmed (to verify on Crunchyroll). Five live-action films (2019, 2022, 2023, 2024, 2026), directed by Shinsuke Sato; Hara co-writes the scripts (Wikipedia) |
-| Recognition | Tezuka Osamu Cultural Prize, Grand Prize (17th, 2013). Tsutaya Comic Awards All-Time Best (2017). Over 120 million copies in circulation (January 2026). Guinness World Record (2012) for the "Social Kingdom" redraw of vol. 26. A top-10 best-selling manga in Japan in 2015-2021 (all Wikipedia). MyAnimeList manga score about 9.02, popularity #48 (opened) |
-| Other guides | Viz: T+. No Common Sense Media, Plugged In or ScreenWise page found (searched). ANN's Theron Martin (anime, episodes 1-8): not "rife with bloody violence" but "intense enough" that it "may be unsuitable for young viewers" (opened) |
+| Title | Kingdom. Japanese: キングダム (Kingudamu) (Wikipedia; AniList id 46765, confirmed) |
+| Creators | Yasuhisa Hara (story and art), born in Kiyama, Saga Prefecture; studied at Kyushu Institute of Design (BA 1998, MA 2000) hoping to direct films; worked three years as a Fujitsu systems engineer; assisted Takehiko Inoue (Slam Dunk, Vagabond) before Kingdom (Wikipedia, Yasuhisa Hara) |
+| Origin | Weekly Young Jump (Shueisha), a seinen (adult men's) magazine. Serialized from January 26, 2006; **ongoing**. 81 volumes as of November 18, 2026; ch. 890-894 not yet collected. Hara said in 2015 he planned about 100 volumes (Wikipedia) |
+| English edition | VIZ Media, VIZ Signature imprint, from November 11, 2025, also on VIZ's Shonen Jump digital service (Wikipedia). Publisher rating: **Teen Plus (T+)** (VIZ vol. 13 product page). 13 English volumes as of November 17, 2026 |
+| Anime | Six seasons, 2012-2025 (Pierrot with IKIF+ for seasons 1-2; Studio Signpost for seasons 3-6), covering roughly vols. 1-50; Crunchyroll holds English rights (Wikipedia; MangaUpdates). Live-action films from 2019 (from general knowledge; to verify) |
+| Recognition | Tezuka Osamu Cultural Prize grand prize (2013); Tsutaya Comic Awards All-Time Best (2017); first in Da Vinci's Book of the Year (2019); a Guinness record for the "Social Kingdom" redraw of vol. 26 by 1,087 people (2012). Over 130 million copies in circulation by November 2026 (Wikipedia). Database scores: AniList average 89, about 78,000 members; MangaUpdates 8.73 (Bayesian, 1,046 votes) |
+| Other guides | No Common Sense Media, Plugged In or Christian review found. MangaUpdates genres include Mature; categories include Blood and Gore, Massacre, Mass Murder/s, Violence. AniList tags: War, Gore, Body Horror, Torture, Tragedy, Nudity (low rank), Crossdressing (He Liao Diao and Qiang Lei hide that they are girls) |
 | Entry tier | From summaries |
 
-**Premise.** China, the Warring States period, about 245 BC. Xin (Shin) and Piao (Hyou) are war-orphan servant boys who train to become great generals. Piao is taken to the palace as a body double for the young king of Qin, Ying Zheng (Ei Sei), and is killed in a coup by the king's half-brother. Xin takes up Piao's will, helps Ying Zheng retake the throne, and enters the army as a foot soldier. Over decades of campaigns he rises to general, while Ying Zheng, against court rivals and the six other kingdoms, pursues a goal no king has achieved: to unify China by conquest and end five centuries of war. The story follows the historical record of the Shiji (Records of the Grand Historian) with wide creative liberties (Viz; Wikipedia). History says Qin succeeds in 221 BC; the manga has not yet reached it.
+**Premise.** In China's Warring States period (third century BC), the war orphans Xin and Piao are servants in a Qin village who train to become "great generals under heaven." Piao is taken to the palace as a body double for the young king Ying Zheng and is killed in a coup by the king's half-brother Cheng Jiao. Xin meets Zheng, helps him retake the throne with the mountain tribes under Yang Duan He (vols. 1-5), and joins the army as a foot soldier (Wikipedia; Siliconera). Zheng's goal is to unify the seven states and end five hundred years of war; Xin's is to become the greatest general. Over 80 volumes Xin rises from a hundred-man unit to general through campaigns against Wei, Zhao, Chu, a coalition of states (vols. 24-33) and Han, while Zheng defeats rivals at court: the chancellor Lu Buwei and a rebellion tied to the Queen Dowager (about vols. 34-40, to verify). Great generals die (Wang Qi in vol. 16, Huan Yi in vol. 69, per Hara), and the Qin general Huan Yi beheads tens of thousands of surrendered Zhao soldiers (fan wiki Story Timeline). Han has fallen and the latest chapters cover Qin's full invasion of Zhao (229 BC) (fan wiki Story Timeline).
 
 ## Life message
 
@@ -23,10 +23,13 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | A male status contest at national scale: young men rise in rank by feats in battle; generals win followers, glory and wives. Coalitions (the Fei Xin / Hi Shin unit) bond like kin. Romance is slow and secondary (Xin and Qiang Lei); royal reproduction and succession drive court plots (the Queen Dowager, Lao Ai's children). |
-| Pragmatic | Victory goes to strategy, logistics, morale and leadership; business readers in Japan treat the series as a management textbook (Business Insider Japan; SoftBank). Atrocity is shown to "work" in the short term (Huan Yi), and the story debates whether it is worth the cost. |
-| Religious | Thin. No god judges the war; heaven (tian) and fate are mentioned, the Shiyuu (Chiyou) clan's rites and a life-for-life ritual add a little of the supernatural (likely; to verify). Death is final and is honored by carrying the dead's will forward. |
-| Socio-cultural | A state-building epic: merit over birth, rule by law over aristocratic privilege and merchant money, loyalty to king and unit. The long human cost of war is shown but justified by the dream of a unified, peaceful China. Family appears mostly as loss (orphans, the king's abused childhood, dead parents). |
+| Evolutionary biology | Coalitions, rank and status won on the battlefield; a band of brothers (the Hi Shin unit) bound by shared danger; leaders who inspire loyalty. Orphan slaves rise by strength and courage. |
+| Pragmatic | Strategy decides wars: supply lines, morale, terrain, deception. Generals like Wang Jian and Li Mu win by calculation, and the cost in lives is counted. Ends-and-means arguments recur (Huan Yi's massacres versus Xin's refusal). |
+| Religious | No religion is argued. Chinese folk practices appear: the Shiyuu assassin clan's rites (Qiang Lei) and a ritual that brings Xin back from death (about vols. 58-59; from general knowledge; to verify). Hara first meant to write about a Chinese shaman before discovering the Shiji (VIZ Q&A). Faith readers weigh war as glory against their teaching on just war and peace. |
+| Socio-cultural | A Japanese retelling of the unification of China. Hara deliberately starts from a positive view of the First Emperor as an enlightened ruler, noting that the hostile Shiji record was written under the following dynasty (VIZ Q&A). Sixth Tone traces a similar rehabilitation in Chinese film and TV and the criticism that it can excuse a ruler's brutality. |
+
+Outlook: Hopeful, at great cost: Qin advances toward unification and Xin rises, but beloved generals and comrades die, and the story keeps the war's victims in view. The ending is not yet written.
+Hope source: P: the way through is protecting others; Zheng's war is justified as ending all war, and Xin fights for his comrades and the ordinary people. Effort and growing stronger (E) is the close second.
 
 ## Content scores
 
@@ -34,264 +37,255 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 8 | Constant | Mixed: battlefield killing is heroic; massacres and torture are condemned by the heroes | ANN Manga Guide (vol. 1): violence on "almost every page," a "remarkably grim and bloody work," though not shown in fine detail. TV Tropes: in the manga "body parts tend to go flying"; big clashes are a "bloodbath." Piao's death (ch. 1-6, v1). Battles across 80 volumes with tens of thousands of dead. Huan Yi (Kanki) massacres a village and arranges the bodies into an arch, and orders 100,000 surrendered Zhao soldiers beheaded (TV Tropes; Heiyang/Kokuyou arc ch. 438-485, v41-44, and Eikyuu arc ch. 671-701, v62-64; exact chapters to verify). His men are specialists in impalement and mutilation (TV Tropes). Qin's punishment that wipes out a traitor's family across generations is shown (TV Tropes). Decapitations and heads as trophies (likely; to verify on the page). |
-| Fear and intensity | 7 | Frequent | Shown with consequences | Assassins hunting the boy king (v1-5). Deaths of beloved generals: Wang Qi (Ou Ki) at Mayang/Bayou (ch. 108-173, v11-16; death likely v16). Siege of Sai with the capital at stake (ch. 331-349, v31-32). Huan Yi's death at Hika, "pierced by many spears" (fan wiki timeline; likely ch. 747-757, v69). |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 4 | Occasional | Neutral (affair); condemned (sexual violence) | The Queen Dowager's affair with Lao Ai (Rou Ai), their secret children and her past as a courtesan (State of Ai arc, ch. 366-437, v34-40; implied sex and some nudity likely; to verify). TV Tropes lists "Rape, Pillage and Burn" as common in the setting and as the Huan Yi army's trait; no explicit scenes are described. Xin and Qiang Lei's slow romance; MAL reviewer NotT5J says it "doesn't feel forced." Little fan service known (to verify). |
-| Language | 4 | Frequent | Neutral | Insults and battlefield threats (from general knowledge). Viz's English text not checked (to verify). |
-| Substances | 2 | Occasional | Neutral | Victory feasts and drinking (from general knowledge; to verify). |
-| Mental health and self-harm | 4 | Occasional | Shown with consequences | Ying Zheng's abused childhood as a hostage in Zhao and Zi Xia's (Shi Ka) death saving him (Escape from Zhao arc, ch. 74-81, v7-8); Xin's grief over Piao; Huan Yi's rage from childhood abuse and the death of his lover (TV Tropes). Grief is answered by duty, not treatment. |
-| Imitable behavior | 3 | Occasional | Neutral | Shouted battle cries, "greatest general under heaven" ambition; little to imitate beyond weapon play. Adults imitate it too: business leaders cite it as a leadership manual (SoftBank; Business Insider Japan). |
-| Commercial | 4 | Outside the book | Neutral | Six anime seasons, five live-action films, games, and Japanese leadership/business tie-in books (a "Kingdom" leadership title listed in search, not opened). No product placement known. |
+| Violence | 8 | Constant | Mixed: battlefield killing is heroic; massacres and torture are condemned by the heroes | ANN's Rebecca Silverman calls vol. 1 "a remarkably grim and bloody work," with violence on nearly every page but little lingering detail. Piao dies of wounds (ch. 1); battles with mass killing in every arc. Wang Qi is killed at Bayou (vol. 16, VIZ Q&A). Qin troops slaughter civilians at Kokuyou, and Huan Yi beheads tens of thousands of surrendered Zhao soldiers (fan wiki Story Timeline; about vols. 42-45 and 60-64, to verify). Refugees are driven into Gyou to starve it (vol. 48 title, "Refugees of the Small Cities"; to verify). Torture and executions (AniList tags Torture, Gore). Zheng was beaten and hunted as a child hostage in Zhao (vol. 8, "The Past"; to verify). |
+| Fear and intensity | 7 | Frequent | Shown with consequences | Sieges, ambushes, assassins (vols. 8-10), deaths of mentors and friends; Body Horror tag (AniList); Massacre and Mass Murder/s categories (MangaUpdates). |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 4 | Occasional | Neutral (affair); condemned (sexual violence) | The Queen Dowager's past with Lu Buwei and her affair with the false eunuch Lao Ai, which produces children and a rebellion (about vols. 34-40; from general knowledge; to verify how much is shown). Zheng has a child with the servant Xiang (Wikipedia). Hints of feeling for Xin from He Liao Diao and Qiang Lei, both of whom first hide that they are girls (Wikipedia). Threats of sexual violence against women in conquered towns, which Xin's unit forbids (from general knowledge; to verify). AniList tags Nudity at low rank; a bathing or nude scene involving a female character may occur (to verify). |
+| Language | 4 | Frequent | Neutral | Soldiers' insults and crude speech; VIZ T+ text (from general knowledge; to verify). |
+| Substances | 2 | Occasional | Neutral | Drinking at camps and victory feasts (from general knowledge; to verify). |
+| Mental health and self-harm | 4 | Occasional | Shown with consequences | Zheng's childhood trauma in Zhao and the death of the woman who freed him (vol. 8; to verify); Qiang Lei's revenge for her sister (Wikipedia); grief for fallen comrades; soldiers broken by massacres. |
+| Imitable behavior | 3 | Occasional | Neutral | Reckless charges and duels; the ambition to be "the greatest" as a life goal. |
+| Commercial | 4 | Outside the book | Neutral | Six anime seasons, live-action films, games, a large merchandise line (Wikipedia). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Authority is central: loyalty to a just king, obedience in the ranks, merit-based promotion. Biological family is mostly absent or broken (orphans; the king's mother plots against him), and the army unit becomes the family. The king spares his mother's children by Lao Ai, against the historical record (TV Tropes; Lost in Anime). |
-| Religion and spirituality | Incidental | Heaven and fate in speech; the Shiyuu clan's rites; shamans and mountain tribes. No faith is mocked or promoted. |
-| Gender and identity (incl. LGBTQ) | Recurring | Women fight and command: Qiang Lei, the mountain queen Yang Duanhe, Diao (Ka Ryo Ten) as strategist; TV Tropes notes Yang Duanhe and Qiang Lei were men in history (a gender flip). Queen Dowager as a powerful, compromised figure. No LGBTQ content known (to verify). |
-| Politics and social issues | Central | Unification by conquest, rule by law (Legalism) versus rule by wealth and aristocracy, the ethics of killing prisoners, the cost of war. A MAL reviewer argues the manga "launders" the First Emperor's image; Hara says he drew Ying Zheng "in the mold of an enlightened ruler" (Viz blog). |
+| Family and authority | Central | Loyalty to the king and to one's general is the spine of the story; Zheng's mother, the Queen Dowager, is an opponent at court (about vols. 18 and 34-40, to verify). Xin and Piao are orphans who make a brotherhood; the Hi Shin unit becomes Xin's family. |
+| Religion and spirituality | Incidental | Shiyuu clan rites; a ritual life-for-life revival (to verify); oaths and ancestral honor. |
+| Gender and identity (incl. LGBTQ) | Recurring | Women warriors and leaders: Yang Duan He, Qiang Lei, He Liao Diao as strategist, female generals; two girls hide their sex to fight (Wikipedia). No LGBTQ storylines found in sources opened. |
+| Politics and social issues | Central | Unification, legitimacy, court intrigue, slavery and rising from it, the treatment of prisoners and civilians in war, rule by law versus rule by birth (Zheng and Li Si; to verify). |
 
-**Virtues shown:** courage, loyalty, perseverance, keeping promises to the dead, comradeship, leadership by example, mercy to civilians and prisoners (Xin and Ying Zheng), self-sacrifice, ambition harnessed to a shared cause, justice under law, respect for worthy enemies.
+**Virtues shown:** courage, loyalty, perseverance, keeping one's word, protecting the weak, mercy toward prisoners and civilians (by the heroes), leadership, sacrifice for comrades, rising through merit.
 
 ## Family frames
 
-Each row describes how that tradition's own sources would usually read the series. These are each tradition's views, not the site's. **Grade** measures message fit only, judged by the tradition's teaching on art and media (does the work endorse or merely depict; is evil framed as evil; are there consequences; is repentance, redemption or justice possible; how is the sacred treated). It is never lowered by intensity alone. **Depiction concern** is how the tradition views the explicitness itself. The guides in /mnt/project-files/frame-guides/ are drafts from general knowledge; rows inherit that status.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a war epic whose heroes fight to unify China and end all war; battlefield killing shown as heroic, while massacres of prisoners and civilians and torture are shown and condemned by the heroes; loyalty to a benevolent absolute king; two orphan slaves who rise by merit; an affair and rebellion at court involving the Queen Dowager (to verify); Chinese folk rites and a ritual revival (to verify); constant gore. No sexual content involving minors was found in sources opened.
 
-Message summary used for grading: the series presents a war of conquest as the road to lasting peace and celebrates the courage, loyalty and rise of a soldier who kills many in battle. Atrocities against prisoners and civilians are condemned by the hero and the king and carry consequences (Huan Yi is warned, later dies), yet the atrocity-committing general is the most popular character in a 2026 poll. Rule by law and a belief in human goodness are the king's creed; merchant power and aristocratic privilege lose. Religion is nearly absent. There is no repentance arc for the war itself.
-
-| Frame | Grade (S to F) | Depiction concern | What aligns | What may concern | Talking points (from the tradition's own sources) |
+| Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Significant | Just-war questions are live: protecting noncombatants and sparing prisoners are upheld by the heroes (CCC 2313); loyalty, sacrifice, a ruler who seeks the common good. | Conquest is the stated goal, which just-war teaching does not accept as a just cause (CCC 2309); war glory can be made attractive (Inter Mirifica 7); constant bloodshed. | Does "war to end all war" meet the conditions of CCC 2309? What would Augustine's City of God say about Ying Zheng's peace? |
-| Eastern Orthodox | B | Significant | Self-sacrifice for others; mercy to the defeated; courage. | Guarding the senses (nepsis) against 80 volumes of killing; the church's canons historically asked penance of soldiers who killed (St. Basil, Canon 13). | Why did the early church ask returning soldiers to do penance? Does Kingdom ever count the cost of killing for the killer? |
-| Baptist | B | Significant | Clear villains; courage, loyalty and keeping one's word; Romans 13 order under a ruler. | Phil 4:8 test against constant gore; pride and ambition ("greatest general under heaven") celebrated; no God in the moral world. | Is Xin's ambition godly ambition or pride (James 4:6)? What does Romans 13 say a just ruler must do? |
-| Non-denominational Evangelical | B | Discuss | Many evangelical readers can distinguish depicting war from endorsing atrocity; heroes protect the weak and spare prisoners. | Glory-seeking as the hero's life goal; violence volume; peace made by human empire, not God. | Compare Ying Zheng's kingdom to the kingdom of God (John 18:36). Can peace come from conquest? |
-| Pentecostal / Charismatic | B | Significant | Little occult content; courage and perseverance. | The Shiyuu clan's rites and a life-for-life ritual (likely v58-59; to verify) may weigh more for families wary of spiritual "open doors"; heavy violence. | What do the Shiyuu rites claim to do, and what does Scripture say about such power? |
-| Reformed / Presbyterian | B | Significant | Total depravity shown plainly (Huan Yi, court intrigue); providence-like history; the magistrate's sword (WCF 23). | The king's faith in human goodness ("light") runs against Reformed anthropology; glory without God; WLC Q139 concern on lascivious images (Queen Dowager scenes). | Is human nature good or bad? Compare Ying Zheng's view with Romans 3 and with Han Feizi's. |
-| Lutheran | B | Discuss | Luther's "Whether Soldiers, Too, Can Be Saved" (1526) allows the soldier's vocation; order under law; Xin's duty as vocation. | Wars of conquest fall outside Luther's defense of soldiers; violence level is a conscience matter. | Is Xin's war one Luther would call just? What does vocation mean for a soldier? |
-| Methodist / Wesleyan | B | Discuss | Concern for the poor and the ordinary soldier; merit over birth; Xin rises from servitude. | Holiness churches may weigh the war-glory against Wesley's General Rules; the UMC Social Principles reject war as an instrument of policy. | The UMC says war is incompatible with Christ's teaching. How would Wesley read the Fei Xin unit? |
-| Anglican / Episcopal | B | Discuss | An epic in the line of historical novels; just-war tradition (Article 37 permits Christians to serve in wars). | War of conquest glorified; little interior moral cost. | Article 37 allows serving "in the wars": does that include Qin's? Compare with Henry V's speeches. |
-| Anabaptist (Mennonite, Amish, Brethren) | D | Significant | Mercy to prisoners; criticism of cruelty; the cost of war is visible. | Violence is the hero's path to honor and the story's means to peace; this is the core conflict with nonresistance (Schleitheim Art. 6). | Can peace be built by the sword? Compare Ying Zheng with Matthew 26:52 and the Martyrs Mirror. |
-| Latter-day Saint | B | Significant | Moroni-like defense of the people; loyalty, courage, rising through righteous effort. | For the Strength of Youth: entertainment that invites the Spirit; constant killing; conquest as goal (contrast D&C 98:16, "renounce war and proclaim peace"). | Compare Captain Moroni's defensive war (Alma 43-48) with Qin's war of conquest. |
-| Mainline progressive Protestant | C | Discuss | Merit over birth; women commanders; concern for prisoners and civilians. | Empire-building and authoritarian unity presented as the hope of history; questions about rehabilitating a famous tyrant (MAL review). | Who pays for unification? Read the story from the side of the conquered states. |
-| Seventh-day Adventist | C | Significant | Courage; protection of the weak. | "By beholding we become changed": prolonged battlefield killing; Adventist noncombatancy contrasts with the hero's calling. | Which scenes could a family read together, and which skip? What would a noncombatant medic's story look like here? |
-| Jehovah's Witness | D | Significant | Corrupt human rulers and court intrigue exposed. | Violent entertainment is discouraged (Psalm 11:5); the story celebrates a human government's war and political loyalty, which Witnesses avoid. | Can any human kingdom bring lasting peace (Daniel 2:44)? Compare Isaiah 2:4. |
-| Christian Science | C | Significant | Unity and order sought; fear faced with courage. | Long dwelling on killing and death; "Stand porter at the door of thought" (Science and Health 392). | What thoughts does a battle chapter leave you with? What does lasting peace require inwardly? |
-| Orthodox Jewish | B | Significant | Mercy to captives and noncombatants echoes rules of war (Deut. 20:10, 20:19); justice under law; honoring the dead. | Glorified bloodshed; immodest Queen Dowager scenes (tzniut); time on secular media. | Compare the Torah's laws of war with Huan Yi's methods. When is a war a milchemet reshut (discretionary war)? |
-| Conservative Jewish | B | Discuss | Law as the basis of a just society; dignity of prisoners. | Conquest as ideal; heavy violence. | Can law make a society just, as Li Si (Ri Shi) argues? Compare with "Justice, justice you shall pursue" (Deut. 16:20). |
-| Reform Jewish | C | Discuss | Tikkun olam in the dream of ending war; merit over birth. | Peace by conquest; a tyrant's image softened; human cost borne by the conquered. | Is a peace imposed by conquest a repaired world? |
-| Muslim | B | Significant | Islamic rules of war forbid killing prisoners, women, children and noncombatants (hadith of Abu Bakr's instructions), matching Xin and Ying Zheng's stance; justice and loyalty. | Wars of expansion for glory; the Queen Dowager's affair and some nudity (lowering the gaze, 24:30-31); drinking. | Compare Abu Bakr's ten instructions to armies with Huan Yi's conduct. When is fighting just (2:190)? |
-| Hindu | A | Discuss | Kshatriya dharma: the warrior's duty to fight for a righteous king (Gita 2:31-33); loyalty, courage, a dharmic ruler; adharmic cruelty (Huan Yi) condemned. | Tamasic gore; the desire for personal glory over detached action (Gita 2:47). | Is Xin fighting for duty or for fame? Compare him with Arjuna and Karna. |
-| Buddhist | C | Discuss | Compassion for prisoners; the suffering of war shown; impermanence of generals and kingdoms. | The first precept (non-harm); peace through killing is not the Buddhist path. | King Ashoka conquered, then renounced conquest after Kalinga (Rock Edict 13). What would Ying Zheng's Kalinga moment be? |
-| Sikh | B | Discuss | The saint-soldier (sant-sipahi) ideal of fighting to protect the weak; equality of rank by merit. | Fighting for conquest and glory differs from fighting against oppression (Zafarnama: the sword is lawful only when all other means fail); ego and anger (Huan Yi) shown at length. | When is the sword lawful, per Guru Gobind Singh? Does Qin meet that test? |
-| Bahá'í | C | Discuss | The unity of a fragmented world and an end to war as the goal. | Unity by conquest conflicts with Bahá'í teaching of unity through consultation and collective security; violence against a "chaste and holy life." | Compare Ying Zheng's unification with the Bahá'í vision of world unity. What differs in the means? |
-| Shinto | B | Discuss | Sincerity (makoto), loyalty and honoring the dead; a Japanese retelling of Chinese history. | Blood and death (kegare) throughout; no kami or shrines. | How does the story honor the dead? What does purification after war look like? |
-| Wiccan / Pagan | B | Discuss | Mountain tribes and the Shiyuu clan shown with respect; strong women; honor among warriors. | "Harm none" contrasts with the war ethic. | Are the mountain peoples shown fairly? How does Yang Duanhe's queenship compare to Qin's? |
-| Scientologist | B | Discuss | Leadership, purpose and survival; The Way to Happiness ("Do not murder"; "Support a government designed and run for all the people"). | Killing as heroic; little treatment of trauma. | Which Way to Happiness precepts does Ying Zheng's state keep? |
-| Secular progressive | C | Discuss | Women generals and strategists; meritocracy against hereditary privilege; prisoners' rights. | Rehabilitates an autocrat and frames conquest as progress; critics see war glorified and the image of the First Emperor "laundered" (MAL review); gender flips of historical men may read as tokenism or as welcome. | Should a story make a conqueror into a hero? Who is missing from the story of unification? |
-| Secular humanist | B | Discuss | Human reason, law and merit build order; the king's faith in human "light"; no supernatural rescue. | Cruelty on a large scale; ends-justify-means reasoning for 15 years of war. | Can good ends justify a war? Is Ying Zheng's belief in human goodness supported by what the story shows? |
-| Conservative / traditional | A | Discuss | Duty, loyalty, courage, hierarchy earned by merit, law and order, honoring the fallen; respect for worthy enemies. | Violence level; a revolutionary centralizing state that ends old aristocracies is not a traditional ideal; little family or faith. | What makes a great leader? Compare Ying Zheng with Washington or Lincoln on the cost of union. |
-| Unitarian Universalist | C | Discuss | Dignity of prisoners; a dream of world peace. | Peace imposed by conquest; authoritarian unity. | Which UU principles does unification serve, and which does it violate (the democratic process)? |
-| Satanist | B | Minor | Self-made rise from slavery; challenge to aristocratic authority; strength and ambition (Satanic Bible); harm to children condemned by the heroes. | Absolute monarchy and loyalty to a king; the Satanic Temple's Tenets on compassion and bodily autonomy vs. massacres. | Is Xin's rise individual self-assertion or service to a king? Is Huan Yi a rebel or a tyrant? |
+| Catholic | B | Significant | Just-war questions are live: protecting noncombatants and sparing prisoners are upheld by the heroes (CCC 2313); loyalty, sacrifice, a ruler who seeks peace. | Conquest is the stated goal, which just-war teaching does not accept as a just cause (CCC 2309); war glory can be made attractive (Inter Mirifica 7); the court affair. | CCC 2309 and 2313: which of Qin's wars could pass the just-war test, and which acts never could? |
+| Eastern Orthodox | B | Significant | Self-sacrifice for others; mercy to the defeated; courage. | Guarding the senses (nepsis) against 80 volumes of killing; the Church historically asked penance of soldiers who killed (St. Basil, Canon 13). | St. Basil on soldiers and killing. (from general knowledge; to verify) |
+| Baptist | B | Significant | Clear villains; courage, loyalty and keeping one's word; order under a ruler (Romans 13). | The Philippians 4:8 test against constant gore; pride and ambition ("greatest general under heaven") celebrated; no God in the moral world. | Ambition: is wanting to be "the greatest" a virtue or pride (Mark 10:43-44)? |
+| Non-denominational Evangelical | B | Discuss | Many evangelical readers distinguish depicting war from endorsing atrocity; the heroes protect the weak and spare prisoners. | Glory-seeking as the hero's life goal; violence volume; peace made by human empire, not God. | Isaiah 2:4 and the hope of peace beside Zheng's dream. |
+| Pentecostal / Charismatic | B | Significant | Little occult content; courage and perseverance. | The Shiyuu clan's rites and a life-for-life ritual (about vols. 58-59; to verify) may weigh for families wary of spiritual "open doors"; heavy violence. | Where does true strength come from (Zechariah 4:6)? (from general knowledge; to verify) |
+| Reformed / Presbyterian | B | Significant | Depravity shown plainly (Huan Yi, court intrigue); providence-like history; the magistrate's sword (WCF 23). | The king's faith in human goodness runs against Reformed anthropology; glory without God; WLC Q139 on lascivious images (the Queen Dowager scenes; to verify). | WCF 23 on the civil magistrate beside Zheng's rule. |
+| Lutheran | B | Discuss | Luther's Whether Soldiers, Too, Can Be Saved (1526) allows the soldier's vocation; order under law; Xin's duty as vocation. | Wars of conquest fall outside Luther's defense of soldiers; the violence level is a conscience matter. | Luther on the soldier's vocation beside Xin's. |
+| Methodist / Wesleyan | B | Discuss | Concern for the poor and the ordinary soldier; merit over birth; Xin rises from servitude. | Holiness churches may weigh war-glory against Wesley's General Rules; the UMC Social Principles reject war as an instrument of policy. | Who pays for a war of unification? |
+| Anglican / Episcopal | B | Discuss | An epic in the line of historical novels; just-war tradition (Article 37 permits Christians to serve in wars). | War of conquest glorified; little interior moral cost. | Article 37 and the limits of lawful war. |
+| Anabaptist (Mennonite, Amish, Brethren) | D | Significant | Mercy to prisoners; criticism of cruelty; the cost of war is visible. | Violence is the hero's path to honor and the story's means to peace; this is the core conflict with nonresistance (Schleitheim Art. 6). | Can war end war? Schleitheim Article 6 beside Zheng's dream. |
+| Latter-day Saint | B | Significant | Moroni-like defense of the people; loyalty, courage, rising through righteous effort. | For the Strength of Youth on entertainment; constant killing; conquest as goal (contrast D&C 98:16, renounce war and proclaim peace). | Captain Moroni fought only in defense (Alma 43:45-47). Is Qin defending? |
+| Mainline progressive Protestant | C | Discuss | Merit over birth; women commanders; concern for prisoners and civilians. | Empire-building and authoritarian unity presented as the hope of history; questions about rehabilitating a famous tyrant (Sixth Tone on similar portrayals). | Whose stories are left out of a story of unification? |
+| Seventh-day Adventist | C | Significant | Courage; protection of the weak. | "By beholding we become changed": prolonged battlefield killing; Adventist noncombatancy contrasts with the hero's calling. | Adventist noncombatancy beside Xin's calling. (from general knowledge; to verify) |
+| Jehovah's Witness | D | Significant | Corrupt human rulers and court intrigue exposed. | Violent entertainment discouraged (Psalm 11:5); the story celebrates a human government's war and political loyalty, which Witnesses avoid. | Can any human kingdom bring lasting peace? (from general knowledge; to verify) |
+| Christian Science | C | Significant | Unity and order sought; fear faced with courage. | Long dwelling on killing and death; "Stand porter at the door of thought" (Science and Health 392). | What thoughts does a long war story keep in front of us? |
+| Orthodox Jewish | B | Significant | Mercy to captives and noncombatants echoes the Torah's rules of war (Deuteronomy 20:10, 20:19); justice under law; honoring the dead. | Glorified bloodshed; the Queen Dowager scenes (tzniut; to verify); time on secular media. | Deuteronomy 20:10, offer peace before war, beside Qin's campaigns. |
+| Conservative Jewish | B | Discuss | Law as the basis of a just society; dignity of prisoners. | Conquest as ideal; heavy violence. | Rule of law versus the king's will. (from general knowledge; to verify) |
+| Reform Jewish | C | Discuss | Tikkun olam in the dream of ending war; merit over birth. | Peace by conquest; a tyrant's image softened; the human cost borne by the conquered. | "Nation shall not lift up sword against nation" (Isaiah 2:4): by what road? |
+| Muslim | B | Significant | Islamic rules of war forbid killing prisoners, women, children and noncombatants (the instructions attributed to Abu Bakr), matching Xin's and Zheng's stance against massacre. | Wars of expansion for glory; the court affair and some nudity (lowering the gaze, 24:30-31; to verify); drinking. | Abu Bakr's rules of war beside Huan Yi's massacres. |
+| Hindu | A | Discuss | Kshatriya dharma: the warrior's duty to fight for a righteous king (Gita 2:31-33); loyalty, courage, a dharmic ruler; adharmic cruelty (Huan Yi) condemned. | Tamasic gore; desire for personal glory over action without attachment to results (Gita 2:47). | Gita 2:47: can Xin fight without craving glory? |
+| Buddhist | C | Discuss | Compassion for prisoners; the suffering of war shown; the impermanence of generals and kingdoms. | The first precept (non-harm); peace through killing is not the Buddhist path. | Ashoka turned from conquest after a bloody war. What would Zheng learn from him? (from general knowledge; to verify) |
+| Sikh | B | Discuss | The saint-soldier (sant-sipahi) ideal of fighting to protect the weak; rank earned by merit. | Fighting for conquest and glory differs from fighting against oppression (Zafarnama: the sword is lawful only when all other means fail); ego and anger. | Zafarnama on when the sword is lawful. |
+| Bahá'í | C | Discuss | The unity of a fragmented world and an end to war as the goal. | Unity by conquest conflicts with Bahá'í teaching of unity through consultation and collective security; violence. | Unity by consultation versus unity by conquest. |
+| Shinto | B | Discuss | Sincerity (makoto), loyalty and honoring the dead; a Japanese retelling of Chinese history. | Blood and death (kegare) throughout; no kami or shrines. | How do the characters honor the fallen? |
+| Wiccan / Pagan | B | Discuss | Mountain tribes and the Shiyuu clan shown with respect; strong women; honor among warriors. | "Harm none" contrasts with the war ethic. | Yang Duan He's mountain peoples and the city's view of them. |
+| Scientologist | B | Discuss | Leadership, purpose and survival; The Way to Happiness on supporting a government run for all the people. | Killing as heroic ("Do not murder"); little treatment of trauma. | Which precepts do the generals keep or break? |
+| Secular progressive | C | Discuss | Women generals and strategists; merit against hereditary privilege; prisoners' rights. | Rehabilitates an autocrat and frames conquest as progress; critics of similar portrayals say they can launder the First Emperor's image (Sixth Tone). | Hara says the old record was written by the dynasty that replaced Qin. How do victors shape history? |
+| Secular humanist | B | Discuss | Human reason, law and merit build order; the king's faith in human goodness; no supernatural rescue. | Cruelty on a large scale; ends-justify-means reasoning for years of war. | Is ending all war worth any price? Who decides? |
+| Conservative / traditional | A | Discuss | Duty, loyalty, courage, hierarchy earned by merit, law and order, honoring the fallen; respect for worthy enemies. | The violence level; a revolutionary, centralizing state that ends old aristocracies is not a traditional ideal; little family or faith. | What makes Wang Qi a great leader? |
+| Unitarian Universalist | C | Discuss | Dignity of prisoners; a dream of world peace. | Peace imposed by conquest; authoritarian unity. | World community with peace and justice: by what means? |
+| Satanist | B | Minor | A self-made rise from slavery; challenge to aristocratic authority; strength and ambition. | Absolute monarchy and loyalty to a king; the Satanic Temple's Tenets on compassion against the massacres. | Is Xin's ambition self-interest or service? (from general knowledge; to verify) |
+| Historically Black Protestant | B | Significant | Two enslaved orphans rise to freedom and leadership; protecting the weak; standing against massacre and cruelty; loyalty and endurance through loss. | Glory-seeking and conquest as the hero's path; constant gore; no God in the story's moral world; the court affair (to verify). | "Proclaim liberty to the captives" (Luke 4:18) beside Xin and Piao's escape from servitude; then ask what Qin does with its own captives. |
+| Atheist | B | Discuss | Order built by human law, reason and merit; no supernatural rescue; cruelty condemned by the heroes. | War presented as the necessary road to peace; loyalty to a king who is close to unquestioned. | Is there a good argument that a war can end all war? |
+| Agnostic | B | Discuss | Many worldviews given a fair voice (Lu Buwei's commerce, Li Mu's defense of Zhao, Pang Nuan's path-seeking; VIZ Q&A); open questions about history's judgment. | A charismatic king whose cause is rarely questioned by the heroes; the war's glory. | Hara says the history was written by Qin's successors. How sure can we be about the past? |
+| Nothing in particular | B | Discuss | Loyalty to friends, rising from nothing, fairness, karma-like downfalls for the cruel, honoring the dead. | The violence; cruelty on a large scale even when condemned. | Xin wanted to be the greatest general for himself and for Piao. What are you working toward, and for whom? |
+
+**Where traditions disagree.** Nearly every frame honors the courage, loyalty and the heroes' refusal to massacre prisoners and civilians. The divide is war itself. Peace churches (Anabaptist) and Jehovah's Witnesses grade it D because violence is the road to peace and glory; Buddhist, Bahá'í, Unitarian, Reform Jewish, Mainline and Secular progressive readings grade it C because peace is imposed by conquest and an autocrat is softened. Most Christian, Jewish, Muslim and Sikh frames read it through just-war limits (B); Hindu kshatriya dharma and Conservative / traditional frames read its warrior virtues most warmly (A).
 
 ## Winners, losers and sympathy
 
-The king and his soldiers who fight for unification with discipline and mercy keep winning; those who rule by money, privilege, cruelty or defense of the old order fall, though some of the defeated are given real dignity.
+Those who fight with loyalty and restraint rise; those who seize power by intrigue or slaughter fall, though great enemy generals are honored even in defeat.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Xin (Shin) | Rise from nothing by courage; loyalty to Piao's will and the king; mercy to civilians | Rises from servant to general (ch. 642, TV Tropes); alive in the latest volumes | The heart of the story; admired without reservation |
-| Ying Zheng (Ei Sei) | Unification to end war; rule by law; belief in human goodness | Wins every court struggle; conquest of Han reached in recent volumes (fan wiki timeline, 230 BC) | Sympathetic, idealized: Hara's "enlightened ruler" (Viz blog); one ANN reviewer notes hints of the historical ruthlessness |
-| Lü Buwei (Ryo Fui) | Rule by wealth and commerce; a stable world of trade without unification | Loses the coup and the debate (v39-40); fate set for trial (Lost in Anime) | Villain who earns respect; the debate ends in a stalemate that "struck" him (TV Tropes) |
-| Wang Qi (Ou Ki) | The great general's joy in war and his duty to the king | Dies at Mayang, passing his glaive to Xin (v16; fan wiki) | Beloved mentor; his death is the series' first great tragedy |
-| Huan Yi (Kanki) | War as revenge on a world that looks down on the weak; atrocity as tactic | Warned with death by the king after the 100,000 beheadings; killed at Hika (likely v69) | Condemned in deeds, humanized in backstory; the 2026 Dengeki poll's #1 character |
-| Li Mu (Ri Boku) | Defense of Zhao; peace among the states without one ruler | Defeated in battles that history says he won (TV Tropes); still fighting | A worthy, often sympathetic rival |
-| Lao Ai and the Queen Dowager | Private love and a breakaway state | Lao Ai's rebellion crushed; his children spared and sent with their mother (Lost in Anime) | Pitied; the king's mercy departs from history |
-| Prince Chengjiao (Seikyou) | Aristocratic birthright | First villain; later grows honorable and dies at Lü Buwei's hands (TV Tropes) | Redeemed in part |
+| Xin | Rise from nothing by courage; protect comrades | From servant to general (Wikipedia); survives death once by a ritual (to verify) | Endorsed |
+| Ying Zheng | Unify the states to end war; rule by law | Retakes the throne (vols. 1-5), outlasts Lu Buwei and the Queen Dowager's faction (to verify) | Endorsed |
+| Lu Buwei | Power through money and patronage | Loses his struggle with Zheng (about vol. 40; to verify) | Fair |
+| Cheng Jiao | Rule by birth and contempt for commoners | Coup defeated (vols. 1-5) | Condemned, later partly redeemed (to verify) |
+| Wang Qi | The great general's code | Killed at Bayou, passing his glaive to Xin (vol. 16; Wikipedia) | Honored |
+| Huan Yi | Victory by any means, including massacre | Beheads surrendered prisoners; killed in battle (vol. 69, per Hara) | Mixed: effective, condemned for cruelty |
+| Li Mu | Defense of Zhao by strategy | Qin's greatest opponent, still undefeated (Wikipedia) | Fair, admired |
+| Pang Nuan | Strength for its own sake (the path-seeker) | Defeated; Hara says he had to lose because war has not ended (VIZ Q&A) | Critiqued with respect |
 
-**Fan favorites versus the official moral.** Dengeki Online's 2026 reader ranking (August 8-23, 2026; published September 30, 2026; opened) put Huan Yi (Kanki), the general who massacres prisoners, at **#1** for the first time (he was #2 in 2025), ahead of Meng Tian (Mou Ten), Teng (Tou), Qiang Lei and Wang Qi; Xin is #6 and Ying Zheng #14. Sample size was not given. Business readers praise the series as a leadership manual: one Business Insider Japan panel (2018, opened) discusses Huan Yi's "brutal but effective methods" as a dilemma about sacrificing for results. The gap between the story's condemnation of atrocity and its most-loved character is a natural family talking point.
+**Fan favorites versus the official moral.** Fans and story largely agree, and enthusiasm is high (AniList 89; Da Vinci Book of the Year, 2019). English-language fans campaigned for years for a translation, which Hara says he was waiting for too (VIZ Q&A). Fans admire morally mixed generals such as Huan Yi more than the story's official moral would suggest. One early English reviewer found Xin's constant shouting and the art off-putting (Manga Test Drive), and both ANN reviewers found vol. 1 grim.
 
 ## Message delivery
 - Style: Explicit
 - Preachiness: 5
 - Opposing views: Mixed
-- Evidence: MAL reviewers note chapters are often "mostly speeches"; one says the series "launders" the First Emperor's image; Lü Buwei and Li Mu get serious hearings.
-- Note: Ying Zheng states the unification ideal in set-piece speeches and debates, while rivals like Lü Buwei and Li Mu are argued with rather than mocked.
+- Evidence: Zheng states his dream of unifying to end war, and Hara says he chose to portray him as an enlightened ruler (VIZ Q&A). Enemy generals like Li Mu and Pang Nuan are given their own philosophies; Lu Buwei is a strong opponent.
+- Note: The story argues openly for unification through speeches and the hero's rise, while keeping many sides sympathetic.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
-| Ying Zheng | Unification by conquest and rule by law to end war | Hero | Sympathetic |
-| Lü Buwei | Rule by wealth and commerce | Villain | Fair |
-| Li Mu | Coexistence of the states; defense of Zhao | Foil | Fair |
-| Huan Yi | Rage against the powerful; atrocity as method | Other | Mixed |
+| Ying Zheng | Unification to end war; a ruler of law | Hero | Sympathetic |
+| Lu Buwei | Power through commerce and patronage | Villain | Fair |
+| Li Mu | Defense of one's own state | Foil | Fair |
+| Huan Yi | Victory by any means | Other | Mixed |
 
 ## Creator and publisher context
 
-- **Yasuhisa Hara** (b. 1975, Saga Prefecture). Wanted to be a film director; chose manga to direct, write and draw himself. Fujitsu systems engineer 2000-2003, which he says was crucial to developing Kingdom. Assistant to Takehiko Inoue in 2005; Inoue told him his protagonist's eyes were too small, and he revised his style (Wikipedia). Co-writes the live-action film scripts.
-- **On-record intent (Viz blog, "Rise of the Empire," opened):** "I'm going to try to make a long-form manga around the theme of war." He found the Shiji while researching Chinese folk religions. His method: start from a recorded death and build the most dramatic story leading to it. On the king: "I started the story with Ying Zheng in the mold of an enlightened ruler," noting the view of him as a wise ruler is "becoming more mainstream." He first planned Ying Zheng as protagonist but switched to Xin so the battles would not feel fictional. On a defeated philosophy-warrior: "since warfare hasn't ended, Pang Nuan must inevitably lose." He plans to continue "until the unification of China."
-- **SoftBank fireside chat with Masayoshi Son (January 15, 2020; report February 19, 2020; opened):** Hara: "I think the true challenge comes after conquering the world," and "I believe the Han dynasty was able to last 400 years because people felt happy." Son praised Ying Zheng's leadership and merit system.
-- **Religion and politics:** no on-record statement about his own religion or politics was found. Personal-life news is outside the scope of this entry.
-- **Publisher:** Shueisha (Hitotsubashi Group; from general knowledge). English: Viz Media (part-owned by Shueisha and Shogakukan; from general knowledge; to verify).
-- **Controversies:** none involving the work's publication found in sources opened. The main debate is interpretive: whether the series glorifies war and rehabilitates an autocrat (see How readers took it).
+- Yasuhisa Hara, born in Kiyama, Saga Prefecture, studied design (BA 1998, MA 2000) hoping to become a film director, won manga newcomer prizes, worked as a Fujitsu systems engineer (2000-2003), where he learned how teams work and was protected by his seniors, then assisted Takehiko Inoue; he became Kiyama's first ambassador (Wikipedia).
+- On-record intent (VIZ Q&A): he loved historical war films and wanted to make a long manga on the theme of war; his research into Chinese folk religion led him to the Shiji; he chose Li Xin as a protagonist who could go to the battlefields in the First Emperor's place; he works backward from recorded deaths to build drama.
+- On the First Emperor (VIZ Q&A): the hostile account was written under the Han dynasty that followed Qin and should be checked against other records; he began with Ying Zheng as an enlightened ruler, a view he says scholarship increasingly supports.
+- He names Wang Qi's death (vol. 16) and Huan Yi's death (vol. 69) as the hardest to write, and explains Pang Nuan's path-seekers as trying to end war by hastening human evolution, so they had to fail (VIZ Q&A).
+- No statements on religion or modern politics were found. No controversies involving the creator were found.
+- Publisher: Shueisha (Weekly Young Jump, seinen). VIZ Media publishes the English edition under VIZ Signature, rated Teen Plus.
 
 ## Worldview lenses
 
-Dominant lenses: Collectivism/authoritarianism (affirmed in a benevolent form), Classical virtue ethics (affirmed), Might makes right (explored and partly affirmed), Utilitarianism, Confucian ethics (explored). Legalism, the Qin state philosophy Ying Zheng and Li Si stand for, is not on the list; it is carried by the Collectivism/authoritarianism and Pragmatism rows (my own framing).
+Dominant lenses: Patriotism / nationalism (unification), Classical virtue ethics, Authoritarianism (benevolent form), Bushido / honor code, Strength rules (explored), Utilitarianism.
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Collectivism/authoritarianism | 8 | Affirmed | A | The hope of history is one centralized state under a just king and uniform law (Legalism). Ying Zheng's will overrides court opposition; dissenting states are conquered. Hara's "enlightened ruler" (Viz blog). Softened by mercy and the king's faith in people. My label for a benevolent version. |
-| Classical virtue ethics | 7 | Affirmed | A | Courage, loyalty, practical wisdom of generals, magnanimity to worthy enemies; leadership by example (Business Insider Japan panel). |
-| Might makes right | 7 | Explored | C | Strength decides history and the stronger state wins; but Huan Yi's terror is condemned, and victory is justified by purpose (peace), not by strength alone. TV Tropes: the aim "would be universally denounced in today's world." |
-| Utilitarianism | 6 | Explored | B | Fifteen years of war to end five centuries of war (Changping's plan; Lost in Anime); MAL and business readers debate sacrifice for results. |
-| Confucian ethics | 5 | Explored | C | The ruler as moral exemplar who wins loyalty by virtue; filial tension with his mother; Lü Buwei's court of scholars (from general knowledge). Yet the state the story champions is Legalist, and traditional Confucian history calls the First Emperor a tyrant (Sixth Tone). Han Feizi's debate on human nature (likely v70) puts the Confucian-Legalist question directly. |
-| Communitarianism | 5 | Affirmed | B | The Fei Xin unit as a found family; soldiers fight for each other (Business Insider Japan). |
-| Secular humanism | 4 | Explored | B | Ying Zheng's belief in the "light" of humanity in the debate with Lü Buwei (v39, likely); no gods guide history. |
-| Pragmatism | 5 | Explored | C | Strategy, logistics and morale decide wars; law judged by results. |
-| Traditionalism | 3 | Explored | D | Old aristocracies and old orders lose to a new centralized state; loyalty and honor kept. |
-| Nihilism | 3 | Critiqued | D | Huan Yi's rage and contempt for meaning; he dies of it (TV Tropes). |
-| Feminism | 3 | Explored | C | Women commanders and strategists; gender flips of historical men (TV Tropes). |
-| Expressive individualism | 2 | Explored | C | Xin's personal dream of greatness, merged into the king's (fan wiki). |
-| Stoicism | 2 | Explored | C | Endurance and composure of generals such as Li Mu. |
-| Pagan/occult | 2 | Explored | C | Shiyuu clan rites; mountain tribes' customs (likely; to verify). |
-| Existentialism | 1 | Incidental | C | Choosing a purpose after Piao's death. |
-| Christian, Jewish, Islamic, Dharmic (Hindu/Buddhist), Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Critical theory, Marxism, Postmodernism, Environmentalism, Absurdism, Anti-natalism, Hedonism, Consumerism, Progressivism, Libertarianism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
+| Patriotism / nationalism | 7 | Affirmed (unification form) | B | Expansionist-unification form: Qin's conquest to unify the states and end war is the happy goal; enemy patriots (Li Mu, Lian Po) are honored. The new-lens rubric cites Kingdom at 5 and notes it may score higher. |
+| Classical virtue ethics | 7 | Affirmed | A | Courage, loyalty, perseverance and leadership make heroes; cruelty and cowardice mark villains. |
+| Authoritarianism | 6 | Affirmed (benevolent form) | B | The story's hope rests on an absolute king; usurpers and court factions (Cheng Jiao, Lu Buwei, the Queen Dowager's faction) are the enemies, not unchecked rule itself. |
+| Bushido / honor code | 6 | Affirmed | B | Generals' codes, loyalty to king and commander, duels fought with honor, dying well (Wang Qi, vol. 16); a Chinese setting, but the warrior-honor ideal the lens describes. |
+| Strength rules | 6 | Explored | C | War settles everything and Pang Nuan seeks pure strength; the heroes argue strength must serve the people, and Hara says Pang Nuan had to lose (VIZ Q&A). |
+| Utilitarianism | 6 | Explored | C | Years of war justified by permanent peace; Huan Yi's massacres as efficiency, rejected by Xin. |
+| Communitarianism | 5 | Affirmed | B | The Hi Shin unit as a community of former commoners; loyalty within units. |
+| Confucian ethics | 5 | Explored | C | Rulers' virtue, ministers' loyalty, order in relationships; the Legalist rule-by-law vision of Li Si also appears (to verify). |
+| Pragmatism | 5 | Explored | C | Strategy, supply and deception decide wars. |
+| Duty ethics | 4 | Affirmed | B | Xin's refusal to kill surrendered men or harm civilians, against Huan Yi's results-first massacres (fan wiki Story Timeline; to verify Xin's rule). |
+| Secular humanism | 4 | Explored | C | Zheng's faith in human goodness and law (to verify); no divine help. |
+| Pacifism / nonviolence | 3 | Critiqued | D | Ending war is the goal, but the story concludes that only war can end it; no character who refuses to fight is vindicated. |
+| Traditionalism | 3 | Explored | C | Old aristocracies and states set against a new, unified order. |
+| Nihilism | 3 | Critiqued | D | Despair at endless war answered by a dream. |
+| Feminism | 3 | Explored | C | Women generals, a strategist, a mountain queen. |
+| Expressive individualism | 2 | Explored | C | Xin's personal dream of greatness. |
+| Stoicism | 2 | Explored | C | Enduring loss in war. |
+| Pagan/occult | 2 | Explored | C | Shiyuu clan rites; a ritual revival (to verify). |
+| Existentialism | 1 | Incidental | C | Little explicit. |
+| Christian, Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Feel-good faith, Naturalism, Absurdism, Anti-natalism, Hedonism, Critical theory, Marxism, Postmodernism, Progressivism, Libertarianism, Liberalism, Anarchism, Environmentalism, Consumerism, Transhumanism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 4 | The state and its law win over Lü Buwei's merchant power and wealth-based rule. |
-| Social (0 authority, 10 liberty) | 2 | Order, rank and a strong king are the solution to chaos. |
-| Cultural (0 traditional, 10 progressive) | 5 | Merit over birth and women commanders, inside a traditional honor-and-loyalty ethic. |
-| Community (0 individual first, 10 community first) | 8 | Personal dreams serve the unit, the army and the unified realm. |
+| Economic (0 collective, 10 free market) | 4 | States and generals command resources; Lu Buwei's merchant view of power is defeated. |
+| Social (0 authority, 10 liberty) | 2 | Order under a strong king is the hope; rebellion by court factions is the threat. |
+| Cultural (0 traditional, 10 progressive) | 5 | Merit over birth and women commanders, inside a traditional honor culture. |
+| Community (0 individual first, 10 community first) | 8 | The state, the unit and the cause come before the self. |
 
 **Moral foundations profile (0 to 10):** care 6, loyalty 9, fairness 6, sanctity 3, authority 8, liberty 4.
 
-**Profile notes for parents:** Kingdom is a long war epic that admires courage, loyalty and a visionary king, and treats conquest as the price of peace. It condemns massacres and cruelty through its heroes, yet its most popular character in a 2026 Japanese poll is the general who commits them. Viz rates it T+; there is no major parent-guide review yet, and the violence is constant though less anatomically detailed than in works like Berserk.
+**Profile notes for parents:** Loyalty and authority lead: to the king, the commander and the unit. Care appears in the heroes' protection of prisoners and civilians and in grief for the fallen; fairness in merit over birth. Liberty is low: the hope of the story is a unified state under one ruler. VIZ rates it Teen Plus; MangaUpdates lists it as Mature for its war violence.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 7 | Warriors' honor, vows to the dead and avenging fallen comrades drive the plot (Xin carries Piao's and Wang Qi's wills); but the king's law over private revenge is upheld (Huan Yi warned, ch. 671-701). |
-| Order vs freedom | 3 | A strong state, uniform law and military discipline are celebrated; Li Si on law as the expression of the people's hopes (Business Insider Japan; Bureaucrats arc, ch. 486-495, v45, likely). |
-| Civic vs kin | 4 | Law applies to all and merit replaces birth, yet loyalty to one's unit and lord is personal and fierce (Fei Xin unit). |
-| Equality vs hierarchy | 7 | Rank, king and generals deserve deference, but anyone can climb by merit (servant to general, ch. 642). |
-| Tradition vs secular-rational | 7 | Religion is nearly absent; strategy, law and reason guide the state; old aristocracies are swept aside. |
-| Survival vs self-expression | 3 | Security, hard training and sacrifice come first; Xin's dream is personal but lived through duty. |
+| Dignity vs honor | 7 | Honor, face and revenge drive generals and clans; duels and oaths matter. |
+| Order vs freedom | 3 | Unity and order under a just king are the goal. |
+| Civic vs kin | 4 | Loyalty to the unit and state, but clans and noble families still matter. |
+| Equality vs hierarchy | 7 | Strong military and royal hierarchy, softened by merit-based rise. |
+| Tradition vs secular-rational | 7 | Strategy and law over omens; folk rites at the margins. |
+| Survival vs self-expression | 3 | War and survival dominate; personal dreams serve the cause. |
 
 Closest clusters: Orthodox Europe; Confucian; Tidewater
 
-Japanese source culture: The senpai-kohai-like bonds inside the army, the group loyalty of the Fei Xin unit and the honoring of the dead through inherited will reflect Japanese norms; the portrait of the First Emperor as an enlightened ruler is a Japanese reading of Chinese history, different from the traditional Confucian verdict of tyranny (Sixth Tone).
+Japanese source culture: A Japanese seinen retelling of Chinese history in the tradition of historical war epics; the warrior-loyalty ideal, the stress on comrades and the rise of a commoner by merit read in a Japanese key (compare the samurai epic), and Hara's years in a corporate team shaped his view of leadership (Wikipedia).
 
 ## Philosophy essay
 
-**The central question.** Can war end war? Ying Zheng believes the five centuries of the Warring States will only stop when one king rules all, and that he must be that king. Xin wants to be the greatest general under heaven. The series asks whether their dreams are the same dream and what they cost.
+**The central question.** Can war end war? Zheng believes the endless killing of the Warring States will stop only when one state unites them all, and he is willing to wage the largest wars in history to get there. Xin, a former slave, wants to be the greatest general under heaven. The series asks what such dreams cost and who pays.
 
-**The answer the story gives.** So far, yes, with conditions. Unification is presented as a moral project, not just an ambition: it must be done by a king who believes in people, with law that binds all, and with mercy to the defeated. The story keeps the cost visible in the deaths of beloved generals and in the conquered states' grief, but it does not doubt the goal. Hara's own framing is that "the true challenge comes after conquering the world" (SoftBank, 2020).
+**The answer the story gives.** Yes, if it is fought for the right reasons and with limits. The heroes refuse massacres, spare prisoners and keep their word; villains and dark mirrors (Huan Yi, Pang Nuan, the court schemers) do not. Hara presents Zheng as an enlightened ruler and says the old hostile record came from his successors (VIZ Q&A). The final verdict is still unwritten: history records the First Emperor's later harshness, and the series has not yet reached it.
 
-**Characters as arguments.** Ying Zheng argues for unity under law and for the "light" in human beings. Lü Buwei argues that wealth and trade, not conquest, give people stable lives; the debate ends in a stalemate that earns his respect (TV Tropes). Li Mu argues for a balance of states and defends his homeland with skill and humanity. Huan Yi argues that the world is built on contempt for the weak and that terror wins wars; the king tells him one more massacre will cost his head. Wang Qi stands for the joy and duty of the great general. Li Si and Han Feizi (later volumes) bring the Legalist argument about law and human nature.
+**Characters as arguments.** Zheng argues for unification and rule by law. Xin argues for rising by courage and fighting for one's comrades. Lu Buwei argues that money and commerce, not conquest, run the world. Li Mu argues for defending one's own people. Pang Nuan argues for strength as the path to a higher humanity, and loses because war has not ended (VIZ Q&A). Huan Yi argues that victory justifies any act, and his massacres are the story's clearest test of that view.
 
-**Symbols and motifs.** Wang Qi's glaive, passed to Xin, carries the dead's will; so do Lun Hu's sword and Duke Biao's shield (TV Tropes). Banners and unit names mark belonging. The mountain of the dead after Huan Yi's battles is the image of what unification could become without restraint.
+**Symbols and motifs.** Wang Qi's glaive passed to Xin (vol. 16). The banner of the Hi Shin unit. Piao's face in Zheng's. The map of seven states shrinking toward one.
 
-**Traditions it echoes.** Sima Qian's Shiji. Legalism (Han Feizi, Li Si): uniform law and state power. Confucian ideals of a virtuous ruler, though the Confucian tradition long condemned the First Emperor (Sixth Tone). Chinese films like Hero (2002) that justify unification as ending war (Sixth Tone). Japanese war epics and Takehiko Inoue's sword dramas.
+**Traditions it echoes.** Sima Qian's Shiji (Records of the Grand Historian), which Hara read at university; Japanese war epics; Chinese film and TV that recast the First Emperor as a unifier (Sixth Tone). Just-war readers will test each campaign against their criteria; Hindu readers may hear kshatriya dharma; Buddhist readers may think of Ashoka, who renounced conquest.
 
-**How each lens is portrayed.** Collectivism in a benevolent, law-bound form is the story's hope. Might makes right is both used and questioned: strength wins, but cruelty is judged. Confucian ethics appears in the ideal of the king as moral exemplar, while the policies are Legalist. Religion is mostly absent; meaning comes from carrying forward the will of the dead.
+**How each lens is portrayed.** Patriotism in its unification form, warrior honor and virtue ethics are affirmed. Benevolent authority is affirmed, while usurpers are condemned. Strength-rules and utilitarian reasoning are explored and limited by the heroes' refusals. Pacifism is not vindicated: peace is the goal, but war is the road.
 
-**Shifts across the series.** Early volumes are a shonen-style adventure around the boy king's survival (v1-10). The middle volumes become vast battle epics and court politics (v11-44), with the coup and the king's coming of age as a peak (v37-40). Later arcs bring Legalist philosophy, Huan Yi's atrocities and death, and the first conquest of a state (Han), making the moral cost harder to ignore (v45-80).
+**Shifts across the series.** Vols. 1-5 (ch. 1-~52): the throne retaken. Vols. 5-16: early campaigns, an assassination attempt, Bayou and Wang Qi's death. Vols. 17-33: Sanyou and the coalition invasion. Vols. 34-45: court struggles and Kokuyou (to verify). Vols. 46-59: the Gyou campaign. Vols. 60-69: Huan Yi's campaigns and death. Vols. 70-81 and ch. 882-894: the conquest of Han and the invasion of Zhao (fan wiki Story Timeline; volume titles).
 
 **Discussion questions.**
-1. Ying Zheng says he will end war by waging it. Is that possible? Can you think of examples from history?
-2. Why does Xin refuse to harm civilians when others in his own army do? Where does his rule come from?
-3. Lü Buwei believes money keeps people safer than conquest. Who wins the argument, and why?
-4. Why do so many readers love Huan Yi, the general who kills prisoners? What does that say about how stories make cruelty attractive?
-5. Historians long called the First Emperor a tyrant. Should a story make him a hero? What would the people of the conquered states say?
+1. Zheng says the only way to end the wars is to win them all. Do you agree? What else could he try?
+2. Xin refuses to harm prisoners and civilians, but Huan Yi does not. Why does the story treat their choices so differently?
+3. Hara says the history of the First Emperor was written by those who came after. How does that change how we read history?
+4. What makes Wang Qi admired even by his enemies?
+5. Xin and Piao were servants with no future. What made it possible for Xin to rise?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Critics | Rebecca Silverman and Kevin Cormack, ANN Fall 2025 Manga Guide (Viz vol. 1) | "Remarkably grim and bloody," violence on almost every page but not detailed; Xin hard to warm to (Silverman) or "immediately likeable" (Cormack); art influenced by Inoue. | https://www.animenewsnetwork.com/seasonal/2025/fall/kingdom/.227615 |
-| Critics | Theron Martin, ANN (anime eps. 1-8) | B-; intense enough to be unsuitable for young viewers; notes Zheng's calculating side hints at the historical ruthlessness. | https://animenewsnetwork.com/review/kingdom/episodes-1 |
-| Awards | Tezuka Osamu Cultural Prize judges (2013) | One judge could not "remember the last time" they read nearly 30 volumes "feeling this excited." | https://en.wikipedia.org/wiki/Kingdom_(manga) |
-| Skeptical fan review | MAL reviewer Lucianael (manga) | Says it glorifies war, turns cruelty into "simple entertainment," is "deeply historically inaccurate," and "launders" the First Emperor as "the one good king." | https://myanimelist.net/manga/16765/Kingdom/reviews |
-| Fan reviews | MAL (manga), most recommend | Praise for battles, strategy and speeches ("the most inspirational manga"); criticism of repetition and plot armor. | https://myanimelist.net/manga/16765/Kingdom/reviews |
-| Business / Japanese reception | Business Insider Japan (2018); SoftBank's Masayoshi Son (2020) | Executives read it as a leadership manual: purpose, merit, morale; Son praises Ying Zheng's vision and merit system. | https://www.businessinsider.jp/post-178267 ; https://www.softbank.jp/en/sbnews/entry/20200219_01 |
-| Japanese readers | Dengeki Online poll (2026) | Huan Yi #1, Xin #6, Ying Zheng #14. | https://dengekionline.com/article/202609/89517 |
-| Anime commentator | Lost in Anime (season 4 eps. 24-25) | Finds the coup's outcome "pretty disgusting" for sparing the Queen Dowager while thousands of followers die; sees Zheng as both sentimental and about to launch "raw conquest." | https://lostinanime.com/?p=209182 |
-| Chinese historiography (context) | Sixth Tone, Cai Zongcheng (2021) | Not about Kingdom: traces how Chinese screen portrayals moved from the Confucian "tyrant" to the unifier who ends war, and asks for stories showing the cost to ordinary people. Useful context for the series' portrait. | https://www.sixthtone.com/news/1006665 |
-| Christian, conservative, progressive, feminist outlets | none found | No dedicated Christian, conservative or feminist review of Kingdom was found (Beneath the Tangles tag page checked, no Kingdom post). | https://beneaththetangles.com/tag/kingdom-3/ |
+| Critics (manga vol. 1) | Rebecca Silverman and Kevin Cormack, Anime News Network (Fall 2025 Manga Guide) | Silverman: dense, slow, "a remarkably grim and bloody work," for lovers of historical epics; Cormack: brutal setting, likable lead, art in Inoue's line. | https://www.animenewsnetwork.com/seasonal/2025/fall/kingdom/.227615 |
+| Critic (manga vol. 1) | Jenni, Siliconera | Positive: fast pacing, character-driven history, a strong hook in Xin and Zheng's meeting. | https://www.siliconera.com/kingdom-manga-feels-worth-the-wait/ |
+| Critic (manga vol. 1) | Manga Test Drive (2025) | Negative: formulaic shonen structure, a shouting hero and off-putting faces, despite strong backgrounds. | https://mangatestdrive.blogspot.com/2025/12/holiday-review-23-kingdom.html |
+| Creator Q&A | Yasuhisa Hara, VIZ blog | War as theme; the Shiji; Zheng as an enlightened ruler; Wang Qi and Huan Yi's deaths; Pang Nuan's philosophy. | https://www.viz.com/blog/posts/rise-of-the-empire |
+| Cultural context (Chinese media) | Sixth Tone | How modern dramas rehabilitated Qin Shi Huang as a unifier, and the criticism that this can excuse brutality; not about the manga. | https://www.sixthtone.com/news/1006665 |
+| Awards | Tezuka Prize, Tsutaya, Da Vinci (via Wikipedia) | Tezuka grand prize 2013; Da Vinci Book of the Year 2019; Guinness record 2012. | https://en.wikipedia.org/wiki/Kingdom_(manga) |
+| Fan databases | AniList, MangaUpdates | AniList average 89 (about 78,000 members); MangaUpdates 8.73. | AniList API; MangaUpdates API |
+| Common Sense Media, Plugged In, Christian or feminist outlets | — | No review found in search. | none |
+
+No public controversy about the manga was found in sources opened. The main critical question, raised about similar Chinese dramas rather than this manga in the sources opened, is whether a heroic First Emperor softens a ruler remembered for brutality (Sixth Tone).
 
 ## Most loaded parts and pages to photograph
 
-Volume to chapter map (Wikipedia chapter list; chapter numbers counted from titles): v1 ch. 1-8; v2 9-19; v3 20-30; then about 11 chapters per volume: v5 42-52; v8 75-85; v10 97-107; v16 163-173; v20 207-217; v26 273-283; v31 328-338; v32 339-349; v34 361-371; v37 394-404; v39 416-426; v40 427-437; v41 438-448; v44 471-481; v45 482-492; v46 493-503; v59 636-646; v62 669-679; v63 680-690; v64 691-701; v69 747-757; v70 758-768; v75 813-823; v80 868-878. Arcs (fan wiki): Chengjiao's Rebellion 1-47; Escape from Zhao 74-81; Battle of Mayang (Bayou) 108-173; Coalition Invasion 257-356; State of Ai (coup) 402-437; Heiyang (Kokuyou) 438-485; Bureaucrats 486-495; Western Zhao (Gyou) 496-642; Eikyuu 671-701; Zhao's Retaliation 702-730. English Viz volumes match Japanese numbering.
+Volume-to-chapter map (English Wikipedia chapter list, opened): 11 chapters per volume with few exceptions: v1 ch. 1-8; v2 9-19; v3 20-30; v4 31-41; v5 42-52; from v6 each volume v(n) starts at chapter 11n-13 through v65 (which has 12 chapters) and 11n-12 after it (e.g. v16 163-173, v40 427-437, v58 625-635, v69 747-757, v81 879-889); ch. 890-894 not yet collected. Arc placements below are from volume titles, the fan wiki Story Timeline and general knowledge; most are marked to verify.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Huan Yi orders 100,000 surrendered Zhao soldiers beheaded; Ying Zheng confronts him and threatens execution | Eikyuu arc 671-701 (v62-64); massacre likely ch. 696-699 (v64) | The story's central test of whether atrocity serves unification; Violence 8; Might makes right and Utilitarianism lenses; every frame grade. |
-| 2 | Ying Zheng vs. Lü Buwei debate on how to rule (money vs. the "light" of humanity); coup's end; Lao Ai's children spared | likely 425-435 (v39-40); ch. 435 "The Coup's Finale" | The series' thesis stated; Message delivery; Confucian, Secular humanism and Collectivism rows; departure from history. |
-| 3 | Heiyang: Huan Yi's army slaughters villagers and displays the bodies; Xin and Qiang Lei confront him | 438-485 (v41-44); likely ch. 470s | Civilian killing; Xin's mercy ethic; Sexuality (pillage) and Violence. |
-| 4 | Li Mu visits the Qin court; Ying Zheng refuses to abandon unification; Li Si on law | Bureaucrats arc 486-495 (v45, likely) | Legalism as the story's political creed; Order vs freedom; Collectivism lens. |
-| 5 | Han Feizi and the debate on human nature; the move toward conquering Han | likely 758-768 (v70); Han's fall later (likely v75-80) | Confucian vs. Legalist argument; Confucian ethics lens. |
-| 6 | Queen Dowager, Lao Ai, the State of Ai; her courtesan past | 366-437 (v34-40) | Sexuality score (implied sex, possible nudity); Muslim, Orthodox Jewish, Reformed depiction rows. |
-| 7 | Huan Yi's death at Hika | likely 747-757 (v69); ch. 750 "Kanki the Beheader" | How the story judges the atrocity-committing favorite; Winners table. |
-| 8 | Ying Zheng's childhood in Zhao and Zi Xia's death | 74-81 (v7-8) | Origin of the king's belief in human "light"; Mental health. |
-| 9 | Wang Qi's death and his glaive passed to Xin | Mayang arc 108-173 (death likely v16) | Honor and inherited will; Fear and intensity. |
-| 10 | Piao's death; the opening coup | 1-8 (v1) | Content check for younger readers: first violence level; English vol. 1. |
-| 11 | Siege of Sai: the king takes up arms and rallies citizens | 331-349 (v31-32) | King as warrior-exemplar; loyalty; civilian involvement. |
-| 12 | Shiyuu clan rites; Qiang Lei's life-for-life ritual for Xin | Shiyuu arcs 357-365 (v33-34), 662-670 (v61); ritual likely v58-59 | Pagan/occult lens; Pentecostal row. |
+| 1 | Huan Yi beheads tens of thousands of surrendered Zhao soldiers; Xin's reaction | about v60-64 (to verify) | Violence (8); the Duty ethics and Utilitarianism lenses; just-war rows. Written note only. |
+| 2 | Kokuyou: civilians slaughtered | about v42-45 (to verify) | Violence; condemned by the heroes (to verify). |
+| 3 | Queen Dowager, Lao Ai and the Ai rebellion | about v34-40 (to verify) | Sexuality (4); confirm how much is shown. Written note only. |
+| 4 | Zheng's childhood in Zhao (abuse, escape) | v8, "The Past" (ch. 75-85; to verify) | Violence against a child; Mental health. |
+| 5 | Wang Qi's death at Bayou | v16 (ch. 163-173) | Honor and loss (VIZ Q&A). |
+| 6 | Refugees driven into Gyou | v48 (ch. 515-525) | Civilians as weapons; just-war rows. |
+| 7 | Xin's death and ritual revival by Qiang Lei | about v58-59 (to verify) | Pagan/occult lens; Pentecostal row. |
+| 8 | Huan Yi's death | v69 (ch. 747-757) | Outcome for the "any means" general (VIZ Q&A). |
+| 9 | Any nude or bathing scene involving Qiang Lei or other women | unknown | AniList Nudity tag; confirm ages and framing. |
+| 10 | Torture scenes | unknown | AniList Torture tag; Violence. |
 
-Estimated: about 120-150 chapters (roughly 2,500-3,000 pages) to check for a full re-score, concentrated in v1, 7-8, 16, 31-32, 34-45, 62-64, 69-70 and the Han arc.
+Estimate: about 60 chapters cover the above; about 60-90 pages to photograph (excluding written-note-only rows). Given 80+ volumes, a reviewer may sample one arc per ten volumes.
 
 ## Sources
 
-- https://en.wikipedia.org/wiki/Kingdom_(manga)
-- https://en.wikipedia.org/wiki/List_of_Kingdom_chapters
-- https://en.wikipedia.org/wiki/Yasuhisa_Hara
-- https://www.viz.com/kingdom
-- https://www.viz.com/blog/posts/rise-of-the-empire
+Pages actually opened:
+- https://en.wikipedia.org/wiki/Kingdom_(manga) (raw wikitext)
+- https://en.wikipedia.org/wiki/List_of_Kingdom_chapters (raw wikitext)
+- https://en.wikipedia.org/wiki/Yasuhisa_Hara (raw wikitext)
+- AniList API, media id 46765 (graphql.anilist.co)
+- MangaUpdates API, series 4324727424 (api.mangaupdates.com)
+- https://www.viz.com/manga-books/manga/kingdom-volume-13-0/product/9067 (Teen Plus)
+- https://www.viz.com/kingdom (no rating shown)
+- https://www.viz.com/blog/posts/rise-of-the-empire (Q&A with Yasuhisa Hara)
+- https://kingdom.fandom.com/wiki/Story_Timeline (through the web reader; facts only)
 - https://www.animenewsnetwork.com/seasonal/2025/fall/kingdom/.227615
-- https://animenewsnetwork.com/review/kingdom/episodes-1
-- https://kingdom.fandom.com/wiki/Story_Arcs (scene location only)
-- https://kingdom.fandom.com/wiki/Story_Timeline (scene location only)
-- https://kingdom.fandom.com/wiki/Li_Xin (scene location only)
-- https://www.tvtropes.org/pmwiki/pmwiki.php/Manga/Kingdom
-- https://tvtropes.org/pmwiki/pmwiki.php/Characters/KingdomKankiArmy
-- https://tvtropes.org/pmwiki/pmwiki.php/Characters/KingdomPrinceChengjiaoFaction
-- https://myanimelist.net/manga/16765/Kingdom
-- https://myanimelist.net/manga/16765/Kingdom/reviews
-- https://www.softbank.jp/en/sbnews/entry/20200219_01
-- https://www.businessinsider.jp/post-178267
-- https://dengekionline.com/article/202609/89517
-- https://lostinanime.com/?p=209182
+- https://www.siliconera.com/kingdom-manga-feels-worth-the-wait/
+- https://mangatestdrive.blogspot.com/2025/12/holiday-review-23-kingdom.html
 - https://www.sixthtone.com/news/1006665
-- https://www.nippon.com/en/japan-topics/b11809/ (mentions Kingdom only in passing)
-- https://www.fccj.or.jp/committee-blog/kingdom (film Q&A; no Hara quotes)
-- https://beneaththetangles.com/tag/kingdom-3/ (no Kingdom post)
 
-Found in search, not opened:
-- https://www.graphiclibrary.org/reviews/kingdom-vol-1-by-yasuhisa-hara
-- https://myanimelist.net/anime/12031
-- https://www.imdb.com/title/tt2404499/reviews (parental guide blocked)
-- https://asianmoviepulse.com/2023/11/anime-review-kingdom-season-2-2013-2014-by-akira-iwanaga/
-- https://www.animenewsnetwork.com/interest/2019-08-24/kingdom-creator-gushes-about-his-love-for-game-of-thrones-to-series-showrunners/.150281
-- https://www.japantimes.co.jp/culture/2019/04/17/films/film-reviews/kingdom-admirable-try-chinese-history
-- https://en.mantan-web.jp/article/20251119dog00m200065000c.html
-- https://jumpichiban.com/en-us/products/kingdom-mmanabu-ranse-no-leadership
-- https://www.anilist.co/review/5364
-- https://www.sfcrowsnest.info/manga-anime-guide/title/kingdom/
+Found in search, not opened (refused, blocked or not prioritized):
+- https://tvtropes.org/pmwiki/pmwiki.php/Manga/Kingdom (bot check)
+- https://kingdom.fandom.com/wiki/Taikou (permission request not answered)
+- https://www.graphiclibrary.org/reviews/kingdom-vol-1-by-yasuhisa-hara (cookie page only)
+- https://animenewsnetwork.com/review/kingdom/episodes-1 (anime review)
+- https://www.gamesradar.com/comics/the-kingdom-manga-is-finally-getting-an-english-translation-almost-20-years-after-it-first-launched-and-now-anything-is-possible
+- https://comicbookroundup.com/comic-books/reviews/viz/kingdom-(2025)
+- https://tvtropes.org/pmwiki/pmwiki.php/Recap/Kingdom
+- No Common Sense Media, Plugged In, Beneath the Tangles or Anime Feminist page found in search.
 
 ## Full-read review checklist
 
-- [ ] Confirm the T+ rating and Viz's age band on the printed vol. 1 and check how Viz spells names. Affects Series facts and Profile notes.
-- [ ] Ch. 1-8 (v1): Piao's death and the first assassins; gauge how graphic the art is. Affects Violence 8.
-- [ ] Ch. 74-81 (v7-8): Ying Zheng's Zhao childhood and Zi Xia's death; the origin of his "light" belief. Affects Mental health and Secular humanism lens.
-- [ ] Ch. 108-173 (v11-16): Wang Qi's death chapter and the glaive handover. Affects Fear and Winners table.
-- [ ] Ch. 331-349 (v31-32): Sai siege; the king's speech and whether civilians fight. Affects Collectivism lens.
-- [ ] Ch. 366-437 (v34-40): Queen Dowager and Lao Ai scenes; any nudity or sex; the debate with Lü Buwei (find exact chapters, likely v39); sparing of the children. Affects Sexuality 4 and Message delivery.
-- [ ] Ch. 438-485 (v41-44): Huan Yi's village massacre and body display; any depicted sexual violence; Xin's confrontation. Affects Violence and Sexuality.
-- [ ] Ch. 486-495 (v45): Li Mu at the Qin court; Li Si's statement on law. Affects Order vs freedom and Collectivism lens.
-- [ ] Ch. 671-701 (v62-64): the 100,000 beheadings; Ying Zheng's ultimatum. Confirm chapter and how it is drawn. Affects Violence, Might makes right and all frame grades.
-- [ ] Ch. 747-757 (v69): Huan Yi's death and backstory reveal. Affects Winners table and Nihilism row.
-- [ ] Ch. 758-768 (v70) and the Han arc (v75-80): Han Feizi's human-nature debate; conquest of Han and treatment of its people. Affects Confucian ethics and Collectivism rows.
-- [ ] Shiyuu rites and Qiang Lei's ritual (v33-34, 58-61). Affects Pagan/occult lens and Pentecostal row.
-- [ ] Check Viz's English for profanity and drinking scenes. Affects Language and Substances.
-- [ ] Look for Hara's afterwords and Japanese interviews on war, the First Emperor and violence; check whether any Common Sense Media or Plugged In review appears. Affects Creator context and Other guides.
-- [ ] Re-score and sign off: update scores, change the label to Full read, record the reviewer, delete photos.
+- [ ] The Queen Dowager and Lao Ai (about vols. 34-40): confirm how much sexual content is shown and whether any is explicit. Written note only. Affects Sexuality (4), Depiction concern rows and the adult-flag decision.
+- [ ] Search all volumes for nude or bathing scenes (AniList tags Nudity), especially involving Qiang Lei or He Liao Diao, and confirm their ages and the framing. Written note only. Affects Sexuality and the adult-flag decision.
+- [ ] Huan Yi's massacres (Kokuyou, about vols. 42-45; prisoner beheadings, about vols. 60-64): confirm volumes, how graphic they are and how Xin and Zheng respond. Affects Violence (8), the Duty ethics and Utilitarianism lenses and the just-war frame rows.
+- [ ] Confirm Xin's unit rule against harming civilians and plunder, and any scenes of sexual violence against women in conquered towns and how they are framed. Affects Sexuality and frame rows.
+- [ ] Vol. 8: Zheng's childhood in Zhao; confirm content and chapters. Affects Violence and Mental health.
+- [ ] About vols. 58-59: Xin's death and Qiang Lei's ritual; confirm. Affects the Pagan/occult lens and the Pentecostal row.
+- [ ] Confirm Zheng's and Li Si's statements on rule by law and Zheng's faith in human goodness (the debate with Lu Buwei, about vol. 39). Affects the Secular humanism, Confucian and Authoritarianism lenses.
+- [ ] Spot-check VIZ language and drinking scenes. Affects Language (4) and Substances (2).
+- [ ] Confirm the fates of Cheng Jiao, Lu Buwei and the Queen Dowager. Affects the Winners table.
+- [ ] Find any parent or faith-based review of the anime. Affects How readers took it.
+- [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.
