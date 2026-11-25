@@ -596,6 +596,8 @@ function applyRealign(d, a) {
   d.frames = [...new Set([...(d.frames || []), ...(a.frames || [])])];
   d.groups = [...(d.groups || []), ['New', (a.frames || []).filter(f => !(d.groups || []).some(g => g[1].includes(f)))]];
   d.lenses = [...new Set([...(d.lenses || []).filter(l => !retire.has(l)), ...(a.lenses || [])])];
+  const E = a.entries || {}, AD = a.adult || {}, OL = a.outlook || {};
+  d.series.forEach(s => { const k = String(s.id); if (E[k]) s.entry = E[k]; if (AD[k]) { s.adult = true; s.adult_reason = AD[k]; } if (OL[k]) s._ol = OL[k]; });
   d.series.forEach(s => { const e = s.entry, x = e && a.series[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return;
     const drop = new Set(x.lenses_drop || []); e.lenses = (e.lenses || []).filter(l => !drop.has(l.lens));
     (x.lenses_add || []).forEach(l => { if (!e.lenses.some(m => m.lens === l.lens)) e.lenses.push(l); });
@@ -605,6 +607,7 @@ function applyRealign(d, a) {
 }
 function realignReasons(d) {
   return RALIGN.then(a => { if (!a) return d; Object.assign(d.frames = d.frames || {}, a.guides || {});
+    Object.assign(d.entries = d.entries || {}, a.reasons || {});
     Object.entries(a.talking || {}).forEach(([slug, t]) => { const x = d.entries && d.entries[slug]; if (x) x.talking = Object.assign(x.talking || {}, t); });
     return d; });
 }
@@ -991,7 +994,7 @@ function sortIdeaRows(rows, key, p) {
 }
 
 let R = null, RLOAD = null, WHY = null, CUR = null;
-const loadReasons = () => RLOAD || (RLOAD = fetch('reasons.json', {cache: 'no-cache'}).then(r=>r.json()).then(renameReasons).then(realignReasons).then(d=>TLOAD.then(t=>{ if (t) d.frames[t.name] = t.guide; return d; })).then(d=>{ R = d; return d; }).catch(()=>{ RLOAD = null; return null; }));
+const loadReasons = () => RLOAD || (RLOAD = fetch('reasons.json', {cache: 'no-cache'}).then(r=>r.json()).then(realignReasons).then(renameReasons).then(d=>TLOAD.then(t=>{ if (t) d.frames[t.name] = t.guide; return d; })).then(d=>{ R = d; return d; }).catch(()=>{ RLOAD = null; return null; }));
 const TOPIC_WORDS = [
   ['Same-sex relationships and gender identity', /same-sex|\bgay\b|lesbian|boys' love|girls' love|\bBL\b|\byuri\b|transgender|gender identity|cross-?dress|LGBT|shounen ai|shoujo ai/i],
   ['Sexuality, nudity and modesty', /sex|nud|fan ?service|modest|lust|chastit|purity|ecchi|suggestive|underwear|harem|kiss|romance|erotic/i],
@@ -1265,8 +1268,8 @@ document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !
 fetch('previews.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).then(p => { PV = p || {}; if (D && /^#[se]-/.test(location.hash)) { const y = scrollY; render(); scrollTo(0, y); } }).catch(() => {});
 const OLOAD = fetch('outlook.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).catch(() => ({}));
 const TLOAD = fetch('technopuritan.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
-fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(renameData).then(d => RALIGN.then(a => applyRealign(d, a))).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
-  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d => TLOAD.then(t => { if (t) d.series.forEach(s => { const e = s.entry; if (!e) return; const x = t.grades[s.id ? String(s.id) : 'e-' + e.slug]; if (x && !e.frames.some(f => f.frame === t.name)) e.frames.unshift(x); }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (state.profile && !GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='';
+fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d => RALIGN.then(a => applyRealign(d, a))).then(renameData).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
+  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = s._ol || O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d => TLOAD.then(t => { if (t) d.series.forEach(s => { const e = s.entry; if (!e) return; const x = t.grades[s.id ? String(s.id) : 'e-' + e.slug]; if (x && !e.frames.some(f => f.frame === t.name)) e.frames.unshift(x); }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (state.profile && !GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='';
   $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · <a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shop shirts, stickers and puzzles</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>
