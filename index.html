@@ -508,6 +508,8 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 .wrap { max-width: var(--wrapw); }
 .tk { width: min(100%, calc(400px * var(--tx))); background-size: calc(400px * var(--tx)) calc(256px * var(--s)); }
 .rb-roots, .rb-myc { width: calc(800px * var(--tx)); margin-left: calc(-400px * var(--tx)); }
+/* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
+.tk::after { content: ""; position: absolute; left: 50%; bottom: calc(150px * var(--s)); width: calc(800px * var(--tx)); height: calc(30px * var(--s)); margin-left: calc(-400px * var(--tx)); background: url(img/t_flare.png) 0 0 / 100% 100% no-repeat; image-rendering: pixelated; pointer-events: none; }
 .fd { left: calc(50% - 20px * var(--tx)); }
 .gmini { left: calc(50% + 76px * var(--tx)); }
 .rb-mole { left: calc(50% - 152px * var(--tx)); }
