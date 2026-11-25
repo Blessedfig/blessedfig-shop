@@ -146,7 +146,7 @@ Dominant lenses: Existentialism (choosing to go on), Secular humanism (meaning i
 | Stoicism | 4 | Affirmed | B | Accepting what cannot be changed and doing one's work anyway. My own framing. |
 | Absurdism | 3 | Explored | C | A senseless killing with no reason the story can give. My own framing. |
 | Expressive individualism | 3 | Explored | C | Kyomoto chooses art school over the shared series; the story honors her choice while showing its cost. |
-| Buddhist ideas | 2 | Explored | C | Impermanence and letting go by echo only; no Buddhist content. Migrated from the old Dharmic lens; my own framing. |
+| Buddhist ideas | 2 | Explored | C | Impermanence and letting go by echo only; no Buddhist content. My own framing. |
 | Postmodernism | 2 | Explored | C | Manga about making manga; an alternate timeline drawn as a comic within the comic (Women Write About Comics). |
 | Communitarianism | 2 | Explored | C | The partnership as the real source of good work; the wider community is in the background. |
 | Critical theory | 1 | Explored | C | The debate over the attacker's portrayal and stigma (outside the text). |
