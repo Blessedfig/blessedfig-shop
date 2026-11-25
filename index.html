@@ -41,6 +41,14 @@ nav.snav .snav-links a.snav-book:hover, nav.snav .snav-links a.snav-book:focus-v
 .stay-cta .btn { font-size: 1.05rem; padding-inline: 22px; }
 .stay-cta span { color: var(--muted); font-size: .95rem; }
 
+/* online shop grid */
+.shop-grid{list-style:none;margin:22px 0 24px;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+.shop-grid a{display:flex;flex-direction:column;height:100%;background:#fffaf0;border:3px solid #2a1d14;border-radius:4px;text-decoration:none;color:#2a1d14;overflow:hidden;transition:transform .15s}
+.shop-grid a:hover,.shop-grid a:focus-visible{transform:translateY(-3px)}
+.shop-grid img{width:100%;height:auto;aspect-ratio:1;display:block;border-bottom:3px solid #2a1d14}
+.shop-grid b{padding:10px 12px 2px;line-height:1.25}
+.shop-grid span{padding:0 12px 12px;margin-top:auto;font-weight:700;color:#62206a}
+@media (prefers-reduced-motion:reduce){.shop-grid a{transition:none}}
 /* manga rating guide callout under the shelves */
 .mg-callout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,1fr);gap:22px;align-items:center;margin-top:28px;padding:18px;background:#fffaf0;border:3px solid #1e161c;box-shadow:6px 6px 0 #62206a;color:#1e161c}
 .mg-callout img{width:100%;height:auto;display:block;border:2px solid #1e161c}
@@ -709,7 +717,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 <nav class="snav" id="snav" aria-label="Jump to section">
   <div class="snav-in">
     <a class="snav-logo" href="#top"><picture><source srcset="img/title.webp" type="image/webp"><img src="img/title.png" alt="The Blessed Fig Tree" width="1100" height="469" loading="lazy" decoding="async"></picture></a>
-    <div class="snav-links"><a href="#visit">Visit</a><a href="#shelves">Shelves</a><a href="#stay">Stay</a><a href="#explore">Explore</a><a href="#play">Play</a><a href="manga-guide/">Manga guide</a><a href="#find">Find us</a><a class="snav-book" href="https://stays.theblessedfigtree.com">Book a stay</a></div>
+    <div class="snav-links"><a href="#visit">Visit</a><a href="#shelves">Shelves</a><a href="#shop">Shop</a><a href="#stay">Stay</a><a href="#explore">Explore</a><a href="#play">Play</a><a href="manga-guide/">Manga guide</a><a href="#find">Find us</a><a class="snav-book" href="https://stays.theblessedfigtree.com">Book a stay</a></div>
   </div>
 </nav>
 <div class="tree">
@@ -740,6 +748,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
     <button class="menu-btn" type="button" aria-expanded="false" aria-controls="sitenav">Menu</button>
     <nav id="sitenav" aria-label="Sections">
       <a href="#visit">Visit</a>
+      <a href="#shop">Shop merch</a>
       <a href="#stay">Stay upstairs</a>
       <a href="#play">Play the game</a>
       <a href="almanac/">Almanac</a>
@@ -838,6 +847,24 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
         <p>Hundreds of popular series, each with a suggested reading age and an S to F grade for how well it fits your faith or values. Pick your religion or philosophy and see where your kid's favorites land.</p>
         <p><a class="btn" href="manga-guide/">Open the manga rating guide</a></p></div>
     </div>
+  </div>
+</section>
+
+<section id="shop">
+  <div class="wrap">
+    <span class="label">Shop online</span>
+    <h2>Shirts, stickers and puzzles</h2>
+    <p class="section-intro">Goose Goose and the fig trees, printed to order and shipped to your door.</p>
+    <ul class="shop-grid">
+      <li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/products/honk-read-more-goose-goose-tee" target="_blank" rel="noopener"><img src="img/shop/honk-read-more-goose-goose-tee.webp" alt="Goose Goose on a black heavyweight tee" width="480" height="480" loading="lazy" decoding="async"><b>HONK! Read More. tee</b><span>$26</span></a></li>
+      <li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/products/start-new-game-pixel-fig-tree-tee" target="_blank" rel="noopener"><img src="img/shop/start-new-game-pixel-fig-tree-tee.webp" alt="Pixel fig tree with a game menu on a black tee" width="480" height="480" loading="lazy" decoding="async"><b>START NEW GAME tee</b><span>$26</span></a></li>
+      <li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/products/goose-goose-a-goose-for-every-chapter-tee" target="_blank" rel="noopener"><img src="img/shop/goose-goose-a-goose-for-every-chapter-tee.webp" alt="Nine Goose Goose outfits on an ivory tee" width="480" height="480" loading="lazy" decoding="async"><b>A Goose for Every Chapter tee</b><span>$26</span></a></li>
+      <li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/products/that-which-bears-fruit-fig-tee" target="_blank" rel="noopener"><img src="img/shop/that-which-bears-fruit-fig-tee.webp" alt="Fig branch engraving on an ivory tee" width="480" height="480" loading="lazy" decoding="async"><b>That Which Bears Fruit tee</b><span>$26</span></a></li>
+      <li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/products/the-cursed-fig-tree-tee-mark-11-12-25" target="_blank" rel="noopener"><img src="img/shop/the-cursed-fig-tree-tee-mark-11-12-25.webp" alt="The Cursed Fig Tree engraving on a white tee" width="480" height="480" loading="lazy" decoding="async"><b>The Cursed Fig Tree tee</b><span>$26</span></a></li>
+      <li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/products/the-blessed-the-cursed-fig-tree-jigsaw-puzzle" target="_blank" rel="noopener"><img src="img/shop/the-blessed-the-cursed-fig-tree-jigsaw-puzzle.webp" alt="The two fig tree watercolors side by side as a jigsaw puzzle" width="480" height="480" loading="lazy" decoding="async"><b>Blessed and Cursed Fig Tree puzzle</b><span>$35</span></a></li>
+      <li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/products/honk-goose-goose-sticker" target="_blank" rel="noopener"><img src="img/shop/honk-goose-goose-sticker.webp" alt="Pixel Goose Goose sticker" width="480" height="480" loading="lazy" decoding="async"><b>HONK! sticker</b><span>$6</span></a></li>
+    </ul>
+    <p><a class="btn" href="https://the-blessed-fig-tree-llc-shop.fourthwall.com/collections/all" target="_blank" rel="noopener">See everything in the online shop</a></p>
   </div>
 </section>
 
