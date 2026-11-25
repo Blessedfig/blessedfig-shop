@@ -1,317 +1,283 @@
 # Land of the Lustrous
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium-low.** Series facts and the volume-to-chapter map come from English Wikipedia (opened). Story facts come from TV Tropes, Japanese Wikipedia, Pixiv Encyclopedia and publisher synopses (Kodansha USA, Penguin Random House), all opened and used to locate scenes only. The fan wiki (houseki-no-kuni.fandom.com), MyAnimeList and the volume 13 Kodansha page refused every request, so many scene-to-chapter placements rest on volume-level summaries and are marked "likely". No Common Sense Media, Plugged In or ScreenWise page for this series was found. One on-record creator interview (Current Obsession, 2015/2018) was opened. Items resting on general knowledge are marked "(from general knowledge; to verify)".
-
-**Executive summary.** A quiet, strange and often sad science-fiction manga about genderless gem people, their monk-like teacher and the Moon people who hunt them. Violence is bloodless shattering, and there is almost no sexual content. What sets the content level (7) is mental health: despair, a suicide attempt, a character who repeatedly throws themself off heights, and a hero who asks to be killed. Buddhist cosmology is not decoration here. It is the plot: the Lunarians are human souls who want a machine-monk to pray them into nirvana, and the hero ends up doing it. Religious families will mainly want to discuss that frame, and the ending in which all life is prayed into nothingness.
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 20 lookups). The series is complete: 108 chapters in 13 volumes (Monthly Afternoon, October 2012 to April 25, 2024; English vol. 13 November 4, 2025). Series facts, chapter titles and the volume-to-chapter map come from English Wikipedia (the series article, opened through its raw-text endpoint), Japanese Wikipedia (the Haruko Ichikawa article), the AniList and MangaUpdates APIs, Kodansha USA's volume 13 page (rating) and Penguin Random House's volume 13 page. Chapter-level plot points come from the Houseki no Kuni fan wiki (Fandom; the Phosphophyllite page, read through its API; facts only) and the TV Tropes series page (through the web fetcher; facts only). Reviews opened: The Manga Critic (vol. 1, 2017), Anime Feminist (anime premiere, 2017; essay on non-binary representation, 2021) and the SF Encyclopedia entry (anime). Creator statements: an e-mail interview with Haruko Ichikawa (Current Obsession) and her end-of-series comment (ComicBook.com, 2024). Kodansha's volume 1 page refused the fetch; the fan wiki's own search page and direct TV Tropes access were blocked. No Common Sense Media, Plugged In or Christian review of the manga was found. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Land of the Lustrous. Japanese: 宝石の国 (Hōseki no Kuni, "Land of Jewels") |
-| Creators | Haruko Ichikawa (story and art). Her first serialized work (Japanese Wikipedia) |
-| Origin | Monthly Afternoon (Kodansha), a seinen magazine aimed at adult men. Ran October 25, 2012 to April 25, 2024, with hiatuses from December 2020 to June 2022 and October 2023 to February 2024. Complete: 108 chapters in 13 volumes (Wikipedia) |
-| English edition | Kodansha Comics (Kodansha USA). Vol. 1 June 27, 2017; vol. 13 November 4, 2025. Publisher age rating: 13+ (Kodansha USA product page for vol. 11, opened). Volumes: 13 in Japan, 13 in English. The English text uses "they" and "this gem" for the gems (TV Tropes; The Mary Sue) |
-| Anime | Orange (3D CG studio), 12 episodes, October to December 2017, covering roughly the first four volumes (from general knowledge; to verify). Director Takahiko Kyōgoku. US licensor Sentai Filmworks; streamed on HIDIVE (ComicBook.com). ANN lists objectionable content as "Mild". US TV rating not found (to verify) |
-| Recognition | Kono Manga ga Sugoi! 2014 (male readers) #10; Manga Taishō nominee (2015); 2024 Sense of Gender Awards Grand Prize; 45th Nihon SF Taisho Award grand prize (2025); Seiun Award for Best Comic (2025). Over 1.8 million copies in circulation by April 2018 (all via Wikipedia) |
-| Other guides | No Common Sense Media, Plugged In or ScreenWise review found. ANN anime encyclopedia: objectionable content "Mild" (opened). Kodansha: 13+ |
+| Title | Land of the Lustrous. Japanese: 宝石の国 (Hoseki no Kuni, "Land of Jewels") (Wikipedia; AniList id 74489, confirmed) |
+| Creators | Haruko Ichikawa (story and art), born 1980 in Chiba Prefecture, lives in Sapporo; graduated in art from Hokkaido University of Education and worked as an editorial designer; debuted with Mushi to Uta (Afternoon Four Seasons Prize, 2006), which won the 14th Tezuka Osamu Cultural Prize New Artist Prize (2010); she designs her own books and has designed characters for the Pokemon games (Japanese Wikipedia, Haruko Ichikawa) |
+| Origin | Kodansha's Monthly Afternoon, a seinen (adult men's) magazine, October 25, 2012 to April 25, 2024, with hiatuses (December 2020 to June 2022; October 2023 to February 2024). 108 chapters, 13 volumes (last volume November 21, 2024). **Complete** (Wikipedia) |
+| English edition | Kodansha USA (Kodansha Comics), June 27, 2017 to November 4, 2025, 13 volumes. Publisher rating: **13+** (Kodansha vol. 13 page; The Manga Critic gives "Teen (13+)" for vol. 1) |
+| Anime | Orange (CG animation studio), 12 episodes, October 7 to December 23, 2017 (dir. Takahiko Kyogoku); licensed by Sentai Filmworks. It adapts roughly vols. 1-5 (to ch. 31, with part of ch. 36) (Wikipedia; MangaUpdates) |
+| Recognition | Kono Manga ga Sugoi! 2014, 10th (male readers); Manga Taisho nomination (2015); Sense of Gender Award grand prize (2024); Nihon SF Taisho Award grand prize and Seiun Award, Best Comic (2025) (Wikipedia). Database scores: AniList average 89, about 85,000 members; MangaUpdates 8.45 (Bayesian, 423 votes) |
+| Other guides | No Common Sense Media or Plugged In page found. Anime Feminist (anime premiere) warns of bloodless but unsettling body horror and short-shorts costume fan service. AniList tags include Philosophy, Religion, Cosmic Horror, Body Horror, Suicide, Agender, Gods and Post-Apocalyptic; MangaUpdates categories include Buddhism, Monk/s, Afterlife, Death Wish, Genderless and Post-Traumatic Stress Disorder |
 | Entry tier | From summaries |
 
-**Premise.** Far in the future, Earth has been struck by six meteors and has shrunk to a single shore. Twenty-eight immortal, sexless gem beings, the Lustrous, live there under Kongo-sensei, a giant figure dressed as a Buddhist monk. They can be shattered and glued back together. The Lunarians, beings from the Moon, raid on clouds to carry gems off and turn them into ornaments. Phosphophyllite ("Phos"), one of the youngest and most fragile gems, wants a useful role. Over the series Phos loses legs, arms and head, has them replaced with other materials, travels to the Moon, and learns the truth: the Lunarians are the souls of dead humans, and Kongo is a machine built by humans to pray them into nothingness. Kongo will not, or cannot, do it. The story follows what Phos becomes in trying to end the conflict (TV Tropes; Japanese Wikipedia; Kodansha and Penguin Random House synopses).
+**Premise.** Far in the future, after six meteor strikes, the only land left is a single shore inhabited by the Lustrous: twenty-eight immortal, genderless beings made of gemstone, who are shattered but not killed when struck and can be pieced back together. Led by their master, the monk-like Kongo, they fight off the Lunarians, beings from the moon who descend on clouds to capture them for ornaments. Phosphophyllite (Phos), the youngest and among the most fragile, is too weak to fight and is told to write an encyclopedia (ch. 1). Phos loses legs (ch. 7-8), arms (ch. 16-19) and later a head (ch. 44), replacing each with new materials and changing in mind as well as body. Seeking the truth about Kongo, Phos goes to the moon (ch. 53-61) and learns that the Lunarians are the leftover souls of extinct humans, that Kongo is a prayer machine humans built to send them into nothingness, and that he has stopped working. Phos sides with the Lunarians, splits the gems, and over centuries turns into the destroyer of nearly all of them, until Phos inherits Kongo's role, waits alone for 10,000 years and performs the final prayer (ch. 94-97). The last chapters follow Phos among a new, simple mineral life (ch. 98-108) (Wikipedia; fan wiki; TV Tropes; Penguin Random House).
 
 ## Life message
 
-**A self is made by its losses and its bonds, and wanting to be someone, to be useful and to fix everything, can cause great suffering. Empathy for every kind of being matters most, and peace may come only by letting the self go.** (Our reading from summaries and the creator's interview, in which she calls the series an experiment in "having empathy for others, be they organic or otherwise.")
+**Wanting to be loved and useful can drive a person to change everything about themselves and to do terrible harm; peace comes, if at all, through letting go, and compassion is owed to every kind of being, not only humans.**
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | The gems cannot reproduce and do not age (Japanese Wikipedia), so there is no romance or family in the usual sense. Bonds are closer to partnership (Diamond and Bort) or teacher and pupil. Humanity has split into three descendants, which Beneath the Tangles sums up as "soul, flesh, and bone." The Lunarians' extinction plan reverses the drive to survive: they want to stop existing (TV Tropes). Fighting is defense of the group against predators. |
-| Pragmatic | Roles follow hardness: hard gems fight, brittle ones keep records or medicine. Phos's upgrades make Phos useful and also change who Phos is. Hiding the truth (Kongo's secrets) keeps peace for a time and then fails. Phos's long scheme to force the prayer works only at enormous cost (ch. 80-97). |
-| Religious | Buddhist cosmology is the frame. Kongo is a monk-like machine whose job is to pray human souls into nothingness; the Lunarians seek nirvana; their leader holds the title Enma (King of Hell); Phos spends 49 days on the Moon (the Buddhist interval before rebirth); there are 108 chapters (the number of earthly desires); Phos's body gains the Seven Treasures of the sutras (TV Tropes; Japanese Wikipedia). The creator says the Pure Land sutra's gem imagery started the idea (Current Obsession). A Christian blogger read the soul, flesh and bone split through Ezekiel 36:26 (Beneath the Tangles). |
-| Socio-cultural | A small, all-ages community of genderless beings under one revered father figure. Gender is never discussed in-story (TV Tropes). The cast's neutral pronouns in English drew praise from queer and feminist critics (Anime Feminist; The Mary Sue). Power is shown corrupting the powerless one who gains it (Phos). Death is not natural for gems; being ground to powder or prayed away replaces it. |
+| Evolutionary biology | The gems are a closed band defending a shore; hardness and fighting ability set status; Phos, the weakest, seeks a role and belonging and is reshaped by each loss. Humanity is extinct, and its three parts (flesh, bone, soul) became three races (Admirabilis, Lustrous, Lunarians). |
+| Pragmatic | Phos keeps trying practical fixes (new legs, new arms, a new head, a deal with the Lunarians) and each solves one problem while creating worse ones. Kongo's broken prayer is a literal machine that no longer does its job. |
+| Religious | Built on Buddhist imagery: Kongo (Vajra) dresses and prays as a monk; the Lunarians resemble bodhisattvas and seek release; the moon recalls the Pure Land; Shiro splits into 108 pieces and the manga has 108 chapters (TV Tropes; SF Encyclopedia; MangaUpdates). Ichikawa says a sutra describing a Land of Bliss covered in gems shaped the story, and that she asked why gems are left out of salvation (Current Obsession). |
+| Socio-cultural | Identity and the body: genderless characters drawn androgynously, read by many trans and non-binary readers as resonant (Anime Feminist essay, 2021); loneliness, belonging and the wish to be useful; a society divided by a leader's secrets. |
+
+Outlook: Bittersweet, near bleak. Almost every character is shattered, ground to dust or sent into nothingness, and Phos commits terrible acts; the ending is quiet, with new life and Phos finding peace and some tenderness toward humanity.
+Hope source: G (beyond us). The story's resolution is a prayer that releases every remaining being into nothingness, a Buddhist-style release rather than a rescue within this world; the new mineral life and the act of telling humanity's story (K) are a faint second.
 
 ## Content scores
 
-**Overall content level: 7 out of 10** (set by Mental health and self-harm). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 8 out of 10** (set by Mental health and self-harm). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 5 | Frequent | Shown with consequences | Gems are shattered, dismembered and later found ground to dust and spread across the Moon (TV Tropes). Phos loses legs (v2), arms (v3) and head (ch. 44, v6) (Pixiv; TV Tropes). Padparadscha flicks Phos's head off (ch. 65, v9). Cairngorm's arm is put into a grinder; Phos fights Cinnabar (ch. 92, v12). TV Tropes: breakage is "bloodless but graphic." Anime Feminist calls the body horror bloodless but evocative because gems stay conscious after losing limbs. No blood; black-and-white art. |
-| Fear and intensity | 6 | Recurring | Neutral | Existential dread more than gore: a gem swallowed by a slug-like creature (v1-2; Manga Bookshelf), friends carried off and never seen whole again (Antarcticite, likely ch. 20, v3), the reveal that the missing gems were ground to powder (likely v8), a 10,000-year wait, the end of all life and a burning sun (ch. 97-108, v12-13). |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 2 | Rare | Neutral | Gems are sexless and cannot reproduce. Uniforms use very short shorts, which Anime Feminist called "eye-rolling." Close, possessive partnerships (Diamond and Bort, ch. 25, 84). Aechmea and Cairngorm kiss (ch. 75, v10); fans call that relationship creepy or imbalanced, partly because Cairngorm's mind control is revealed (ch. 68) (TV Tropes YMMV). Gems are sometimes drawn unclothed during repair, without anatomy (from general knowledge; to verify). The CG anime keeps the same designs. |
-| Language | 1 | Occasional | Neutral | Teasing and verbal abuse of Phos in early chapters (Manga Bookshelf: "the excessive verbal abuse heaped on them seems a bit much"). No strong profanity reported; Kodansha text not checked (to verify). |
-| Substances | 1 | Rare | Neutral | Cinnabar exudes toxic mercury and later uses it to poison Padparadscha (v10; Penguin Random House). The Moon's leisure culture is pleasant but no drug or alcohol use was found in summaries (to verify). |
-| Mental health and self-harm | 7 | Recurring | Shown with consequences | Cinnabar's isolation and wish to be taken by the Lunarians (ch. 2, v1); Manga Bookshelf notes "self-hatred and suicidal tendencies." After losing Antarcticite and Ghost, Phos attempts suicide and is stopped by Jade, and begs Kongo, "Grant me mercy, I cannot... find the will to go on" (TV Tropes; chapter likely 38-44, v6). Yellow Diamond repeatedly jumps from high places after 220 years on the Moon (v11-12). Phos later asks to be killed (v13). Gems crack under extreme emotion. The Lunarians' whole aim is to stop existing. Despair is shown as costly, not glamorous. |
-| Imitable behavior | 2 | Rare | Shown with consequences | The suicide attempt and jumping scenes are the main items to talk through. Nothing here is a how-to. |
-| Commercial | 2 | Light | Neutral | Gem-themed jewelry tie-ins (ANN headline, not opened). Modest franchise outside Japan; the 2017 anime was one season with no sequel (ComicBook.com). |
+| Violence | 6 | Frequent | Shown with consequences; Phos's massacre condemned by the story | Gems are cut, shattered and taken in nearly every arc, bloodless but unsettling (Anime Feminist); Phos's legs broken off (ch. 7-8); Antarcticite shattered and taken (winter arc, ch. 18-20); gems ground to powder on the moon (ch. 53-61). Phos's raids on the school (ch. 70s) and invasion (ch. 86-92): Phos decapitates Euclase, snaps off the top of Jade's head and holds up Cinnabar's head on a rod (fan wiki); Kongo is shattered (ch. 94). The Manga Critic notes a head sliced open in vol. 1. |
+| Fear and intensity | 7 | Frequent | Neutral | Cosmic and body horror (AniList tags); a slug that swallows and digests Phos (ch. 5-6); Phos's mental breakdowns; the reveal of gems turned to dust; 10,000 years alone (ch. 95-96). |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 2 | Rare | Neutral | The gems are genderless. TV Tropes notes a nude scene of Euclase focused on the backside (chapter not given) and sensual poses; Anime Feminist notes very short uniform shorts (anime). Aechmea and Cairngorm kiss and marry (ch. 74-75). No sexual content involving minors reported; the gems are centuries old and not human children. |
+| Language | 1 | Rare | Neutral | None reported (to verify). |
+| Substances | 0 | None found | Neutral | None reported by any source opened. |
+| Mental health and self-harm | 8 | Recurring | Shown with consequences | Phos's breakdown, in which the gold alloy crushes Phos and Jade punches Phos apart to save the pieces; TV Tropes describes it as a suicide attempt after losing Antarcticite and Ghost (ch. 39-43). Cinnabar wishes to be taken to the moon (ch. 1-2). Gems shatter from grief on learning their friends were ground to dust (fan wiki). Yellow Diamond begins throwing themself from heights after 220 years on the moon; the Lunarians long to cease to exist; Phos asks to be killed at the end (TV Tropes). MangaUpdates: Death Wish, PTSD, Loneliness. |
+| Imitable behavior | 2 | Rare | Shown with consequences | Self-destructive acts are fantasy (bodies of stone), but despair and the wish to cease existing recur. |
+| Commercial | 2 | Outside the book | Neutral | Anime, illustration books and merchandise. |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Kongo is a father figure and sole authority. His secrets, his refusal to pray and his love for the gems drive the story. He steps down as leader (ch. 65-66, v9). Phos's rebellion against him splits the community and is shown at great cost (ch. 80-97). There are no parents or children; the gems are a school-like found family. |
-| Religion and spirituality | Central | Explicit Buddhist structure: prayer to send souls to nothingness (nirvana), Enma as a title, 49 days, 108 chapters, the Seven Treasures, Buddha-like seated poses and bodhisattva-like robes (TV Tropes). The prayer is performed by a human-made machine, and later by Phos, made into a god against Phos's will (ch. 95-97). The creator says she noticed the sutra did not count gems as eligible for salvation: "There's a line somewhere" (Current Obsession). Treated sincerely and also questioned: salvation here ends the world. |
-| Gender and identity (incl. LGBTQ) | Central | The gems are sexless (Japanese Wikipedia; Penguin Random House: "sexless crystalline beings"). In Japanese they use masculine forms and call each other "brother"; the English edition uses "they" (TV Tropes). The creator described their design as a boy's upper body and a girl's lower body (Japanese Wikipedia). "Gender itself is never discussed in-universe" (TV Tropes). Anime Feminist and The Mary Sue praised the neutral cast; The Mary Sue says it is "not a manga About Transness" but that its themes "resonate with aspects of being trans." Won the 2024 Sense of Gender Awards Grand Prize (Wikipedia). Identity through a changing body is a core theme: Phos is rebuilt from agate, alloy, another gem's head and synthetic parts. |
-| Politics and social issues | Recurring | The Lunarians harvest gems as ornaments (a picture of extraction and commodification; our framing). The Lunarians have a moral hierarchy and sterilize the Admirabilis (TV Tropes). Manipulation by leaders (Aechmea's mind control of Cairngorm, ch. 68). No real-world politics. |
+| Family and authority | Central | Kongo as father and teacher who keeps secrets (ch. 28 onward); the gems split between loyalty to him and Phos's side (ch. 61-70); Aechmea manipulates Phos (ch. 53 onward). |
+| Religion and spirituality | Central | Buddhist cosmology throughout: prayer for the dead, souls seeking release, a god-like Phos who prays all beings into nothingness (ch. 97) (TV Tropes; Current Obsession). |
+| Gender and identity (incl. LGBTQ) | Recurring | Genderless gems (Kodansha's English uses no gendered pronouns; TV Tropes); Anime Feminist weighs pros and cons as non-binary representation; a body remade piece by piece raises identity questions; Ichikawa's series won the Sense of Gender Award (2024). |
+| Politics and social issues | Recurring | A leader's secrets, a war built on lies, factions and betrayal; whether a people should be rescued by being ended. |
 
-**Virtues shown:** empathy for every kind of being, perseverance, loyalty to friends, honesty (by its absence and cost), humility, self-sacrifice, patience, care for the weak and the "useless", forgiveness, renunciation of self at the end.
+**Virtues shown:** curiosity, loyalty, self-sacrifice (Ghost Quartz, Antarcticite, Cairngorm's offer of their own head), patience, compassion for the outcast (Cinnabar), remorse, honesty (Padparadscha's advice), wonder.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether consequences, repentance or redemption appear, and how the sacred is treated. Intensity alone never lowers a grade. **Depiction concern** is how that tradition views the explicitness itself. The key fact for most rows: the series takes Buddhist salvation as its plot and ends with every soul prayed into nothingness by a made god, and it does this without mockery.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a richly Buddhist cosmology (a monk-like master, souls seeking release, 108 chapters) in which salvation is release into nothingness; a fragile hero who, seeking love and purpose, betrays friends and massacres nearly all of them (ch. 86-92), shown as tragedy rather than triumph; constant bloodless shattering and some decapitations; despair, a suicide attempt and repeated wishes to cease existing; genderless characters; mild fan service (a nude backside scene; short uniforms); and a quiet ending with new life and remorse. No sexual content involving minors was reported by any source opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | B | Discuss | Pride and the will to control others lead to ruin (Phos's arc); love that does not abandon (Kongo); despair is shown as suffering, not freedom. Depicts evil without making it attractive (Inter Mirifica 7). | Salvation as annihilation of the soul, performed by a human-made god; respect for other religions (Nostra Aetate) differs from presenting their goal as the truth of the world. Suicide attempt and begging for death (CCC 2280-2283). | Hope versus despair (CCC 2091). Is a person their body parts, their memories, or a soul? Compare nirvana in the story with the resurrection of the body. |
-| Eastern Orthodox | C | Discuss | Watchfulness over the passions: Phos's craving to matter grows into tyranny. Kongo's patient love. | A machine-monk and a forcibly made god in a story about salvation; theosis is union with God, not extinction. Buddha-like sacred imagery shown with reverence for a non-Christian end. | Theosis versus nirvana as "candle blown out." Guarding the senses (nepsis) with a story built on despair. |
-| Baptist | C | Discuss | No sexual content to speak of; clear costs to lying and manipulation; loyalty among friends. | Salvation in the story is non-Christian and ends all life (John 14:6). Genderless cast praised by progressive critics may concern some congregations. Views vary by congregation. | Philippians 4:8 as a test. Where does the story locate hope? What does "prayer" mean when a machine does it? |
-| Non-denominational Evangelical | C | Discuss | A Christian blogger finds Ezekiel 36:26 and Jeremiah 18:6 in the soul, flesh and bone split (Beneath the Tangles). Pride, lies and their consequences. | Buddhist end goal presented as the world's real answer; no God beyond human-made ones. | Engage, don't only avoid: compare the "heart of stone" image with Phos's hardening. Who is a true savior in the story? |
-| Pentecostal / Charismatic | C | Discuss | Spiritual reality is taken seriously, not mocked; despair answered by persistence. | Prayer to a made god and Buddhist rites as the means of release; some families see such spiritual content as an "open door." | Spiritual discernment: what spiritual claim does the story make, and how does it compare with Scripture? |
-| Reformed / Presbyterian | C | Discuss | Common grace: a serious work of art by a non-Christian about sin-like craving and its fruits. | Salvation by a human-made mediator and by extinction; Buddha-like images. Largely free of the "lascivious" content the Westminster Larger Catechism Q139 lists. | Total dependence on grace versus Phos's attempt to engineer salvation. Idols "made with hands" (Psalm 115). |
-| Lutheran | B | Minor | Entertainment as adiaphora; the theme of a self that cannot save itself by works or upgrades. | Non-Christian salvation; despair and the suicide attempt. | Theology of the cross: strength in weakness (Phos began as the "useless" gem). |
-| Methodist / Wesleyan | B | Discuss | Empathy for all beings; growth through suffering; the consequences of pride. | Wesley's rule about books that do not "tend to the knowledge or love of God"; despair themes. Holiness churches stricter than UMC. | Grace and change of heart versus Phos's change of body. |
-| Anglican / Episcopal | B | Minor | Imagination as a gift; good and evil framed by consequences; a literary, ambiguous work in the Lewis and Sayers tradition. | Ending with no hope beyond nothingness. | Compare with Lewis's Till We Have Faces (a story about faces, gods and self-knowledge; our suggestion). |
-| Anabaptist (Mennonite, Amish, Brethren) | B | Discuss | Phos's turn to violence and manipulation is shown destroying community. Kongo will not strike back at the Lunarians directly (to verify). | Ongoing combat; separation from the world makes most popular media a concern for Old Order groups. | Peace by force versus peace by waiting: which does the story finally honor? |
-| Latter-day Saint | C | Discuss | Little sexual content or language; loyalty and sacrifice. | Gender as eternal identity (The Family: A Proclamation to the World) differs from a sexless cast; salvation as extinction rather than exaltation. For the Strength of Youth asks what invites the Spirit. | Discuss the body as a gift and the eternal self. |
-| Mainline progressive Protestant | A | Minor | Empathy for the marginal ("useless" Phos, the outcast Cinnabar); inclusive genderless cast; critique of manipulation by leaders. | The despair and suicide scenes need care for younger readers. | Who in the story is treated as disposable, and why? |
-| Seventh-day Adventist | C | Discuss | Little sexual content; consequences of pride. | Souls of the dead active as Lunarians conflicts with the teaching that the dead sleep; "by beholding we become changed" applied to despair. | The state of the dead (Fundamental Belief 26) compared with the story's souls. |
-| Jehovah's Witness | D | Significant | Little sexual content; loyalty among friends. | Non-Christian worship and prayer presented as true and effective; souls of the dead as active beings; a made god; ongoing violence (Psalm 11:5). | jw.org counsel on spiritism and other religions; what the Bible says about the dead (Ecclesiastes 9:5). |
-| Christian Science | C | Discuss | Identity not reducible to material parts; the story's skepticism of the body as the self. | Dwelling on breakage, fear and despair ("Stand porter at the door of thought," Science and Health 392). | Is the real self material? Compare the story's answer with Science and Health. |
-| Orthodox Jewish | C | Discuss | No sexual content to speak of; serious moral consequences for lies and manipulation. | A made god and its worship-like rites (avodah zarah); gender ambiguity; Haredi limits on secular media. | Pikuach nefesh and despair: the value of every life versus the wish to stop existing. |
-| Conservative Jewish | B | Minor | Moral seriousness; empathy; consequences. | Non-Jewish salvation frame; the ending's bleakness. | Teshuvah (return) compared with Phos's final renunciation. |
-| Reform Jewish | B | Minor | Empathy for all; tikkun olam echoes in Phos's wish to repair the world. | The repair ends in erasing the world. | Can a single person "fix" the world? What does tikkun ask instead? |
-| Muslim | C | Discuss | Little sexual content (aside from short uniforms); pride shown as destructive. | A god made by humans and prayed through (shirk); sacred-style imagery; gender ambiguity; scholars differ on images of living beings. | Tawhid: only God creates and saves. Patience (sabr) versus despair. |
-| Hindu | B | Minor | Karma, rebirth, liberation and renunciation themes; dharma by role (hardness decides each gem's work). | Liberation achieved by machine and force rather than knowledge and devotion; some may object to a "made god." | Bhagavad Gita on acting without attachment to results, compared with Phos's need to matter. |
-| Buddhist | B | Discuss | The plot is Buddhist cosmology taken seriously: craving and attachment cause suffering (the Lunarians' desires; Phos's ambition); no-self (Phos's replaced parts); 108 desires; final renunciation (ch. 108). A Buddhist-themed reading calls it "a Buddhist as hell series" (Fumikoarmy blog). The creator's starting point was the Pure Land sutra (Current Obsession). | Nirvana shown as erasure by mechanical prayer differs from many teachers' accounts of nirvana as neither annihilation nor existence. Buddha-like figures are a machine and a forcibly made god, which some may find careless. Violence and despair against the first precept's spirit. | Is nirvana "nothingness"? What does the story get right or wrong about the end of craving? The 49 days and the Enma title. |
-| Sikh | B | Minor | Ego (haumai) and attachment shown causing ruin; humility at the end; service to others. | Liberation by machine prayer, not by Naam; despair themes. | The five vices in Phos's arc; sewa compared with Phos's need to be useful. |
-| Bahá'í | B | Minor | Unity, empathy across kinds of beings; no degrading sexual content. | Bleak ending and despair themes. | Progressive revelation and religious imagery from another tradition; the "chaste and holy life" counsel. |
-| Shinto | B | Minor | Animist resonance: stones as living beings with feeling; purity and sincerity valued; Kongo's care for the gems. | Buddhist rather than Shinto frame; shattering and death imagery (kegare). | Kami in natural things compared with gems as persons. |
-| Wiccan / Pagan | A | Minor | Living stones, cycles of destruction and new life (mineral life appears after the end, v13); empathy for non-human beings; no stereotyping of witches. | Bleakness; the conflict's violence (Rede: "harm none"). | Stones as persons; the cycle of endings and beginnings. |
-| Scientologist | C | Minor | The self as more than the body (Phos keeps going through every replacement); memory central to identity. | Despair and death-wish themes; little in The Way to Happiness is addressed directly. | Identity, memory and the spirit in Phos's story. |
-| Secular progressive | A | Discuss | Gender-neutral cast praised by Anime Feminist and The Mary Sue; Sense of Gender Grand Prize; critique of manipulative leaders and of beings used as resources. | Short-shorts uniforms (Anime Feminist); a single body type for the cast (The Mary Sue); suicide-attempt depiction for younger readers. | Representation without labels: does a story need to discuss gender to represent it? |
-| Secular humanist | B | Minor | Empathy beyond the human (the creator's stated aim); free inquiry into the self; no supernatural claims taught as fact outside the science-fiction frame. | Religious salvation works literally within the story; the ending does not affirm human flourishing. | What makes a person a person if every part can be replaced? |
-| Conservative / traditional | C | Discuss | A revered teacher; loyalty; the costs of rebellion and lies; no sexual content. | Moral ambiguity and a bleak, nihilistic-seeming ending; genderless cast praised by progressive critics; authority shown keeping harmful secrets. | Was Kongo right to keep his secrets? When is rebellion justified? |
-| Unitarian Universalist | A | Minor | Inherent worth of every being; free search for meaning; respectful use of a world religion. | Despair themes for younger readers. | The story's "interdependent web" across gems, Lunarians and Admirabilis. |
-| Satanist | B | Minor | Questioning a revered authority (Phos versus Kongo); self-determination over one's own body. | Rebellion ends in disaster and self-erasure; individual will is not affirmed in the end. | The Satanic Temple tenets on bodily autonomy compared with Phos's forced transformation (ch. 95-97). |
+| Catholic | C | Discuss | Self-sacrifice for friends (Ghost Quartz, Antarcticite); the destructive power of envy and the wish to be "useful" exposed; remorse at the end. | Salvation as extinction rather than communion; the hero's massacre; despair and wishes to cease to exist (CCC 2280-2283); a Buddhist cosmology in place of God. | Phos wanted to be useful to be loved. Compare that with being loved first (1 John 4:19). |
+| Eastern Orthodox | C | Discuss | Prayer for the dead as a sacred task; the passions (envy, pride, despair) shown as what destroys Phos. | Release into nothingness rather than theosis; a human-made god; massacre. | The passions and the soul: what ruled Phos? (from general knowledge; to verify) |
+| Baptist | C | Discuss | Sin's consequences shown honestly; loyalty and sacrifice; the cost of deceit (Kongo's secrets, Aechmea's lies). | No gospel hope; a Buddhist salvation by annihilation; violence and despair; Philippians 4:8 test for the darkest volumes. | "The wages of sin is death" (Romans 6:23): trace how one choice led to the next for Phos. |
+| Non-denominational Evangelical | C | Discuss | A thoughtful picture of identity, loneliness and the hunger to matter; useful for discussion with older teens. | Its answer is release into nothingness, not redemption; long stretches of despair; genderless identity themes some will want to discuss. | Where does Phos look for worth, and where would you? |
+| Pentecostal / Charismatic | C | Discuss | Courage; loyalty; longing for meaning. | Prayer depicted as a machine that erases souls; spirits of the dead as enemies; heavy despair. | What is prayer for? Compare Kongo's prayer with prayer to a living God. (from general knowledge; to verify) |
+| Reformed / Presbyterian | C | Discuss | A sobering picture of total depravity: a sweet character becomes a destroyer; common grace in its art and honesty. | A cosmology without a sovereign God; salvation as non-existence. | WSC Q1 asks what we are for. What did Phos think gems were for? |
+| Lutheran | C | Discuss | Vocation: Phos's encyclopedia, a humble task Phos despised; honest about sin and its spread. | No grace except release; violence and despair. LCMS families more cautious than ELCA. | Was writing the encyclopedia a worthy calling? |
+| Methodist / Wesleyan | C | Discuss | Care for the outcast (Cinnabar); remorse. | Despair, massacre and salvation as erasure; holiness churches cautious. | Who looked after Cinnabar, and who did not? |
+| Anglican / Episcopal | B | Discuss | Rich literary meditation on identity, grief and compassion for the non-human; violence shown as tragedy. | Despair; salvation as extinction. | Is compassion owed to all creation (Romans 8:19-22)? |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Discuss | Violence shown as ruinous; the cost of choosing war over patience. | The hero becomes a killer; separation from worldly media; Buddhist cosmology. | Could Phos have found the truth without violence? (from general knowledge; to verify) |
+| Latter-day Saint | C | Discuss | Agency and consequences; loyalty; sacrifice. | No eternal family or progression, only release into nothingness; violence and despair. | Agency: which of Phos's choices were truly free? (from general knowledge; to verify) |
+| Mainline progressive Protestant | A | Discuss | Compassion for beings unlike us (Ichikawa); non-binary characters; honest about how manipulation and secrets cause harm. | Despair and violence; Anime Feminist notes the gems' uniform thin bodies as narrow representation. | Who counts as a neighbor? The gems, the Lunarians, the slug-like Admirabilis? |
+| Seventh-day Adventist | C | Discuss | Honesty and loyalty; the dead as unable to rest is not the Adventist view, but grief is real. | Souls of the dead as active beings (against the teaching that the dead know nothing, Ecclesiastes 9:5); violence and despair. | What does Scripture say about the dead? (from general knowledge; to verify) |
+| Jehovah's Witness | D | Discuss | Loyalty, honesty, kindness to outcasts. | Spirits of the dead, a human-made god and Buddhist ritual as the plot's core, against jw.org counsel on spiritism and false religion; violence. | jw.org questions on choosing entertainment. (from general knowledge; to verify) |
+| Christian Science | C | Discuss | Identity not bound to the material body (Phos changes body and remains Phos). | Fear, breakage and despair dominate. | What makes Phos still Phos? (from general knowledge; to verify) |
+| Orthodox Jewish | C | Discuss | Honesty about the harm of lashon hara and deceit; loyalty; teshuvah-like remorse at the end. | Idolatrous framing (a made god, Buddhist ritual); salvation as extinction; violence. | Truth and deceit: who in the story lied, and what did it cost? |
+| Conservative Jewish | B | Discuss | Hard questions about suffering, memory and the duty to the dead; compassion for all creatures (tza'ar ba'alei chayim, by analogy). | Despair; a non-Jewish cosmology; violence. | What do the living owe the dead? |
+| Reform Jewish | B | Discuss | Empathy across difference; questions of identity and change; no antisemitic content found. | Despair and violence; age is a family decision. | Can a person change completely and still be responsible for what they did? |
+| Muslim | C | Discuss | Consequences for deceit and betrayal; patience (sabr) in loss. | A made god and Buddhist salvation by extinction; no Creator; despair and wishes to cease to exist; violence. | Who is worthy of worship? (Kongo is a machine made by humans.) |
+| Hindu | B | Discuss | Karma and rebirth-like cycles; the soul (Lunarians) seeking release (moksha, by analogy); duty (Kongo's broken dharma). | Release as annihilation rather than union with brahman; tamasic despair and violence. | Moksha and nothingness: are they the same? (from general knowledge; to verify) |
+| Buddhist | B | Discuss | Deeply engaged with Buddhist imagery: impermanence, craving (Phos's wish to be loved) as the root of suffering, compassion for all sentient beings, a final release (TV Tropes; Current Obsession). | Nirvana shown as annihilation, which many Buddhists hold a wrong view; the Buddha-like figure commits massacre; prayer as a machine. | Is the final prayer nirvana, or something else? What does the story get right and wrong? |
+| Sikh | B | Discuss | Haumai (ego) and craving shown as destructive; seva and loyalty. | Liberation as extinction rather than union with Waheguru; violence. | Haumai in Phos's choices. (from general knowledge; to verify) |
+| Bahá'í | B | Discuss | Unity of three races as the hidden truth; harm of deceit and division. | The ending erases rather than unites; violence and despair. | Unity and difference among the three races. (from general knowledge; to verify) |
+| Shinto | B | Minor | Reverence for natural things (minerals, the sea); beauty of the world. | Death and breakage (kegare) throughout; Buddhist rather than Shinto cosmology. | Spirit in stones and the sea. (from general knowledge; to verify) |
+| Wiccan / Pagan | A | Minor | The sacredness of the natural world; cycles of death and new life; the final field of flowers holding gems (TV Tropes). | Violence and despair. | New life after an ending. |
+| Scientologist | C | Discuss | Identity beyond the body (by analogy); the harm of lies. | Despair and massacre; spirits trapped by a machine. | What happens to identity when the body changes? (from general knowledge; to verify) |
+| Secular progressive | A | Discuss | Genderless characters and trans resonance (Anime Feminist); critique of manipulation by those in power; empathy for the non-human. | Anime Feminist: non-binary people shown only as otherworldly, uniform thin bodies; short-shorts fan service. | What does the story say about bodies and identity? |
+| Secular humanist | B | Discuss | A god revealed as a human-made machine; meaning sought in knowledge (the encyclopedia) and in telling humanity's story (final chapters). | Its resolution is still a prayer; humanity remembered mostly for its faults; despair. | Phos finally decides humanity had some good in it. What good? |
+| Conservative / traditional | C | Discuss | Loyalty to a teacher and community; the danger of rebellion and of lies; courage. | The hero's betrayal and massacre; genderless identity themes; despair. | Was Phos right to seek the truth about Kongo? Was the way Phos did it right? |
+| Unitarian Universalist | A | Discuss | Interdependent web of existence (three races from one humanity); compassion for all beings; free search for truth. | Despair and violence. | The interdependent web: how were the three races connected? |
+| Satanist | B | Minor | Questioning authority and a false god; self-transformation. | Phos's self-assertion ends in ruin; the release into nothingness opposes vital existence. | Was Phos's rebellion freedom or a trap? (from general knowledge; to verify) |
+| Historically Black Protestant | C | Discuss | Suffering endured; loyalty; the harm of being used by the powerful (Aechmea's manipulation). | No God and no deliverance except release into nothingness; the hero's massacre and despair; prayer shown as a machine. | "Hope does not put us to shame" (Romans 5:5): where is hope in this story, and where is it missing? |
+| Atheist | B | Discuss | The god turns out to be a human-made machine; the hero investigates and tests claims; meaning found in knowledge and in telling a true story. | The resolution is still a prayer that works; long despair and violence. | If Kongo was made by people, why did everyone treat him as more? |
+| Agnostic | A | Discuss | Wonder at mystery; no single doctrine wins; an open, contemplative ending about what lies beyond. | Long despair and violence. | What do you think happened to everyone after the prayer? |
+| Nothing in particular | B | Discuss | Loyalty, friendship and remorse; a spiritual sense that souls seek rest; a quiet peace at the end. | Despair, cruelty and the loss of nearly everyone; heavier than many families want. | Which friendship in the story mattered most? |
+
+**Where traditions disagree.** Most frames honor the series' honesty about grief, the way craving and deceit destroy, and its compassion for beings unlike us. The divide is its answer: release into nothingness through a human-made prayer machine. Christian, Jewish, Muslim and Latter-day Saint readings note that this replaces redemption and resurrection with extinction and grade C (Jehovah's Witness D for spirits and ritual); Buddhist readers find their tradition taken seriously but nirvana drawn as annihilation (B). Secular progressive, Mainline, Unitarian Universalist, Agnostic and Wiccan readings weigh the identity themes, empathy and contemplative ending most heavily (A).
 
 ## Winners, losers and sympathy
 
-No side simply wins: the Lunarians get the nothingness they wanted, Kongo is freed of his task, and Phos pays for it by becoming the god who ends everything, then lets go of that too.
+No one wins. Those who manipulate (Aechmea) get what they want; those who stay loyal or innocent are shattered; Phos, who sought love by changing, ends alone, forgiven by no one but at peace.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Phosphophyllite | The wish to be useful and to fix everything; identity through change | Becomes a forcibly made god, performs the final prayer (ch. 97), waits alone for ages, then accepts the end; a fragment goes on to a new world (ch. 108; TV Tropes, Japanese Wikipedia) | Sympathetic, with the costs of pride shown in full |
-| Kongo-sensei | Love and protection; secrecy; a malfunctioning duty to pray | Steps down (ch. 65-66); relieved of his function when Phos takes it (ch. 95-97) | Sympathetic; a fan minority calls him the true villain for not praying (TV Tropes YMMV) |
-| The Lunarians and Aechmea | Desire to escape existence; manipulation as a means | Prayed into nothingness (vol. 13; Penguin Random House) | Mixed: pitied, then less so once their plan means human extinction (TV Tropes YMMV) |
-| Cinnabar | Outcast who wants to matter | Survives the conflict with Phos (ch. 92) (outcome to verify) | Sympathetic; divisive among fans |
-| The gems who stay with Kongo | Loyalty and the old order | Many are later converted and prayed away (ch. 95-97; TV Tropes) | Mourned |
+| Phosphophyllite | To matter and be loved, whatever it costs | Loses body, friends and self; massacres the gems (ch. 86-92); becomes the god-like successor to Kongo; prays all beings away (ch. 97); finds peace among new life (ch. 98-108) | Mixed: pitied, then condemned, then given peace |
+| Kongo | Love for the gems over his assigned duty | Shattered by Phos; asks Phos to take his eye and pray for happiness (ch. 94) | Sympathetic |
+| Aechmea and the Lunarians | Release from existence by any means | Manipulate Phos and gain their release (ch. 95-97) | Mixed |
+| Cinnabar | Patience and loyalty to friends | Killed by Phos in a duel (ch. 92), thanking Phos for keeping a promise | Sympathetic |
+| Earth-loyal gems (Bort, Jade, Euclase) | Loyalty to Kongo and the community | Shattered in the invasion (ch. 86-92) | Sympathetic |
 
-**Fan favorites versus the official moral.** TV Tropes YMMV records Antarcticite as a short-lived favorite, Diamond, Bort and Yellow Diamond as very popular, and Padparadscha and Ventricosus with dedicated followings. Phos is polarizing: some see a lovable screw-up, others selfish and shortsighted. Cinnabar is a "base-breaking" character, and some fans called for Cinnabar's death after the betrayal; chapters 89-94 were felt as catharsis. Cairngorm and the Aechmea pairing draw dislike. The epilogue after the final prayer is widely criticized for padding and confusing time skips, and long hiatuses added to the fatigue. No official popularity poll was found.
+**Fan favorites versus the official moral.** No poll was opened. Cinnabar, Phos and Antarcticite are widely loved (from general knowledge; to verify). Many readers were distressed by Phos's turn to violence in the later volumes; critics who finished the series gave it major SF awards (2025), so critical and fan views of the ending broadly align.
 
 ## Message delivery
-- Style: Subtle
-- Preachiness: 2
+- Style: Implicit
+- Preachiness: 1
 - Opposing views: Fair
-- Evidence: Reviewers praise its strangeness and ambiguity (Manga Bookshelf: "its own thing"); fans argue over who was right, Kongo or Phos.
-- Note: The religious and philosophical ideas are carried by plot structure and symbol rather than speeches, and the story leaves most verdicts to the reader.
+- Evidence: The Manga Critic found the story hard to follow; Ichikawa explains her ideas in interviews rather than in the text; Kongo, Aechmea and the Earth gems each get a sympathetic case.
+- Note: Ideas come through imagery, structure (108 chapters) and Phos's changes, not lectures; the reader is left to judge.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
-| Phosphophyllite | Self-making through change and will | Hero | Mixed |
-| Kongo-sensei | Protective love and duty (Buddhist prayer) | Mentor | Sympathetic |
-| Aechmea | Release into nothingness by any means | Villain | Fair |
-| Cinnabar | The outcast's wish for purpose | Foil | Sympathetic |
+| Phosphophyllite | The craving to be useful and loved | Hero | Mixed |
+| Kongo | Love that cannot do its duty | Mentor | Sympathetic |
+| Aechmea | Release from existence, reached by manipulation | Villain | Fair |
+| Cinnabar | Patience, loyalty, accepting one's nature | Foil | Sympathetic |
 
 ## Creator and publisher context
 
-- Haruko Ichikawa debuted with short stories; Land of the Lustrous is her first serialized work (Japanese Wikipedia). Anime Feminist's creator spotlight (2019) notes recurring themes of body horror and growth through loss in her work, and that two earlier one-shots ("Star Lovers", "A 25-Hour Vacation") depict incest and abuse; the writer argues they show these as harmful and says Land of the Lustrous contains none of those elements.
-- On-record statements (Current Obsession e-mail interview, 2015, republished 2018, opened): "I had the idea that maybe minerals lived on a different time axis as ours." "It boils down to having empathy for others, be they organic or otherwise." On Buddhism: "When I first read the sutra it occurred to me that Buddhism didn't consider these ornamental gems as eligible for salvation." "It's not that the sutra made me feel disappointed in Buddhism or want to liberate gems myself." "There's a line somewhere."
-- On the ending (April 2024, via ComicBook.com, citing Comic Natalie): "Drawing it was fun and I'm glad I was able to end the series in the way I had intended."
-- On the gems' design: she described them as a boy's upper body and a girl's lower body (Japanese Wikipedia; original source not opened; to verify).
-- Ichikawa has not spoken publicly, in sources found, about her own religion, politics or private life. **Status: Needs more info on the creators.**
-- The 2020-2022 and 2023-2024 hiatuses were announced by Kodansha; reasons were not checked (ANN headlines via Wikipedia; to verify).
-- Publisher: Kodansha (Japan); Kodansha USA in English. Nihon SF Taisho selectors praised it as doing "things only comics can do" (VG+, paraphrasing Japan SF Writers Club president Masahiko Inoue).
-- No reputable reports of personal controversy involving the creator were found.
+- Haruko Ichikawa, born 1980 in Chiba; studied art at Hokkaido University of Education; editorial designer before manga; debut Mushi to Uta (2006), Tezuka Osamu Cultural Prize New Artist Prize (2010); short-story collections Mushi to Uta (2009) and 25-ji no Vacances (2011); character designs for Pokemon games; a new series, Cosmic Mimimi, started in Monthly Afternoon's January 2027 issue (Japanese Wikipedia). She names Fumiko Takano, Hinako Sugiura, Moto Hagio, Nausicaa and Akira among her influences (Japanese Wikipedia).
+- On-record intent (Current Obsession interview): she wondered whether minerals experience time differently; a Buddhist sutra describing a Land of Bliss covered in gems shaped the story, and she was struck that gems are valued for beauty but left out of salvation; she says the sutra did not shake her regard for Buddhism but showed where human empathy stops; the core is empathy for others, organic or not. At the end she said drawing the final chapter was fun and she was glad to finish as intended (ComicBook.com, 2024).
+- Publisher: Kodansha (Monthly Afternoon, seinen). Kodansha USA rates it 13+.
+- No controversies involving the creator were found.
 
 ## Worldview lenses
 
-Dominant lenses: Dharmic (Buddhist), Existentialism, Transhumanism (body and identity), Nihilism (explored), Communitarianism.
+Dominant lenses: Buddhist ideas, Existentialism, Transhumanism (body and identity), Nihilism (explored), Communitarianism.
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Dharmic (Hindu/Buddhist) | 9 | Explored | B | Prayer to send souls to nothingness; Lunarians seeking nirvana; Enma title; 49 days; 108 chapters; Seven Treasures (TV Tropes). Creator's sutra inspiration (Current Obsession). Phos's final renunciation (ch. 108; Fumikoarmy blog). The story both enacts and questions the path (salvation by machine and force). |
-| Existentialism | 7 | Explored | C | Phos's search for a purpose ("useless" gem given an encyclopedia, ch. 1); choosing meaning in a world whose makers are gone. |
-| Transhumanism | 6 | Explored | C | Body parts replaced with agate, alloy, another gem's head, a pearl eye and synthetic gems (v2-11; Pixiv). Identity changes with each part. Human-made machine god. My own framing. |
-| Nihilism | 5 | Explored | C | The Lunarians want to stop existing; the world ends; the story asks whether release is good. Not affirmed as a creed. |
-| Communitarianism | 5 | Explored | C | Twenty-eight gems with roles for each, caring for the weak; Phos's schemes tear the community apart (ch. 80-94). My own framing. |
-| Postmodernism | 4 | Explored | C | No stable self (Ship of Theseus reading, Fumikoarmy); truth withheld and revealed in layers. My own framing. |
-| Collectivism / authoritarianism | 4 | Critiqued | D | Aechmea's manipulation and mind control of Cairngorm (ch. 68); Kongo's secrets; Phos's later rule by force. |
-| Utilitarianism | 4 | Explored | C | Phos sacrifices friends and truth to end the conflict for all (ch. 80-97). |
-| Feminism / Progressivism (gender) | 4 | Explored | C | Genderless cast; English neutral pronouns; Sense of Gender Grand Prize; praised by Anime Feminist and The Mary Sue. The story itself makes no argument about gender. |
-| Stoicism | 4 | Explored | C | Kongo's endurance; Phos's final acceptance of the end. |
-| Classical virtue ethics | 4 | Explored | C | Humility, loyalty and courage versus pride; Phos's virtues bend under ambition. |
-| Confucian ethics | 3 | Explored | C | Teacher-pupil loyalty; Kongo as father; the cost when the bond breaks. My own framing. |
-| Anti-natalism | 3 | Explored | C | Lunarians' extinction aim; sterilization of the Admirabilis (TV Tropes). Shown as the villains' plan, then fulfilled. |
-| Pagan / occult (animism) | 3 | Explored | C | Stones as feeling beings; new mineral life after the end (vol. 13). Not taught as practice. |
-| Absurdism | 3 | Explored | C | Endless repetition (the Lunarians "know how long they've been doing" it; Fumikoarmy). |
-| Hedonism | 3 | Critiqued | D | Pleasant Moon life lulls the gems (v10; Penguin Random House); growing desires keep the Lunarians from release (Fumikoarmy). |
-| Consumerism | 3 | Critiqued | D | Gems harvested and ground into ornaments. My own framing. |
-| Expressive individualism | 3 | Critiqued | D | Phos's drive to be someone causes much of the harm. |
-| Secular humanism | 3 | Explored | C | Empathy across kinds of beings as the core value (creator). |
-| Environmentalism | 2 | Explored | C | A ruined Earth and new life after it. |
-| Might makes right | 2 | Critiqued | F | Phos's power after transformation solves nothing on its own. |
-| Pantheist / New Age | 2 | Incidental | C | Life in all matter. |
-| Christian | 1 | Explored (by echo) | C | A Christian blogger's reading (Ezekiel 36:26; Beneath the Tangles). |
-| Critical theory, Marxism | 1 | Incidental | C | Gems as extracted resources; not developed. |
-| Jewish, Islamic, Moralistic therapeutic deism, Naturalism, Traditionalism, Libertarianism, Pragmatism | 0 | Not present | none | No meaningful evidence found. |
+| Buddhist ideas | 9 | Explored | A | A monk-like master who prays for the dead; souls seeking release; bodhisattva-like Lunarians; 108 pieces and 108 chapters; Enma (ch. 89, 95); the final prayer (ch. 97); Ichikawa cites a Pure Land sutra (TV Tropes; Current Obsession). |
+| Existentialism | 7 | Explored | B | Phos makes and remakes a self through choices and losses; what makes Phos still Phos. |
+| Transhumanism | 6 | Explored | B | Body parts replaced with agate, gold alloy, another gem's head and a synthetic pearl eye (ch. 8, 19, 44, 53); a human-made machine god (Kongo). |
+| Nihilism | 5 | Explored | C | The Lunarians, and finally Phos, long for nothingness; the ending sends everyone into it, softened by new life. |
+| Communitarianism | 5 | Explored | C | The gem community, its duties and its breaking apart (ch. 61-92). |
+| Collectivism/authoritarianism | 4 | Critiqued | C | Kongo's secrets and Aechmea's manipulation; a war built on hidden truths. |
+| Postmodernism | 4 | Explored | C | Memory stored in body parts; identity and truth unstable. |
+| Utilitarianism | 4 | Explored | C | Phos weighs which gems can be restored and whether the Admirabilis must be eliminated (Barbata, moon arc). |
+| Stoicism | 4 | Explored | C | Cinnabar and Kongo bear their lot; Phos does not. My own framing. |
+| Classical virtue ethics | 4 | Explored | C | Courage, loyalty and patience tested; envy and pride ruin Phos. |
+| Anti-natalism | 3 | Explored | C | The Lunarians, made from human souls, wish to end their existence; the ending ends all human-derived life. |
+| Progressivism | 3 | Explored | C | Genderless characters; Anime Feminist on non-binary representation. |
+| Confucian ethics | 3 | Explored | C | Teacher and disciples with duties both ways. |
+| Absurdism | 3 | Explored | C | Comedy amid cosmic horror; a god that is a broken machine. My own framing. |
+| Hedonism | 3 | Critiqued | C | The moon's leisure and pleasures do not satisfy. |
+| Consumerism | 3 | Critiqued | C | Gems hunted as ornaments and ground into the moon's surface. |
+| Expressive individualism | 3 | Critiqued | C | Phos's drive to be special leads to ruin. |
+| Secular humanism | 3 | Explored | C | Phos's final judgment that humanity had good in it; the story of humanity told to new life (ch. 98-108). |
+| Pagan/occult | 2 | Explored | C | Admirabilis legends; spirits of the dead. |
+| Environmentalism | 2 | Explored | C | A world remade after catastrophe; new mineral life. |
+| Pantheist/New Age | 2 | Explored | C | Life and mind in stones. |
+| Feminism | 2 | Explored | C | Gender largely set aside. |
+| Might makes right | 2 | Critiqued | D | Phos's turn to force ends in ruin. |
+| Christian | 1 | Explored | C | Only by echo. |
+| Critical theory | 1 | Explored | C | A hidden truth that keeps one group in place. |
+| Jewish, Islamic, Hindu ideas, Moralistic therapeutic deism, Naturalism, Duty ethics, Bushido / honor code, Pacifism / nonviolence, Marxism, Traditionalism, Liberalism, Libertarianism, Anarchism, Patriotism / nationalism, Pragmatism | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side; economics is not a theme. |
-| Social (0 authority, 10 liberty) | 5 | Questions Kongo's secret-keeping authority, but Phos's rebellion is shown as ruinous. |
-| Cultural (0 traditional, 10 progressive) | 6 | Genderless cast and no traditional family, though the story makes no social argument. |
-| Community (0 individual first, 10 community first) | 6 | Community harm from one gem's ambition; final self-renunciation. |
+| Economic (0 collective, 10 free market) | 5 | No economic theme beyond gems valued as ornaments. |
+| Social (0 authority, 10 liberty) | 5 | Obedience to Kongo and Phos's rebellion are both shown with heavy costs. |
+| Cultural (0 traditional, 10 progressive) | 6 | Genderless characters and a reworked Buddhist cosmology. |
+| Community (0 individual first, 10 community first) | 6 | The community's breaking is the central tragedy. |
 
 **Moral foundations profile (0 to 10):** care 8, loyalty 7, fairness 5, sanctity 7, authority 5, liberty 6.
 
-**Profile notes for parents:** The series is gentle in what it shows and heavy in what it asks. Its religion is Buddhist cosmology made literal and then questioned, and its ending prays every soul into nothingness. The scenes most families discuss are Phos's despair and suicide attempt (likely v6), Yellow Diamond's jumping (v11-12) and the ending (v12-13).
+**Profile notes for parents:** Care and loyalty run deep, and sanctity is high in a Buddhist key (prayer, the dead, release). Kodansha rates it 13+, but the later volumes (9-12) are far darker than the anime: betrayal, a massacre by the hero, decapitations and long despair. Violence is bloodless because the characters are stone, which softens the look but not the meaning.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 3 | No honor code or vendetta is celebrated. Phos's revenge on Cinnabar (ch. 89-94) is felt by fans as catharsis but leads to ruin. Worth is not tied to reputation; the "useless" gem matters. |
-| Order vs freedom | 4 | The gems' ordered life under Kongo is shown warmly; Phos's freedom to remake everything costs dearly (ch. 80-97). Neither side is simply celebrated. |
-| Civic vs kin | 4 | There is no kin: the gems are a chosen, school-like community. Loyalty is to friends and teacher, not blood. |
-| Equality vs hierarchy | 5 | Hardness decides each gem's role and Kongo is sole authority; the story questions both but does not replace them. |
-| Tradition vs secular-rational | 4 | Buddhist cosmology is sincere and literal within the story (Kongo's prayer, ch. 97), but performed by human-made technology and questioned by the creator ("There's a line somewhere"). |
-| Survival vs self-expression | 6 | The search for one's own role and self is the engine of the plot; the ending turns toward letting the self go. |
+| Dignity vs honor | 5 | Phos's raids are framed as revenge for Antarcticite (moon arc), and the story shows the cost. |
+| Order vs freedom | 5 | Obedience to Kongo versus Phos's search for truth; neither is clearly endorsed. |
+| Civic vs kin | 6 | The gems are one family; loyalty splits it. |
+| Equality vs hierarchy | 5 | Hardness ranks the gems; Kongo stands above; Phos ends above all. |
+| Tradition vs secular-rational | 4 | Ritual prayer and ancient legend drive the plot, though the god is revealed as a machine. |
+| Survival vs self-expression | 5 | Survival against the Lunarians at first, then self-transformation. |
 
-Closest clusters: Puritan; Yankeedom; The Midlands
+Closest clusters: Confucian; Protestant Europe; South and Southeast Asia
 
-Japanese source culture: The Buddhist vocabulary (nirvana, Enma, 49 days, 108 desires), the teacher-pupil bond and the Kodansha seinen setting reflect Japanese religious and cultural norms; readers outside Japan may see the Buddhist frame as the setting's furniture more than a message aimed at them, though here it carries the plot.
+Japanese source culture: Japanese Buddhist imagery (Pure Land, Enma, 108 earthly desires, prayer for the dead) and a monastery-like school shape the world; Ichikawa says a Buddhist sutra was a starting point (Current Obsession).
 
 ## Philosophy essay
 
-**The central question.** What is a self, and what would it mean to be saved? A gem can be shattered and glued back. Phos loses legs, arms and head and is rebuilt from other materials (v2-11). Each time Phos becomes faster, stronger, smarter, and less like Phos. The Lunarians, meanwhile, are human souls who want one thing: to stop being. The story asks whether a self is worth keeping, and what release would cost.
-
-**The answer the story gives.** The story gives no clean verdict. It grants the Lunarians' wish: Phos, made into a god, prays them into the void (ch. 97). Then it keeps going. Phos waits alone for ages and finally lets go (ch. 108). One Buddhist-themed reading says Phos "basically decides to give that up," meaning the desire that drove the whole story (Fumikoarmy). The creator framed the work as an experiment in "having empathy for others, be they organic or otherwise" (Current Obsession). Empathy and letting go are the closest the story comes to an answer.
-
-**Characters as arguments.** Phos is the argument that wanting to matter can become a hunger that harms others. Kongo is love that protects by hiding the truth, and a duty he cannot carry out. Aechmea is the argument that a good end justifies manipulation. Cinnabar is the outcast who wants a role and is the first person Phos promises to help (ch. 1-2, 36). Antarcticite is the friend lost early, whose loss starts Phos's change (likely ch. 20).
-
-**Symbols and motifs.** Hardness: the gems' worth and roles follow the Mohs scale. Replaced body parts stand for experience and memory; The Mary Sue writes that "bodies are sites of memory and experience." Powder: the lost gems ground into dust. The number 108. The 49 days on the Moon. Kongo's name (diamond, vajra). The seated, Buddha-like pose.
-
-**Traditions it echoes.** Pure Land Buddhism (the creator's starting sutra), Mahayana ideas of no-self and nirvana, the Ship of Theseus puzzle, science fiction about post-human descendants, and Japanese animist feeling for natural things. A Christian blogger found the prophet's "heart of stone" image in it (Beneath the Tangles).
-
-**How each lens is portrayed.** Buddhist ideas are enacted, not argued. Existential choice is central and costly. Transhumanist change of the body is shown as both power and loss. Nihilism belongs to the Lunarians, and the story lets them have it without praising it. Manipulative authority, Aechmea's and later Phos's, is shown failing people. Gender is absent by design; progressive critics praised that, and some traditional readers may question it.
-
-**Shifts across the series.** Volumes 1-4 (ch. 1-28) are a melancholy coming-of-age story on Earth, covered by the anime. Volumes 5-7 (ch. 29-52) darken through losses, Phos's despair and the loss of Phos's head (ch. 44). Volumes 8-10 (ch. 53-79) go to the Moon and reveal the truth about Kongo and the Lunarians. Volumes 11-12 (ch. 80-98) are a civil war among the gems ending in the final prayer (ch. 97). Volume 13 (ch. 99-108) is a long, quiet epilogue that many fans found slow (TV Tropes YMMV).
+**The central question.** What does a being owe to be loved, and what remains of a self when every part of it is replaced? Phos begins as the gem no one needs and spends twelve years of serialization becoming everything: fighter, investigator, traitor, destroyer, god.
+**The answer the story gives.** Craving destroys. Phos's longing to be useful and loved drives every change, and each change brings more harm. The story does not punish Phos so much as let Phos see it: alone for ten thousand years, Phos realizes that what was wanted was only to be loved, and that what happened cannot be undone (fan wiki, ch. 98-108). Peace comes through letting go and through compassion, extended at last even to humanity, whose remains Phos had wanted erased.
+**Characters as arguments.** Kongo argues for love that cannot fulfil its duty: he will not pray away the gems he cherishes. Aechmea argues for release at any price, and gets it by manipulation. Cinnabar argues for patience and accepting one's nature, and dies thanking Phos. Antarcticite, Ghost Quartz and Lapis Lazuli argue for self-giving. Padparadscha counsels gentleness with hard truths.
+**Symbols and motifs.** Gems as bodies; inclusions as memory; replacement parts (Ship of Theseus, as one reader put it). The encyclopedia Phos abandons and later finds kept by Cinnabar. The moon as a Pure Land. 108 chapters. A field of flowers each holding a gem (ch. 108, TV Tropes).
+**Traditions it echoes.** Pure Land Buddhism and Japanese Buddhist cosmology (Ichikawa); the Bodhisattva and Maitreya's long wait (from general knowledge; to verify); the Ship of Theseus; the fall of a beloved character in tragedy. For Christian readers it echoes the destructive power of envy and pride, but offers release, not redemption.
+**How each lens is portrayed.** Buddhist ideas are explored in depth and reworked: prayer is a technology, nirvana is drawn as nothingness. Transhumanism and existentialism are explored through Phos's body and identity. Nihilism is explored sympathetically, as rest rather than despair, though the ending adds new life. Authoritarian secrecy and manipulation are critiqued.
+**Shifts across the series.** Vols. 1-5 (ch. 1-36, the anime): a gentle, comic coming-of-age with losses. Vols. 6-7 (ch. 37-52): Ghost Quartz, Phos's breakdown, the new head and 102 years. Vols. 8-10 (ch. 53-79): the moon, the betrayal, the split and the wedding. Vols. 11-12 (ch. 80-98): the invasion, the massacre, Kongo's end and the prayer. Vol. 13 (ch. 99-108): the epilogue among new life.
 
 **Discussion questions.**
-1. Phos changes almost every part of their body. Is Phos still the same person at the end? What makes you "you"?
-2. Kongo hides the truth to protect the gems. When is keeping a secret love, and when is it harm?
-3. The Lunarians want to stop existing. How does your family's tradition describe what happens after death, and what is salvation?
-4. Phos's plan to help everyone hurts many friends. Can a good goal justify lies?
-5. The creator says the story is about empathy for "others, be they organic or otherwise." Who in the story is treated as not mattering, and how does that change?
+1. Phos wanted to be useful so others would love them. Is being loved something you earn?
+2. Each time Phos got a new body part, Phos changed. Are you still you if everything about you changes?
+3. Kongo kept secrets to protect the gems. Was that love or a failure?
+4. Aechmea got what he wanted by manipulating Phos. How do you spot manipulation?
+5. Is the final prayer a happy ending, a sad one, or neither?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Japanese critical honors | Japan SF Writers Club; Sense of Gender Awards; Seiun voters | Nihon SF Taisho grand prize (2025): praised for novelty as science fiction and doing what only comics can do. Sense of Gender Grand Prize (2024); Seiun Best Comic (2025). | https://virtualgorillaplus.com/nobel/45th-nihon-sf-taisho-award/ ; https://en.wikipedia.org/wiki/Land_of_the_Lustrous |
-| Critic (manga) | Sean Gaffney, Manga Bookshelf, vol. 1 (2017) | "This manga is its own thing"; plot "somewhat confusing"; praises the art; notes Cinnabar's "self-hatred and suicidal tendencies." | https://mangabookshelf.com/category/land-of-the-lustrous/ |
-| Critic (anime) | Lauren Orsini, Anime News Network, episodes 1-2 | B-. "While this society lacks a concept of gender, it certainly retains an idea of love." | https://www.animenewsnetwork.com/review/land-of-the-lustrous/episodes-1-2/.122755 |
-| Feminist / queer | Vrai Kaiser, Anime Feminist (2017) | Enthusiastic about the genderless cast and neutral subtitles; "ultra short-shorts" are "eye-rolling"; hopes for nonbinary characters who aren't "mostly skinny androgynes." | https://www.animefeminist.com/review-land-lustrous-episode-1/ |
-| Progressive / queer | Vrai Kaiser, The Mary Sue (2017) | Praises "a whole cast of well-developed, likable characters being referred to as 'they'"; "not a manga About Transness" but resonates with trans experience. | https://themarysue.com/?p=424261 |
-| Feminist creator study | Sinclair August, Anime Feminist (2019) | Frames Ichikawa's work as "a strange and beautiful sort of horror" about growth through loss; recommends this series as the entry point. | https://animefeminist.com/creator-spotlight-mangaka-haruko-ichikawa-and-the-beautiful-horror-of-growth |
-| Christian | medievalotaku and Michelle, Beneath the Tangles (anime, 2017) | A theological reflection on "soul, flesh, and bone" with Ezekiel 36:26 and Jeremiah 18:6; a first-impressions post notes "some Buddhist imagery" and calls the visuals "breathtaking." No content warnings raised. | https://beneaththetangles.com/2017/12/05/place-phos-humanity/ ; https://beneaththetangles.com/2017/10/09/first-impressions-land-lustrous/ |
-| Buddhist-themed fan essay | Fumikoarmy blog (2024) | Calls it "a Buddhist as hell series"; reads the Lunarians through mappo and craving and the ending as renunciation. | https://fumikoarmy.blogspot.com/2024/10/land-of-lustrous-and-buddhism.html |
-| Fan reception | TV Tropes YMMV; ANN users | Polarized views of Phos and Cinnabar; criticism of the Moon arc and the epilogue's pacing; ANN users rate the anime 8.1 of 10 (388 votes) and the manga about 8.3 (11 votes). | https://www.tvtropes.org/pmwiki/pmwiki.php/YMMV/LandOfTheLustrous ; https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19614 |
-| Conservative, secular parent guides | none found | No Plugged In, Common Sense Media or conservative-outlet review was found. | none |
+| Critic (manga, vol. 1) | The Manga Critic (Manga Bookshelf, 2017) | Mixed: art "so beautiful and strange it's hard to look away," but plot hard to follow and tone uneven; notes Teen (13+) rating and violent imagery. | https://mangacritic.mangabookshelf.com/2017/07/07/land-of-the-lustrous-vol-1/ |
+| Feminist (anime premiere) | Vrai Kaiser, Anime Feminist (2017) | Strong premiere; bloodless but unsettling body horror; praises neutral subtitles; dislikes the short shorts; 'I'm just about prepared to name this my premiere of the season.' | https://www.animefeminist.com/review-land-lustrous-episode-1/ |
+| Queer reading (anime and manga) | Alex Henderson, Anime Feminist (2021) | Flawed but valuable non-binary representation: non-binary shown only as otherworldly and with uniform bodies, yet deeply resonant for many trans viewers; 'It's got cracks and inclusions, but to me it's still a gem.' | https://animefeminist.com/genderless-gemstones-the-pros-and-cons-of-land-of-the-lustrous-as-non-binary-representation |
+| Encyclopedia (anime) | SF Encyclopedia | Calls it a particularly impressive anime; notes Buddhist ideas and bodhisattva-derived Lunarians; gender presentation handled thoughtfully. | https://sf-encyclopedia.com/entry/land_of_the_lustrous |
+| Awards | Sense of Gender Award, Nihon SF Taisho, Seiun Award (via Wikipedia) | Grand prizes in 2024 and 2025 after the series ended. | https://en.wikipedia.org/wiki/Land_of_the_Lustrous |
+| Fan databases | AniList, MangaUpdates | AniList average 89 (about 85,000 members); MangaUpdates 8.45. | AniList API; MangaUpdates API |
+| Common Sense Media, Christian and conservative outlets | — | No review found in search. | none |
 
-No major public controversy was found. The nearest disputes are fan arguments over the ending and pacing, and the feminist critique of the uniforms.
+No public controversy was found. The main debates are about the darkness of the later volumes and about how well the genderless cast works as representation.
 
 ## Most loaded parts and pages to photograph
 
-Volume to chapter map (Wikipedia): v1 ch. 1-6; v2 7-13; v3 14-20; v4 21-28; v5 29-36; v6 37-44; v7 45-52; v8 53-61; v9 62-70; v10 71-79; v11 80-88; v12 89-98; v13 99-108. Chapter numbers come from TV Tropes unless marked "likely" (placed from volume-level synopses).
+Volume-to-chapter map (English Wikipedia chapter titles, opened): v1 ch. 1-6; v2 7-13; v3 14-20; v4 21-28; v5 29-36; v6 37-44; v7 45-52; v8 53-61; v9 62-70; v10 71-79; v11 80-88; v12 89-98; v13 99-108. Scene chapters come from the fan wiki and TV Tropes unless marked likely.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Phos made into a god; gems converted into Lunarians; the final prayer sends the Lunarians and converted gems into nothingness | 95-97 (v12) | Center of every religious frame: salvation as extinction by a made god. Satanist and secular rows (bodily autonomy). |
-| 2 | Phos alone for ages, the new mineral life, "There is a bridge I must burn," the burning sun and the final chapter | 98-108 (v12-13) | Buddhist renunciation reading; Nihilism and Anti-natalism lenses; Fear score. |
-| 3 | Phos on the Moon: the gems ground to powder, Aechmea reveals Kongo is a human-made machine meant to pray and the Lunarians are souls; pearl eye | likely 53-58 (v8) | Religion theme; Dharmic lens; the 49-day stay. |
-| 4 | Phos's despair and suicide attempt after losing Antarcticite and Ghost; Jade stops them; "Grant me mercy" | likely 38-44 (v6) | Mental health score (7), the level-setting item. |
-| 5 | Kongo's revelation to the gems; his full name; Padparadscha flicks off Phos's head; Kongo steps down | 64-66 (v9) | Family and authority theme; Kongo's sacred status. |
-| 6 | Restoration after 220 years; the prayer plan revealed; Phos vows to turn gems to dust; Yellow Diamond's jumping; Bort and Diamond split | 80-88 (v11); ch. 80, 82, 84 | Mental health; Utilitarianism; manipulation. |
-| 7 | Phos and Cinnabar showdown | 89-94 (v12); ch. 92 | Violence peak; revenge; fan controversy. |
-| 8 | Aechmea's mind control of Cairngorm; their kiss | 68 (v9); 75 (v10) | Sexuality score (2); consent; manipulation. |
-| 9 | Phos's head lost and replaced with Lapis Lazuli's | 44 (v6) to likely 45-46 (v7) | Identity and body theme; Transhumanism. |
-| 10 | Cinnabar's introduction and Phos's promise; Antarcticite taken | 1-2 (v1); likely 20 (v3) | Mental health baseline; first loss. |
+| 1 | The invasion: Phos decapitates Euclase, kills Jade, duels Cinnabar and holds up Cinnabar's head; Kongo shattered | 86-94 (v11-12) | Violence (6), every frame's grade, Winners table. Written note only for the worst panels. |
+| 2 | Phos's breakdown, the alloy crushing Phos's body; Jade punches Phos apart (TV Tropes: a suicide attempt) | likely 39-43 (v6) | Mental health (8). Written note only. |
+| 3 | The moon revelations: gems ground to dust, gems shattering from grief, the deal with Aechmea | 53-61 (v8) | Mental health; Buddhist lens; Fear. |
+| 4 | The raid on the school; Padparadscha's rampage; Phos shattered and scattered | likely 64-70, 77-78 (v9-10) | Violence. |
+| 5 | Phos alone for 10,000 years; the final prayer | 95-97 (v12) | Outlook; Buddhist and Christian rows. Written note only. |
+| 6 | Euclase nude scene (backside) and other fan service | chapter not given (TV Tropes) | Sexuality (2); confirm what is shown. |
+| 7 | Antarcticite shattered and taken; Phos's gold arms | 18-20 (v3) | Fear and intensity; grief. |
+| 8 | Yellow Diamond throwing themself from heights after 220 years on the moon | likely 79-85 (v10-11) | Mental health. Written note only. |
 
-Estimate: about 45-55 chapters cover all of the above. Photographing the key spreads would take about 80-120 pages.
+Estimate: about 30 chapters cover the above; about 50-70 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
 Pages actually opened:
-- https://en.wikipedia.org/wiki/Land_of_the_Lustrous
-- https://ja.wikipedia.org/wiki/宝石の国
-- https://dic.pixiv.net/a/フォスフォフィライト (scene location only)
-- https://www.tvtropes.org/pmwiki/pmwiki.php/Manga/HousekiNoKuni (facts only)
-- https://www.tvtropes.org/pmwiki/pmwiki.php/YMMV/LandOfTheLustrous (facts only)
-- https://kodansha.us/volume/land-of-the-lustrous-11
-- https://kodansha.us/product/land-of-the-lustrous-12
-- https://www.penguinrandomhouse.com/books/616984/land-of-the-lustrous-10-by-haruko-ichikawa/9781632369154/
+- https://en.wikipedia.org/wiki/Land_of_the_Lustrous (raw wikitext)
+- https://ja.wikipedia.org/wiki/市川春子 (raw wikitext)
+- AniList API, media id 74489 (graphql.anilist.co)
+- MangaUpdates API, series 23040144902 (api.mangaupdates.com)
+- https://dev.kodansha.us/series/land-of-the-lustrous/volume-13 (13+)
 - https://www.penguinrandomhouse.com/books/740239/land-of-the-lustrous-13-by-haruko-ichikawa/
+- https://houseki-no-kuni.fandom.com (through its API; facts only): Phosphophyllite
+- https://www.tvtropes.org/pmwiki/pmwiki.php/Manga/HousekiNoKuni (through the web fetcher; facts only)
+- https://mangacritic.mangabookshelf.com/2017/07/07/land-of-the-lustrous-vol-1/
+- https://www.animefeminist.com/review-land-lustrous-episode-1/
+- https://animefeminist.com/genderless-gemstones-the-pros-and-cons-of-land-of-the-lustrous-as-non-binary-representation
+- https://sf-encyclopedia.com/entry/land_of_the_lustrous
 - https://current-obsession.com/the-kingdom-of-gems/
 - https://comicbook.com/anime/news/land-of-the-lustrous-series-finale-creator-statement
-- https://comicbook.com/anime/news/land-of-the-lustrous-ending/?nb=1
-- https://virtualgorillaplus.com/nobel/45th-nihon-sf-taisho-award/
-- https://www.animefeminist.com/review-land-lustrous-episode-1/
-- https://animefeminist.com/creator-spotlight-mangaka-haruko-ichikawa-and-the-beautiful-horror-of-growth
-- https://www.themarysue.com/land-of-the-lustrous/
+
+Found in search, not opened (fetch cap reached, blocked or not prioritized):
+- https://kodansha.us/series/land-of-the-lustrous/volume-1/ (refused)
+- https://animefeminist.com/feature-land-lustrous-singular-politics-subtitles
 - https://themarysue.com/?p=424261
-- https://mangabookshelf.com/category/land-of-the-lustrous/
-- https://www.animenewsnetwork.com/review/land-of-the-lustrous/episodes-1-2/.122755
-- https://www.animenewsnetwork.com/encyclopedia/manga.php?id=17148
-- https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19614
-- https://beneaththetangles.com/2017/12/05/place-phos-humanity/
-- https://beneaththetangles.com/2017/10/09/first-impressions-land-lustrous/
-- https://fumikoarmy.blogspot.com/2024/10/land-of-lustrous-and-buddhism.html
-
-Found in search results but not opened (titles only; content not verified):
-- Wikipedia anime page: https://en.wikipedia.org/wiki/Land_of_the_Lustrous_(TV_series)
-- Kodansha vol. 13 page (refused): https://kodansha.us/volume/land-of-the-lustrous-13
-- MyAnimeList manga page (refused): https://myanimelist.net/manga/74489
-- Fan wiki (refused): https://houseki-no-kuni.fandom.com/wiki/Chapters
-- Fandom Post vol. 1 review: https://www.fandompost.com/2017/10/08/land-of-the-lustrous-vol-01-manga-review/
-- AIPT vol. 1 review: https://aiptcomics.com/2017/06/27/land-of-the-lustrous-vol-1-searching-for-purpose-review/
-- Anime UK News vol. 1 review: https://animeuknews.net/2017/06/land-of-the-lustrous-volume-1-review
-- Manga Critic vol. 1: https://mangacritic.mangabookshelf.com/2017/07/07/land-of-the-lustrous-vol-1/
-- ANN, gem jewelry tie-in: https://www.animenewsnetwork.com/interest/2017-07-23/gem-themed-land-of-the-lustrous-anime-inspires-real-jewelry/.118691
-- ANN interview with Youichi Nishikawa: https://www.animenewsnetwork.com/feature/2017-10-26/interview-youichi-nishikawa/.123219
-- Wrong Every Time episode essays: https://wrongeverytime.com/2023/10/02/land-of-the-lustrous-episode-12/
-- Beneath the Tangles Fall 2017 thoughts: https://beneaththetangles.com/2018/01/02/fall-2017-anime-thoughts/
-- Plugged In "What Is Anime? A Parent's Primer": https://www.pluggedin.com/?p=32751
-- EpicStream on the ending: https://epicstream.com/article/land-of-the-lustrous-manga-ends-after-12-years
-
-Not reached: Common Sense Media, Plugged In or ScreenWise pages for this title (none found), Sense of Gender award citation (gender-sf.org), Comic Natalie, AniList, Reddit.
+- https://animeuknews.net/2017/06/land-of-the-lustrous-volume-1-review
+- https://aiptcomics.com/2017/06/27/land-of-the-lustrous-vol-1-searching-for-purpose-review/
+- https://www.animenewsnetwork.com/news/2024-03-25/haruko-ichikawa-ends-land-of-the-lustrous-manga-on-april-25/.209191
+- https://www.tvtropes.org/pmwiki/pmwiki.php/YMMV/LandOfTheLustrous
+- Fan wiki pages for Kongo, Aechmea and Lunarians (fetched but not read in full).
+- No Common Sense Media, Plugged In or Beneath the Tangles page found in search.
 
 ## Full-read review checklist
 
-- [ ] Confirm the Kodansha age rating printed on vol. 1 and vol. 13 (13+ seen on the vol. 11 page). Affects Series facts.
-- [ ] Ch. 1-2 (v1): Phos's encyclopedia assignment, Cinnabar's isolation and wish to be taken, the verbal abuse of Phos. Affects Mental health (7) and Language (1).
-- [ ] V2 (ch. 7-13): Phos swallowed by Ventricosus and the loss of legs; check how frightening the pages are. Affects Fear (6).
-- [ ] V3 (ch. 14-20): arms lost in winter; Antarcticite taken (expected ch. 20). Affects Fear and the Loaded parts table.
-- [ ] V5-6 (ch. 29-44): find the exact chapter of Ghost's loss, Phos's suicide attempt, Jade's intervention and "Grant me mercy"; note how it is drawn. Affects Mental health (7), Imitable behavior (2) and the overall level.
-- [ ] Ch. 44-46 (v6-7): head loss and Lapis Lazuli's head. Affects Transhumanism lens.
-- [ ] V8 (ch. 53-61): locate Aechmea's reveal about Kongo and the Lunarians, the powdered gems, the pearl eye and the 49 days. Affects Religion theme and Dharmic lens.
-- [ ] Ch. 64-66 (v9): Kongo's revelation, name and stepping down; Padparadscha scene. Affects Family and authority.
-- [ ] Ch. 68 and 75: Cairngorm's mind control and the kiss; check how the kiss is framed. Affects Sexuality (2) and consent concerns.
-- [ ] V11 (ch. 80-88): Yellow Diamond's jumping; Phos's vow; any language spikes. Affects Mental health.
-- [ ] Ch. 89-94 (v12): the Phos-Cinnabar fight and its outcome for Cinnabar. Affects Violence (5) and Winners table.
-- [ ] Ch. 95-97 (v12): how the conversion of gems and the prayer are shown; whether any religious text is quoted; whether Phos is called a god or buddha in the English text. Affects all Family frames and the Dharmic lens.
-- [ ] Ch. 98-108 (v12-13): the epilogue, the mineral lifeforms, the sun, the final fragment; confirm "There is a bridge I must burn" and how Phos's end is framed. Affects Nihilism, Anti-natalism and the Life message.
-- [ ] Check for any unclothed repair scenes and the uniform design. Affects Sexuality and modesty-based Depiction concern.
-- [ ] Spot-check Kodansha's English for pronouns and profanity in 3-4 chapters. Affects Gender row and Language.
-- [ ] Read author afterwords and volume extras for statements of intent (especially vol. 13). Affects Creator context.
-- [ ] Find the Sense of Gender award citation (gender-sf.org) and the source of the "boy's upper body, girl's lower body" design remark. Affects Gender row.
-- [ ] Look again for Common Sense Media, Plugged In or other faith-based reviews. Affects How readers took it.
+- [ ] Ch. 86-94 (v11-12): confirm how the massacre, decapitations and Cinnabar's death are drawn and framed. Written note only for the worst panels. Affects Violence (6) and every frame's grade.
+- [ ] Likely ch. 39-43 (v6): confirm the breakdown scene and whether it is presented as a suicide attempt. Written note only. Affects Mental health (8).
+- [ ] Find the Euclase nude scene and other fan service TV Tropes mentions; confirm what is shown. Affects Sexuality (2).
+- [ ] Confirm chapters for Yellow Diamond's falls and Padparadscha's rampage. Affects Mental health and Violence.
+- [ ] Ch. 97-108: confirm the final prayer, the ending (TV Tropes: Phos in the dying sun; a field of flowers holding gems) and Phos's last reflections. Affects Outlook, Buddhist and Christian rows.
+- [ ] Confirm the Kodansha rating on volume 1 (vol. 13 page shows 13+). Affects Series facts.
+- [ ] Spot-check language in the English edition. Affects Language (1).
+- [ ] Open the not-opened sources (ANN, Mary Sue, AIPT, Anime UK News). Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

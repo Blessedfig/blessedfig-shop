@@ -215,7 +215,7 @@ Japanese source culture: The neighborhood konbini, a wife who manages the househ
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Critic (manga, vol. 1) | Katherine Dacey, The Manga Critic (Manga Bookshelf, 2022) | Recommended: efficient opening, inventive fight panels; later chapters looser; body jokes overused (Shin calls him "gone all tubby"). | https://mangabookshelf.com/2022/05/19/sakamoto-days-vol-1/ |
+| Critic (manga, vol. 1) | Katherine Dacey, The Manga Critic (Manga Bookshelf, 2022) | Recommended: efficient opening, inventive fight panels; later chapters looser; body jokes overused. | https://mangabookshelf.com/2022/05/19/sakamoto-days-vol-1/ |
 | Critics (manga) | Rebecca Silverman (ANN), Sheena McNeil (Sequential Tart), Reiichi Narima (Real Sound), via Wikipedia | Positive: entertaining cast and premise; compared to The Way of the Househusband and early Toriyama; action likened to Otomo; drifts from comedy to battles. | https://en.wikipedia.org/wiki/Sakamoto_Days |
 | Parent guide (anime) | Danae Stahlnecker, Common Sense Media | 16+: brutal combat and beheadings, frequent profanity, some drinking and smoking; positive messages about change and family; flags fat jokes. | https://www.commonsensemedia.org/tv-reviews/sakamoto-days |
 | Christian parent guide (anime, ep. 1) | Kennedy Unthank, Plugged In | Heavy violence and profanity; sweet family moments undercut by action demands, "tasting a little metallic." | https://www.pluggedin.com/tv-reviews/sakamoto-days |

@@ -1,122 +1,127 @@
 # Monster
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Series facts, the full volume-to-chapter map with chapter titles, the Viz rating and the Common Sense Media rating come from pages that were opened (Wikipedia, Comic Book Bin, ANN, Common Sense Media, Mangapedia). Scene locations come from chapter titles, the Monster fan wiki (obluda.fandom.com) and ANN volume reviews; the Ruhenheim climax (v17-18) is placed by chapter title and anime-episode summaries, so several of those chapters are marked "likely". No on-record statement by Urasawa about the themes of Monster was found beyond its origin. The shared web-fetch budget ran out before more creator interviews and parent guides could be opened. Items resting on general knowledge are marked "(from general knowledge; to verify)".
-
-Numbering: "v" is the 18-volume Viz standard edition (= the Japanese tankobon). "PE" is the 9-volume Viz Perfect Edition. Each Perfect Edition volume holds two standard volumes (PE 1 = v1-2, ch. 1-16, confirmed by Comic Book Bin; PE n = v(2n-1) and v(2n) for the rest, likely).
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium.** Built 2026-11-25 (about 25 lookups for this series). The series is complete: 162 chapters in 18 volumes (Big Comic Original, December 1994 to December 20, 2001) (English Wikipedia). Series facts and the volume-to-chapter map with all 162 chapter titles come from English Wikipedia (the series article and the chapter list, opened as raw wikitext; the character list was downloaded and skimmed), the AniList and MangaUpdates APIs, and VIZ's Perfect Edition vol. 9 product page. Plot facts come from Wikipedia and TV Tropes (facts only). Reviews opened: Common Sense Media (anime), Gaheret at Beneath the Tangles (Christian, 2021) and Matthew John Paul Tan at Humanum Review (Catholic). Wikipedia's reception section supplied Junot Diaz (Time), Carl Kimlinger, Carlo Santos and Casey Brienza (ANN), and Deb Aoki. A 2019 Japan House interview summary (J-Generation) had no statements on Monster's themes. No Plugged In review was found; the ANN volume reviews and Kotaku's essay were found in search but not opened. Scene chapters come from Wikipedia's chapter titles and general knowledge and are marked "likely" where unconfirmed. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Monster. Japanese: MONSTER (read monsutaa) |
-| Creators | Naoki Urasawa (story and art). Wikipedia notes Takashi Nagasaki's credit as story "co-producer" on Urasawa's works (to verify for Monster specifically) |
-| Origin | Big Comic Original (Shogakukan), a seinen magazine for adult readers. December 1994 to December 20, 2001: 162 chapters in 18 volumes (June 30, 1995 to February 28, 2002). Complete. A 9-volume kanzenban followed (January 30 to August 29, 2008). Companion book Another Monster (2002) retells the case through an investigative reporter; a 2008 book collects the in-story picture books, credited to the fictional author "Emil Schöbe" with Urasawa as "translator" (Wikipedia; Mangapedia) |
-| English edition | Viz Media (Viz Signature). Standard edition: 18 volumes, February 21, 2006 to December 16, 2008. Monster: The Perfect Edition: 9 volumes, July 15, 2014 to July 19, 2016 (Wikipedia). Viz age rating: **T+ (Teen Plus, "for Older Teens")** (Comic Book Bin, Perfect Edition v1) |
-| Anime | Madhouse, directed by Masayuki Kojima, 74 episodes, Nippon TV, April 7, 2004 to September 28, 2005. English dub aired on Syfy's Ani-Monday from October 2009; on Netflix from 2023; Discotek Blu-ray announced for 2026. US TV rating: TV-MA (Common Sense Media). Live-action attempts: New Line (2005), Guillermo del Toro with HBO (2013, passed) (Wikipedia) |
-| Recognition | Over 20 million copies. Japan Media Arts Festival Excellence Prize (1997), Tezuka Osamu Cultural Prize Grand Prize (1999), Shogakukan Manga Award, general (2001), YALSA Great Graphic Novels for Teens (2007), several Eisner nominations, SPJA Best Drama Manga (2009) (Wikipedia) |
-| Other guides | Common Sense Media (anime): **15+**, TV-MA; parents and kids both say 13+ (opened). School Library Journal (Perfect Edition): "Gr 8 Up," warning of "violence (mostly off-screen), death, and murder" (opened). Anime News Network encyclopedia: "Objectionable content: Intense" (opened). No Plugged In review found |
+| Title | Monster (stylized MONSTER) (Wikipedia; AniList id 30001, confirmed) |
+| Creators | Naoki Urasawa (story and art), born January 2, 1960; creator of Yawara!, Happy!, 20th Century Boys, Pluto and Asadora!. Takashi Nagasaki is credited as story co-producer (Wikipedia) |
+| Origin | Big Comic Original, Shogakukan, a seinen (adult men's) magazine, semimonthly. 162 chapters, 18 volumes (June 30, 1995, to February 28, 2002); a 9-volume kanzenban (2008). Urasawa also wrote the novel Another Monster (2002), set after the manga (Wikipedia). **Complete** |
+| English edition | VIZ Media, 18 volumes (February 21, 2006, to December 16, 2008), then Monster: The Perfect Edition in 9 volumes (July 15, 2014, to July 19, 2016) under VIZ Signature. Publisher rating: **Teen Plus (T+)** (VIZ Perfect Edition vol. 9 product page). YALSA put it on its 2007 Great Graphic Novels for Teens list (Wikipedia) |
+| Anime | Madhouse, 74 episodes (April 2004 to September 2005), directed by Masayuki Kojima, faithful to the manga; on Netflix since 2023; Discotek Blu-ray announced for 2026. Common Sense Media cites a TV-MA rating (Wikipedia; Common Sense Media) |
+| Recognition | Over 20 million copies; Japan Media Arts Festival Excellence Prize (1997), Tezuka Osamu Cultural Prize Grand Prize (1999), Shogakukan Manga Award (2001), Lucca Best Manga Series (2004); several Eisner nominations (Wikipedia). Database scores: AniList average 90, about 110,000 members; MangaUpdates 8.76 (Bayesian, 2,034 votes) |
+| Other guides | Common Sense Media (anime): age 15+, "Dark, intriguing psychological thriller anime is bloody." No Plugged In page found. MangaUpdates genres include Horror, Mature and Tragedy; tags include Serial Killer/s, Human Experiment/s, Torture, Mass Murder/s, Childhood Trauma. AniList tags: Suicide, Torture, Crossdressing, Orphan |
 | Entry tier | From summaries |
 
-**Premise.** In 1986 Düsseldorf, Japanese neurosurgeon Kenzo Tenma defies his hospital director and operates on a boy shot in the head, Johan Liebert, instead of the town's mayor. The mayor dies and Tenma's career collapses; then the director and two senior doctors are poisoned (ch. 5). Nine years later Tenma learns that the boy he saved is a serial killer (ch. 7-8). Framed for the murders and hunted by BKA Inspector Heinrich Lunge, Tenma leaves medicine to find and stop Johan. The trail runs through newly reunified Germany and into Prague: Kinderheim 511, an East Berlin orphanage that tried to strip children of empathy; the Red Rose Mansion in Prague, where Franz Bonaparta (Klaus Poppe) used picture books to reshape children; old communists and neo-Nazis who want to make Johan a new Führer; and a final massacre in the Bavarian town of Ruhenheim. Johan's twin sister Nina (Anna) hunts him too (Wikipedia; EBSCO; Mangapedia).
+**Premise.** In 1986 Dr. Kenzo Tenma, a Japanese neurosurgeon in Dusseldorf, operates on a boy, Johan Liebert, shot in the head, instead of the town's mayor, who dies. Tenma's career and engagement collapse; then the hospital director and the doctors who opposed him are murdered and Johan and his twin sister Anna vanish (ch. 1-5). Nine years later Tenma sees Johan, now a young man, execute a patient and tell him he would never harm the man who saved him (ch. 7-8). Suspected of the murders and pursued by BKA Inspector Lunge, Tenma goes on the run to stop the killer he saved. He finds Anna living as Nina Fortner in Heidelberg (ch. 9-16) and traces Johan to Kinderheim 511, an East German orphanage that tried to make perfect soldiers out of children (ch. 17-24), then to Munich, Prague, the Red Rose Mansion where a children's author ran experiments (ch. 96-104) and the small town of Ruhenheim, where Johan plans a "perfect suicide" (ch. 144-162). Tenma resolves to kill Johan, but in the end he saves his life again (Wikipedia; TV Tropes).
 
 ## Life message
 
-**Every human life has equal worth, and the duty to save it does not depend on who the person is or what they have done. A good life is choosing that, again and again, even toward a monster, while refusing to become one.** Tenma's motto is "All lives are equal" (Monster wiki); EBSCO: "the choices people make are what truly define them."
+**Every life has equal worth, even a monster's: a good person keeps saving lives rather than taking one, and a name, a memory and someone who cares are what keep a person human.**
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | Twins separated, a mother forced to give up a child, children raised without kin (Kinderheim) who lose empathy: the story treats attachment and memory as what make a person human (Tan, Humanum Review). Romance is minor; Tenma's lost engagement stands for a lost future. Status games among doctors and politicians start the plot. |
-| Pragmatic | Tenma's choice of a boy over a mayor is the costly "impractical" act the story rewards over time. Detectives, journalists and a psychologist (Gillen, Reichwein) win through evidence and patience, not force. Fighting is gunplay, not martial combat. |
-| Religious | Johan is linked to the Antichrist motif (TV Tropes); Christian writers read him as devil-like but "not Satan" (Gaheret, Beneath the Tangles) and as a "gruesome parody" of the beloved disciple John (Tan). Tenma's saving of his enemy reads to many as love of enemy. Death as the "only" equality is Johan's creed, answered by Tenma's. |
-| Socio-cultural | Post-1989 Germany and post-Velvet-Revolution Prague: East German and Czechoslovak secret programs, corrupt former secret police, neo-Nazis, Turkish immigrant communities attacked by arson (TV Tropes; Mangapedia). Urasawa chose Germany because Japanese medicine borrowed German practice and because it let him include a neo-Nazi movement (Wikipedia). |
+| Evolutionary biology | Nature versus nurture: Kinderheim 511 and the Red Rose Mansion are experiments in making people without empathy (Wikipedia; TV Tropes). The story asks whether Johan was born or made, and leaves it open. |
+| Pragmatic | Tenma's medicine saves lives in nearly every arc; Lunge's method of memorizing every detail solves cases; therapists and detectives (Reichwein, Gillen, Suk) heal and investigate. Skill serves conscience. |
+| Religious | The series opens with texts from Revelation's beasts (Humanum Review), and Johan is drawn as an Antichrist figure (TV Tropes). Catholic writer Matthew Tan reads it as a story of communion against isolation; Gaheret (Beneath the Tangles) reads Johan as a personal agent of evil, like the devil but not all-powerful. No church or priest drives the plot. |
+| Socio-cultural | Post-reunification Germany and Czechoslovakia: East German eugenics, secret police, neo-Nazis, xenophobia against Turkish immigrants, and a hospital that ranks patients by political value (Wikipedia). Urasawa chose post-war Germany so the neo-Nazi movement could be included (Wikipedia). |
+
+Outlook: Bittersweet: Johan is stopped and Tenma is cleared, and many survivors rebuild their lives, but the body count is enormous and the final page leaves Johan's fate open (TV Tropes; Wikipedia).
+Hope source: R: the story's way through is forgiveness and redemption: Tenma saves the man he meant to kill, and Eva, Lunge and others turn their lives around; protecting others (P) is the close second.
 
 ## Content scores
 
-**Overall content level: 8 out of 10** (set by Mental health and self-harm and by Fear and intensity). Content scores measure intensity only: higher = more of it, not better or worse.
+**Overall content level: 8 out of 10** (set by Fear and intensity and by Mental health and self-harm). Content scores measure intensity only: higher = more of it, not better or worse.
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 7 | Frequent | Condemned | Murders by gunshot, poison, fire and staged suicide throughout. The Liebert parents' murder and Johan's head wound (ch. 1; the night itself ch. 118, v14/PE7). Poisoning of three doctors (ch. 5). Junkers shot (ch. 8). The Kinderheim 511 massacre of staff and children (ch. 21, v3/PE2). The Schuwald library fire (ch. 72-73, v9/PE5). Neo-Nazi and old-communist killings (v16/PE8, ch. 139 "Massacre"). The Ruhenheim town massacre, with guns handed to townspeople (ch. 144-158, v17-18/PE9; Brienza, ANN). Common Sense: "a lot" of violence, people "shot in the head," but "no graphic or detailed gore." School Library Journal: violence "mostly off-screen." |
-| Fear and intensity | 8 | Constant | Neutral | Psychological horror and paranoia across 162 chapters; a killer who erases everyone who has seen his face; Bonaparta's picture book "The Nameless Monster" (ch. 71); Nina's suppressed memories, "one horrific recollection" that leaves her "in shock" (Santos, ANN v14-15; ch. 128-130). ANN rates content "Intense." |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 3 | Occasional | Neutral | An implied night between Tenma and his fiancée Eva (opening chapters; TV Tropes notes the anime's only such shot). Photos of nude women seen in the anime (Common Sense). A boy sent into Prague's red-light district is paid to watch a prostitute with a client (TV Tropes; likely ch. 96-97, v12/PE6). Johan, disguised as his sister, draws Detective Suk into a romantic subplot (revealed ch. 87, v11/PE6). No fan service reported. Adult women around Johan as lovers or victims (from general knowledge; to verify). |
-| Language | 4 | Frequent | Neutral | Anime dub: "damn," "hell," "bastard," "ass," "bitch" (Common Sense). Viz rates T+. Viz manga profanity not checked (to verify). |
-| Substances | 5 | Frequent | Shown with consequences | Eva becomes an alcoholic after her father's murder; detective Richard Braun is a recovering alcoholic whose death is staged as a drunken fall (ch. 56 "Execution," v7/PE4); Tenma drinks after his fall; Wim's father is the town drunk (TV Tropes). Children drugged at Kinderheim 511 (TV Tropes). Adults smoke and drink in many scenes (Common Sense). |
-| Mental health and self-harm | 8 | Recurring | Condemned | Johan drives people to suicide: TV Tropes estimates "roughly half" of his victims kill themselves after he breaks them; Edmund Fahren (ch. 69, v9/PE5). Suicide-dare "games" with children, such as balancing on guardrails (TV Tropes; Ruhenheim, ch. 144-150 likely). Johan's planned "perfect suicide" (ch. 148, v17/PE9). Nina comes close to suicide and Tenma talks her out of it (TV Tropes; chapter to verify). Child trauma, memory loss and Grimmer's dissociated second personality, "the Magnificent Steiner" (ch. 78-95, v10-11). A boy in Prague turns nihilistic and nearly kills himself (Monster wiki; likely ch. 96-98). |
-| Imitable behavior | 4 | Occasional | Condemned | The guardrail and dare games; a doctor who learns to use a gun to kill a patient he saved (from general knowledge; volume to verify); vigilante pursuit. All are framed as dangerous. |
-| Commercial | 2 | Rare | Neutral | Anime, novel tie-ins and the in-story picture-book collection (Mangapedia). No product placement reported. |
+| Violence | 7 | Frequent | Condemned | Common Sense Media (anime): murder, guns, knives, stabbings, characters shot in the head, a lot of blood but no graphic gore. Poisonings at the hospital (ch. 3-5); Junkers executed (ch. 7-8); Nina's adoptive parents murdered (ch. 12-13); Kinderheim children who killed each other (TV Tropes; ch. 17-24); the detective Richard Braun killed (likely ch. 51-54); a library fire in Munich (likely ch. 60-68); Grimmer tortured by corrupt police (TV Tropes; likely v10-11); poisoned guests at the Red Rose Mansion (ch. 96-104, 128-131); the Ruhenheim massacre (ch. 144-151). MangaUpdates tags Torture, Mass Murder/s. |
+| Fear and intensity | 8 | Constant | Neutral | Psychological horror throughout: a killer who makes people kill themselves or each other; the picture book "A Nameless Monster" used in mind experiments (ch. 71; Wikipedia credits); Johan's disguise as his sister in Prague (TV Tropes); Ruhenheim's townspeople turning on each other (VIZ Perfect Edition vol. 9 description). Common Sense Media: the horror is mostly psychological. |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 3 | Occasional | Neutral | Common Sense Media (anime): an engaged couple kisses in bed with sex implied (Tenma and Eva, ch. 1-2), and several scenes show characters looking at photos of nude women. TV Tropes: a child searching for his mother enters a red-light district, sees a prostitute with a customer and is paid to watch (chapter not given; to verify). Johan dresses as a woman to deceive a young man who falls for him (Prague; TV Tropes). Johan sends anonymous romantic emails to his amnesiac twin sister (TV Tropes; likely v15-16). Roberto's possessive attachment to Johan (TV Tropes). Tenma and Nina have a romantic undertone across an age gap; Nina is an adult (20 on her birthday, ch. 12). |
+| Language | 4 | Frequent | Neutral | Common Sense Media (anime dub): "damn," "hell," "bastard," "ass," "bitch." Manga text not checked (to verify). |
+| Substances | 5 | Frequent | Shown with consequences | Eva Heinemann's alcoholism (throughout); the recovering alcoholic detective Richard Braun is killed and staged as a drunk's fall (likely ch. 51-54); Tenma feigns public drunkenness as an alibi; Wim's father is a drunk (Ruhenheim) (TV Tropes). Common Sense Media: drinking and smoking in many scenes. |
+| Mental health and self-harm | 8 | Recurring | Condemned | Johan drives people to suicide; Tenma talks Nina out of suicide after a breakdown (TV Tropes); Kinderheim survivors' emptiness and split personalities (Grimmer); Johan's plan for a "perfect suicide" by erasing everyone who knew him (ch. 148; VIZ description). Wikipedia files it under fiction about suicide; AniList tag Suicide; MangaUpdates Childhood Trauma. A psychotherapist (Reichwein) and a criminal psychologist (Gillen) are shown helping. |
+| Imitable behavior | 4 | Occasional | Condemned | Tenma arms himself and trains to shoot in order to kill Johan (likely v5-6; from general knowledge; to verify); characters lie to police and break into homes. The story shows Tenma's resolve to kill as a temptation he refuses at the end. |
+| Commercial | 2 | Rare | Neutral | Anime (2004-2005), the novel Another Monster, the picture book The Monster Who Didn't Have a Name (2008) (Wikipedia). |
 
 | Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Central | Twins torn from their mother by a eugenics project; orphans raised by the state (Kinderheim 511) or by experimenters (Red Rose Mansion); adoptive parents murdered (the Liebert and Fortner couples, ch. 1, 12-13). Good substitute parents: Tenma with the abused boy Dieter (v3-4, likely), Lunge's late regret over his own family, Grimmer with orphans (TV Tropes). Authority is split: a vain hospital director and corrupt former secret police (Prague) are shown as wrong; Lunge and the BKA come to see the truth (TV Tropes). |
-| Religion and spirituality | Recurring | Antichrist motif around Johan (TV Tropes). The anime opens each episode with Latin chanting (TV Tropes); a Revelation 13 epigraph frames the story (from general knowledge; to verify on the page). Church and priest scenes in Germany (from general knowledge; to verify). No religion is mocked; faith is mostly background to a secular medical and police world. |
-| Gender and identity (incl. LGBTQ) | Recurring | Nina is a resourceful co-lead; Eva grows into a "tragedienne of the highest order" (Welsh, Manga Curmudgeon). The twins' swapped identities and Johan's cross-dressing as his sister are plot devices tied to the mother's choice and the Red Rose Mansion, not identity themes. No LGBTQ storylines reported. |
-| Politics and social issues | Central | East German and Czechoslovak state programs to make soldiers and elites from children (Mangapedia); former secret police in Prague who murder and cover up (TV Tropes); neo-Nazis and an old-communist faction that want Johan as a new Hitler (Petr Čapek; TV Tropes); arson against Turkish immigrants (TV Tropes; v4 "Ayşe's Friend," ch. 28 likely); hospital politics where a mayor's life counts more than a migrant worker's (opening chapters). |
+| Family and authority | Central | Orphans, adoptive parents and lost children everywhere; the twins' mother's choice between them (likely ch. 114-131); Grimmer's lost son; Lunge's neglected family. Authorities are compromised: a hospital that ranks patients by power (ch. 1), East German and Czech secret police, corrupt officers; Lunge's honesty is restored at the end. |
+| Religion and spirituality | Recurring | Revelation epigraphs and an Antichrist motif (Humanum Review; TV Tropes); the commandment against killing as Tenma's central struggle; forgiveness as the story's moral (TV Tropes). No church plot. |
+| Gender and identity (incl. LGBTQ) | Recurring | Johan disguises himself as his sister and as a woman in Prague; Roberto's attachment to Johan; Nina is the most active woman, Eva the most tragic; women mostly in supporting roles (TV Tropes). |
+| Politics and social issues | Central | East German eugenics and child experiments, Czech secret police, neo-Nazis grooming a "new Hitler," xenophobia against Turkish immigrants (likely ch. 25-32), class bias in medicine (Wikipedia; TV Tropes). |
 
-**Virtues shown:** mercy toward enemies, equal regard for every patient, honesty, perseverance, courage, repentance and changed lives (Eva, Lunge, Schuwald), care for orphans, memory and the right to a name, refusing revenge, hope.
+**Virtues shown:** mercy, the equal worth of every life, perseverance, honesty, repentance (Eva, Lunge), courage, protecting children (Dieter, the Kinderheim survivors), keeping one's vow as a healer, friendship across nations.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All frame guides are drafts from general knowledge, so every row is a draft. What the rows weigh: a hero who holds that "all lives are equal," saves the killer twice and never becomes a killer; a nihilist villain framed as evil and not as cool; child abuse by state programs condemned; suicide shown often but always as harm done by Johan; many characters change (Eva, Lunge, Schuwald); an open ending in which Johan's bed is empty; heavy drinking, gun violence and dread; a sympathetic psychotherapist and criminal psychologist next to monstrous psychological experiments; an Antichrist motif.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a doctor who holds that every life is equal and, in the end, saves the killer he meant to kill (ch. 159-162); evil shown as real, personal and never attractive; repentance and new lives for Eva, Lunge and others; child abuse and mind experiments condemned (Kinderheim 511, the Red Rose Mansion); neo-Nazis and xenophobia condemned; many murders and suicides, constant dread; drinking and alcoholism shown with consequences; Revelation and Antichrist imagery used as suspense; an open ending. A child is shown witnessing a sex worker with a customer (TV Tropes; chapter to find); no sexual content involving a minor beyond that was found in sources opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | A | Discuss | Dignity of every life (CCC 2258) in Tenma's choice and in saving Johan; evil depicted but not made attractive (Inter Mirifica 7); conversion of Eva and Lunge. Catholic writer Matthew Tan reads it as a story about communion versus isolation (Humanum Review). | Many suicides and suicide games; Tenma's resolve to kill; dread with no explicit grace. | CCC 2280-2283 on suicide beside Johan's victims. Is Tenma's mercy like the works of mercy? Why does Tan call Johan a "parody" of the apostle John? |
-| Eastern Orthodox | A | Discuss | Repentance shown in many lives; Tenma's humility and self-giving; evil as personal and deceiving. | Guarding the senses (nepsis) against long dread, murder and despair; Antichrist imagery handled as a thriller motif. | Pride and despair as the two traps Tenma faces. Can a person lose the image of God, as Johan seems to? |
-| Baptist | A | Discuss | Clear good and evil; a hero who will not take vengeance (Romans 12:19); the worth of the outcast (a Turkish worker, orphans). | Philippians 4:8 for the murders, drinking and suicide content; T+ and TV-MA ratings. Views vary by family. | Love your enemies (Matthew 5:44) and Tenma operating on Johan. Is Johan's "the only thing everyone is equal in is death" true? |
-| Non-denominational Evangelical | A | Discuss | Gaheret (Beneath the Tangles): evil is real but limited, "The One who saves is immensely greater than the one who kills." | Salvation in the story is human and medical, not explicitly Christ; the open ending. | Compare Johan with the devil as Gaheret does. Where does Tenma's hope come from? |
-| Pentecostal / Charismatic | B | Discuss | Real, personal evil that tempts and deceives; deliverance from despair (Nina). | The Antichrist motif with no spiritual battle; occult-sounding "nameless monster" picture books used for mind control; a dark open ending. Views vary. | Ephesians 6:12 versus the story's purely human evil. Discernment against a charming deceiver. |
-| Reformed / Presbyterian | A | Discuss | Total depravity in how easily people are drawn to Johan; common grace in Tenma's mercy and in skilled art; providence-like irony in the ending. | Lascivious content is minor; long violence and despair. | Is Johan "made" or "born" a monster? Original sin versus Kinderheim. Common grace in a secular hero. |
-| Lutheran | A | Discuss | Law and gospel: Tenma's guilt and the grace of being forgiven by those he wronged; vocation as a physician. | Little beyond the dread; LCMS and WELS families may weigh the suicide content more. | Vocation: Tenma serving as a doctor even to his enemy. Luther on the devil as a liar. |
-| Methodist / Wesleyan | A | Discuss | Works of mercy and social holiness (Doctors Without Borders at the end; care for immigrants and orphans). | Drinking, gun violence; holiness churches more cautious under the General Rules. | Grace for Eva's alcoholism and anger. Prevenient grace and the Kinderheim children. |
-| Anglican / Episcopal | A | Minor | Judged by how good and evil are framed: a serious literary thriller that condemns cruelty and honors mercy. | Little beyond the dark mood. | C.S. Lewis on the "inner ring" and Johan's admirers. What makes Tenma different from the monster he hunts? |
-| Anabaptist (Mennonite, Amish, Brethren) | A | Discuss | Tenma never kills; the climax is healing an enemy; a critique of state violence (Kinderheim) and nationalism (neo-Nazis). | Tenma carries a gun and intends to kill; heavy violence; conservative groups avoid popular media. | Nonresistance and the moment Tenma lowers the gun. Love of enemy at the operating table. |
-| Latter-day Saint | A | Discuss | Agency and choice over upbringing (EBSCO); worth of souls (D&C 18:10); family and identity restored (Nina's graduation). | Alcohol, suicide themes, nudity in photos (anime). Does it invite the Spirit (For the Strength of Youth)? | Agency: can Kinderheim's children still choose? Mercy versus justice for Johan. |
-| Mainline progressive Protestant | A | Minor | Equal worth across class and nationality (the Turkish worker, orphans); critique of xenophobia, neo-Nazis and abusive institutions. | Few women in power; little on structural repair. | What does "all lives are equal" demand of a hospital, a church, a nation? |
-| Seventh-day Adventist | B | Significant | The sanctity of life and a healer as hero fit the health-ministry tradition; deception exposed. | "By beholding we become changed": long murder, alcohol and despair content; Antichrist motif used as suspense. | Revelation 13 imagery and how the story uses it. Choosing what to behold. (from general knowledge; to verify) |
-| Jehovah's Witness | B | Significant | Exposes nationalism, political power and violence as destructive; values life. | Violence (Psalm 11:5) is constant; spiritism-like mind control in the picture books; blood and surgery are central (members accept surgery without transfusion; not raised by the story). | jw.org on violent entertainment. Is Tenma's neutrality toward who deserves saving like Christian neutrality? (from general knowledge; to verify) |
-| Christian Science | C | Significant | Love overcoming hatred; truth exposing error. | Surgery and medicine save lives at the core of the story; fear, disease, injury and death fill it; "Stand porter at the door of thought" (Science and Health 392). | What thoughts does the story invite? Love as the answer to Johan. (from general knowledge; to verify) |
-| Orthodox Jewish | B | Discuss | Pikuach nefesh: saving a life overrides almost everything; "whoever saves one life saves a world" (Mishnah Sanhedrin 4:5); teshuvah for Eva and Lunge; neo-Nazis condemned. | Time on secular entertainment; immodest images; Haredi homes may restrict it. Holocaust-era themes (a new Hitler) need care. | Sanhedrin 4:5 and Tenma's choice. Is there a limit to saving a rodef (pursuer)? (from general knowledge; to verify) |
-| Conservative Jewish | A | Minor | Sanctity of life; memory and names as moral duty; neo-Nazis and genocidal plans condemned. | Little; no antisemitic tropes reported (to verify). | Pikuach nefesh. Germany's memory of the Nazi past in a 1990s setting. (from general knowledge; to verify) |
-| Reform Jewish | A | Minor | Tikkun olam in Doctors Without Borders; anti-racism; equal dignity. | Little to raise. | How hatred of immigrants is stoked and resisted in the story. (from general knowledge; to verify) |
-| Muslim | A | Discuss | "Whoever saves one life, it is as if he saved all mankind" (Qur'an 5:32); a Turkish Muslim community shown as victims of hate, not as villains; mercy and justice. | Alcohol throughout; immodest images (anime); suicide content. | Qur'an 5:32 and Tenma. Patience (sabr) and the limits of revenge. |
-| Hindu | A | Minor | Ahimsa and dharma of the healer; karma-like consequences of a choice; the self beyond a name. | Little beyond violence. | Tenma's duty as a doctor beside Arjuna's duty. Is Johan's nature fixed? |
-| Buddhist | A | Discuss | Compassion without exception; craving and ignorance as roots of harm; Johan's "nameless" emptiness read against non-self. | Killing on many pages; Johan's nihilism could be confused with emptiness (sunyata), which it is not. | How Johan's nihilism differs from Buddhist emptiness. Compassion for the one who harms. |
-| Sikh | A | Minor | Sarbat da bhala (welfare of all); seva in Tenma's service; ego (haumai) in the hospital director. | Little to raise. | Seva and Doctors Without Borders. The five vices in Johan's admirers. (from general knowledge; to verify) |
-| Bahá'í | A | Minor | Oneness of humanity against racism and nationalism; service as worship; low glorification of violence. | Drinking; dread. | Unity of humanity and the attack on the Turkish community. (from general knowledge; to verify) |
-| Shinto | B | Minor | Sincerity (makoto) in Tenma; gratitude and purity of heart. | Blood and death as impurity throughout; no Shinto content. | Tenma as a Japanese man abroad: what does sincerity look like? (from general knowledge; to verify) |
-| Wiccan / Pagan | A | Minor | "Harm none" against manipulation and killing; no witches stereotyped. | Little to raise. | Personal responsibility and Johan's claim that people are not responsible. (from general knowledge; to verify) |
-| Scientologist | C | Discuss | The Way to Happiness precepts: safeguard and improve your health, do not murder, be worthy of trust; drugging and mind-reshaping of children at Kinderheim 511 shown as monstrous, in line with the church's critique of psychiatric abuse (CCHR). | A psychotherapist (Reichwein) and a criminal psychologist (Gillen) are sympathetic heroes, and therapy helps characters heal, which the church's opposition to psychiatry rejects (from general knowledge; to verify). | Which precepts does Johan break? How does the story tell abusive "experiments" from help, and does your family agree? (from general knowledge; to verify) |
-| Secular progressive | A | Discuss | Anti-racism, critique of authoritarian states and neo-Nazis, care for refugees and orphans; equal medical care regardless of status. | Women mostly in supporting roles (Nina, Eva are strong); some reviewers find the ending unsatisfying. | Common Sense 15+. What does the story say about how hate movements recruit lonely people? |
-| Secular humanist | S | Minor | Inherent worth of every person without appeal to the supernatural; science and medicine as service; eugenics and mind control condemned; choice over upbringing (EBSCO). | Little to raise. | Nature versus nurture in Johan and Nina. Is "all lives are equal" a rational or a moral claim? |
-| Conservative / traditional | A | Minor | Anti-communist and anti-Nazi; duty, honor and perseverance; family and the right to one's name; law officers who serve truth (Lunge). | An outlaw hero for most of the story; little faith content. | Lunge's duty versus Tenma's conscience. What did the communist programs destroy that families protect? |
-| Unitarian Universalist | S | Minor | The first principle, "inherent worth and dignity of every person," is the hero's motto; justice and compassion; free search for meaning. | Little to raise. | Does inherent worth include Johan? |
-| Satanist | B | Minor | The Satanic Temple's tenets on compassion and on acting by reason; the Church of Satan's Eleven Rules forbid harming children, and Kinderheim is condemned; skepticism of state and ideological authority. | Tenma's mercy to a man who harms others conflicts with the Satanic Bible's "responsibility to the responsible" and rejection of turning the other cheek (from general knowledge; to verify). | Should Tenma have saved Johan a second time? Johan as a false "rebel" who serves no one's freedom. (from general knowledge; to verify) |
+| Catholic | A | Discuss | Dignity of every life (CCC 2258) in Tenma's choice and in saving Johan; evil depicted but not made attractive (Inter Mirifica 7); conversion of Eva and Lunge. Matthew Tan reads it as communion against isolation (Humanum Review). | Many suicides and suicide games; Tenma's resolve to kill; dread with no explicit grace. | "Whoever saves one life": why does Tenma save Johan twice? Compare CCC 2258 on the sacredness of life. |
+| Eastern Orthodox | A | Discuss | Repentance in many lives; Tenma's humility and self-giving; evil as personal and deceiving. | Guarding the senses (nepsis) against long dread, murder and despair; Antichrist imagery used as a thriller motif. | How does pride open the door to Johan in each victim? (from general knowledge; to verify) |
+| Baptist | A | Discuss | Clear good and evil; a hero who will not take vengeance (Romans 12:19); the worth of the outcast (immigrants, orphans). | Philippians 4:8 test for the murders, drinking and suicide content; T+ and TV-MA ratings. Views vary by family. | "Vengeance is mine" (Romans 12:19): what happens when Tenma gives up the right to kill? |
+| Non-denominational Evangelical | A | Discuss | Gaheret (Beneath the Tangles) reads Johan as a real, personal evil that works through people's own flaws, powerful but not all-powerful. | Rescue in the story is human and medical, not explicitly in Christ; the open ending. | Gaheret: "Darkness is not evil. Evil comes from us." Do you agree? |
+| Pentecostal / Charismatic | B | Discuss | Real, personal evil that tempts and deceives; deliverance from despair (Nina). | An Antichrist motif with no spiritual battle; picture books used for mind control; a dark open ending. Views vary. | Johan works by whispering to people's worst fears. What does Scripture say about that kind of voice (John 8:44)? |
+| Reformed / Presbyterian | A | Discuss | Total depravity in how easily people are drawn to Johan; common grace in Tenma's mercy and in skilled art; providence-like irony in the ending. | Long violence and despair; little lascivious content. | Common grace: where does goodness come from in a story without God named? |
+| Lutheran | A | Discuss | Law and gospel: Tenma's guilt and the grace of being forgiven by those he wronged; vocation as a physician. | Little beyond the dread; LCMS and WELS families may weigh the suicide content more. | Vocation: Tenma serves his neighbor as a doctor even when hunted. |
+| Methodist / Wesleyan | A | Discuss | Works of mercy and social holiness (care for immigrants and orphans; Tenma keeps treating patients while on the run, from general knowledge; to verify). | Drinking and gun violence; holiness churches more cautious under the General Rules. | "Do all the good you can": where does Tenma keep doing good while being hunted? |
+| Anglican / Episcopal | A | Minor | Judged by how good and evil are framed: a serious literary thriller that condemns cruelty and honors mercy. | Little beyond the dark mood. | Is Johan born evil or made evil? What does the story suggest? |
+| Anabaptist (Mennonite, Amish, Brethren) | A | Discuss | Tenma never kills; the climax is healing an enemy; a critique of state violence (Kinderheim) and nationalism (neo-Nazis). | Tenma carries a gun and intends to kill; heavy violence; conservative groups avoid popular media. | Love your enemies (Matthew 5:44): Tenma's last choice. |
+| Latter-day Saint | A | Discuss | Agency over upbringing; the worth of souls (D&C 18:10); family and identity restored (Nina). | Alcohol, suicide themes, nude photos (anime). Does it invite the Spirit (For the Strength of Youth)? | "The worth of souls is great" (D&C 18:10), even Johan's? |
+| Mainline progressive Protestant | A | Minor | Equal worth across class and nationality (immigrants, orphans); critique of xenophobia, neo-Nazis and abusive institutions. | Few women in power; little on structural repair. | The hospital chose the mayor over the boy. What does that say about who counts? |
+| Seventh-day Adventist | B | Significant | The sanctity of life and a healer as hero fit the health-ministry tradition; deception exposed. | "By beholding we become changed": long murder, alcohol and despair content; Antichrist motif used as suspense. | A healer as the hero: why does that matter? (from general knowledge; to verify) |
+| Jehovah's Witness | B | Significant | Exposes nationalism, political power and violence as destructive; values life. | Constant violence (Psalm 11:5); mind control through picture books; surgery is central (members accept surgery without transfusion; not raised by the story). | jw.org on violent entertainment. (from general knowledge; to verify) |
+| Christian Science | C | Significant | Love overcoming hatred; truth exposing error. | Surgery and medicine save lives at the core of the story; fear, disease, injury and death fill it. | "Stand porter at the door of thought" (Science and Health 392) beside Johan's whispers. (from general knowledge; to verify) |
+| Orthodox Jewish | B | Discuss | Pikuach nefesh: saving a life overrides almost everything; "whoever saves one life saves a world" (Mishnah Sanhedrin 4:5); teshuvah for Eva and Lunge; neo-Nazis condemned. | Time on secular entertainment; immodest images (anime); Haredi homes may restrict it. A "new Hitler" plot needs care. | Mishnah Sanhedrin 4:5 beside Tenma's choice in ch. 1. |
+| Conservative Jewish | A | Minor | Sanctity of life; memory and names as a moral duty; neo-Nazis and genocidal plans condemned. | Little; no antisemitic tropes reported (to verify). | Why does having a name matter so much in this story? (from general knowledge; to verify) |
+| Reform Jewish | A | Minor | Tikkun olam in healing; anti-racism; equal dignity. | Little to raise. | What does Tenma owe the people Johan hurt? (from general knowledge; to verify) |
+| Muslim | A | Discuss | "Whoever saves one life, it is as if he saved all mankind" (Qur'an 5:32); Turkish immigrants shown as victims of hate, not as villains; mercy and justice. | Alcohol throughout; immodest images (anime); suicide content. | Qur'an 5:32 beside Tenma's oath as a doctor. |
+| Hindu | A | Minor | Ahimsa and the dharma of the healer; karma-like consequences of one choice; the self beyond a name. | Little beyond the violence. | Tenma's duty as a healer: can he set it aside to kill? (from general knowledge; to verify) |
+| Buddhist | A | Discuss | Compassion without exception; craving and ignorance as roots of harm; Johan's "nameless" emptiness read against non-self. | Killing on many pages; Johan's nihilism could be confused with emptiness (sunyata), which it is not. | Johan wants to erase his self. How is that different from the Buddhist teaching of non-self? |
+| Sikh | A | Minor | Sarbat da bhala (the welfare of all); seva in Tenma's service; ego (haumai) in the hospital director. | Little to raise. | Seva: serving even those who hunt you. (from general knowledge; to verify) |
+| Bahá'í | A | Minor | Oneness of humanity against racism and nationalism; service as worship; low glorification of violence. | Drinking; dread. | Prejudice in the story: who is targeted, and who stands up? (from general knowledge; to verify) |
+| Shinto | B | Minor | Sincerity (makoto) in Tenma; gratitude and purity of heart. | Blood and death as impurity throughout; no Shinto content. | Makoto: Tenma's honesty about his own guilt. (from general knowledge; to verify) |
+| Wiccan / Pagan | A | Minor | "Harm none" against manipulation and killing; no witches stereotyped. | Little to raise. | Harm none, even to Johan? (from general knowledge; to verify) |
+| Scientologist | C | Discuss | The Way to Happiness: safeguard health, do not murder, be worthy of trust; drugging and mind-reshaping of children at Kinderheim 511 shown as monstrous. | A psychotherapist and a criminal psychologist are sympathetic helpers and therapy heals, which the church's opposition to psychiatry rejects (from general knowledge; to verify). | Which precepts does Kinderheim 511 break? (from general knowledge; to verify) |
+| Secular progressive | A | Discuss | Anti-racism, critique of authoritarian states and neo-Nazis, care for refugees and orphans; equal medical care regardless of status. | Women mostly in supporting roles; some critics (Brienza, ANN) find the ending unsatisfying. | Who did the hospital think mattered more, and why was that wrong? |
+| Secular humanist | S | Minor | The inherent worth of every person without appeal to the supernatural; science and medicine as service; eugenics and mind control condemned; choice over upbringing. | Little to raise. | Tenma's rule is that all lives are equal. Can you think of a time that is hard to live by? |
+| Conservative / traditional | A | Minor | Anti-communist and anti-Nazi; duty, honor and perseverance; family and the right to one's name; a lawman who serves truth in the end (Lunge). | An outlaw hero for most of the story; little faith content. | Lunge serves the law to a fault. What does he learn? |
+| Unitarian Universalist | S | Minor | The first principle, the "inherent worth and dignity of every person," is the hero's motto; justice and compassion; a free search for meaning. | Little to raise. | Inherent worth, tested by the hardest case. (from general knowledge; to verify) |
+| Satanist | B | Minor | The Satanic Temple's tenets on compassion and acting by reason; the Church of Satan's rules forbid harming children, and Kinderheim is condemned; skepticism of state authority. | Tenma's mercy to a man who harms others conflicts with "responsibility to the responsible" (from general knowledge; to verify). | Should Tenma have saved Johan? Argue both sides. (from general knowledge; to verify) |
+| Historically Black Protestant | A | Discuss | Protecting the weak (orphans, abused children, immigrants targeted by neo-Nazis); mercy instead of revenge (Romans 12:19); redemption for Eva, Lunge and others; a man who endures false accusation and keeps doing good. | Drinking, suicide and long despair; no explicit faith; Revelation imagery used for suspense. | Joseph was falsely accused and kept doing right (Genesis 39-41). How is Tenma like him? |
+| Atheist | A | Minor | Goodness grounded in empathy and a doctor's oath, not command; eugenics, cults of personality and mind control condemned; problems solved by investigation and medicine. | Revelation epigraphs and devil imagery are framing, not doctrine; little to raise. | Tenma's ethics come from his work and his conscience. Where do yours come from? |
+| Agnostic | A | Minor | Johan's nature and the final page are left open; several worldviews get a fair hearing (Tenma, Eva, Lunge, Johan); no preaching. | Little to raise. | The last page leaves a question. What do you think happened? |
+| Nothing in particular | A | Minor | Every life matters; names, memory and family; karma-like justice for abusers; hope for survivors. | Dark mood and many deaths. | Who in the story gets a second chance, and what do they do with it? |
 
-**Where traditions disagree.** Almost every frame reads Tenma's equal care for every life as close to its own teaching (pikuach nefesh, Qur'an 5:32, the dignity of the person, the first UU principle, secular humanism), so grades cluster at A and S. The dividing lines are the depiction itself (long murder, drinking and suicide content weigh most for Adventist, Jehovah's Witness and Christian Science families), the central place of surgery and medicine (Christian Science), the positive picture of psychotherapy next to abusive psychological experiments (Scientologist), and whether a man who harms others should be saved again (Satanist sources answer differently from Christian, Jewish and Muslim ones).
+**Where traditions disagree.** Most traditions grade Monster A: its hero's motto that every life is equal, his refusal to kill, and the repentance of several characters fit Christian, Jewish, Muslim, Buddhist, Sikh, Bahá'í and secular teaching alike. Christian Science and Scientologist frames (C) object to the story's trust in surgery and in psychotherapy respectively; Adventist and Jehovah's Witness readers (B) weigh the constant violence and dread. Secular humanist and Unitarian Universalist frames grade it S because it argues for inherent worth without appeal to God, while Christian readers (Tan, Gaheret) find in it a picture of real, personal evil and of communion as the cure.
 
 ## Winners, losers and sympathy
 
-Mercy wins at great cost; nihilism and the projects that made it lose, though the ending leaves Johan's fate open.
+Those who choose mercy and truth (Tenma, Nina, Lunge after his change) come through; those who treat people as material (Kinderheim's directors, the neo-Nazis, the hospital director) are destroyed, often by Johan; Johan himself is saved, then disappears.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Kenzo Tenma | "All lives are equal"; mercy, duty, refusing to kill | Cleared of the murders, joins Doctors Without Borders (Monster wiki, final episode; EBSCO) | Endorsed; his temptation to kill is shown as the danger (Tan: "Tenma almost becomes the monster") |
-| Nina Fortner (Anna) | Memory, forgiveness, choosing life over revenge | Recovers her memories; graduates from university in Heidelberg | Endorsed |
-| Heinrich Lunge | Rational, rule-bound policing, at first blind to Tenma | Admits his error, becomes a police academy professor | Endorsed after change |
-| Wolfgang Grimmer | A Kinderheim survivor who lost his emotions but chooses kindness | Dies in Ruhenheim, crying at last (likely ch. 154-155) | Endorsed; tragic |
-| Eva Heinemann | "People's lives aren't equal" (Kotaku); bitterness, alcohol | Recovers, works as an interior designer, keeps Tenma's clippings | Changed; sympathetic |
-| Johan Liebert | Nihilism: "The only thing everyone is equal in is death" (Kotaku) | Shot by a townsman (Wim's father), saved by Tenma's surgery, comatose; his bed is later empty (Monster wiki) | Condemned; pitied as a made and abandoned child |
-| Franz Bonaparta (Klaus Poppe) and Kinderheim 511 | Eugenics, engineering people for the state | Bonaparta dies in Ruhenheim (from general knowledge; to verify); the programs are exposed | Condemned |
-| Neo-Nazis, Petr Čapek, the Baby, corrupt Prague police | Using Johan for power | Killed or exposed (TV Tropes) | Condemned |
+| Kenzo Tenma | All lives are equal | Cleared; saves Johan's life again (ch. 159-162); continues as a doctor | Endorsed |
+| Johan Liebert | Death as the only equality; erasing every trace of himself | Shot, saved by Tenma, comatose; his bed is empty on the last page (TV Tropes) | Condemned, with his past shown |
+| Nina Fortner (Anna) | Facing memory instead of revenge | Recovers her memories and lives on (ch. 128-162) | Endorsed |
+| Heinrich Lunge | Procedure and certainty | Admits he was wrong about Tenma (ch. 152-162) | Redeemed |
+| Eva Heinemann | Lives are not equal; status and grudge | Turns from revenge; helps Tenma (likely ch. 152-162) | Redeemed in part |
+| Wolfgang Grimmer | A Kinderheim survivor who learned to feel | Dies after saving others in Ruhenheim (likely ch. 154-155) | Sympathetic |
+| Franz Bonaparta | Making people by experiment | Dies in Ruhenheim, remorseful (likely ch. 150-160) | Condemned, with remorse |
+| Kinderheim and neo-Nazi patrons | Eugenics and a "new Hitler" | Killed or exposed (likely ch. 60-68, 96-104) | Condemned |
 
-**Fan favorites versus the official moral.** MyAnimeList scores the manga 9.16 (popularity #26, about 297,000 members, 24,000 favorites, as viewed); ANN users rank it #2 of 3,531 manga. Johan is one of anime's most famous villains and is often admired for his intelligence and calm (from general knowledge; to verify with a poll; no official character poll was found). Critics and Christian writers both caution against the fascination: Tan notes that Johan's distance "draws admiration from people who don't know him," which is exactly how his followers in the story are drawn in. Lunge and Grimmer are widely loved side characters (from general knowledge; to verify). Fan admiration for Johan is the clearest gap between the fandom and the story's moral.
+**Fan favorites versus the official moral.** No official popularity poll was opened. Johan is the most discussed character and a fan favorite villain, while the story treats him as the embodiment of nihilism; critics (Kimlinger, Santos) praise the cast and moral seriousness, and Brienza (ANN) found the ending weak (Wikipedia). Fans and the story agree on Tenma and on Grimmer, whose death is among the most loved scenes (from general knowledge; to verify).
 
 ## Message delivery
 - Style: Woven in
 - Preachiness: 4
 - Opposing views: Fair
-- Evidence: Kotaku's Peter Tieryas says it blurs good and evil, asking "who's the real monster?"; no review calls it preachy.
-- Note: Competing views on the worth of a life are voiced directly by characters such as Tenma, Eva and Johan within a thriller plot.
+- Evidence: Characters argue the worth of a life directly (Tenma, Eva, Johan); TV Tropes lists forgiveness as the moral; no review opened calls it preachy.
+- Note: Competing views on the worth of a life are voiced by characters within a thriller plot, and the villain's view gets a full, frightening hearing.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
@@ -127,196 +132,166 @@ Mercy wins at great cost; nihilism and the projects that made it lose, though th
 
 ## Creator and publisher context
 
-- Naoki Urasawa (born 1960) also wrote 20th Century Boys and Pluto; he drew 20th Century Boys alongside Monster and asked that its English edition wait until Monster's was finished (EBSCO; Wikipedia).
-- Origin, on record (via Wikipedia): the idea came from The Fugitive, the 1960s US TV series about a wrongly convicted doctor, which he saw at age eight. He pitched a medical manga around 1986; his editor was not keen and was "adamant" that Monster would fail. He set it in Germany because Japanese medicine was shaped by German practice, and post-war Germany let him include a neo-Nazi movement. No stated reason for the Czech setting was found.
-- In a 2019 interview Urasawa says only, about Monster and 20th Century Boys, "I just try to tell a story that I find interesting myself" (J-Generation). No statement by Urasawa about Johan, evil, religion, politics or the ending was found in pages opened. **Status: Needs more info on the creators** (Monster-specific interviews; the Perfect Edition afterwords).
-- Soundtrack composer David Sylvian said he was drawn to the "moral dilemma faced by its central character" (Wikipedia).
-- Publisher: Shogakukan. Viz Media is owned by Shueisha and Shogakukan (from general knowledge). No reputable reports of creator controversy were found.
+- Naoki Urasawa (born 1960) has drawn manga since age four and usually runs two series at once; many stories co-written with former editor Takashi Nagasaki, credited as co-producer of Monster; cites Osamu Tezuka as a hero (Wikipedia).
+- On-record origin (Wikipedia, Production): he pitched a medical manga around 1986 and was turned down; the idea came from the 1960s TV series The Fugitive, which struck him at age eight; his editor tried to stop him, expecting it to fail. He set it in Germany because Japanese medicine was shaped by German practice, and in post-war Germany so the neo-Nazi movement could be included.
+- Drawing Monster semimonthly alongside Happy! and then 20th Century Boys led to a brief hospitalization for exhaustion (Wikipedia). In a 2019 interview he spoke of capturing how real faces change moment to moment (J-Generation); no statement on Monster's themes was found.
+- No statements on religion or politics beyond the setting choice were found. **Status: Needs more info on the creator's thematic intent.**
+- Publisher: Shogakukan (Big Comic Original). VIZ Media publishes it in English under VIZ Signature, rated T+. No controversies involving the creator were found.
 
 ## Worldview lenses
 
-Dominant lenses: Nihilism (critiqued), Secular humanism, Existentialism, Collectivism / authoritarianism (critiqued), Communitarianism.
+Dominant lenses: Nihilism (critiqued), Duty ethics (affirmed), Secular humanism, Existentialism, Collectivism/authoritarianism (critiqued), Communitarianism.
 
 | Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Nihilism | 9 | Critiqued | F | Johan's creed: "The Cruelest Thing" (ch. 98), "the only thing everyone is equal in is death" (Kotaku), the "perfect suicide" plan (ch. 148), the "Scenery of the Doomsday" (v18). The story answers it with Tenma, Nina and Grimmer. |
-| Secular humanism | 7 | Affirmed | A | Equal worth of every life with no supernatural ground; Tenma's care echoes Tezuka's belief "that all lives were equal and all people deserved equal medical care" (EBSCO); Doctors Without Borders at the end. |
-| Existentialism | 7 | Affirmed | B | EBSCO: "every individual must choose whether to defy the conditions of his or her upbringing or give in"; names and identity are central ("The Nameless Monster," ch. 71). My own framing of the label. |
-| Collectivism / authoritarianism | 7 | Critiqued | F | East German Kinderheim 511 and the Czechoslovak Red Rose Mansion as state programs to make soldiers and elites (Mangapedia); corrupt former secret police (TV Tropes). |
-| Communitarianism | 6 | Affirmed | B | Tan: monstrosity grows from isolation; Tenma is saved by "a communion of persons" (Humanum Review). |
-| Utilitarianism | 6 | Critiqued | D | The hospital weighs a mayor above a boy and a migrant worker; Eva: "People's lives aren't equal" (Kotaku). The story sides with equal worth. |
-| Classical virtue ethics | 5 | Affirmed | B | Courage, justice, mercy and perseverance in Tenma, Lunge and Grimmer. |
-| Might makes right | 5 | Critiqued | F | Neo-Nazis and old communists want a strongman; Johan's power over others ends in ruin. |
-| Transhumanism | 4 | Critiqued | D | Eugenics and mind reshaping of children (EBSCO: Bonaparta's "eugenics experiment"); framed as monstrous. My own framing. |
-| Christian | 4 | Explored | C | Antichrist motif (TV Tropes); love of enemy in Tenma; Christian readings by Gaheret and Tan. The story itself stays secular. |
-| Naturalism | 3 | Explored | C | Nature versus nurture in the twins; Kinderheim as a natural experiment on empathy. |
-| Postmodernism | 3 | Explored | C | Constructed memories, borrowed names, twins swapping identities (ch. 128-130, 142). My own framing. |
-| Critical theory | 3 | Explored | C | Xenophobia against Turkish immigrants and class bias in the hospital are shown without a systemic analysis. |
-| Marxism | 3 | Critiqued | D | Communist state programs to make "communist elites" (Mangapedia) are shown as abuse. |
-| Progressivism | 3 | Explored | C | Anti-racism and equal care. |
-| Absurdism | 2 | Explored | C | Johan's games with fate ("making a wager with fate," Kotaku). |
-| Traditionalism | 2 | Explored | C | Family, names and home ("Welcome Home," "I'm Home") as goods; no tradition preached. |
-| Feminism | 2 | Explored | C | Nina and Eva as strong leads (Welsh). |
-| Libertarianism | 2 | Explored | C | Distrust of state programs and corrupt police; but legal institutions are partly redeemed (Lunge). |
-| Stoicism | 2 | Incidental | C | Tenma's endurance as a fugitive. |
-| Pragmatism | 2 | Incidental | C | Detective and psychological method (Gillen, Reichwein). |
-| Expressive individualism | 1 | Critiqued | D | Johan's self-invention without ties is the danger (Tan). |
-| Anti-natalism | 1 | Critiqued | F | Johan's wish to erase his own existence. |
-| Jewish, Islamic, Dharmic (Hindu/Buddhist), Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Environmentalism, Hedonism, Consumerism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
+| Nihilism | 9 | Critiqued | D | Johan's view that death is the only equality and his plan to erase every trace of himself (ch. 148; VIZ description); the story sets Tenma's care against it. |
+| Duty ethics | 7 | Affirmed | A | Tenma keeps the rule that every life is equal and that a doctor must not kill, even when killing Johan might save others; the story's end proves him right to keep it (ch. 159-162). My own framing. |
+| Secular humanism | 7 | Affirmed | B | Inherent worth without appeal to God; medicine and human bonds as rescue. |
+| Existentialism | 7 | Affirmed | B | Identity made by choices and names, not birth; Johan's namelessness as the void. |
+| Collectivism/authoritarianism | 7 | Critiqued | D | East German eugenics, Kinderheim 511 and the Czech secret police (Wikipedia). |
+| Communitarianism | 6 | Affirmed | B | Tan (Humanum Review): people become themselves in community; isolation makes monsters. |
+| Utilitarianism | 6 | Critiqued | D | The hospital's ranking of patients (ch. 1) and the case for killing Johan to save others are both rejected. |
+| Pacifism / nonviolence | 5 | Affirmed | B | Tenma arms himself to kill but never does; the climax is saving the enemy's life (ch. 159-162); TV Tropes names forgiveness as the moral. |
+| Classical virtue ethics | 5 | Affirmed | B | Courage, justice and mercy in Tenma; pride and envy in the hospital. |
+| Might makes right | 5 | Critiqued | D | Johan's domination and the neo-Nazis' plan for a strongman fail. |
+| Patriotism / nationalism | 4 | Critiqued | D | Neo-Nazis grooming Johan as a "new Hitler" (TV Tropes) and xenophobic attacks on Turkish immigrants (likely ch. 25-32) shown as evil. |
+| Christian | 4 | Explored | C | Revelation epigraphs, an Antichrist motif and the commandment against killing (Humanum Review; TV Tropes); no church in the plot. |
+| Transhumanism | 4 | Critiqued | D | Engineering perfect people at Kinderheim 511 and the Red Rose Mansion. |
+| Naturalism | 3 | Explored | C | Nature versus nurture as an open question. |
+| Postmodernism | 3 | Explored | C | Stories and picture books that rewrite children's selves (ch. 71). |
+| Critical theory | 3 | Explored | C | Class bias in medicine; institutions that serve the powerful. |
+| Marxism | 3 | Critiqued | D | The East German state's experiments shown as monstrous. |
+| Progressivism | 3 | Explored | C | Anti-racism and care for immigrants. |
+| Absurdism | 2 | Explored | C | Johan's "perfect suicide" as a void. |
+| Traditionalism | 2 | Explored | C | Old-world Europe; family names and memory. |
+| Feminism | 2 | Explored | C | Nina and Eva's arcs; women mostly supporting. |
+| Libertarianism | 2 | Explored | C | A lone man against state systems. |
+| Stoicism | 2 | Explored | C | Tenma's endurance on the run. |
+| Pragmatism | 2 | Explored | C | Investigation and medicine as tools. |
+| Expressive individualism | 1 | Critiqued | D | Self-invention as Johan's weapon. |
+| Anti-natalism | 1 | Critiqued | D | The twins' mother's despair, briefly. |
+| Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Environmentalism, Hedonism, Consumerism, Bushido / honor code, Liberalism, Anarchism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 5 | Takes no side; communist programs are condemned for cruelty, not economics. |
-| Social (0 authority, 10 liberty) | 6 | State abuse and corrupt police are evils, but a good detective and the courts eventually serve justice. |
-| Cultural (0 traditional, 10 progressive) | 6 | Anti-racism and equal care lean progressive; family, names and home are honored. |
-| Community (0 individual first, 10 community first) | 6 | One man's conscience drives the story, but belonging and care for others are what save people (Tan). |
+| Economic (0 collective, 10 free market) | 5 | Little economic content; class bias in medicine criticized. |
+| Social (0 authority, 10 liberty) | 6 | Against secret police and experiments on people, while a lawman's honesty is honored. |
+| Cultural (0 traditional, 10 progressive) | 6 | Secular and humane; anti-racist; old Europe as setting. |
+| Community (0 individual first, 10 community first) | 6 | Community and names make people human; Tenma acts alone for others. |
 
 **Moral foundations profile (0 to 10):** care 10, loyalty 5, fairness 9, sanctity 6, authority 3, liberty 6.
 
-**Profile notes for parents:** The series is built on one idea, that every life is worth the same, and tests it against the hardest case: a killer. Its villain is the most articulate nihilist in popular manga, and the story clearly rejects him, but he is magnetic, and fans often admire him. The weight for families is less gore than suicide, child abuse and long psychological dread.
+**Profile notes for parents:** Care is at the maximum: the whole story turns on whether every life deserves saving. Fairness is high (equal treatment regardless of status). Sanctity is moderate: life is treated as sacred though no religion is named. Authority is low because most institutions fail. VIZ rates it T+; Common Sense Media puts the anime at 15+ for violence, dread and suicide themes.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 2 | "All lives are equal" (Tenma's motto); Tenma gives up revenge and heals Johan (ch. 160-161, likely); justice goes to the police and courts (Lunge, ending). |
-| Order vs freedom | 5 | Abusive state order (Kinderheim, secret police) is the evil, but lawful institutions are redeemed; Tenma's outlaw freedom is a burden, not an ideal. |
-| Civic vs kin | 2 | Equal care for strangers, a migrant worker and the enemy; the ending is Doctors Without Borders. Twin bonds matter, but kin loyalty never overrides the duty to all. |
-| Equality vs hierarchy | 2 | The hospital hierarchy that ranks a mayor above a boy is the first wrong (ch. 1-3). |
-| Tradition vs secular-rational | 7 | Medicine, detection and psychology solve the case; religion is mostly motif. |
-| Survival vs self-expression | 7 | Tolerance, memory, names and quality of life ("A Happy Table," ch. 131) are lifted up against a survival-and-fear world. |
+| Dignity vs honor | 2 | Tenma refuses revenge and the code of honor; dignity of every person is the motto. |
+| Order vs freedom | 5 | Rule of law is valued (Lunge's procedure, Tenma clearing his name) while secret-police order is condemned. |
+| Civic vs kin | 2 | Tenma serves strangers of every nationality; kin ties are often broken or abusive. |
+| Equality vs hierarchy | 2 | The hospital's ranking of patients is the original sin of the story (ch. 1). |
+| Tradition vs secular-rational | 7 | Medicine, psychology and investigation as tools; religion as imagery. |
+| Survival vs self-expression | 7 | Personal conscience and identity matter more than safety for Tenma and Nina. |
 
 Closest clusters: Yankeedom; Protestant Europe; The Midlands
 
-Japanese source culture: The story is set almost entirely in Germany and the Czech Republic and draws on European post-Cold-War history rather than Japanese norms. Tenma's quiet self-sacrifice and his family's expectation that he inherit a hospital (Monster wiki) reflect Japanese duty and family hierarchy as context; the series' message points away from status and rank.
+Japanese source culture: A Japanese doctor abroad, his sense of duty and humility, and Urasawa's reading of German medicine are the Japanese threads; the setting and social issues are European (reunification, neo-Nazis, East German institutions).
 
 ## Philosophy essay
 
-**The central question.** Are all lives equal? The story asks it in its first chapters, when a hospital director orders Tenma to operate on a mayor instead of a shot boy. Tenma chooses the boy. Then the boy turns out to be a killer. Was the choice still right? The ANN encyclopedia summary puts it directly: the series raises questions about "whether all lives are truly equal."
+**The central question.** Are all lives equal? Tenma bets his career on yes when he operates on a boy instead of the mayor (ch. 1), and the boy becomes a killer. The rest of the story asks whether he was wrong.
 
-**The answer the story gives.** Yes, and the cost is enormous. Tenma pursues Johan for nine years, intending at times to kill him. In Ruhenheim, after a townsman shoots Johan, Tenma operates on him again, repeating the opening (Kotaku; Monster wiki). The series does not let Tenma settle the question by force. EBSCO puts the theme as choice: "the choices people make are what truly define them." Some critics find this unsatisfying. Tieryas (Kotaku) wished Tenma had made the final choice himself; Brienza (ANN) said the ending "went out with a whimper." Others read the second surgery as the whole point.
+**The answer the story gives.** He was not. Tenma comes to believe he must kill Johan to make up for saving him, and the story walks him to the edge, then has him choose to save Johan again (ch. 159-162). Life's worth does not depend on what a person has done. The nihilist's case, that death is the only equality, is given its full force and still loses.
 
-**Characters as arguments.** Johan argues that death is the only equality and that names and selves are illusions. Eva argues that lives are not equal and lives out the bitterness of that view before changing. Lunge argues for pure procedure and learns its blind spot. Grimmer, a Kinderheim survivor who thinks he has no feelings, argues by his death that empathy can survive abuse. Nina, the twin who remembered, argues that a person can choose forgiveness over revenge. Bonaparta, the experimenter who wrote the picture books, is the argument that people can be designed, and his remorse is the story's late answer.
+**Characters as arguments.** Tenma argues for equal worth and the healer's oath. Johan argues for nothingness: no names, no past, no one left who remembers. Eva argues that lives are not equal, and learns otherwise. Lunge argues for perfect procedure and discovers its blind spot. Grimmer, made empty at Kinderheim, argues that feeling can be learned. Nina argues that memory, even of horror, must be faced to be healed.
 
-**Symbols and motifs.** Names: the "Nameless Monster" picture book (ch. 71) and the twins' hidden real names, revealed only at the end. The bullet to the forehead, first in Johan's wound and later in his gesture asking Tenma to shoot (ch. 73). The surgeon's hands, which save and which nearly kill. Doors and memory ("The Door to Memories," v15). The Red Rose Mansion. The empty hospital bed and open window in the last pages.
+**Symbols and motifs.** Names and namelessness. Twins and mirrors. The picture book "A Nameless Monster" (ch. 71). The Red Rose Mansion. Johan's face that no one may see. Tenma's hands, which can heal or shoot. Revelation's beasts, the Antichrist and the commandment not to kill (Humanum Review; TV Tropes).
 
-**Traditions it echoes.** The Fugitive, Urasawa's stated source (Wikipedia). Dostoevsky's question of whether everything is permitted (from general knowledge; my own comparison). Sophie's Choice, which Brienza sees in the mother's choice. Hitchcock suspense (IGN, via Wikipedia). The Antichrist legend (TV Tropes). Germany's reckoning with Nazism and with the East German state after 1990.
+**Traditions it echoes.** The Fugitive (Urasawa's stated model), Hitchcock (IGN, via Wikipedia), Dostoevsky's question of whether everything is permitted (from general knowledge; to verify), and the Mishnah's and the Qur'an's teaching that whoever saves one life saves a world. Catholic and Protestant writers (Tan, Gaheret) read it as a story about the personal reality of evil and the healing power of communion.
 
-**How each lens is portrayed.** Nihilism is given its strongest voice and then refused. Secular humanism and the ethic of medicine are the frame the story trusts. Authoritarian collectivism, both communist and neo-Nazi, is condemned for treating children as material. Christian readers find love of enemy and a devil-like deceiver (Gaheret; Tan); the story itself never names God as the answer. Utilitarian ranking of lives is the first wrong in the plot.
+**How each lens is portrayed.** Nihilism is the villain's creed and is defeated. Duty ethics, in the form of the healer's vow, is the hero's creed and is vindicated. Utilitarian reasoning (rank patients, kill one to save many) is rejected twice. Authoritarian and eugenic systems are shown as the soil that grew the monster. Secular humanism and Christian imagery both find support.
 
-**Shifts across the series.** Vols. 1-2 (ch. 1-16): Tenma's choice, the murders and Nina's story. Vols. 3-7 (ch. 17-59): Kinderheim 511, Tenma as fugitive, Dieter, Eva, Richard Braun. Vols. 8-9 (ch. 60-77): Munich, Schuwald, the library fire. Vols. 10-15 (ch. 78-131): Prague, Grimmer, the Red Rose Mansion and Nina's memory. Vols. 16-18 (ch. 132-162): the neo-Nazi and old-communist plots, Ruhenheim, the end. The tone moves from medical drama to chase thriller to a story about memory, names and mercy.
+**Shifts across the series.** Ch. 1-16 (v1-2): the hospital, the first murders, Nina. Ch. 17-50 (v3-6): Kinderheim 511, Lunge's pursuit, Tenma's resolve to kill. Ch. 51-95 (v7-11): Munich and Prague, Johan's network and Grimmer. Ch. 96-131 (v12-15): the Red Rose Mansion and the twins' past. Ch. 132-162 (v16-18): Ruhenheim, the massacre and the final choice.
 
 **Discussion questions.**
-1. Tenma chose to save a boy instead of a mayor. Was he right? Would your answer change if he had known who the boy would become?
-2. Johan says the only thing everyone is equal in is death. How would your family answer him?
-3. Kinderheim 511 tried to remove children's empathy. What in a child's life builds empathy, and can it be restored?
-4. Tenma plans to kill Johan but in the end saves him again. What changed? Is there a duty to save someone who will do harm?
-5. Johan's victims often kill themselves after he talks to them. How do words harm people, and what helps someone in despair?
+1. The hospital told Tenma to save the mayor first. Was Tenma right to refuse?
+2. Johan says death makes everyone equal. How does Tenma's life answer him?
+3. Should Tenma have killed Johan when he had the chance? What would it have cost him?
+4. Why does having a name, and someone who remembers you, matter so much in this story?
+5. Eva and Lunge both change. What changes them?
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Parent guide, anime | Common Sense Media | 15+, TV-MA; "a lot" of violence but "no graphic or detailed gore"; main takeaway is to "try to do good in an evil world"; Tenma "constantly puts the well-being of his patients above anything else." | https://www.commonsensemedia.org/tv-reviews/monster |
-| Library review, manga | Clair Segal, School Library Journal (Perfect Edition) | Grade 8 and up; warns of "violence (mostly off-screen), death, and murder." | https://www.schoollibraryjournal.com/review/the-perfect-edition |
-| Critic, manga | Leroy Douresseaux, Comic Book Bin (2014) | A; "one of the best comics published in the last decade of the 20th century." | https://www.comicbookbin.com/monsterpe001.html |
-| Critic, manga | Carlo Santos, ANN (v14-15) | B+; the fragility of memory; "one horrific recollection" leaves Nina "in shock." | https://animenewsnetwork.com/review/monster/gn-14 |
-| Critic, manga | Casey Brienza, ANN (v17-18) | A-; the ending "went out with a whimper"; Johan's psychology "supremely scrambled." | https://animenewsnetwork.com/review/monster/gn-17 |
-| Critic, anime | Peter Tieryas, Kotaku (2019) | Blurs good and evil; wishes Tenma had made the final choice; asks "who's the real monster?" | https://kotaku.com/monster-asks-tough-questions-about-morality-fate-and-1840076176 |
-| Christian (evangelical blog), anime | Gaheret, Beneath the Tangles (2021) | "Johan is not Satan"; "Evil comes from us"; "The One who saves is immensely greater than the one who kills." | https://beneaththetangles.com/2021/10/21/the-devil-and-johan-liebert |
-| Catholic (academic), anime | Matthew John Paul Tan, Humanum Review (John Paul II Institute) | Monstrosity grows from isolation; Johan as a "gruesome parody" of the apostle John; "In fighting the monster, Tenma almost becomes the monster." | https://humanumreview.com/artefact/identity-community-monstrosity |
-| Catholic (blog follow-up) | Matthew Tan, Awkward Asian Theologian (2024) | Distance, not only lack of community, makes monsters; Johan's aloofness draws admirers. | https://awkwardasiantheologian.squarespace.com/blog/2024/3/8/that-monstrous-distance |
-| Literary reference | EBSCO Research Starters | Theme is choice; Tenma "considers all lives to be equal"; ending "ambiguous." | https://www.ebsco.com/research-starters/literature-and-writing/monster-manga |
-| Women in the story (critic blog) | David Welsh, The Manga Curmudgeon (2008) | The series is best when it focuses on Nina and Eva; Eva is "a tragedienne of the highest order." | https://mangacurmudgeon.mangabookshelf.com/2008/03/20/monstrous-women |
-| Fan reviews | MyAnimeList; ANN users | MAL 9.16, popularity #26; ANN users rank it #2 of 3,531 manga. | https://myanimelist.net/manga/1 ; https://animenewsnetwork.com/encyclopedia/manga.php?id=1511 |
-| Japanese reference | Mangapedia | Places the story against German reunification and the Cold War in Eastern Europe. | https://mangapedia.com/MONSTER-0e13qiok7 |
-| Conservative, progressive, Plugged In | none found | No conservative outlet, progressive outlet or Plugged In review was found before the fetch budget ran out. | — |
+| Parent guide (anime) | Jeremy Looney, Common Sense Media | Age 15+; "Dark, intriguing psychological thriller anime is bloody"; Tenma a strong role model; violence, nude photos, mild profanity, drinking and smoking. | https://www.commonsensemedia.org/tv-reviews/monster |
+| Christian (anime) | Gaheret, Beneath the Tangles (2021) | Johan as a real, personal evil, devil-like but not Satan and not all-powerful; Christians should be watchful and sober rather than fearful. | https://beneaththetangles.com/2021/10/21/the-devil-and-johan-liebert |
+| Catholic (anime) | Matthew John Paul Tan, Humanum Review (John Paul II Institute) | People become themselves through community; isolation makes monsters; Johan as a dark parody of the disciple John. | https://humanumreview.com/artefact/identity-community-monstrosity |
+| Critics (manga) | Junot Diaz (Time); Carl Kimlinger, Carlo Santos, Casey Brienza (ANN); Deb Aoki (via Wikipedia) | Diaz calls Urasawa a national treasure; Kimlinger, a master of suspense; Santos finds moments of love and hope; Brienza finds the ending weak. | https://en.wikipedia.org/wiki/Monster_(manga) |
+| Teen librarians | YALSA Great Graphic Novels for Teens, 2007 (via Wikipedia) | Listed for teens. | https://en.wikipedia.org/wiki/Monster_(manga) |
+| Awards | Tezuka Osamu Cultural Prize, Shogakukan Manga Award (via Wikipedia) | Major Japanese awards; Eisner nominations. | https://en.wikipedia.org/wiki/Monster_(manga) |
+| Fan databases | AniList, MangaUpdates | AniList average 90 (about 110,000 members); MangaUpdates 8.76. | AniList API; MangaUpdates API |
+| Plugged In | — | No review found in search. | none |
+
+No public controversy was found. Critics agree on the craft; the split is over the ending, which some find unsatisfying and others think fitting for an open moral question.
 
 ## Most loaded parts and pages to photograph
 
-Volume to chapter map (Wikipedia): v1 ch. 1-8; v2 9-16; v3 17-24; v4 25-32; v5 33-41; v6 42-50; v7 51-59; v8 60-68; v9 69-77; v10 78-86; v11 87-95; v12 96-104; v13 105-113; v14 114-122; v15 123-131; v16 132-141; v17 142-151; v18 152-162. Perfect Edition: PE1 = v1-2 (confirmed), PE2 = v3-4, PE3 = v5-6, PE4 = v7-8, PE5 = v9-10, PE6 = v11-12, PE7 = v13-14, PE8 = v15-16, PE9 = v17-18 (likely).
+Volume-to-chapter map (English Wikipedia chapter list, opened, with titles): v1 ch. 1-8; v2 9-16; v3 17-24; v4 25-32; v5 33-41; v6 42-50; v7 51-59; v8 60-68; v9 69-77; v10 78-86; v11 87-95; v12 96-104; v13 105-113; v14 114-122; v15 123-131; v16 132-141; v17 142-151; v18 152-162. The Perfect Edition pairs volumes (PE vol. 9 = v17-18, per the VIZ description). Scene chapters are inferred from chapter titles and marked "likely" where not confirmed.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | Tenma's choice: the boy over the mayor; Eva's "People's lives aren't equal"; the director's murder | ch. 1-5 (v1 / PE1) | The life message and every frame row; the utilitarian lens. |
-| 2 | Ruhenheim: suicide games with children, the town massacre, Johan's gun to Wim's head, Johan shot, Tenma's second surgery | ch. 144-161 (v17-18 / PE9); "Perfect Suicide" ch. 148, "Massacre Town" ch. 150, "A Vision of the End" ch. 159, "The Living" ch. 160 (likely for the shooting and surgery) | Moral climax; Violence (7) and Mental health (8); whether Tenma kills. |
-| 3 | Kinderheim 511 and Johan's "little experiment" massacre | ch. 19-21 (v3 / PE2); revisited ch. 80 "The Ghost of 511" (v10 / PE5) | Child abuse by the state; drugging; Authoritarianism lens; Scientologist row. |
-| 4 | Johan's nihilism speeches and the boy in Prague's red-light district | ch. 96-98, "The Cruelest Thing" ch. 98 (v12 / PE6) | Nihilism lens; Sexuality (child paid to watch a prostitute); near-suicide of a child. |
-| 5 | Red Rose Mansion, Bonaparta's reading group, the Liebert night, Nina's recovered memory | ch. 100-101 (v12), ch. 117-119 (v14 / PE7), ch. 128-130 (v15 / PE8) | Eugenics and child experiments; the mother's choice; Fear (8). |
-| 6 | The final chapter: Tenma at Johan's bedside, the mother's choice, the empty bed | ch. 162 "The Real Monster" (v18 / PE9) | Ending; whether evil persists; Winners table. |
-| 7 | Schuwald library fire; "The Nameless Monster" picture book; Johan's gesture asking to be shot; Fahren's suicide | ch. 69-73 (v9 / PE5) | Violence; Mental health; the picture books (Pentecostal concern). |
-| 8 | Neo-Nazis, old communists, Petr Čapek and the Baby; "Massacre" | ch. 132-141 (v16 / PE8) | Politics theme; Holocaust-adjacent content (Jewish rows). |
-| 9 | Turkish community and the arson; Dieter's abuse and rescue | v3-4 (ch. 22-32; "Ayşe's Friend" ch. 28, likely) | Immigrants and racism; child abuse at home; Muslim and progressive rows. |
-| 10 | Eva's alcoholism; Richard Braun's staged drunken death; Johan disguised as Nina with Suk | ch. 42-56 (v6-7), ch. 84-87 (v10-11) | Substances (5); Sexuality (3). |
+| 1 | A child in a red-light district sees a sex worker with a customer and is paid to watch | chapter not identified | Minor involved; Sexuality (3) and every frame's Depiction concern. Do not photograph or scan; review in print, written note only. |
+| 2 | Kinderheim 511: experiments on children; children made to kill | ch. 17-24 (v3) and later flashbacks | Child abuse; Violence; Collectivism lens. |
+| 3 | The Red Rose Mansion: poisonings and Nina's recovered memory | ch. 96-104 (v12), 128-131 (v15) | Fear (8); the twins' trauma. |
+| 4 | The Ruhenheim massacre and Johan's "perfect suicide" | ch. 144-151 (v17) | Violence (7), Mental health (8). |
+| 5 | Tenma saves Johan; the empty bed | ch. 159-162 (v18) | The story's moral climax; Outlook and Winners table. |
+| 6 | Nina's adoptive parents murdered on her birthday | ch. 12-13 (v2) | Violence; Fear. |
+| 7 | Richard Braun's death staged as a drunk's fall | likely ch. 51-54 (v7) | Substances (5); Mental health. |
+| 8 | Grimmer's torture by corrupt police and his death | likely v10-11 and ch. 154-155 (v18) | Violence; Winners table. |
+| 9 | Johan's disguise as a woman in Prague; Roberto | likely v9-11, v15-16 | Sexuality and Gender rows; confirm content. Written note only. |
+| 10 | Neo-Nazis, the "new Hitler" plan and attacks on Turkish immigrants | likely ch. 25-32 (v4), 60-68 (v8) | Politics; Patriotism lens; Muslim and progressive rows. |
 
-Estimate: about 70-80 chapters touch these items; photographing the key spreads would take about 150-200 pages.
+Estimate: about 45 chapters cover the above; about 60-80 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
 Pages actually opened:
-- https://en.wikipedia.org/wiki/Monster_(manga)
-- https://en.wikipedia.org/wiki/List_of_Monster_chapters
-- https://wikiwand.com/en/Monster_(manga)
+- https://en.wikipedia.org/wiki/Monster_(manga) (raw wikitext)
+- https://en.wikipedia.org/wiki/List_of_Monster_chapters (raw wikitext, with chapter titles)
+- https://en.wikipedia.org/wiki/List_of_Monster_characters (raw wikitext; downloaded, skimmed)
+- https://en.wikipedia.org/wiki/Naoki_Urasawa (raw wikitext)
+- AniList API, media id 30001 (graphql.anilist.co)
+- MangaUpdates API, series 72274276213 (api.mangaupdates.com)
+- https://www.viz.com/manga-books/manga/monster-volume-9-0/product/4816 (Perfect Edition vol. 9; Teen Plus; VIZ Signature)
+- https://tvtropes.org/pmwiki/pmwiki.php/Manga/Monster (facts only)
 - https://www.commonsensemedia.org/tv-reviews/monster
-- https://www.schoollibraryjournal.com/review/the-perfect-edition
-- https://www.comicbookbin.com/monsterpe001.html
-- https://www.viz.com/monster (no rating shown)
-- https://animenewsnetwork.com/encyclopedia/manga.php?id=1511
-- https://animenewsnetwork.com/review/monster/gn-14
-- https://animenewsnetwork.com/review/monster/gn-17
-- https://www.japantimes.co.jp/culture/2014/08/02/books/book-reviews/monster-volume-1 (no thematic content)
-- https://www.ebsco.com/research-starters/literature-and-writing/monster-manga
-- https://www.tvtropes.org/pmwiki/pmwiki.php/Anime/Monster (facts only)
-- https://obluda.fandom.com/wiki/Johan_Liebert (facts only)
-- https://obluda.fandom.com/wiki/Kenz%C5%8D_Tenma (facts only)
-- https://obluda.fandom.com/wiki/The_Real_Monster (anime episode 74; facts only)
-- https://obluda.fandom.com/wiki/The_Wrath_of_the_Magnificent_Steiner (anime episode 71; facts only)
-- https://obluda.fandom.com/wiki/Volume_1:_Herr_Doktor_Tenma (facts only)
-- https://mangapedia.com/MONSTER-0e13qiok7
-- https://myanimelist.net/manga/1
-- https://kotaku.com/monster-asks-tough-questions-about-morality-fate-and-1840076176
 - https://beneaththetangles.com/2021/10/21/the-devil-and-johan-liebert
 - https://humanumreview.com/artefact/identity-community-monstrosity
-- https://awkwardasiantheologian.squarespace.com/blog/2024/3/8/that-monstrous-distance
-- https://mangacurmudgeon.mangabookshelf.com/2008/03/20/monstrous-women
-- https://www.equip.org/articles/unpacking-animes-thematic-spiritual-depth/ (does not discuss Monster)
-- https://j-generation.com/2019/01/naoki-urasawa-interview-monster-20th-century-boys-2019/
+- https://j-generation.com/2019/01/naoki-urasawa-interview-monster-20th-century-boys-2019/ (no Monster theme statements)
+- https://animenewsnetwork.com/interview/2012-08-20/naoki-urasawa (no Monster theme statements)
 
-Found in search results but not opened (titles only; content not verified):
-- https://www.commonsensemedia.org/tv-reviews/monster/user-reviews/adult
-- https://animenewsnetwork.com/review/monster/gn-5 ; https://www.animenewsnetwork.com/review/monster/gn-16 ; https://www.animenewsnetwork.com/review/monster/gn-8 ; https://www.animenewsnetwork.com/review/monster/gn-10
+Found in search, not opened (fetch cap reached or not prioritized):
+- https://animenewsnetwork.com/review/monster/gn-17 ; https://animenewsnetwork.com/review/monster/gn-5 ; https://www.animenewsnetwork.com/review/monster/gn-8
+- https://kotaku.com/monster-asks-tough-questions-about-morality-fate-and-1840076176
 - https://beneaththetangles.com/2017/11/01/good-bad-monstrous/
-- https://medium.com/@winteranonn/urasawas-monster-and-its-unconditional-hope-for-humanity-8d6bce577ee0
-- https://myanimelist.net/featured/1401/Deconstructing_the_Monster_Genre__What_is_True_Evil_
-- https://www.thedailystar.net/shout/news/monster-unmatched-piece-philosophy-the-field-anime-3218491
-- https://lackoftaste.substack.com/p/anime-august-the-real-monster-in
-- https://the-solute.com/?p=89289
-- https://aiptcomics.com/2014/07/21/manga-review-monster-the-perfect-edition-vol-1/
-- https://www.thebooksmugglers.com/2016/05/book-review-monster-vol-1-naoki.html
-- https://blogcritics.org/manga-review-monster-by-naoki-urasawa/
-- https://steemit.steemapps.com/anime/@boldnessofsouls/urasawa-s-monster-a-biblical-analysis
-- https://www.cna.com.tw/culture/article/20200228w001 (Urasawa interview; fetch refused, budget exhausted)
-- https://dic.pixiv.net/history/Monster/769313
-- https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Monster
-
-Not reached: obluda wiki volume 18 page (error); the shared fetch budget ran out before the Taiwanese Urasawa interview and any conservative or progressive outlet could be opened.
+- https://awkwardasiantheologian.squarespace.com/blog/2024/3/8/that-monstrous-distance
+- https://www.slashfilm.com/1188759/the-daily-stream-monster-is-a-gripping-horror-thriller-about-how-good-can-overcome-evil
+- https://www.ebsco.com/research-starters/literature-and-writing/monster-manga
+- No Plugged In page found in search.
 
 ## Full-read review checklist
 
-- [ ] Confirm the Viz rating on the standard v1 and on the Perfect Edition (T+ per Comic Book Bin) and whether Perfect Edition volumes 2-9 each hold two standard volumes. Affects Series facts and the numbering line.
-- [ ] Ch. 1-5 (v1): the surgery choice, Eva's words, the implied night with Eva, the doctors' poisoning. Affects Sexuality (3) and the Life message.
-- [ ] Check for a Revelation 13 epigraph or other Bible quotations in the manga, and any church or priest scenes. Affects Religion theme, Christian lens (4) and the Christian frame rows.
-- [ ] Ch. 19-21 (v3): Kinderheim 511, the drugging, the massacre; how much is shown. Affects Violence (7), Fear (8) and the Scientologist row.
-- [ ] V3-4: Dieter's abuse and rescue; the Turkish community and arson (ch. 28 "Ayşe's Friend"). Affects Family theme and Politics theme.
-- [ ] Find the chapter where Tenma learns to shoot, and Nina's near-suicide. Affects Imitable behavior (4) and Mental health (8).
-- [ ] Ch. 56 and v6-7: Richard Braun's death, Eva's drinking. Affects Substances (5).
-- [ ] Ch. 69-73 (v9): Fahren's suicide, "The Nameless Monster" book, the library fire, Johan's forehead gesture. Affects Mental health and the Pentecostal row.
-- [ ] Ch. 84-87 and 96-98 (v10-12): Johan as Nina with Suk; the boy in the red-light district and what is shown; "The Cruelest Thing" speech. Affects Sexuality (3) and the Nihilism lens.
-- [ ] Ch. 100-101, 117-119, 128-130: Red Rose Mansion, the reading group, the Liebert night and Nina's recovered memory. Affects Fear (8) and the essay.
-- [ ] Ch. 132-141 (v16): neo-Nazi and old-communist plots, "a new Hitler" language, any Holocaust imagery or antisemitic tropes. Affects Jewish rows and Politics theme.
-- [ ] Ch. 144-161 (v17-18): suicide games with Wim and other children, the massacre, Grimmer's death, Bonaparta's death, Roberto's fate, who shoots Johan and in which chapter, Tenma's surgery. Affects Violence, Mental health and Winners table.
-- [ ] Ch. 162: the mother's choice, the twins' real names, the empty bed. Affects the ending and the essay.
-- [ ] Spot-check Viz profanity in 3-4 chapters. Affects Language (4).
-- [ ] Read any Urasawa afterwords in the Perfect Edition and look for Monster-specific interviews (the CNA 2020 interview). Affects Creator context and the "Needs more info" status.
-- [ ] Look for a Plugged In, conservative or progressive review of the anime or manga. Affects How readers took it.
+- [ ] Find the chapter where a child in a red-light district watches a sex worker with a customer (TV Tropes); record what is shown. Written note only. Affects Sexuality (3), the minors check and every frame's Depiction concern.
+- [ ] Kinderheim 511 and the Red Rose Mansion (ch. 17-24, 96-104, 128-131): confirm what is shown of the abuse of children. Written note only. Affects Violence, Fear and frame rows.
+- [ ] Confirm the chapters for the Turkish immigrant arc (likely ch. 25-32) and the neo-Nazi plot (likely ch. 60-68). Affects the Politics row, the Patriotism lens and the Muslim row.
+- [ ] Confirm Tenma's gun training and his near-shot at Johan (likely v5-6). Affects Imitable behavior (4) and the Duty ethics and Pacifism lenses.
+- [ ] Confirm Grimmer's torture and death chapters, Richard Braun's death and Bonaparta's end. Affects Winners table.
+- [ ] Check Johan's disguise in Prague, Roberto and the emails to Nina for any sexual content. Written note only. Affects Sexuality and Gender rows.
+- [ ] Check the nude photographs Common Sense Media mentions in the anime against the manga. Affects Sexuality.
+- [ ] Spot-check VIZ language in 3-4 chapters. Affects Language (4).
+- [ ] Confirm the final chapter (162) and whether Tenma's later work (e.g., with an aid group) is in the manga or only in other media. Affects Outlook and Winners.
+- [ ] Read Urasawa's afterwords for statements on themes. Affects Creator context.
+- [ ] Open the not-opened sources above, especially the ANN volume reviews. Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

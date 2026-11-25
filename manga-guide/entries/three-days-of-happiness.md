@@ -1,21 +1,21 @@
 # Three Days of Happiness (Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.)
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **medium for premise, themes and series facts; low for chapter numbers.** Series facts come from English Wikipedia, MyAnimeList (manga and novel entries), Yen Press and Comics Beat (all opened). Plot points come from Mangapedia, ciatr.jp, a Harvard-hosted essay and several reviews (opened). No fan wiki, TV Tropes page or official chapter list could be reached, so every chapter number below is inferred from volume summaries and marked "likely". No parent guide (Common Sense Media, Plugged In, ScreenWise) and no faith-based or political outlet review was found for the novel or the manga. Items still resting on general knowledge are marked "(from general knowledge; to verify)". Pages found in search but not opened are listed apart in Sources.
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Built 2026-11-25 (about 18 lookups). This entry covers the manga adaptation (16 chapters plus 2 extras, 3 Japanese volumes; English omnibus from Yen Press, September 2026), drawn by Shouichi Taguchi from Sugaru Miaki's novel. Several plot facts come from reviews of the novel and are marked as such; chapter numbers could not be confirmed for most scenes, because no chapter-level fan wiki or volume-to-chapter map was found. Series facts come from English Wikipedia (the novel article, opened through its raw-text endpoint), Japanese Wikipedia (the Sugaru Miaki article), the AniList and MangaUpdates APIs, and Yen Press's omnibus product page (rating). Plot points come from The Outer Haven's review of the English omnibus (2026), five AniList user reviews (opened through the API), the Anti-Social Geniuses and Honey's Anime reviews of the novel, and a Harvard-hosted student essay on Himeno (facts only). No Common Sense Media, Plugged In, Anime Feminist or Beneath the Tangles review was found. TV Tropes could not be opened (blocked to automated fetching). Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
 | Field | Detail |
 |---|---|
-| Title | Three Days of Happiness (English title used by Yen Press for both the novel and the manga). Manga's Japanese title: 寿命を買い取ってもらった。一年につき、一万円で。 (Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de., "I Had My Lifespan Bought: Ten Thousand Yen per Year"; fan English title "I Sold My Life for Ten Thousand Yen Per Year"). Source novel: 三日間の幸福 (Mikkakan no Koufuku, "Three Days of Happiness") (English Wikipedia; MyAnimeList) |
-| Creators | Sugaru Miaki (original story; novel illustrated by E9L); Shouichi Taguchi (manga art and adaptation) (English Wikipedia; MyAnimeList) |
-| Origin | Novel: ASCII Media Works, Media Works Bunko, December 25, 2013, one volume (English Wikipedia). Manga: serialized on Shueisha's Shonen Jump+ web platform (shonen demographic, aimed at boys and teens), August 10, 2016 to October 25, 2017. Complete: 3 volumes (Jump Comics+), 16 numbered chapters plus two extra chapters, 8.5 and 16.5 (the latter titled "The unspoken lightness of being"), 18 in all (MyAnimeList; MAL review by flowstate). Mangapedia lists the run as Jump+ 2016 issue 36 to 2017 issue 47 |
-| English edition | Manga: Yen Press, announced March 20, 2026 (Comics Beat); released as "Three Days of Happiness: The Complete Omnibus" (3-in-1), September 22, 2026, about 588 pages, translated by Stephen Paul, lettered by Madeleine Jose. Yen Press age rating: **OT (Older Teen)** (Yen Press title page, opened). Volumes: 3 in Japan, 1 omnibus in English. Novel: Yen On (Yen Press), October 20, 2020 (English Wikipedia); Anime UK News lists it as 13+ |
-| Anime | None. No anime or film adaptation listed (English Wikipedia) |
-| Recognition | MyAnimeList manga: score 8.77, popularity #53, about 201,000 members, about 15,900 favorites (as viewed). Novel on MyAnimeList: 8.91, about 46,000 members. Foreign editions of the novel in Spain (Norma), Poland (Studio JG) and Brazil (JBC) (ANN novel encyclopedia entry, opened; MyAnimeList). No awards or sales figures found |
-| Other guides | No Common Sense Media, Plugged In or ScreenWise review found for the novel or manga. Yen Press: OT. Anime UK News (novel): 13+ |
+| Title | Manga: Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de. (寿命を買い取ってもらった。一年につき、一万円で。, "I had my lifespan bought: 10,000 yen a year"). English title: Three Days of Happiness. Novel: 三日間の幸福 (Mikkakan no Kofuku) (Wikipedia; AniList id 97553, confirmed) |
+| Creators | Sugaru Miaki (original story), born 1990 in Iwate; first posted the story on the 2channel message board under the name Genfuukei (2011-2013), then revised it as the novel Three Days of Happiness (Media Works Bunko, December 2013); his later novels include Koi suru Kiseichu (Japanese Wikipedia). Shouichi Taguchi (manga art), also creator of Futari Escape (Wikipedia). Novel illustrations by E9L |
+| Origin | Serialized on Shueisha's Shonen Jump+ app and website from August 10, 2016 to October 25, 2017 (16 chapters); 3 volumes, July 4 to December 4, 2017; Jump+ is classed as shonen. **Complete.** AniList counts 18 chapters, including two extras (Wikipedia; AniList; MangaUpdates) |
+| English edition | Manga: Yen Press, Three Days of Happiness: The Complete Omnibus, September 22, 2026, 588 pages, translated by Stephen Paul. Publisher rating: **OT (Older Teen)** (Yen Press product page). The novel was published in English by Yen Press on October 20, 2020 (Wikipedia) |
+| Anime | None (MangaUpdates; AniList) |
+| Recognition | No awards found. Database scores: AniList average 86, about 86,000 members; MangaUpdates 8.5 (Bayesian, 655 votes) |
+| Other guides | No Common Sense Media, Plugged In or Anime Feminist page found. AniList tags: Philosophy, Tragedy, Coming of Age, Primarily Adult Cast, Cohabitation, Suicide. MangaUpdates categories include Limited Lifespan, Depression, Despair, Dying Protagonist, Smoking, Invisibility and Childhood Promise |
 | Entry tier | From summaries |
 
-**Premise.** Kusunoki is a broke college student nearing twenty. As a child he believed he was destined for great things; now he has no friends, no drive and no money, and he is selling his books and CDs to eat. An old bookstore owner tells him about a shop that buys lifespan, time and health. The shop prices a life by the happiness, achievement and contribution still ahead of it. Kusunoki's remaining thirty years are judged nearly worthless: 10,000 yen a year, 300,000 yen in all. He sells all but three months. The next day the appraiser, a reserved young woman named Miyagi, arrives as his "monitor": she must watch him until shortly before his death, in case people with little time left do something reckless. Only he can see her. He spends his final months chasing old ties, above all his childhood friend Himeno, and slowly finds that what gives a life value has little to do with what the shop measured (Mangapedia; English Wikipedia; Yen Press).
+**Premise.** Kusunoki, about twenty, is a broke, friendless college student who once believed he was meant for great things. Told by a used-book dealer of a shop that buys lifespans, he learns his remaining thirty years are worth only 300,000 yen, about 10,000 yen a year, and sells all but three months. The shop assigns a monitor, Miyagi, who stays with him until he dies and whom only he can see. He drinks, writes a list of things to do, and tries to reconnect with his childhood friend Himeno, with whom he had promised at ten to marry at twenty if both were single; the meeting goes badly. Slowly he spends his days with Miyagi instead, the town comes to know the young man who talks to an invisible girl, and the two fall in love. Miyagi, it turns out, works for the shop to pay off a debt left when her mother sold her time and died. The ending turns on a final choice that gives the book its English title (Wikipedia; Yen Press; The Outer Haven; AniList reviews).
 
 ## Life message
 
@@ -23,270 +23,238 @@ Built from summaries, databases and reviews (From summaries); no pages were read
 
 | Meta lens | How it reads the series |
 |---|---|
-| Evolutionary biology | A low-status young male with no allies, no mate and no resources is priced by the shop on future "contribution," much as status rank works in a group. His worth rises when he forms a pair bond and invests in another (Miyagi) rather than himself; Mangapedia notes the shop later values his remaining life far higher. Kin ties are weak: he is estranged from his family (OASG). Himeno's early pregnancy, divorce and poverty show the cost of a failed pair bond. Death comes early and by choice, which runs against survival instincts; that tension drives the story. |
-| Pragmatic | The premise is a thought experiment: what would you do with three months and 300,000 yen? Kusunoki's first plan (drinking, chasing old classmates, reclaiming a childhood promise) fails (OASG; Mangapedia). What works is concrete: painting again, being kind, paying off someone else's debt. Some reviewers say his late change is unearned (OASG; MAL reviewer Cynthesia on the novel). |
-| Religious | No religion on the page that any source reports. Readers from faith traditions would meet familiar questions: whether a life can be sold, whether despair can be redeemed, and whether self-giving love that shortens life is sacrifice or self-destruction. The title's "three days" may suggest Easter to Christian readers; no source draws that link and the author has not stated one (my own framing). |
-| Socio-cultural | A Japanese story of youth loneliness and "lost" twenty-somethings, close to a genre of web-born Japanese fiction about isolation (from general knowledge; to verify). The shop's appraisal mirrors a society that ranks people by productivity. Himeno's arc (high school dropout, teen mother, divorced at 18, living with her parents at 20) shows a young woman falling through social safety nets (Mangapedia). Miyagi inherited her mother's debt, a picture of family obligation passed on by force (Mangapedia). |
+| Evolutionary biology | A lonely young man with low status and no mate finds a partner, a place in a town and something like purpose; the story measures a life by bonds rather than by length or reproduction. |
+| Pragmatic | A bucket list fails; what works is small daily kindness and attention. The shop's price, set by how much a life will help others, is a practical, harsh measure that the story argues against. |
+| Religious | No religion appears; the shop is a supernatural device with no gods or afterlife. Faith readers will weigh the premise (selling one's life, then choosing to die with a loved one) against its message that no life is worthless. |
+| Socio-cultural | Youth loneliness, the gap between childhood dreams and adult mediocrity, money as a measure of worth (Honey's Anime and AniList reviewers read it as about a generation of isolated young men). |
+
+Outlook: Bittersweet. Kusunoki dies young after selling his life, but the last months bring love, a place in a town and real happiness; readers split on whether the ending is fulfilment or surrender.
+Hope source: L (love between two). Kusunoki's life is redeemed by his love for Miyagi and hers for him; the town's kindness (F) is the close second.
 
 ## Content scores
 
 **Overall content level: 8 out of 10** (set by Mental health and self-harm). Content scores measure intensity only: higher = more of it, not better or worse.
 
-| Category | Intensity (0 to 10) | Frequency | Framing (Endorsed / Neutral / Shown with consequences / Condemned) | Evidence (with chapter numbers where known) |
+| Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 2 | Rare | Shown with consequences | Mostly reported, not shown. Miyagi's mother was killed by a monitored subject (backstory; Mangapedia; likely v1). Monitors can have a misbehaving subject's life ended (Mangapedia), a standing threat rather than an act on the page. No fights or gore reported by any source; to verify on the page. |
-| Fear and intensity | 4 | Recurring | Neutral | A countdown to the lead's death runs the whole story. Despair after Himeno leaves (v2), the final days alone without Miyagi (v3) and the closing death of both leads (v3, likely final chapters) carry the weight (Mangapedia; ciatr; MAL reviews). The tone is quiet and melancholy, not horror. |
-| Sexuality and romance (incl. fan service, manga art vs anime) | 2 | Recurring | Neutral | A slow romance between Kusunoki and Miyagi is central from v2 (Mangapedia); he openly treats her as his girlfriend in v3. A childhood promise to marry Himeno at twenty (v2). Himeno's teen pregnancy is backstory, not shown. No reviewer mentions fan service or sexual content; level of physical affection (kisses, sleeping arrangements) to verify. |
-| Language | 2 | Occasional | Neutral | No reviewer flags profanity. Yen Press translation (Stephen Paul) not checked. Some harsh, self-loathing dialogue likely (from general knowledge; to verify). |
-| Substances | 3 | Occasional | Neutral | In the novel, Kusunoki spends his first day with the money drinking (OASG review of the novel); whether the manga keeps this, and any smoking, is to verify (likely ch. 2, v1). |
-| Mental health and self-harm | 8 | Central | Neutral (contested) | The core act is a young man in despair selling all but three months of his life for money (ch. 1, v1), which several reviewers read as a stand-in for suicide (MAL reviewers Argovault, Realhumanbean; novel reviewer Yorticus). Miyagi reveals Himeno was fated to die by suicide at about twenty; Himeno had planned to kill herself in front of Kusunoki as revenge for an ignored plea for help, and his sale changes that outcome (Mangapedia; Harvard-hosted essay; likely v2). Kusunoki throws away the money in despair (v2). In the ending, Kusunoki sells his remaining time (beyond three days) to clear Miyagi's debt, and Miyagi sells her own remaining life to spend those three days with him (ciatr; MAL reviewers Ringtomb and Realhumanbean; likely final chapters, v3). Not graphic. MAL reviewers warn it "deals with heavy themes of suicide and regret" (hh177013) and that readers who have "fought with depression" may find it hard (superspartan177). The story frames despair and isolation as wrong turns, but readers split on whether the ending affirms life or romanticizes giving it up. |
-| Imitable behavior | 4 | Recurring | Neutral | Selling one's lifespan is fantasy and cannot be copied, but the underlying logic (my life is worthless, so trading it away is reasonable; a short happy span beats a long empty one) is what vulnerable readers could take in. The ending can be read as two people choosing death together (MAL reviewers). Drinking as a first response to despair (novel; manga to verify). |
-| Commercial | 1 | Rare | Neutral | No product placement reported. Money is a theme, not merchandise: life priced in yen is the central conceit and is treated critically. |
+| Violence | 2 | Rare | Shown with consequences | No fights reported by any source opened. Himeno's letter says she had planned to fall from a viewing platform beside him as revenge (stated, not carried out; Harvard essay, from the novel and manga). Deaths come from the shop's contracts, not violence. |
+| Fear and intensity | 4 | Recurring | Neutral | A countdown to death runs through the book; Miyagi has watched other clients die (The Outer Haven). Melancholy rather than horror. |
+| Sexuality and romance (incl. fan service, manga art vs anime) | 2 | Recurring | Neutral | A slow romance between Kusunoki and Miyagi while she lives with him as his monitor (AniList tag Cohabitation; reviewers call it mature and tender). No sexual content reported by any source opened (to verify in print). |
+| Language | 2 | Occasional | Neutral | Himeno's bitter letter; Kusunoki's self-loathing. Exact English profanity not checked (to verify). |
+| Substances | 4 | Occasional | Neutral | Kusunoki spends his first day after the sale drinking heavily (Anti-Social Geniuses, novel review); MangaUpdates tags Smoking. How often the manga shows them is not confirmed (to verify). |
+| Mental health and self-harm | 8 | Central | Neutral (contested) | The premise is a depressed young man selling nearly all his life (MangaUpdates: Depression, Despair); Miyagi predicts Himeno will die by suicide within a few years, and Himeno's letter describes a revenge suicide plan she gave up (Harvard essay); Miyagi's mother sold her time and died (The Outer Haven); both leads choose to end their lives together in the final three days (AniList reviews; quick read). AniList tags Suicide. |
+| Imitable behavior | 4 | Recurring | Neutral | Trading life for money and choosing death for love are framed as meaningful within a fantasy device; heavy drinking. Safe-messaging concern for vulnerable readers. |
+| Commercial | 1 | Rare | Neutral | Books and CDs sold for cash at the start; no product placement reported. |
 
-| Values theme | Presence (Not present/Incidental/Recurring/Central) | Portrayal |
+| Values theme | Presence | Portrayal |
 |---|---|---|
-| Family and authority | Recurring | Kusunoki is estranged from his family (OASG). Miyagi was bound by her mother's debt after her mother sold time for years and was killed (Mangapedia). Himeno, a teen mother, lives with her parents after divorce. The shop and its monitoring rules are the only "authority," and they are impersonal and coercive. Adults who help are strangers: the old bookstore owner and a CD shop clerk who tells him to rely on others (Mangapedia). |
-| Religion and spirituality | Incidental | No religious practice reported. A supernatural shop with no explanation (reviewers wish it were explored more: Anime UK News; OASG). Questions of what a soul or life is worth are posed in secular terms. Any festivals or shrine visits on the page are to verify (OASG mentions "festival trips" in the novel). |
-| Gender and identity (incl. LGBTQ) | Incidental | Heterosexual romance. Himeno's arc shows the cost of early motherhood and divorce for a young woman. Miyagi is a self-effacing woman who pays for others; one critical reviewer says "she has no character until she suddenly decides to" (MAL, Realhumanbean). No LGBTQ content reported. |
-| Politics and social issues | Recurring | The appraisal system, which ranks lives by future contribution and happiness, reads as a critique of valuing people by productivity (Mangapedia; AniList reviewer on the novel). Inherited debt, youth poverty and isolation are the social backdrop. No explicit politics. |
+| Family and authority | Recurring | Kusunoki is estranged from his family (Anti-Social Geniuses, novel); Miyagi's mother left her a debt; Himeno is a single mother who left school (Harvard essay). |
+| Religion and spirituality | Incidental | No religion; the lifespan shop is a supernatural device without gods. |
+| Gender and identity (incl. LGBTQ) | Incidental | A heterosexual romance; one AniList reviewer notes the familiar pattern of a girl giving a lonely man meaning. No LGBTQ content found. |
+| Politics and social issues | Recurring | Money as the measure of a life; youth poverty and loneliness; what makes a life count. |
 
-**Virtues shown:** kindness, self-giving love, gratitude, honesty about one's failures, keeping promises, forgiveness of the past, courage to start again (painting), loyalty, attentiveness to another person (Miyagi's daily question "how will you spend your day?", per MAL reviewer flowstate), contentment.
+**Virtues shown:** kindness, gratitude for small things, honesty about failure, self-giving love, patience (Miyagi), acceptance of one's limits, keeping a promise.
 
 ## Family frames
 
-Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether evil is framed as evil, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself; intensity for age stays in Content scores. All 31 frame guides are still drafts from general knowledge, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: the story rejects the idea that a life's worth is its price and moves its lead from self-pity to self-giving love; but its premise is selling one's life, and its ending has both leads give up their remaining lives for three days together, which many traditions that hold life as a gift, or that forbid suicide, would see as a real conflict, and which secular reviewers read in opposite ways. On the page: no graphic violence or sex; a sustained suicide-adjacent premise, a planned suicide (Himeno) and a death-by-choice ending.
+Each row describes how that tradition's own teaching on art and media would usually read the series, following the frame guides in /mnt/project-files/frame-guides/. These are each tradition's views, not the site's. **Grade** is message fit only: whether the work endorses or merely depicts, whether wrong is framed as wrong, whether there are consequences, whether repentance, redemption or justice is possible, and how the sacred is treated, as that tradition judges these. Intensity alone never lowers a grade. **Depiction concern** is that tradition's view of the explicitness itself. All 35 frame guides (the original 31 plus the four added in 2026: Historically Black Protestant, Atheist, Agnostic and Nothing in particular) are drafts, so every row is a draft; rows marked "(from general knowledge; to verify)" also rest on points not drawn from sources opened for this entry. What the rows weigh: a premise in which a depressed young man sells nearly all his life for cash; a story that then argues no life is worthless and that love and small kindnesses give life its value; a childhood friend whose letter reveals a revenge suicide plan she gave up; drinking and smoking; a tender romance with no sexual content reported; and an ending in which both leads give up their remaining time to share three days before dying, which some readers see as fulfilment and others as surrender. No content involving minors' sexuality was reported by any source opened.
 
 | Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
 |---|---|---|---|---|---|
-| Catholic | C | Discuss | Human worth is not market worth; despair gives way to love that serves another; Kusunoki pays another's debt. Evil (despair, revenge) is not made attractive (Inter Mirifica 7). | Life is a gift held in trust, not owned or sold; trading it away, and the ending's choice of death, sit against CCC 2280-2283, though the story frames it as love. No hope beyond death is offered. | "Greater love has no man than this" (John 15:13) set beside the ending: is it sacrifice or giving up? Despair as the opposite of hope. |
-| Eastern Orthodox | C | Discuss | Repentance from self-pity; humility; love that carries another's burden (Miyagi's debt). | Despair (akedia) as a spiritual danger; life as God's gift; the ending's chosen death. Nepsis: what dwelling on hopelessness does to the soul. | Despair as a temptation the Fathers warn against, compared with Kusunoki's turn. (from general knowledge; to verify) |
-| Baptist | C | Discuss | Worth is not earned by achievement; selfless love; honest confession of failure. | Selling one's life and choosing death are treated as meaningful rather than sinful; no gospel hope. Philippians 4:8 test for a sustained hopeless mood. Soul liberty: each family decides. | Our worth comes from being made in God's image, not from a price tag. What would hope look like for Kusunoki? |
-| Non-denominational Evangelical | C | Discuss | Depicts despair without glamorizing it; a "lost" young man finds meaning in loving another; sacrifice for someone else. | No God in the redemption; the ending can read as accepting death as the answer. Many families "engage" such stories to discuss them. | Romans 14 freedom with care for weaker readers. Where does the story locate a person's worth, and where would Scripture? |
-| Pentecostal / Charismatic | C | Discuss | No occult or demonic content; a supernatural shop treated as a plot device. Healing of a broken heart through love. | Despair and suicidal thinking as spiritual as well as emotional battles; the deal with the shop as a picture of trading life away. | Hope and the Holy Spirit as Comforter, compared with Miyagi's role. (from general knowledge; to verify) |
-| Reformed / Presbyterian | C | Discuss | Common grace lets families value a thoughtful non-Christian work; it exposes the emptiness of worth by achievement. | Self-murder (WLC Q136) is the shadow over the premise and ending, handled pastorally; human life belongs to God's providence, not to a market. | Who sets the value of a life? Providence versus a price. |
-| Lutheran | C | Minor | Worth received, not earned, has an echo: Kusunoki is loved before he changes. Entertainment as adiaphora, judged by love. | The ending's chosen death; LCMS and WELS families may be more cautious than ELCA. | Can a life be "worthless"? Law and gospel on worth. |
-| Methodist / Wesleyan | C | Discuss | Change of heart and works of mercy; growth in character over three months. | Death by choice as the climax; holiness churches more cautious about a hopeless mood. | Prevenient grace: what first moved Kusunoki to change? |
-| Anglican / Episcopal | B | Minor | Judged by framing: the story critiques measuring life by money and moves toward love and gratitude. | Suicide-adjacent premise and ending for younger or vulnerable readers. | The Prayer Book's hope of resurrection set beside a story with no afterlife. (from general knowledge; to verify) |
-| Anabaptist (Mennonite, Amish, Brethren) | C | Discuss | Simplicity, contentment, service and self-giving over achievement. | Separation from popular media in conservative groups; life laid down for a private romance rather than for faith or neighbor. MC USA families more open. | What does it mean to lay down a life well? |
-| Latter-day Saint | C | Discuss | Worth of every soul; repentance and change; service. | Life is a probationary gift in the plan of salvation; selling it and choosing death conflict with that, though suicide is met with compassion (Handbook). For the Strength of Youth: does it invite the Spirit? | The worth of souls is great (D&C 18:10) versus a 300,000-yen price. |
-| Mainline progressive Protestant | B | Minor | Critique of valuing people by productivity; grace-like acceptance; care for the poor and indebted. | Safe-messaging concerns; Himeno, a struggling young mother, gets little compassion from the plot (Harvard-hosted essay). | Who does our economy say is "worth" little, and how does the story answer? |
-| Seventh-day Adventist | C | Discuss | Love and service change a life; no occult or spiritism. | Death as a sleep and life as God's gift; "by beholding we become changed" applied to a sustained hopeless mood and chosen death. | What helps a friend who believes their life is worthless? (from general knowledge; to verify) |
-| Jehovah's Witness | C | Discuss | Kindness, honesty and caring for another; no spiritism reported beyond the unexplained shop. | Life is sacred to Jehovah; trading it and choosing death; an unexplained supernatural power. Choices left to conscience. | Psalm 36:9, "with you is the source of life," set beside the shop. (from general knowledge; to verify) |
-| Christian Science | C | Discuss | Love overcomes fear and despair; healing of a hopeless outlook. | Dwelling on death, despair and a deadline to die ("Stand porter at the door of thought," Science and Health 392). | Which thoughts does the story ask you to hold, and which to let go? (from general knowledge; to verify) |
-| Orthodox Jewish | D | Discuss | Chesed (loving-kindness) and paying another's debt; the shop's verdict that a life is worthless is rejected. | Life is of infinite worth and preserving it overrides almost every other command (pikuach nefesh); shortening it by choice, for money or for love, is grave. Many Haredi homes restrict secular media. | "Whoever saves one life saves a world" (Mishnah Sanhedrin 4:5) set beside a world where a life costs 300,000 yen. (from general knowledge; to verify) |
-| Conservative Jewish | C | Minor | Chesed, teshuvah from self-pity, care for the indebted. | Sanctity of life; the ending's chosen death; safe-messaging for vulnerable teens. | Choose life (Deuteronomy 30:19) as a discussion frame. (from general knowledge; to verify) |
-| Reform Jewish | C | Minor | Critique of valuing people by productivity; tikkun olam on a small scale. | Suicide-adjacent ending; informed choice for families. | Discussing together what makes a life matter. (from general knowledge; to verify) |
-| Muslim | D | Discuss | Patience and kindness; rejection of the idea that a person is worthless; paying another's debt is praised. | Life belongs to God and its term is His to set (ajal); taking or selling it is forbidden (Qur'an 4:29). The story treats giving up life as fulfilment. A romance outside marriage. | Qur'an 4:29 and the hope in God's mercy against despair (39:53). |
-| Hindu | C | Minor | Detachment from the fruits of action; karma-like reversal as kindness raises the worth of a life. | Ending life early before its karma is worked out is discouraged; the story gives no sense of dharma beyond the couple. | Is a short life lived in love better than a long one in duty? (from general knowledge; to verify) |
-| Buddhist | B | Discuss | Impermanence and the present moment; suffering from craving for status and recognition; compassion (karuna) changes Kusunoki. | Suicide is discouraged; the ending can read as attachment to one person rather than release. Right mindfulness of what feeds the mind. | Miyagi's question "how will you spend your day?" as a mindfulness practice. |
-| Sikh | C | Minor | Ego (haumai) and self-pity overcome by service and love. | Life is a precious gift; choosing death goes against hukam (accepting God's will). | Does Kusunoki accept or refuse the life he was given? (from general knowledge; to verify) |
-| Bahá'í | C | Minor | Service, kindness and the worth of every soul. | Suicide forbidden; no spiritual frame for death. | The soul's worth beyond any price. (from general knowledge; to verify) |
-| Shinto | B | Minor | Sincerity (makoto) in the late Kusunoki; gratitude for ordinary days; the seasonal, everyday beauty of a small town. | Death as impurity is not a theme; little religious content to align or conflict. | Gratitude for each day as a practice. (from general knowledge; to verify) |
-| Wiccan / Pagan | B | Minor | "Harm none"; the cycle of life and death accepted; love as a force for change. | The ending's chosen death for younger readers. | Death as part of the wheel versus cutting the wheel short. (from general knowledge; to verify) |
-| Scientologist | C | Minor | The Way to Happiness precepts: help others, be industrious, be worthy of trust. | Hopelessness accepted rather than handled; life given up. No psychiatry shown (to verify). | Which precepts does Kusunoki break early and keep later? (from general knowledge; to verify) |
-| Secular progressive | C | Discuss | Critique of ranking people by productivity; youth poverty, isolation and a struggling young mother made visible. | Safe-messaging guidelines: a suicide-adjacent premise with a death-by-choice ending, read by some reviewers as romanticizing "the easy way out" (MAL, Realhumanbean; novel reviewer Yorticus). Himeno's despair is not resolved. No help-seeking shown (to verify). | What would real help have looked like for Kusunoki or Himeno? Who in your life could you talk to? |
-| Secular humanist | B | Minor | Meaning made in this life through relationships and chosen values; worth not reducible to output. | A chosen early death as the climax needs mental-health framing; no professional help shown (to verify). | Can three happy days outweigh thirty years? How would you decide? |
-| Conservative / traditional | C | Minor | Personal responsibility, gratitude, keeping promises, paying debts. | A young man trades away his future for a romance; family is estranged and absent; despair is never countered by duty, faith or community. | What do we owe our families and future selves? |
-| Unitarian Universalist | B | Minor | Inherent worth and dignity of every person, against the shop's pricing; compassion. | Safe-messaging concerns about the ending. | What is a life worth, and who decides? (from general knowledge; to verify) |
-| Satanist | C | Minor | Satanic Temple: compassion and admitting mistakes (Tenets 1 and 6); bodily autonomy (Tenet 3) over one's own life. | Church of Satan: self-preservation and living fully now; selling one's life cheaply and dying for another clashes with that individualism. | Is giving up your life for someone else freedom or self-denial? (from general knowledge; to verify) |
+| Catholic | C | Discuss | Human worth is not market worth; despair gives way to love that serves another; Kusunoki tries to pay another's debt. Despair is not made attractive (Inter Mirifica 7). | Life is a gift held in trust, not owned or sold; trading it away, and the ending's choice of death, sit against CCC 2280-2283, though the story frames it as love. No hope beyond death. | Is a life's worth what it earns? Compare the shop's price with the dignity of every person (CCC 1700). |
+| Eastern Orthodox | C | Discuss | Repentance from self-pity; humility; love that carries another's burden (Miyagi's debt). | Despair (akedia) as a spiritual danger; life as God's gift; the ending's chosen death. | Nepsis: what does dwelling on hopelessness do to the soul? (from general knowledge; to verify) |
+| Baptist | C | Discuss | Worth is not earned by achievement; selfless love; honest confession of failure. | Selling one's life and choosing death are treated as meaningful rather than sinful; no gospel hope. Philippians 4:8 test for a sustained hopeless mood. Soul liberty: each family decides. | "You were bought at a price" (1 Corinthians 6:20) beside a man who sells his life for 300,000 yen. |
+| Non-denominational Evangelical | C | Discuss | Depicts despair without glamorizing it; a lost young man finds meaning in loving another; sacrifice for someone else. | No God in the redemption; the ending can read as accepting death as the answer. Many families "engage" such stories to discuss them. | Where does a person's worth come from (Psalm 139:13-16)? |
+| Pentecostal / Charismatic | C | Discuss | No occult or demonic content; the shop is a plot device. A broken heart healed through love. | Despair and suicidal thinking as spiritual as well as emotional battles; the deal with the shop as a picture of trading life away. | Hope in hard seasons (Romans 15:13). (from general knowledge; to verify) |
+| Reformed / Presbyterian | C | Discuss | Common grace lets families value a thoughtful non-Christian work; it exposes the emptiness of worth by achievement. | Self-murder (WLC Q136) shadows the premise and ending; human life belongs to God's providence, not to a market. | Our only comfort: "I am not my own" (Heidelberg Q1) beside a life sold for cash. |
+| Lutheran | C | Minor | Worth received, not earned, has an echo: Miyagi cares for Kusunoki before he changes. Entertainment is a matter of freedom judged by love. | The ending's chosen death; LCMS and WELS families may be more cautious than ELCA. | Grace before merit: who loved Kusunoki first? |
+| Methodist / Wesleyan | C | Discuss | A change of heart and works of mercy; growth in character over three months. | Death by choice as the climax; holiness churches more cautious about a hopeless mood. | "Do all the good you can, in all the time you can": what did Kusunoki do with his last months? |
+| Anglican / Episcopal | B | Minor | Judged by framing: the story critiques measuring life by money and moves toward love and gratitude. | Suicide-adjacent premise and ending for younger or vulnerable readers. | Gratitude for ordinary days as a kind of prayer. |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Discuss | Simplicity, contentment, service and self-giving over achievement. | Separation from popular media in conservative groups; life laid down for a private romance rather than for faith or neighbor. MC USA families more open. | Contentment and simple living after the money runs out. (from general knowledge; to verify) |
+| Latter-day Saint | C | Discuss | Worth of every soul (D&C 18:10); repentance and change; service. | Life is a probationary gift in the plan of salvation; selling it and choosing death conflict with that, though suicide is met with compassion. | "The worth of souls is great" (D&C 18:10) beside the shop's price. |
+| Mainline progressive Protestant | B | Discuss | Critiques a market that prices people; loneliness and depression treated with compassion. | Safe-messaging: a death chosen for love is framed as a happy ending; Miyagi as the woman who gives a man meaning. | Who decides what a life is worth? |
+| Seventh-day Adventist | C | Discuss | Life is precious; kindness to neighbors. | Supernatural trade in lifespans; despair and chosen death; drinking and smoking against health teaching. | Health, temperance and hope. (from general knowledge; to verify) |
+| Jehovah's Witness | C | Discuss | Honesty and kindness; the value of a humble life. | Life as a gift from Jehovah, not to be sold or given up; supernatural dealings; drinking and smoking. | jw.org questions on choosing entertainment. (from general knowledge; to verify) |
+| Christian Science | C | Discuss | Gratitude and joy replacing a sense of limitation. | The story dwells on a fixed death date and on despair, the opposite of guarding thought. | Is a life limited by a number? (from general knowledge; to verify) |
+| Orthodox Jewish | D | Discuss | Every life has infinite worth; kindness (chesed) transforms a man. | Life belongs to God and may not be sold or shortened; the chosen death is framed as fulfilment; no repentance before God. | "Whoever saves one life saves a whole world" (Mishnah Sanhedrin 4:5). |
+| Conservative Jewish | C | Discuss | Chesed and the worth of a modest life; regret and change (teshuvah) in human terms. | Choosing death over life (Deuteronomy 30:19); suicide-adjacent ending. | "Choose life" (Deuteronomy 30:19): did Kusunoki? |
+| Reform Jewish | C | Discuss | Mental health and loneliness taken seriously; worth not measured by success. | Safe-messaging concerns about a romanticized death; age is a family decision. | What would you tell Kusunoki on the day he sold his life? |
+| Muslim | D | Discuss | Worth is not wealth or status; kindness and patience change a life. | Life is a trust (amanah) from God and may not be sold or ended (4:29); drinking; a romance outside marriage; no God in the turning point. | "Do not kill yourselves" (4:29) beside the ending; what is a life for (51:56)? |
+| Hindu | C | Discuss | Karma-like reckoning of how a life has been lived; detachment from wealth; seva in small kindnesses. | A life cut short by choice against the duty to live out one's dharma; tamasic despair. | What did Kusunoki owe others, and himself? (from general knowledge; to verify) |
+| Buddhist | B | Discuss | Impermanence and the preciousness of a short life; craving for fame and success gives way to contentment and present attention. | Despair; a chosen death; clinging to a single person at the end. | A precious human life: why does it matter how we spend the days we have? |
+| Sikh | C | Discuss | Contentment (santokh) and honest living; service to others. | Life is a gift of Waheguru; selling it and choosing death; drinking and smoking. | Santokh after the money is gone. (from general knowledge; to verify) |
+| Bahá'í | C | Discuss | Service and kindness give life its meaning; detachment from wealth. | Suicide is forbidden; alcohol; no spiritual help in despair. | What gives life its purpose? (from general knowledge; to verify) |
+| Shinto | B | Minor | Sincerity (makoto) and gratitude for everyday life; reconnection with a hometown and its people. | Death as a goal (kegare); little else to weigh. | Gratitude for ordinary days. (from general knowledge; to verify) |
+| Wiccan / Pagan | B | Minor | Living fully within life's cycle; personal autonomy; love. | Harm to self in the premise and ending. | What makes a short life full? (from general knowledge; to verify) |
+| Scientologist | C | Discuss | The Way to Happiness on caring for others and being worthy of trust; the turn from apathy to purpose. | Self-destruction as a choice; drinking and smoking. | Which precepts helped Kusunoki change? (from general knowledge; to verify) |
+| Secular progressive | C | Discuss | Critiques pricing people by productivity; youth poverty and loneliness taken seriously. | Safe-messaging: a chosen death framed as a happy ending; a woman whose role is to give a man meaning (AniList reviewer notes the pattern). | Who profits when people believe their lives are worthless? |
+| Secular humanist | B | Minor | Meaning built in this life through relationships and small acts; worth not set by any outside authority. | Ending in chosen death rather than a fuller life; despair for vulnerable readers. | If you had three months, what would make them worth living? |
+| Conservative / traditional | C | Discuss | Personal responsibility for wasted years; gratitude; community kindness. | Life sold for cash and given up for a romance; drinking; no faith. | What did Kusunoki do with his first thirty years, and what changed? |
+| Unitarian Universalist | B | Discuss | Inherent worth and dignity of every person against a market that prices them. | Safe-messaging concerns. | Inherent worth versus market worth. |
+| Satanist | C | Minor | Self-determination; rejecting society's measure of success. | Self-destruction cuts against vital existence; the story centers self-giving rather than self. | Is giving up your life for one person indulgence or abstinence? (from general knowledge; to verify) |
+| Historically Black Protestant | C | Discuss | A man the world counts worthless is shown to have worth; love and kindness lift him out of despair; a debt carried for another. | Despair with no hope in God; selling one's life and choosing death; drinking and smoking. | "You were bought at a price" (1 Corinthians 6:20): who sets the worth of a life? |
+| Atheist | B | Minor | Meaning made in this life through relationships and small kindnesses, with no religious answer; worth not set by any outside authority. | The ending treats a chosen death as happy, which can hurt vulnerable readers; the shop is pure fantasy, not a claim about the world. | What makes a life worth living, if no one outside decides? |
+| Agnostic | B | Minor | Leaves the big questions open; no doctrine in either direction; humility about what makes a life count. | The ending reads to some as surrender; despair for vulnerable readers. | Was the ending a happy one? Readers disagree. What do you think? |
+| Nothing in particular | B | Discuss | Everyday decency, a town that plays along kindly, love and loyalty; a sense that how you treat people comes back to you. | Despair and a chosen death; heavier than many families want. | What small things made Kusunoki's last months good? |
 
-**Where traditions disagree.** Most traditions agree with the story's rejection of the shop's verdict that a life is "worthless," and many welcome Kusunoki's turn from self-pity to self-giving. The dividing line is the ending. Traditions that hold life as a gift whose length belongs to God (Orthodox Jewish, Muslim, and many Christian frames) see selling life and choosing death as a real conflict, even when done for love; John 15:13 gives Christian readers a counter-reading as sacrifice. Buddhist, Shinto, Pagan and some secular readers can read it as accepting impermanence and choosing quality of life. Secular progressive and secular humanist families focus on safe-messaging: whether vulnerable readers might take "a short happy life beats a long empty one" as permission. On depiction, nothing is graphic; the concern for every frame is the sustained hopeless mood and the death-by-choice ending.
+**Where traditions disagree.** Every frame welcomes the story's argument that no life is worthless and that love and kindness give a life its value. The divide is the premise and the ending: religious frames that hold life to be a gift from God (Catholic, Orthodox, Muslim, Orthodox Jewish, Latter-day Saint and others) cannot read selling one's life, or choosing to die with a loved one, as a happy ending, and grade C or D. Secular, Agnostic, Buddhist and Anglican readings weigh the story's gentleness and its critique of measuring people by money more heavily, while progressive readers raise safe-messaging and the 'girl who saves the man' pattern.
 
 ## Winners, losers and sympathy
 
-Love and kindness win, even as both leads die. Measuring a life by money and achievement loses, and Himeno's despair is left without rescue.
+No one lives long; the story rewards those who learn to love and to be grateful, and shows the cost of isolation and resentment.
 
 | Side | Worldview it carries | Outcome | How the story treats it |
 |---|---|---|---|
-| Kusunoki | Worth measured by achievement and others' recognition, then worth found in loving another | Paints again; his remaining life is now valued far higher, but he sells it to free Miyagi and dies after three happy days (Mangapedia; ciatr) | Sympathetic in the end; several reviewers find him hard to like early on (Anime UK News; OASG) |
-| Miyagi | Duty, self-effacement, paying for others | Freed of her debt by Kusunoki, she sells her own remaining life to spend his last three days with him (ciatr; MAL reviewers) | Sympathetic; the most likable character to most reviewers (Anime UK News; OASG) |
-| Himeno | Despair turned into revenge: a planned suicide meant to wound the friend who ignored her | Her fated suicide is averted, but she leaves Kusunoki and her life stays bleak (Mangapedia; Harvard-hosted essay) | Mixed; one essay calls her refusal to help the dying Kusunoki "a completely hypocritical reaction" and her arc "just a tragedy" |
-| The lifespan shop | Life priced by future contribution and happiness | Unchallenged and unexplained; its price for Kusunoki rises as he changes (Mangapedia) | Neutral to critical; reviewers wish it were explored more (Anime UK News; OASG) |
-| Old classmates (Naruse, Waka) | Friendship of convenience | Kusunoki finds they never valued him; the time capsule shows he had no real friends (Mangapedia) | Shown as hollow |
+| Kusunoki | Worth found in love and small kindness, after a life of pride and isolation | Sells his life, finds love and a place in the town, dies after three last days with Miyagi (AniList reviews; quick read) | Endorsed |
+| Miyagi | Duty and quiet care; then love | Works off her mother's debt; gives up her own remaining time to share the last days (quick read; from general knowledge; to verify) | Endorsed |
+| Himeno | Resentment of the friend who abandoned her | Rejects him with a bitter letter; her future is left bleak (Harvard essay) | Mixed (sympathetic but unredeemed) |
+| The lifespan shop | A life priced by its usefulness to others | Never explained; its price is what the story argues against | Critiqued |
 
-**Fan favorites versus the official moral.** No official popularity poll was found. On MyAnimeList the manga scores 8.77 with about 201,000 members; of 112 reviews, 98 recommend it (as viewed). Reviewers single out Miyagi as the heart of the story. The split among fans tracks the story's own open question: supporters say it "reminds you that none of that makes you who you are" (flowstate), while critics call the ending "a weirdly pessimistic way of shouting 'YOLO'" and say Kusunoki "chooses the easy way out" (Realhumanbean). The Harvard-hosted essay "The Tragedy of Himeno" shows that some readers focus on the friend the story leaves behind. No beloved villain: the series has none.
+**Fan favorites versus the official moral.** No poll found. AniList reviewers mostly praise the bittersweet ending; a minority (summarized in one AniList review) criticize the deaths of both leads and the premise. The Anti-Social Geniuses' novel reviewer found Kusunoki hard to care about.
 
 ## Message delivery
-- Style: Explicit
-- Preachiness: 5
+- Style: Woven in
+- Preachiness: 3
 - Opposing views: Mixed
-- Evidence: MAL reviewers split: one says the ending is "a weirdly pessimistic way of shouting 'YOLO'"; another says it "reminds you" who you choose to be.
-- Note: The theme of what a life is worth is stated openly through the appraisal and Miyagi's daily question, while the ending's meaning is left to the reader.
+- Evidence: Miyagi's daily question about how he will spend the day carries the theme; reviewers describe the message as clear (life cannot be priced) but not lectured.
+- Note: The theme is stated through the premise and Kusunoki's reflections; the shop's harsh valuation is never given a defense.
 
 | Character | Ideology | Role | Treatment |
 |---|---|---|---|
-| Kusunoki | A life's worth is measured by achievement and recognition, then by love given | Hero | Sympathetic |
-| Miyagi | Self-sacrifice and duty, paying for others at one's own cost | Mentor | Sympathetic |
-| Himeno | Despair and resentment turned into revenge | Foil | Mixed |
-| The lifespan shop | Lives can be priced by productivity and future happiness | Other | Fair |
+| Kusunoki | From pride and despair to gratitude and love | Hero | Sympathetic |
+| Miyagi | Duty, patience and quiet care | Love interest | Sympathetic |
+| Himeno | Resentment and despair | Foil | Fair |
+| The lifespan shop | Worth measured by usefulness and money | Antagonist | Mixed |
 
 ## Creator and publisher context
 
-- **Sugaru Miaki** (original story): a Japanese novelist born in 1990 (Moegirl encyclopedia, summary metadata only). Three Days of Happiness (2013) is one of his best-known works; others include a story translated in Chinese as "Restart Life" (Moegirl). The story is widely described as having begun as a web forum post titled with the manga's title, "寿命を買い取ってもらった。一年につき、一万円で。", before the novel (from general knowledge; to verify). No on-record interview or statement about intent, religion or politics was found in sources opened. He keeps a low public profile.
-- **Shouichi Taguchi** (manga): manga artist and musician who performs as Kanshō Vector (感傷ベクトル); his works include Siaroa, Fuji Cue!!! and Futari Escape (KAI-YOU interview intro, 2018, paywalled beyond the introduction; English Wikipedia). He has said "manga and music are a poor match" in the context of Siaroa (KAI-YOU). No statement on this series' themes was found.
-- **Status: Needs more info on the creators.**
-- **Publishers:** the novel was published by ASCII Media Works (a Kadokawa brand); the manga by Shueisha on its free web platform Shonen Jump+. English editions of both are from Yen Press, a joint venture of Kadokawa and Hachette (from general knowledge; to verify). Comics Beat calls the manga "the poignant manga adaptation of the popular novel."
-- No controversies involving the creators were found in reputable outlets.
+- Sugaru Miaki (story), born 1990 in Iwate Prefecture; wrote online as Genfuukei on 2channel from 2011 to 2013, where this story first appeared; debuted with the novel Starting Over (Media Works Bunko, 2013); later novels include Koi suru Kiseichu (2016) and Kimi no Hanashi (2018, a Yoshikawa Eiji New Writers Prize nominee); Japanese Wikipedia lists Haruki Murakami as an influence.
+- Shouichi Taguchi (art) adapted the novel for Shonen Jump+ (2016-2017) and also created Futari Escape (Wikipedia).
+- No interview by either creator about the themes was opened. **Status: Needs more info on the creators.**
+- Publisher: Shueisha (Shonen Jump+). English manga: Yen Press, rated OT (Older Teen).
+- No controversies involving the creators were found.
 
 ## Worldview lenses
 
 Dominant lenses: Existentialism, Secular humanism, Utilitarianism (explored), Consumerism (critiqued).
 
-| Lens | Strength (0 to 10) | Stance (Affirmed/Explored/Critiqued) | Closeness (S to F) | Evidence |
+| Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
 |---|---|---|---|---|
-| Existentialism | 7 | Affirmed | A | A life judged meaningless finds meaning only through what its owner chooses to do with the time left; "all that matters is who you decide you will be from today forward" (MAL, flowstate). Kusunoki's choice to paint again and to give his time away (v3; Mangapedia). My own framing. |
-| Secular humanism | 5 | Affirmed | B | Worth comes from relationships and kindness, with no religious frame; the shift "from selfishness to selflessness" as the core of a meaningful life (AniList reviewer on the novel). |
-| Utilitarianism | 5 | Explored | C | The shop prices lives by future happiness and contribution (Mangapedia); the ending weighs three happy days against decades of unhappiness (AniList reviewer; Harvard-hosted essay on "a net gain in happiness"). The story questions the shop's arithmetic but keeps the logic of trading quantity for quality. My own framing. |
-| Consumerism | 4 | Critiqued | D | Life sold at 10,000 yen a year; Kusunoki first spends the money on drink and old ties, which fail (OASG; Mangapedia); in despair he throws the money away (v2). |
-| Nihilism | 4 | Critiqued | D | Kusunoki's early view that his life is "essentially worthless" (MAL, flowstate) is what he grows out of; critics argue the ending still lands close to giving up (MAL, Realhumanbean; novel reviewer Yorticus). |
-| Hedonism | 3 | Explored | C | "Three days of happiness" set above a long life; happiness is the story's measure, but it is happiness through love, not pleasure. |
-| Stoicism | 3 | Explored | C | Calm acceptance of a fixed death date; Outer Haven calls his peace "like being happy that you gave up." |
-| Dharmic (Hindu/Buddhist) | 3 | Explored (by echo) | C | Impermanence and attention to each day ("how will you spend your day?"); my own framing. |
-| Absurdism | 3 | Explored | C | An arbitrary, unexplained system sets the price of a life (Anime UK News; Yorticus calls it arbitrary); Kusunoki makes meaning anyway. My own framing. |
-| Expressive individualism | 3 | Explored | C | Returning to his own art (painting) as the source of a higher-valued life (Mangapedia). |
-| Classical virtue ethics | 2 | Explored | C | Late growth in kindness, honesty and gratitude; reviewers doubt it is earned (OASG). |
-| Christian | 2 | Explored (by echo) | C | Self-giving love that pays another's debt; no explicit faith. My own framing. |
-| Critical theory | 2 | Explored | C | Productivity-based ranking of lives; inherited debt and youth poverty (Mangapedia). My own framing. |
-| Communitarianism | 1 | Incidental | C | Strangers (the bookstore owner, the CD clerk) tell Kusunoki to rely on others (Mangapedia); townspeople come to accept Miyagi (v3). |
-| Anti-natalism | 1 | Incidental | C | No anti-natalist claim; only the bleak view that some lives are not worth continuing, which the story moves away from. |
-| Jewish, Islamic, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Marxism, Feminism, Postmodernism, Environmentalism, Might makes right, Traditionalism, Progressivism, Libertarianism, Collectivism/authoritarianism, Transhumanism, Pragmatism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
+| Existentialism | 7 | Affirmed | A | Facing a fixed death date, Kusunoki makes his own meaning; an AniList reviewer reads it as existentialist (we create our own purpose). |
+| Secular humanism | 5 | Affirmed | B | Love and human kindness, not any god, redeem a life. |
+| Utilitarianism | 5 | Explored | C | The shop prices a life by its future usefulness to others; the story weighs quality of days against quantity of years. |
+| Consumerism | 4 | Critiqued | B | He sells his books and CDs, then his life, for money that cannot buy happiness; an AniList reviewer contrasts endless consumption with a few good days. |
+| Nihilism | 4 | Critiqued | C | The belief that his life is worthless is the starting point the story argues against. |
+| Hedonism | 3 | Explored | C | The bucket list and the first day of drinking fail to satisfy. |
+| Stoicism | 3 | Explored | C | Accepting an unfulfilled life and a fixed end with calm. My own framing. |
+| Absurdism | 3 | Explored | C | A man who talks to an invisible girl in public; the town plays along. My own framing. |
+| Expressive individualism | 3 | Explored | C | Childhood dreams of greatness set against an ordinary life. |
+| Communitarianism | 2 | Affirmed | C | The town's kindness gives him a place (AniList review). |
+| Classical virtue ethics | 2 | Explored | C | Character grows through gratitude and kindness. |
+| Christian | 2 | Explored | C | Only by echo: a debt paid for another, worth given rather than earned. My own framing. |
+| Critical theory | 2 | Explored | C | A system that prices people by productivity. My own framing. |
+| Jewish, Islamic, Hindu ideas, Buddhist ideas, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Duty ethics, Bushido / honor code, Pacifism / nonviolence, Marxism, Feminism, Postmodernism, Environmentalism, Anti-natalism, Might makes right, Traditionalism, Progressivism, Liberalism, Libertarianism, Anarchism, Patriotism / nationalism, Collectivism/authoritarianism, Transhumanism, Pragmatism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
 
 | Political axis | Score (0 to 10) | Why |
 |---|---|---|
-| Economic (0 collective, 10 free market) | 4 | The market in lifespans is shown as cold and wrong about what matters; no collective alternative is offered. |
-| Social (0 authority, 10 liberty) | 7 | The monitoring system is an imposed control; the story sides with a person's freedom to decide how, and how long, to live. |
-| Cultural (0 traditional, 10 progressive) | 5 | Takes no side; neither tradition nor social change is the subject. |
-| Community (0 individual first, 10 community first) | 3 | A two-person world; family and community are absent or hollow, and meaning is found in one private bond. |
+| Economic (0 collective, 10 free market) | 4 | Market valuation of people is critiqued, without a political alternative. |
+| Social (0 authority, 10 liberty) | 7 | Personal choice, including over one's own life, is central and not judged by any authority. |
+| Cultural (0 traditional, 10 progressive) | 5 | Neither traditional nor progressive themes dominate. |
+| Community (0 individual first, 10 community first) | 3 | The story centers one man and one couple, with the town as a kind backdrop. |
 
 **Moral foundations profile (0 to 10):** care 8, loyalty 6, fairness 4, sanctity 4, authority 2, liberty 7.
 
-**Profile notes for parents:** This is a quiet, non-graphic story whose whole weight sits on one question: what makes a life worth living. It argues against measuring people by money or success, but its premise (selling your life) and ending (two people giving up their remaining lives for three happy days) are close to suicide, and readers disagree on whether it affirms life or romanticizes giving up. It suits discussion with older teens; it may be hard for anyone feeling hopeless.
+**Profile notes for parents:** Care is the core value: what redeems Kusunoki is caring for Miyagi and being cared for. Liberty is high because even the choice to end one's life is treated as the character's own. Yen Press rates the manga OT (Older Teen); the main concern for parents is the suicide-adjacent premise and ending, not sex or violence.
 
 ## Folkways and cultural values
 
 | Dimension | Position | Evidence |
 |---|---|---|
-| Dignity vs honor | 2 | Slights are not answered in kind; Himeno's revenge plan is shown as despair, not justice (v2). Worth is inherent, against the shop's price. |
-| Order vs freedom | 6 | The monitor system and its rules are coercive (Mangapedia); the story celebrates a person choosing how to spend his own time, within a framework he accepted. |
-| Civic vs kin | 5 | Family is estranged and old friends hollow; the bond that matters is a chosen one with Miyagi; neither clan nor civic duty is celebrated. |
-| Equality vs hierarchy | 3 | The shop's ranking of lives is rejected; Kusunoki and Miyagi meet as equals. |
-| Tradition vs secular-rational | 7 | No religious or customary answer; the question of worth is posed and answered in personal, secular terms. |
-| Survival vs self-expression | 8 | Quality of life and happiness over length of life and security; art and love over money (v3). |
+| Dignity vs honor | 4 | Himeno's resentment and planned revenge are left behind; Kusunoki seeks no vengeance. |
+| Order vs freedom | 7 | He disposes of his own life by contract; no authority intervenes. |
+| Civic vs kin | 5 | Estranged from family; the town and a partner replace kin. |
+| Equality vs hierarchy | 4 | The shop's price ranks people, and the story rejects that ranking. |
+| Tradition vs secular-rational | 7 | Secular; a supernatural shop with no religious framing. |
+| Survival vs self-expression | 7 | Quality of days over length of life. |
 
-Closest clusters: New Netherland; New France; Catholic Europe
+Closest clusters: New Netherland; The Left Coast; Protestant Europe
 
-Japanese source culture: Young-adult isolation and the fear of being a burden, the weight of inherited family debt, the quiet small-town summer and festival setting, and a restrained, melancholy tone that some readers link to mono no aware are Japanese contexts the story uses; they are setting more than message (from general knowledge; to verify).
+Japanese source culture: Youth isolation, part-time work, a childhood promise to marry, and a hometown festival reflect Japanese settings; the 'lonely young man and the girl who changes him' pattern is common in Japanese light novels (from general knowledge; to verify).
 
 ## Philosophy essay
 
-**The central question.** What is a life worth, and who gets to say? The story makes the question literal. A shop prices Kusunoki's remaining thirty years by the happiness and contribution still ahead of him and finds them worth 300,000 yen. He believes it, because it matches his own verdict. The rest of the story tests whether that price was ever the right measure.
-
-**The answer the story gives.** The worth of a life is not its length, its output or what others think of it, but what it is spent on and whom it is spent for. Kusunoki's first plans are about himself: reclaiming a childhood promise, being remembered, being recognized. They fail. The time capsule shows he had no real friends; Himeno, the girl he hoped would redeem his past, had once begged him for help and been ignored (Mangapedia). What changes him is Miyagi, the monitor who, it turns out, paid him more than his life was worth out of her own quiet despair. He starts painting again, and the shop now values his remaining life far higher. He sells it anyway, to free her. She, in turn, gives up her own remaining life so they can share three days (ciatr; MAL reviewers). The story calls those days happiness. Whether a reader agrees is the story's real test.
-
-**Characters as arguments.** Kusunoki is the argument that self-pity and a hunger for recognition make a life feel worthless, and that turning outward changes it. Miyagi is the argument that self-sacrifice can be both love and its own kind of despair; her paying for him is "self-destructive altruism" in Mangapedia's words. Himeno is the argument that despair can curdle into revenge: she planned to die in front of the friend who failed her. Her story stays unresolved, and an essay hosted on a Harvard blog argues that her arc is "just a tragedy." The shop is the argument of a world that prices people; it never explains itself, and reviewers wish it had (Anime UK News; OASG).
-
-**Symbols and motifs.** The price tag: 10,000 yen a year, then a different price once the life changes. Miyagi's daily question, "how will you spend your day?" (MAL, flowstate). The invisible companion, whom only Kusunoki sees, so that he looks like a man talking to no one until the town learns to accept her. The buried time capsule of letters to future selves. Painting, the gift he abandoned at seventeen and takes up again. The countdown, and the three last days when the monitoring stops.
-
-**Traditions it echoes.** The bargain over one's own life is old in folklore and literature (from general knowledge). The "what would you do with three months?" premise belongs to a wide family of terminal-romance stories. Readers may hear John 15:13 in the self-giving ending, Buddhist impermanence in the attention to each day, and existentialist choice in Kusunoki's late self-making. None of these links is claimed by the creators in sources found.
-
-**How each lens is portrayed.** Existentialism and secular humanism carry the story: meaning is made, not found, and it is made through others. Consumerism and nihilism are critiqued in Kusunoki's early life. Utilitarian logic (quality over quantity, happiness as the measure) is examined and partly kept. Religious lenses are absent; faith readers bring their own.
-
-**Shifts across the series.** Volume 1 is bleak and bitter: the sale, the monitor, failed reunions and the empty time capsule. Volume 2 is the darkest emotionally: Himeno's story, her planned suicide, and Kusunoki's despair, followed by the first warmth with Miyagi. Volume 3 turns tender and almost hopeful, as he paints, loves openly and chooses to give, before the final three days and the ending (Mangapedia; ciatr).
+**The central question.** What is a life worth, and who gets to decide? The shop answers with a number based on how much a person will matter to others; for Kusunoki it is almost nothing. He agrees with the number and sells.
+**The answer the story gives.** The number is wrong. Over three months Kusunoki learns that worth is not achievement or length but attention, kindness and love, and one AniList reviewer sums up the message as three days of real happiness being better than thirty miserable years. The book does not undo his choice: he still dies, and his acceptance of an unfulfilled life is part of the point (The Outer Haven).
+**Characters as arguments.** Kusunoki argues from pride turned to despair. Miyagi argues for patience and duty, and becomes the person who sees his worth before he does. Himeno is the warning: someone whose suffering has turned to resentment, and whose letter shows that reunion cannot undo the past (Harvard essay). The townspeople, who play along with the invisible girl, argue that ordinary kindness is real.
+**Symbols and motifs.** The price tag on a life. Miyagi's daily question about how he will spend the day. The time capsule and the childhood promise (MangaUpdates). Drawing and photographs, by which the last months are recorded (AniList tags). The scooter trips of a travelling pair.
+**Traditions it echoes.** Faust and deal-with-the-devil stories, though the shop asks only for time; Ecclesiastes and memento mori; Buddhist teaching on a precious human life. Its idea that worth cannot be priced fits most religious and humanist ethics; its ending, a death chosen for love, is where they part.
+**How each lens is portrayed.** Existentialism is affirmed: meaning is made in the time left. Consumerism and nihilism are critiqued. Utilitarianism is explored through the shop's price, which the story rejects. Secular humanism carries the resolution: love between two people, not faith, redeems the life.
+**Shifts across the series.** The first third is despair and a failed bucket list ending with Himeno's letter; the middle turns to Kusunoki and Miyagi's daily life and the town; the last chapters bring Miyagi's backstory and the final choice. Chapter boundaries were not confirmed.
 
 **Discussion questions.**
-1. The shop says Kusunoki's life is worth 300,000 yen. What is it measuring, and what does it miss?
-2. Miyagi asks every day, "How will you spend your day?" How would you answer it today?
-3. Himeno once asked for help and was ignored. What does the story say about the people we fail to notice, and what could Kusunoki have done?
-4. At the end, both main characters give up their remaining lives for three days together. Is that love, sacrifice, or giving up? Would you make the same choice for them?
-5. Kusunoki believed his life was worthless. If a friend ever said that about themselves, what would you say, and who could you go to for help?
+1. The shop priced Kusunoki's life by how much he would help others. Is that a fair way to measure a life? What would be better?
+2. Why did meeting Himeno go so badly? What could Kusunoki have done differently years before?
+3. What changed Kusunoki more: the money, the deadline, or Miyagi?
+4. Was the ending happy? Why do readers disagree?
+5. If someone you knew felt their life was worthless, what would you say or do? (Point to a crisis line for anyone struggling.)
 
 ## How readers took it
 
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
-| Critic, manga | Josh Piedra, The Outer Haven (manga omnibus, October 2026) | 4/5. Calls it "an excellent read" whose ending "stuck the landing"; finds Kusunoki's acceptance "profoundly sad," "like being happy that you gave up." | https://www.theouterhaven.net/manga-review-three-days-of-happiness/ |
-| Critic, novel | Demelza, Anime UK News (novel, 2020) | 9/10, age 13+. "An interesting drama with a supernatural spin"; Kusunoki "isn't written in such a way as to gain sympathy"; unsure about the ending. | https://animeuknews.net/2020/11/three-days-of-happiness-review |
-| Critic, novel (negative) | Justin, The OASG (novel, 2021) | Low score. Kusunoki is "too miserable"; his change is hard to believe "was earned"; wanted more on the shop. | https://www.theoasg.com/reviews/light-novel/three-days-of-happiness-review/23944 |
-| Fan essay, philosophical | AniList review (novel), 100/100 | Reads the core as a shift "from selfishness to selflessness"; describes it as a "romantic tragedy conversed between two unfortunate individuals"; says the depressive and suicidal first half is needed. | https://anilist.co/review/8923 |
-| Fan essay, critical of a character | "The Tragedy of Himeno," A Deep Dive blog (Harvard blog archive, 2022) | Argues Himeno's planned suicide was revenge, her reaction to the dying Kusunoki "completely hypocritical," and her arc "just a tragedy" in a story otherwise about net happiness. | https://archive.blogs.harvard.edu/adeepdive/wp-json/wp/v2/posts/504 |
-| Fan reviews, manga | MyAnimeList (manga) | 8.77; 98 of 112 reviews recommend. Praise for the bittersweet tone; warnings about "heavy themes of suicide and regret"; critics say it romanticizes giving up ("chooses the easy way out") and the romance is thin. | https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de/reviews |
-| Fan reviews, novel | MyAnimeList (novel) | 8.91. Mixed reviewers call the story immature or say the ending romanticizes a choice equated with suicide (Yorticus); others find it reflective, "like a personal journal about appreciating life." | https://myanimelist.net/manga.php?id=126479 |
-| Japanese reception | Mangapedia (Japanese manga encyclopedia) | Describes it as a romance-heavy coming-of-age story centered on "what makes a life valuable." No Japanese critical reviews or sales figures found. | https://mangapedia.com/%E5%AF%BF%E5%91%BD%E3%82%92%E8%B2%B7%E3%81%84%E5%8F%96%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%80%82%E4%B8%80%E5%B9%B4%E3%81%AB%E3%81%A4%E3%81%8D%E3%80%81%E4%B8%80%E4%B8%87%E5%86%86%E3%81%A7%E3%80%82-jyxw97ssr |
-| Christian, conservative, progressive, feminist, parent guides | None found | No Christian (Plugged In, Beneath the Tangles), conservative, progressive or feminist review, and no Common Sense Media page, was found for the novel or manga. | n/a |
+| Critic (manga omnibus) | Josh Piedra, The Outer Haven (2026) | 4/5: short, complete and satisfying; Miyagi's growth a surprise; notes the theme of hopelessness and suicide; 'an excellent read that left me highly satisfied.' | https://www.theouterhaven.net/manga-review-three-days-of-happiness/ |
+| Fan reviews (manga) | AniList users (five reviews, scores 85-98) | Praise the bittersweet ending and the message that life cannot be priced; one reads it as existentialist; one summarizes criticism of both leads' deaths. | https://anilist.co/manga/97553 |
+| Critic (novel) | Justin, The Anti-Social Geniuses | Mixed (3): interesting concept, but Kusunoki hard to care about and his change unearned; notes heavy drinking on the first day. | https://www.theoasg.com/reviews/light-novel/three-days-of-happiness-review/23944 |
+| Critic (novel) | Christian Markle, Honey's Anime (2021) | Calls it a masterpiece; melancholic and sad; no content advisory. | https://honeysanime.com/an-enticingly-great-read-three-days-of-happiness |
+| Essay (novel and manga) | Student essay, Harvard blogs (2022) | Argues Himeno is the story's real tragedy: her letter reveals a revenge plan she gave up, and she is left unsaved. | https://archive.blogs.harvard.edu/adeepdive/wp-json/wp/v2/posts/504 |
+| Fan databases | AniList, MangaUpdates | AniList average 86 (about 86,000 members); MangaUpdates 8.5. | AniList API; MangaUpdates API |
+| Common Sense Media, Christian, feminist and conservative outlets | — | No review found in search. | none |
 
-No documented public controversy was found. The main debate, among fan and critic reviews, is whether the ending affirms life or romanticizes giving it up.
+No public controversy found. The split is between readers who find the ending a fulfilment and those who see it as surrender or romanticized death.
 
 ## Most loaded parts and pages to photograph
 
-Volume-to-chapter map: the manga has 16 numbered chapters plus extras 8.5 and 16.5 in 3 volumes (MyAnimeList; MAL review by flowstate). No official volume-by-chapter list was reached, so the split below follows volume summaries from Mangapedia and ciatr and is **likely**: v1 about ch. 1-5; v2 about ch. 6-10 plus 8.5; v3 about ch. 11-16 plus 16.5.
+No volume-to-chapter map was found (3 Japanese volumes, July to December 2017; 16 chapters plus 2 extras; the English omnibus collects all). Chapter numbers below are estimates from the order of events.
 
 | Rank | Loaded part | Chapters (volume) | Why it matters |
 |---|---|---|---|
-| 1 | The ending: Kusunoki sells his remaining time to clear Miyagi's debt; his final days alone; Miyagi returns, having sold her own life; three days together; their deaths | likely 14-16 (v3) | Sets the Mental health score (8); the central dispute among readers; drives every frame's grade. |
-| 2 | The sale: appraisal at 10,000 yen a year, Kusunoki sells all but three months | likely 1 (v1) | The suicide-adjacent premise; Existentialism, Consumerism and Nihilism lenses. |
-| 3 | Himeno's story: fated suicide, ignored letter at 17, her plan to kill herself in front of Kusunoki as revenge; she leaves him | likely 7-10 (v2) | Mental health score; Himeno's Message delivery row; the Harvard-hosted essay's critique. |
-| 4 | Kusunoki's despair after Himeno; he throws away the money; Miyagi comforts him | likely 9-10 (v2) | Mental health and Fear scores; the turn toward the romance. |
-| 5 | Miyagi's backstory: her mother sold time and was killed by a monitored subject; inherited debt; the rule that monitors can have a subject's life ended | likely 3-5 (v1) | Violence score; the coercive system; Family theme. |
-| 6 | Miyagi overpaid for him; Kusunoki paints again; the shop's new, higher price; he sells anyway | likely 11-14 (v3) | Utilitarianism and Expressive individualism lenses; the "worth can change" message. |
-| 7 | Extra chapters 8.5 and 16.5 ("The unspoken lightness of being") | 8.5 (v2, likely); 16.5 (v3, likely) | Reviewers call 16.5 essential to how the ending reads; may change the Life message. |
-| 8 | The time capsule: Kusunoki digs up classmates' letters and finds he had no real friends; Himeno's letter missing | likely 3-5 (v1) | Isolation theme; Winners table (old classmates). |
-| 9 | First day with the money: drinking and spending (in the novel) | likely 2 (v1) | Substances score (3); confirm the manga keeps it. |
-| 10 | Kusunoki treating the invisible Miyagi as his girlfriend in public; townspeople come to accept her | likely 11-13 (v3) | Sexuality and romance score (physical affection level); Community axis. |
+| 1 | The sale: Kusunoki sells all but three months of his life; first day of drinking | likely 1-2 (v1) | Mental health (8), Substances; the premise every frame weighs. Written note only for any despair or self-harm pages. |
+| 2 | Himeno's dinner and letter, revealing her planned revenge suicide and her contempt | likely 4-7 (v1) | Mental health; Violence (stated plan). Suicide content: written note only. |
+| 3 | Miyagi's backstory: her mother's sale and death, and the debt | likely middle chapters (v2) | Family and authority; Mental health. |
+| 4 | The final choice and the three days; both leads' deaths | final chapters (v3) | Outlook, every frame's grade, safe-messaging. Written note only. |
+| 5 | Any bucket-list scenes involving drinking, smoking or paid companionship | likely early chapters (v1) | Substances and Sexuality; confirm what is shown. |
 
-Estimate: the whole manga is about 588 pages in English; the items above cover roughly 10-12 chapters, about 60-90 pages to photograph.
+Estimate: about 6-8 chapters cover the above; about 30-40 pages to photograph (excluding rows marked written note only).
 
 ## Sources
 
 Pages actually opened:
-- https://en.wikipedia.org/wiki/Three_Days_of_Happiness
-- https://yenpress.com/titles/9798855429053-three-days-of-happiness-the-complete-omnibus
-- https://www.comicsbeat.com/yen-press-announces-15-new-licenses-for-september-release/
-- https://myanimelist.net/manga/100448
-- https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de/reviews
-- https://myanimelist.net/reviews.php?id=330304
-- https://myanimelist.net/manga.php?id=126479
-- https://www.animenewsnetwork.com/encyclopedia/manga.php?id=22743 (novel entry)
-- https://mangapedia.com/%E5%AF%BF%E5%91%BD%E3%82%92%E8%B2%B7%E3%81%84%E5%8F%96%E3%81%A3%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%9F%E3%80%82%E4%B8%80%E5%B9%B4%E3%81%AB%E3%81%A4%E3%81%8D%E3%80%81%E4%B8%80%E4%B8%87%E5%86%86%E3%81%A7%E3%80%82-jyxw97ssr (plot and characters; scene location only)
-- https://ciatr.jp/topics/325801 (plot summary; scene location only)
+- https://en.wikipedia.org/wiki/Three_Days_of_Happiness (raw wikitext)
+- https://ja.wikipedia.org/wiki/三秋縋 (raw wikitext)
+- AniList API, media id 97553 and its user reviews (graphql.anilist.co)
+- MangaUpdates API, series 30465641114 (api.mangaupdates.com)
+- https://yenpress.com/titles/9798855429053-three-days-of-happiness-the-complete-omnibus (OT)
 - https://www.theouterhaven.net/manga-review-three-days-of-happiness/
-- https://animeuknews.net/2020/11/three-days-of-happiness-review
 - https://www.theoasg.com/reviews/light-novel/three-days-of-happiness-review/23944
-- https://anilist.co/review/8923
+- https://honeysanime.com/an-enticingly-great-read-three-days-of-happiness
 - https://archive.blogs.harvard.edu/adeepdive/wp-json/wp/v2/posts/504
-- https://kai-you.net/article/53282 (Taguchi interview, introduction only; paywalled)
-- https://zh.moegirl.org.cn/%E4%B8%89%E7%A7%8B%E7%BC%92 (summary metadata only)
-- https://bookwalker.jp/series/114662/ (volume listing only)
-- https://realsound.jp/book/2023/05/post-1327389_2.html and https://dengekionline.com/articles/13561/ (opened; turned out to be about other works, not used)
 
-Tried but failed: ja.wikipedia.org 三日間の幸福 (not found); ANN manga encyclopedia id 25562 and ANN release page id 59265 (errors); TV Tropes (error); cmoa.jp (robots); NetGalley and Goodreads (no content returned).
-
-Found in search results but not opened (titles only; content not verified):
-- ANN, "I Sold My Life for Ten Thousand Yen Per Year (manga)": https://ANIMENewsnetwork.com/encyclopedia/manga.php?id=25562
-- Yen Press novel page: https://yenpress.com/9781975314217/three-days-of-happiness
-- The Outer Haven license announcement: https://www.theouterhaven.net/yen-press-announces-fifteen-new-licenses-for-fall/
-- Tankobonbon license note: https://tankobonbon.com/blogs/new-licenses/new-license-yen-press-15-licenses-for-sept-2026-print
-- Goodreads novel pages: https://www.goodreads.com/book/show/44532458 ; https://www.goodreads.com/book/show/53487774
-- Kadokawa novel page: https://www.kadokawa.co.jp/product/311978700000/
-- NDL catalogue records: https://ndlsearch.ndl.go.jp/en/books/R100000002-I028309501
-- Waifora reviews: https://waifora.com/review/13343
-
-Not reached: Common Sense Media, Plugged In, ScreenWise (no review found in search), Pixiv Encyclopedia, Nico Nico Daihyakka, Shonen Jump+ series page, any author afterword. Aggregator and reading sites that appeared in search (Scribd, novel and manga reading sites) were deliberately not opened.
+Found in search, not opened (fetch cap reached, blocked or not prioritized):
+- https://tvtropes.org/pmwiki/pmwiki.php/LightNovel/ThreeDaysOfHappiness (refused)
+- https://myanimelist.net/manga/100448/Jumyou_wo_Kaitotte_Moratta_Ichinen_ni_Tsuki_Ichimanen_de
+- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=59265
+- https://www.comicsbeat.com/tag/three-days-of-happiness/
+- https://animeuknews.net/2020/11/three-days-of-happiness-review/ (novel)
+- No Common Sense Media, Plugged In, Anime Feminist or Beneath the Tangles page found in search.
 
 ## Full-read review checklist
 
-- [ ] Confirm the Yen Press OT rating on the omnibus and any content note on the back cover. Affects Series facts.
-- [ ] Build the volume-to-chapter map from the Japanese volumes or the omnibus contents page (16 chapters plus 8.5 and 16.5). Affects every "likely" chapter in Loaded parts.
-- [ ] Ch. 1 (v1): the appraisal and sale; how the choice is framed (despair, impulse, joke?) and whether suicide is named. Affects Mental health (8) and the Nihilism lens.
-- [ ] Early v1: does the manga show drinking or smoking on the first day with the money (the novel has drinking)? Affects Substances (3).
-- [ ] V1: Miyagi's backstory, how her mother's killing is shown, and the rule that monitors can end a subject's life. Affects Violence (2).
-- [ ] V1: the time capsule scene and the old classmates. Affects Winners table.
-- [ ] V2: Himeno's revelation, the ignored letter, her planned suicide "in front of" Kusunoki; confirm exactly what she planned (method, whether she meant harm to him too). Affects Mental health and Himeno's rows.
-- [ ] V2: Kusunoki throwing away the money and his despair; any self-harm thoughts on the page. Affects Mental health and Fear.
-- [ ] V3: how far the romance goes physically; the invisible-girlfriend scenes. Affects Sexuality and romance (2).
-- [ ] V3: confirm Miyagi's debt, what Kusunoki sells and for how much, and that Miyagi sells her own remaining life; check how the deaths are shown and whether the text frames it as sacrifice or surrender. Affects Mental health, all Family frame grades and the Life message.
-- [ ] Ch. 8.5 and 16.5: who the extra chapters follow and whether 16.5 changes the reading of the ending. Affects Life message and Message delivery.
-- [ ] Check for any help-seeking, adult intervention or crisis resources in the omnibus. Affects Secular progressive and Secular humanist rows.
-- [ ] Spot-check Yen Press translation profanity in 3-4 chapters. Affects Language (2).
-- [ ] Read any author or artist afterwords in the omnibus; look for interviews with Sugaru Miaki or Shouichi Taguchi; confirm the web-post origin of the story. Affects Creator context and the "Needs more info" status.
-- [ ] Search again for parent guides (Common Sense Media, Plugged In) and faith or political outlet reviews after the 2026 omnibus release. Affects How readers took it.
+- [ ] Build the chapter and volume map from the omnibus and fix every "likely" chapter above. Affects the loaded-parts table.
+- [ ] Final chapters: confirm exactly what Kusunoki and Miyagi each sell, how the last three days and their deaths are shown, and whether the ending frames death as fulfilment. Written note only. Affects Mental health (8), Outlook and every frame's grade.
+- [ ] Himeno's letter: confirm the wording of her plan in the manga (the essay drew on the story generally). Written note only. Affects Violence and Mental health.
+- [ ] Check early bucket-list chapters for drinking, smoking and any paid-companionship scene (some readers of the novel recall one; from general knowledge; to verify) and how much is shown. Affects Substances and Sexuality.
+- [ ] Confirm whether any kiss or sexual content appears between Kusunoki and Miyagi. Affects Sexuality (2).
+- [ ] Confirm Miyagi's backstory (her mother's sale and the debt) and its chapter. Affects Values and Winners.
+- [ ] Spot-check English profanity. Affects Language (2).
+- [ ] Find any creator interview or afterword on the ending. Affects Creator context.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

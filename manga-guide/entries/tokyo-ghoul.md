@@ -161,7 +161,7 @@ Dominant lenses: Existentialism, Critical theory, Might makes right (critiqued),
 | Absurdism | 2 | Explored | C | A world in which survival requires what one finds monstrous. |
 | Classical virtue ethics | 2 | Explored | C | Courage and loyalty, but no stable picture of the virtuous person. |
 | Feminism | 2 | Explored | C | Touka and Eto are powerful; the cast is male-led. |
-| Buddhist ideas | 2 | Explored (by echo) | C | Moved from the retired Dharmic lens: hunger as craving; cycles of violence. My own framing; no Buddhist setting or teaching appears. |
+| Buddhist ideas | 2 | Explored (by echo) | C | Moved from the older combined Hindu/Buddhist lens: hunger as craving; cycles of violence. My own framing; no Buddhist setting or teaching appears. |
 | Pragmatism | 2 | Incidental | C | Anteiku's coffee-and-corpses middle path. |
 | Jewish, Islamic, Hindu ideas, Pantheist/New Age, Pagan/occult, Moralistic therapeutic deism, Naturalism, Stoicism, Duty ethics (deontology), Marxism, Postmodernism, Environmentalism, Anti-natalism, Expressive individualism, Consumerism, Traditionalism, Progressivism, Libertarianism, Liberalism, Anarchism, Bushido / honor code, Patriotism / nationalism, Confucian ethics | 0 | Not present | none | No meaningful evidence found. |
 

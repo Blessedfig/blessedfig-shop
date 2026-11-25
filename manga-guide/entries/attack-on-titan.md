@@ -172,7 +172,7 @@ Dominant lenses: Existentialism, Utilitarianism, Might makes right (critiqued), 
 | Feminism | 3 | Explored | C | Women soldiers as equals; debate over Mikasa's agency and Ymir Fritz's love for her abuser (Anime Feminist). |
 | Traditionalism | 3 | Explored | C | Loyalty to homeland and family line; but old traditions (the royal pacifism vow) are shown as harmful. |
 | Progressivism | 3 | Explored | C | Anti-racism reading of the Marley arc. |
-| Buddhist ideas | 2 | Explored | C | Moved from the retired Dharmic lens and lowered: the cycle of hatred passed down the generations echoes the idea only by this guide's framing; no Buddhist setting or teaching appears. |
+| Buddhist ideas | 2 | Explored | C | Moved from the older combined Hindu/Buddhist lens and lowered: the cycle of hatred passed down the generations echoes the idea only by this guide's framing; no Buddhist setting or teaching appears. |
 | Christian | 2 | Explored | C | Sacrifice and atonement motifs; a street preacher's wall cult (Plugged In); no Christian content in the text. |
 | Jewish | 2 | Explored | C | Not religious; Eldian armbands and ghettos are read by critics as Holocaust allegory (contested; New Republic, Times of Israel). |
 | Marxism | 2 | Explored | C | Class divide between the inner walls and the underground city. |
