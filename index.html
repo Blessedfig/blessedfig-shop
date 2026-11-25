@@ -40,6 +40,13 @@ nav.snav .snav-links a.snav-book:hover, nav.snav .snav-links a.snav-book:focus-v
 .stay-cta { margin-top: 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; }
 .stay-cta .btn { font-size: 1.05rem; padding-inline: 22px; }
 .stay-cta span { color: var(--muted); font-size: .95rem; }
+
+/* manga rating guide callout under the shelves */
+.mg-callout{display:grid;grid-template-columns:minmax(0,220px) minmax(0,1fr);gap:22px;align-items:center;margin-top:28px;padding:18px;background:#fffaf0;border:3px solid #1e161c;box-shadow:6px 6px 0 #62206a;color:#1e161c}
+.mg-callout img{width:100%;height:auto;display:block;border:2px solid #1e161c}
+.mg-callout h3{margin:4px 0 8px;color:#62206a;font-size:1.4rem}
+.mg-callout p{margin:0 0 12px}
+@media (max-width:640px){.mg-callout{grid-template-columns:minmax(0,1fr)}.mg-callout img{max-height:200px;object-fit:cover;object-position:50% 20%}}
 </style>
 </head>
 <body>
@@ -702,7 +709,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 <nav class="snav" id="snav" aria-label="Jump to section">
   <div class="snav-in">
     <a class="snav-logo" href="#top"><picture><source srcset="img/title.webp" type="image/webp"><img src="img/title.png" alt="The Blessed Fig Tree" width="1100" height="469" loading="lazy" decoding="async"></picture></a>
-    <div class="snav-links"><a href="#visit">Visit</a><a href="#shelves">Shelves</a><a href="#stay">Stay</a><a href="#explore">Explore</a><a href="#play">Play</a><a href="#find">Find us</a><a class="snav-book" href="https://stays.theblessedfigtree.com">Book a stay</a></div>
+    <div class="snav-links"><a href="#visit">Visit</a><a href="#shelves">Shelves</a><a href="#stay">Stay</a><a href="#explore">Explore</a><a href="#play">Play</a><a href="manga-guide/">Manga guide</a><a href="#find">Find us</a><a class="snav-book" href="https://stays.theblessedfigtree.com">Book a stay</a></div>
   </div>
 </nav>
 <div class="tree">
@@ -737,7 +744,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
       <a href="#play">Play the game</a>
       <a href="almanac/">Almanac</a>
       <a href="goose.html">Meet Goose Goose</a>
-      <a href="manga-guide/">Manga guide for parents</a>
+      <a href="manga-guide/">Manga rating guide</a>
     </nav>
   </header>
 
@@ -816,13 +823,20 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
     <div class="shelves-grid">
     <p class="section-intro">About 4,000 personally selected books, mostly new with some used mixed in, instead of millions of algorithm-sorted listings. Walk in looking for one thing and leave with something you did not expect.</p>
     <ul class="places">
-      <li><b>Manga</b><span>A long wall of it, the section the shop is best known for, with collectible figures along the top shelves.</span></li>
+      <li><b>Manga</b><span>A long wall of it, the section the shop is best known for, with collectible figures along the top shelves. <a href="manga-guide/">Check any series in our manga rating guide.</a></span></li>
       <li><b>Fantasy</b><span>Two full bookcases of fantasy, with wizard-themed gifts and a few dragons keeping watch.</span></li>
       <li><b>History and philosophy</b><span>Nonfiction for long Northwoods winters, from the past to the big questions.</span></li>
       <li><b>Wisconsin and the outdoors</b><span>Books about the state, the Northwoods and getting outside in them.</span></li>
       <li><b>Tabletop games</b><span>A shelf of books for tabletop roleplaying games, for players and the people who run them.</span></li>
       <li><b>Snacks, art and gifts</b><span>Imported chips, candy and drinks, work by local artists, and figures and statues worth a second look.</span></li>
     </ul>
+    </div>
+    <div class="mg-callout">
+      <img src="img/manga_hero.webp" alt="" width="720" height="603" loading="lazy" decoding="async">
+      <div><span class="label">For parents</span>
+        <h3>Manga rating guide</h3>
+        <p>Hundreds of popular series, each with a suggested reading age and an S to F grade for how well it fits your faith or values. Pick your religion or philosophy and see where your kid's favorites land.</p>
+        <p><a class="btn" href="manga-guide/">Open the manga rating guide</a></p></div>
     </div>
   </div>
 </section>
