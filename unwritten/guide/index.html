@@ -1,0 +1,1036 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="../../">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>The Unwritten: Game Guide | The Blessed Fig Tree, Antigo, WI</title>
+<meta name="description" content="How to play The Unwritten, the free pixel-art RPG set in downtown Antigo: controls, saving, battles, a cheat sheet, a walkthrough, the town map and the party.">
+<link rel="canonical" href="https://www.theblessedfigtree.com/unwritten/guide/">
+<meta name="theme-color" content="#0b0d1f">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="The Blessed Fig Tree">
+<meta property="og:title" content="The Unwritten: Game Guide">
+<meta property="og:description" content="Controls, battles, a cheat sheet, a walkthrough, the town map and the party for The Unwritten, a free pixel RPG set in Antigo, Wisconsin.">
+<meta property="og:url" content="https://www.theblessedfigtree.com/unwritten/guide/">
+<meta property="og:image" content="https://www.theblessedfigtree.com/unwritten/guide/title.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Young+Serif&family=Karla:wght@400;500;700&display=swap">
+<style>
+:root { --night:#0b0d1f; --night2:#15183a; --gold:#f2b84b; --card:#fbefc9; --bg:#f1dca6; --ink:#3a2410; --muted:#6b4d2c; --line:#c9a45a; --fig:#6a2a68; --wood:#6d4523; --wood-dark:#3b2412; }
+* { box-sizing:border-box }
+html { scroll-behavior:smooth; scroll-padding-top:64px }
+@media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto } }
+body { margin:0; font:17px/1.6 Karla,system-ui,sans-serif; color:var(--ink); background:var(--night);
+  background-image:radial-gradient(1px 1px at 20% 30%,#fff8 50%,transparent 51%),radial-gradient(1px 1px at 70% 12%,#fff6 50%,transparent 51%),radial-gradient(1px 1px at 45% 70%,#fff5 50%,transparent 51%),radial-gradient(1px 1px at 88% 55%,#fff7 50%,transparent 51%);
+  background-size:240px 240px,310px 310px,190px 190px,270px 270px }
+a { color:var(--fig) }
+.skip { position:absolute; left:-9999px } .skip:focus { left:12px; top:12px; z-index:9; background:#fff; padding:8px }
+header.hero { max-width:1040px; margin:0 auto; padding:28px 20px 12px; display:grid; grid-template-columns:1.1fr 1fr; gap:28px; align-items:center; color:#e9e4ff }
+.hero .kicker { font:700 12px/1 Silkscreen,monospace; letter-spacing:.14em; color:var(--gold); margin:0 0 10px }
+.hero h1 { font:400 clamp(30px,5vw,48px)/1.08 "Young Serif",Georgia,serif; color:#fff; margin:0 0 14px }
+.hero p { margin:0 0 16px; max-width:52ch; color:#d7d3f1 }
+.hero .shot { border:4px solid var(--wood-dark); outline:3px solid var(--gold); image-rendering:pixelated; display:block; width:100%; height:auto; background:#000 }
+.btns { display:flex; gap:12px; flex-wrap:wrap }
+.btn { display:inline-flex; align-items:center; min-height:46px; padding:0 18px; font:700 14px Silkscreen,monospace; text-decoration:none; color:var(--wood-dark); background:var(--gold); border:3px solid var(--wood-dark); box-shadow:0 4px 0 var(--wood-dark) }
+.btn.alt { background:var(--card) }
+.btn:focus-visible, nav a:focus-visible { outline:3px solid #fff; outline-offset:2px }
+.wip { max-width:1040px; margin:8px auto 0; padding:0 20px; font:700 12px/1.4 Silkscreen,monospace; color:var(--gold); letter-spacing:.06em }
+nav.tabs { position:sticky; top:0; z-index:5; background:rgba(11,13,31,.94); backdrop-filter:blur(4px); border-bottom:3px solid var(--wood-dark); margin-top:18px }
+nav.tabs div { max-width:1040px; margin:0 auto; padding:8px 14px; display:flex; gap:6px; overflow-x:auto; scrollbar-width:none }
+nav.tabs a { flex:none; display:inline-flex; align-items:center; min-height:44px; padding:0 14px; font:700 13px Silkscreen,monospace; color:#e9e4ff; text-decoration:none; border:2px solid transparent }
+nav.tabs a.on, nav.tabs a:hover { color:var(--wood-dark); background:var(--gold); border-color:var(--wood-dark) }
+main { max-width:1040px; margin:0 auto; padding:22px 16px 40px; display:grid; gap:22px }
+.card { min-width:0; background:var(--card); border:4px solid var(--wood-dark); box-shadow:0 0 0 3px var(--line) inset, 0 6px 0 var(--wood-dark); padding:26px clamp(18px,4vw,40px) }
+.card > * { max-width:72ch }
+.card > .tw, .card > figure, .card > .legend { max-width:none }
+h2 { font:400 clamp(24px,3.4vw,32px)/1.15 "Young Serif",Georgia,serif; margin:0 0 14px; display:inline-block; color:#fff; background:var(--wood); padding:8px 16px; border:3px solid var(--wood-dark); box-shadow:0 4px 0 var(--wood-dark) }
+h3 { font:400 21px/1.25 "Young Serif",Georgia,serif; margin:28px 0 8px; padding-top:14px; border-top:2px dashed var(--line) }
+h4 { font:700 13px Silkscreen,monospace; letter-spacing:.06em; margin:18px 0 6px }
+blockquote { margin:0 0 16px; padding:10px 14px; background:#ecd9a6; border-left:6px solid var(--fig) }
+blockquote p { margin:0 }
+ul, ol { padding-left:1.3em } li { margin:4px 0 }
+code, kbd { font:700 13px Silkscreen,monospace; background:#3b2412; color:var(--gold); padding:1px 6px; border-radius:2px }
+.tw { overflow-x:auto; margin:12px 0 18px; border:3px solid var(--wood-dark) }
+table { border-collapse:collapse; width:100%; font-size:15px; background:#fff8e1 }
+th { text-align:left; font:700 12px Silkscreen,monospace; letter-spacing:.04em; background:var(--wood); color:#fff; padding:10px 12px; white-space:nowrap }
+td { padding:9px 12px; border-top:1px solid #e3cf9b; vertical-align:top }
+tr:nth-child(even) td { background:#fbefc9 }
+#cheat { background:#fff4d6 }
+#cheat h3:first-of-type { border-top:0; padding-top:0 }
+figure.map { margin:6px 0 14px }
+figure.map img { display:block; width:100%; height:auto; image-rendering:pixelated; border:4px solid var(--wood-dark); background:#2b3a22 }
+figcaption { font-size:14px; color:var(--muted); margin-top:6px }
+.legend { columns:2 260px; column-gap:28px; padding:0; list-style:none; margin:0 0 10px }
+.legend li { break-inside:avoid; margin:0 0 6px; font-size:15px }
+.legend b { display:inline-grid; place-items:center; min-width:26px; height:26px; margin-right:6px; font:700 12px Silkscreen,monospace; background:var(--fig); color:#fff }
+.legend span { color:var(--muted) }
+footer { max-width:1040px; margin:0 auto; padding:10px 20px 40px; color:#bdb8de; font-size:15px; display:flex; gap:18px; flex-wrap:wrap }
+footer a { color:var(--gold) }
+@media (max-width:760px) {
+  body { font-size:16px }
+  header.hero { grid-template-columns:1fr; gap:16px; padding-top:18px }
+  .hero .shot { order:-1 }
+  .btns .btn { flex:1 1 0; justify-content:center }
+  main { padding:16px 10px 30px }
+  table { font-size:14px }
+}
+</style>
+</head>
+<body>
+<a class="skip" href="unwritten/guide/#start">Skip to the guide</a>
+<header class="hero">
+  <div>
+    <p class="kicker">The Blessed Fig Tree presents</p>
+    <h1>The Unwritten: Game Guide</h1>
+    <p>Everything you need to play the current build: controls on keyboard and phone, saving, battles, a cheat sheet, a step-by-step walkthrough, the town map and the party.</p>
+    <div class="btns"><a class="btn" href="unwritten/">Play the game</a><a class="btn alt" href="./">Back to the shop</a></div>
+  </div>
+  <picture><source srcset="unwritten/guide/title.webp" type="image/webp"><img class="shot" src="unwritten/guide/title.jpg" width="1152" height="864" alt="The Unwritten title screen, presented by The Blessed Fig Tree" fetchpriority="high"></picture>
+</header>
+<p class="wip">A huge work in progress · early build · this guide changes as the game does</p>
+<nav class="tabs" aria-label="Guide sections"><div><a href="unwritten/guide/#start">How to play</a><a href="unwritten/guide/#cheat">Cheat sheet</a><a href="unwritten/guide/#walk">Walkthrough</a><a href="unwritten/guide/#town">Places in town</a><a href="unwritten/guide/#party">Party &amp; characters</a></div></nav>
+<main><section id="start" class="card"><h2>How to play</h2><p><em>The Unwritten is an early, unfinished build. Things change week to week.</em></p>
+<h3>Starting out</h3>
+<p><strong>Title screen:</strong> <strong>CONTINUE</strong> (shows only if you have a save), <strong>NEW GAME</strong>, and <strong>ALMANAC</strong> (real facts and numbers about Antigo's year).</p>
+<p><strong>New game:</strong> use up and down to pick a row, left and right to change it, and B to go back.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Row</th>
+<th>Choices</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PLAY</td>
+<td><strong>THE STORY</strong>: the RPG, with battles and a party. <strong>EXPLORE TOWN</strong>: walk real Antigo as the Antigo Red Robin, with no battles</td>
+</tr>
+<tr>
+<td>NAME</td>
+<td>Up to 10 letters</td>
+</tr>
+<tr>
+<td>LOOK</td>
+<td>Boy or Girl (Story only)</td>
+</tr>
+<tr>
+<td>STORY</td>
+<td>Standard (teen and up) or Mature (Story only)</td>
+</tr>
+<tr>
+<td>BEGIN</td>
+<td>Press A</td>
+</tr>
+</tbody>
+</table></div>
+<p>The Story starts in your room; the door is behind you. Explore Town starts outside The Blessed Fig Tree.</p>
+<h3>Keyboard</h3>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Key</th>
+<th>Does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arrows or WASD</td>
+<td>Move</td>
+</tr>
+<tr>
+<td>Enter, Z, Space</td>
+<td><strong>A</strong>: look, talk, confirm</td>
+</tr>
+<tr>
+<td>Esc, X, Backspace</td>
+<td><strong>B</strong>: back. Hold to run</td>
+</tr>
+<tr>
+<td>M or Tab</td>
+<td>Town map</td>
+</tr>
+<tr>
+<td>C or Q</td>
+<td>Story: menu. Explore: save</td>
+</tr>
+<tr>
+<td>I</td>
+<td>Bag</td>
+</tr>
+<tr>
+<td>N</td>
+<td>Sky: real time, day, night</td>
+</tr>
+<tr>
+<td>L</td>
+<td>Map layer</td>
+</tr>
+</tbody>
+</table></div>
+<p>Walk into a door you can use, or face it and press A. Gamepads work too.</p>
+<h3>Phone</h3>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Button</th>
+<th>Does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>D-pad (bottom left)</td>
+<td>Slide your thumb to move</td>
+</tr>
+<tr>
+<td>A (red)</td>
+<td>Look, talk, confirm</td>
+</tr>
+<tr>
+<td>B (blue)</td>
+<td>Back. Hold to run</td>
+</tr>
+<tr>
+<td>Tap the picture</td>
+<td>Same as A</td>
+</tr>
+<tr>
+<td>MAP / SAVE</td>
+<td>Map / Story menu (Explore: save)</td>
+</tr>
+<tr>
+<td>SKY</td>
+<td>Real time, day, night</td>
+</tr>
+</tbody>
+</table></div>
+<p>If you hold the phone upright, the pad sits under the game. If you turn it sideways, the pad floats over the sides. To type your name, tap A on the NAME row.</p>
+<h3>The town map</h3>
+<p>Move the cursor and press <strong>A</strong> to ride straight to that spot or place. <strong>C</strong> (ZOOM) zooms, <strong>M</strong> (PLACES) lists places, <strong>L</strong> (LAYER) shows soils, glacial deposits, elevation or population, and <strong>B</strong> goes back.</p>
+<h3>The menu (Story)</h3>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Option</th>
+<th>Does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ITEMS / SKILLS</td>
+<td>Use healing items and skills outside fights</td>
+</tr>
+<tr>
+<td>EQUIP</td>
+<td>Hand, Body, two Bookmarks</td>
+</tr>
+<tr>
+<td>STATUS</td>
+<td>Stats</td>
+</tr>
+<tr>
+<td>ORDER</td>
+<td>Front or back row. At the Fig Tree, choose who fights</td>
+</tr>
+<tr>
+<td>BESTIARY</td>
+<td>Foes you've met</td>
+</tr>
+<tr>
+<td>BATTLE LAB</td>
+<td>Replay any fight at any level; your party is restored afterward</td>
+</tr>
+<tr>
+<td>CONFIG</td>
+<td>WAIT or ACTIVE time, speed, timed presses (On/Assist/Off), challenge (Gentle heals after every fight)</td>
+</tr>
+<tr>
+<td>SAVE / CLOSE</td>
+<td>Both save</td>
+</tr>
+</tbody>
+</table></div>
+<h3>Saving</h3>
+<ul>
+<li>There is <strong>one save</strong>, kept <strong>in this browser on this device</strong>. Starting a NEW GAME replaces it.</li>
+<li>It <strong>saves itself</strong> often: at doors, after fights and shopping, and when you close the menu.</li>
+<li>You can also use <strong>SAVE</strong> in the menu, press <strong>C</strong> in Explore, or choose <strong>Rest upstairs</strong> at the Fig Tree counter (heals and saves).</li>
+<li><strong>Clearing browser data, or playing in a private window, erases your save.</strong></li>
+</ul>
+<h3>Battles (Story)</h3>
+<p><strong>Where:</strong> the FICTION shelves in The Blessed Fig Tree (six genres with four chapters each; the last chapter is a boss), the heavy bag at UMA (practice), and the Battle Lab.</p>
+<p><strong>Party:</strong> you start alone. Christian, at the Fig Tree counter, joins first, and others join around town. Three fight at a time, and the rest wait at the Fig Tree.</p>
+<p><strong>Turns:</strong> each fighter's time gauge fills based on speed, and a full gauge opens your commands. Left and right switch between ready fighters.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STRIKE</td>
+<td>Basic hit. Press A as it lands for GOOD or GREAT</td>
+</tr>
+<tr>
+<td>Own command (PLAY, NONFICTION…)</td>
+<td>Special skills</td>
+</tr>
+<tr>
+<td>UNDERSTAND</td>
+<td>See below</td>
+</tr>
+<tr>
+<td>COMBO</td>
+<td>Team move; everyone in it needs a full gauge</td>
+</tr>
+<tr>
+<td>ITEM</td>
+<td>Use an item</td>
+</tr>
+<tr>
+<td>GUARD</td>
+<td>Half damage until your next turn</td>
+</tr>
+<tr>
+<td>LEAVE</td>
+<td>Try to escape (never works on bosses)</td>
+</tr>
+</tbody>
+</table></div>
+<p>Some skills ask for input: mash A, enter arrows, press A on the beat, or hold and release A. Follow the prompt. When you're hit, press A as the hit lands to <strong>BLOCK</strong>.</p>
+<p><strong>Understanding commands</strong> cost <strong>Clarity</strong> (like magic points) and never miss:</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Command</th>
+<th>Lv</th>
+<th>Cost</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>QUESTION</td>
+<td>1</td>
+<td>Free</td>
+<td>Mind damage</td>
+</tr>
+<tr>
+<td>LISTEN</td>
+<td>1</td>
+<td>Free</td>
+<td>+3 Clarity; foe's next hit is softer</td>
+</tr>
+<tr>
+<td>NAME IT</td>
+<td>1</td>
+<td>3</td>
+<td>Strong damage; ends DREAD</td>
+</tr>
+<tr>
+<td>REFLECT</td>
+<td>1</td>
+<td>2</td>
+<td>Heals you</td>
+</tr>
+<tr>
+<td>STEP BACK</td>
+<td>4</td>
+<td>2</td>
+<td>Hard to hit for 2 turns; clears ABSORBED, HOOKED</td>
+</tr>
+<tr>
+<td>CITE SOURCE</td>
+<td>7</td>
+<td>3</td>
+<td>Damage, removes a foe boost, reveals a weakness</td>
+</tr>
+<tr>
+<td>READ ALOUD</td>
+<td>7</td>
+<td>4</td>
+<td>Hits all foes; clears FOGGED, CLICHED</td>
+</tr>
+<tr>
+<td>HOLD BOTH</td>
+<td>10</td>
+<td>6</td>
+<td>Heavy damage; breaks guards</td>
+</tr>
+</tbody>
+</table></div>
+<p>LISTEN, REFLECT and STEP BACK only do damage to foes that are weak to them.</p>
+<p><strong>Weak spots:</strong> a weakness does 1.5× damage, and a resisted command does half. Some foes heal from a command ("IT LIKES THAT"). Hitting a weakness wears down the foe's guard. When the guard hits zero, the foe is <strong>OPEN</strong>: it skips its next turn and takes extra damage.</p>
+<p><strong>Freed, not defeated:</strong> at 0 HP a foe "lets go." If the last hit used a weakness, the foe was OPEN, or Christian gave it the right book, it's <strong>Understood</strong> and pays 50% more Understanding, which is your experience. Each level-up lets you pick a stat boost.</p>
+<p><strong>Down, not out:</strong> a member at 0 HP is DAZED, and a Friend's Letter brings them back. If the whole party goes down, you wake up healed and nothing is lost.</p>
+<h3>Beginner tips</h3>
+<ol>
+<li><strong>Find weaknesses first</strong> (CITE SOURCE, Christian's SHELF TALKER), then hit them until the foe is OPEN.</li>
+<li><strong>Low on Clarity?</strong> Use QUESTION and LISTEN, which are free. Peppermints and Lavender Sachets restore Clarity.</li>
+<li><strong>Practice timing</strong> on UMA's heavy bag, or set timed presses to ASSIST.</li>
+<li><strong>Rest upstairs before a last chapter</strong>, since you can't leave boss fights.</li>
+<li><strong>Put fragile members in the back row.</strong> They take half as much physical damage, but they also deal half.</li>
+<li><strong>Too hard?</strong> Set CONFIG to WAIT and GENTLE.</li>
+</ol></section><section id="cheat" class="card"><h2>Cheat sheet</h2><blockquote>
+<p><strong>Early build.</strong> The game is a big work in progress, and things change week to week.</p>
+</blockquote>
+<hr />
+<h3>Controls</h3>
+<ul>
+<li><strong>Move:</strong> arrow keys or WASD (phone: on-screen pad)</li>
+<li><strong>A (talk, look, confirm):</strong> Enter, Z or Space</li>
+<li><strong>B (back):</strong> Esc, X or Backspace. <strong>Hold B to run.</strong></li>
+<li><strong>Menu:</strong> C or Q (phone: the small middle button; gamepad: Start)</li>
+<li><strong>Town map:</strong> M or Tab. Move the cursor, then press A to ride there.</li>
+<li><strong>Bag:</strong> I</li>
+<li><strong>Doors:</strong> walk into them, or face them and press A.</li>
+</ul>
+<h3>Saving</h3>
+<ul>
+<li>Menu (C), then <strong>SAVE</strong>, any time.</li>
+<li>It also saves at every door, after every battle, and when you rest. Saves stay in this browser; choose <strong>CONTINUE</strong> on the title screen.</li>
+</ul>
+<h3>Healing</h3>
+<ul>
+<li><strong>The Blessed Fig Tree:</strong> talk to Christian at the counter, then <strong>Rest upstairs</strong> (full heal and a save).</li>
+<li><strong>Aspirus Langlade Hospital,</strong> main lobby: talk to the nurse, then <strong>Rest a minute</strong> (full heal).</li>
+<li><strong>Antigo Family Chiropractic Center:</strong> an adjustment heals half.</li>
+<li><strong>Losing a fight costs nothing.</strong> Everyone gets back up at full health.</li>
+</ul>
+<h3>Items</h3>
+<ul>
+<li><strong>You start with</strong> $25, 3 Fig Cookies and 2 Friend's Letters (these revive someone, and no shop sells them).</li>
+<li><strong>Fig Tree SNACKS shelf</strong> (right wall, past the counter): Peppermint $1, Fig Cookie $2, Mug of Cocoa $4.50, Grilled Cheese $8, Picnic Thermos $15.</li>
+<li><strong>Fig Tree APOTHECARY</strong> (right wall, further back): Peppermint $1, Chamomile Tea $3 (clears all statuses), Lavender Sachet $6.</li>
+<li><strong>Gear:</strong> Christian, then <strong>Bookmarks and gear</strong> (stand-in stock, mostly $35+).</li>
+<li><strong>Boss drops:</strong> the last chapter of every shelf always drops gear that no shop sells.</li>
+<li><strong>Need cash?</strong> Pampered Paws Pet Grooming pays you to wash dogs.</li>
+</ul>
+<h3>Recruiting</h3>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Who</th>
+<th>Where</th>
+<th>What to pick</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Christian</td>
+<td>The Blessed Fig Tree, behind the counter</td>
+<td>Come along?</td>
+</tr>
+<tr>
+<td>Danny</td>
+<td>Unified Martial Arts, 832 Fifth Ave, front desk</td>
+<td>Train with us?</td>
+</tr>
+<tr>
+<td>Cecil</td>
+<td>Respawn Gaming Lounge, 725 Fifth Ave, front desk</td>
+<td>Team up?</td>
+</tr>
+<tr>
+<td>Daniel</td>
+<td>McKenzie Palace Theatre, 823 Fifth Ave: talk to the attendant</td>
+<td>Is Daniel here?</td>
+</tr>
+<tr>
+<td>Vox (stand-in, still being built)</td>
+<td>Antigo Public Library, near the librarian</td>
+<td>Come along?</td>
+</tr>
+<tr>
+<td>Robin</td>
+<td>Antigo High School: stand outside, face the building and press A</td>
+<td>Come with us?</td>
+</tr>
+<tr>
+<td>City Administrator</td>
+<td>City Hall, 700 Edison St</td>
+<td>Come along?</td>
+</tr>
+</tbody>
+</table></div>
+<p>Three fight at a time; the rest wait at the Fig Tree. Change who comes along by talking to Christian.</p>
+<h3>Best command against each foe</h3>
+<p>Hitting a weakness does extra damage and breaks the foe's guard. Christian's <strong>RECOMMEND</strong> does double damage when you pick the section the foe needs.
+QUESTION and LISTEN are free. NAME IT and REFLECT cost Clarity. You learn STEP BACK at level 4, CITE SOURCE and READ ALOUD at level 7, and HOLD BOTH at level 10. Christian's basic attack, <strong>FACT</strong>, counts as CITE.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Shelf</th>
+<th>Foe</th>
+<th>Use</th>
+<th>Recommend</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mystery</td>
+<td>Red Herring, Unreliable Narrator</td>
+<td>QUESTION, FACT</td>
+<td>History</td>
+</tr>
+<tr>
+<td></td>
+<td>Suspicion</td>
+<td>NAME IT, LISTEN</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Boss:</strong> The Detective</td>
+<td>REFLECT, STEP BACK (nothing else works well)</td>
+<td>none</td>
+</tr>
+<tr>
+<td>Romance</td>
+<td>Grand Gesture</td>
+<td>LISTEN, QUESTION</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td></td>
+<td>Love Triangle</td>
+<td>REFLECT</td>
+<td>Philosophy</td>
+</tr>
+<tr>
+<td></td>
+<td>The Waiting</td>
+<td>LISTEN, STEP BACK</td>
+<td>Local History</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Boss:</strong> The Perfect Suitor</td>
+<td>QUESTION. Never LISTEN, because it heals the boss.</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td>Dark Romance</td>
+<td>The Possessive One (no STRIKE)</td>
+<td>NAME IT, STEP BACK</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td></td>
+<td>Locked Door</td>
+<td>QUESTION, LISTEN</td>
+<td>Religion</td>
+</tr>
+<tr>
+<td></td>
+<td>Sweet Threat</td>
+<td>REFLECT, QUESTION</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Boss:</strong> The Wild One (no STRIKE)</td>
+<td>NAME IT early, which stops it from getting stronger</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td>Fantasy</td>
+<td>Prophecy</td>
+<td>QUESTION, FACT</td>
+<td>History</td>
+</tr>
+<tr>
+<td></td>
+<td>Dark Lord-ling</td>
+<td>LISTEN</td>
+<td>History</td>
+</tr>
+<tr>
+<td></td>
+<td>The Map Without an Edge</td>
+<td>REFLECT</td>
+<td>Local History</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Boss:</strong> The Chosen One</td>
+<td>LISTEN only</td>
+<td>History</td>
+</tr>
+<tr>
+<td>Science Fiction</td>
+<td>Countdown Drone</td>
+<td>REFLECT, STEP BACK</td>
+<td>Science</td>
+</tr>
+<tr>
+<td></td>
+<td>Tomorrow-Ghost</td>
+<td>LISTEN, REFLECT</td>
+<td>Philosophy</td>
+</tr>
+<tr>
+<td></td>
+<td>Upgrade</td>
+<td>NAME IT, QUESTION</td>
+<td>Philosophy</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Boss:</strong> The Countdown</td>
+<td>REFLECT and STEP BACK slow its timer</td>
+<td>Science</td>
+</tr>
+<tr>
+<td>Horror</td>
+<td>Dread</td>
+<td>NAME IT, LISTEN</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td></td>
+<td>Jump Scare</td>
+<td>REFLECT, LISTEN</td>
+<td>Science</td>
+</tr>
+<tr>
+<td></td>
+<td>Thing Under the Bridge (no STRIKE)</td>
+<td>LISTEN, NAME IT</td>
+<td>Local History</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Boss:</strong> The Thing in the Dark (no STRIKE)</td>
+<td>NAME IT (lowers its defense), READ ALOUD</td>
+<td>Psychology</td>
+</tr>
+<tr>
+<td>UMA</td>
+<td>Heavy bag (practice)</td>
+<td>STRIKE</td>
+<td>none</td>
+</tr>
+</tbody>
+</table></div>
+<hr /></section><section id="walk" class="card"><h2>Walkthrough</h2>
+<ol>
+<li><strong>Title screen.</strong> Choose <strong>NEW GAME</strong>.</li>
+<li><strong>"Who are you?"</strong> Set PLAY to <strong>THE STORY</strong>. (EXPLORE TOWN lets you walk the town with no battles.) Type a NAME, pick a LOOK, and set STORY to <strong>Standard</strong> (teen and up) or <strong>Mature</strong>. Then choose <strong>BEGIN</strong>.</li>
+<li><strong>Your room.</strong> You start out facing the screen. Press A on things to look at them if you like. The door is behind you: walk down three steps onto it to go outside.</li>
+<li><strong>Fifth Avenue.</strong> You come out on the sidewalk facing west. Walk left along Fifth Avenue and cross Clermont Street. The Blessed Fig Tree is the corner shop, and its door is on the corner. Stand on the sidewalk below the door and walk up into it. If someone is blocking the sidewalk, keep walking into them and they'll step aside.</li>
+<li><strong>Meet Christian.</strong> Walk up to the counter, face it and press A. Pick <strong>Come along?</strong> and Christian joins. The store is now your home base for resting, shopping and choosing your team.</li>
+<li><strong>Make it easy (optional).</strong> Menu (C), <strong>CONFIG</strong>: set <strong>CHALLENGE: GENTLE</strong> (heals everyone after every fight) and <strong>TIMED PRESSES: ASSIST</strong>.</li>
+<li><strong>Get Danny (recommended).</strong> Walk west along the same side of Fifth to Unified Martial Arts and walk up into the door. Talk to Danny at the front desk and pick <strong>Train with us?</strong> The heavy bags on the mats are a practice fight for learning timed presses.</li>
+<li><strong>Your first battle.</strong> For now, fights start from the store's shelves (this will change as the story is built). Back at the Fig Tree, check the bookshelves until one says <strong>FICTION</strong>. The nearest is on the left wall, just above the potted fig tree by the front window. Pick <strong>MYSTERY</strong>.
+   - A gauge fills for each fighter. When it's full, a command menu opens.
+   - Press A just as a hit lands for extra damage. Press A as a hit comes at you to block.
+   - At level 2, Christian's <strong>SHELF TALKER</strong> shows a foe's weaknesses and the section it needs.
+   - <strong>LEAVE</strong> gets you out of most fights, but not the last chapter of a shelf.
+   - <strong>COMBO</strong> shows up when two partners who know a combo both have full gauges.</li>
+<li><strong>Work through the shelf.</strong> Each genre has 3 chapters, then a boss in the last chapter. Win one and the next chapter opens. When you finish a genre, it shows <strong>(read)</strong>. Each level-up lets you pick a bonus. Rest upstairs between chapters.</li>
+<li><strong>Recruit everyone else (any order).</strong> Use the map (M): move the cursor onto a building until its name shows, then press A to ride there.<ul>
+<li><strong>Cecil:</strong> Respawn is across Fifth from where you first came outside. Walk down into its door.</li>
+<li><strong>Daniel:</strong> the Palace is on the south side of Fifth, west of Clermont.</li>
+<li><strong>Vox:</strong> the library is just north of Fifth on Clermont.</li>
+<li><strong>Robin:</strong> face Antigo High School from outside and press A.</li>
+<li><strong>City Administrator:</strong> City Hall, 700 Edison St.</li>
+</ul>
+</li>
+<li>
+<p><strong>City Administrator's summons (optional).</strong> Some come with levels. Others unlock when you visit places:</p>
+<ul>
+<li>face the Langlade County Public Safety Building and press A</li>
+<li>Public Works on W Pierce Ave, or the Antigo Waterworks on 1st Ave</li>
+<li>any city park or cemetery</li>
+<li>the library</li>
+<li>press A while facing Spring Brook</li>
+</ul>
+<p>Unlock all six and reach level 12 to get <strong>MUTUAL AID</strong>.
+12. <strong>Suggested shelf order</strong> (easiest first): Mystery, Romance, then Dark Romance or Fantasy, then Science Fiction, then Horror.
+13. <strong>The end of the current build:</strong> all six genres read (24 battles) and all seven companions recruited. After that, the <strong>BATTLE LAB</strong> in the menu replays any fight at any level, and puts your party back exactly as it was afterward.</p>
+</li>
+</ol>
+<p>That's as far as the build goes right now — more is on the way.</p></section><section id="town" class="card"><h2>Places in town</h2><p>This is an early, unfinished build, and places change week to week. The town is real Antigo, laid out where everything really stands, and almost every building can be walked into.</p>
+<p><strong>Handy tips</strong>
+- <strong>Look (A):</strong> face a building to see its name and address, and often a <strong>Survey this place</strong> fact sheet.
+- <strong>Map (M):</strong> pick a spot and ride there. Press M again for a list of named places. It counts the ones you've found.
+- <strong>Save:</strong> press C (or SAVE on a phone) almost anywhere. Going through a door saves too.
+- <strong>Townsfolk</strong> tell you where you are.</p>
+<h3>Where you start</h3>
+<p><strong>Your Room</strong> (THE STORY only): a dark room lit by a game screen. Look around, then walk out the door behind you. This scene is still being written.
+- Out the door, you're on <strong>Fifth Avenue</strong>, a short walk east of the bookstore.
+- In <strong>EXPLORE TOWN</strong> you skip the room and start right outside The Blessed Fig Tree.</p>
+<h3>Fifth Avenue, downtown</h3>
+<h3>The Blessed Fig Tree (800 Fifth Ave, corner of Clermont St)</h3>
+<p>Home base: a main floor, upstairs and a basement.
+- <strong>Christian</strong> at the counter: read the Almanac. In The Story he also joins, swaps your party, lets you <strong>rest</strong> (heals and saves) and sells gear.
+- <strong>Snacks</strong> and <strong>Apothecary</strong>: food and teas that help in fights.
+- <strong>Fiction</strong> shelf: in The Story, step into a book for a <strong>battle</strong>.
+- <strong>Tanner</strong>, by the window, has a kayak-trip side quest.
+- <em>Based on the real bookstore on Fifth Avenue.</em></p>
+<h3>East of the Fig Tree (700 block)</h3>
+<ul>
+<li><strong>Respawn Gaming Lounge</strong> (725): go inside to find <strong>Cecil</strong>, free arcade games and a retro gaming quiz. <em>Based on the real gaming lounge downtown.</em></li>
+<li><strong>Chase Bank</strong>, <strong>Associated Bank</strong> and <strong>BMO Bank</strong> each have a teller: open an account, deposit, withdraw, try a loan.</li>
+<li><strong>CR Realty</strong>: buy a make-believe property, with a bank loan.</li>
+<li><strong>Dixie Lunch</strong> and <strong>Be U Nutrition</strong> have menus to order from.</li>
+<li>Also open: Chocolate Creations, Salon 731, Mr. Interchange and more.</li>
+<li>Farther east (600 and 500 blocks): <strong>Wildman Arts</strong>, <strong>Lakeside Market</strong>.</li>
+</ul>
+<h3>West of the Fig Tree (800 block)</h3>
+<ul>
+<li><strong>McKenzie Palace Theatre</strong> (823): two free silent classics, <em>A Trip to the Moon</em> and <em>The Great Train Robbery</em>. Daniel the projectionist can join (Story). <em>Based on the real movie theater on Fifth Avenue.</em></li>
+<li><strong>Unified Martial Arts</strong> (832): mats and a cage upstairs, a weight room downstairs. <strong>Danny</strong> is at the front desk. In The Story, the heavy bag gives you a practice fight. <em>Based on the real martial arts gym downtown.</em></li>
+<li><strong>Flowers From The Heart</strong>: a flower memory-match game.</li>
+<li><strong>Kastawayz</strong> (a bar) and <strong>Banquet On A Bun</strong>, each with its own menu.</li>
+<li>Also open: Harper's Mercantile, the vintage and resale shops, Main Attraction Salon and more.</li>
+</ul>
+<h3>Farther west (900 and 1000 blocks)</h3>
+<ul>
+<li><strong>Pampered Paws Pet Grooming</strong>: wash a dog and get paid.</li>
+<li><strong>Colleen's Craft Shed</strong>, <strong>Rainbow Coin Laundry</strong>, <strong>Animals Bar &amp; Grill</strong>, <strong>Gene's Bearings</strong>.</li>
+<li><strong>Antigo Depot</strong> (929): <em>look only</em>. Look at it to see a picture postcard.</li>
+<li><strong>Pavek's Antigo Bakery</strong>, <strong>Hix's Hoffman House</strong> and the shops beyond them.</li>
+<li><strong>Antigo Opera House</strong> (1016): <em>sign only</em>. Its door stays shut because people live there now, but its sign tells its story.</li>
+<li><strong>Bars:</strong> kids can't walk in alone. Two kids in a trenchcoat outside the Hoffman House can help.</li>
+</ul>
+<h3>Just off Fifth</h3>
+<ul>
+<li><strong>Antigo Public Library</strong> (617 Clermont St, half a block north of the Fig Tree): go inside to browse. In The Story, <strong>Vox</strong> waits by the audiobooks.</li>
+<li><strong>Post Office</strong> (6th Ave, a block south) and <strong>CoVantage Credit Union</strong> (Clermont St, south, works like the banks).</li>
+<li><strong>Kingsbury Park</strong>: a small park just south of Fifth near Superior St.</li>
+<li><strong>Historical Society Museum</strong> (404 Superior St): three floors, a curator, a lesson quiz, pages from an old county history book, and a log cabin and train out back. <em>Based on the real museum in Antigo.</em></li>
+<li><strong>Woken Bear Coffee</strong>, across Superior St from the museum.</li>
+<li><strong>Langlade County Courthouse</strong> (800 Clermont St, north): go in to see its lobby.</li>
+<li><strong>City Hall</strong> (700 Edison St): the City Administrator joins here (Story).</li>
+</ul>
+<h3>Around town</h3>
+<ul>
+<li><strong>Parks with games:</strong> 18-hole <strong>disc golf</strong> at the Springbrook trailhead. <strong>Pickleball</strong> at the Krueger Pickleball Courts (Jaycee Park) and the Elleson Courts by the high school. <strong>Basketball</strong> at Mendik Park and the North Clermont Playground.</li>
+<li><strong>Other parks:</strong> Antigo Lake, Water Tower Park, the Springbrook boardwalk, playgrounds and more, all open to walk.</li>
+<li><strong>Schools:</strong> go in to study and take short tests to earn skills. Out front of <strong>Antigo High School</strong>, the Antigo Red Robin can join (Story).</li>
+<li><strong>Volm Companies</strong> and <strong>NTC's</strong> Antigo campus can be toured.</li>
+<li><strong>The Kove</strong> (Century Ave, far north): a café with a corkboard. It's still being built.</li>
+<li><strong>Aspirus Langlade Hospital</strong> (east end of Fifth): the grounds have a gazebo.</li>
+<li><strong>Big stores, fast food and gas stations</strong> open too.</li>
+<li><strong>Homes, apartments, garages and barns:</strong> you can open them, but every inside is made up and generic. Real people's homes stay private.</li>
+</ul>
+<h3>Walking order from the start (for the map legend)</h3>
+<ol>
+<li>Your Room (Story start)</li>
+<li>Kingsbury Park (near Superior St)</li>
+<li>Fifth Avenue, 700 block: banks, CR Realty, Dixie Lunch, Respawn Gaming Lounge</li>
+<li>The Blessed Fig Tree (Fifth and Clermont)</li>
+<li>Antigo Public Library (north on Clermont)</li>
+<li>Post Office, CoVantage Credit Union</li>
+<li>McKenzie Palace Theatre</li>
+<li>Kastawayz, Banquet On A Bun, Flowers From The Heart</li>
+<li>Unified Martial Arts</li>
+<li>900 block: Colleen's Craft Shed, Pampered Paws, Antigo Depot (look only)</li>
+<li>1000 block: Pavek's Bakery, Hix's Hoffman House, Antigo Opera House (sign only)</li>
+<li>Langlade County Courthouse (north on Clermont)</li>
+<li>City Hall (Edison St)</li>
+<li>Historical Society Museum, Woken Bear Coffee</li>
+<li>Farther out: parks and courts, schools, Volm, NTC, the hospital, The Kove</li>
+</ol></section><section id="party" class="card"><h2>Party &amp; characters</h2><blockquote>
+<p><strong>Early build:</strong> the game is unfinished and changes week to week. This page covers only what you can play right now.</p>
+</blockquote>
+<p><strong>Basics:</strong> HP is health. <strong>Clarity</strong> pays for special moves. <strong>Understanding</strong> is your experience points. You fight <strong>three at a time</strong>, and everyone else waits at The Blessed Fig Tree. Press <strong>C</strong> to open the menu.</p>
+<h3>You: the player</h3>
+<p>Choose <strong>NEW GAME → THE STORY</strong>. Pick a <strong>Boy</strong> or <strong>Girl</strong> look and a name of up to 10 letters (the defaults are Eli and Wren). You start in your room. Head out the door to the bookstore. (<strong>EXPLORE TOWN</strong> is just walking around as the Robin: no battles, no party.)</p>
+<p><strong>Class: VIDEO GAMER</strong> (front row). Your special menu is <strong>PLAY</strong>.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Move</th>
+<th>Lv</th>
+<th>Does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STRIKE</td>
+<td>1</td>
+<td>Hit. Press A as it lands for extra damage</td>
+</tr>
+<tr>
+<td>BUTTON MASH</td>
+<td>1</td>
+<td>Mash A for up to 7 hits</td>
+</tr>
+<tr>
+<td>EXTRA LIFE</td>
+<td>2</td>
+<td>Revives a knocked-out ally at half HP</td>
+</tr>
+<tr>
+<td>SAVE STATE / LOAD STATE</td>
+<td>4</td>
+<td>Saves the party's HP and Clarity, then brings it back</td>
+</tr>
+<tr>
+<td>PAUSE</td>
+<td>6</td>
+<td>Slows foes</td>
+</tr>
+<tr>
+<td>SPEEDRUN</td>
+<td>9</td>
+<td>The party gets QUICK</td>
+</tr>
+</tbody>
+</table></div>
+<p>Everyone shares the <strong>UNDERSTAND</strong> menu. You start with QUESTION, LISTEN, NAME IT and REFLECT, then get STEP BACK at Lv 4, CITE SOURCE and READ ALOUD at Lv 7, and HOLD BOTH at Lv 10.</p>
+<h3>Who can join</h3>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Name</th>
+<th>How to recruit</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CHRISTIAN</td>
+<td>Talk to him at the Fig Tree counter</td>
+<td>Back row: book attacks, healing</td>
+</tr>
+<tr>
+<td>DANNY</td>
+<td>Front desk inside UMA (Unified Martial Arts)</td>
+<td>Front row: physical fighter</td>
+</tr>
+<tr>
+<td>CECIL</td>
+<td>Talk to him at Respawn Gaming Lounge</td>
+<td>Front row: all-rounder</td>
+</tr>
+<tr>
+<td>DANIEL</td>
+<td>Palace Theatre: ask the attendant for him</td>
+<td>Back row: hits every foe</td>
+</tr>
+<tr>
+<td>ROBIN</td>
+<td>Face Antigo High School and press A</td>
+<td>Front row: fast party boosts</td>
+</tr>
+<tr>
+<td>VOX</td>
+<td>Library, by the audiobooks</td>
+<td>Back row: support (still being built)</td>
+</tr>
+<tr>
+<td>ADMIN</td>
+<td>The City Administrator at City Hall</td>
+<td>Back row: summoner</td>
+</tr>
+</tbody>
+</table></div>
+<p>After Christian joins, the store is your base: rest, swap fighters, buy gear.</p>
+<ul>
+<li><strong>Christian (NONFICTION).</strong> His strike is FACT. RECOMMEND asks you to pick a section, and the right one hits twice as hard. TEA BREAK heals the party. SHELF TALKER (Lv 2) shows a foe's stats. SPECIAL ORDER (Lv 6) powers up an ally. He opens more sections as he levels, and each one adds a move, like TRIAGE or LOOK IT UP.</li>
+<li><strong>Danny (TECHNIQUE).</strong> You enter his moves as arrow combos. JAB-CROSS (two punches), SPRAWL (counter), BREATHE (heal), COACH (Lv 3), TEEP (Lv 4, pushes a foe back), HIP TOSS (Lv 7), SPOT (Lv 9, protects an ally), ARMBAR (Lv 11). UMA's heavy bag is a free practice fight.</li>
+<li><strong>Cecil (COLLECTION).</strong> BLOW ON IT clears statuses and THE MANUAL shows a foe's stats. His cartridges hit like other commands: PLATFORMER, FIGHTER (Lv 2), PUZZLE (Lv 4) and RPG (Lv 6). COLLECTION (Lv 8) defends the party and MINT CONDITION (Lv 10) is a big heal.</li>
+<li><strong>Daniel (ROLL FILM).</strong> Hold A, release when sharp. PREVIEWS shows every foe's stats; SPECIAL EFFECTS hits them all. Later: SLOW MOTION (Lv 3), INTERMISSION (Lv 5), DIRECTOR'S CUT (Lv 8, a big hit) and CREDITS ROLL (Lv 12, finishes weak foes).</li>
+<li><strong>Robin (CHEER).</strong> Press A on the beat. FIGHT SONG (stronger hits), DAWN SONG (clears statuses), EARLY BIRD (Lv 3), SWOOP (Lv 4, attack), HOMECOMING (Lv 6, revive), SHARE THE LOAD (Lv 8), RAZZ (Lv 9).</li>
+<li><strong>Vox (BROADCAST).</strong> Press A when the dial finds the station. CALL-IN SHOW, STATIC, AUDIOBOOK (Lv 3), DEAD AIR (Lv 6), SIGNAL BOOST (Lv 8), LATE-NIGHT REQUEST (Lv 11).</li>
+<li><strong>Admin (SUMMON).</strong> Each summon works once per fight. Starts with PUBLIC RECORD, FIRE &amp; RESCUE and DELEGATE. Visiting places unlocks more: the Public Safety Building (POLICE), the public works yard (SNOWPLOW), Water Tower Park (WATER TOWER), any park (PARKS &amp; REC), Spring Brook (CLEAN WATER), the library (INTERLIBRARY LOAN).</li>
+</ul>
+<h3>Combos and team bonuses</h3>
+<p>A <strong>COMBO</strong> appears in the menu when everyone in it is fighting and has a full gauge.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Who</th>
+<th>Combos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Christian + Danny</td>
+<td>BY THE BOOK, TEACHING MOMENT</td>
+</tr>
+<tr>
+<td>Christian + Robin</td>
+<td>READ-ALONG, SPIRIT WEEK</td>
+</tr>
+<tr>
+<td>Danny + Robin</td>
+<td>MASCOT TOSS, TWO-A-DAYS</td>
+</tr>
+<tr>
+<td>You + Christian / Danny / Robin / Cecil</td>
+<td>PLAYER'S GUIDE, COMBO BREAKER, HIGH SCORE, LINK CABLE</td>
+</tr>
+<tr>
+<td>Christian + Cecil</td>
+<td>STRATEGY GUIDE</td>
+</tr>
+<tr>
+<td>Christian + Daniel / Vox / Admin</td>
+<td>BASED ON THE BOOK, AUDIOBOOK EDITION, TOWN HALL MEETING</td>
+</tr>
+<tr>
+<td>You + Daniel</td>
+<td>CUTSCENE</td>
+</tr>
+<tr>
+<td>Daniel + Vox</td>
+<td>RADIO DRAMA</td>
+</tr>
+<tr>
+<td>Vox + Danny / Robin</td>
+<td>GUIDED BREATHING, P.A. ANNOUNCEMENT</td>
+</tr>
+<tr>
+<td>Robin + Daniel</td>
+<td>HALFTIME SHOW</td>
+</tr>
+<tr>
+<td>Three-person</td>
+<td>THE WHOLE TOWN READS and OPEN HOUSE (Christian, Danny, Robin), ADAPTATION (Christian, Daniel, Vox), GAME NIGHT (you, Cecil, Robin)</td>
+</tr>
+</tbody>
+</table></div>
+<p>Some pairs also get <strong>team bonuses</strong> when they fight together. The ORDER menu shows yours.</p>
+<h3>Who you'll meet</h3>
+<ul>
+<li><strong>Christian</strong> and <strong>Tanner</strong>, who offers a kayak trip, at the Fig Tree</li>
+<li><strong>Danny</strong> at UMA, and <strong>Cecil</strong> at Respawn</li>
+<li>The Palace <strong>attendant</strong> (free silent films)</li>
+<li>The <strong>librarian</strong> and <strong>Vox</strong> at the library</li>
+<li>The <strong>City Administrator</strong> at City Hall</li>
+<li><strong>Jeremy</strong>, a neighbor who talks about the weather</li>
+<li>The museum <strong>curator</strong>, school <strong>front offices</strong> and <strong>teachers</strong>, bank <strong>tellers</strong>, and a hospital <strong>nurse</strong></li>
+<li>Townsfolk out walking</li>
+</ul>
+<h3>Enemies you may run into</h3>
+<p>Fights happen through the Fig Tree's <strong>FICTION shelf</strong>: each genre is three group fights, then a boss. Hitting weaknesses can leave a foe <strong>OPEN</strong> (it skips a turn and takes extra damage). "Book" is the section for Christian's RECOMMEND.</p>
+<div class="tw"><table>
+<thead>
+<tr>
+<th>Enemy</th>
+<th>Shelf</th>
+<th>Tip</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Red Herring</td>
+<td>Mystery</td>
+<td>QUESTION, CITE SOURCE. Book: History</td>
+</tr>
+<tr>
+<td>Unreliable Narrator</td>
+<td>Mystery</td>
+<td>QUESTION, CITE SOURCE. Book: History</td>
+</tr>
+<tr>
+<td>Suspicion</td>
+<td>Mystery</td>
+<td>NAME IT, LISTEN. Book: Psychology</td>
+</tr>
+<tr>
+<td>Grand Gesture</td>
+<td>Romance</td>
+<td>LISTEN, QUESTION. Book: Psychology</td>
+</tr>
+<tr>
+<td>Love Triangle</td>
+<td>Romance</td>
+<td>REFLECT, HOLD BOTH. Book: Philosophy</td>
+</tr>
+<tr>
+<td>The Waiting</td>
+<td>Romance</td>
+<td>LISTEN, STEP BACK. Book: Local History</td>
+</tr>
+<tr>
+<td>The Possessive One</td>
+<td>Dark Romance</td>
+<td>NAME IT, STEP BACK. Resists physical hits</td>
+</tr>
+<tr>
+<td>Locked Door</td>
+<td>Dark Romance</td>
+<td>QUESTION, LISTEN. Book: Religion</td>
+</tr>
+<tr>
+<td>Sweet Threat</td>
+<td>Dark Romance</td>
+<td>REFLECT, QUESTION. Book: Medicine</td>
+</tr>
+<tr>
+<td>Prophecy</td>
+<td>Fantasy</td>
+<td>QUESTION, CITE SOURCE. Book: History</td>
+</tr>
+<tr>
+<td>Dark Lord-ling</td>
+<td>Fantasy</td>
+<td>LISTEN, HOLD BOTH. Book: History</td>
+</tr>
+<tr>
+<td>The Map Without an Edge</td>
+<td>Fantasy</td>
+<td>REFLECT. Book: Local History</td>
+</tr>
+<tr>
+<td>Countdown Drone</td>
+<td>Science Fiction</td>
+<td>REFLECT, STEP BACK. Book: Science</td>
+</tr>
+<tr>
+<td>Tomorrow-Ghost</td>
+<td>Science Fiction</td>
+<td>LISTEN, REFLECT. Book: Philosophy</td>
+</tr>
+<tr>
+<td>Upgrade</td>
+<td>Science Fiction</td>
+<td>NAME IT, QUESTION. Book: Philosophy</td>
+</tr>
+<tr>
+<td>Dread</td>
+<td>Horror</td>
+<td>NAME IT, LISTEN. Book: Psychology</td>
+</tr>
+<tr>
+<td>Jump Scare</td>
+<td>Horror</td>
+<td>REFLECT, LISTEN. Book: Science</td>
+</tr>
+<tr>
+<td>Thing Under the Bridge</td>
+<td>Horror</td>
+<td>LISTEN, NAME IT. Resists physical hits</td>
+</tr>
+<tr>
+<td>Heavy Bag</td>
+<td>UMA (practice)</td>
+<td>STRIKE with timed presses</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Bosses</strong> (you can't LEAVE these fights): The Detective Who Never Sleeps, The Perfect Suitor, The Wild One, The Chosen One, The Countdown, The Thing in the Dark.</p>
+<p>The <strong>Battle Lab</strong> in the menu replays any fight, and your party goes back exactly as it was afterward.</p></section></main>
+<footer><a href="./">The Blessed Fig Tree</a><a href="unwritten/">Play The Unwritten</a><a href="manga-guide/">Manga guide for parents</a><a href="almanac/">Antigo Almanac</a><span>800 5th Ave, Antigo, WI</span></footer>
+<script>
+(() => {
+  const links = [...document.querySelectorAll('nav.tabs a')];
+  const map = new Map(links.map(a => [a.hash.slice(1), a]));
+  const io = new IntersectionObserver(es => es.forEach(e => {
+    if (e.isIntersecting) { links.forEach(a => a.classList.remove('on')); const a = map.get(e.target.id); if (a) { a.classList.add('on'); a.scrollIntoView({block:'nearest', inline:'nearest'}); } }
+  }), { rootMargin: '-40% 0px -55% 0px' });
+  document.querySelectorAll('main section').forEach(s => io.observe(s));
+})();
+</script>
+</body>
+</html>
