@@ -1,6 +1,6 @@
 # Drifting Dragons
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Built 2026-11-25 (about 22 lookups). The series is ongoing: English Wikipedia lists **Flight 119** as the latest chapter and 23 Japanese volumes (vol. 23, November 6, 2026); Kodansha USA has 18 English volumes (vol. 18, October 20, 2026, per Wikipedia; MangaUpdates says 18 digital and 16 print). Series facts, the full chapter-title list and the volume-to-chapter map come from English Wikipedia (opened through its raw-text endpoint), the AniList and MangaUpdates APIs, and the Penguin Random House page for Kodansha's vol. 1 (which carries Kodansha's rating). Plot points come from the Drifting Dragons fan wiki (volume synopses for vols. 1-19, which reuse the publisher blurbs, and the Mika, Takita and Story Arcs pages, read through its API; facts only). Chapter-level content is mostly inferred from chapter titles, so many chapter numbers are marked "likely." No review was opened: the shared web-fetch cap was reached before the reviews found in search (The Manga Critic, AIPT, Anime UK News, UK Anime Network) could be opened, and Kodansha's own site and the Anime News Network encyclopedia returned security pages. No Christian, feminist or parent-guide review was found. No creator interview was found. Items from general knowledge are marked "(from general knowledge; to verify)".
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Built 2026-11-25 (about 25 lookups). The series is ongoing: English Wikipedia lists **Flight 119** as the latest chapter and 23 Japanese volumes (vol. 23, November 6, 2026); Kodansha USA has 18 English volumes (vol. 18, October 20, 2026, per Wikipedia; MangaUpdates says 18 digital and 16 print). Series facts, the full chapter-title list and the volume-to-chapter map come from English Wikipedia (opened through its raw-text endpoint), the AniList and MangaUpdates APIs, and the Penguin Random House page for Kodansha's vol. 1 (which carries Kodansha's rating). Plot points come from the Drifting Dragons fan wiki (volume synopses for vols. 1-19, which reuse the publisher blurbs, and the Mika, Takita and Story Arcs pages, read through its API; facts only). Chapter-level content is mostly inferred from chapter titles, so many chapter numbers are marked "likely." Reviews opened: The Manga Critic (vols. 1-2, 2018) and Anime UK News (vol. 1, 2020); AIPT and UK Anime Network were found in search but not opened after the shared web-fetch cap was reached once, and Kodansha's own site and the Anime News Network encyclopedia returned security pages. No Christian, feminist or parent-guide review was found. No creator interview was found. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
@@ -37,7 +37,7 @@ Hope source: F — the crew as family: the Kodansha blurb calls the Quin Zaza cr
 
 | Category | Intensity (0 to 10) | Frequency | Framing | Evidence (with chapter numbers where known) |
 |---|---|---|---|---|
-| Violence | 4 | Frequent | Neutral (hunting as work); cruelty and waste condemned | Aerial hunts with harpoons and guns and on-deck butchering are the core of the series ("First Butchering," ch. 6; MangaUpdates Hunter/s). Sky pirates (ch. 5); a brawl (ch. 31); a "Showdown & Prosthetic" (ch. 34); target practice (ch. 36). The Slayers hunt "by any means necessary, no matter how cruel" (v7 blurb). A civil war in Arena (v11-12). Gibbs is mortally wounded in the Typhon battle (v14-15). "Young Soldiers & Canned Soup" (ch. 80) likely involves child soldiers in a war backstory (to verify). Gore level in butchering not confirmed (to verify); Kodansha rates it T. |
+| Violence | 4 | Frequent | Neutral (hunting as work); cruelty and waste condemned | Aerial hunts with harpoons and guns and on-deck butchering are the core of the series ("First Butchering," ch. 6; MangaUpdates Hunter/s). Sky pirates (ch. 5); a brawl (ch. 31); a "Showdown & Prosthetic" (ch. 34); target practice (ch. 36). The Slayers hunt "by any means necessary, no matter how cruel" (v7 blurb). A civil war in Arena (v11-12). Gibbs is mortally wounded in the Typhon battle (v14-15). "Young Soldiers & Canned Soup" (ch. 80) likely involves child soldiers in a war backstory (to verify). The Manga Critic describes harpoon strikes and the crew stripping meat, rendering fat and butchering in the hold, likening it to 19th-century whaling; the exact level of blood drawn is not confirmed (to verify). Kodansha rates it T. |
 | Fear and intensity | 4 | Frequent | Neutral | Takita falls overboard (v3); Vanabelle is swallowed whole by the ship eater (v5); storms (ch. 30), a blizzard (ch. 103-104); the ship is wrecked (v9); Takita is blinded by a parasitic dragon (v18). Mika lost his mother and grandmother when a dragon sank their ship and survived alone on an island (fan wiki). |
 | Sexuality and romance (incl. fan service, manga art vs anime) | 1 | Rare | Neutral | No fan service reported. Mika sniffs crewmates' hair, including Takita (15-16), which flusters her; played as comedy about his nose (fan wiki, Takita page). Brno and his fiancée Liriope (v10). MangaUpdates weakly lists Romantic Subplot (1 vote) and Older Male Younger Female (2 votes); no romance between Mika and Takita is reported, and the fan wiki describes them as like siblings. |
 | Language | 2 | Occasional | Neutral | Rough crew banter likely; not documented in sources opened (to verify). Rated T. |
@@ -188,7 +188,7 @@ Japanese source culture: The crew's craft pride, the care in preparing and thank
 
 **Symbols and motifs.** The airship as home; the dish named in every chapter title; dragons as whales of the sky (the Kodansha blurb uses the image); the once-a-century Descent, a dragon so vast that a whole clan comes to dissect it (v18-19).
 
-**Traditions it echoes.** Whaling literature (Moby-Dick is the obvious ancestor; from general knowledge), the cooking manga (Delicious in Dungeon is a frequent comparison; from general knowledge; to verify), and Miyazaki's airship fantasies, which the publisher names. Its ethic of using every part echoes hunters' codes in many cultures and the Catholic, Jewish and Muslim teaching against needless cruelty and waste.
+**Traditions it echoes.** Whaling: The Manga Critic ties the butchering to 19th-century whaling (Moby-Dick is the obvious ancestor; from general knowledge), the cooking manga (Delicious in Dungeon is a frequent comparison; from general knowledge; to verify), and Miyazaki's airship fantasies, which the publisher names. Its ethic of using every part echoes hunters' codes in many cultures and the Catholic, Jewish and Muslim teaching against needless cruelty and waste.
 
 **How each lens is portrayed.** Communitarianism and a hunter's environmentalism are endorsed; hedonism is enjoyed through Mika but tempered by duty and loss; might-makes-right profiteering is the foil. Religious readers find no faith content but a strong gratitude and stewardship theme; Hindu and Buddhist readers will weigh the killing itself.
 
@@ -208,10 +208,12 @@ Japanese source culture: The crew's craft pride, the care in preparing and thank
 | Award jury | Seiun Award (via Wikipedia) | Nominated for the 52nd Seiun Award, Media category (2021). | https://en.wikipedia.org/wiki/Drifting_Dragons |
 | Librarians | YALSA, Great Graphic Novels for Teens (via PRH) | Vol. 1 named a Great Graphic Novels for Teens selection. | https://www.penguinrandomhouse.com/books/616746/drifting-dragons-1-by-taku-kuwabara/ |
 | Fan databases | AniList, MangaUpdates | AniList average 76 (about 9,800 members); MangaUpdates 7.43 (92 votes). | AniList API; MangaUpdates API |
-| Critics (manga) | The Manga Critic, AIPT, Anime UK News, UK Anime Network | Found in search; not opened (fetch cap reached). | see Sources |
+| Critic (manga, vols. 1-2) | The Manga Critic (Manga Bookshelf, 2018) | Positive, "Highly recommended": graceful art and gritty whaling-like detail; the comedy and recipe interludes are the weak spots. | https://mangacritic.mangabookshelf.com/2018/01/10/drifting-dragons-vols-1-2/ |
+| Critic (manga, vol. 1) | Demelza, Anime UK News (2020) | 9/10: a varied crew with their own reasons for flying; light, pencil-like art; notes the crew's saying that whoever takes a beast's life must be ready to lose their own. | https://animeuknews.net/2020/01/drifting-dragons-volume-1-review |
+| Critics (manga) | AIPT, UK Anime Network | Found in search; not opened. | see Sources |
 | Christian, feminist, parent guides | — | No review found in search. | none |
 
-No public controversy was found. Reviews were not opened, so critical reception rests on the award nomination and the YALSA selection.
+No public controversy was found. Critics praise the art and world-building; the recipe interludes divide them. No reviewer opened raises the ethics of hunting.
 
 ## Most loaded parts and pages to photograph
 
@@ -239,13 +241,13 @@ Pages actually opened:
 - MangaUpdates API, series 61845454900 (api.mangaupdates.com)
 - https://drifting-dragons.fandom.com (through its API; facts only): Story Arcs; Mika; Takita; Draker; Manga Volume 1-19 synopses
 - https://www.penguinrandomhouse.com/books/616746/drifting-dragons-1-by-taku-kuwabara/ (Rated T; YALSA selection)
+- https://mangacritic.mangabookshelf.com/2018/01/10/drifting-dragons-vols-1-2/
+- https://animeuknews.net/2020/01/drifting-dragons-volume-1-review
 
 Found in search, not opened (fetch cap reached or not prioritized):
 - https://kodansha.us/series/drifting-dragons/ (security page)
 - https://www.animenewsnetwork.com/encyclopedia/manga.php?id=20290 (security page)
-- https://mangacritic.mangabookshelf.com/2018/01/10/drifting-dragons-vols-1-2/
 - https://aiptcomics.com/2018/01/17/drifting-dragons-vol-1-review/
-- https://animeuknews.net/2020/01/drifting-dragons-volume-1-review
 - https://www.uk-anime.net/Manga/Drifting_Dragons_vol_1
 - https://comicbookroundup.com/comic-books/reviews/kodansha/drifting-dragons/1
 - No Common Sense Media, Plugged In, Beneath the Tangles or Anime Feminist page found in search.
@@ -261,6 +263,6 @@ Found in search, not opened (fetch cap reached or not prioritized):
 - [ ] Early chapters: confirm Mika sniffing Takita's hair is comic only, with no sexualized framing of a 15-year-old. Written note only. Affects Sexuality (1).
 - [ ] Spot-check language in the Kodansha translation. Affects Language (2).
 - [ ] Ch. 111 "Memorial": confirm who died. Affects Outlook.
-- [ ] Open the reviews listed in Sources (The Manga Critic, AIPT, Anime UK News). Affects How readers took it.
+- [ ] Open the reviews still listed as not opened (AIPT, UK Anime Network) and any review of the later volumes. Affects How readers took it.
 - [ ] Find any Kuwabara interview on the series' themes. Affects Creator context.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

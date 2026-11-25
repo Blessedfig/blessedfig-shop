@@ -1,6 +1,6 @@
 # The Reformation of the World as Overseen by a Realist Demon King
 
-Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Built 2026-11-25 (about 18 lookups). The series is ongoing: MangaUpdates lists **81 chapters in 13 Japanese volumes** (with a volume map to vol. 12, ch. 71); Yen Press lists English volumes 1-9 (vol. 8, April 28, 2026). Series facts come from the AniList and MangaUpdates APIs and Yen Press's product pages for vols. 1-4, 6-8 (rating and plot blurbs). Review opened: Anime News Network (MrAJCosplay, vol. 1). Graphic Policy's posts were opened but only repeat the publisher blurbs. No English or Japanese Wikipedia article was available (both returned errors), no fan wiki was found, and no chapter summaries were found, so chapter-level content rests on publisher blurbs and database tags; most chapter numbers are estimates from the volume map. The Siliconera article on the manga (in the old quick read) could not be reopened: the fetch needed an approval that could not be given, and the shared web-fetch cap was then reached. No Christian, feminist or parent-guide review was found. Items from general knowledge are marked "(from general knowledge; to verify)".
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: **low to medium.** Built 2026-11-25 (about 20 lookups). The series is ongoing: MangaUpdates lists **81 chapters in 13 Japanese volumes** (with a volume map to vol. 12, ch. 71); Yen Press lists English volumes 1-9 (vol. 8, April 28, 2026). Series facts come from the AniList and MangaUpdates APIs and Yen Press's product pages for vols. 1-4, 6-8 (rating and plot blurbs). Reviews opened: Anime News Network (MrAJCosplay, vol. 1) and Siliconera (Jenni Lada, vol. 1). Graphic Policy's posts were opened but only repeat the publisher blurbs. No English or Japanese Wikipedia article was available (both returned errors), no fan wiki was found, and no chapter summaries were found, so chapter-level content rests on publisher blurbs and database tags; most chapter numbers are estimates from the volume map. The Siliconera article cited in the old quick read could not be reopened (the fetch needed an approval that could not be given); a second Siliconera page on vol. 1 was opened instead. The shared web-fetch cap was reached once. No Christian, feminist or parent-guide review was found. Items from general knowledge are marked "(from general knowledge; to verify)".
 
 ## Series facts
 
@@ -118,7 +118,7 @@ Astaroth's realism wins every war so far; rival demon kings who rule by greed, s
 - Style: Explicit
 - Preachiness: 3
 - Opposing views: Mixed
-- Evidence: Astaroth explains his reasoning to his subordinates (MangaUpdates blurb dialogue); ANN says the book frames him "in a kind of lawful evil light" with a kind heart beneath.
+- Evidence: Astaroth explains his reasoning to his subordinates (MangaUpdates blurb dialogue); Siliconera says his choices are brilliant but not moral; ANN says the book frames him "in a kind of lawful evil light" with a kind heart beneath.
 - Note: The realist method is stated outright and always works; rivals who rule badly are drawn as foils rather than argued with.
 
 | Character | Ideology | Role | Treatment |
@@ -206,7 +206,7 @@ Japanese source culture: The rational reformer bringing modern methods to a feud
 | Reading | Who (viewpoint; anime or manga) | Summary | Source (link) |
 |---|---|---|---|
 | Critic (manga, vol. 1) | MrAJCosplay, Anime News Network | B-: fun strategy and clever workarounds; bland lead and designs; "lawful evil" framing with a kind heart beneath. | https://cdn01.animenewsnetwork.com/review/the-reformation-of-the-world-as-overseen-by-a-realist-demon-king/gn-1/.201296 |
-| Critic (manga) | Siliconera (from the old quick read) | Praises the plotting; not reopened for this entry. | https://siliconera.com/the-plotting-in-realist-demon-king-manga-is-one-of-its-finer-points |
+| Critic (manga, vol. 1) | Jenni Lada, Siliconera (2023) | Positive: a page-turner; his choices are strategically brilliant but plainly not moral, which is part of the appeal; summoning feels like a gacha pull. | https://www.siliconera.com/?p=989737 |
 | Review site | Graphic Policy (2024) | Posts for vols. 3-4 repeat the publisher blurb with a positive headline ("another fantastic volume"). | https://graphicpolicy.com/tag/the-reformation-of-the-world-as-overseen-by-a-realist-demon-king/ |
 | Fan databases | AniList, MangaUpdates | AniList 68 (about 9,800 members); MangaUpdates 6.54 (138 votes). | AniList API; MangaUpdates API |
 | Christian, feminist, parent guides | — | No review found in search. | none |
@@ -238,11 +238,11 @@ Pages actually opened:
 - Yen Press product pages for vols. 2, 3, 4, 6, 7, 8 (blurbs and OT rating; ISBNs 9781975350611, 9781975350642, 9781975350659, 9781975375188, 9781975393229, 9798855407792)
 - https://cdn01.animenewsnetwork.com/review/the-reformation-of-the-world-as-overseen-by-a-realist-demon-king/gn-1/.201296
 - https://graphicpolicy.com/tag/the-reformation-of-the-world-as-overseen-by-a-realist-demon-king/ (blurbs only)
+- https://www.siliconera.com/?p=989737 (vol. 1 review)
 
 Found in search, not opened (fetch cap reached or not prioritized):
 - https://siliconera.com/the-plotting-in-realist-demon-king-manga-is-one-of-its-finer-points (needed approval; then fetch cap reached)
-- https://www.siliconera.com/?p=989737 (fetch cap reached)
-- https://www.goodreads.com/book/show/199844050 (fetch cap reached)
+- https://www.goodreads.com/book/show/199844050 (page returned no content)
 - https://www.animenewsnetwork.com/encyclopedia/manga.php?id=26368
 - https://myanimelist.net/manga/121731/Realist_Maou_ni_Yoru_Seiikinaki_Isekai_Kaikaku
 - https://comicbookroundup.com/comic-books/reviews/yen-press/the-reformation-of-the-world-as-overseen-by-a-realist-demon-king-(2023)/3
@@ -258,5 +258,5 @@ Found in search, not opened (fetch cap reached or not prioritized):
 - [ ] V3 onward: confirm how Joan of Arc, Hijikata and Sakamoto Ryouma are portrayed, including any faith content for Joan. Affects Catholic and Christian rows and the Bushido lens.
 - [ ] Confirm the Japanese magazine and the light novel's publisher. Affects Series facts.
 - [ ] Spot-check language. Affects Language (2).
-- [ ] Reopen the Siliconera article and any later-volume reviews. Affects How readers took it.
+- [ ] Reopen the older Siliconera article from the quick read and find later-volume reviews. Affects How readers took it.
 - [ ] Re-score and sign off: update the scores, change the label to Full read, record the reviewer, delete the photos.

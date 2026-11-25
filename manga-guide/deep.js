@@ -44,6 +44,7 @@ const LENS_GROUPS = [
   ['Islamic', 'Islamic ideas: submission to God and living by His guidance'],
   ['Hindu ideas', 'Dharma, karma and rebirth; devotion to God in many forms; liberation of the soul'],
   ['Buddhist ideas', 'Suffering comes from craving; nothing is permanent; compassion and letting go bring peace'],
+  ['Taoist ideas', 'Live in harmony with the Way: naturalness, balance of yin and yang, qi, and long life'],
   ['Confucian ethics', 'Duty to parents and elders, harmony, lifelong self-cultivation'],
   ['Pantheist/New Age', 'Spirit as the universe itself: energy, oneness, manifesting'],
   ['Pagan/occult', 'Magic, spirits and nature gods; rituals, curses and pacts'],
