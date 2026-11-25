@@ -55,9 +55,9 @@ const TRAD = {
  'Shinto': 'Japan\'s native tradition of honoring kami, the spirits of nature, places, ancestors and great people, through shrines, festivals and purification. It has little fixed doctrine and is often practiced alongside Buddhism. Many manga draw on its imagery.',
  'Wiccan / Pagan': 'Modern nature-centered religions, including Wicca, Druidry and revived ancient polytheism. Many honor gods and goddesses, the seasons and the earth, and practice ritual and magic. A common Wiccan guide is "An it harm none, do what ye will."',
  'Scientologist': 'A religion founded by L. Ron Hubbard. It teaches that each person is a spiritual being (a thetan) who can recover their abilities through auditing and training, and it draws its ethics from Hubbard\'s writings.',
- 'Secular progressive': 'A non-religious outlook that stresses equality, inclusion, individual rights and reforming unjust systems. It values stories that represent people fairly and question prejudice and abuse of power.',
+ 'Progressive values': 'A non-religious outlook that stresses equality, inclusion, individual rights and reforming unjust systems. It values stories that represent people fairly and question prejudice and abuse of power.',
  'Secular humanist': 'A non-religious philosophy holding that people can live ethical, meaningful lives through reason, science and compassion, without belief in God. It values free inquiry and human dignity.',
- 'Conservative / traditional': 'A values outlook, religious or not, that prizes family, faith, duty, love of country and inherited moral norms, and is cautious about rapid social change. It values stories that honor courage, loyalty and personal responsibility.',
+ 'Traditional values': 'A values outlook, religious or not, that prizes family, faith, duty, love of country and inherited moral norms, and is cautious about rapid social change. It values stories that honor courage, loyalty and personal responsibility.',
  'Unitarian Universalist': 'A liberal religious community with no required creed, drawing on many faiths and on humanism. Members covenant around shared values such as the worth of every person, justice, the free search for truth and the interdependent web of life.',
  'Satanist': 'The non-theistic Satanism of the Church of Satan and The Satanic Temple, neither of which worships a literal devil. Both use Satan as a symbol of rebellion, personal freedom and reason. The Satanic Temple\'s tenets stress compassion, justice and bodily autonomy; the Church of Satan stresses self-interest and personal responsibility.'};
 
@@ -71,7 +71,7 @@ const LENSES = [
   ['Confucian ethics', 'A good life is built through relationships and roles: respect for parents and elders, loyalty, courtesy and lifelong self-improvement.', 'A student honoring a master, duty to family, a society kept in harmony.'],
   ['Pantheist/New Age', 'The divine is the universe itself; everything is one energy, and the mind can shape reality.', 'Cosmic oneness, spiritual energy, willing an outcome into being.'],
   ['Pagan/occult', 'A world of spirits, nature gods, curses and pacts, with magic worked through ritual.', 'Summoning, contracts with demons, shrines and spirit worlds treated as real.'],
-  ['Moralistic therapeutic deism', 'A term from sociologist Christian Smith for a common modern belief: God wants people to be nice and happy, and steps in mainly when needed.', 'A vague kindly higher power, and goodness as simply being pleasant.']]],
+  ['Feel-good faith', 'What sociologist Christian Smith calls moralistic therapeutic deism, a term for a common modern belief: God wants people to be nice and happy, and steps in mainly when needed.', 'A vague kindly higher power, and goodness as simply being pleasant.']]],
  ['Meaning and purpose', [
   ['Secular humanism', 'Reason, science and compassion are enough to live well; meaning and ethics are made by people.', 'People solving problems together without divine help, faith in human progress.'],
   ['Naturalism', 'Only the natural world exists; mind and morality have natural explanations.', 'Every mystery turns out to have a scientific cause.'],
@@ -88,12 +88,12 @@ const LENSES = [
   ['Expressive individualism', 'Your truest self is found inside, in your feelings and desires, and a good life is expressing it whatever others expect.', '"Be true to yourself" against family or society.'],
   ['Hedonism', 'Pleasure and enjoyment are the main good in life.', 'Characters who live for fun, comfort or indulgence, shown as freeing or as empty.'],
   ['Consumerism', 'Happiness comes from buying, owning and status.', 'Wealth, brands and fame as the goal.'],
-  ['Might makes right', 'The strong have the right to rule and to take what they want.', 'Villains or whole worlds where power decides everything, often challenged by the hero.']]],
+  ['Strength rules', 'The strong deserve to win, rule and take what they want; the weak have no claim on them.', 'Villains or whole worlds where power decides everything, often challenged by the hero.']]],
  ['Society and politics', [
   ['Traditionalism', 'Inherited customs, roles, faith and institutions carry wisdom and should be kept.', 'Honoring ancestors, keeping old ways, respected elders.'],
   ['Progressivism', 'Society should keep reforming toward greater equality and freedom from old restrictions.', 'Breaking unjust rules, outsiders winning acceptance.'],
   ['Communitarianism', 'People flourish in strong communities built by free members who take responsibility for each other.', 'A found family, a team or a village pulling together.'],
-  ['Collectivism/authoritarianism', 'The group or the state comes before the individual, and order is enforced from above.', 'A controlling regime, shown as necessary or as the enemy.'],
+  ['Authoritarianism', 'People should obey a ruler, state or system over their own conscience, with order enforced from above. (Putting the group first by free choice is a different idea: see communitarianism and Confucian ethics.)', 'A controlling regime, shown as necessary or as the enemy.'],
   ['Libertarianism', 'As much personal freedom as possible, and as little control by governments or others.', 'Rebels against control, self-reliant heroes.'],
   ['Critical theory', 'Society is shaped by power: dominant groups hold others down, and the hidden structures should be exposed.', 'Unjust social systems, prejudice built into institutions.'],
   ['Marxism', 'Karl Marx\'s view of history as class struggle, with owners exploiting workers.', 'Exploited laborers, corrupt elites, revolution.'],

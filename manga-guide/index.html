@@ -541,10 +541,18 @@ input[type=search],select{border:2px solid var(--line);border-radius:4px;backgro
 const $ = (s, el = document) => el.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 let D = null;
-const state = {q:'', analyzed:false, maxLevel:'any', pub:'', sort:'popularity', idea:'Classical virtue ethics', profile:'Techno-Puritan', maxInt:'any', genre:'', adult:false, age:''};
+const state = {q:'', analyzed:false, maxLevel:'any', pub:'', sort:'popularity', idea:'Classical virtue ethics', profile:'', maxInt:'any', genre:'', adult:false, age:''};
 try { Object.assign(state, JSON.parse(localStorage.getItem('mwg-state2') || '{}')); } catch (e) {}
 // Nov 24: Techno-Puritan is the starting tradition; anyone still on the old default moves to it once
-if (!state.tp1) { if (state.profile === 'Christian (any)') state.profile = 'Techno-Puritan'; state.tp1 = 1; }
+if (!state.tp1) { state.tp1 = 1; }
+// Nov 25: the guide opens with no tradition picked (neutral start); the shop's own Techno-Puritan lens stays one choice among the rest.
+// Display names follow Pew's Religious Landscape Study where it has one; political outlooks are grouped as values, not faiths.
+const FRAME_RENAME = {'Conservative / traditional':'Traditional values','Secular progressive':'Progressive values'};
+const LENS_RENAME = {'Might makes right':'Strength rules','Collectivism/authoritarianism':'Authoritarianism','Moralistic therapeutic deism':'Feel-good faith'};
+if (!state.tp2) { if (state.profile === 'Techno-Puritan' && !state.picked) state.profile = ''; state.tp2 = 1; }
+if (FRAME_RENAME[state.profile]) state.profile = FRAME_RENAME[state.profile];
+if (LENS_RENAME[state.idea]) state.idea = LENS_RENAME[state.idea];
+const pName = p => p || 'no tradition yet';
 const save = () => { try { localStorage.setItem('mwg-state2', JSON.stringify(state)); } catch (e) {} };
 
 const GRADES = ['S','A','B','C','D','F'];
@@ -553,8 +561,37 @@ const coverSrc = (s, size='small') => s.cover ? s.cover.replace('/medium/', '/' 
 const coverImg = (s, cls='cover', size='small', eager=false) => s.cover ? `<img class="${cls}" src="${esc(coverSrc(s, size))}" alt="Cover of ${esc(s.title)}" ${eager?'':'loading="lazy" '}decoding="async" referrerpolicy="no-referrer" onerror="this.removeAttribute('src');this.alt=''">` : `<span class="${cls}"></span>`;
 const GRADE_TEXT = {S:['Excellent fit','Affirms core values, little to raise'],A:['Strong fit','A few small concerns'],B:['Good with talk','Some things to discuss'],C:['Mixed','Real concerns alongside good themes'],D:['Serious concerns','Many would wait or read together'],F:['Conflicts','At odds with core teaching throughout']};
 let CHRISTIAN = [], GROUPS = [];
-function setGroups(g) { CHRISTIAN = g[0][1]; GROUPS = g.map(([n, items], i) => [n, i === 0 ? ['Techno-Puritan', 'Christian (any)', ...items] : items]); }
-const PILLS = ['Techno-Puritan','Christian (any)','Catholic','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Eastern Orthodox','Orthodox Jewish','Muslim','Conservative / traditional','Secular progressive'];
+const GROUP_PLAN = [
+  ['Christian', ['Christian (any)', 'Catholic', 'Eastern Orthodox', 'Lutheran', 'Reformed / Presbyterian', 'Methodist / Wesleyan', 'Anglican / Episcopal', 'Baptist', 'Non-denominational Evangelical', 'Pentecostal / Charismatic', 'Anabaptist (Mennonite, Amish, Brethren)', 'Seventh-day Adventist', 'Mainline progressive Protestant']],
+  ['Other Christian traditions', ['Latter-day Saint', "Jehovah's Witness", 'Christian Science']],
+  ['Jewish', ['Orthodox Jewish', 'Conservative Jewish', 'Reform Jewish']],
+  ['Muslim', ['Muslim']],
+  ['Hindu, Buddhist, Sikh and Shinto', ['Hindu', 'Buddhist', 'Sikh', 'Shinto']],
+  ['Other religions', ["Bahá'í", 'Unitarian Universalist', 'Wiccan / Pagan', 'Satanist', 'Scientologist']],
+  ['Values, not a religion', ['Secular humanist', 'Traditional values', 'Progressive values']],
+  ["The Blessed Fig Tree's own lens", ['Techno-Puritan']]];
+function setGroups(g) {
+  const have = new Set(g.flatMap(x => x[1])), synth = new Set(['Christian (any)', 'Techno-Puritan']), placed = new Set();
+  GROUPS = GROUP_PLAN.map(([n, items]) => [n, items.filter(x => synth.has(x) || have.has(x))]).filter(x => x[1].length);
+  GROUPS.forEach(x => x[1].forEach(v => placed.add(v)));
+  const rest = [...have].filter(x => !placed.has(x)); if (rest.length) { const o = GROUPS.find(x => x[0] === 'Other religions'); if (o) o[1].push(...rest); else GROUPS.push(['Other', rest]); }
+  // "Christian (any)" is the middle grade across every Christian church, as Pew counts them (including Latter-day Saints and Jehovah's Witnesses)
+  CHRISTIAN = GROUPS.filter(x => x[0] === 'Christian' || x[0] === 'Other Christian traditions').flatMap(x => x[1]).filter(x => !synth.has(x));
+}
+const LABEL = v => v === 'Techno-Puritan' ? "Techno-Puritan (the shop's own lens)" : v;
+function renameData(d) {
+  const fr = n => FRAME_RENAME[n] || n, lr = n => LENS_RENAME[n] || n;
+  d.frames = (d.frames || []).map(fr); d.groups = (d.groups || []).map(([n, items]) => [n, items.map(fr)]); d.lenses = (d.lenses || []).map(lr);
+  d.series.forEach(s => { const e = s.entry; if (!e) return; (e.frames || []).forEach(f => f.frame = fr(f.frame)); (e.lenses || []).forEach(l => { const o = l.lens; l.lens = lr(o); if (!l.label || l.label === o) l.label = l.lens; });
+    if (typeof e.dominant === 'string') for (const [a, b] of Object.entries(LENS_RENAME)) e.dominant = e.dominant.split(a).join(b); });
+  return d;
+}
+function renameReasons(d) {
+  for (const [a, b] of Object.entries(FRAME_RENAME)) { if (d.frames && d.frames[a]) { d.frames[b] = d.frames[a]; delete d.frames[a]; }
+    Object.values(d.entries || {}).forEach(x => { const t = x && x.talking; if (t && t[a] != null) { t[b] = t[a]; delete t[a]; } }); }
+  return d;
+}
+const PILLS = ['Christian (any)','Catholic','Baptist','Non-denominational Evangelical','Pentecostal / Charismatic','Eastern Orthodox','Orthodox Jewish','Muslim','Traditional values','Progressive values','Techno-Puritan'];
 
 function provisional(f, overall) {
   if (f.est) return {g: f.grade, prov: true};
@@ -583,7 +620,7 @@ const HOPE = {G:['God or something beyond us','The story finds hope in God, the 
 const HOPE_ORDER = ['G','R','F','L','E','S','P','K','J','N'];
 const hopeName = k => k === 'N' ? 'Finds little hope' : 'Finds hope in ' + HOPE[k][0].charAt(0).toLowerCase() + HOPE[k][0].slice(1);
 const outlookChip = s => s.hope && HOPE[s.hope] ? `<span class="ol ol-${s.hope === 'N' ? 'b' : 'h'}" title="${esc(HOPE[s.hope][1])}${s.hopeEst ? ' (estimated from the analysis)' : ''}">${esc(hopeName(s.hope))}</span>` : '';
-const PLAIN = {'Classical virtue ethics':'virtue and character','Communitarianism':'community and belonging','Expressive individualism':'being true to yourself','Pragmatism':'practical problem-solving','Hedonism':'pleasure-seeking','Might makes right':'"might makes right"','Existentialism':'making your own meaning','Absurdism':'finding meaning in absurdity','Nihilism':'nihilism (nothing matters)','Anti-natalism':'anti-natalism','Collectivism/authoritarianism':'authoritarian control','Consumerism':'consumerism','Critical theory':'critique of power','Feminism':'feminism','Postmodernism':'postmodernism','Environmentalism':'care for nature','Libertarianism':'personal freedom','Traditionalism':'tradition','Progressivism':'progressive change','Confucian ethics':'duty and respect for elders','Stoicism':'Stoic self-control','Utilitarianism':'the greater good','Secular humanism':'secular humanism','Naturalism':'naturalism','Transhumanism':'transhumanism','Moralistic therapeutic deism':'"be nice, God wants you happy"','Pagan/occult':'pagan or occult ideas','Pantheist/New Age':'New Age spirituality','Dharmic (Hindu/Buddhist)':'Hindu or Buddhist ideas','Marxism':'Marxism','Christian':'Christian ideas','Jewish':'Jewish ideas','Islamic':'Islamic ideas'};
+const PLAIN = {'Classical virtue ethics':'virtue and character','Communitarianism':'community and belonging','Expressive individualism':'being true to yourself','Pragmatism':'practical problem-solving','Hedonism':'pleasure-seeking','Strength rules':'"the strong deserve to win"','Existentialism':'making your own meaning','Absurdism':'finding meaning in absurdity','Nihilism':'nihilism (nothing matters)','Anti-natalism':'anti-natalism','Authoritarianism':'authoritarian control','Consumerism':'consumerism','Critical theory':'critique of power','Feminism':'feminism','Postmodernism':'postmodernism','Environmentalism':'care for nature','Libertarianism':'personal freedom','Traditionalism':'tradition','Progressivism':'progressive change','Confucian ethics':'duty and respect for elders','Stoicism':'Stoic self-control','Utilitarianism':'the greater good','Secular humanism':'secular humanism','Naturalism':'naturalism','Transhumanism':'transhumanism','Feel-good faith':'"be nice, God wants you happy"','Pagan/occult':'pagan or occult ideas','Pantheist/New Age':'New Age spirituality','Dharmic (Hindu/Buddhist)':'Hindu or Buddhist ideas','Marxism':'Marxism','Christian':'Christian ideas','Jewish':'Jewish ideas','Islamic':'Islamic ideas'};
 const plain = l => PLAIN[l.lens] || (l.label || l.lens || '').toLowerCase();
 function ideasLine(e) {
   const ls = e && e.lenses || [], by = k => ls.filter(l => stanceKey(l.stance) === k).sort((a,b)=>(b.strength||0)-(a.strength||0));
@@ -647,7 +684,7 @@ function row(s, tile, body = '', chips = '') {
   return `<a class="row" href="${link(s)}">${coverGrade(s, tile)}<div style="min-width:0"><div class="t">${esc(s.title)}</div>${m ? `<div style="display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center">${mfLine(s)}${pushBar(m)}</div>` : ''}${philo(s)}${body}<div class="sub">${subline(s)}</div><div class="chips">${outlookChip(s)}${chips}${mat}${confChip(s)}</div></div></a>`;
 }
 function profileSelect(id, p) {
-  return `<select id="${id}" aria-label="Your tradition">${GROUPS.map(([g, items])=>`<optgroup label="${g}">${items.map(v=>`<option ${v===p?'selected':''}>${esc(v)}</option>`).join('')}</optgroup>`).join('')}</select>`;
+  return `<select id="${id}" aria-label="Your tradition"><option value="" ${p?'':'selected'}>Choose your tradition to see grades</option>${GROUPS.map(([g, items])=>`<optgroup label="${esc(g)}">${items.map(v=>`<option value="${esc(v)}" ${v===p?'selected':''}>${esc(LABEL(v))}</option>`).join('')}</optgroup>`).join('')}</select>`;
 }
 
 const inGenre = s => !state.genre || (s.genres||[]).includes(state.genre);
@@ -808,7 +845,7 @@ function viewBrowse() {
   const p = state.profile;
   list = sortSeries(list, state.sort, p);
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>All manga</h1>
-    <p class="lede">Every English-licensed manga in the catalog. Each analyzed series opens with what it argues about life. Grades are shown for <strong>${esc(p)}</strong>; change that on <a href="#start">Find manga</a>.</p></div>
+    <p class="lede">Every English-licensed manga in the catalog. Each analyzed series opens with what it argues about life. Grades are shown for <strong>${esc(pName(p))}</strong>; change that on <a href="#start">Find manga</a>.</p></div>
     <div class="controls" role="search">
       <div class="ctl-main"><label for="q" class="grow">Search title or creator<input id="q" type="search" value="${esc(state.q)}" placeholder="e.g. Frieren, Oda"></label>
       ${sortSelect('sort', state.sort)}</div>
@@ -904,10 +941,12 @@ function viewIdeas() {
   const dir = IDEA_DIRS.some(([k])=>k===state.ideaDir) ? state.ideaDir : '';
   const rows = sortIdeaRows(dir ? all.filter(r=>r.d===dir) : all, key, p);
   const cnt = k => all.filter(r=>r.d===k).length;
-  const mine = key === 'grade' ? s => { const f = s.entry && fitFor(s.entry, p); return `<span class="chip" style="font-weight:700" title="${f ? esc(GRADE_TEXT[f.g][0]) : 'Not graded yet'} for ${esc(p)}">Your grade (${esc(p)}): ${f ? f.g : '–'}</span>`; } : () => '';
+  const mine = key === 'grade' ? s => { const f = s.entry && fitFor(s.entry, p); return `<span class="chip" style="font-weight:700" title="${f ? esc(GRADE_TEXT[f.g][0]) : 'Not graded yet'} for ${esc(pName(p))}">Your grade (${esc(pName(p))}): ${f ? f.g : '–'}</span>`; } : () => '';
   return `<div class="stack"><div class="stack" style="gap:8px"><h1>By philosophy</h1>
     <p class="lede">Pick a philosophy or worldview to see which manga sit closest to it. S means the story strongly affirms it, C means it explores the idea without settling, and D or F means it critiques it.</p></div>
-    <div class="controls"><div class="ctl-main ideas-ctl"><label for="idea" class="grow">Philosophy or worldview<select id="idea">${names.map(l=>`<option ${state.idea===l?'selected':''}>${esc(l)}</option>`).join('')}</select></label>
+    <div class="controls"><div class="ctl-main ideas-ctl"><label for="idea" class="grow">Philosophy or worldview<select id="idea">${(()=>{ const LG = window.LENS_GROUPS || [], seen = new Set(), opt = l => { seen.add(l); return `<option ${state.idea===l?'selected':''}>${esc(l)}</option>`; };
+      const gs = LG.map(([g, ls]) => { const xs = ls.map(x=>x[0]).filter(l=>names.includes(l)); return xs.length ? `<optgroup label="${esc(g)}">${xs.map(opt).join('')}</optgroup>` : ''; }).join('');
+      const rest = names.filter(l=>!seen.has(l)); return gs + (rest.length ? `<optgroup label="Other">${rest.map(opt).join('')}</optgroup>` : ''); })()}</select></label>
       <label for="isort">Sort by<select id="isort">${IDEA_SORTS.map(([k,l])=>`<option value="${k}" ${key===k?'selected':''}>${l}</option>`).join('')}</select></label>
       <label for="idir">Stance<select id="idir">${IDEA_DIRS.map(([k,l])=>`<option value="${k}" ${dir===k?'selected':''}>${l} (${k ? cnt(k) : all.length})</option>`).join('')}</select></label>
       ${key === 'grade' ? `<label for="profile4">Grades for${profileSelect('profile4', p)}</label>` : ''}</div></div>
@@ -930,7 +969,7 @@ function sortIdeaRows(rows, key, p) {
 }
 
 let R = null, RLOAD = null, WHY = null, CUR = null;
-const loadReasons = () => RLOAD || (RLOAD = fetch('reasons.json', {cache: 'no-cache'}).then(r=>r.json()).then(d=>TLOAD.then(t=>{ if (t) d.frames[t.name] = t.guide; return d; })).then(d=>{ R = d; return d; }).catch(()=>{ RLOAD = null; return null; }));
+const loadReasons = () => RLOAD || (RLOAD = fetch('reasons.json', {cache: 'no-cache'}).then(r=>r.json()).then(renameReasons).then(d=>TLOAD.then(t=>{ if (t) d.frames[t.name] = t.guide; return d; })).then(d=>{ R = d; return d; }).catch(()=>{ RLOAD = null; return null; }));
 const TOPIC_WORDS = [
   ['Same-sex relationships and gender identity', /same-sex|\bgay\b|lesbian|boys' love|girls' love|\bBL\b|\byuri\b|transgender|gender identity|cross-?dress|LGBT|shounen ai|shoujo ai/i],
   ['Sexuality, nudity and modesty', /sex|nud|fan ?service|modest|lust|chastit|purity|ecchi|suggestive|underwear|harem|kiss|romance|erotic/i],
@@ -1111,10 +1150,14 @@ function viewMethod() {
   <p>The grade is about the message: how well what the series holds up as good fits the tradition's teaching, including its own teaching on art and stories. It is not lowered just because a series is intense. What is shown on the page is rated separately as a <strong>depiction concern</strong> for each tradition: Minor (little to raise), Discuss (worth talking through) or Significant (many families would hold off or read together).</p><p>A grade with a dashed border is provisional. It is worked out from the depiction concern until the entry is graded directly. A row marked "Older combined grade" was written before the tradition was split into branches and will be re-graded.</p>
   <h2>How a grade is reached, step by step</h2><ol>
   <li><strong>Gather the story facts.</strong> From official synopses, publisher ratings, parent guides, reviews and database tags, we note what the series shows and how it frames it: who wins, who is shown sympathetically, what is rewarded and what has consequences.</li>
-  <li><strong>Read them through each tradition's guide.</strong> Each of the ${GROUPS.flatMap(g=>g[1]).length - 1} traditions has a written guide: its core beliefs, what it values and forbids, its position on twelve common topics (violence, sexuality, magic and spirits, other religions, authority, death and more), and its own teaching on art and stories. The guides are listed below.</li>
+  <li><strong>Read them through each tradition's guide.</strong> Each of the ${GROUPS.flatMap(g=>g[1]).filter(x=>x!=='Christian (any)').length} traditions has a written guide: its core beliefs, what it values and forbids, its position on twelve common topics (violence, sexuality, magic and spirits, other religions, authority, death and more), and its own teaching on art and stories. The guides are listed below.</li>
   <li><strong>Grade the message.</strong> For each tradition we ask: does the series endorse what it shows or only depict it? Is evil framed as evil? Are there consequences? Is repentance, redemption or justice possible? How are sacred things treated? The answer becomes the S to F grade, with one line on what fits and one on what may concern.</li>
   <li><strong>Rate the depiction concern separately.</strong> Using the mature-content scores and the tradition's teaching on depiction, we record whether what is shown is a Minor, Discuss or Significant concern for that tradition.</li>
   <li><strong>Record sources and confidence.</strong> Every entry lists the pages used, a confidence level, and what still needs checking against the printed pages.</li></ol>
+  <h2>Why these traditions, and how they are grouped</h2>
+  <p>The traditions are grouped the way the Pew Research Center's Religious Landscape Study groups American religion. Latter-day Saints, Jehovah's Witnesses and Christian Science are listed as other Christian traditions, as Pew does; each describes itself in its own guide. The Christian list is more detailed than the others because most families near our shop in Antigo are Christian, and the differences between churches matter to them. Traditional values and progressive values are outlooks, not religions: a family of any faith can hold either, so they are listed separately.</p>
+  <p>Every grade is our reading of the story through that tradition's published teaching. No church, faith or organization has reviewed or endorsed it. Corrections from clergy and members are welcome at the shop. Techno-Puritan is the lens of the shop's owner; it is offered as one choice and is never the default.</p>
+  <p>Not yet included: Historically Black Protestant churches, Hmong traditional religion, the traditions of Wisconsin's Native nations, and atheists, agnostics and people with no particular religion as separate groups. We are researching these, and for the Hmong and Native traditions we plan to ask those communities before adding anything.</p>
   <p>Every graded series has a <strong>How we reached this grade</strong> section that walks through these steps for each tradition. Deep entries also name the specific teaching cited, such as a Catechism paragraph or a verse. Quick reads show the matching positions from the tradition's guide instead, and say so.</p>
   <h2>Mature content (0 to 10)</h2>${MC_LEGEND}
   <h2>Suggested age bands</h2>${BAND_LEGEND}
@@ -1200,8 +1243,8 @@ document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !
 fetch('previews.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).then(p => { PV = p || {}; if (D && /^#[se]-/.test(location.hash)) { const y = scrollY; render(); scrollTo(0, y); } }).catch(() => {});
 const OLOAD = fetch('outlook.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).catch(() => ({}));
 const TLOAD = fetch('technopuritan.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
-fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
-  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d => TLOAD.then(t => { if (t) d.series.forEach(s => { const e = s.entry; if (!e) return; const x = t.grades[s.id ? String(s.id) : 'e-' + e.slug]; if (x && !e.frames.some(f => f.frame === t.name)) e.frames.unshift(x); }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (!GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='Techno-Puritan';
+fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(renameData).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
+  d.series.forEach(s => { const e = s.entry; if (!e) return; const x = O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d => TLOAD.then(t => { if (t) d.series.forEach(s => { const e = s.entry; if (!e) return; const x = t.grades[s.id ? String(s.id) : 'e-' + e.slug]; if (x && !e.frames.some(f => f.frame === t.name)) e.frames.unshift(x); }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (state.profile && !GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='';
   $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
   .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
 </script>

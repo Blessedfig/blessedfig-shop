@@ -46,7 +46,7 @@ const LENS_GROUPS = [
   ['Confucian ethics', 'Duty to parents and elders, harmony, lifelong self-cultivation'],
   ['Pantheist/New Age', 'Spirit as the universe itself: energy, oneness, manifesting'],
   ['Pagan/occult', 'Magic, spirits and nature gods; rituals, curses and pacts'],
-  ['Moralistic therapeutic deism', 'Be nice and be happy; God is mainly there to help when needed']]],
+  ['Feel-good faith', 'Be nice and be happy; God is mainly there to help when needed']]],
  ['Meaning and purpose', [
   ['Secular humanism', 'Meaning and morality come from human reason and compassion, without God'],
   ['Naturalism', 'Only the natural world exists; nothing supernatural'],
@@ -63,18 +63,19 @@ const LENS_GROUPS = [
   ['Expressive individualism', 'Be true to yourself; your inner feelings define who you are'],
   ['Hedonism', 'Pleasure and enjoyment are the main point of life'],
   ['Consumerism', 'Happiness through buying, owning and status'],
-  ['Might makes right', 'The strongest decide what is right']]],
+  ['Strength rules', 'The strong deserve to win and to rule']]],
  ['Society and politics', [
   ['Traditionalism', 'Keeping inherited customs, roles and faith'],
   ['Progressivism', 'Society should keep reforming toward greater equality'],
   ['Communitarianism', 'Community first, built by free people rather than imposed'],
-  ['Collectivism/authoritarianism', 'The group or state comes before the person, enforced from above'],
+  ['Authoritarianism', 'Obey the ruler, state or system over your own conscience'],
   ['Libertarianism', 'As much personal freedom as possible, as little control as possible'],
   ['Critical theory', 'Society is shaped by oppressor and oppressed groups'],
   ['Marxism', 'History as class struggle; owners exploit workers'],
   ['Feminism', 'Challenging limits placed on women and girls'],
   ['Postmodernism', 'No single truth; every big story about the world is suspect'],
   ['Environmentalism', 'Protecting nature; people as its stewards or its threat']]]];
+window.LENS_GROUPS = LENS_GROUPS; // the By philosophy picker groups its list with these headings
 // Message delivery. Series data: entry.delivery = {style, preachiness 0-10, opposing_views, personified[]}. Missing = unknown, not neutral.
 const DELIVERY = [['subtle', 'Subtly: left for the reader to find'], ['woven', 'Woven into the story'], ['open', 'Openly: it says its message plainly'], ['embodied', 'Through characters who stand for an idea'], ['', 'No preference']];
 const PREACH_TARGET = {subtle: 2, woven: 4.5, open: 7.5};
