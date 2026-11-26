@@ -405,8 +405,10 @@ body { position: relative; background: #1a2a46; padding-bottom: 0; }
 /* canopy: back foliage, the lantern branch, front foliage, then the robin */
 .cn { position: absolute; z-index: -1; left: 0; right: 0; top: 0; height: calc(86px * var(--s)); overflow: hidden; }
 .cn i { position: absolute; left: 0; right: 0; top: 0; height: calc(86px * var(--s)); background-repeat: repeat-x; background-position: 50% 0; }
-.cn-back  { background-image: url(img/t_canopy_back.png);  background-size: calc(480px * var(--s)) calc(344px * var(--s)); }
-.cn-front { background-image: url(img/t_canopy_front.png); background-size: calc(480px * var(--s)) calc(344px * var(--s)); }
+/* Nov 26: fig-leaf canopy redrawn with ChatGPT in the same pixel style as the trunk and roots */
+.cn-back  { background-image: url(img/t_canopy_back2.png);  background-size: calc(257px * var(--s)) calc(344px * var(--s)); }
+.cn-front { background-image: url(img/t_canopy_front2.png); background-size: calc(257px * var(--s)) calc(344px * var(--s)); transform: translateY(calc(-22px * var(--s))); }
+.cn-back { transform: translateY(calc(-10px * var(--s))); }
 .cn-branch { background-image: url(img/t_branch.png); background-size: calc(480px * var(--s)) calc(172px * var(--s)); }
 .robin { position: absolute; z-index: 4; left: calc(50% + 21px * var(--s)); top: calc(29px * var(--s)); width: calc(30px * var(--s)); height: calc(22px * var(--s));
   background: url(img/t_robin.png) 0 0 / calc(240px * var(--s)) calc(22px * var(--s)) no-repeat; }
