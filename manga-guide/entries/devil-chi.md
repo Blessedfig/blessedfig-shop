@@ -180,7 +180,7 @@ Japanese source culture: The secret-identity school romcom, the class beauty who
 
 **Symbols and motifs.** Wings hidden under a school uniform; a contract (ch. 1); a childhood promise half-remembered; erased memories.
 
-**Traditions it echoes.** The monster-girl and secret-identity romcom (MangaUpdates compares it, through one reader, to My Monster Secret / Jitsu wa Watashi wa), Beauty and the Beast with the roles turned, and the old fairy-tale lesson not to judge by appearance. For religious readers the reversal of angels and demons cuts against their own stories.
+**Traditions it echoes.** The monster-girl and secret-identity romcom (one MangaUpdates reader likens it to the romcom Jitsu wa Watashi wa), Beauty and the Beast with the roles turned, and the old fairy-tale lesson not to judge by appearance. For religious readers the reversal of angels and demons cuts against their own stories.
 
 **How each lens is portrayed.** Expressive individualism is affirmed: Yomi should be loved as she is. Communitarianism is affirmed in friendship. Pagan and occult elements are comic furniture. Christian imagery is borrowed and turned around.
 
