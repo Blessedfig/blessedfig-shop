@@ -47,7 +47,7 @@ footer{max-width:1000px;margin:0 auto;padding:10px 20px 40px;color:var(--muted);
 <p>Wild berries, nuts, greens and mushrooms in the county forests, state wildlife areas and national forest around Antigo: what grows where, when it's ready, what you may pick on each kind of land, and a map for every natural area.</p>
 <a class="cta" href="foraging/map/">Open the county map</a><a class="cta ghost" href="foraging/places/">Maps by place</a><a class="cta ghost" href="foraging/guide/">Guide &amp; harvest ecology</a>
 </div></section>
-<nav class="jump"><a href="#climate">Climate &amp; seasons</a><a href="#food">What you can find</a><a href="#land">Where it grows</a><a href="#hunting">Hunting &amp; fishing</a><a href="#history">History</a><a href="#maps">Maps</a><a href="#rules">Rules</a></nav>
+<nav class="jump"><a href="#climate">Climate &amp; seasons</a><a href="#food">What you can find</a><a href="foraging/field-guide/">Field guide</a><a href="#land">Where it grows</a><a href="#hunting">Hunting &amp; fishing</a><a href="#history">History</a><a href="#maps">Maps</a><a href="#rules">Rules</a></nav>
 <main>
 
 <h2 id="climate">The climate you're foraging in</h2>
@@ -61,6 +61,7 @@ footer{max-width:1000px;margin:0 auto;padding:10px 20px 40px;color:var(--muted);
 <p class="mut">Frost dates are medians of the complete years in NOAA's Antigo record, 1991–2025. Soil temperature is from our model fitted to the Wisconet weather station at the Antigo airport. South-facing slopes run a few days ahead of these dates; cedar swamps, north slopes and frost-pocket basins run a week or more behind. The <a href="foraging/map/">map</a> works this out for each place.</p>
 
 <h2 id="food">What you can find, and when</h2>
+<p class="lead"><a href="foraging/field-guide/" style="font-weight:700">Open the field guide →</a> photos, flavor, kitchen ideas and safe preparation for every item below.</p>
 <p class="lead">Each bar shows the months an item is typically ready around Antigo; darker months were ready in more of the past 35 years. The note under each name says where in Langlade to look.</p>
 <div id="cats"></div>
 
@@ -112,7 +113,7 @@ Promise.all(['species','places','rules'].map(n=>fetch('foraging/data/'+n+'.json'
   box.insertAdjacentHTML('beforeend',`<div class="cat"><div class="hd"><h3>${name}</h3><span class="mut">${esc(note)}</span></div>
   <div class="months" style="margin-left:calc(min(40%,240px))"></div>
   ${list.map(s=>{const v=months(s);const when=s.first?`${s.first} – ${s.last}`:(s.weeks&&s.weeks.every(x=>x===1)?'all year':'');
-   return `<div class="sp"><div><b>${esc(s.n)}</b>${s.kind==='fungus'?' <span class="fx">expert ID only</span>':''}<div class="where">${esc(s.note)}</div></div>
+   return `<div class="sp"><div><b><a href="foraging/field-guide/${s.k}/">${esc(s.n)}</a></b>${s.kind==='fungus'?' <span class="fx">expert ID only</span>':''}<div class="where">${esc(s.note)}</div></div>
    <div><div class="bar">${v.map((x,i)=>`<i title="${MON[i]}" style="background:${x>.05?`rgba(61,107,79,${.15+.85*x})`:'#eee'}"></i>`).join('')}</div><div class="months">${MON.map(m=>`<span>${m[0]}</span>`).join('')}</div><div class="where">${when?'Typically '+when+'. ':''}${esc(s.steward||'')}</div></div></div>`}).join('')}</div>`);}
  const feat=['ackley-wildlife-area','peters-marsh-wildlife-area','jack-lake-area-county-forest','game-lake-veterans-memorial-park','ice-age-trail-kettlebowl-segment','ice-age-trail-parrish-hills-segment','ada-lake-recreation-area','boulder-lake-recreation-area','the-nicolet-roche','upper-wolf-river-fishery-area','moccasin-lake','kelly-lynn-bog-state-natural-area'];
  const ml=document.querySelector('#maplist');

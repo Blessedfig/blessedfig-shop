@@ -69,7 +69,7 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
 <header>
   <div><h1>Langlade County Foraging &amp; Day-Trip Map</h1>
   <div class="sub">Wild berries, nuts, greens and mushrooms on public land, by season and by place. From The Blessed Fig Tree, 800 5th Ave, Antigo.</div></div>
-  <a class="home" href="foraging/" style="margin-left:auto">Foraging home</a><a class="home" href="foraging/places/" style="margin-left:8px">Place maps</a><a class="home" href="foraging/guide/" style="margin-left:8px">Guide &amp; ecology</a><a class="home" href="./" style="margin-left:8px">← Bookstore</a>
+  <a class="home" href="foraging/" style="margin-left:auto">Foraging home</a><a class="home" href="foraging/field-guide/" style="margin-left:8px">Field guide</a><a class="home" href="foraging/places/" style="margin-left:8px">Place maps</a><a class="home" href="foraging/guide/" style="margin-left:8px">Guide &amp; ecology</a><a class="home" href="./" style="margin-left:8px">← Bookstore</a>
 </header>
 <div class="bar">
   <label for="week">Week</label><input id="week" type="range" min="0" max="51"><span id="weeklabel"></span>
@@ -121,6 +121,7 @@ async function j(u){const r=await fetch(D+u);return r.json();}
   for(const s of SP){const o=document.createElement('option');o.value=s.k;o.textContent=s.n;(s.kind==='fungus'?$('#og-m'):$('#og-p')).appendChild(o);}
   $('#modes').innerHTML=Object.entries(MODES).map(([k,v])=>`<button class="chip${k==='all'?' on':''}" data-m="${k}">${v}</button>`).join('');
   ST.week=todayWeek();$('#week').value=ST.week;
+  const qsp=new URLSearchParams(location.search).get('sp');if(qsp&&SPM[qsp]){ST.sp=qsp;$('#spf').value=qsp;ST.color='season';document.querySelectorAll('#colorby .chip').forEach(b=>b.classList.toggle('on',b.dataset.c==='season'));}
   initMap();renderAll();
   $('#week').addEventListener('input',e=>{ST.week=+e.target.value;renderAll();});
   $('#spf').addEventListener('change',e=>{ST.sp=e.target.value;if(ST.sp)setColor('season');else renderAll();if(ST.sp)tab('species');});
@@ -347,7 +348,7 @@ function renderTrips(){const list=TRIPS.filter(t=>ST.mode==='all'||t.mode===ST.m
 function renderSpecies(){const list=ST.sp?SP.filter(s=>s.k===ST.sp):SP;
   const grp=k=>list.filter(s=>(s.kind==='fungus')===(k==='m'));
   const one=s=>{let ac=0;if(UN){const i=UN.species.indexOf(s.k);for(const u of UN.rows.values())if(u.lv[i]==='2'&&RULES.owners[OWNK[u.own]].allow.includes(s.cat))ac+=u.ha*2.471;}
-   return `<div style="margin:12px 0 16px"><b>${esc(s.n)}</b> <i class="muted small">${esc(s.l)}</i><span class="grade" title="How well the habitat model matched real records">evidence ${s.evid.grade}</span>
+   return `<div style="margin:12px 0 16px"><b><a href="foraging/field-guide/${s.k}/">${esc(s.n)}</a></b> <i class="muted small">${esc(s.l)}</i><span class="grade" title="How well the habitat model matched real records">evidence ${s.evid.grade}</span>
    ${seasonBar(s,0)}<div class="small">${s.first?`Typically ${s.first} to ${s.last} around Antigo (starts ${s.early} in an early year, ${s.late} in a late one).`:''} ${s.hdays?`Harvest stage lasts about ${s.hdays} days.`:''}</div>
    <div class="small">${esc(s.note)} ${s.steward?'<b>'+esc(s.steward)+'</b>':''}</div>
    ${s.look?`<div class="small" style="color:#8a3a1a">Dangerous or confusing look-alikes: ${esc(s.look)}</div>`:''}
