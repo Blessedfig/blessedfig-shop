@@ -441,14 +441,20 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
 .rb-myc { background: url(img/t_myc.png) 0 0 / 100% calc(600px * var(--s)) no-repeat; }
 .rb-ground { left: 0; right: 0; top: calc(31px * var(--s)); height: calc(32px * var(--s)); background: url(img/t_grass.png) 0 0 / calc(120px * var(--s)) calc(32px * var(--s)) repeat-x; }   /* Nov 26: thick, solid grass sod drawn with ChatGPT */
 .rb-beetle { left: 0; top: calc(39px * var(--s)); width: calc(11px * var(--s)); height: calc(6px * var(--s)); background: url(img/t_beetle.png) 0 0 / calc(22px * var(--s)) calc(6px * var(--s)) no-repeat; }
-.fd { z-index: 4; left: calc(50% - 20px * var(--s)); top: calc(18px * var(--s)); width: calc(40px * var(--s)); height: calc(30px * var(--s));
-  background: url(img/t_door.png) 0 0 / calc(80px * var(--s)) calc(30px * var(--s)) no-repeat; }
+.fd { z-index: 4; left: calc(50% - 20px * var(--s)); top: calc(8px * var(--s)); width: calc(36px * var(--s)); height: calc(38px * var(--s));
+  background: url(img/t_fdoor.png) 0 0 / calc(108px * var(--s)) calc(38px * var(--s)) no-repeat; }
+/* Nov 26: new fairy door (ChatGPT). Hover or tap and it opens; a fairy peeks out and waves. */
+@keyframes fdopen { 0% { background-position-x: 0; } 40% { background-position-x: calc(-36px * var(--s)); } 100% { background-position-x: calc(-72px * var(--s)); } }
+.fd:hover, .fd:focus-visible, .fd.on { animation: fdopen .35s steps(1, end) forwards !important; background-position-x: calc(-72px * var(--s)); }
 .gmini { left: calc(50% + 76px * var(--s)); top: calc(19px * var(--s)); width: calc(18px * var(--s)); height: calc(28px * var(--s));
   background: url(img/t_gmini.png) 0 0 / calc(180px * var(--s)) calc(28px * var(--s)) no-repeat; }
 .rb-mole { z-index: 3; left: calc(50% - 152px * var(--s)); top: calc(92px * var(--s)); width: calc(66px * var(--s)); height: calc(46px * var(--s));
   background: url(img/t_mole.png) 0 0 / calc(264px * var(--s)) calc(46px * var(--s)) no-repeat; }
-.ts { z-index: 3; left: calc(50% - 70px * var(--s)); top: calc(16px * var(--s)); width: calc(22px * var(--s)); height: calc(27px * var(--s));
-  background: url(img/t_toad.png) 0 0 / calc(88px * var(--s)) calc(27px * var(--s)) no-repeat; }
+.ts { z-index: 3; left: calc(50% - 72px * var(--s)); top: calc(9px * var(--s)); width: calc(25px * var(--s)); height: calc(34px * var(--s));
+  background: url(img/t_amanita.png) 0 0 / calc(75px * var(--s)) calc(34px * var(--s)) no-repeat; }
+/* Nov 26: bigger amanita (ChatGPT). Hover or tap: it squashes, then springs up and puffs spores. */
+@keyframes amb { 0%,100% { background-position-x: 0; } 25% { background-position-x: calc(-25px * var(--s)); } 50%,85% { background-position-x: calc(-50px * var(--s)); } }
+.ts:hover, .ts:focus-visible, .ts.on { animation: amb .7s steps(1, end) 1 !important; }
 .rb-worm { left: calc(50% + 18px * var(--s)); top: calc(-1px * var(--s)); width: calc(33px * var(--s)); height: calc(33px * var(--s)); background: url(img/t_worm.png) 0 0 / calc(264px * var(--s)) calc(33px * var(--s)) no-repeat; }
 .mo { position: absolute; z-index: 5; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(104px * var(--s)); pointer-events: auto; cursor: pointer;
   font: 800 0.8rem/1 var(--font-body); letter-spacing: 0.02em; color: var(--cream); background: var(--wood-mid); border: 4px solid var(--wood-dark);
@@ -505,7 +511,6 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
   @keyframes legs { to { background-position-x: calc(-22px * var(--s)); } }
   .rb-beetle { animation: crawl 95s linear infinite -30s, legs 0.5s steps(2) infinite; }
   @keyframes fdf { to { background-position-x: calc(-80px * var(--s)); } }
-  .fd { animation: fdf 1.7s steps(2) infinite; }
   @keyframes wig { to { background-position-x: calc(-264px * var(--s)); } }
 @keyframes burrow { to { background-position-x: calc(-264px * var(--s)); } }
 @keyframes gflap { to { background-position-x: calc(-180px * var(--s)); } }
@@ -513,7 +518,6 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
   .rb-worm { animation: wig 4.0s steps(8) infinite; }
   .rb-mole { animation: burrow 2.6s steps(4) infinite; }
   .gmini { animation: gflap 3s steps(10) infinite; }
-  .ts { animation: spore 3.4s steps(4) infinite; }
   @keyframes scn { 0%, 24.99% { background-position: 50% 0; } 25%, 49.99% { background-position: 50% 33.3333%; } 50%, 74.99% { background-position: 50% 66.6667%; } 75%, 100% { background-position: 50% 100%; } }
   .shelfscene { animation: scn 3.2s steps(1, end) infinite; }
 }
@@ -547,7 +551,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 .peek-hit { z-index: 2; background: none !important; pointer-events: auto; cursor: pointer; }
 .peek-hit:focus-visible { outline: 3px solid #f2b84b; outline-offset: 3px; }
 .peek-sophia { width: calc(32px * var(--s)); height: calc(48px * var(--s)); bottom: calc(180px * var(--s)); left: calc(50% + var(--edge) - 9px * var(--s)); background-image: url(img/t_sophia.png); }
-.rb-dion { left: max(6px, calc(50% - 205px * var(--tx))); top: calc(-12px * var(--s)); width: calc(82.67px * var(--s)); height: calc(48px * var(--s)); background: url(img/t_dionysus.png) 0 0 / 100% 100% no-repeat; }   /* Nov 26: Dionysus and his snake lounging on the grass (ChatGPT) */
+.rb-dion { z-index: 2; left: max(6px, calc(50% - 205px * var(--tx))); top: calc(6px * var(--s)); width: calc(82.67px * var(--s)); height: calc(48px * var(--s)); background: url(img/t_dionysus.png) 0 0 / 100% 100% no-repeat; }   /* Nov 26: Dionysus and his snake lounging on the grass (ChatGPT) */
 @media (max-width: 520px) { .rb-dion { left: -40px; } }   /* phones: lean in from the edge so he clears the mushroom */
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
@@ -556,7 +560,7 @@ html, body { overflow-x: clip; }
 .fd { left: calc(50% - 20px * var(--tx)); }
 .gmini { left: calc(50% + 76px * var(--tx)); }
 .rb-mole { left: calc(50% - 152px * var(--tx)); }
-.ts { left: calc(50% - 70px * var(--tx)); }
+.ts { left: calc(50% - 72px * var(--tx)); }
 .rb-worm { left: calc(50% + 18px * var(--tx)); }
 @media (max-width: 700px) { .rb-mole { left: calc(50% - 95px * var(--s)); } }
 .mo, .btn.sm { min-height: 44px; }
@@ -1122,5 +1126,6 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
   })(rows[r], r);
 })();
 </script>
-</body>
+<script>/* Nov 26: tap the fairy door or the mushroom: play its little animation first */
+document.querySelectorAll('.fd,.ts').forEach(a=>a.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse')return;a.classList.remove('on');void a.offsetWidth;a.classList.add('on');setTimeout(()=>a.classList.remove('on'),1200);}));</script></body>
 </html>
