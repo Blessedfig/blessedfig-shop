@@ -26,7 +26,7 @@ body{background:var(--paper);color:var(--ink);font:16px/1.5 var(--fb);-webkit-fo
 a{color:var(--lake)}button{font:inherit}
 header{background:var(--spruce);color:#efe8d8;padding:10px 16px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
 header h1{font:600 1.25rem/1.2 var(--fd);margin:0}header .sub{font-size:.85rem;opacity:.85}
-header a.home{color:#efe8d8;text-decoration:none;font-size:.85rem;border:1px solid #ffffff44;border-radius:999px;padding:3px 10px;margin-left:auto}
+header a.home{color:#efe8d8;text-decoration:none;font-size:.85rem;border:1px solid #ffffff44;border-radius:999px;padding:3px 10px}
 .bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:8px 12px;background:var(--sheet);border-bottom:1px solid var(--rule)}
 .bar label{font-size:.8rem;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
 .chip{border:1px solid var(--rule);background:#fff;border-radius:999px;padding:4px 11px;cursor:pointer;font-size:.9rem}
@@ -67,7 +67,7 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
 <header>
   <div><h1>Langlade County Foraging &amp; Day-Trip Map</h1>
   <div class="sub">Wild berries, nuts, greens and mushrooms on public land, by season and by place. From The Blessed Fig Tree, 800 5th Ave, Antigo.</div></div>
-  <a class="home" href="./">← Bookstore</a>
+  <a class="home" href="foraging/guide/" style="margin-left:auto">Foraging guide &amp; ecology</a><a class="home" href="./" style="margin-left:8px">← Bookstore</a>
 </header>
 <div class="bar">
   <label for="week">Week</label><input id="week" type="range" min="0" max="51"><span id="weeklabel"></span>
@@ -244,7 +244,7 @@ function renderRules(){const o=RULES.owners;
   $('#pane-rules').innerHTML=`<h2>Who owns it, and what you may pick</h2><table class="rules"><tr><th>Land</th><th>You may</th></tr>${['county','state','sna','federal','bcpl','mfl_open','private'].map(k=>`<tr><td>${ruleBadge(k)}</td><td>${esc(o[k].short)}${o[k].limits&&o[k].limits.length?'<br><span class="muted">'+o[k].limits.map(esc).join(' · ')+'</span>':''}${o[k].never&&o[k].never.length?'<br><span style="color:#8a3a1a">Never: '+o[k].never.map(esc).join('; ')+'</span>':''}${o[k].url?` <a href="${o[k].url}" target="_blank" rel="noopener">source</a>`:''}</td></tr>`).join('')}</table>
   <h3>Everywhere</h3><ul class="small">${RULES.general.map(g=>'<li>'+esc(g)+'</li>').join('')}</ul><p class="muted small">Rules checked ${RULES.checked}. Rules change; when in doubt, call the county forestry office (715-627-6300) or the DNR.</p>`;}
 function showRule(r){tab('rules');}
-function renderAbout(){$('#pane-about').innerHTML=`<h2>How this map was made</h2>
+function renderAbout(){$('#pane-about').innerHTML=`<h2>How this map was made</h2><p class="small"><a href="foraging/guide/">Read the foraging guide and harvest ecology</a>: what picking removes and what the field studies measured.</p>
  <p class="small"><b>Land owners</b> come from the 2025 Wisconsin statewide parcel map, DNR managed-lands and State Natural Area layers, and school trust land from the DNR. <b>Access areas</b> split public land by the nearest pull-off, parking lot, trailhead, landing or forest road (OpenStreetMap and the county ATV/UTV map), never across private land.</p>
  <p class="small"><b>Habitat</b> for each species is scored on a 30 m grid from WISCLAND 2 land cover, USDA Forest Inventory and Analysis plots (which trees grow in each forest type in Langlade and its seven neighboring counties), SSURGO soils (soil type, drainage, water table), USGS elevation (slope, which way hills face, heat load, frost basins, wetness), USGS tree-canopy cover, and the 24K streams and lakes. Rules are drawn from Samuel Thayer's <i>The Forager's Harvest</i> (2006) for plants and the Wisconsin Mycological Society's certification study guide for mushrooms. Each species' land-cover rules were checked against research-grade iNaturalist records within 150 km; the evidence grade (A, B, C) says how well they matched.</p>
  <p class="small"><b>Season</b> comes from thermal time. A soil-temperature model, fitted to the Wisconet station at the Antigo airport, was run over 35 years of NOAA weather records for Antigo. Each species' window is the range of heat units (growing degree days) at its iNaturalist records in the Antigo climate band, moved about 5 days per degree of latitude. Each area's timing is shifted for its elevation, slope direction, frost basins, conifer shade and wet soil.</p>
