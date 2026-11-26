@@ -456,7 +456,7 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
 @keyframes amb { 0%,100% { background-position-x: 0; } 25% { background-position-x: calc(-25px * var(--s)); } 50%,85% { background-position-x: calc(-50px * var(--s)); } }
 .ts:hover, .ts:focus-visible, .ts.on { animation: amb .7s steps(1, end) 1 !important; }
 .rb-worm { left: calc(50% + 60px * var(--s)); top: calc(-1px * var(--s)); width: calc(33px * var(--s)); height: calc(33px * var(--s)); background: url(img/t_worm.png) 0 0 / calc(264px * var(--s)) calc(33px * var(--s)) no-repeat; }
-.mo { position: absolute; z-index: 5; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(104px * var(--s)); pointer-events: auto; cursor: pointer;
+.mo { position: absolute; z-index: 5; right: max(16px, env(safe-area-inset-right, 0px)); bottom: calc(62px * var(--s)); pointer-events: auto; cursor: pointer;
   font: 800 0.8rem/1 var(--font-body); letter-spacing: 0.02em; color: var(--cream); background: var(--wood-mid); border: 4px solid var(--wood-dark);
   box-shadow: inset 0 3px 0 var(--wood-light), inset 0 -3px 0 #5e3a18; padding: 6px 12px 8px; text-shadow: 1px 1px 0 var(--wood-dark); }
 .mo:hover { filter: brightness(1.12); }
@@ -526,7 +526,7 @@ html.nomo .tree *, html.nomo .robin, html.nomo .rb-art *, html.nomo .shelfscene 
 html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 @media (max-width: 700px) {
   .rb-mole { left: calc(50% - 95px * var(--s)); top: calc(76px * var(--s)); }
-  .mo { bottom: calc(12px * var(--s)); }
+  .mo { bottom: calc(62px * var(--s)); }
 }
 
 /* ================= LAYOUT REFRESH (Nov 24) ================= */
@@ -552,14 +552,15 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 .peek-hit:focus-visible { outline: 3px solid #f2b84b; outline-offset: 3px; }
 .peek-sophia { width: calc(34px * var(--s)); height: calc(48px * var(--s)); bottom: calc(180px * var(--s)); left: calc(50% + var(--edge) - 9px * var(--s)); background-image: url(img/t_sophia_anim.png); background-size: calc(102px * var(--s)) 100%; }
 .rb-dion { z-index: 2; left: max(6px, calc(50% - 205px * var(--tx))); top: calc(0px * var(--s)); width: calc(76px * var(--s)); height: calc(56px * var(--s)); background: url(img/t_dion_anim.png) 0 0 / calc(228px * var(--s)) 100% no-repeat; }   /* Nov 26: Dionysus and his snake lounging on the grass (ChatGPT) */
-@media (max-width: 520px) { .rb-dion { left: -40px; } }
+@media (max-width: 520px) { .rb-dion { left: -40px; } .rb-art .fd { left: calc(50% - 75px); } .rb-art .rb-worm { left: calc(50% + 3px); } .rb-art .rb-books { display: none; } }   /* small phones: Christian is Dionysus-sized, so the door slides left and the worm keeps his spot without the book pile */
 @media (max-width: 700px) { .rb-art .rb-worm { left: calc(50% + 14px * var(--s)); } .rb-art .rb-books { left: calc(50% + 16px * var(--s)); } }   /* phones: the worm stays in view, just left of Christian */   /* phones: lean in from the edge so he clears the mushroom */
 /* Nov 26: hover (or tap) a god and they move (frames drawn by ChatGPT): Athena glances over and lifts her shield, the owl
    opens its wings; Sophia's lamp flares and she smiles; Dionysus drinks, then looks at you. */
 @keyframes god3 { 0% { background-position-x: 0; } 35% { background-position-x: 50%; } 75%, 100% { background-position-x: 100%; } }
 .rb-dion:hover, .rb-dion:focus-visible, .rb-dion.on, .peek.on { animation: god3 1.6s steps(1, end) forwards; }
-.rb-cg { z-index: 2; left: min(calc(100% - 44px * var(--s)), calc(50% + 120px * var(--tx))); top: calc(0px * var(--s)); width: calc(41px * var(--s)); height: calc(57px * var(--s)); background: url(img/t_cg.png) 0 0 / calc(123px * var(--s)) 100% no-repeat; pointer-events: auto; }   /* Nov 26: Christian and Goose Goose (ChatGPT), to the goose page; he waves, the goose honks */
+.rb-cg { position: absolute; display: block; cursor: pointer; image-rendering: pixelated; z-index: 2; left: min(calc(100% - 64px * var(--s)), calc(50% + 120px * var(--tx))); bottom: calc(93px * var(--s)); width: calc(62px * var(--s)); height: calc(85px * var(--s)); background: url(img/t_cg.png) 0 0 / calc(186px * var(--s)) 100% no-repeat; pointer-events: auto; }   /* Nov 26: Christian and Goose Goose (ChatGPT), Dionysus-sized, standing on the grass outside the clipped roots box; to the goose page; he waves, the goose honks */
 .rb-cg:hover, .rb-cg:focus-visible, .rb-cg.on { animation: god3 1.4s steps(1, end) forwards; }
+.rb-cg:focus-visible { outline: 3px solid #f2b84b; outline-offset: 3px; }
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
@@ -991,7 +992,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 </section>
 
 <div class="rb">
-  <a class="peek peek-hit peek-athena" href="https://en.wikipedia.org/wiki/Athena" target="_blank" rel="noopener" title="Athena" aria-label="Athena on Wikipedia"></a><a class="peek peek-hit peek-sophia" href="https://en.wikipedia.org/wiki/Sophia_(wisdom)" target="_blank" rel="noopener" title="Sophia" aria-label="Sophia (wisdom) on Wikipedia"></a><div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><i class="rb-books" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="rb-cg" href="goose.html" title="Christian and Goose Goose" aria-label="Christian and Goose Goose, the shop mascot"></a><a class="rb-dion" href="https://en.wikipedia.org/wiki/Dionysus" target="_blank" rel="noopener" title="Dionysus" aria-label="Dionysus on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy" target="_blank" rel="noopener" title="Fairies" aria-label="Fairies on Wikipedia"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="#shelves" title="What's on the shelves?" aria-label="The bookworm: see what is on the shelves inside the shop"></a></div>
+  <a class="peek peek-hit peek-athena" href="https://en.wikipedia.org/wiki/Athena" target="_blank" rel="noopener" title="Athena" aria-label="Athena on Wikipedia"></a><a class="peek peek-hit peek-sophia" href="https://en.wikipedia.org/wiki/Sophia_(wisdom)" target="_blank" rel="noopener" title="Sophia" aria-label="Sophia (wisdom) on Wikipedia"></a><a class="rb-cg" href="goose.html" title="Christian and Goose Goose" aria-label="Christian and Goose Goose, the shop mascot"></a><div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><i class="rb-books" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="rb-dion" href="https://en.wikipedia.org/wiki/Dionysus" target="_blank" rel="noopener" title="Dionysus" aria-label="Dionysus on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy" target="_blank" rel="noopener" title="Fairies" aria-label="Fairies on Wikipedia"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="#shelves" title="What's on the shelves?" aria-label="The bookworm: see what is on the shelves inside the shop"></a></div>
   <button class="mo" type="button" aria-pressed="false">Pause motion</button>
 </div>
 <script>
