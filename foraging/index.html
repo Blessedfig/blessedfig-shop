@@ -107,7 +107,8 @@ function inSeason(k,w,off){const s=SPM[k];if(!s||!s.weeks)return 0;const sh=Math
 function areaNow(a){ // species in season and legal, for the current week & filter
   const out=[];for(const [k,lvl,legal] of a.species){if(!legal)continue;if(ST.sp&&k!==ST.sp)continue;const p=inSeason(k,ST.week,a.offset_days);if(p>=0.3)out.push({k,lvl,p});}
   out.sort((x,y)=>y.lvl-x.lvl||y.p-x.p);return out;}
-const OWNC={county:'#2f7d3a',state:'#2a6db0',sna:'#6a4fb0',federal:'#8a6a20',bcpl:'#b07a2a',mfl_open:'#9aa0a0'};
+const OWNC={county:'#2f7d3a',state:'#2a6db0',sna:'#6a4fb0',federal:'#8a6a20',bcpl:'#b07a2a',mfl_open:'#9aa0a0',mfl_closed:'#c9c2b4',private:'#c9c2b4',other_public:'#7d8a97',tribal:'#b26f6f'};
+const PNAME={county:'Langlade County Forest',state:'State land (DNR)',federal:'National forest',bcpl:'School trust land',mfl_open:'Private forest open to walk-in use (no picking)',mfl_closed:'Private forest, closed to the public',private:'Private land',other_public:'Other public land (city, town or county; not a forest)',tribal:'Tribal land'};
 function tripModeOK(a){if(ST.mode==='all')return true;return TRIPS.some(t=>t.mode===ST.mode&&t.areas.includes(a.id));}
 
 async function j(u){const r=await fetch(D+u);return r.json();}
@@ -129,11 +130,12 @@ function tab(t){document.querySelectorAll('.tabs button').forEach(b=>b.classList
 let map;
 function initMap(){
   map=L.map('map',{zoomControl:true}).setView([45.24,-89.03],10);
+  map.on('moveend',parcels);
   const topo=L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}',{maxZoom:16,attribution:'USGS The National Map'}).addTo(map);
   const img=L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}',{maxZoom:16,attribution:'USGS The National Map'});
   LY.layers=L.control.layers({'Topo map':topo,'Aerial photo':img},{},{collapsed:true}).addTo(map);
   j('layer_county.geojson').then(g=>L.geoJSON(g,{style:{color:'#1d3328',weight:2,fill:false,dashArray:'6 4'},interactive:false}).addTo(map));
-  j('layer_owners.geojson').then(g=>{LY.owners=L.geoJSON(g,{style:f=>({color:OWNC[f.properties.r],weight:.6,fillColor:OWNC[f.properties.r],fillOpacity:f.properties.r==='mfl_open'?.12:.16}),
+  j('layer_owners.geojson').then(g=>{LY.owners=L.geoJSON(g,{style:f=>({color:OWNC[f.properties.r],weight:.6,fillColor:OWNC[f.properties.r],fillOpacity:f.properties.r==='mfl_open'?.18:.38}),
      onEachFeature:(f,l)=>l.on('click',e=>{if(!e.originalEvent._area)showRule(f.properties.r)})}).addTo(map);LY.owners.bringToBack();LY.layers.addOverlay(LY.owners,'Land owners');});
   j('areas.geojson').then(g=>{LY.areas=L.geoJSON(g,{style:areaStyle,onEachFeature:(f,l)=>{l.on('click',e=>{e.originalEvent._area=1;L.DomEvent.stopPropagation(e);selectArea(f.properties.id);});
      l.bindTooltip(()=>{const a=AMAP[f.properties.id];const n=areaNow(a);return `<b>${esc(a.title)}</b><br>${n.length?n.slice(0,4).map(x=>SPM[x.k].n).join(', '):'Nothing listed in season this week'}`},{sticky:true});}}).addTo(map);
@@ -146,8 +148,25 @@ function initMap(){
      LY.pts=L.geoJSON(g,{pointToLayer:(f,ll)=>L.marker(ll,{icon:L.divIcon({className:'',html:`<div style="font-size:15px;line-height:15px">${ic[f.properties.k]||'•'}</div>`,iconSize:[16,16]})}),
      onEachFeature:(f,l)=>l.bindTooltip(esc(f.properties.n||f.properties.k.replace('_',' ')))});LY.layers.addOverlay(LY.pts,'Parking, landings, trailheads');map.on('zoomend',()=>{map.getZoom()>=12?map.addLayer(LY.pts):map.removeLayer(LY.pts)});});
   const lg=L.control({position:'bottomleft'});lg.onAdd=()=>{const d=L.DomUtil.create('div','legend');d.innerHTML=
-   `<div><i style="background:${OWNC.county}"></i>County forest</div><div><i style="background:${OWNC.state}"></i>State (DNR)</div><div><i style="background:${OWNC.federal}"></i>National forest</div><div><i style="background:${OWNC.bcpl}"></i>School trust land</div><div><i style="background:${OWNC.mfl_open}"></i>Private, walk-in only (no picking)</div><div style="margin-top:3px"><i style="background:#3d6b4f;opacity:.75"></i>Access area: darker = more in season</div>`;return d;};lg.addTo(map);
+   `<div><i style="background:${OWNC.county}"></i>County forest</div><div><i style="background:${OWNC.state}"></i>State (DNR)</div><div><i style="background:${OWNC.federal}"></i>National forest</div><div><i style="background:${OWNC.bcpl}"></i>School trust land</div><div><i style="background:${OWNC.mfl_open}"></i>Private, walk-in only (no picking)</div><div><i style="background:#fff;border:1px solid #6f6a5e"></i>Private land (zoom in for property lines)</div><div style="margin-top:3px"><i style="background:#3d6b4f;opacity:.75"></i>Access area: darker = more in season</div>`;return d;};lg.addTo(map);
 }
+
+// ---- onX-style parcels: every tax parcel at zoom 13+, public in colour, private in grey (no owner names)
+let PIDX=null;const PLOADED={};
+async function parcels(){if(!map)return;if(!PIDX)PIDX=await j('parcels/index.json');
+  if(!LY.parcels){LY.parcels=L.layerGroup();LY.layers.addOverlay(LY.parcels,'Property lines (zoom in)');map.addLayer(LY.parcels);}
+  const z=map.getZoom();if(LY.owners){z>=13?map.removeLayer(LY.owners):map.addLayer(LY.owners);if(z<13)LY.owners.bringToBack();}if(z<13){LY.parcels.eachLayer(l=>l.setStyle&&0);if(map.hasLayer(LY.parcels)){LY.parcels._hidden=1;LY.parcels.eachLayer(l=>map.removeLayer(l));}return;}
+  const b=map.getBounds(),S=PIDX.size;
+  for(let i=Math.floor(b.getWest()/S);i<=Math.floor(b.getEast()/S);i++)for(let k=Math.floor(b.getSouth()/S);k<=Math.floor(b.getNorth()/S);k++){
+    const key=i+'_'+k;if(PLOADED[key]||!PIDX.tiles.includes(key))continue;PLOADED[key]=1;
+    j('parcels/'+key+'.json').then(g=>{const lyr=L.geoJSON(g,{style:f=>{const c=f.properties.c;const pub=['county','state','federal','bcpl'].includes(c);
+      return {color:pub?OWNC[c]:'#6f6a5e',weight:pub?1.2:.7,opacity:.9,fillColor:OWNC[c]||'#ccc',fillOpacity:pub?.30:(c==='mfl_open'?.22:.06)}},
+      onEachFeature:(f,l)=>{l.bindTooltip(()=>`<b>${esc(PNAME[f.properties.c]||'Private land')}</b>${f.properties.a?'<br>'+f.properties.a+' acres':''}${['private','mfl_closed'].includes(f.properties.c)?'<br>Ask the owner before entering.':''}`,{sticky:true});
+        l.on('click',e=>{if(e.originalEvent._area)return;const c=f.properties.c;const r=c==='state'?'state':(RULES.owners[c]?c:'private');showOwnerAt(e.latlng,r,c);});}});
+      PLOADED[key]=lyr;LY.parcels.addLayer(lyr);if(LY.areas)LY.areas.bringToFront();});}
+  LY.parcels.eachLayer(l=>{if(!map.hasLayer(l))map.addLayer(l);});}
+function showOwnerAt(ll,r,c){tab('here');ST.sel=null;if(LY.areas)LY.areas.setStyle(areaStyle);const o=RULES.owners[r];
+  $('#pane-here').innerHTML=`<h2>${esc(PNAME[c]||o.name)}</h2><div class="rulebox">${esc(o.short)}${o.url?` <a class="small" href="${o.url}" target="_blank" rel="noopener">source</a>`:''}</div>${['county','state','federal','bcpl'].includes(c)?'<p class="small muted">This parcel is public but not inside one of our access areas (it may be landlocked or hard to reach). Check that you can reach it without crossing private land.</p>':''}`;}
 function modeLayers(){if(!map)return;
   if(ST.mode==='utv'){if(!LY.utv){j('layer_utv.geojson').then(g=>{LY.utv=L.geoJSON(g,{style:f=>({color:f.properties.k==='trail'?'#7a3e9d':f.properties.k==='forest road'?'#a0522d':'#c58ad6',weight:f.properties.k==='road route'?1.5:3}),
      onEachFeature:(f,l)=>l.bindTooltip(esc((f.properties.n?f.properties.n+' · ':'')+'ATV/UTV '+f.properties.k))}).addTo(map);LY.layers.addOverlay(LY.utv,'ATV/UTV trails and routes');});}else map.addLayer(LY.utv);}
