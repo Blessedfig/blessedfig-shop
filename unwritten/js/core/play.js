@@ -149,7 +149,7 @@ MODES.walk = {
       if (pressed.menu) { saveGame(); say(['Saved.']); return; }
       const d = dirHeld();
       if (d === 'up' && doorEnter(G.x, G.y - 1)) { G.dir = 'up'; return doorEnter(G.x, G.y - 1)(); }   // walking up into a door you can use goes in
-      if (d) tryMove(d);
+      if (d) tryMove(d); else if (G._quiet) G._quiet = null;   // letting go lets the same person talk again on the next bump
     }
     camFollow();
   },

@@ -36,6 +36,7 @@ function tfUpdate() {
   tfIn(cx - 3, cy - 3, cx + w + 3, cy + h + 3, n => {
     if (n.t > 0) { n.t -= 1 / 14; if (n.t <= 0) { n.t = 0; n.mx = n.my = 0; } return; }
     if (n.talking) return;
+    if (G && Math.abs(G.x - n.x) + Math.abs(G.y - n.y) <= 2) { n.wait = 60; return; }   // hold still while you walk up
     if (n.wait-- > 0) return;
     n.wait = 60 + hash(frame, n.seed * 7 + n.x) % 160;
     if (!n.r || hash(frame, n.seed) % 3 === 0) { n.flip = 1 - n.flip; return; }   // look the other way
@@ -149,27 +150,19 @@ function tfLeash(x0, y0, x1, y1) {   // a thin leash from the walker's hand to t
     s.x = s.hx; s.y = s.hy; s.mx = -ax; s.my = -ay; s.t = 1; s._away = 0; s.dir = s.face0 || s.dir;
   } }; }
 { const _na = npcAt; npcAt = function (x, y) { return _na(x, y) || tfAt(x, y); };
-  // Nov 22: townsfolk never wall you in. Walk into one and they step aside (to the side first, then ahead); in a one-tile
-  // squeeze you trade places. Story NPCs (NPCS) still block, and so does someone you are talking to.
+  // Nov 26 (Christian: "don't have them move out of the way when approaching, have them solid enough to bump into and
+  // talk to"): everybody is solid now. Walk into someone and you stop; keep leaning into them a moment and they talk to you
+  // (A still works too). After a talk you have to let go or turn before the same person talks again.
   const _tm = tryMove; tryMove = function (dir) {
-    if (_tm(dir)) return true;
     const [dx, dy] = DIRS[dir], nx = G.x + dx, ny = G.y + dy;
-    if (solidM(nx, ny)) return false;
-    const s = _na(nx, ny);
-    if (s) {   // a named NPC: keep walking into them a moment and you squeeze past (you trade places); they go back to their spot after
-      if (s.talking) return false;
-      G._bump = G._bump && G._bump.id === s.id ? { id: s.id, k: G._bump.k + 1 } : { id: s.id, k: 1 };
-      if (G._bump.k < 14) return false;
-      G._bump = null; const ox = G.x, oy = G.y; s.x = ox; s.y = oy; s.mx = nx - ox; s.my = ny - oy; s.t = 1; s._away = 1;
-      const ok = _tm(dir); if (!ok) { s.x = nx; s.y = ny; s.mx = s.my = 0; s.t = 0; s._away = 0; } return ok;
-    }
-    const n = tfAt(nx, ny); if (!n || n.talking) return false;
-    const free = (ax, ay) => !(ax === G.x && ay === G.y) && !solidM(ax, ay) && !npcAt(ax, ay);
-    const side = dy ? [[1, 0], [-1, 0]] : [[0, 1], [0, -1]], tries = side.concat([[dx, dy]]);
-    let to = null; for (const [sx, sy] of tries) if (free(nx + sx, ny + sy)) { to = [nx + sx, ny + sy]; break; }
-    if (!to) to = [G.x, G.y];   // a squeeze: swap places
-    n.x = to[0]; n.y = to[1]; n.mx = nx - to[0]; n.my = ny - to[1]; n.t = 1; n.wait = 90;
-    const ok = _tm(dir); if (!ok) { n.x = nx; n.y = ny; n.mx = n.my = 0; n.t = 0; } return ok;
+    if (_tm(dir)) { G._bump = null; G._quiet = null; return true; }
+    if (solidM(nx, ny)) { G._bump = null; return false; }
+    const s = npcAt(nx, ny); if (!s) { G._bump = null; return false; }
+    if (s.talking || (typeof DLG !== 'undefined' && DLG)) return false;
+    if (G._quiet && G._quiet.id === s.id && G._quiet.dir === dir) return false;   // just talked; wait for a fresh push
+    G._bump = G._bump && G._bump.id === s.id ? { id: s.id, k: G._bump.k + 1 } : { id: s.id, k: 1 };
+    if (G._bump.k < 12) return false;
+    G._bump = null; G._quiet = { id: s.id, dir }; npcTalk(s); return false;
   }; }
 { const _nt = npcTalk; npcTalk = function (n) { if (n && n.tf) return tfTalk(n); return _nt(n); }; }
 

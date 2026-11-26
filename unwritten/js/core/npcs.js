@@ -45,6 +45,7 @@ function npcUpdate() {
     if (n.t > 0) { n.t -= 1 / 12; if (n.t <= 0) { n.t = 0; n.mx = n.my = 0; } continue; }
     if (n.talking) continue;
     if (!n.r) { if (n.wait-- <= 0) { n.dir = n.face0; n.wait = 9999; } continue; }
+    if (G && Math.abs(G.x - n.x) + Math.abs(G.y - n.y) <= 2) { n.wait = 30; continue; }   // hold still while the kid walks up (Nov 26)
     if (n.wait-- > 0) continue;
     n.wait = 20 + (hash(frame, n.x * 7 + n.y) % 60);   // the girls play: a few quick steps, a pause, a turn
     const ds = ['up', 'down', 'left', 'right'], d = ds[hash(frame + n.x, n.y * 3) % 4], [ax, ay] = DIRS[d], nx = n.x + ax, ny = n.y + ay;
