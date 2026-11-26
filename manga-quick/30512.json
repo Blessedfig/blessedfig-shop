@@ -1,0 +1,95 @@
+{
+ "anilist_id": 30512,
+ "title": "Samurai Champloo",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30512",
+  "https://api.mangaupdates.com/v1/series/34039814961"
+ ],
+ "premise": "A two-volume manga based on the anime of the same name, set in an Edo-period Japan mixed with deliberate hip-hop anachronisms. Mugen, a rough mercenary, and Jin, a disciplined samurai, travel with Fuu, a resourceful young waitress, on her quest to find a mysterious samurai, brawling with nobles and underworld figures along the way (TOKYOPOP blurb via AniList; MU).",
+ "life_message": "Loyalty grows between unlikely companions who choose to keep traveling together.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Endorsed", "note": "Sword fights, throwing stars and 'a lethal dose of street justice' (TOKYOPOP blurb); Samurai, Swordplay, Assassins tags (AniList, MU)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Episodic adventure with backstabbing underworld threats (blurb)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Not reported in sources opened (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Characters 'hurl insults' (blurb); profanity level not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Mercenary brawling presented as cool (to verify)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Tie-in to the anime (MU Based on an Anime)."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Explored"},
+  {"lens": "Stoicism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Freewheeling individualism; loyalty among misfits; swordsman's code",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 2, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Fuu's good heart and the trio's growing loyalty.", "concerns": "Violence as street justice; mercenary ethic."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Jin's discipline and restraint.", "concerns": "Killing presented as stylish action."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Fuu's resourcefulness and kindness.", "concerns": "Sword violence and insults."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Companions protect each other.", "concerns": "Vigilante 'street justice'."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Loyalty to a young woman's quest.", "concerns": "Violence and crude talk."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Shows nobles' corruption truthfully.", "concerns": "Revenge-flavored action."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Unlikely companions bound by duty to Fuu.", "concerns": "Private violence outside lawful authority."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Friendship across differences.", "concerns": "Glamorized fighting."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Character growth through a journey.", "concerns": "Violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Fuu's peaceable goodness.", "concerns": "Swordplay is the heroes' main mode of action."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Protecting Fuu.", "concerns": "Violent and coarse content."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Critiques cynical nobles; mixes cultures.", "concerns": "Violence as style."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and courage.", "concerns": "Violence beyond just cause."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Jin's warrior discipline echoes duty.", "concerns": "Mugen's lawless violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Growth of the trio's bond.", "concerns": "Killing as entertainment."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Anti-elitist; Indigenous Cultures tag suggests outsider voices (to verify).", "concerns": "Glorified violence."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Playful, irreverent history.", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Samurai discipline in Jin.", "concerns": "Anti-authority mercenary hero; anachronistic irreverence."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Loyalty among companions.", "concerns": "Violence as the core activity."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Fuu's good heart.", "concerns": "Violent entertainment counseled against."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Resourcefulness overcoming trouble.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Diverse misfits form community.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Personal autonomy and keeping one's word.", "concerns": "Harm done casually."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Edo-period setting and travel through Japan.", "concerns": "Bloodshed (kegare)."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Warriors defend Fuu.", "concerns": "Fighting for hire rather than for the oppressed."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity across differences.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Personal competence.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Mugen's defiance of nobles and rules.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and protection.", "concerns": "Violence and crude speech."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship and loyalty.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Anti-elitist humor.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Insults and fights settle disputes; samurai code (blurb, Samurai tags)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Wandering mercenary with 'nothing left to lose' (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Chosen companions rather than family or community."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Mocks 'the cynical gentility of the nobles' (blurb)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Edo setting mixed with hip-hop anachronism (MU Intentional Anachronism)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Survival on the road alongside stylish self-expression."}
+  },
+  "closest": ["The Far West", "El Norte", "Greater Appalachia"],
+  "japan": "Plays with Edo-period samurai and ninja traditions, mixing them with American hip-hop culture as deliberate anachronism."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic action-comedy per tags and blurb; no review opened (to verify).",
+  "personified": [
+   {"character": "Jin", "ideology": "disciplined samurai code", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Mugen", "ideology": "lawless self-reliance", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The contrast between Jin's discipline and Mugen's freedom appears as character pairing rather than argument (to verify)."
+ },
+ "winners_losers": "The trio survives its scrapes; nobles and underworld schemers are the usual losers (to verify).",
+ "to_verify": [
+  "English license is partial or lapsed (license_note; MU lists licensed false); TOKYOPOP edition out of print.",
+  "Manga was cancelled after two volumes (MU); the quest may not resolve.",
+  "No review or Wikipedia cache opened; database and publisher blurb only.",
+  "Sexual content and substances not reported in sources."
+ ]
+}

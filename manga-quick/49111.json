@@ -1,0 +1,356 @@
+{
+ "anilist_id": 49111,
+ "title": "Liar Lily",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/49111",
+  "https://api.mangaupdates.com/v1/series/33964773542"
+ ],
+ "premise": "Hinata Saotome is asked out by En Shinohara, a gorgeous boy in her grade who hates men so much that he punches whatever shows his reflection, and copes by cross-dressing. Hinata dates him anyway in this long-running, episodic school romantic comedy with multiple couples and parody.",
+ "life_message": "A good life means loving someone as they are, quirks included.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Comedic punching of windows and mirrors (MangaUpdates)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "High-school dating comedy; cross-dressing and gender-play themes (AniList, MangaUpdates)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "En's self-directed hatred played for laughs."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Comedic violence."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Accepting a partner's flaws.",
+   "concerns": "Cross-dressing and gender play."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Patience in love.",
+   "concerns": "Gender play."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Accepting others.",
+   "concerns": "Cross-dressing as theme."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Gender play."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love accepting others.",
+   "concerns": "Gender roles blurred."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Acceptance.",
+   "concerns": "Gender play; LCMS concern."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle comedy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Patience.",
+   "concerns": "Worldly romance and gender play."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Acceptance.",
+   "concerns": "Gender play."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gender expression accepted.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Acceptance of others.",
+   "concerns": "Cross-dressing and dating."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love and comedy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Acceptance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gender-nonconforming lead accepted.",
+   "concerns": "Misandry gag."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Acceptance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Gender roles."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Gender play."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Cross-dressing; dating."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gender diversity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom of expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Respect.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity.",
+   "concerns": "Dating."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Acceptance.",
+   "concerns": "Cross-dressing (Deuteronomy 22:5)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Acceptance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Comic conflict."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Personal expression."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Friends and couples."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Peers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-expression."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "English-speaking"
+  ],
+  "japan": "School romantic comedy with cross-dressing gags draws on Japanese shojo traditions, shown as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Acceptance carried by the couple."
+ },
+ "winners_losers": "Hinata and En's relationship gets sympathy.",
+ "to_verify": [
+  "No review opened; based on AniList and MangaUpdates summaries",
+  "17 volumes; later content not checked"
+ ]
+}

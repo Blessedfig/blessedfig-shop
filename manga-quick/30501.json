@@ -1,0 +1,363 @@
+{
+ "anilist_id": 30501,
+ "title": "Rizelmine",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30501",
+  "https://api.mangaupdates.com/v1/series/2983178753",
+  "https://www.comicsreview.co.uk/nowreadthis/2007/06/19/rizelmine/"
+ ],
+ "premise": "Rizel, a government-engineered artificial girl who appears to be 12, needs love to develop, and her tears can destroy a city block (Viz blurb via AniList and MangaUpdates). The government declares 15-year-old Iwaki Tomonori, who has a crush on his teacher, to be her husband, and her guardians move in with his family (Viz blurb; comicsreview.co.uk). A one-volume slapstick comedy.",
+ "life_message": "Love is what makes a person grow, even when it arrives by government decree (to verify).",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Slapstick bruising and chaos (review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "City-destroying tears played for comedy."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Arranged 'marriage' between a 12-year-old-looking girl and a 15-year-old boy (blurb + review); AniList lists Ecchi genre, fan service level unverified; boy's crush on his teacher."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Rizel's sadness over lack of love."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Child marriage played as comedy."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 2,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Love as growth; government overreach played for laughs; artificial life",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 3,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love presented as what makes a person fully human.",
+   "concerns": "Marriage of children imposed by state; ecchi label with a 12-year-old character."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love as transforming.",
+   "concerns": "Child marriage and fan service stir passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align beyond kindness.",
+   "concerns": "Child 'marriage' as comedy; ecchi genre tag."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rizel's need for love.",
+   "concerns": "Marriage trivialized; sexualized comedy risk."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Ecchi content with minors; marriage mocked."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows government folly.",
+   "concerns": "Marriage covenant reduced to a gag."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family takes in strangers.",
+   "concerns": "Child marriage comedy."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love as growth.",
+   "concerns": "Ecchi label and child bride premise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire of officialdom.",
+   "concerns": "Child marriage premise to discuss."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little violence.",
+   "concerns": "Marriage trivialized; immodesty."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Marriage mocked; ecchi; teacher crush."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critique of state control of a person.",
+   "concerns": "Child marriage and possible sexualization of a minor."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Immodesty with child characters; marriage as joke."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love and care as growth.",
+   "concerns": "Child marriage."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion for a sad being.",
+   "concerns": "Possible sexual misconduct framing (to verify)."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critique of government power over a body.",
+   "concerns": "Sexualization of minors concern; consent absent."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire of science and bureaucracy.",
+   "concerns": "Child marriage and consent."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Marriage and childhood both undercut."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Immodesty and child marriage."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Immorality concerns with minors."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love as the force of growth.",
+   "concerns": "Sensual comedy."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rizel's need for love.",
+   "concerns": "Consent and child-marriage premise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love as life force.",
+   "concerns": "Exploitation concern."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rizel's sincere feelings.",
+   "concerns": "Little ritual content; child marriage."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Child marriage; immodesty."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love's transforming power.",
+   "concerns": "Chastity and child marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rizel's quest to grow.",
+   "concerns": "Little else."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mocks government authority.",
+   "concerns": "Harm to children is a core concern."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Tzniut and child marriage."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Child marriage and fan service."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Satire of state power.",
+   "concerns": "Exploitation of minors concern."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Comic chaos, no honor codes."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "State imposes marriage."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Family takes in Rizel's guardians."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Government authority over individuals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Genetic engineering premise."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Comedy of feelings."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "Confucian"
+  ],
+  "japan": "The forced-cohabitation 'sudden marriage' comedy is a recurring Japanese shonen romantic-comedy convention, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Review calls it a standard comedy-fantasy; no message stated (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The idea that love makes Rizel grow is carried by gags."
+ },
+ "winners_losers": "Rizel and Tomonori get comic sympathy; the government that engineers and exploits Rizel is the butt of the joke (review).",
+ "to_verify": [
+  "Extent of ecchi fan service involving Rizel or other minors (AniList genre only; review describes none).",
+  "Anime adaptation may differ; no anime source used.",
+  "English edition out of print (MangaUpdates)."
+ ]
+}

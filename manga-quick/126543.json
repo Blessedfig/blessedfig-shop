@@ -1,0 +1,100 @@
+{
+  "anilist_id": 126543,
+  "title": "#DRCL midnight children",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/126543",
+    "https://api.mangaupdates.com/v1/series/50205455785",
+    "https://en.wikipedia.org/wiki/DRCL_midnight_children",
+    "https://www.animenewsnetwork.com/seasonal/2023/fall/dcrl/.201230"
+  ],
+  "premise": "A loose reimagining of Bram Stoker's Dracula set at Whitby School in 1890s England, where Mina Murray, the first and only girl student and a skilled wrestler, is bullied by male classmates. When Count Dracula's arrival claims her friend Lucy Westenra, recast as a young man who is Lucy by night, Mina joins the boys to fight it (Viz blurb; Wikipedia; Anime News Network).",
+  "life_message": "Courage and loyalty belong to whoever shows them, and people should be seen as who they truly are.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Gothic horror killings and gore (AniList Gore 70%; MU Blood and Gore; ANN describes killings)."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Cosmic horror tone and dread (AniList; ANN calls it arresting horror)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Nudity and LGBT scenes (MU, AniList 40%); implied attraction to the Count (ANN). Not explicit as far as summaries show (to verify)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Bullying insults likely (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Mina bullied for her abilities (Wikipedia); Lucy's illness and dual identity (AniList Dissociative Identities)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Condemned", "note": "Bullying, sexism and homophobia shown as faults (MU tags; Wikipedia)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Feminism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Christian", "strength": 2, "stance": "Explored"},
+    {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+    {"lens": "Critical theory", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Gothic horror; gender and identity; outsiders proving themselves",
+  "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+  "foundations": {"care": 6, "loyalty": 7, "fairness": 6, "sanctity": 5, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Evil confronted with courage; Van Helsing's resistance to a demonic count.", "concerns": "Gender identity framing (Lucy); gore and nudity."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Evil is real and must be fought.", "concerns": "Demonic imagery taken seriously; gender theme; nudity."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Friends defend the vulnerable against evil.", "concerns": "Trans and same-sex themes; gore."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Classic good-versus-evil framework from Stoker.", "concerns": "Gender identity theme; horror intensity."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Spiritual evil resisted.", "concerns": "Vampiric possession and occult imagery; gender theme."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common-grace art adapting a classic.", "concerns": "Gender ideology; nudity."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Courage and vocation of friends.", "concerns": "Confessional families object to gender theme."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Inclusion of the excluded Mina.", "concerns": "Gore; split on gender theme."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary Gothic in an English setting; moral vision of courage.", "concerns": "ACNA would object to gender theme."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Care for the bullied.", "concerns": "Horror violence; worldly themes."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Loyal friendship.", "concerns": "Gender eternal per Proclamation; gore and nudity."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Challenges sexism, racism and homophobia (MU tags).", "concerns": "Reviewer unease about a trans character as predatory (ANN)."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Evil defeated.", "concerns": "Gender change, same-sex themes, nudity, gore."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Dharma of protecting friends from a demon.", "concerns": "Tamasic gore."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion for outsiders; suffering of craving immortality.", "concerns": "Violence."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Girl breaking barriers; trans and Black characters centered (ANN).", "concerns": "Possible trope of queer character tied to monstrosity (ANN)."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Evidence and modernity against superstition (ANN).", "concerns": "Gore."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Classic heroism against evil.", "concerns": "Revises a classic with gender politics."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Undead and spirit horror; gender theme."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Demonic and occult horror; same-sex and gender themes."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Fear faced.", "concerns": "Disease and death dwelt on."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Dignity of every identity; pluralism.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Old powers in a Gothic world.", "concerns": "Gore."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Japanese student Joe Suwa among the heroes (Wikipedia).", "concerns": "Blood and death impurity."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Defending the oppressed; women's equality.", "concerns": "Gender and gore."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Equality of women and men; oneness across races.", "concerns": "Gore; gender theme."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Group survival against a predator.", "concerns": "Lucy's condition researched by a professor (to verify)."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Gothic aesthetics; outsiders against conformist cruelty.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Evil resisted.", "concerns": "Gender and immodest content; gore."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Dignity of the marginalized.", "concerns": "Gore."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Inclusion; critique of prejudice.", "concerns": "Gore."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 5, "evidence": "Arthur sees himself as a gallant knight but is secretly a coward (Wikipedia)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Mina defies a male-only school order (Viz blurb)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Loyalty among classmates rather than family (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Nobility and class struggle shown critically (AniList Class Struggle; MU Nobility)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Records and modernity versus old superstition (ANN)."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Identity and self-expression themes under horror threat."}
+    },
+    "closest": ["Catholic Europe", "English-speaking", "Yankeedom"],
+    "japan": "A Japanese reworking of a Victorian English novel, adding a Japanese exchange student and the manga tradition of gender-crossing characters, described here as context."
+  },
+  "delivery": {
+    "style": "Explicit",
+    "preachiness": 5,
+    "evidence": "ANN reviewers call themes mostly woven in but note it 'tries too hard' and has heavy-handed moments.",
+    "personified": [
+      {"character": "Quincey Morris", "ideology": "Bullying of the lone girl student", "role": "Foil", "treatment": "Mixed"},
+      {"character": "Arthur Holmwood", "ideology": "Chivalric male pride", "role": "Foil", "treatment": "Mixed"},
+      {"character": "Count Dracula", "ideology": "Predatory immortality", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Sexism and prejudice are carried by classmates who join Mina's fight rather than by pure villains, as far as summaries show."
+  },
+  "winners_losers": "Ongoing; Mina and her classmates unite against Dracula. Sympathy goes to Mina and Lucy as outsiders.",
+  "to_verify": [
+    "Whether the bullies are given growth or stay one-note (MU Sexism, Misogyny, Homophobia tags)",
+    "Gore and nudity levels on the page",
+    "How Lucy's gender identity is framed in later volumes (ANN reviewers differ)",
+    "Viz age rating",
+    "Series ongoing; ending unknown"
+  ]
+}

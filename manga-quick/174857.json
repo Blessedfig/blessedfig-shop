@@ -1,0 +1,362 @@
+{
+ "anilist_id": 174857,
+ "title": "Hitoner",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/174857",
+  "https://api.mangaupdates.com/v1/series/10459762426"
+ ],
+ "premise": "A single human arrives on an isolated planet of animal-like people called Kemo, who have never seen a 'Hito' (MANGA Plus blurb). Their society starts to change through this exchange across a language barrier, with themes of politics, research and prejudice (AniList, MU). Started as a one-shot before serialization.",
+ "life_message": "Meeting the unfamiliar with curiosity and research, rather than fear, can change a society.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Culture shock."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MU Nudity and Partial Nudity (likely an unclothed human among Kemo; to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Isolation."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "First contact; prejudice and difference; politics",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 7,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dignity of the stranger.",
+   "concerns": "Nudity tag."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love the stranger.",
+   "concerns": "Nudity tag."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Treating outsiders well.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Common human dignity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Neighbor love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Welcoming the outsider.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Imaginative fable.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Peaceful exchange.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Curiosity.",
+   "concerns": "Nudity tag."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Challenges prejudice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hospitality.",
+   "concerns": "Nudity tag."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for living beings.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion across species.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Explores racism (MU).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Research and understanding.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Social change examined.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Peace.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Peace.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Understanding.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Embracing difference.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kinship with animals.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Respect for other beings.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Equality of all.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Oneness of peoples.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication (ARC).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Challenges norms.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hospitality.",
+   "concerns": "Nudity tag."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Welcoming the stranger.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Against prejudice.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Difference handled by inquiry."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Society debates response."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Strangers welcomed."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Politics of Kemo society."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Research focus."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Tolerance of difference."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "Catholic Europe",
+   "New Netherland"
+  ],
+  "japan": "Echoes Japanese interest in outsiders and cultural exchange, described as theme."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurbs only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes of prejudice appear through the premise."
+ },
+ "winners_losers": "Not yet clear; ongoing series.",
+ "to_verify": [
+  "Nudity context.",
+  "Ongoing; one volume.",
+  "AniList notes a 2026 Next Manga Award web category win."
+ ]
+}

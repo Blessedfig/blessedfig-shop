@@ -1,0 +1,358 @@
+{
+ "anilist_id": 30225,
+ "title": "Glass Sky",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30225",
+  "https://api.mangaupdates.com/v1/series/70525217023"
+ ],
+ "premise": "Short-story collection by Yugi Yamada. In the title story, loner Naoki, teased for seeming flamboyant, feels something new when classmate Yada keeps looking at him at their all-boys high school (DMP and Juné blurbs). Other stories follow adults through divorce, workplace romance and old hurts; Naoki's story continues elsewhere with a childhood friend who remembers 'what Yada did to Nao' (MangaUpdates).",
+ "life_message": "Coming out and finding one's true self is painful, funny and worth it.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bullying (MU, AniList); accident (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dead lover, homophobia (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Boys' love anthology with teen and adult couples; AniList Rape tag (40%) and MU Rape category (context to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Bullying, insecurity, homophobia (MU, AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Character who bullies the one he loves (MU) (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism, Progressivism",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 7,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 5,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion for a bullied loner.",
+   "concerns": "Same-sex sexual content including teens; assault tag."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mercy toward the mocked.",
+   "concerns": "Passions; same-sex content."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness to the outcast.",
+   "concerns": "Same-sex romance; sexual content with teens."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Bullying shown as hurtful.",
+   "concerns": "Sexual content; same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest look at sin and hurt.",
+   "concerns": "WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Views vary; teen content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for the outsider.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Literary short stories on acceptance.",
+   "concerns": "Assault tag; teens."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Law of chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Coming out and acceptance; homophobia shown.",
+   "concerns": "Assault tag; teen sexual content."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Suffering of the bullied.",
+   "concerns": "Harmful sexual conduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Queer youth finding acceptance.",
+   "concerns": "Possible sexual assault; teen content."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Authenticity.",
+   "concerns": "Assault tag."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex sexual content for teens."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Impure media."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "True self beyond labels.",
+   "concerns": "Sensual focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of queer youth.",
+   "concerns": "Assault tag."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sexuality honest.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Sincerity.",
+   "concerns": "Families raise age concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Equality.",
+   "concerns": "Lust."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Prejudice rejected.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-acceptance.",
+   "concerns": "Assault tag (unwanted advances)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Acceptance.",
+   "concerns": "Teen sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Assault tag."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Teasing is endured, not avenged."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Personal truth over school norms."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friends and coworkers."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "School and office ranks matter a little."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular modern Japan."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Coming out and self-discovery (blurb)."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "Catholic Europe"
+  ],
+  "japan": "Teasing of a boy seen as flamboyant reflects Japanese school pressure toward conformity; the stories describe rather than endorse it."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Juné blurb frames stories about 'coming out and finding one's true self' (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Bittersweet vignettes; theme carried by characters."
+ },
+ "winners_losers": "Mixed; blurb calls the stories bittersweet, with acceptance alongside jealousy and hidden desire.",
+ "to_verify": [
+  "What the MU and AniList Rape tags refer to and whether a minor (Naoki) is involved",
+  "Bullying detail",
+  "Sexual content in high-school stories (MU Wet Dreams)",
+  "Juné age rating"
+ ]
+}

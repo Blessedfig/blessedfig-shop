@@ -1,0 +1,88 @@
+{
+ "anilist_id": 97816,
+ "title": "Otonari Complex",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/97816",
+  "https://api.mangaupdates.com/v1/series/22577684099"
+ ],
+ "premise": "Childhood friends and neighbors Akira Kuji, a 'handsome' girl, and Makoto Ninomiya, a 'pretty' boy, are often mistaken for each other's gender. As college students they work through their feelings about themselves and each other while friends develop crushes on them too (Seven Seas blurb via AniList/MU).",
+ "life_message": "Love can grow from knowing someone as they really are, whatever others expect of boys and girls.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "College romance and love confessions (MU); crossdressing comedy (AniList)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported (college setting, to verify)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Identity confusion handled lightly."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Gender-nonconforming leads; childhood friends to lovers",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Man-woman romance built on long friendship.", "concerns": "Crossdressing and blurred gender presentation."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Faithful friendship.", "concerns": "Crossdressing."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Friendship before romance.", "concerns": "Crossdressing (Deuteronomy 22:5)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Childhood loyalty.", "concerns": "Gender-role blurring."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Loyal friendship.", "concerns": "Crossdressing."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Steady companionship.", "concerns": "Complementarian concerns."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Neighbor-love literally.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Light romantic comedy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Neighborly bonds.", "concerns": "Worldly dress norms."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Heterosexual romance from friendship.", "concerns": "Gender presentation."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Questions rigid gender roles.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Long friendship.", "concerns": "Crossdressing; dating."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Loyalty.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Seeing past appearances.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Gender-nonconforming leads treated warmly.", "concerns": "Mistaken-gender gags."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Freedom of expression.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Childhood friends marry type romance.", "concerns": "Gender-role reversal message."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Crossdressing."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Clean romance.", "concerns": "Crossdressing."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Affection.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Acceptance.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Balance of masculine and feminine.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Neighborly harmony.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Equality of men and women.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Equality of sexes.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determination.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Individuality.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Lo yilbash; romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Egalitarian.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Misunderstandings, no feuds (MU)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Leads present as they please (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Neighbors and friends."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peers; role reversal (MU)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Challenges gender expectations (blurb)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Identity and feelings at the center (blurb)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "Plays on Japanese ideals of 'handsome' and 'pretty' presentation and the childhood-friend romance trope, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb calls it 'endearing'; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Identity themes carried by comedy and romance."
+ },
+ "winners_losers": "Akira and Makoto's friendship and feelings; no opposing view.",
+ "to_verify": [
+  "No review opened; how the romance resolves and the LGBTQ+ spoiler tag (AniList 37%).",
+  "MU marks it Axed/Cancelled at 1 vote; Seven Seas published 5 volumes complete."
+ ]
+}

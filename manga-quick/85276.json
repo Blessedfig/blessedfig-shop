@@ -1,0 +1,362 @@
+{
+ "anilist_id": 85276,
+ "title": "Stealth Symphony",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85276",
+  "https://api.mangaupdates.com/v1/series/30999981869"
+ ],
+ "premise": "Jig, a boy carrying a curse on his back, travels to the city of Jinbocho, where elves, dwarves and invisible dragons live alongside people, seeking someone who can remove it (AniList, MangaUpdates). There he meets powerful individuals and organizations who set out either to destroy him or save him. A three-volume shonen fantasy-action series written by Ryohgo Narita and drawn by Yoichi Amano; tags list assassins, mafia, ninja, vampires, betrayal, revenge and a tragic past, and MangaUpdates marks it as cancelled.",
+ "life_message": "It suggests that a person marked by a curse can still find allies and a place to belong.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Assassins, mafia and fights (tags); score capped, no review."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Curse, monsters, tragic past (tags)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mafia setting; language not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Abandonment and tragic past (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fantasy combat."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Tie to a light-novel author's brand."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Cursed outsider seeking belonging; urban fantasy factions",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Jig seeks healing and finds helpers.",
+   "concerns": "Assassins and mafia violence."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Longing for release from a curse.",
+   "concerns": "Curses and magical beings."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rescue of a vulnerable boy.",
+   "concerns": "Curse and magic elements; fighting."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Community helping an outsider.",
+   "concerns": "Curses; violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Hope of deliverance from a curse.",
+   "concerns": "Curses, vampires and occult-style powers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Grace-like help to the cursed.",
+   "concerns": "Magic elements."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fantasy accepted; friendship.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship and growth (tags).",
+   "concerns": "Revenge plot elements."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fantasy city of many peoples.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Some characters choose to save, not destroy.",
+   "concerns": "Assassins, revenge and combat."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship and belonging.",
+   "concerns": "Mafia and assassin violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Many races living in one city.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mercy toward an afflicted boy.",
+   "concerns": "Curses and sorcery shown as real power."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirits and magic familiar.",
+   "concerns": "Violence over ahimsa."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Suffering and its release sought.",
+   "concerns": "Revenge and violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diverse beings coexisting.",
+   "concerns": "Fight spectacle."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Character growth (tags).",
+   "concerns": "Supernatural as premise only."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage and loyalty.",
+   "concerns": "Mafia glamour possible (to verify)."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to the afflicted.",
+   "concerns": "Vampires and curses."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Magic, curses and violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Freedom from affliction as theme.",
+   "concerns": "Fear of curses dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inclusion of many races.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Magic and myth as fiction.",
+   "concerns": "Curse framed as harmful magic."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirits and dragons part of the world.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Protecting the weak.",
+   "concerns": "Superstition-like curses."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Unity across peoples.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Growth of a hidden potential (tags).",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-reliant outsider.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to a stranger.",
+   "concerns": "Sorcery and curses."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Community welcoming a stranger.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diverse city.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Revenge and clans among the factions (tags)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Many organizations compete in an open city."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Clans and companies (tags)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Ranked by strength (tags)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Fantasy beside a modern city."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival amid danger."
+   }
+  },
+  "closest": [
+   "El Norte",
+   "Orthodox Europe",
+   "Tidewater"
+  ],
+  "japan": "Jinbocho is a real Tokyo book district; the fantasy version reflects Japanese urban-fantasy conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Action-comedy per genres; no review on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No clear argument identified in the summaries."
+ },
+ "winners_losers": "Not described beyond the setup; the series was cancelled (to verify).",
+ "to_verify": [
+  "Whether Jig's curse is resolved in three volumes.",
+  "Violence level; only tags.",
+  "No review opened."
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "anilist_id": 89313,
+ "title": "Danganronpa: The Animation",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/89313",
+  "https://api.mangaupdates.com/v1/series/6699462106",
+  "https://otakuusamagazine.com/manga-review-danganronpa-the-animation/"
+ ],
+ "premise": "A four-volume manga based on the anime of the Spike Chunsoft video game. Ordinary student Makoto Naegi wins a lottery place at the elite Hope's Peak Academy, only to find himself and gifted classmates such as Sayaka Maizono and Hifumi Yamada trapped by Monokuma, a robot teddy-bear principal. The only way out is to murder a classmate and get away with it, and every killing is followed by a class trial in which survivors cross-examine each other (Dark Horse blurb; Otaku USA review).",
+ "life_message": "Trust and reasoning together are tested, and sought, under a regime that rewards betraying one another.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Condemned", "note": "Students murder classmates in a death game; 'macabre murder mystery' (Otaku USA); Death Game, Battle Royale tags (AniList, MU Game of Death). Gore level not described (to verify)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Trapped students, trials and suspicion (Dark Horse blurb, Otaku USA); Horror and Psychological genres (AniList)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Dark Horse rates the volume 18+ (Otaku USA); profanity not described, capped (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Suicide and Dissociative Identities spoiler tags (AniList); not in the review, capped (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Rules reward murder of classmates; school setting with teen cast (blurb)."},
+  {"category": "Commercial", "score": 4, "framing": "Neutral", "note": "Part of the Danganronpa game and anime franchise (MU Based on a Video Game, Based on an Anime; Otaku USA)."}
+ ],
+ "lenses": [
+  {"lens": "Nihilism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Death game under a tyrannical authority; trust versus betrayal; deduction",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 8, "sanctity": 3, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Truth sought in trials; murder shown as the evil Monokuma demands.", "concerns": "Killing of teens as the story engine; 18+ publisher rating."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Refusal to kill would be the virtue tested.", "concerns": "Murder games feed fear and morbid fascination."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Justice exposed through cross-examination.", "concerns": "Teen murders as entertainment; suicide tag."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Truth-telling under pressure.", "concerns": "Violence for spectacle."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond truth-seeking.", "concerns": "Dark, death-centered content."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Shows what people do when law rewards sin.", "concerns": "Graphic murder content (to verify)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Unjust authority exposed.", "concerns": "Killing as game mechanic."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Bonds among the trapped students.", "concerns": "Violence and despair."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Good and evil framed in the trials.", "concerns": "Violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Nonviolence implied by refusing to kill.", "concerns": "Murder entertainment."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Integrity under pressure.", "concerns": "Violent media rated 18+."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Critique of tyrannical institutions.", "concerns": "Teen death as spectacle."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Justice through testimony.", "concerns": "Murder and suicide."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Truth (satya) uncovered at trials.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Suffering from fear and craving to escape.", "concerns": "Killing at the center."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Resisting coercive authority.", "concerns": "Suicide portrayal; femboy and dissociative tags need respectful handling (to verify)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Reason and evidence decide guilt.", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Truth and justice.", "concerns": "Nihilistic death game."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Murder entertainment."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violent entertainment (Psalm 11:5)."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Fear and death dominate."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Worth of each student.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Harm none tested.", "concerns": "Violence."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Group harmony broken by fear.", "concerns": "Death throughout."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Resisting tyranny.", "concerns": "Murder and suicide."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Unity versus division.", "concerns": "Violence; suicide."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Trust and communication matter.", "concerns": "Murder."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Rebellion against arbitrary authority.", "concerns": "Harm to young people."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Testimony and justice.", "concerns": "Murder entertainment."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Justice sought.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Resisting oppression.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Disputes settled at class trials by evidence (Dark Horse blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Monokuma's arbitrary rules versus the wish to escape."},
+   "Civic vs kin": {"pos": 3, "evidence": "Classmates, no family, form the community."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "'Ultimate' talents contrasted with an ordinary lottery student (Otaku USA)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Deduction and cross-examination drive outcomes."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Survival stakes among students defined by their talents."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Plays on Japanese elite-school culture and the 'ultimate talent' ranking of students; described, not judged."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review discusses plot and art only; no comment on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes appear through the trials and characters (to verify)."
+ },
+ "winners_losers": "Naegi and survivors seek the truth against Monokuma; sympathy lies with students who resist the game (to verify).",
+ "to_verify": [
+  "Otaku USA review covers volume 1 only; gore and execution scenes not described.",
+  "Dark Horse 18+ rating reported by Otaku USA; confirm on the publisher page.",
+  "Suicide, Femboy and Dissociative Identities spoiler tags (AniList) context.",
+  "MU match was flagged 'exact title match (check)'; MU record describes the same story and Dark Horse edition."
+ ]
+}

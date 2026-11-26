@@ -1,0 +1,362 @@
+{
+ "anilist_id": 38654,
+ "title": "A Daring Deception",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/38654",
+  "https://api.mangaupdates.com/v1/series/3669569024"
+ ],
+ "premise": "A one-volume Harlequin manga adapted from an Amanda Browning novel. Rachel loves her coworker Nathan, who coldly believes she is a scheming, promiscuous woman. When her grandmother's old love letters are stolen and threaten a scandal, Rachel travels with Nathan posing as his girlfriend to get them back; MangaUpdates tags mention blackmail and gambling.",
+ "life_message": "Loyalty to family and patience in the face of misjudgment reveal a person's true character.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Blackmail plot; no violence noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Scandal and blackmail tension (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Workplace romance with a fake-dating trip; no sexual content noted (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Gambling tagged on MU; detail unknown (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Unexpressed feelings and hurt from misjudgment."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Posing as a girlfriend to recover letters involves deception (blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Traditionalism (family reputation), Classical virtue ethics",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 7
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rachel's devotion to her grandmother reflects honoring family.",
+   "concerns": "Pretend relationship involves deception; gambling tagged."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Patience under false judgment echoes humility.",
+   "concerns": "Deception in the fake romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family loyalty and patience fit Baptist values.",
+   "concerns": "Lying as a strategy; gambling."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty and enduring misjudgment fit evangelical ideals.",
+   "concerns": "Deception and gambling need discussion."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rachel's perseverance fits testimony of endurance.",
+   "concerns": "Gambling and worldliness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Misjudgment exposes human sin of slander.",
+   "concerns": "Deception used for good ends."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring elders fits the fourth commandment.",
+   "concerns": "False witness about her and the fake romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family care fits doing good.",
+   "concerns": "Gambling conflicts with holiness rules."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family loyalty and dignity fit Anglican ideals.",
+   "concerns": "Deception talking point."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honoring a grandmother fits family duty.",
+   "concerns": "Worldly scheming, gambling and pretense."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family loyalty fits LDS values.",
+   "concerns": "Gambling and deception."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Challenging slut-shaming of Rachel fits equality.",
+   "concerns": "Deception plot."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honoring elders and guarding reputation fit Islamic values.",
+   "concerns": "Gambling and unmarried travel together."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for elders fits dharma.",
+   "concerns": "Deceit is adharma."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Patience and right speech issues are raised by Nathan's misjudgment.",
+   "concerns": "Deception and gambling."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rachel unfairly labeled promiscuous; story questions that judgment.",
+   "concerns": "Family-reputation focus."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth about Rachel emerges over prejudice.",
+   "concerns": "Deception plot."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family honor and loyalty to elders fit traditional values.",
+   "concerns": "Gambling tagged."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Loyalty to family fits.",
+   "concerns": "Gambling and romance-centred entertainment."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty aligns.",
+   "concerns": "Gambling, deception and romance focus."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth overcoming false belief fits.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inherent worth beyond reputation fits.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Balance and personal responsibility fit.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for ancestors and grandmother fits.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family loyalty fits.",
+   "concerns": "Gambling conflicts with Sikh teaching."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honoring family fits.",
+   "concerns": "Gambling and backbiting about Rachel."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth and communication fit ARC.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rachel pursuing what she wants fits.",
+   "concerns": "Family duty less aligned."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kibbud zekenim, honoring a grandmother, fits.",
+   "concerns": "Lashon hara about Rachel and gambling."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring elders fits.",
+   "concerns": "Gambling and deception."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Challenging false labeling fits.",
+   "concerns": "Deception."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "Family reputation and a scandal must be prevented (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Social propriety matters."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "Loyalty to grandmother drives the plot."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Workplace coworkers; little hierarchy."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Reputation and custom matter."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Reputation and security over self-expression."
+   }
+  },
+  "japan": "A Japanese adaptation of a British romance; concern for family reputation fits both source and Japanese readers' norms.",
+  "closest": [
+   "Latin America",
+   "El Norte",
+   "South and Southeast Asia"
+  ]
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb and tags only; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Rachel's actions reveal her character to Nathan through the plot."
+ },
+ "winners_losers": "Rachel appears vindicated and wins Nathan; sympathy rests with the misjudged heroine.",
+ "to_verify": [
+  "Gambling context",
+  "How letters are recovered",
+  "Ending"
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "anilist_id": 31583,
+ "title": "Selfish Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31583",
+  "https://api.mangaupdates.com/v1/series/72666344389"
+ ],
+ "premise": "Hard-working university student Ryuya just wants to finish his courses, but wealthy Orito, president of the prestigious Honors Society, picks him as his assistant (vice president) and will not take no for an answer; Ryuya learns his new suitor always gets what he wants (AniList, from SuBLime; MU from Be Beautiful).",
+ "life_message": "A persistent, powerful suitor's will is shown winning out.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU lists Rape; single source (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Campus drama."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "MU Yaoi; possessive pursuit (AniList, MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Angst (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "Possessive, persistent rich suitor who 'always gets what he wants' (AniList blurb; MU Possessive Lover, Persistent Seme)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Wealth and status (MU Rich Seme)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Might makes right; Expressive individualism",
+ "axes": {
+  "economic": 6,
+  "social": 7,
+  "cultural": 6,
+  "community": 3
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 3,
+  "fairness": 2,
+  "sanctity": 2,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ryuya's diligence in his studies.",
+   "concerns": "Orito's possessive pursuit and possible non-consent; same-sex romance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ryuya's humility.",
+   "concerns": "Pride of a rich man who takes what he wants; same-sex acts."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work.",
+   "concerns": "Coercive pursuit; same-sex sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ryuya's integrity.",
+   "concerns": "Possessive love celebrated."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Coercion; same-sex sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligence in vocation.",
+   "concerns": "Lascivious content; abuse of position."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ryuya's work ethic.",
+   "concerns": "Orito's coercion; synods object to the romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Harm done by a possessive lover."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire of campus elites.",
+   "concerns": "Possessive pursuit as romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ryuya's simplicity.",
+   "concerns": "Wealth and dominance; sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ryuya's self-reliance.",
+   "concerns": "Chastity; coercion."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Same-sex love.",
+   "concerns": "Power, wealth and possible non-consent."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ryuya's work.",
+   "concerns": "Coercion; same-sex acts."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ryuya's duty to studies.",
+   "concerns": "Kama pursued by force."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Craving and possessiveness."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Queer romance.",
+   "concerns": "Class power and consent."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ryuya's diligence.",
+   "concerns": "Sexual content; coercion."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Passions."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality; coercion."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Possessive thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Harm through possession."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ryuya's sincerity.",
+   "concerns": "Arrogance."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest work.",
+   "concerns": "Ego and lust (Orito)."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Study.",
+   "concerns": "Chastity; prejudice of class."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Harm to person of good will."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Orito's self-assertion.",
+   "concerns": "Unwanted advances rule."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex acts; coercion."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ryuya's study.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Exploitation."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Orito's status lets him have his way."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Elite society rules bent for Orito."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Sibling subplot (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Wealth and student-society rank."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Ryuya works for security."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Orthodox Europe",
+   "Cavalier"
+  ],
+  "japan": "Elite honors societies and wealth-based status at a prestigious university reflect Japanese hierarchy settings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurb tone (AniList); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romance without argued message."
+ },
+ "winners_losers": "Orito appears to get his way (AniList); sympathy split between pursuer and pursued (to verify).",
+ "to_verify": [
+  "Nature of MU Rape category",
+  "Ending",
+  "English availability (SuBLime/Be Beautiful)"
+ ]
+}

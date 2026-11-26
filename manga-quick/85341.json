@@ -1,0 +1,91 @@
+{
+ "anilist_id": 85341,
+ "title": "Clockwork Planet",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85341",
+  "https://api.mangaupdates.com/v1/series/64691059829"
+ ],
+ "premise": "Naoto Miura, a high-school dropout and gifted tinkerer who can hear gears from far away, lives on a world whose surface has become one vast clockwork machine (Kodansha USA blurb via AniList; MangaUpdates). When a box holding a female automaton, RyuZU, crashes into his home, he repairs her and is drawn into events that shake the world, including terrorism and a corrupt organization (blurbs; AniList and MangaUpdates tags). A ten-volume shounen adaptation of the light novel by Yuu Kamiya and Tsubaki Himana.",
+ "life_message": "It holds up talent, skill and courage as the way an outsider can change a broken world.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Terrorism and battles (AniList Terrorism; MangaUpdates Terrorist/s, Corrupt Organization); intensity not described (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "World-shaking threat (blurb)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MangaUpdates Sexual Innuendo, Master-Servant Relationship with an android maid; MangaDex safe."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Anti-hero tag (AniList); dropout protagonist."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Environmentalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Genius outsider, machines and artificial life, corrupt power",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Naoto's gifts used to save others.", "concerns": "Master-servant android relationship with innuendo."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Fight against corruption.", "concerns": "Innuendo."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Courage against corrupt power.", "concerns": "Innuendo; dropout hero."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Talents used for good.", "concerns": "Innuendo."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "No occult content noted.", "concerns": "Innuendo."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Craftsmanship as vocation.", "concerns": "Humans' made world raises questions of hubris."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation in a trade.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Saving a world for others.", "concerns": "Innuendo."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Steampunk adventure with moral stakes.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Skilled handwork valued.", "concerns": "Battles; technological world."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Using gifts to serve.", "concerns": "Innuendo."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Critique of corrupt institutions.", "concerns": "Servile female android trope."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Justice against corruption.", "concerns": "Immodest humor."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Skill as duty.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Questions what is alive (Reflections on Human Existence).", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Anti-corruption themes.", "concerns": "Female android as devoted servant."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Engineering and reason save the world.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Courage and craftsmanship.", "concerns": "Dropout and authority distrust."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Saving others.", "concerns": "Innuendo."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Exposes corrupt rulers.", "concerns": "Violence."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Overcoming a broken world.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Questions of personhood.", "concerns": "Servile android."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Concern for a world lost to machines.", "concerns": "Nature absent."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Craftsman's devotion; objects with spirit.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest skill.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Science serving humanity.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Defying authority.", "concerns": "Little at odds."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice.", "concerns": "Innuendo; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Repairing a broken world.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Tikkun olam in a literal sense.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Conflicts settled by skill and fights."},
+   "Order vs freedom": {"pos": 6, "evidence": "Dropout outsider acts against institutions (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Saving the whole world."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Outsider defies corrupt organization (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Machinery and engineering at the core (blurb)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Talent expressed against a dying world."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "New France"],
+  "japan": "Devotion to craft (shokunin spirit) and a doll-like android servant reflect familiar Japanese light-novel and maker-culture motifs."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; AniList Philosophy tag only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources do not describe how the story delivers its themes."
+ },
+ "winners_losers": "Not described in sources (to verify).",
+ "to_verify": [
+  "Violence and terrorism scenes.",
+  "Innuendo level around the android.",
+  "Ending of the manga versus the light novel."
+ ]
+}

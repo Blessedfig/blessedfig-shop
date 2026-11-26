@@ -1,0 +1,356 @@
+{
+ "anilist_id": 98187,
+ "title": "ROBOTxLASERBEAM",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/98187",
+  "https://api.mangaupdates.com/v1/series/34120892574"
+ ],
+ "premise": "Robato 'Robo' Hatohara is a serious, socially awkward high school boy with no apparent interests until his friend Tomoya draws him toward the golf club (Viz blurb). His perfect accuracy and calculation let him golf like a professional. MangaUpdates lists it as ended early, with a time skip and professional play.",
+ "life_message": "It celebrates finding one's passion, friendship and fair competition.",
+ "overall": 1,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Competitive tension."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Social awkwardness."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Golf equipment."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Talent, friendship, competition",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 7,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Robo uses his God-given precision well; friendship with Tomoya.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Discipline and patient practice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Friend invites a loner into community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gifts developed through effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Perseverance in competition.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Diligent calling, even in sport.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ordinary vocation of play and work.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Steady growth in character.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle sports story.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Humble, unboastful hero.",
+   "concerns": "Competitive striving."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Diligence and clean living.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "An awkward boy accepted by peers.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Fair play and modesty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Skill pursued as one's path.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Focused, calm mind on the course.",
+   "concerns": "Competitive craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Socially awkward hero respected.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Precision and calculation.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work and sportsmanship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Healthy outdoor activity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Calm confidence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Belonging for an outsider.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Time outdoors on the course.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sincerity (makoto) of a serious boy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Excellence and fellowship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-improvement through training.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Individual talent celebrated.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Friendship and diligence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion of an outsider.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Sporting rivalry, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Clubs and tournaments."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friends and team."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "School club structure."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Calculation-based play."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Talent and competition."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "The Midlands"
+  ],
+  "japan": "School clubs and rivalries reflect Japanese school sports culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Sports story per blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sports drama without a stated thesis."
+ },
+ "winners_losers": "Robo's talent and friendships grow; rivals are opponents, not ideologies.",
+ "to_verify": [
+  "No review opened.",
+  "MU lists it as Axed/Cancelled."
+ ]
+}

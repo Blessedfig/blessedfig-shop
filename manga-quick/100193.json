@@ -1,0 +1,89 @@
+{
+ "anilist_id": 100193,
+ "title": "Hero Classroom",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/100193",
+  "https://api.mangaupdates.com/v1/series/1010307386"
+ ],
+ "premise": "Long after a Great Hero defeated the Demon King, Rosewood Academy trains heroes to keep the peace. Carefree transfer student Blade only wants to make friends and live as an ordinary person, but he hides a painful secret tied to the Demon King's defeat (Comikey blurb via AniList/MU).",
+ "life_message": "Friendship and an ordinary life can matter more than heroic power.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Fantasy battles; MU 'Unrealistic Fighting', Cursed Weapon (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Hidden past; demons (AniList)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Ecchi and harem genres, Nudity, Pervert/s (MU). Capped at 3 for lack of a review (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "MU lists Mental Regression and a hidden 'miserable secret' (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Perverted behavior played for laughs (MU Pervert/s)."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Light novel franchise with anime (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "School comedy; friendship over power; harem fan service",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Blade's wish to belong and be a friend.", "concerns": "Ecchi nudity and pervert gags."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility of a hero wanting an ordinary life.", "concerns": "Fan service; demon princess characters."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Friendship.", "concerns": "Nudity; harem; demons."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Valuing people over power.", "concerns": "Fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Peace after the Demon King's defeat.", "concerns": "Demons befriended; cursed weapon; ecchi."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Strength held back for others.", "concerns": "Lascivious images."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Ordinary life as worthy.", "concerns": "Fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Fellowship among classmates.", "concerns": "Pervert humor."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Light fantasy friendship.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Desire for a quiet life.", "concerns": "Combat school; nudity."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Immodesty."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Inclusion of former enemies (demon princess).", "concerns": "Objectifying humor."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Nudity; demons as companions."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Dharma of the hero balanced with humility.", "concerns": "Fan service."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Letting go of power and status.", "concerns": "Sensual craving."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Strong female characters (MU).", "concerns": "Pervert gags and objectification."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Minor", "aligns": "Friendship and self-acceptance.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Heroism and duty.", "concerns": "Vulgar fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Demons; immodesty."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Demons, magic, violence and immodesty."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Hopeful tone.", "concerns": "Fan service."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Welcoming outsiders.", "concerns": "Objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Demon characters not simply evil.", "concerns": "Exploitative art."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony among classmates.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Strength used to protect.", "concerns": "Lust in fan service."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity across former enemies.", "concerns": "Immodesty."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Group dynamic and friendship.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Demon princess treated as a person.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Immodest images; time-wasting media."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Fan service."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Inclusion.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Hero school with duels; Blade avoids showing power (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Blade's carefree wish to be ordinary (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Classmates as found family (AniList spoiler tag)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Prestigious school ranks; king characters (MU)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Fantasy academy with androids and magic (MU)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Friendship and fun over duty."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "Yankeedom"],
+  "japan": "The transfer-student and class-friendship framework reflects Japanese school-life conventions, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No source reports how themes are delivered."
+ },
+ "winners_losers": "Blade and his classmates are the sympathetic center; the nature of his secret is not reported.",
+ "to_verify": [
+  "No manga review opened; only an anime review was found in search.",
+  "Fan-service level (sexuality capped at 3, may be understated).",
+  "Blade's secret and the series' ongoing arc (23 volumes)."
+ ]
+}

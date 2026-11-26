@@ -1,0 +1,89 @@
+{
+ "anilist_id": 30339,
+ "title": "Cromartie High School",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30339",
+  "https://api.mangaupdates.com/v1/series/18047682389"
+ ],
+ "premise": "Takashi Kamiyama ends up at Cromartie High, a school of delinquents where, per the ADV blurb, 'the fist rules' and the halls hold foul-mouthed robots, apes and masked villains. An episodic surreal parody of delinquent manga (AniList Surreal Comedy, Parody; MU Random Plot, Episodic). It won the 2002 Kodansha Manga Award for shonen (MU note).",
+ "life_message": "Absurd humour: the posturing of tough-guy delinquent culture is played for laughs.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Delinquent school where 'the fist rules' (blurb); comic in tone (Parody, Surreal Comedy tags)."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted; gag comedy."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted; all-boys school (MU)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "'Foul-mouthed robots' (blurb); level not checked (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted in sources; delinquent setting may include smoking gags (to verify)."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Delinquent posturing and fights, presented as parody."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Absurdism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Absurdist parody of delinquent (yankii) manga",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 3, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Mocks the pride of the tough-guy delinquent code at Cromartie.", "concerns": "School fighting and coarse talk played for laughs."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Pride and bravado shown as ridiculous.", "concerns": "Anger and brawling as comic fodder."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "No glamour in the delinquents' world; it is a joke.", "concerns": "Foul-mouthed robots; possible crude language."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Kamiyama keeps his decency among bullies.", "concerns": "Fist-rules school culture shown without consequences."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Light comedy with no occult focus.", "concerns": "Coarse language and fighting jokes."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Satire exposes foolish pride.", "concerns": "Little moral framing beyond the gag."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Harmless absurdity under Christian freedom.", "concerns": "Rough school setting."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Bullying culture deflated by humour.", "concerns": "Violence as background gag."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle satire of a genre.", "concerns": "Crude jokes possible."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Toughness made laughable rather than heroic.", "concerns": "Fist-based hierarchy as the comic premise."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Clean of sexual content in sources.", "concerns": "Foul language from robot classmates."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Satirizes macho posturing.", "concerns": "Bullying as setting."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "No sexual content noted; mocks arrogance.", "concerns": "Coarse speech."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Ego of gang leaders deflated.", "concerns": "Rough peer culture."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Shows ego-posturing as empty and absurd.", "concerns": "Brawling as a running joke."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Undercuts toxic-masculinity tropes of delinquent manga.", "concerns": "Mostly male cast; bullying jokes."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Satire and absurdity prized; skewers dumb machismo.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Pokes fun at delinquents rather than glamorizing them.", "concerns": "Disrespect for school authority as comic norm."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "No spiritualism; harmless gags.", "concerns": "Rough talk and fighting."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Fighting shown as silly.", "concerns": "Bad associations: a school of delinquents is the setting."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Light-hearted, not fear-inducing.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Humour about conformity and toughness.", "concerns": "Bullying backdrop."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Playful absurdity.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Ensemble harmony of misfits.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Pride mocked.", "concerns": "Brawling for status."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "No prejudice-driven humour noted.", "concerns": "Coarse speech."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Irreverent toward authority and tough-guy codes.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Arrogance ridiculed.", "concerns": "Nivul peh; time-wasting gag comedy."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Satire of pride.", "concerns": "Coarse language."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Undercuts bullying bravado.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Delinquent honor codes and fist-rule hierarchy are the premise, but parodied (blurb, Parody tag)."},
+   "Order vs freedom": {"pos": 8, "evidence": "School of underachievers with little adult order (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Gang loyalty among classmates; no family focus noted."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Delinquent pecking order mocked rather than upheld."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular absurdist comedy."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Eccentric characters express themselves freely (MU Quirky Characters)."}
+  },
+  "closest": ["The Far West", "New Netherland", "Catholic Europe"],
+  "japan": "Parodies the Japanese yankii (delinquent) genre, whose gakuran uniforms and gang honor codes were a staple of 1980s-90s shonen manga."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic gag parody (AniList, MU Random Plot); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A gag series with no stated message; satire is left for readers to notice."
+ },
+ "winners_losers": "No one wins or loses in a lasting way; the delinquent code itself is the butt of the joke.",
+ "to_verify": [
+  "English license partial or lapsed: ADV released 12 of 17 volumes before closing (MU); out of print.",
+  "Language and smoking gags not checked.",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

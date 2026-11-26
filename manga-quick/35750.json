@@ -1,0 +1,88 @@
+{
+ "anilist_id": 35750,
+ "title": "Happy-Go-Lucky Days",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/35750", "https://api.mangaupdates.com/v1/series/73906606111", "https://beneaththetangles.com/2020/09/15/review-happy-go-lucky-days/"],
+ "premise": "A two-volume anthology by Takako Shimura (Wandering Son) of linked short stories about young people's love and sexual relationships in Japan (AniList; MangaUpdates). Stories include a woman who meets another woman at the wedding of a girl both once loved, a teacher at an all-boys school and a student's confession, and childhood friends whose bodies and feelings change through adolescence. A 2020 anime film adapted several stories (Beneath the Tangles).",
+ "life_message": "All loves and ways of living have equal value, and even painful love becomes a tender memory (AniList blurb).",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Ghost appears in one story (AniList tag)."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Neutral", "note": "MangaUpdates genre Adult with Nudity, Masturbation, 'Borderline H'; AniList Nudity tag; described as 'mildly erotic' (MangaUpdates) and 'slightly erotic' (Beneath the Tangles)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Hikikomori character and loneliness (AniList and MangaUpdates tags); review notes loneliness theme."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Student-teacher relationship, sexual coercion and shoplifting categories (MangaUpdates); incest subplot (AniList and MangaUpdates); framing to verify."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "All loves of equal value; sexual coming-of-age; heartbreak as growth",
+ "axes": {"economic": 5, "social": 9, "cultural": 7, "community": 4},
+ "foundations": {"care": 7, "loyalty": 3, "fairness": 6, "sanctity": 1, "authority": 2, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Tender regard for heartbreak and the dignity of lonely people.", "concerns": "Stated message that all sexual lifestyles are equal; incest subplot; teen sexuality."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Honest about the pain of youthful love.", "concerns": "Erotic content and teacher-student and incest themes inflame the passions."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little beyond compassion for the hurting.", "concerns": "Openly teaches every sexual form is equally good; nudity and adolescent sexuality."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Opens talk about loneliness and first love.", "concerns": "Relativist sexual ethic stated outright; Adult-genre content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sexual content, same-sex romance, ghost and incest themes."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Truthful about human longing and failure.", "concerns": "Lascivious pictures (WLC Q139) and an ethic of 'all love equal'."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Ordinary lives treated with care.", "concerns": "Sixth-commandment issues; ELCA families still wary of teacher-student and incest threads."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Compassion for lonely people.", "concerns": "Erotic content hinders holiness; UMC families would weigh coercion themes."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Literary treatment of love's many forms.", "concerns": "Adolescent sexuality and incest subplot."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly sexuality is the subject throughout."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Law of chastity; vulgar, immoral media."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Inclusive view of gay, lesbian and bisexual love.", "concerns": "Teacher-student, coercion and incest threads raise exploitation concerns."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Zina, same-sex relations and nudity throughout."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Kama explored with emotional depth.", "concerns": "Teacher-student relations violate guru respect; incest."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Impermanence of love; pain becomes memory.", "concerns": "Third precept: coercion and teacher-student relations."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Queer love affirmed; 'love is love' stated.", "concerns": "Sexualization of adolescents and coercion need scrutiny."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Humane, this-world view of love and loss.", "concerns": "Exploitation risk in teacher-student and coercion stories."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Relativist sexual ethic for young readers; incest and teacher-student."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sexual content and a ghost character."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality and homosexual relations approved; ghost."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Pain gives way to tender memory.", "concerns": "Dwells on material sense and sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Worth of every love affirmed.", "concerns": "Age-appropriateness and coercion themes."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Sexuality as natural and sacred.", "concerns": "Consent and age questions."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Seasonal, everyday moments of youth.", "concerns": "Family disharmony; incest subplot."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest feelings shown.", "concerns": "Lust and relationships outside marriage."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Chastity before marriage directly contradicted."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Communication between lovers.", "concerns": "Coercion harms people of good will."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Sexual freedom among consenting people.", "concerns": "Any sexualization of minors (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immodest images, forbidden relations, incest."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Dignity of LGBTQ characters.", "concerns": "Degrading content, incest, teacher-student."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Inclusion of many loves.", "concerns": "Consent ethics in coercion and teacher-student stories."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Hurt handled privately; no honor contests (review)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Characters choose their own loves regardless of convention."},
+   "Civic vs kin": {"pos": 3, "evidence": "Friends and lovers matter more than family."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Teacher-student lines crossed; little deference."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "'All love and lifestyles have the same value' (AniList blurb)."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "Self-expression and tolerance are the stated message."}
+  },
+  "closest": ["The Left Coast", "New Netherland", "Protestant Europe"],
+  "japan": "All-boys schools, hikikomori and quiet unspoken longing reflect early-2000s Japanese youth settings."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Blurb states 'Love is love... all love and lifestyles have the same value'; review calls the film subtle and honest.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The equality-of-loves message is stated outright in framing, while stories themselves are understated."
+ },
+ "winners_losers": "Every lover, gay, lesbian, bisexual or straight, gets sympathy; no worldview opposing this is represented.",
+ "to_verify": [
+  "Ages of characters in sexual scenes, especially the adolescent childhood-friends story and the all-boys-school story.",
+  "How the incest subplot and 'sexual coercion' category are framed.",
+  "Digital Manga Guild English edition: check current availability (DMG program largely ended)."
+ ]
+}

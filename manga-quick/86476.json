@@ -1,0 +1,93 @@
+{
+ "anilist_id": 86476,
+ "title": "Smokin' Parade",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/86476",
+  "https://api.mangaupdates.com/v1/series/10823632753",
+  "https://www.animenewsnetwork.com/review/smokin-parade/gn-1/.115872"
+ ],
+ "premise": "In a near future where organ and limb transplants are common, fifteen-year-old Youkou's sister Mirai transforms into a killer after receiving new legs from the company Amenotori, kills two friends and takes Youkou's limbs. He is rescued by the Jackalopes, mechanically augmented humans who hunt people turned into weapons by Amenotori's biotech, and is torn between joining them and hoping his sister can recover (ANN review vol. 1; Yen Press blurb).",
+ "life_message": "Grief and love for family must be weighed against stopping those who misuse medicine to harm people.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Shown with consequences", "note": "Heavy gore, killings and amputations (ANN vol. 1); Gore, Blood and Gore, Violence, Torture tags (AniList, MU)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Body horror with mascot-headed transformed humans 'scarier than they sound' (ANN); Body Horror tag (AniList)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Nudity and Big Breasts categories (MU), Nudity spoiler tag (AniList); not in the review, capped (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Drugs spoiler tag at low rank (AniList); context unknown."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Grief over a sister turned killer clouds Youkou's judgment (ANN)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Teen in an armed hunting squad (ANN)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "None reported."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 6, "stance": "Critiqued"},
+  {"lens": "Utilitarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 3, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Medical hubris and body modification; family loyalty under horror; corporate conspiracy",
+ "axes": {"economic": 4, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 6, "sanctity": 5, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Questions medical technology that treats bodies as replaceable parts.", "concerns": "Heavy gore and killings by transformed humans."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Grief and love for Mirai.", "concerns": "Graphic body horror inflames fear; hunting of transformed people."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Exposes a corrupt company preying on patients.", "concerns": "Gore, torture and nudity tags."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Youkou's love for his sister despite what she did.", "concerns": "Graphic violence weighed against thin moral framing (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Fight against those who weaponize healing.", "concerns": "Possession category (MU) and body horror."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Shows human pride in remaking bodies.", "concerns": "Gore and nudity."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Vocation of protecting others from harm.", "concerns": "Graphic content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Concern for victims of exploitation.", "concerns": "Gore and torture."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Moral questions about medicine framed seriously (ANN).", "concerns": "Graphic content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Questions technology's reach.", "concerns": "Violence as solution by an armed squad."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Family love endures.", "concerns": "Violent and gory content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Critique of corporate medicine harming the vulnerable.", "concerns": "Gore and fan-service nudity (to verify)."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Body as trust not to be abused.", "concerns": "Gore and nudity."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Duty to family and to stopping adharma.", "concerns": "Graphic violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Suffering from attachment to Mirai explored.", "concerns": "Violence and killing."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Medical ethics and corporate accountability; reporter exposes Amenotori (ANN).", "concerns": "Gore; possible sexualized character designs (MU)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Investigative reporter pursuing truth.", "concerns": "Cruelty and gore."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Family loyalty and courage.", "concerns": "Gratuitous gore and nudity."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Health and body integrity implicitly valued.", "concerns": "Graphic violence and possession."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Exposing harmful medical practices.", "concerns": "Violent entertainment."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Skepticism of material medicine.", "concerns": "Fear-inducing body horror."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Justice against exploitative power.", "concerns": "Graphic content."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Harm none violated by Amenotori.", "concerns": "Gore."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Body purity and natural order upset.", "concerns": "Blood and death throughout."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Defending people from a predatory power.", "concerns": "Gore and nudity."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Science must serve ethics.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Significant", "aligns": "Distrust of medical establishment overreach.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Defies an arbitrary corporate power.", "concerns": "Harm to a child (Mirai) by the company."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Guarding life and body.", "concerns": "Gore and nudity."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Medical ethics raised.", "concerns": "Graphic content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Justice against exploitation.", "concerns": "Graphic content."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Jackalopes settle threats by force; no courts shown (ANN)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Secret squad acts outside official order."},
+   "Civic vs kin": {"pos": 7, "evidence": "Youkou's loyalty to Mirai drives him (ANN)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Squad under a scientist leader (ANN)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Biotech and medical-ethics world (ANN, MU Biopunk)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Struggle to survive attacks dominates."}
+  },
+  "closest": ["Orthodox Europe", "El Norte", "Tidewater"],
+  "japan": "Uses shounen action conventions of a secret team and a hero bound by family duty; described, not judged."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN: themes come through world-building and Youkou's internal debate; reviewer hoped for more explicit medical ethics.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Medical-ethics themes emerge through the plot rather than speeches, per one volume-1 review."
+ },
+ "winners_losers": "Jackalopes oppose Amenotori; sympathy rests with victims and Youkou (outcome to verify).",
+ "to_verify": [
+  "Only volume 1 reviewed (ANN); later-volume content and ending unknown.",
+  "Nudity and fan service (MU Nudity, Big Breasts) not described in the review; sexuality capped.",
+  "Torture category (MU) not in the review.",
+  "Character name 'Youkou' spelled 'Youkuo' in MU description."
+ ]
+}

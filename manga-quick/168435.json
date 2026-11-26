@@ -1,0 +1,370 @@
+{
+ "anilist_id": 168435,
+ "title": "Rai Rai Rai",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/168435",
+  "https://api.mangaupdates.com/v1/series/7126917612",
+  "https://scrmbl.com/post/rai-rai-rai-review"
+ ],
+ "premise": "After a failed alien invasion, 18-year-old Sumire Ichigaya works a low-paid job exterminating space pests; abducted by aliens, she wakes with a monstrous arm and a foul-mouthed voice in her head (VIZ blurb). She joins a paramilitary squad caught between rival megacorporations Raiden and Red Rock, forming a found family with sword-wielding Hazuki (Scrmbl review). Ongoing.",
+ "life_message": "Ordinary courage and found family matter more than power, and power held by corporations should be questioned.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Combat, laser blasts, swordplay, a family murdered by aliens (Scrmbl); MU Blood and Gore, Body Horror; AniList Gore."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Grim post-apocalyptic setting (Scrmbl); body horror, human experimentation (MU, AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU Nudity, Partial Nudity; not in review (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Foul-mouthed alien voice (VIZ blurb)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Traumatic past (MU); Hazuki's grief."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fighting."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Found family; corporate power; courage",
+ "axes": {
+  "economic": 4,
+  "social": 5,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sumire defends friends; found family (Scrmbl).",
+   "concerns": "Gore and body horror; nudity tags."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage for others.",
+   "concerns": "Violence; voice urging to kill."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protecting friends.",
+   "concerns": "Violence; nudity; language."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage and loyalty.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Resists the voice urging her to kill.",
+   "concerns": "Alien possession-like voice; gore."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions unchecked power.",
+   "concerns": "Violence; language."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sumire supports her family by work.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care within a squad.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Humane bonds amid ruin.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Distrust of corporate militaries.",
+   "concerns": "Paramilitary fighting as heroic."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hard work; family support.",
+   "concerns": "Violence; language."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Corporate accountability (Scrmbl).",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Supporting family.",
+   "concerns": "Violence; nudity; language."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting the weak as duty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion between squadmates.",
+   "concerns": "Killing."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Working-class female lead; corporate critique.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions about power and accountability.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage; hard work.",
+   "concerns": "Language; violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Found family.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence; paramilitary."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage overcoming fear.",
+   "concerns": "Body horror."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Found family; justice.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity of Sumire.",
+   "concerns": "Blood (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending friends; honest labor.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Unity.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Third dynamic: group.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defiance of corporate control.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Violence; language."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice questions.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice and accountability.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Fights defend friends, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Distrust of corporate rule (Scrmbl)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Found family squad."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Paramilitary ranks."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Sci-fi tech world."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Debt and survival work."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Catholic Europe",
+   "The Far West"
+  ],
+  "japan": "Struggling young workers, debt and dead-end jobs mirror Japanese 'working poor' concerns, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Scrmbl: themes emerge through relationships and corporate intrigue.",
+  "personified": [
+   {
+    "character": "Raiden and Red Rock CEOs",
+    "ideology": "Unaccountable corporate power",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Rival CEOs drive intrigue; their motives are a mystery (Scrmbl)."
+ },
+ "winners_losers": "Sumire and her found family get sympathy; corporate power is questioned.",
+ "to_verify": [
+  "Nudity (MU) not mentioned by review.",
+  "Gore level.",
+  "Ongoing; MU record matched to VIZ blurb."
+ ]
+}

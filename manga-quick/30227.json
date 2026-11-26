@@ -1,0 +1,362 @@
+{
+ "anilist_id": 30227,
+ "title": "Laugh Under the Sun",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30227",
+  "https://api.mangaupdates.com/v1/series/33634890928"
+ ],
+ "premise": "After nearly killing an opponent in a high-school boxing match, Sohei gave up his dream; at 25 he drifts between jobs and lives off older wealthy women (Juné blurb, MU). His writer friend Chika, secretly in love with him for ten years, pushes him back to the gym and a pro test.",
+ "life_message": "Facing old guilt and trying again is the way back to a good life.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Boxing; past bout that nearly killed an opponent (blurb, MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Pro test pressure."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Sohei lives off older women (MU); Chika's bold advances (Juné blurb); AniList Boys' Love."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Gym squabbles (blurb)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Guilt and insecurity (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Living off lovers' money (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Stoicism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Existentialism, Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sohei atones and rebuilds; Chika's patient friendship.",
+   "concerns": "Same-sex romance; living off women."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Repentance for past harm.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Turning a wasted life around.",
+   "concerns": "Sexual immorality; same-sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Redemption through discipline.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Restoration.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence and vocation.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation recovered.",
+   "concerns": "LCMS concern on romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Growth toward wholeness.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Grace of second chances.",
+   "concerns": "Same-sex romance divides provinces."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Guilt over violence.",
+   "concerns": "Boxing glorified as dream."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-reliance regained.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gay love and recovery.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty and effort.",
+   "concerns": "Violence in sport."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Facing karma of past harm.",
+   "concerns": "First precept and boxing."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mental resilience.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-improvement.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hard work and courage.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Discipline.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Effort.",
+   "concerns": "Violent sport; same-sex."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming fear.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Second chances.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal responsibility.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work over idleness.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal integrity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-made success.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teshuvah after harming another.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Repentance and growth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Boxing pride and guilt (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Sohei chooses his path."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friends over family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Gym seniority with 18-year-olds (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular life."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Work and dream balanced."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Far West",
+   "Yankeedom"
+  ],
+  "japan": "Gym seniority and the pro test (pro tesuto) reflect Japanese boxing culture, shown as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Carried by Sohei's comeback (blurb); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A comeback romance without lectures (to verify)."
+ },
+ "winners_losers": "Sohei returns to boxing and to Chika (to verify).",
+ "to_verify": [
+  "Pro test outcome",
+  "Whether Sohei and Chika become a couple",
+  "Explicitness"
+ ]
+}

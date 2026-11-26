@@ -1,0 +1,380 @@
+{
+ "anilist_id": 104780,
+ "title": "Welcome to Ethics Class",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/104780",
+  "https://en.wikipedia.org/wiki/Koko_wa_Ima_kara_Rinri_Desu"
+ ],
+ "premise": "Mr. Takayanagi, a calm and enigmatic high school ethics teacher, meets students in crisis one by one and uses ethical thinking and philosophy to help them face their problems. The episodic seinen drama takes on serious issues that database tags list as bullying, suicide, sexual assault, drugs and delinquency. It was adapted into an NHK television drama in 2021.",
+ "life_message": "Thinking carefully about right and wrong, with a trusted adult, can help young people face even the hardest parts of life.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Crime and delinquency themes (AniList Crime 60, Delinquents 57) (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Emotional crises rather than horror (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Condemned",
+   "note": "Sexual assault and abuse listed as topics (AniList Rape 50; MangaUpdates Rape, Abuse); not confirmed by Wikipedia; possibly higher (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Delinquent students' speech (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Drug use among students tagged (AniList Drugs 36) (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Suicide and bullying as central topics (AniList Suicide 63, Bullying 73); possibly higher (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Shown with consequences",
+   "note": "Risky behaviors examined through ethics lessons."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "NHK drama adaptation."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Stoicism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Philosophy as care; mentorship; facing hard truths",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 9,
+  "loyalty": 5,
+  "fairness": 7,
+  "sanctity": 4,
+  "authority": 5,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "A teacher accompanying wounded students; reason as a path to moral truth.",
+   "concerns": "Ethics without God; suicide and sexual assault handled frankly."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Pastoral care for suffering youth.",
+   "concerns": "Secular philosophy replaces spiritual fathers."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for bullied and abused students.",
+   "concerns": "Moral reasoning apart from Scripture; mature topics."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassionate mentorship.",
+   "concerns": "Relativist conclusions possible."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Taking pain seriously.",
+   "concerns": "No spiritual answer offered."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Common-grace wisdom in philosophy.",
+   "concerns": "Autonomous reason as foundation."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation of teaching as neighbor love.",
+   "concerns": "Heavy topics."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Reason and experience in moral growth.",
+   "concerns": "Mature content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Reason as a leg of moral discernment.",
+   "concerns": "Frank treatment of suicide."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for the vulnerable.",
+   "concerns": "Worldly philosophy; mature themes."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Agency and moral choice.",
+   "concerns": "Sexual and drug content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Justice, mental health and LGBTQ inclusion (AniList tag).",
+   "concerns": "Safe messaging on suicide."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Concern for youth and justice.",
+   "concerns": "Ethics without revelation; sexual and drug topics."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Guru-like teacher guiding students.",
+   "concerns": "Mature topics."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Wisdom and compassion for suffering.",
+   "concerns": "Intense topics."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Mental health, consent and bullying addressed.",
+   "concerns": "Safe messaging guidelines."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Ethics through reason, philosophy and empathy.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Teacher as moral authority; personal responsibility.",
+   "concerns": "Mature topics."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Education valued.",
+   "concerns": "Mature topics."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty and helping youth.",
+   "concerns": "Worldly philosophy; immorality topics."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Right thinking changes experience.",
+   "concerns": "Dwelling on trauma."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Free and responsible search for meaning.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal responsibility.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity and harmony restored.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truthful living and service.",
+   "concerns": "Drugs and sexual themes."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Education and harmony of reason.",
+   "concerns": "Drugs and sexual topics."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Study and helping others.",
+   "concerns": "Mental-health framing may conflict."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Reason over dogma.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mussar-like character work.",
+   "concerns": "Secular philosophy; sexual topics."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Learning as moral formation.",
+   "concerns": "Heavy content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ethical reasoning and inclusion.",
+   "concerns": "Suicide portrayal."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 1,
+    "evidence": "Conflicts addressed through reflection and dialogue."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Students guided to choose for themselves."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Teacher cares for every student equally."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Teacher respected but speaks to students as equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Western philosophy and reason guide answers."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Students' inner lives and choices centered."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Protestant Europe",
+   "Catholic Europe"
+  ],
+  "japan": "Rinri (ethics) is a standard Japanese high school civics subject, and the teacher-as-mentor role reflects Japanese school expectations."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "AniList: teacher confronts each student's crisis through ethics and philosophy; Educational and Philosophy tags. No review on tone (to verify).",
+  "personified": [
+   {
+    "character": "Mr. Takayanagi",
+    "ideology": "Ethical reflection and philosophy as a guide through hard situations",
+    "role": "Mentor",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The message is carried by the teacher's ethics discussions with a different student in each episodic case."
+ },
+ "winners_losers": "Students who reflect win; ignorance and isolation lose. Sympathy goes to thoughtful mentorship.",
+ "to_verify": [
+  "Exact treatment of sexual assault and suicide episodes; scores possibly understated",
+  "MANGA MILLION English edition is digital and possibly partial",
+  "Drug storyline",
+  "Delivery style, preachiness and treatment of opposing views (no source on delivery)"
+ ]
+}

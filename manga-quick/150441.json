@@ -1,0 +1,357 @@
+{
+ "anilist_id": 150441,
+ "title": "Aliens Area",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/150441",
+  "https://api.mangadex.org/manga?title=Aliens%20Area"
+ ],
+ "premise": "High schooler Tatsumi Tatsunami lost his parents young and works several part-time jobs to support his younger siblings. When his body suddenly changes and mysterious beings start showing up at his house, he must awaken his powers to protect his family and Earth. A short shonen action series serialized on Shonen Jump+.",
+ "life_message": "Protecting family and those you love gives a hard-working young person the strength to face any threat.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Action against alien beings (AniList Action; MangaDex Action, Police, Aliens); intensity not documented (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Alien threat."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not documented."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Orphaned teen supporting siblings."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Family duty; protecting others; hard work",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's sacrificial care for his younger siblings.",
+   "concerns": "Action violence against aliens."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-giving love for family.",
+   "concerns": "Action violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's hard work and responsibility.",
+   "concerns": "Action violence."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi lays down his comfort for siblings.",
+   "concerns": "Action."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Tatsumi's protection of others.",
+   "concerns": "Supernatural powers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation of providing for family.",
+   "concerns": "Action."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's daily labor as vocation.",
+   "concerns": "Little; shonen action."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's care for the vulnerable.",
+   "concerns": "Action."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Protecting family and Earth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Tatsumi's family devotion.",
+   "concerns": "Heroic fighting."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's self-reliance and family care.",
+   "concerns": "Action."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Working-poor family portrayed with dignity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Care for orphaned siblings.",
+   "concerns": "Action."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's dharma as eldest brother.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion for siblings.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Economic struggle shown sympathetically.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's responsibility.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work and family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's diligence.",
+   "concerns": "Action violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family care.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Courage over fear.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's care for siblings.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Protecting Earth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Household continuity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi defends the vulnerable.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family duty.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's survival dynamic for family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reliance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honoring family duty.",
+   "concerns": "Action."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's family care.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsumi's care for others.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Tatsumi fights to protect family."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Ordinary life upended."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Siblings first."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Unknown."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Sci-fi setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Part-time jobs to survive."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "El Norte",
+   "Latin America"
+  ],
+  "japan": "An eldest sibling taking on family duty reflects Japanese household norms, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Theme carried by action."
+ },
+ "winners_losers": "Tatsumi fights to protect his family; outcome not documented.",
+ "to_verify": [
+  "MangaUpdates record timed out repeatedly (502/504); not used.",
+  "Violence intensity.",
+  "Plot after awakening."
+ ]
+}

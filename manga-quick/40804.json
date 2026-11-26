@@ -1,0 +1,363 @@
+{
+ "anilist_id": 40804,
+ "title": "My Girlfriend's a Geek",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/40804",
+  "https://api.mangaupdates.com/v1/series/4627891609"
+ ],
+ "premise": "College student Taiga Mutou falls for Yuiko, an older coworker at his part-time office job, and she agrees to date him, but reveals she is a fujoshi, a devoted fan of boys' love fiction. Based on a blog-born novel by Pentabu, the comedy follows Taiga learning her hobby and its subculture.",
+ "life_message": "Love means accepting a partner's passions, even unfamiliar ones.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dating couple; heroine's BL fandom referenced (MU Fujoshi, Delusions)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Taiga's insecurities (MU Troubled Protagonist)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MU lists 'Manipulative Lover', 'Selfish Female Lead' (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Otaku goods, cosplay and fan events."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism; Consumerism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Patient love that accepts differences.",
+   "concerns": "Yuiko's BL fandom references; unmarried dating."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle humility of Taiga.",
+   "concerns": "Fandom consumption as passion."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kind, devoted male lead.",
+   "concerns": "Same-sex fantasy fandom played for laughs."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest relationship built on acceptance.",
+   "concerns": "BL fandom content references."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithful affection.",
+   "concerns": "Worldly fandom focus; BL references."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Common-grace comedy of ordinary life.",
+   "concerns": "Fantasy fixation."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Bearing with a partner's quirks in love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Growth in patient love.",
+   "concerns": "Time spent on fandom."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle comedy about real couples.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Simple, nonviolent story.",
+   "concerns": "Absorption in worldly media."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Acceptance between partners.",
+   "concerns": "Fandom media choices."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mutual respect across differences.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness between partners.",
+   "concerns": "Dating outside marriage; BL fandom."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect within a relationship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Non-judgment of others' joys.",
+   "concerns": "Attachment to hobbies."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Women's fandom treated with acceptance.",
+   "concerns": "Possible fujoshi stereotyping."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tolerance and curiosity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hardworking young man.",
+   "concerns": "BL fandom content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Faithful affection.",
+   "concerns": "Fiction absorption."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Clean comedic tone.",
+   "concerns": "BL fan culture references."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love over judgment.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inherent worth of each partner.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom to follow one's joys.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity in love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work at the office.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Consultation in a relationship.",
+   "concerns": "Fandom absorbing time."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication between partners.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulging one's passions unashamed.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Shalom bayit-style patience.",
+   "concerns": "BL references; time-wasting entertainment."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect between partners.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Acceptance and inclusion.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Differences settled by talking, not pride."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Couple follows personal interests freely."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Peer and work circles over kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Older coworker girlfriend; mild senpai roles."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular, modern urban life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Hobbies and self-expression central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Catholic Europe"
+  ],
+  "japan": "Otaku and fujoshi subcultures and office senpai-kohai roles form the comic backdrop."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; acceptance theme inferred from blurbs (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Acceptance of a partner's hobby is carried by comedy."
+ },
+ "winners_losers": "Taiga and Yuiko's relationship is the center; no clear losers in the sources.",
+ "to_verify": [
+  "Whether the 'Manipulative Lover' MU tag reflects the story's framing",
+  "How BL fandom content is depicted",
+  "Ending of the 5-volume series",
+  "Yen Press edition still in print (to verify)"
+ ]
+}

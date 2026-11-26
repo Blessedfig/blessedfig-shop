@@ -1,0 +1,357 @@
+{
+ "anilist_id": 100578,
+ "title": "37°C Spirits",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/100578",
+  "https://api.mangaupdates.com/v1/series/3438863396"
+ ],
+ "premise": "When the owner of a flower shop and the owner of a liquor store marry, Chiaki and Mine become stepbrothers. Mine, from the liquor family, gets drunk very easily, and the blurb asks how Chiaki will 'take advantage of' Mine's drunken adventures (AniList; MU). Two side stories from Rule Sono Ichi are included.",
+ "life_message": "Hidden feelings between new stepbrothers come out through comic drunken mishaps.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Stepbrother Boys' Love (MU 'false incest'); kisses; MangaDex rating suggestive (batch data)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Drinking and drunkenness are the comic engine (AniList blurb, MU 'Alcohol', 'Low Alcohol Tolerance')."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "'Taking advantage' of a drunk partner framed as comedy (blurb only, to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Hedonism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 4,
+  "fairness": 2,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "New family bonds.",
+   "concerns": "Drunkenness and same-sex romance between stepbrothers."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness; passions; stepbrother romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol shown comically; same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness exploited; same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol and sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness (WLC Q139)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Blended family.",
+   "concerns": "Drunkenness; consent."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol central; holiness abstinence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Blended family comedy.",
+   "concerns": "Drunkenness exploited."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness; worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Word of Wisdom; chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Queer romance.",
+   "concerns": "Consent when drunk."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol central; same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Intoxicants; family-role blurring."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Fifth precept; clouded consent."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Queer romance.",
+   "concerns": "Consent while intoxicated."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Consent and alcohol."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Blended family.",
+   "concerns": "Drunkenness; stepbrother romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol central; sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness; immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Alcohol; sensual material."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Consent; alcohol."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Consent required."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sake culture normal.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol forbidden; lust."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol forbidden."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Alcohol excess."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Indulgence.",
+   "concerns": "Compulsion; unwanted advances."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness; same-sex intimacy."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Consent; alcohol."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Consent; alcohol."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor stakes."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Drinking and desire unchecked."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Blended family household."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Stepbrother roles."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular family business."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Pleasure and feelings foregrounded."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "New Netherland"
+  ],
+  "japan": "Remarriage blending two family shops reflects Japanese family-business households."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedic blurb; no review on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Drinking mishaps drive a comedy of hidden feelings."
+ },
+ "winners_losers": "Chiaki's secret crush gets its chance; Mine's drunkenness is the vulnerability played for laughs.",
+ "to_verify": [
+  "How 'taking advantage' plays out and whether consent is addressed.",
+  "Ages (MU lists students).",
+  "License status (batch note: check)."
+ ]
+}

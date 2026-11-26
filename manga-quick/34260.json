@@ -1,0 +1,363 @@
+{
+ "anilist_id": 34260,
+ "title": "Mail",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/34260",
+  "https://api.mangaupdates.com/v1/series/15267105998",
+  "https://mangacritic.mangabookshelf.com/2012/10/20/the-best-manga-youre-not-reading-mail/"
+ ],
+ "premise": "Private detective Reiji Akiba can see the dead, who he believes reach us through odd coincidences, and he lays evil spirits to rest with a gun called Kagutsuchi (Dark Horse blurb via AniList and MangaUpdates). A three-volume collection of episodic ghost stories by Housui Yamazaki; a Manga Bookshelf review describes spook-of-the-week tales mixing moral tales, campfire scares and urban legends, with murdered babies, vengeful lovers, drowning victims and gruesome imagery, and gives the Dark Horse rating as older teen/mature.",
+ "life_message": "It suggests that the dead carry unfinished grief and wrongs, and that someone must face them so the living can be at peace.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Gruesome imagery, murders (review); Gore tag (AniList); ghosts dispatched by gunshot."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Horror ghost stories, murdered babies, urban legends (review); Horror genre and Dark Ambience (databases)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Nudity tag at low rank (AniList); review notes none."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Suicide/s category (MangaUpdates); review silent, so capped (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Gun as exorcism tool; urban-legend scares."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Live-action film adaptation (MangaUpdates)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Restless dead and exorcism; urban fears; moral ghost tales",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 6,
+  "sanctity": 6,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Some tales are morality plays where wrongs come to light (review).",
+   "concerns": "Spirits of the dead contacted and shot; spiritism themes."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Evil spirits treated as real and to be resisted.",
+   "concerns": "Exorcism by gun, gruesome dead; guarding the senses."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Wrongdoing exposed in moral tales.",
+   "concerns": "Ghosts and spirit contact; gore."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Evil is confronted, not celebrated.",
+   "concerns": "Spirits of the dead; gruesome horror."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Evil spirits opposed.",
+   "concerns": "Spirit contact and exorcism outside faith; occult open door."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sin's hidden consequences surface.",
+   "concerns": "Necromancy-like seeing of the dead; gore."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful look at guilt and death.",
+   "concerns": "Ghosts of the dead; horror."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Harm done returns to light.",
+   "concerns": "Fear-driven gore; spiritism."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gothic moral tales in a long ghost-story tradition.",
+   "concerns": "Gruesome imagery."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Wrongs like hit-and-run named (review).",
+   "concerns": "Gun violence as the solution each time."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Moral consequences shown.",
+   "concerns": "Spirit contact, gore, dark media."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Urban alienation and buried history examined (review).",
+   "concerns": "Murdered babies and gore."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Wrongdoing brought to account.",
+   "concerns": "Spirits of the dead and supernatural powers; gore."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Karma of wrongs follows the dead.",
+   "concerns": "Gruesome horror; restless dead."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Attachment keeps the dead from rest.",
+   "concerns": "Killing ghosts by gun; fear."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Victims of crime given a voice.",
+   "concerns": "Gore; suicide portrayals (safe messaging)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Urban-legend fears as fiction.",
+   "concerns": "Supernatural presented as real within story."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wrongdoers face consequences.",
+   "concerns": "Gore and occult horror."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Moral tales of hidden sin.",
+   "concerns": "Spirits of the dead shown as real, contrary to soul-sleep teaching."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond moral tales.",
+   "concerns": "Spiritism, demons and violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Evil shown as defeatable.",
+   "concerns": "Fear-inducing images of death are the core."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion for victims.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirits real and honored as part of the world.",
+   "concerns": "Spirits banished by force rather than respected."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kagutsuchi (a fire kami's name) and rites for the dead.",
+   "concerns": "Death impurity dwelt on; sacred name on a gun."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Wrongs answered.",
+   "concerns": "Superstition and spirits."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice for victims.",
+   "concerns": "Spiritualism; violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirits as enduring beings.",
+   "concerns": "Violence; fear."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ghost stories as aesthetic horror.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hidden wrongs judged.",
+   "concerns": "Necromancy-like contact with the dead; gore."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Moral accountability.",
+   "concerns": "Spirits and horror."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Urban themes and justice.",
+   "concerns": "Gore."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Vengeful dead answer wrongs (review)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Detective restores order to haunted places."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Vengeful lovers and family tragedies."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Lone detective; no rank theme."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Spirits and divine-named weapon alongside modern city."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Fear and survival dominate."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Orthodox Europe",
+   "Puritan"
+  ],
+  "japan": "Urban legends, restless spirits and a weapon named for the fire kami Kagutsuchi draw on Japanese folk belief about the dead, described as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Reviewer says some stories are morality plays but not preachy overall.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Lessons, where present, arise from each ghost's story."
+ },
+ "winners_losers": "Akiba banishes each ghost; the living are spared while the dead's grievances are exposed (review).",
+ "to_verify": [
+  "Suicide content (MangaUpdates category) not confirmed by review.",
+  "Nudity level.",
+  "Dark Horse rating given as older teen/mature in review; check publisher."
+ ]
+}

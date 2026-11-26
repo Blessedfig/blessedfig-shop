@@ -1,0 +1,54 @@
+{
+  "anilist_id": 126135,
+  "title": "Bibliomania",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/126135",
+    "https://www.mangaupdates.com/series/gj02fgo"
+  ],
+  "premise": "A short dark-fantasy work in which a girl who is bullied finds her way into a world tied to books and stories, confronting demons and questions of meaning (to verify; plot could not be sourced). Database tags stress philosophy, a female lead, demons, war and body horror (AniList; MangaUpdates Bullying).",
+  "life_message": "It appears to explore whether stories and imagination can give a hurt person a reason to live (to verify).",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Neutral", "note": "War and body horror flagged (to verify)."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Horror and psychological genres; tragedy flagged (to verify)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None flagged; MangaDex safe (to verify)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Unknown (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None flagged (to verify)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Bullying flagged by MangaUpdates (to verify)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Unknown (to verify)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Small indie release (Kodama) (to verify)."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+    {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+    {"lens": "Postmodernism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Existentialism (philosophy tags), Postmodernism (story about stories), Pagan/occult",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+  "foundations": {"care": 5, "loyalty": 4, "fairness": 5, "sanctity": 4, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "A bullied girl's search for meaning can open talk of dignity and hope (to verify).", "concerns": "Demons and religion as themes, framing unknown; body horror flagged."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Suffering and the search for meaning taken seriously (to verify).", "concerns": "Demons flagged as real presences; framing unclear."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Bullying shown with consequences can prompt talk about kindness (to verify).", "concerns": "Demons and religious themes of unknown framing."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Philosophical questions on meaning invite worldview conversation (to verify).", "concerns": "Demon imagery and war violence in an unverified plot."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Bullying victim's hurt can frame talk of healing (to verify).", "concerns": "Demons in a horror fantasy are a strong concern."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Meaning and suffering in a fallen world (to verify).", "concerns": "Religious themes of unknown orientation; demons."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Comfort for the afflicted girl as a theme (to verify).", "concerns": "Body horror and demons."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Concern for a bullied outsider (to verify).", "concerns": "Horror content and demons."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary fantasy about books and imagination (to verify).", "concerns": "Body horror flagged."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Care for a wounded young person (to verify).", "concerns": "War, demons and horror fantasy."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Agency and finding purpose after bullying (to verify).", "concerns": "Demons and horror imagery."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Bullying and mental health taken seriously (to verify).", "concerns": "Body horror intensity."},
+    {"frame": "Jewish", "grade": "C", "weight": "Discuss", "aligns": "Love of books and learning at the core (to verify).", "concerns": "Demons and religion of unknown framing."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Opposing cruelty toward the weak (to verify).", "concerns": "Demons and religious content unverified."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Stories as moral teachers, like the epics (to verify).", "concerns": "Body horror and demons."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Suffering and liberation through insight (to verify).", "concerns": "Violence and war imagery."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Female lead dealing with bullying (to verify).", "concerns": "Need safe framing of bullying and despair."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Philosophy and imagination valued (to verify).", "concerns": "Body horror."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Literature and resilience valued (to verify).", "concerns": "Occult and demonic themes."}
+  ],
+  "winners_losers": "Could not be determined without a plot source (to verify).",
+  "to_verify": ["Entire plot: no summary could be fetched", "Kodama English edition details and age rating", "How demons and religion are framed", "Whether bullying leads to self-harm themes"]
+}

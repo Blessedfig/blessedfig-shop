@@ -1,0 +1,96 @@
+{
+  "anilist_id": 118570,
+  "title": "Senpai is an Otokonoko",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/118570",
+    "https://api.mangaupdates.com/v1/series/41298461124",
+    "https://en.wikipedia.org/wiki/Senpai_Is_an_Otokonoko",
+    "https://www.animenewsnetwork.com/review/senpai-is-an-otokonoko/my-crossdressing-classmate/volume-1/.225660"
+  ],
+  "premise": "Makoto Hanaoka dresses as a girl at school but hides it from his mother, who wants a 'manly' son. Saki Aoi, a bisexual first-year, falls for Makoto and keeps loving him after learning he is a boy, while his childhood friend Ryuji realizes he also has feelings for him, forming a love triangle (Wikipedia; Webtoon text via AniList; ANN).",
+  "life_message": "Love and friendship should accept people as they are, and being honest about oneself takes courage worth supporting.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 1, "framing": "Neutral", "note": "None noted beyond school conflict."},
+    {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Emotional tension at home (ANN)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Love triangle with same-sex and bisexual feelings (Wikipedia; AniList); nothing explicit noted (MU Wholesome)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Loneliness, pressure at home and judgment at school (Wikipedia; ANN); bullying (MU; AniList spoiler)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Hiding things from a parent (Wikipedia)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 8, "stance": "Affirmed"},
+    {"lens": "Progressivism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Traditionalism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "gender expression and self-acceptance; love regardless of gender; family disapproval",
+  "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 4},
+  "foundations": {"care": 8, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 2, "liberty": 8},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Respect for persons; Makoto's loneliness met with friendship.", "concerns": "Gender expression and same-sex love affirmed against Church teaching."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Compassion for a lonely young man.", "concerns": "Crossdressing and same-sex romance shown as good."},
+    {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Kindness and loyalty among friends.", "concerns": "Gender and sexuality message conflicts with BF&M; mother cast as obstacle."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Opens talk about loneliness and honesty with parents.", "concerns": "Affirming message on gender and sexuality."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Friendship and care.", "concerns": "Holiness standards on gender and sexuality."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Fifth-commandment tension shown honestly.", "concerns": "Conservative churches: affirming message; PC(USA) more open."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Putting the best construction on others.", "concerns": "LCMS/WELS differ from ELCA on the message."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Inclusion and love of neighbor (UMC).", "concerns": "Global Methodist and holiness churches would differ."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Dignity of every human being.", "concerns": "ACNA would differ."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Gentle, nonviolent story of community.", "concerns": "Conservative groups: gender norms questioned."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Kindness to others.", "concerns": "Gender as eternal identity; same-sex romance."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Affirms LGBTQ youth; critiques rejection at home.", "concerns": "Little."},
+    {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Mercy toward a suffering youth.", "concerns": "Crossdressing and same-sex love affirmed."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Inner self over outer form.", "concerns": "Respect for parents strained; views vary."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion and non-attachment to labels.", "concerns": "Little."},
+    {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Positive LGBTQ representation; Makoto drawn humanely (Wikipedia).", "concerns": "Little."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Acceptance and self-determination.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Friendship and loyalty.", "concerns": "Gender message aimed at teens; parent shown as wrong."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Gentle tone.", "concerns": "Same-sex romance and gender expression."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Same-sex romance."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love as the ruling principle.", "concerns": "Families vary."},
+    {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Welcoming of gender diversity; inherent worth.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Affirming of gender and love.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony restored between generations.", "concerns": "Family harmony strained."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality and humility.", "concerns": "Traditional teaching on marriage."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Rejects prejudice against anyone.", "concerns": "Marriage teaching; romance."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determinism.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Affirming; resists imposed norms.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Compassion for a lonely teen.", "concerns": "Crossdressing (Deut 22:5) and same-sex romance."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Dignity of each person.", "concerns": "Views vary by congregation."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Affirming and inclusive.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Worth held regardless of others' judgment (Wikipedia)."},
+      "Order vs freedom": {"pos": 8, "evidence": "Makoto dresses as he chooses despite school and home norms (Wikipedia)."},
+      "Civic vs kin": {"pos": 3, "evidence": "Friends accept him more than family (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Parental authority questioned (ANN)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Inherited gender norms challenged."},
+      "Survival vs self-expression": {"pos": 9, "evidence": "Self-expression and tolerance central (Wikipedia; ANN)."}
+    },
+    "closest": ["New Netherland", "The Left Coast", "English-speaking"],
+    "japan": "The otokonoko subculture and senpai-kohai school relationships shape the setting, and pressure to conform at school reflects Japanese group-harmony norms, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 4,
+    "evidence": "ANN calls it subtle and open to interpretation; Wikipedia notes author's intended theme and a stated line in chapter 31.",
+    "personified": [
+      {"character": "Makoto Hanaoka", "ideology": "Freedom of gender expression", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Makoto's mother", "ideology": "Traditional gender norms for sons", "role": "Foil", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "The disapproving mother is given a family backstory, though the story clearly sides with Makoto."
+  },
+  "winners_losers": "Makoto, Saki and Ryuji grow through honesty and acceptance; the mother's insistence on manliness is shown as harmful but rooted in her own past. Sympathy lies with self-acceptance.",
+  "to_verify": [
+    "Bullying scenes (MU; AniList spoiler)",
+    "How the mother's arc resolves",
+    "Kodansha print rating"
+  ]
+}

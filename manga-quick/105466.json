@@ -1,0 +1,86 @@
+{
+ "anilist_id": 105466,
+ "title": "The Man I'm Probably Going To Marry",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/105466", "https://api.mangaupdates.com/v1/series/42045529163"],
+ "premise": "Nearly 30, Ryosuke Ogitsu goes to a speed-dating event looking for a man to settle down with and meets the earnest, quiet Shun Kariya (Renta! blurb via AniList and MangaUpdates). Their slow, awkward courtship grows serious, but Shun is hiding a big secret. MangaUpdates describes a realistic adult relationship touching on same-sex marriage, past abandonment and trust issues.",
+ "life_message": "Lonely people can build a lasting partnership through patience and honesty (to verify).",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional drama only."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Neutral", "note": "MangaUpdates lists several explicit sex categories; adult same-sex romance (both sources)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Trauma, abandonment and loneliness (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Keeping a secret from a partner (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Seeking a life partner; trust after abandonment; same-sex marriage",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Ryosuke wants lifelong commitment, not casual dating.", "concerns": "The commitment sought is same-sex marriage; explicit sex outside marriage."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Fidelity and seriousness about union.", "concerns": "Same-sex union; sexual content."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Valuing lifelong partnership.", "concerns": "Gay marriage as the goal; sex scenes."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Honesty and commitment as themes.", "concerns": "Same-sex marriage affirmed; explicit content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Loneliness taken seriously.", "concerns": "Same-sex marriage; sexual content."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Marriage treated as weighty, not casual.", "concerns": "Conservative churches reject its form; PC(USA) affirming."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Faithful partnership as vocation.", "concerns": "LCMS/WELS object; ELCA affirming; sex scenes."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Covenant love sought.", "concerns": "Global Methodist families object; UMC affirming."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Lifelong covenant ideal.", "concerns": "ACNA families object; explicitness."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Commitment over self-seeking.", "concerns": "Same-sex marriage; sexual content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Marriage as life's goal.", "concerns": "Same-sex marriage contradicts the Proclamation."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Same-sex couple seeking faithful marriage.", "concerns": "Explicit content for younger readers."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Marriage sought rather than casual relations.", "concerns": "Same-sex relations; explicit content."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Marriage as a life stage (grihastha).", "concerns": "Same-sex union (views vary)."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Honest speech and loneliness eased.", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Realistic gay relationship and marriage-equality themes.", "concerns": "Explicit content."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Adults building a life by choice.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Settling down and commitment valued.", "concerns": "Same-sex marriage; sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Commitment.", "concerns": "Same-sex marriage."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little beyond fidelity.", "concerns": "Homosexual marriage approved."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love over loneliness.", "concerns": "Sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Marriage equality affirmed.", "concerns": "Explicitness."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Handfasting-like commitment between adults.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Forming a household.", "concerns": "Same-sex household continuity questions."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Marriage as a spiritual union.", "concerns": "Akal Takht opposes same-sex marriage."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Marriage valued.", "concerns": "Only man-woman marriage permitted."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Faithfulness to one partner.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Adults choose freely.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Marriage as a central goal.", "concerns": "Same-sex relations; immodesty."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Discuss", "aligns": "Committed same-sex partnership (CJLS 2006).", "concerns": "Explicitness."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Marriage equality and honesty.", "concerns": "Explicitness."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Trust issues worked through talking (MangaUpdates)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Chooses his own path to marriage."},
+   "Civic vs kin": {"pos": 4, "evidence": "Seeks a new family of two; orphan background (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Partners as equals."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Same-sex marriage as modern goal."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Finding love on his own terms."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "The Midlands"],
+  "japan": "Pressure to marry by 30 and organized matchmaking events (konkatsu) reflect Japanese social norms; Japan has no national same-sex marriage."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb calls it a 'sensitive love story'; MangaUpdates tags LGBT issues (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values are carried through the couple's courtship."
+ },
+ "winners_losers": "Ryosuke and Shun get sympathy; Shun's secret threatens but likely does not end the bond (to verify).",
+ "to_verify": [
+  "Nature of Shun's secret (MangaUpdates lists 'Straight Seme').",
+  "How explicit the sex scenes are."
+ ]
+}

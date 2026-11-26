@@ -1,0 +1,94 @@
+{
+  "anilist_id": 123181,
+  "title": "My Death Flags Show No Sign of Ending",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/123181",
+    "https://api.mangaupdates.com/v1/series/6807295693",
+    "https://en.wikipedia.org/wiki/My_Death_Flags_Show_No_Sign_of_Ending",
+    "https://www.comicsbeat.com/manga-review-my-death-flags-show-no-sign-of-ending-vol-1-is-isekai-chaos-at-its-best"
+  ],
+  "premise": "Kind-hearted university student Kazuki Hirasawa wakes as Harold Stokes, the arrogant villain of his favorite game who is fated to be defeated. He tries to change his fate, but Harold's innate sharp tongue keeps making people suspicious; he quietly spares a maid his parents ordered executed, improves his territory's farming, and is pushed into an arranged marriage (Wikipedia; One Peace Books text via AniList; Comics Beat).",
+  "life_message": "Real change shows in quiet good deeds, even when one's reputation and harsh manner hide it.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Planned execution of a maid averted (Comics Beat); swordplay (AniList)."},
+    {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Looming 'death flags' (Wikipedia)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Arranged marriage subplot (Comics Beat); nothing explicit noted."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Sharp-tongued, rude lead (MU)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "None noted."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Deceives parents to save the maid (Comics Beat)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Game framing."}
+  ],
+  "lenses": [
+    {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+    {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "defying fate; reform behind a villain's reputation; aristocratic duty",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 6, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 5, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Mercy to the maid; turning from a sinful path.", "concerns": "Deceiving his parents."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Struggle against an inborn passion of pride.", "concerns": "Lying to elders."},
+    {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Change of heart shown by deeds.", "concerns": "Reincarnation premise."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "New life despite old reputation.", "concerns": "Little."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Overcoming the 'old man'.", "concerns": "Magic."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Shows inborn corruption resisting good intentions.", "concerns": "Fate replacing providence."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Good works done quietly for neighbor.", "concerns": "Little."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Growth in goodness over time.", "concerns": "Little."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Comic moral reversal.", "concerns": "Little."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Spares a life.", "concerns": "Training for combat; aristocratic power."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Agency to choose one's path.", "concerns": "Little."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Second chances; discrimination theme (MU).", "concerns": "Feudal setting unquestioned."},
+    {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Saving a life; justice in rule.", "concerns": "Reincarnation."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Karma reshaped by present action.", "concerns": "Little."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Intention changes outcome.", "concerns": "Harsh speech."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Agency against a scripted fate.", "concerns": "Little."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Reason and knowledge improve a territory.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Noble duty and stewardship.", "concerns": "Defying parents."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Life spared.", "concerns": "Reincarnation and magic."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Mercy.", "concerns": "Magic; lying."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Mind over predetermined outcome.", "concerns": "Little."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of a servant's life.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity hidden under rough manners.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Ego (haumai) struggled against.", "concerns": "Little."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Service to the people.", "concerns": "Deception."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Past-life knowledge used to improve conditions.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Defying a destined role.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Saving a life; teshuva-like change.", "concerns": "Deceiving parents; magic."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Repentance and repair.", "concerns": "Little."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Choosing ethical action.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 5, "evidence": "Reputation and 'hate points' matter, but he avoids feuds (Comics Beat)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Works within noble family order (Comics Beat)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Family decides marriage and executions (Comics Beat)."},
+      "Equality vs hierarchy": {"pos": 7, "evidence": "Aristocratic setting (MU Nobility)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Game knowledge and agricultural reform."},
+      "Survival vs self-expression": {"pos": 4, "evidence": "Avoiding death is the goal (Wikipedia)."}
+    },
+    "closest": ["Orthodox Europe", "Tidewater", "Confucian"],
+    "japan": "The 'villain reincarnation' trope and attention to reputation and arranged marriage reflect Japanese web-novel conventions and face (mentsu) concerns, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "Comics Beat: comedic, no stated moral; redemption shown in action.",
+    "personified": [
+      {"character": "Harold Stokes", "ideology": "Reform hidden beneath an arrogant persona", "role": "Hero", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "None shown",
+    "note": "Redemption is played for comedy and shown through hidden good deeds."
+  },
+  "winners_losers": "Harold gains allies and avoids early death flags; his cruel parents' orders are quietly undone.",
+  "to_verify": [
+    "Discrimination theme (MU)",
+    "Later violence",
+    "One Peace Books 'Teen' rating as reported by Comics Beat"
+  ]
+}

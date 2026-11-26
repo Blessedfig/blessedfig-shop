@@ -1,0 +1,101 @@
+{
+ "anilist_id": 30133,
+ "title": "Tokyo Babylon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30133",
+  "https://www.mangaupdates.com/series/tja1ssi",
+  "https://animeuknews.net/2023/11/tokyo-babylon-clamp-premium-collection-volume-1-review",
+  "https://animeuknews.net/2024/11/tokyo-babylon-clamp-premium-collection-volume-5-review"
+ ],
+ "premise": "In late-bubble-era Tokyo, sixteen-year-old Subaru Sumeragi, head of an onmyoji clan, takes on one supernatural case after another with his twin sister Hokuto and Seishiro, a veterinarian who says he loves him. Many cases are tied to social problems of the city, and the episodic stories grow darker toward a tragic ending.",
+ "life_message": "Caring for strangers' suffering matters, even in a cold city, though kindness can be betrayed.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Assassin clan, violent spirits and a graphic act near the end (AnimeUK vol. 5 review; AniList Assassins, Tragedy)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Ghosts, possession and death-centred cases (AnimeUK reviews; AniList Ghost, Exorcism)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Teasing BL romance between 16-year-old Subaru and 25-year-old Seishiro; reviewer flags the age gap; an adult affair in one case."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "A karaoke-bar case; nothing else documented."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Case about a family suicide over debt and an elderly man who feels a burden; one review only (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Hokuto shrugs off environmental rules; framed as a talking point."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Fashion and a haunted designer suit in one case."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 5, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Critical theory", "strength": 3, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Environmentalism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Onmyoji occult; compassion; urban social commentary; tragedy",
+ "axes": {"economic": 4, "social": 6, "cultural": 6, "community": 6},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 6, "sanctity": 4, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Subaru's compassion for the suffering, elderly and sick echoes the works of mercy.", "concerns": "Onmyoji spellwork as heroic practice; same-sex romance tease; suicide case."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility and pity toward strangers in a materialist city.", "concerns": "Exorcism by onmyoji arts and spirits treated as real; romance with an adult."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Selfless care for others, even offering a kidney to a sick boy.", "concerns": "Occult spellcasting heroes; BL romance; dark deaths."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Shows the emptiness of bubble-era materialism and the worth of kindness.", "concerns": "Occult practice as the hero's vocation; same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Takes spiritual evil seriously and shows its cost.", "concerns": "Spirit contact, possession and exorcism done by non-Christian occult arts."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Truthful portrait of a fallen, lonely city.", "concerns": "Onmyoji magic and spirits; age-gap romance with a minor."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Neighbor-love across Tokyo's cases; vocation as service.", "concerns": "Occult framework; tragic deception."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Social holiness: ageism, health care and housing raised through cases.", "concerns": "Magic and spirits; dark ending."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Moral vision of care set against a cold city.", "concerns": "Occult practice and the adult-teen romance tease."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Critique of worldly wealth; self-giving to the weak.", "concerns": "Assassin clan and graphic violence; occult arts."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Service and sacrifice for strangers.", "concerns": "Spirit contact; BL romance; suicide themes."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Justice themes (ageism, organ shortages, housing) and a gay romance shown seriously.", "concerns": "Adult pursuing a 16-year-old; manipulation."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Mercy toward the elderly, sick and grieving.", "concerns": "Sorcery and spirits as the hero's craft; same-sex romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty of a clan head (dharma) and compassion for spirits and people.", "concerns": "Black-magic assassins; graphic violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion for restless spirits; suffering caused by attachment and craving.", "concerns": "Violence and despair in the ending."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Social commentary on ageism, health care and the environment; queer romance.", "concerns": "Age gap with a minor and manipulative love."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Empathy and human dignity in each case.", "concerns": "Spirits and magic presented as real within the story."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Duty to clan and grandmother's rules; kindness to elders.", "concerns": "Same-sex romance for teens; occult; bleak ending."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Self-giving care for the sick.", "concerns": "Ghosts of the dead active and exorcised; spiritualism central."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Compassion for strangers.", "concerns": "Spiritism and magic throughout; same-sex romance; violence."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love answering fear and grief.", "concerns": "Mesmeric spells and fear-laden imagery dwell on disease and death."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth and dignity of every person, including the overlooked elderly.", "concerns": "Exploitative age-gap relationship."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Respectful use of a real Japanese magical tradition to heal.", "concerns": "Magic also used by assassins to harm."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Purifying restless spirits and honoring Tokyo's places.", "concerns": "Kegare: blood and violent death in the climax."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Seva-like service to strangers.", "concerns": "Magic and spells, which the Gurus rejected."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service and concern for social ills.", "concerns": "Occult practice; romance outside marriage norms."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping individuals and society survive their troubles.", "concerns": "Deception by a trusted friend."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Questions society's treatment of the weak; compassion (TST tenets).", "concerns": "Sacrificial self-denial over self-preservation."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Chesed for the sick and elderly.", "concerns": "Sorcery and necromancy-like spirit work; same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Tikkun olam themes in each case.", "concerns": "Sorcery as a story frame; violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical concern for the vulnerable; justice issues raised.", "concerns": "Manipulative adult-teen relationship."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Subaru resolves cases through understanding and purification, not retaliation."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hokuto's rule-shrugging and Subaru's personal choices weigh against clan rules like the gloves."},
+   "Civic vs kin": {"pos": 5, "evidence": "Clan heirship balanced by help given to any Tokyo stranger."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Grandmother's authority and clan rank; Subaru treats all clients equally."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Ancient onmyoji tradition central, applied to modern urban issues."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Fashion, identity, and tolerance; critique of bubble-era materialism."}
+  },
+  "closest": ["The Midlands", "English-speaking", "Catholic Europe"],
+  "japan": "The onmyoji (yin-yang diviner) tradition, clan headship and the 1990 bubble economy are Japanese settings the series draws on."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "Reviews say cases discuss ozone damage, ageism, organ shortages and housing; MangaUpdates votes Social Commentary.",
+  "personified": [
+   {"character": "Subaru Sumeragi", "ideology": "compassion for every person and spirit", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Hokuto Sumeragi", "ideology": "carefree indifference to rules like environmental ones", "role": "Foil", "treatment": "Fair"},
+   {"character": "Seishiro Sakurazuka", "ideology": "the assassin clan's hidden detachment (to verify)", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Each case raises a social problem in conversation, but people who do harm are often shown as desperate rather than simply wicked."
+ },
+ "winners_losers": "Subaru's kindness gets the story's sympathy but is set up for betrayal; desperate people pushed by social pressures are shown with pity.",
+ "to_verify": [
+  "No Wikipedia text in cache; plot from AniList, MangaUpdates, Yen Press blurb and two AnimeUK News volume reviews",
+  "Nature and graphic level of the climactic act in the final volume",
+  "Seishiro's ideology and final role (spoiler-tagged on AniList)",
+  "Suicide case details (one review only)",
+  "Language level"
+ ]
+}

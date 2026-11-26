@@ -1,0 +1,89 @@
+{
+ "anilist_id": 154917,
+ "title": "Savior of Divine Blood",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/154917",
+  "https://api.mangaupdates.com/v1/series/10464851167"
+ ],
+ "premise": "After years of bullying and abuse, Subaru, an 'average guy' who dreamed of becoming a Player who fights creatures from mysterious gates, finally becomes one when a Door of Trials appears to him (WEBTOON blurb via AniList and MangaUpdates). His brother is out to get him, and a Sky Clock counts down toward a possible end of the world. It is a full-color webtoon of the 'weak to strong' type.",
+ "life_message": "An abused underdog can rise and take back his life through strength.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Endorsed", "note": "Slaying creatures from gates (WEBTOON blurb); Blood as a Weapon (MangaUpdates); AniList Torture tag at low rank."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "World-ending countdown (blurb)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "'Several years of constant bullying and abuse' (WEBTOON blurb); Bullied Protagonist, Traumatic Past, Abusive Family Member/s (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Revenge on a stepbrother implied (AniList spoiler Revenge; MangaUpdates)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Game-like level and gacha-odds framing (title '0.00000001%'; MangaUpdates Game Elements)."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Weak-to-strong power fantasy; family abuse; revenge",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 3},
+ "foundations": {"care": 4, "loyalty": 3, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Subaru's suffering under abuse taken seriously; defending humanity.", "concerns": "Revenge against his brother; necromancy tag."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Endurance in trial.", "concerns": "Power and vengeance as goals."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Bullied youth finds strength.", "concerns": "Revenge (Romans 12:19)."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Underdog empowered.", "concerns": "Revenge; occult elements."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Overcoming oppression.", "concerns": "Necromancy and 'divine blood' powers."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Family sin exposed.", "concerns": "Power fantasy."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Duty to defend others.", "concerns": "Vengeance."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Concern for the abused.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Classic underdog quest.", "concerns": "Revenge."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little beyond endurance.", "concerns": "Violence as solution."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Growth through trials.", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Abuse shown as wrong.", "concerns": "Might-makes-right resolution."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Justice for the oppressed.", "concerns": "Necromancy."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Karma turning.", "concerns": "Revenge."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Suffering acknowledged.", "concerns": "Revenge creating more suffering."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Bullying victim centered.", "concerns": "Violence as answer to bullying."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Self-reliance.", "concerns": "Revenge."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Courage and self-reliance.", "concerns": "Family enmity."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Overcoming.", "concerns": "Necromancy and violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to commend.", "concerns": "Violence and occult powers."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Rising above limitation.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Worth of the bullied.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Personal power.", "concerns": "Necromancy as weapon."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Divine blood motif.", "concerns": "Bloodshed."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Standing up to oppression.", "concerns": "Personal vengeance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service to humanity.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Survival and ability.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-empowerment and retaliation.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice.", "concerns": "Necromancy; revenge forbidden."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice.", "concerns": "Revenge."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Opposing abuse.", "concerns": "Revenge."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Rising to overcome a brother who wronged him (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Lone Player acting on his own (blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Conflict is within the family (MangaUpdates Stepbrother/s)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Player ranks implied by game elements."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern urban fantasy."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "'Survival of the Fittest' and world-ending clock (MangaUpdates; blurb)."}
+  },
+  "closest": ["The Far West", "Orthodox Europe", "El Norte"],
+  "japan": "Follows the Japanese and Korean 'gate and Player' webtoon pattern of a bullied youth rising in rank."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about delivery."
+ },
+ "winners_losers": "Subaru is the sympathetic underdog; his brother is the antagonist (blurb).",
+ "to_verify": [
+  "Violence and torture level (database only).",
+  "Necromancy and memory manipulation spoiler tags."
+ ]
+}

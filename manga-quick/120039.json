@@ -1,0 +1,92 @@
+{
+ "anilist_id": 120039,
+ "title": "Unnamed Memory",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/120039",
+  "https://api.mangaupdates.com/v1/series/55129283847",
+  "https://www.animenewsnetwork.com/feature/2022-09-23/the-fall-2022-manga-guide/unnamed-memory/.189867"
+ ],
+ "premise": "Oscar, crown prince of Farsas, was cursed as a boy so that he cannot father an heir. He climbs the tower of Tinasha, the strongest witch on the continent, to have a wish granted,; the only way to save his bloodline, it seems, is for her to become his bride. Court politics and a festival murder follow (Yen Press blurb via AniList/MU; ANN Manga Guide).",
+ "life_message": "Persistence and partnership can break curses, and duty to one's people and line shapes love.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "A festival murder (ANN); swordplay (AniList); MU Conspiracy/ies."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Curses and tower traps (blurb)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Proposal-driven romance (blurb); MU Partial Nudity; curse about fathering children (MU Infertility); Tinasha dismisses a myth that spirit mages must be virgins (ANN)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Prince's repeated proposals despite refusals (blurb; MU Stubborn Male Lead) worth discussing."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Light novel adaptation (ANN)."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Royal duty and bloodline; witchcraft and curses; slow-burn romance",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 7},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 5, "authority": 7, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Marriage and children valued; hard-working prince.", "concerns": "A witch's magic as the path to healing; curse lore."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Marriage and lineage honored.", "concerns": "Sorcery and curses treated as power to use."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Diligence and respect for marriage.", "concerns": "Witch heroine; spells."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Covenant-style commitment.", "concerns": "Witchcraft central."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Breaking curses as theme.", "concerns": "Witch and spirit mages as heroes."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Vocation of the prince.", "concerns": "Occult practice framed positively."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Duty to people and family.", "concerns": "Magic as fantasy, often accepted."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Perseverance, service to kingdom.", "concerns": "Witchcraft."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Fairy-tale moral frame.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Marriage valued.", "concerns": "Magic; royal politics and swordplay."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Marriage and posterity central.", "concerns": "Partial nudity; occult."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Capable, independent heroine (MU).", "concerns": "Persistent proposals and consent."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Marriage and lineage.", "concerns": "Sihr (sorcery) as heroine's art."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Dharma of a king; lineage.", "concerns": "Black magic curse."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Patience.", "concerns": "Attachment to lineage."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Strong female lead.", "concerns": "He keeps proposing after refusals; infertility framed as curse."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Tinasha debunks a virginity myth (ANN).", "concerns": "Curses as real."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Royal duty, marriage and heirs.", "concerns": "Witchcraft."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Marriage.", "concerns": "Magic and spirits."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Witchcraft and spiritism central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Healing a curse by understanding.", "concerns": "Mesmerism-like magic."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Respectful portrayal of a witch.", "concerns": "Consent in courtship."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "A powerful, sympathetic witch.", "concerns": "Witches who curse cast as villains."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Household continuity concern.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Duty and hard work.", "concerns": "Magic and superstition."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Equality of capable man and woman.", "concerns": "Occult."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Overcoming limits.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Witch who sets her own terms.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Lineage and marriage.", "concerns": "Kishuf (sorcery) celebrated."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Marriage and continuity.", "concerns": "Sorcery as fantasy."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Partnership of equals.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Prince proves himself by climbing the tower (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Court politics and royal duty (ANN)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Saving his bloodline drives the plot (blurb)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Crown prince, royal court, witches as ranked powers (MU Royalty)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Curses, witches and lineage (blurb)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Securing an heir for the kingdom."}
+  },
+  "closest": ["South and Southeast Asia", "Tidewater", "Orthodox Europe"],
+  "japan": "Concern for an heir and the household line echoes Japanese and fairy-tale royal norms, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN reviewers discuss pacing and genre mix, no message speeches (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Political schemers and rival witches appear but are not described as holding a worldview."
+ },
+ "winners_losers": "Oscar and Tinasha's partnership is favored; schemers and the cursing witch are obstacles.",
+ "to_verify": [
+  "Treatment of consent in Oscar's repeated proposals.",
+  "MU tags Creepy Male Lead and Partial Nudity.",
+  "ANN covers volume 1 and compares with the light novel."
+ ]
+}

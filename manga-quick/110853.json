@@ -1,0 +1,89 @@
+{
+ "anilist_id": 110853,
+ "title": "Solo Camping for Two",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110853",
+  "https://api.mangaupdates.com/v1/series/53069686841"
+ ],
+ "premise": "Gen Kinokura, 34, loves solo camping and his solitary life, reaching the mountains by train and bus, until he meets a young woman, Shizuku Kusano, who ropes him into solo camping with her (K Manga blurb via AniList and MangaUpdates). The seinen series mixes outdoor skills, campfire cooking and a slow age-gap romance (tags).",
+ "life_message": "Time in nature is good, and sharing it with someone can be better than going it alone.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Tragic past tag (MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Adult age-gap romance; MangaUpdates lists Ecchi genre, Big Breasts, Partial Nudity; MangaDex 'suggestive' per batch data. Capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Alcohol (MangaUpdates) among adults at camp. Capped (to verify)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Dead parent, tragic past (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Campfires and outdoor skills, framed educationally (AniList Educational)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Camping gear focus likely (to verify)."}
+ ],
+ "lenses": [
+  {"lens": "Environmentalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Stoicism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Love of nature and solitude; mentorship; slow romance",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 4, "authority": 5, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Gen's reverence for fire, wood, water and earth honors creation.", "concerns": "Fan service and drinking."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Solitude and simplicity in nature.", "concerns": "Sensual imagery."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Hard work and skill.", "concerns": "Alcohol and ecchi elements."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Enjoying creation.", "concerns": "Fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Wholesome outdoor life.", "concerns": "Immodesty and alcohol."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Vocation and skill.", "concerns": "Sensual images."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Daily joys as gifts.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Simplicity.", "concerns": "Alcohol."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle slice of life.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Simple, self-reliant living.", "concerns": "Immodesty."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Self-reliance and preparedness.", "concerns": "Alcohol."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Care for creation.", "concerns": "Age-gap dynamics."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Respect for nature.", "concerns": "Alcohol and unmarried co-camping."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Reverence for the elements.", "concerns": "Alcohol."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Mindful solitude.", "concerns": "Intoxicants."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Outdoor skills taught to a woman.", "concerns": "Fan service and age gap."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Practical knowledge.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Self-reliance and craft.", "concerns": "Fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Healthy outdoor life.", "concerns": "Alcohol."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Simple life.", "concerns": "Immodesty."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Peace in nature.", "concerns": "Alcohol."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Interdependence with nature.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love of fire, wood, water and earth.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony with mountains and nature.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Honest self-reliance.", "concerns": "Alcohol."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service and learning.", "concerns": "Alcohol."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individual enjoyment.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Appreciating creation.", "concerns": "Yichud and modesty."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Creation enjoyed.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Nature and growth.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Calm, solitary adult life (blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Loves his solitary life (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Pair of strangers, not family."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Mentor role (MangaUpdates Mentor/s)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Practical outdoor knowledge (AniList Educational)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Hobby as fulfillment (blurb)."}
+  },
+  "closest": ["The Midlands", "New Netherland", "English-speaking"],
+  "japan": "Reflects the Japanese solo camping boom and the senpai-style mentor dynamic."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about delivery."
+ },
+ "winners_losers": "Gen and Shizuku are both sympathetic; no antagonist noted.",
+ "to_verify": [
+  "Shizuku's age and extent of fan service.",
+  "Alcohol frequency."
+ ]
+}

@@ -1,0 +1,96 @@
+{
+  "anilist_id": 86648,
+  "title": "Devils' Line",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/86648",
+    "https://api.mangaupdates.com/v1/series/47515176469",
+    "https://en.wikipedia.org/wiki/Devils%27_Line",
+    "https://www.fandompost.com/2016/09/15/devils-line-volume-01-02-manga-review/"
+  ],
+  "premise": "In modern Tokyo, vampires called devils live hidden among humans. Half-devil Yuki Anzai works in a police unit that handles devil crimes and refuses to drink human blood; after saving graduate student Tsukasa Taira, the two fall for each other and are drawn into a conspiracy by the CCC, a group that wants a human-only society (Wikipedia; Kodansha text via AniList; Fandom Post).",
+  "life_message": "Self-control and love can overcome dangerous urges, and people should not be judged by what they are born as.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Devil attacks, sniper and murders (Fandom Post; Wikipedia); MU Violence, Serial Killer, Assassination."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Horror genre, blood hunger, dark ambience (AniList, MU)."},
+    {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Adult romance; review notes wet dreams (Fandom Post); MU Mature, AniList Rape 20. Explicitness of later scenes not documented (to verify)."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Police and crime setting; not documented (to verify)."},
+    {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Blood craving as addiction metaphor (Fandom Post)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Struggle with urges and isolation (Fandom Post)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Terror-like methods of the CCC (Fandom Post), framed as villainy."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Progressivism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Collectivism/authoritarianism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Utilitarianism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "self-control over appetite; prejudice and coexistence; police procedural romance",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 7, "sanctity": 5, "authority": 5, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Anzai's chastity-like restraint; dignity of the stigmatized.", "concerns": "Sexual content and blood violence."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "Watchfulness over passions embodied in Anzai.", "concerns": "Sensual content inflames passions."},
+    {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Resisting temptation; protecting the vulnerable.", "concerns": "Sexual content; vampire occult flavor."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Temptation and self-control as discussion points.", "concerns": "Mature romance."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Battle against inner darkness.", "concerns": "'Devils' as sympathetic heroes; sensuality."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Fallen appetites restrained by will and love.", "concerns": "Sexual imagery."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Lawful police authority checks evil.", "concerns": "Mature content."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Significant", "aligns": "Holiness as resisting harmful desire.", "concerns": "Sexual content."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Moral vision of self-mastery.", "concerns": "Mature romance."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Rejects terror and hatred.", "concerns": "Violence and sensuality."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Self-mastery over appetite.", "concerns": "Sexual content."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Critique of prejudice and exclusionary movements.", "concerns": "Sexual violence (AniList Rape 20) to verify."},
+    {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Restraint (sabr) and justice.", "concerns": "Blood drinking; sexual content."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Mastery of senses; dharma of protector.", "concerns": "Violence."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Craving recognized and restrained.", "concerns": "Violence."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Prejudice against a minority examined (Fandom Post).", "concerns": "Consent in blood/romance scenes."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Neither side inherently right; reason over hate.", "concerns": "Violence."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Police duty; self-discipline.", "concerns": "Sexual content."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Temperance over appetite.", "concerns": "Violence and sensuality."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Self-restraint.", "concerns": "Blood drinking (Acts 15:29) central; violence."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Mastering bodily impulses by thought.", "concerns": "Fear and blood."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Inherent worth of the stigmatized.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Supernatural beings not demonized.", "concerns": "Violence."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Harmony between beings.", "concerns": "Kegare of blood."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Control of lust and anger.", "concerns": "Sexual content."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity and anti-prejudice.", "concerns": "Chastity concerns."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Self-determinism over impulses.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Outsiders defended against a purity movement.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Yetzer hara restrained.", "concerns": "Blood consumption; tzniut."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity of the persecuted.", "concerns": "Mature content."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Against exclusionary hatred.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Conflicts handled through police work (Wikipedia)."},
+      "Order vs freedom": {"pos": 5, "evidence": "Rules for devils versus their freedom (Fandom Post)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Equal protection for humans and devils."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Police hierarchy; equality of beings argued."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern secular Tokyo setting."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Tolerance of difference valued."}
+    },
+    "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+    "japan": "The Public Safety police unit and public panic after a televised incident reflect Japanese institutions and media culture, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 4,
+    "evidence": "Fandom Post: both sides shown as neither inherently right nor wrong; prejudice theme carried by plot.",
+    "personified": [
+      {"character": "Yuki Anzai", "ideology": "Coexistence through self-control", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "CCC", "ideology": "Human-only society, eliminate vampires", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "The anti-devil movement is shown with terror-like methods, while the story also admits real devil violence."
+  },
+  "winners_losers": "Anzai and Tsukasa's bond endures the conspiracy; the CCC's eliminationist aims are opposed. Sympathy goes to coexistence.",
+  "to_verify": [
+    "Explicitness of sexual scenes in later volumes",
+    "Sexual violence (AniList Rape 20)",
+    "Ending of the CCC arc"
+  ]
+}

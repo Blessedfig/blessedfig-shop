@@ -1,0 +1,388 @@
+{
+ "anilist_id": 59887,
+ "title": "Servamp",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Servamp",
+  "https://anilist.co/manga/59887",
+  "https://api.mangadex.org/manga?title=Servamp (MangaDex metadata for title 7889434b-d9a5-454c-8ea1-8c7a4509fc51)"
+ ],
+ "premise": "High schooler Mahiru Shirota takes in a stray black cat that turns out to be Sleepy Ash, one of seven vampire 'Servamps' named for the Seven Deadly Sins (his is Sloth). By naming him Kuro and giving him blood, Mahiru becomes his master, or 'Eve'. When Tsubaki, a vampire claiming to be a hidden eighth brother, declares war on the other Servamps, Mahiru sets out to unite them against him.",
+ "life_message": "A good life means getting involved: caring for others, taking responsibility and building bonds instead of keeping a safe distance.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Supernatural war among vampires (Wikipedia 'all-out war'; AniList Vampire, Action; Seven Seas Action). Blood-drinking contracts."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Vampires, demons (AniList spoiler) and experiments on vampires by a researcher (Wikipedia)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "MangaDex rates it safe; no romance tags of note."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None documented."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Grief and despair after loss (Lawless's backstory), orphanhood (Mahiru raised by his uncle) per Wikipedia."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Blood contracts between a teen and vampires are fantasy."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Merchandise-friendly cast; no product focus."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Communitarianism; responsibility over detachment; critique of nihilism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 7
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 8,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for others; Seven Deadly Sins named and wrestled with.",
+   "concerns": "Blood pacts with vampires and demonic beings framed as heroic bonds."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming sloth and despair; loyalty to companions.",
+   "concerns": "Blood contracts and vampires named for the sins; demonic imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Responsibility and courage to help others.",
+   "concerns": "Blood pacts with supernatural beings and occult themes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Servant leadership and engagement with others' pain.",
+   "concerns": "Vampire contracts; families vary on such fantasy."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Self-giving care for the lost.",
+   "concerns": "Blood covenants with demon-linked vampires are serious spiritual-warfare concerns."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Common grace: sin's personification explored.",
+   "concerns": "Occult framing judged by how it presents evil."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation of care for neighbor.",
+   "concerns": "Fantasy vampires generally accepted; blood pacts noted."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Social holiness: gathering others to act together.",
+   "concerns": "Occult fantasy elements."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Moral vision of involvement over indifference.",
+   "concerns": "Little beyond fantasy violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mahiru seeks unity among the brothers.",
+   "concerns": "War and fighting at the center."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family-like bonds and service.",
+   "concerns": "Blood contracts and vampires; violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Care, inclusion and healing of the wounded.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mercy and loyalty.",
+   "concerns": "Blood consumption and supernatural pacts resemble forbidden sorcery."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty and protection of others.",
+   "concerns": "Vampire contracts and violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion for those trapped in despair.",
+   "concerns": "Violence; craving embodied in the sins."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Empathy for grief and found family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Taking responsibility; reasoning through conflict.",
+   "concerns": "Fantasy only."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty, duty and courage.",
+   "concerns": "Occult themes for some families."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming sloth.",
+   "concerns": "Supernatural beings and spiritism-like contracts."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kindness and loyalty.",
+   "concerns": "Vampires, demons and blood rites are concerns per jw.org counsel."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing despair through love.",
+   "concerns": "Fear and blood imagery dominate thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Each life's worth affirmed against nihilism.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Bonds forged through naming and binding rites.",
+   "concerns": "Vampires as dangerous others; little else."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Bonds of loyalty and harmony.",
+   "concerns": "Blood imagery (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending others and service.",
+   "concerns": "Blood pacts; anger and attachment as vices."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Unity sought among warring siblings.",
+   "concerns": "Fighting and supernatural pacts."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Group and family dynamics (dynamics two and three).",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal responsibility; sins shown as part of being alive.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Chesed and loyalty.",
+   "concerns": "Blood consumption and occult beings."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Responsibility for others.",
+   "concerns": "Fantasy violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Repairing broken bonds.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Conflicts are fought personally between vampire factions, but aim at unity, not revenge."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Contracts bind masters and servants; Mahiru chooses his commitments."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "The Servamp siblings and found family drive loyalties."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Master-servant (Eve-Servamp) hierarchy structures the world."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Fantasy framework of sins and contracts without a real religion."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Survival in war balanced against personal growth."
+   }
+  },
+  "closest": [
+   "Latin America",
+   "El Norte",
+   "Orthodox Europe"
+  ],
+  "japan": "Mahiru's sense of household duty and the master-servant bonds echo Japanese norms of mutual obligation, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Seven Seas copy contrasts Mahiru's non-intervention philosophy with his growing involvement; ANN gave volumes 1-3 a B (via Wikipedia).",
+  "personified": [
+   {
+    "character": "Mahiru Shirota",
+    "ideology": "moving from non-intervention to responsibility for others",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Lawless (Servamp of Greed)",
+    "ideology": "after a loss, no life is unique or meaningful",
+    "role": "Other",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Ophelia",
+    "ideology": "self-sacrifice for peace between nations",
+    "role": "Other",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Fair",
+  "note": "Characters who hold bleak or detached views are given backstories that explain them rather than being dismissed."
+ },
+ "winners_losers": "Mahiru's choice to engage and unite the vampires is favored; detachment and nihilism are shown as wounds to be healed. How Tsubaki's side is finally treated is unconfirmed.",
+ "to_verify": [
+  "How Tsubaki's motives and the war conclude in the manga.",
+  "Violence level in vampire battles (blood-drinking is part of contracts).",
+  "Johannes, a researcher who experiments on vampires, is a cruel character but not listed as standing for an idea.",
+  "MangaUpdates API unreachable; categories not checked."
+ ]
+}

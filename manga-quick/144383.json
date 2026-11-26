@@ -1,0 +1,91 @@
+{
+ "anilist_id": 144383,
+ "title": "Pink & Habanero",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/144383",
+  "https://api.mangaupdates.com/v1/series/19811585561",
+  "https://api.mangadex.org/manga/7c8f676f-e193-4e64-a0b7-31c57f26c762"
+ ],
+ "premise": "Mai, a high-school freshman with no experience talking to boys, wants a boyfriend but clashes with the handsome, rude Kei Kurose, who treats girls coldly. When she discovers his secret part-time job, in which he is 'paid to please princesses', she has to keep his trust, and a romance grows (Yen Press blurb via AniList and MU).",
+ "life_message": "Seeing past someone's public face to who they really are is the start of real love and friendship.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "High-school romance; first date and first kiss (MU)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Rude, blunt male lead (MU); profanity not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Friends growing distant (MU)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Secret job pleasing female customers and a two-faced lead (blurb; MU Café/s, Two-Faced Male Lead) (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Part-time service job; social media."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Consumerism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "First love; authenticity behind a public persona; friendship",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Mai keeps Kei's secret faithfully.", "concerns": "Teen dating focus; nature of his job (to verify)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Looking past appearances.", "concerns": "Romance as life's center."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Trustworthiness.", "concerns": "Two-faced lead; job pleasing girls for pay."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Inner character over looks.", "concerns": "Teen romance with kissing."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Honesty valued.", "concerns": "Worldly dating focus."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Keeping one's word.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Best construction on Kei's rudeness.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Kindness changes a cold boy.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle character growth.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "No violence.", "concerns": "Worldly romance and appearance focus."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Clean first-date romance.", "concerns": "Early teen dating."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Shy heroine gains confidence.", "concerns": "Rude male lead romanticized."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and trust.", "concerns": "Dating and kissing outside marriage."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Truthfulness about self.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Seeing beyond appearances.", "concerns": "Attachment to romance."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Agency of a shy girl.", "concerns": "Boy who 'treats girls like trash' as love interest."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Empathy and honesty.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Hard work of a part-time job.", "concerns": "Teen dating."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Little objectionable reported.", "concerns": "Romance focus."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "No spiritism or violence.", "concerns": "Teen dating."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love revealing the true self.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Authenticity and worth.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Little to note.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity (makoto) behind masks.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Truthfulness.", "concerns": "Teen dating."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication builds affinity.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Pursuing what one wants.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Guarding a secret (avoiding lashon hara).", "concerns": "Mixed-gender romance focus."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kind speech.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Honesty.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Conflict is verbal sparring, not honor contests."},
+   "Order vs freedom": {"pos": 6, "evidence": "Personal choice in love and work."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friends and classmates frame the story."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Classmates as peers."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern Japan, social media (MU)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Wanting a boyfriend; romance as fulfillment."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "Yankeedom"],
+  "japan": "A Shueisha shoujo romance; the hidden part-time job and public-versus-private face (tatemae and honne) reflect Japanese social norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romance-comedy message carried by the leads' growth."
+ },
+ "winners_losers": "Mai and Kei are set up to grow closer; sympathy rests with both.",
+ "to_verify": [
+  "Nature of Kei's 'paid to please princesses' job (MU lists Café/s).",
+  "Heroine named Mai (Yen Press) and Mugi (MangaDex).",
+  "Yen Press English release was at 5 of 14 volumes at last update; no review or Wikipedia cache."
+ ]
+}

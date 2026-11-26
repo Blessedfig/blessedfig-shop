@@ -1,0 +1,357 @@
+{
+ "anilist_id": 67067,
+ "title": "Prince of Recipes",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/67067",
+  "https://api.mangaupdates.com/v1/series/48812698690"
+ ],
+ "premise": "Second-year culinary student Sakai dreams of a small restaurant like his grandfather's but is collapsing from overwork and a three-hour commute, until a classmate tells him about a cheap room share nearby. He moves in with four misfit roommates, including an actor and model, and a romance grows among the housemates.",
+ "life_message": "A good life means pursuing your dream of touching people through food, supported by a home and love.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Romance between adult men; AniList tags sexual content at low rank (to verify, possibly understated)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Exhaustion from overwork (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Modeling and acting (MangaUpdates)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism; Communitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work and honoring a grandfather.",
+   "concerns": "Same-sex romance and sexual content."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligence.",
+   "concerns": "Same-sex romance and sexual content."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work ethic.",
+   "concerns": "Same-sex romance; sexual scenes tagged."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Dream and diligence.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Perseverance.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vocation of cooking.",
+   "concerns": "Same-sex romance; PC(USA) differs."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Cooking as vocation.",
+   "concerns": "Same-sex romance; ELCA more open."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Service through food.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hospitality through food.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shared household.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work and self-reliance.",
+   "concerns": "Same-sex romance and sexual content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Chosen family and gay romance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honest work.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dharma of honest work.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Right livelihood.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "LGBTQ adults and chosen family.",
+   "concerns": "Overwork culture."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Pursuit of a dream.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Health and diligence.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Diligence.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Joy in work.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive household.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love among consenting adults.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gratitude through food.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kirat karni (honest work).",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work as worship.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-improvement.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adult freedom.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honoring grandparents.",
+   "concerns": "Same-sex romance and sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Work.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Gentle comedy, no feuds (to verify)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Students living independently."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Grandfather inspires; chosen housemates."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Peers as equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Dream-chasing and love."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "The Midlands"
+  ],
+  "japan": "Long commutes and overwork reflect Japanese student and work culture, shown as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values carried by the dream and household."
+ },
+ "winners_losers": "Sakai and his housemates win; no villain shown.",
+ "to_verify": [
+  "No review opened; based on AniList and MangaUpdates summaries",
+  "AniList sexual-content tags suggest explicit scenes; score capped at 3, possibly understated",
+  "Romance pairing not confirmed"
+ ]
+}

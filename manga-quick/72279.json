@@ -1,0 +1,89 @@
+{
+ "anilist_id": 72279,
+ "title": "Dimension W",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/72279",
+  "https://api.mangaupdates.com/v1/series/4086376751"
+ ],
+ "premise": "In 2072, 'Coils' that draw energy from a fourth dimension have ended the world's energy crisis. Kyouma Mabuchi, a 'Collector' who recovers illegal Coils for a living, crosses paths with a mysterious girl named Mira, and the two are drawn toward the secrets of Dimension W (Yen Press blurb via AniList and MU).",
+ "life_message": "Technology must answer to human conscience, and people can rebuild trust after loss.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Action sci-fi with bounty hunting (MU Action, Bounty Hunter/s). Graphic level not reported (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Tragedy and cult elements (AniList, low rank)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Seinen; 'Mean Male Lead' (MU). Not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Amnesia and grief (AniList)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Adapted to anime (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 5, "stance": "Explored"},
+  {"lens": "Naturalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Technology and its costs; humans and androids; cyberpunk future",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Questions on human dignity amid technology (AI, robots).", "concerns": "Violence; cult element (to verify)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Limits of human power over creation.", "concerns": "Action violence."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Integrity in a corrupt future.", "concerns": "Violence; possible language."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Worldview talk on AI and humanity.", "concerns": "Violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Human limits.", "concerns": "Cult depiction."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Common grace in technology; misuse of power exposed.", "concerns": "Violence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Vocation of a Collector.", "concerns": "Violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Ethics of technology.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Thoughtful science fiction.", "concerns": "Little reported."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Caution about technology.", "concerns": "Violence as action entertainment."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Partnership and trust.", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Energy, power and justice themes.", "concerns": "Little reported."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Stewardship of power.", "concerns": "Violence."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty and dharma in a changed world.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Attachment to the past examined.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Critique of energy monopolies; diverse cast (MU).", "concerns": "Violence."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Science fiction exploring ethics of technology.", "concerns": "Little reported."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Self-reliant hero.", "concerns": "Violence."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Ethics.", "concerns": "Violence."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Violence."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Mind over matter themes.", "concerns": "Material focus."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Personhood of an android.", "concerns": "Little reported."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Balance of energy and world.", "concerns": "Little reported."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Objects with spirit-like presence.", "concerns": "Little reported."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Honest work.", "concerns": "Violence."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Harmony of science and ethics.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal integrity.", "concerns": "Little reported."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Reason and science.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Limits of human power.", "concerns": "Time-wasting entertainment; violence."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical questions.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Justice and repair of the world.", "concerns": "Little reported."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Bounty hunter settles matters personally (MU)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Collector works for 'the powers that be' but alone (Yen Press blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Partnership with Mira (Yen Press blurb)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "No hierarchy theme reported."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Science and technology drive the world (MU Science)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Energy and security themes (Yen Press blurb)."}
+  },
+  "closest": ["Catholic Europe", "The Far West", "Orthodox Europe"],
+  "japan": "A Japanese cyberpunk seinen in an alternate-history 2072, drawing on Japan's long interest in robots and energy technology."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No source reports how the technology themes are delivered."
+ },
+ "winners_losers": "Kyouma and Mira are the sympathetic leads; who wins is not reported in sources.",
+ "to_verify": [
+  "No review opened; all content estimates from database tags and blurb.",
+  "Violence level, cult storyline and ending."
+ ]
+}

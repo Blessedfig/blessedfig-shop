@@ -1,0 +1,365 @@
+{
+ "anilist_id": 38927,
+ "title": "Live for Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/38927",
+  "https://api.mangaupdates.com/v1/series/43673805830"
+ ],
+ "premise": "Yasuie runs a client-less, broke detective agency in Tokyo's Shinjuku Ni-chome; his partner Yoshiyuki has stayed seven years despite playful advances that \"approach sexual harassment\" (AniList, from Juné). When Yoshiyuki's family issues an ultimatum, he must choose between a penniless future with Yasuie and a more traditional life (AniList; MU lists Arranged Marriage).",
+ "life_message": "Choosing love over family expectation is shown as the brave path.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU lists Rape; single source (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Detective comedy."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "MU Yaoi; harassment-like advances (AniList)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Money struggles."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Advances near sexual harassment framed as playful (AniList blurb; MU Rape)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Expressive individualism; Traditionalism (critiqued)",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 7,
+  "community": 3
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 5,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty through seven poor years.",
+   "concerns": "Same-sex love chosen over family's traditional plans; harassment."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness in hardship.",
+   "concerns": "Family duty set aside for a same-sex partner."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond loyalty.",
+   "concerns": "Same-sex romance over family; harassment."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyal partnership.",
+   "concerns": "Rejects family's traditional path."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; harassment."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Honor of parents set aside."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyalty in poverty.",
+   "concerns": "Fourth commandment and same-sex romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Partnership through struggle.",
+   "concerns": "Harassment as humor."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Comic loyalty.",
+   "concerns": "Family ultimatum; harassment."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Simple living.",
+   "concerns": "Same-sex romance; family authority."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Family proclamation; same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Chosen family affirmed in Ni-chome.",
+   "concerns": "Harassment framed as playful."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Disobeying family; same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Family dharma set aside."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Non-attachment to wealth.",
+   "concerns": "Harassment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Queer life in Ni-chome affirmed.",
+   "concerns": "Harassment and possible non-consent."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Choosing one's life.",
+   "concerns": "Harassment."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work despite poverty.",
+   "concerns": "Family authority rejected."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love over material lack.",
+   "concerns": "Sensual pursuit."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Chosen family.",
+   "concerns": "Harassment."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Freedom to love.",
+   "concerns": "Harassment."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincere partnership.",
+   "concerns": "Household continuity broken."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest work.",
+   "concerns": "Same-sex romance; family."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Parental consent principle."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Second dynamic choices.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Defying family authority.",
+   "concerns": "Unwanted advances rule."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; honoring parents."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Family ultimatum."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive.",
+   "concerns": "Harassment."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Family ultimatum (AniList)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Choosing personal love."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family pressure is the central obstacle."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Partners."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Traditional lifestyle questioned."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Love over security."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "El Norte",
+   "New Netherland"
+  ],
+  "japan": "Shinjuku Ni-chome is Tokyo's best-known gay district; family pressure toward an arranged marriage reflects household-continuity expectations in Japan."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb sets love against a 'more traditional lifestyle' (AniList); (to verify).",
+  "personified": [
+   {
+    "character": "Yoshiyuki's family",
+    "ideology": "traditional family lifestyle",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The family's view is the obstacle; how fairly it is shown is unknown (to verify)."
+ },
+ "winners_losers": "Whether Yoshiyuki stays with Yasuie is the question (AniList); sympathy lies with the couple.",
+ "to_verify": [
+  "Ending",
+  "Nature of MU Rape category",
+  "Treatment of Yoshiyuki's family",
+  "English availability (June)"
+ ]
+}

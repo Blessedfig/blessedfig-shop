@@ -1,0 +1,362 @@
+{
+ "anilist_id": 74677,
+ "title": "At the Flower Capital: Hana No Miyako De",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/74677",
+  "https://api.mangaupdates.com/v1/series/14462744965"
+ ],
+ "premise": "Motoharu, heir to the Tsujimura clinic, loves his childhood friend Akira, who rejected his confession; they attend the same university, and after Akira suddenly kisses him then asks him to forget it, the tension grows. A historical-era one-volume collection that also includes a short sequel, 'Hana no Migoro ni', about another couple.",
+ "life_message": "A good life means honest love even against family duty and social expectation.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Emotional angst."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Same-sex romance between university students; arranged marriage pressures (AniList, MangaUpdates). Explicitness unknown (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Rejection, angst and bittersweet ending (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism; Traditionalism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 5,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful, patient love.",
+   "concerns": "Same-sex romance as core."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restraint and patience.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyal friendship.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Commitment.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty about feelings.",
+   "concerns": "Same-sex romance; PC(USA) differs."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Duty to family clinic.",
+   "concerns": "Same-sex romance; ELCA affirming."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex romance; UMC affirming."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Thoughtful period romance.",
+   "concerns": "Same-sex romance; provinces differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Patience.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family duty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sympathetic gay romance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Family duty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dharma of the heir.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Suffering in attachment.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "LGBTQ love vs. social pressure.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest feeling.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family duty.",
+   "concerns": "Same-sex romance against arranged marriage."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love affirmed.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love as sacred.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity.",
+   "concerns": "Family continuity tension."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest feeling.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal choice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Family duty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Commitment.",
+   "concerns": "Views vary."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Personal feelings vs. family expectations (MangaUpdates)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Arranged marriage and social gap constrain choices (MangaUpdates)."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family clinic succession weighs heavily (AniList)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Social gap and family rank (MangaUpdates)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Historical setting with traditional obligations."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Love vs. duty."
+   }
+  },
+  "closest": [
+   "Latin America",
+   "South and Southeast Asia",
+   "Tidewater"
+  ],
+  "japan": "Inheriting a family business and arranged marriage reflect historical Japanese household (ie) norms, shown as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "No review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Feelings carry the story."
+ },
+ "winners_losers": "Sympathy lies with the lovers; bittersweet ending per tags (to verify).",
+ "to_verify": [
+  "No review opened; based on AniList and MangaUpdates summaries",
+  "Juné is a BL imprint; explicitness not checked, sexuality possibly understated",
+  "Historical period not confirmed"
+ ]
+}

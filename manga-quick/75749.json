@@ -1,0 +1,85 @@
+{
+ "anilist_id": 75749,
+ "title": "INTERVAL ZERO",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/75749", "https://api.mangaupdates.com/v1/series/62437804394"],
+ "premise": "Student council president Kadokura is stressed because his father, the track coach, boards track team members in their home, and the worst is arrogant ace Kima (Printemps blurb via AniList; MangaUpdates). Kadokura plans to endure until graduation, but Kima suddenly kisses him, then keeps kissing and touching him while acting distant. A one-volume high school romance.",
+ "life_message": "Behind rudeness may be feelings that were never put into words (to verify).",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Kissing and touching between high school students (both blurbs); MangaUpdates genre Adult; MangaDex only 'suggestive' (extent to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Rude, egotistic lead (MangaUpdates)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Stress; negligent parent category (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Unasked kisses and touching from a housemate (blurbs)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Bickering to love; responsibility at home; teen desire",
+ "axes": {"economic": 5, "social": 7, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 3, "sanctity": 2, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Kadokura's dutiful care for the household and team.", "concerns": "Same-sex sexual content between minors; touching without consent."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Patience under provocation.", "concerns": "Teen sexual content; passions."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little beyond diligence.", "concerns": "Gay sexual content with high schoolers."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Responsibility at home shown.", "concerns": "Teen same-sex sexual content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sexual content with minors."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Duty to father honored.", "concerns": "Lascivious content involving students."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Fourth-commandment duty at home.", "concerns": "Sexual content with minors across synods."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Service in housekeeping and cooking.", "concerns": "Teen sexuality; consent."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Character growth (MangaUpdates).", "concerns": "Teen sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly sexual content."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Chastity for youth."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Gay teen feelings recognized.", "concerns": "Touching without consent; minors in Adult-genre work."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex sexual contact."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Duty to parent and household.", "concerns": "Student stage (brahmacharya) disrupted by sex."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Patience with a difficult housemate.", "concerns": "Third precept."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Queer teen romance.", "concerns": "Consent; sexualization of minors."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Little to note.", "concerns": "Consent and age."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Respect for father's household.", "concerns": "Teen sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Passions; same-sex."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "LGBTQ youth recognized.", "concerns": "Consent; age-appropriateness."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Consent and age."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Household harmony restored (to verify).", "concerns": "Teen sexual content."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Diligent household work.", "concerns": "Lust."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Character growth.", "concerns": "Harm to a person of good will."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Unwanted advances; minors."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Honoring a father.", "concerns": "Forbidden relations; immodesty."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Degrading content with minors."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Inclusion.", "concerns": "Consent; minors."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Ego clashes between Kadokura and Kima (MangaUpdates)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Boarding-house duties versus Kima's disregard of rules."},
+   "Civic vs kin": {"pos": 4, "evidence": "Father's household opened to the team."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Student council president, coach's son, team ace."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school life."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Hidden feelings surface."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Club-sport boarding with a coach's family and the student-council role reflect Japanese school club culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Plot-driven blurb; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romance tropes carry the story."
+ },
+ "winners_losers": "Kadokura and Kima end together (to verify); Kima's rudeness is forgiven as hidden love.",
+ "to_verify": [
+  "Ages of Kadokura and Kima in any sexual scenes (MangaUpdates genre Adult with high school setting).",
+  "How explicit the content is (MangaDex lists only 'suggestive')."
+ ]
+}

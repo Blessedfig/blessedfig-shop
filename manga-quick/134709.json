@@ -1,0 +1,90 @@
+{
+ "anilist_id": 134709,
+ "title": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/134709",
+  "https://api.mangaupdates.com/v1/series/76981235724",
+  "https://api.mangadex.org/manga?title=Guild no Uketsukejou desu ga (record 3b9bade6-28a0-4f2f-8211-4b5106a2cbbd)"
+ ],
+ "premise": "Alina Clover took a job as an Adventurers Guild receptionist for its safe, stable hours, but whenever adventurers get stuck in a dungeon she is buried in overtime. So she secretly takes up her warhammer and defeats the bosses herself, while her job forbids side work and the leader of the Silver Sword party discovers her secret.",
+ "life_message": "Work should leave room for a life; a person may use hidden strength to protect her own time.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Warhammer boss fights in dungeons (Yen Press blurb; MangaDex Action)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Comedy-action tone."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Slow romance; male lead falls in love at first sight (MU tags)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Overwork stress as comedy (MU Overwork)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Secret side work against job rules (Yen Press blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Workplace setting."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Pragmatism, Expressive individualism (work-life balance), mild Hedonism (leisure)",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 3},
+ "foundations": {"care": 3, "loyalty": 3, "fairness": 6, "sanctity": 1, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Rest and limits on labor respected through Alina's protest against overtime.", "concerns": "Self-interest as main motive; fantasy violence."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Diligence of a working woman.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Strong, capable heroine; no sexual content in sources.", "concerns": "Secret side work bends her contract."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Talking point on work and rest.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Little occult.", "concerns": "Magic and demons (MangaDex tags)."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Sabbath-like rest valued.", "concerns": "Deception at work."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation and its limits.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Industry with balance.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Light comedy with fair moral vision.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple living goal.", "concerns": "Violence as solution."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Self-reliance.", "concerns": "Keeping secrets from employer."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Critique of overwork; strong female lead.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Honest work, fairness to workers.", "concerns": "Magic; romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty done efficiently.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Balance and avoiding stress.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Worker's right to leisure; capable heroine.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Quality of life valued.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Competence and taking responsibility.", "concerns": "Mild anti-work humor."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Rest valued.", "concerns": "Magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Magic and violent entertainment."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Overcoming obstacles.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Dignity of workers.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal autonomy.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere work.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work and equality.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Work as worship and women's equality.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-interest and defiance of overwork.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Worker rights and rest.", "concerns": "Magic."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Fair treatment of workers.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Labor justice.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Refuses credit for victories (Yen Press blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Breaks rules to protect her own time."},
+   "Civic vs kin": {"pos": 4, "evidence": "Workplace, not family."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Receptionist outperforms ranked adventurers."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Practical, modern work-life outlook."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Quality of life over overtime."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "English-speaking"],
+  "japan": "The joke turns on Japanese overtime culture (zangyou) and the ideal of a stable civil-service-like job."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs frame the anti-overtime idea as the comic premise; no review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The work-life theme is the premise of a comedy."
+ },
+ "winners_losers": "Alina wins sympathy; overtime itself is the antagonist.",
+ "to_verify": [
+  "Romance development (MU Slow Romance).",
+  "No review found; manga adapts a light novel."
+ ]
+}

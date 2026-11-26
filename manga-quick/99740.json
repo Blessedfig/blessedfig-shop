@@ -1,0 +1,362 @@
+{
+ "anilist_id": 99740,
+ "title": "A Veterinarian in Another World",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/99740",
+  "https://api.mangaupdates.com/v1/series/72698000516"
+ ],
+ "premise": "Shingo Kazami, a government livestock veterinarian, is summoned to a magical world whose prince asks him to help a land where undeveloped science and medicine leave many to die from disease and disaster (Alpha Manga blurb). Not a fighter, he vows to save as many people and animals as he can. Database tags add beast-people, slavery, abuse of power and an autopsy.",
+ "life_message": "It holds up practical science and medical care as ways to protect life.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Monsters and knights; abuse of power (MangaUpdates); level unverified."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Disease, death of loved ones, sudden dark shifts (MangaUpdates)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Harem subtext; MangaUpdates lists sexual assault and sexual harassment played for comedy; database only, capped (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Grief (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Harassment played for comedy (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Environmentalism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Medicine and science saving lives; care for animals; isekai harem elements",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 7,
+  "community": 6
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for life and the sick.",
+   "concerns": "Sexual assault and harassment tags; slavery."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy to the suffering.",
+   "concerns": "Harassment humor; harem."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing and service.",
+   "concerns": "Harassment played for laughs; magic."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Serving others with skill.",
+   "concerns": "Harassment; harem."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing ministry echoes.",
+   "concerns": "Magic world; harassment."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation used for neighbors.",
+   "concerns": "Lascivious humor tags."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation serving neighbor.",
+   "concerns": "Harassment humor."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Works of mercy and health.",
+   "concerns": "Harassment; harem."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Science and care.",
+   "concerns": "Harassment humor."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Nonviolent hero who heals.",
+   "concerns": "Harem; harassment."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Service and health.",
+   "concerns": "Harassment tags."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Public health for the poor.",
+   "concerns": "Sexual assault, harassment as comedy, slavery."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Preserving life.",
+   "concerns": "Harassment; magic."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ahimsa toward animals; healing.",
+   "concerns": "Harassment tags."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion for animals and people.",
+   "concerns": "Harassment tags."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Science and public health.",
+   "concerns": "Harassment as comedy; slavery."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Reason and science improve lives.",
+   "concerns": "Harassment humor."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Professional duty.",
+   "concerns": "Harem humor."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Health and healing.",
+   "concerns": "Magic; harassment."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping others.",
+   "concerns": "Magic; harassment."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Good triumphs over disease.",
+   "concerns": "Material medicine over prayer."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for all creatures.",
+   "concerns": "Harassment humor."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Care for animals and nature.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Purity through cleanliness and care.",
+   "concerns": "Death impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Seva through healing.",
+   "concerns": "Harassment humor."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Science serving humanity.",
+   "concerns": "Harassment; harem."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Helping others.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Competence.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Pikuach nefesh: saving life.",
+   "concerns": "Immodesty; magic."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Saving life; care for animals.",
+   "concerns": "Harassment humor."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Healing the world.",
+   "concerns": "Harassment humor."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Professional, rule-based problem solving."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Works within a royal court."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Serves the whole land."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Prince and nobility rule."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Science over custom."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Fight against disease and disaster."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "Confucian"
+  ],
+  "japan": "A modern Japanese civil-servant's duty ethic carried into a fantasy kingdom, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Only blurbs available (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Its pro-science message is carried by the vet's work."
+ },
+ "winners_losers": "Shingo's knowledge saves lives; greedy or power-abusing figures likely lose (to verify).",
+ "to_verify": [
+  "What the Sexual Assault and harassment tags refer to and how they are framed.",
+  "Slavery depiction.",
+  "Violence level."
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "anilist_id": 130048,
+ "title": "The Bottom-Tier Baron's Accidental Rise to the Top",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/130048",
+  "https://api.mangaupdates.com/v1/series/65333631063"
+ ],
+ "premise": "Young Rize Babalon inherits the poorest barony in the country, a refuge for criminals, heretics, the sick and demihumans, and its people immediately rise up. To save his own skin he uses his healing magic, which the kingdom treats as the divine right of nobles, to win over commoners, and is soon hailed as a savior and branded a rebel (Kaiten Books blurb via AniList; MU). A comedy of misunderstandings with ecchi elements; ten volumes in Japanese.",
+ "life_message": "Kindness to ordinary people, even for selfish reasons, can overturn an unjust order.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Uprising and war backdrop (blurb); comedic tone (AniList Parody)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy (AniList)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Ecchi genre, harem and big-breasted characters (AniList Ecchi; MU Big Breasts, Harem; MangaDex suggestive); capped without review (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Little noted."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Protagonist bribes and deceives (blurb; MU Deceptive Male Lead)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Critical theory", "strength": 4, "stance": "Explored"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Christian", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Satire of noble divine right; accidental reformer; ecchi comedy",
+ "axes": {"economic": 4, "social": 6, "cultural": 6, "community": 6},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 7, "sanctity": 3, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Healing the sick and outcast in Babalon; care for the poor.", "concerns": "Parody of state religion and cults; fan service."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Mercy to the sick.", "concerns": "Mocking doctrine; ecchi."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Help to the poor.", "concerns": "Ecchi, heretic cult played for comedy, gender transformation."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Unintended good to the needy.", "concerns": "Fan service; religion satire."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Healing ministry echo.", "concerns": "Cult worship of the baron."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Providence works through selfish acts.", "concerns": "Rebellion against magistrate; ecchi."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbor love regardless of motive.", "concerns": "Fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Social holiness among outcasts.", "concerns": "Ecchi."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Satire of hypocrisy.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Critique of state-backed religion.", "concerns": "Immodesty; war."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Service to the poor.", "concerns": "Immodest content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Inclusion of demihumans and outcasts; anti-privilege.", "concerns": "Objectifying art."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Justice for the poor.", "concerns": "Ecchi; mockery of religion."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Rajadharma: ruler serving subjects.", "concerns": "Fan service."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion yields good karma.", "concerns": "Selfish motive; fan service."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Satirizes divine-right hierarchy and discrimination.", "concerns": "Sexualized art."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Questions religious privilege.", "concerns": "Fan service."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Responsible lordship.", "concerns": "Rebellion against crown and faith; ecchi."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Healing.", "concerns": "Impure content; cult."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Care for the poor.", "concerns": "Magic, war, immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Healing theme.", "concerns": "Magic healing as noble privilege."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Inherent worth of outcasts.", "concerns": "Objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Heretics treated sympathetically (to verify).", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony of a community.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality; serving the poor.", "concerns": "Lust as comedy."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Ending prejudice against demihumans.", "concerns": "Chastity; partisan revolt."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping others improves society.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Mocks arbitrary religious authority.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Tzedakah-like care.", "concerns": "Tzniut; idolatrous cult."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice for the poor.", "concerns": "Immodesty."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Tikkun olam satire.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Rize avoids fights by sucking up to citizens (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Defies the kingdom's founding doctrine (MU)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Serves all citizens, including outcasts (MU)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Undercuts nobles' divine right (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "State religion's doctrine satirized (blurb)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Wants a relaxed seaside life (blurb)."}
+  },
+  "closest": ["The Midlands", "Yankeedom", "English-speaking"],
+  "japan": "A Japanese web-novel 'misunderstanding' comedy where the humble, conflict-avoiding hero is mistaken for a great leader."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "Rize and Babalon's outcasts rise; the nobility and its doctrine are the butt of the satire.",
+ "to_verify": [
+  "No review opened; ecchi level capped and may be understated.",
+  "How the cult and state religion are portrayed.",
+  "Gender transformation subplot (MU, AniList Gender Bending).",
+  "English at 3 volumes, ongoing (MU)."
+ ]
+}

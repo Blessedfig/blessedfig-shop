@@ -1,0 +1,96 @@
+{
+  "anilist_id": 47915,
+  "title": "Judge",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/47915",
+    "https://api.mangaupdates.com/v1/series/42479180412",
+    "https://www.fandompost.com/2013/09/02/judge-vol-01-manga-review/"
+  ],
+  "premise": "Hiro, a young man whose jealous lie led to his older brother's death, is abducted with eight others and held in an old courthouse, each wearing an animal mask tied to one of the seven deadly sins. Every twelve hours the captives must vote on which of them dies, and only four are promised release (Yen Press blurb via MangaUpdates; Fandom Post review).",
+  "life_message": "Hidden guilt must be faced; under pressure people reveal who they are, and judging others is a trap.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Death-game executions by vote (Fandom Post; AniList Death Game, MU Murder/s). Gore level not described (to verify)."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Bleak, tense, hopeless atmosphere (Fandom Post); AniList Survival, Battle Royale."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "MU low-vote tags Attempted Rape, Seduction (to verify); lust is one of the sins."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Guilt over a brother's death (Yen Press blurb; MU Guilt)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Betrayal and deception as survival tactics (MU tags)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Christian", "strength": 3, "stance": "Explored"},
+    {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+    {"lens": "Nihilism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Sin, guilt and judgment; survival under coercion",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+  "foundations": {"care": 4, "loyalty": 5, "fairness": 7, "sanctity": 5, "authority": 3, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Seven deadly sins and the need to confess guilt.", "concerns": "Captives judging and killing each other; judgment usurped from God."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Repentance for Hiro's lie is central.", "concerns": "Dark, fear-feeding death game."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Sin has consequences; truth comes out.", "concerns": "No grace offered in the setup; violence."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Opens talk on sin, guilt and who may judge (Matthew 7:1).", "concerns": "Bleak, hopeless tone (Fandom Post)."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Sins named and exposed.", "concerns": "Graphic peril and despair."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Total depravity on display under pressure.", "concerns": "Murder by vote; ninth-commandment deceit."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Law exposes sin.", "concerns": "No gospel word; only law and death."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Conscience and guilt taken seriously.", "concerns": "Violence as entertainment."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Morality play framed around the deadly sins.", "concerns": "Cruelty dominates."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Refusing to kill would be the faithful choice.", "concerns": "Killing as the game's rule."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Repentance for a lie.", "concerns": "Violent, fear-centered media."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Critique of scapegoating and mob judgment.", "concerns": "Cruelty and despair."},
+    {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Accountability for sins before judgment.", "concerns": "Humans taking life unjustly; gore."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Karma: past deeds return.", "concerns": "Tamasic violence."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Craving and jealousy lead to suffering.", "concerns": "Killing; first precept."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Shows how coercive systems turn people on each other.", "concerns": "Violence and possible assault content (to verify)."},
+    {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Moral reasoning under pressure.", "concerns": "Cruelty as spectacle."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Sin, guilt and responsibility taken seriously.", "concerns": "Nihilistic mood; gore."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Judgment theme.", "concerns": "Violence that excites fear."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violent entertainment (Psalm 11:5)."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Guilt confronted.", "concerns": "Dwells on fear and death."},
+    {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Questions who may judge whom.", "concerns": "Cruelty."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Threefold-law echo: harm returns.", "concerns": "Harm-centered plot."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sincerity versus deceit tested.", "concerns": "Death and blood throughout."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Five vices (lust, anger, greed, attachment, ego) as the frame.", "concerns": "Violence."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Truthfulness tested.", "concerns": "Violence and division."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Hidden overts (wrongs) come to light.", "concerns": "Murder theme."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation tested; distrust of arbitrary authority.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Teshuva for a lie.", "concerns": "Bloodshed; bittul Torah."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Accountability and conscience.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Ethical dilemma about collective judgment.", "concerns": "Cruelty."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Courtroom framing; votes replace personal duels (Fandom Post)."},
+      "Order vs freedom": {"pos": 2, "evidence": "Captors impose strict rules; failing to vote kills all (Fandom Post)."},
+      "Civic vs kin": {"pos": 5, "evidence": "Strangers forced together; a brother's death drives Hiro (blurb)."},
+      "Equality vs hierarchy": {"pos": 7, "evidence": "Unseen captors hold total power over captives."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Seven deadly sins symbolism in a secular setting."},
+      "Survival vs self-expression": {"pos": 1, "evidence": "Pure survival game (AniList Survival, MU Play or Die)."}
+    },
+    "closest": ["Orthodox Europe", "Confucian", "Middle East and North Africa"],
+    "japan": "Death-game stories are a popular Japanese thriller form, and public shame and guilt as drivers of punishment reflect familiar themes, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Sin symbolism carries the theme; review notes no moralizing (Fandom Post) (to verify for later volumes).",
+    "personified": [
+      {"character": "The masked captors", "ideology": "Punitive judgment of sinners", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "The deadly sins serve as labels for each captive; the volumes reviewed leave the captors' motives unexplained."
+  },
+  "winners_losers": "Survivors who outlast the votes win; the story's sympathy goes to confronting guilt rather than to the captors' punitive judgment (to verify).",
+  "to_verify": [
+    "Wikipedia cache for this ID describes a different work (Fujihiko Hosono's Judge); ignored",
+    "Gore level and how deaths are shown",
+    "MU low-vote 'Attempted Rape' tag",
+    "Ending and the captors' motives",
+    "Yen Press rating given as 16+ in the Fandom Post review"
+  ]
+}

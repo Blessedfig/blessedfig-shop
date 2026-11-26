@@ -1,0 +1,92 @@
+{
+ "anilist_id": 110837,
+ "title": "DUNGEON DIVE: Aim for the Deepest Level",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110837",
+  "https://api.mangaupdates.com/v1/series/76511423632",
+  "https://honeysanime.com/dungeon-dive-aim-for-the-deepest-level-volume-1-review-manga-exploring-the-dungeons"
+ ],
+ "premise": "Kanami is visiting his sick younger sister in hospital when he wakes in a deadly 100-floor labyrinth in a fantasy world. Legend says reaching the deepest level grants a wish, so he pushes downward to get home, helped by magic and an unnamed skill that steadies him when overwhelmed but disturbs his emotions and mind (Seven Seas blurb via AniList/MU; Honey's Anime review of volume 1).",
+ "life_message": "Love for family drives you through danger, but power that numbs your feelings has a hidden price.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "'Cutthroat warriors and bloodthirsty monsters' (blurb); review calls the dungeon deadly; MU Attempted Murder."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Isolation in a deadly labyrinth (blurb, review); AniList Psychological genre."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU lists Rape, Sex Slave/s, Nudity, Breast Grabbing at low votes; database only, capped (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Skill has 'a disturbing effect on his emotions and mind' (publisher blurb); MU Manipulation, Brainwashing, Mind Control."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Fantasy setting."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Survival quest; devotion to a sick sister; cost of power over the mind",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Kanami's love for his ill sister motivates everything.", "concerns": "Tagged slavery and sexual violence (MU) need checking."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Shows a soul strained by temptations of power.", "concerns": "Wish-granting labyrinth and mind-altering magic."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Perseverance and family loyalty.", "concerns": "Magic system; possible sexual content (to verify)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Sacrificial love for a sibling.", "concerns": "Violence and manipulation themes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Endurance in a hostile world.", "concerns": "Power that takes over the mind resembles spiritual bondage."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Human limits in a world not of his making.", "concerns": "Wish-fulfillment framing."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Duty to family as vocation.", "concerns": "Violence and brainwashing tags."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Care for the sick sister.", "concerns": "Dark fantasy elements."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Moral cost of power explored (blurb 'at what price?').", "concerns": "Tagged sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Love for family.", "concerns": "Constant combat to advance."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family devotion and growth through trials.", "concerns": "Possible immodest content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Empathy for a hospitalized sibling.", "concerns": "Slavery tagged."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Duty to kin.", "concerns": "Magic shown as real power; possible immodesty."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Dharma to family through trials.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Numbing of emotion invites reflection on attachment and self.", "concerns": "Killing monsters to advance."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Takes mental effects of trauma seriously.", "concerns": "Slavery and sexual violence tags; harem tag."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Reasoning through an unknown world (review).", "concerns": "Wish-granting magic."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Responsibility for family; courage.", "concerns": "Sexual content (to verify)."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Care for the sick.", "concerns": "Magic and mind-control themes."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Family love.", "concerns": "Magic and violence."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear.", "concerns": "Fear and mental manipulation."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Search for meaning under pressure.", "concerns": "Slavery tags."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic as power with consequences.", "concerns": "Manipulative magic used on others."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Bond with family.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Courage and duty to kin.", "concerns": "Violence and lust tags."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Family love.", "concerns": "Violence and occult wishes."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Self-determination against mental control.", "concerns": "Mind-altering power."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation and reason.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Pikuach nefesh urge to return to a sick sister.", "concerns": "Magic; possible immodest content."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Family loyalty.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Care for the vulnerable.", "concerns": "Slavery tags."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Fights forced on him by warriors and monsters (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "No guidance or rules; he must fend for himself (review)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Goal is returning to his ill sister (blurb)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Level system ranks adventurers (MU Level System)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Game-like rules and levels (MU Game Elements)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Pure survival in a deadly dungeon (review)."}
+  },
+  "closest": ["El Norte", "Orthodox Europe", "Latin America"],
+  "japan": "A Japanese web-novel isekai with game-like levels; devotion to a sibling reflects common family-duty motifs, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Sources say nothing on preachiness; theme carried by Kanami's goal (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Volume 1 sets up the world from Kanami's view only (review), so contrasting outlooks are not yet shown."
+ },
+ "winners_losers": "Sympathy rests with Kanami and his wish to return to his sister; the labyrinth and those who manipulate him are the threat.",
+ "to_verify": [
+  "MU tags Rape, Sex Slave/s, Mind Break at 1-2 votes; confirm manga content.",
+  "Female Harem tag (AniList, 10%) and the role of 'the mysterious girl'.",
+  "Names of companions not confirmed from opened sources."
+ ]
+}

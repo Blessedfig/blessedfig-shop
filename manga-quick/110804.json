@@ -1,0 +1,92 @@
+{
+ "anilist_id": 110804,
+ "title": "Ascendance of a Bookworm ~I'll do anything to become a librarian!~ Part 2 I'll even join the temple to read books!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110804",
+  "https://api.mangaupdates.com/v1/series/15071532937"
+ ],
+ "premise": "Manga adaptation of Part 2 of the Ascendance of a Bookworm novels: Myne, a book-loving girl reborn into a medieval-style world, negotiates to become an apprentice blue shrine maiden at the temple so she can read in its book room and be treated like a noble (J-Novel Club blurb via AniList and MU). The temple's status-based structure and her difficult attendants make life hard (blurb); MU also lists orphanage, politics involving religion, business and family drama. Complete in 13 volumes; Myne is sickly (MU).",
+ "life_message": "Love of books and learning, pursued with ingenuity and care for family and the poor, can change a rigid society.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Mostly political and social conflict; not checked in detail (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Myne's illness and noble power struggles (MU Sickly Character, Politicians)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "Child protagonist; no romance tags."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not checked (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Chronic illness and obsession with books (MU Obsession, Sick Protagonist)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Myne's single-minded drive; bending rules to get books."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Book-making and business ventures are part of the plot (MU Business, Merchants); large franchise."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Learning and literacy; navigating a class- and temple-based hierarchy; family love",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 6, "sanctity": 4, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Myne's care for temple orphans and love of learning echo works of mercy.", "concerns": "A fictional temple run by status and power may read as a critique of clergy."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humble service inside a sacred institution.", "concerns": "Fantasy religion and rituals; temple corruption."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Literacy and reading the book for oneself.", "concerns": "Invented temple religion and magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Caring for orphans; family love.", "concerns": "Fantasy religious practice."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Compassion for the poor.", "concerns": "Magic and a shrine-maiden role in a fictional faith."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "High value on books, education and vocation.", "concerns": "Fictional religious ritual."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Printing and books for common people mirror Reformation history.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Works of mercy for orphans; education for all.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Learning and service within an institution.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Mutual aid and simple family life.", "concerns": "Magic; ambition toward noble status."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Family, learning and self-reliance.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Challenges class barriers; cares for the poor.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Seeking knowledge is praised; family duty.", "concerns": "Magic and fictional gods' temple."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Devotion to learning; temple as center of life.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion for orphans.", "concerns": "Myne's strong attachment to books."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Literacy and access challenging class hierarchy.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Reason, knowledge and printing transform society.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Family loyalty, hard work and enterprise.", "concerns": "Skepticism toward established institutions."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Education and health struggles shown with care.", "concerns": "Magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Reading and study valued.", "concerns": "Fictional religion and magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Perseverance despite illness.", "concerns": "Illness dwelt on."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free search for knowledge; equity.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Ritual and magic shown as part of life.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Shrine-maiden service and ritual respect.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work, seva to orphans, against status barriers.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Universal education and harmony of learning and faith.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Study and improving conditions.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Navigating arbitrary religious authority by wit.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Love of study and books.", "concerns": "Fictional temple worship and magic."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Lifelong learning and tzedakah.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Learning and justice for the poor.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Problems settled by negotiation and contracts (blurb: 'negotiates with the temple')."},
+   "Order vs freedom": {"pos": 4, "evidence": "Myne works within rules of a status-based temple (blurb)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Strong family love (AniList Family Life; MU Familial Love)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Noble versus commoner ranks shape everything (MU Social Hierarchy)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Temple tradition meets modern knowledge (MU Advanced Knowledge Meets Archaic World)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Poverty and illness balanced with passion for books."}
+  },
+  "closest": ["Latin America", "Catholic Europe", "Orthodox Europe"],
+  "japan": "Myne's polite navigation of rank and duty reflects Japanese norms of hierarchy and group harmony, applied in a European-style setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; message carried by Myne's choices per blurbs (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Temple and noble figures obstruct Myne, but sources do not say whether they are drawn fairly (to verify)."
+ },
+ "winners_losers": "Myne, her family and the temple orphans win sympathy; the temple's status-bound order is the obstacle she works around.",
+ "to_verify": [
+  "How the fictional temple and its priests are portrayed",
+  "Any violence or threats to Myne by nobles",
+  "Treatment of orphans and attendants",
+  "Light-novel versus manga differences"
+ ]
+}

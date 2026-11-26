@@ -1,0 +1,91 @@
+{
+ "anilist_id": 110218,
+ "title": "Weathering With You",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110218",
+  "https://api.mangaupdates.com/v1/series/22359232547",
+  "https://www.commonsensemedia.org/movie-reviews/weathering-with-you"
+ ],
+ "premise": "Manga adaptation of Makoto Shinkai's film. High-school freshman Hodaka runs away from his island home to Tokyo, where he meets Hina, a girl whose power can change the weather, and the story explores love and sacrifice as he tries to protect her (Kodansha blurb via AniList/MU; Common Sense Media guide to the film).",
+ "life_message": "Love for one person can be worth defying the world's expectations, though choices about nature carry real costs.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "In the film Hodaka is beaten in street fights and by police and fires a gun twice without hitting anyone (CSM); AniList Guns, Police."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Dangerous storms; peril to the leads (CSM, film)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Teen first love, hand-holding; in the film men pressure a young woman toward a 'sex club' job (CSM). Manga handling to verify."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Mild profanity in the film (CSM); manga to verify."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Adults drink and smoke; a 16-year-old is offered beer (CSM, film)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Loneliness of a runaway; Hina's personal cost (CSM)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Teen runaway and gun use (CSM); MU Runaway/s, Delinquent/s."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Film tie-in; real brands appear in the film (CSM)."}
+ ],
+ "lenses": [
+  {"lens": "Environmentalism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pantheist/New Age", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Young love and sacrifice; humans and weather; youths against adult institutions",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 5, "authority": 2, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Self-giving love; Hina's devotion to her younger brother.", "concerns": "Runaway minors defying police; gun; weather-maiden spirituality."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Sacrificial love.", "concerns": "Weather-deity themes; rebellion against authority."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Protecting the vulnerable.", "concerns": "Teens drinking offer, smoking, gun, defying parents and law."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Love and courage of Hodaka.", "concerns": "Never explains why he ran away (CSM); sex-club pressure scene."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Sacrifice for others.", "concerns": "Girl with supernatural power linked to sky gods (AniList Gods)."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Creation's weather beyond human control.", "concerns": "Rebellion against lawful authority."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Love of neighbor in a lonely city.", "concerns": "Gun and runaway."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Care for the poor and orphaned (Hina and her brother).", "concerns": "Alcohol and smoking among adults."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Rich moral imagination about sacrifice.", "concerns": "Ending's ethics worth discussing (to verify)."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Care for neighbors.", "concerns": "Gun use and fighting police."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Love and family devotion.", "concerns": "Beer offered to a teen; smoking; runaway."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Climate and creation care; youth poverty.", "concerns": "Sex-club pressure on a young woman."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and protection of siblings.", "concerns": "Alcohol; teen romance; weather power linked to gods."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Nature as sacred; sacrifice for others.", "concerns": "Defiance of elders."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Interdependence of people and weather.", "concerns": "Attachment chosen over wider welfare (to verify)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Youth poverty and climate themes.", "concerns": "Male gaze at women's bodies (CSM)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Personal choice and human connection.", "concerns": "Supernatural framing of climate."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Courage to protect a loved one.", "concerns": "Runaway defying police and family; gun."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Selfless care.", "concerns": "Alcohol, smoking; spirit-weather themes."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Love for family.", "concerns": "Spiritism-like weather power; violence; festival scenes."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love conquering fear.", "concerns": "Fear and storm peril."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Interdependence with nature; worth of poor youths.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Weather and sky as living, sacred forces.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Weather power tied to gods (AniList), close to kami of sky and rain.", "concerns": "Respectful handling of any shrine scenes to check."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Honest work by poor youths; protection of the weak.", "concerns": "Alcohol and tobacco shown."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Service and love.", "concerns": "Alcohol; defiance of government."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal integrity and self-determination.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Choosing one's own good over imposed sacrifice.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Pikuach nefesh-like urge to save a life.", "concerns": "Idolatry-adjacent weather spirituality; teen romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Value of one life.", "concerns": "Gun; runaway."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Tikkun olam and climate.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Hodaka fights back against goons and police (CSM)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Runaway teen defies family and law (blurb, CSM)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Hina's devotion to her brother; Hodaka's loyalty to Hina (CSM)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Youths resist adult authority."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern Tokyo mixed with weather-maiden folklore (AniList Gods)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Personal love placed above wider security (MU blurb 'how far one boy goes')."}
+  },
+  "closest": ["New Netherland", "English-speaking", "Catholic Europe"],
+  "japan": "The weather maiden draws on Japanese shrine and kami traditions, and the urban poverty of youths reflects modern Tokyo, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "CSM (film): 'an underlying but not heavy-handed environmentalist message'.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Adults such as Natsumi and Suga help Hodaka while police and other adults oppose him (CSM)."
+ },
+ "winners_losers": "Sympathy rests with Hodaka and Hina; adult institutions that would separate them are cast as obstacles.",
+ "to_verify": [
+  "CSM guide covers the film; the 3-volume manga's handling of the gun, sex-club scene, drinking and language to confirm.",
+  "Ending and its framing of sacrifice versus the city."
+ ]
+}

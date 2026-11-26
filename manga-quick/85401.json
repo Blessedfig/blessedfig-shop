@@ -1,0 +1,92 @@
+{
+  "anilist_id": 85401,
+  "title": "PTSD Radio",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/85401",
+    "https://api.mangaupdates.com/v1/series/25180974242",
+    "https://www.tcj.com/reviews/ptsd-radio-omnibus-vols-1-3/"
+  ],
+  "premise": "A horror anthology of short, loosely linked vignettes, many under five pages, connected by Ogushi-sama, a sinister god tied to hair whose idol brings uncanny bodily horrors on townspeople who neglect it. Interstitial narration links the 'frequencies', and later volumes add first-person 'True Stories' about the author's own experiences (Kodansha blurb via AniList/MU; The Comics Journal).",
+  "life_message": "Dread can fall on anyone at random, and the world will not notice; the series offers atmosphere, not a lesson.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Uncanny bodily harm more than fighting (TCJ); AniList Body Horror (to verify gore level)."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Haunting, unsettling vignettes (TCJ); AniList Cosmic Horror, Body Horror; MU Curse/s, Ghost/s."},
+    {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted; MangaDex safe."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "AniList Bullying (45%), Tragedy; author's reported illness in True Stories (TCJ)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Hair offerings and rituals (Kodansha blurb)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Pagan/occult", "strength": 6, "stance": "Explored"},
+    {"lens": "Absurdism", "strength": 5, "stance": "Explored"},
+    {"lens": "Nihilism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Folk-religious horror (Ogushi-sama); an indifferent, unknowable world",
+  "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+  "foundations": {"care": 4, "loyalty": 4, "fairness": 3, "sanctity": 6, "authority": 5, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Takes evil and suffering seriously; no glamor in the horror.", "concerns": "Tributes to a malevolent god; dread without hope."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Shows the misery of a world bound to a false god.", "concerns": "Demonic imagery taken as real; feeds fear rather than guarding the heart."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Shows idol-service bringing only harm.", "concerns": "Occult horror and curses throughout."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Fear of an idol could prompt talk about false gods.", "concerns": "Pervasive dread; no redemptive frame."},
+    {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Curses and a demanding spirit-god at the center: strong open-door concern."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Idolatry pictured as bondage.", "concerns": "Providence absent; random suffering."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Honest about human fear and helplessness.", "concerns": "Occult tributes; no comfort offered."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Compassion for victims is possible.", "concerns": "Media that does not build up; occult."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Literary horror in a tradition that can read ghost stories.", "concerns": "Bleak, hopeless frame."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Horror media and occult themes."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Little to uplift.", "concerns": "Spirit contact and fear-centered content."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Art exploring trauma, as the title suggests.", "concerns": "Bullying victims (AniList) shown without care framing (to verify)."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Shirk shown as destructive.", "concerns": "Curses and a god demanding tribute; jinn-like horror."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Spirits and deities in a familiar cosmology.", "concerns": "Tamasic, fear-feeding content."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Suffering's randomness invites reflection on impermanence.", "concerns": "Feeds fear and aversion."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Horror as art about anxiety and estrangement (TCJ).", "concerns": "Bullying content (to verify)."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Imaginative folk-horror as culture.", "concerns": "'True Stories' present supernatural encounters as real (TCJ)."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Respect for old customs as dangerous to neglect.", "concerns": "Nihilistic mood; occult."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Spirits of the dead and a god who carries away the dead."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Spiritism, curses and idol tribute at the core."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Dwells on fear, disease-like bodily horror."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Folk belief explored as culture.", "concerns": "Cruelty without meaning."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Hair as sacred token and offering (Kodansha blurb).", "concerns": "Old gods shown only as malevolent."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Neglected tribute to a local kami brings misfortune, a familiar motif.", "concerns": "Kami portrayed as a sinister curse-giver."},
+    {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Superstition and idol tribute; hair (kesh) in horror imagery."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Little to uplift.", "concerns": "Occult and fear."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Trauma ('PTSD') framing of the mind (to verify)."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Horror aesthetics; indifferent universe.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Idolatry shown as harmful.", "concerns": "Avodah zarah and sorcery imagery; bittul Torah."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Fiction broadly welcomed.", "concerns": "Idol worship imagery."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Horror as artistic exploration of fear.", "concerns": "Bleakness."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "No honor contests; victims are passive (TCJ)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Rules of tribute must be kept or harm follows (TCJ)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Rural, local community bound by shared custom (AniList Rural)."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "No clear hierarchy beyond the god."},
+      "Tradition vs secular-rational": {"pos": 2, "evidence": "Folk god, offerings and hair symbolism drive the stories (Kodansha blurb)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Survival against random dread (TCJ)."}
+    },
+    "closest": ["First Nation", "Puritan", "Sub-Saharan Africa"],
+    "japan": "A local deity demanding tribute and hair as an offering or penance draw on Japanese folk-religious practice and the kaidan ghost-story tradition."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 1,
+    "evidence": "The Comics Journal finds no explicit moral; only ominous narration and an indifferent world.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The anthology offers mood and dread rather than an argued message."
+  },
+  "winners_losers": "No one wins; ordinary townspeople suffer at random. The worldview given weight is an indifferent, unknowable universe.",
+  "to_verify": [
+    "No Wikipedia cache available; ANN Manga Guide page failed to load",
+    "Gore level and whether children are victims",
+    "How bullying (AniList 45%) is portrayed",
+    "Kodansha USA age rating"
+  ]
+}

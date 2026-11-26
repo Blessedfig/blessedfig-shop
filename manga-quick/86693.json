@@ -1,0 +1,90 @@
+{
+ "anilist_id": 86693,
+ "title": "Nanbaka",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/86693",
+  "https://api.mangaupdates.com/v1/series/8212461245"
+ ],
+ "premise": "In Nanba, the world's most secure prison, four inmates of cell block 13, Juugo, Uno, Rock and Nico, keep escaping, gambling and misbehaving while guard Sugoroku Hajime tries to keep order (MangaUpdates description; AniList). Under the comedy, Juugo hides a dark past that threatens their prison life. It is a full-color webcomic; the print edition covers only the first part.",
+ "life_message": "Friendship can form even among outcasts, whatever their crimes.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Slapstick and martial arts fights (AniList); AniList spoiler tag Gore. Capped: database only (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Conspiracy and dark past (AniList, MangaUpdates). Capped (to verify)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Amnesia and dissociative identities (AniList spoiler tags)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Prison breaks and gambling played for laughs (MangaUpdates description)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Libertarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Prison comedy; found family among inmates; hidden past",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Prisoners treated as persons capable of friendship.", "concerns": "Crime and escapes played for laughs."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Compassion for prisoners.", "concerns": "Rebellion against authority."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Bonds among outcasts.", "concerns": "Gambling and lawbreaking as comedy."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "No one beyond redemption.", "concerns": "Gambling and violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Ghost tag; lawbreaking."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Sin's consequences in prison setting.", "concerns": "Fifth commandment: guards defied."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Guard Hajime's vocation.", "concerns": "Escapes."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Visiting those in prison (Matthew 25) in spirit.", "concerns": "Gambling."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Humane comedy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Community among outcasts.", "concerns": "Fighting and lawbreaking."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Gambling; disrespect of law."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Inmates humanized.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Brotherhood.", "concerns": "Gambling (maysir)."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Karma of past deeds.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion for wrongdoers.", "concerns": "Fights."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Prisoners as people.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Humor and friendship.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Guard upholds order.", "concerns": "Criminals as lovable heroes."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Gambling; ghost tag."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Lawbreaking; violence."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Freedom from limitation.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of each inmate.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Autonomy.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Group harmony in a cell block.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Brotherhood.", "concerns": "Gambling."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity.", "concerns": "Gambling; defiance of law."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Group bonds.", "concerns": "Illegal acts."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Defying confinement.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Gambling."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Dignity of prisoners.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Second chances.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Martial arts fights and revenge (AniList spoiler)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Inmates repeatedly break out (description)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Cellmates as found family."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Guard versus inmates."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern prison with robots (AniList)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Inmates 'can have fun' despite prison (description)."}
+  },
+  "closest": ["Catholic Europe", "The Far West", "El Norte"],
+  "japan": "Uses the Japanese gag-manga ensemble style; senpai-like guard-inmate bonds."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about delivery."
+ },
+ "winners_losers": "The inmates are sympathetic; outcomes not in opened sources.",
+ "to_verify": [
+  "English license is partial or lapsed (MangaUpdates: licensed false, English version dropped).",
+  "Gore level (AniList spoiler tag only).",
+  "Webcomic beyond the print edition not checked."
+ ]
+}

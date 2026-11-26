@@ -1,0 +1,90 @@
+{
+ "anilist_id": 85489,
+ "title": "Today's Cerberus",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85489",
+  "https://api.mangaupdates.com/v1/series/31027460556"
+ ],
+ "premise": "As a boy, Chiaki Mikado was bitten by a three-headed puppy and lost a piece of his soul, leaving him unable to enjoy anything. As a teenager he receives a box from his traveling father containing Cerberus, the guardian of the underworld's gates in the form of a girl with three distinct personalities, who moves in to protect him and help him feel joy again (Yen Press blurb via AniList; MU description).",
+ "life_message": "Joy can be recovered through the care and company of others.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Action genre (MU); Cerberus vows to protect Chiaki from harm. Fights not described (to verify)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy; underworld mythology light."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Female harem with monster girls and cohabitation (AniList Female Harem 85, MU Harem). Fan service level not verified; capped."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Chiaki cannot feel joy after losing part of his soul (blurb), a depression-like premise; split personalities (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "None reported."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"},
+  {"lens": "Moralistic therapeutic deism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Recovering happiness; protective companionship; harem comedy",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Cerberus's protective loyalty to Chiaki.", "concerns": "Underworld guardian and soul-loss treated lightly; harem cohabitation."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Care for a joyless young man.", "concerns": "Pagan underworld figure as companion; harem passions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Friendship restores Chiaki.", "concerns": "Mythic underworld being; harem setup with a teen boy."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Loyal protection and kindness.", "concerns": "Soul stolen by a mythic hound; harem genre."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Healing of a wounded heart.", "concerns": "Gatekeeper of the underworld as an ally may read as spiritual danger."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Comedy with harmless intent.", "concerns": "Harem fantasy; mythic soul-loss premise."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Light entertainment as adiaphora.", "concerns": "Harem cohabitation."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Joy restored through companionship.", "concerns": "Harem and cohabitation."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Minor", "aligns": "Myth used playfully.", "concerns": "Harem genre."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Protecting the weak.", "concerns": "Worldly harem entertainment and mythology."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Recovering happiness.", "concerns": "Cohabitation with girls; harem."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Takes emotional numbness seriously.", "concerns": "Girls framed as devoted harem companions."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty and protection.", "concerns": "Unmarried cohabitation; harem; underworld mythology."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Guardian beings familiar in mythic storytelling.", "concerns": "Harem genre."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Freeing a person from joyless suffering.", "concerns": "Craving-centered harem fantasy."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Depression-like premise treated with care (to verify).", "concerns": "Female characters as harem types."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Myth as harmless fiction.", "concerns": "Harem tropes."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and protection.", "concerns": "Teen cohabitation and harem fan service (to verify)."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Care for Chiaki.", "concerns": "Underworld spirits shown as real; harem."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Underworld guardian and soul theft as spiritism-adjacent; harem."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Joy as the natural state restored.", "concerns": "Material, harem-centered focus."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Playful mythology.", "concerns": "Gender tropes of harem."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Greek myth figure portrayed kindly.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Spirit beings coexisting with humans.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Protecting someone vulnerable.", "concerns": "Myth and harem lust (kaam)."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Companionship heals.", "concerns": "Harem and chastity concerns."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Restoring a person's spiritual wholeness.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Pursuit of pleasure and life lived fully.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Harem, immodesty and pagan underworld figure."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Care for a struggling young man.", "concerns": "Harem genre."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Minor", "aligns": "Light fantasy.", "concerns": "Harem gender tropes."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Cerberus vows to protect Chiaki (MU description); no honor code stressed."},
+   "Order vs freedom": {"pos": 6, "evidence": "Home life without parental oversight; father away traveling (MU)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Household-centered comedy."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Guardian-ward relationship but casual tone."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Mythology used playfully in a modern school setting."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Goal is Chiaki's happiness and enjoyment (Yen Press blurb)."}
+  },
+  "closest": ["English-speaking", "Catholic Europe", "Yankeedom"],
+  "japan": "Recasts a Greek myth through the Japanese harem-comedy and monster-girl conventions of shounen manga."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review opened; comedy premise suggests light delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Any message about recovering joy appears to come through the comedy (to verify)."
+ },
+ "winners_losers": "Chiaki is meant to regain joy with Cerberus's help (to verify outcome).",
+ "to_verify": [
+  "No review or Wikipedia cache; database and publisher blurb only.",
+  "Level of fan service in the harem comedy; sexuality score may be understated.",
+  "Nature of action and any villains."
+ ]
+}

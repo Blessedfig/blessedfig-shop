@@ -1,0 +1,88 @@
+{
+ "anilist_id": 103875,
+ "title": "That Time I Got Reincarnated as a Slime: The Ways of the Monster Nation",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/103875",
+  "https://api.mangaupdates.com/v1/series/21218837644"
+ ],
+ "premise": "Framea, the curious daughter of the rabbitfolk chief, is asked by Rimuru, the demon lord who founded the kingdom of Tempest, to catalog the land's attractions, food and sights for travelers (Yen Press blurb via AniList). She finds monsters and humans living side by side (MangaUpdates description). This travel-guide spin-off ran eight volumes and was cancelled due to the artist's health (MangaUpdates).",
+ "life_message": "Curiosity and openness let different peoples enjoy living together.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Dungeon tag (AniList); no fighting described."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light tone."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Monster girl characters (AniList); nothing described."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Food and drink tourism likely (to verify)."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Star ratings for 'three-star delights' (blurb); franchise spin-off."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Travel and food tourism; coexistence of monsters and humans",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Hospitality of Tempest toward travelers.", "concerns": "A 'demon lord' as benevolent ruler."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Welcome of strangers.", "concerns": "Demon lord portrayed as good."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Neighborly coexistence.", "concerns": "Demons and magic presented positively."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Curiosity and kindness.", "concerns": "Demon lord as hero."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Gentle community.", "concerns": "Demons framed as benign."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Ordered city life.", "concerns": "Magic."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Framea's vocation as guide-writer.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Hospitality.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Light fantasy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Peaceful community.", "concerns": "Fantasy magic."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Community building.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Coexistence across difference.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Hospitality.", "concerns": "Demons and magic in a positive light."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Harmony of beings.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Peaceful coexistence.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Diverse society living together.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Curiosity and documentation.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Orderly, prosperous realm.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Gentle tone.", "concerns": "Demon lord and magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Peaceful.", "concerns": "Demons and magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Harmony.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Pluralism.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Magic and creatures shown positively.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Spirits and people together.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Equality of peoples.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity of diverse peoples.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Thriving society.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "A demon lord as benevolent.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Hospitality (hachnasat orchim).", "concerns": "Magic."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Hospitality.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Peaceful tourism, no feuds (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Free travel and exploration (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Monsters and humans coexisting in a shared town (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Rimuru as lord giving Framea a mission (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Celebrates Tempest's 'innovations' (blurb)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Leisure, food and sightseeing (blurb)."}
+  },
+  "closest": ["Yankeedom", "The Midlands", "English-speaking"],
+  "japan": "Echoes Japanese gourmet and travel-guide culture with star ratings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about delivery."
+ },
+ "winners_losers": "Framea and the people of Tempest; no antagonist noted.",
+ "to_verify": [
+  "Heroine's name: Yen Press uses Framea, MangaUpdates uses Flamaire.",
+  "Content of later volumes; series was cancelled (MangaUpdates)."
+ ]
+}

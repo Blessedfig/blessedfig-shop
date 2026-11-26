@@ -1,0 +1,84 @@
+{
+  "anilist_id": 33614,
+  "title": "What a Wonderful World!",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/33614",
+    "https://www.mangaupdates.com/series/cug4nuz"
+  ],
+  "premise": "Inio Asano's two-volume anthology of linked short stories follows young people in Tokyo: struggling musicians, a shut-in, a bullied student, people thinking about death and others drifting through their twenties. Characters cross from one vignette to the next, and a few stories add surreal touches such as a grim-reaper figure. The book shows modern life as ridiculous and precious at once.",
+  "life_message": "Ordinary life is fragile and often absurd, yet small connections and choices can make it worth going on.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Brief yakuza and bullying scenes (AniList Yakuza 36; MU Bullying) (to verify)."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Grim-reaper figure and the 'absurdity of death' (Viz blurb via AniList; MU Shinigami)."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Young-adult couples, possibly cohabiting (to verify); MangaDex safe."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Seinen dialogue among twenty-somethings; profanity in English edition to verify."},
+    {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Adult smoking and drinking typical of Asano's settings (to verify)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Suicidal thoughts, a hikikomori and bullying (AniList Suicide spoiler tag; MU Hikikomori, Bullying); capped at 3, likely higher (to verify)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Aimless or self-destructive choices shown without moralizing (to verify)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 7, "stance": "Explored"},
+    {"lens": "Absurdism", "strength": 5, "stance": "Explored"},
+    {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Nihilism", "strength": 3, "stance": "Critiqued"}
+  ],
+  "dominant": "Existential searching; absurdity of modern life; quiet hope",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+  "foundations": {"care": 6, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 2, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Each small life in the vignettes treated as precious; despair resisted.", "concerns": "Suicidal thoughts without spiritual hope; meaning without God."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Honest picture of human brokenness.", "concerns": "No path of repentance or prayer; grim-reaper imagery."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Shows emptiness of aimless modern life.", "concerns": "Worldly framing; language and suicide themes."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Characters long for meaning, a good discussion starter.", "concerns": "Answers found only in human connection."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Hope amid despair.", "concerns": "Death-spirit imagery; no faith answer."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Truthful portrayal of a fallen world's futility (Ecclesiastes-like).", "concerns": "Suicide themes; no providence."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Ordinary vocations and small mercies matter.", "concerns": "Mental-health themes to read together."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Compassion for the lonely and bullied.", "concerns": "Suicide and despair."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary moral seriousness about ordinary lives.", "concerns": "Suicide themes."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Critique of empty urban striving.", "concerns": "Worldly setting; despair; language."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Life as worth living through trials.", "concerns": "Language, drinking and suicide themes (to verify)."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Empathy for marginal young people; mental health taken seriously.", "concerns": "Suicide depiction needs care."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience through hardship.", "concerns": "Suicide forbidden; despair without faith; drinking."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Search for purpose in each life stage.", "concerns": "Suicide discouraged; aimlessness."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Discuss", "aligns": "Dukkha and impermanence seen clearly; small compassion eases suffering.", "concerns": "Intoxicants; suicide themes."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Mental-health honesty; empathy for outsiders.", "concerns": "Safe-messaging around suicide."},
+    {"frame": "Secular humanist", "grade": "S", "weight": "Discuss", "aligns": "Meaning made in this life through human connection.", "concerns": "Suicide themes for younger readers."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Shows cost of drifting without duty.", "concerns": "Relativism and suicide portrayal."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Concern for the hopeless.", "concerns": "Death-spirit imagery; substances."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Honesty about life's hardships.", "concerns": "Spirit of death shown; worldly lifestyles."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Hope breaking through.", "concerns": "Dwells on death and despair."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Free search for meaning; worth of each person.", "concerns": "Suicide themes."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Death as part of life's cycle.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Small moments of gratitude in daily life.", "concerns": "Death imagery (kegare)."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Overcoming ego and isolation.", "concerns": "Suicide themes; intoxicants."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Each soul's worth and growth.", "concerns": "Suicide forbidden; alcohol (to verify)."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Characters moving from apathy toward survival.", "concerns": "Mental-health framing."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Life lived now; individual meaning.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Value of each life (pikuach nefesh spirit).", "concerns": "Vulgar speech; despair; time-wasting entertainment."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Compassion and honest reflection.", "concerns": "Suicide themes."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Ethical reflection on ordinary lives.", "concerns": "Suicide themes."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Conflicts are inward; no honor culture in the vignettes."},
+      "Order vs freedom": {"pos": 7, "evidence": "Young adults drift outside career and family scripts."},
+      "Civic vs kin": {"pos": 4, "evidence": "Friends and chance strangers matter more than family."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Peers among peers; authority figures largely absent."},
+      "Tradition vs secular-rational": {"pos": 8, "evidence": "Secular urban life; tradition plays little role."},
+      "Survival vs self-expression": {"pos": 7, "evidence": "Characters chase music and meaning over security."}
+    },
+    "closest": ["New Netherland", "Catholic Europe", "The Left Coast"],
+    "japan": "The stories reflect Japanese social phenomena such as hikikomori withdrawal, school bullying and pressure on young adults to conform."
+  },
+  "delivery": {"style": "Woven in", "preachiness": 3, "evidence": "No source addresses delivery; Viz blurb frames it as vignettes exploring modern life (to verify).", "personified": [], "opposing_views": "None shown", "note": "The anthology presents moods and situations rather than arguing for a view."},
+  "winners_losers": "No one wins outright; characters who reach out to others find small hope, and despair is shown without being admired.",
+  "to_verify": [
+    "No Wikipedia article found for this title",
+    "How the suicide-related story is resolved",
+    "Language, drinking and any sexual content in the Viz edition"
+  ]
+}

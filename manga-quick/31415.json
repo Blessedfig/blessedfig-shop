@@ -1,0 +1,93 @@
+{
+ "anilist_id": 31415,
+ "title": "Manhole",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31415",
+  "https://api.mangaupdates.com/v1/series/63614315647",
+  "https://page45.com/store/Manhole-vol-1.html"
+ ],
+ "premise": "A three-volume detective and biological-horror thriller. Detectives Ken Mizoguchi and Nao Inoue investigate bloody, mysterious murders linked to a naked man on a city street and a parasitic roundworm from Botswana, uncovering a deliberately spread biological agent that threatens an epidemic. An unlikely lead sends them after a mysterious photographer while infections spread (Kana blurb via MU and Page 45; AniList).",
+ "life_message": "Patient police work and responsibility to the public stand against private grievance turned into mass harm.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Condemned", "note": "'Bloody and mysterious murders' (Kana blurb, Page 45); Gore, Blood and Gore, Violence tags (AniList, MU)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Parasite epidemic threat and race against time (blurb); Horror, Psychological, Dark Ambience (MU)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "Nudity (blurb: naked man; tags); MU lists Rape and Domestic Abuse, not described in sources opened, capped (to verify)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Seinen police thriller; not described, capped (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Suicide spoiler tag (AniList) and category (MU); not described, capped (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Condemned", "note": "Bio-terror plot (AniList Terrorism spoiler)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None reported."}
+ ],
+ "lenses": [
+  {"lens": "Utilitarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Critical theory", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Investigation against bio-terror; revenge and its victims; public safety",
+ "axes": {"economic": 5, "social": 4, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 7, "sanctity": 5, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Detectives protect the public; revenge is shown as destructive.", "concerns": "Gore, nudity, and listed rape and suicide content."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Vengeance condemned by its consequences.", "concerns": "Graphic and disturbing imagery."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Lawful authority bears the sword against evil.", "concerns": "Gore, nudity and sexual violence listed."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Justice pursued through investigation.", "concerns": "Graphic violence weighed against purpose."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Protecting the many from harm.", "concerns": "Dark content throughout."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Magistrate restrains evil; depravity shown truthfully.", "concerns": "Nudity and gore."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Significant", "aligns": "Two-kingdoms: police as God's left-hand rule.", "concerns": "Graphic content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Concern for public welfare.", "concerns": "Gore and sexual violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Clear moral frame of crime and justice.", "concerns": "Graphic content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Revenge shown as ruinous.", "concerns": "Violent thriller media."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Duty to protect society.", "concerns": "Violent and sexual content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Strong female investigator (MU Strong Female Lead).", "concerns": "Domestic abuse and rape listed."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Revenge limited by law.", "concerns": "Nudity and suicide."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Dharma of protectors.", "concerns": "Gore."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Hatred breeding suffering.", "concerns": "Graphic harm."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Public health and science against an epidemic.", "concerns": "Sexual violence and suicide portrayal."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Evidence-based detection and science.", "concerns": "Gore."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Police as heroes of order.", "concerns": "Gratuitous gore and nudity."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Health threat taken seriously.", "concerns": "Graphic violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Lawful order.", "concerns": "Violent entertainment."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Overcoming disease threat.", "concerns": "Fear and disease imagery dominate."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Public good protected.", "concerns": "Graphic content."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Harm returns on the harmer.", "concerns": "Gore."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Restoring public order and purity.", "concerns": "Blood and death (kegare)."},
+  {"frame": "Sikh", "grade": "B", "weight": "Significant", "aligns": "Defending innocents.", "concerns": "Graphic content."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Science serving the public.", "concerns": "Violence and suicide."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Do not harm people of good will.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Proportionate justice.", "concerns": "Kidnapping and harm to innocents."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Revenge forbidden; life protected.", "concerns": "Nudity and gore."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Saving lives.", "concerns": "Graphic content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Justice and public welfare.", "concerns": "Graphic content."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "A grievance-driven plot (Revenge tag) is countered by police procedure."},
+   "Order vs freedom": {"pos": 3, "evidence": "Police investigation restores public order (MU Police, Investigation)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Protecting 180 million people (Kana blurb)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Detective partners; rank not stressed."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Parasitology and forensic investigation (blurb)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Epidemic survival stakes."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Confucian"],
+  "japan": "A Japanese police procedural in which detective pairs and public duty reflect norms of organizational responsibility."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Thriller blurb only; no review on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Message appears carried by the investigation (to verify)."
+ },
+ "winners_losers": "Detectives oppose the spreader of the parasite; sympathy with victims and investigators (to verify).",
+ "to_verify": [
+  "Only a retailer page reproducing the publisher blurb was opened; no full review.",
+  "Rape, Domestic Abuse, Kidnapping (MU) and Suicide (AniList, MU) content not described; scores capped and may be understated.",
+  "Language level.",
+  "MU lists Victorian Era category; likely an error."
+ ]
+}

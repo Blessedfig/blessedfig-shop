@@ -1,0 +1,89 @@
+{
+ "anilist_id": 47552,
+ "title": "Non Non Biyori",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/47552",
+  "https://api.mangaupdates.com/v1/series/25706156623"
+ ],
+ "premise": "Tokyo-raised elementary student Hotaru Ichijou moves with her parents to the remote village of Asahigaoka, where a single branch school holds only five students across elementary and middle school. With Renge and sisters Natsumi and Komari, she shares everyday adventures in the countryside (Seven Seas blurb via AniList/MU).",
+ "life_message": "A slow, simple life close to nature and neighbors is full of small joys.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Iyashikei (healing) tone (AniList, MU)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "MU lists GL Subtext and Big Breasts (low concern; to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "'Mischievous' sisters' pranks (blurb)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Adapted to anime (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Environmentalism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Rural childhood; friendship across ages; slow living",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 7},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 4, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Village community caring for children; creation's beauty.", "concerns": "Little reported."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Quiet, simple life that guards the heart.", "concerns": "Little reported."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Clean content and wholesome friendships.", "concerns": "Pranks by Natsumi (to verify)."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Gentle, wholesome daily life.", "concerns": "Little reported."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Clean, uplifting tone.", "concerns": "Little reported."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Common-grace delight in ordinary life.", "concerns": "Little reported."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Family and school as ordinary vocation.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Neighborly kindness.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Pastoral calm.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Minor", "aligns": "Simple rural living and close community.", "concerns": "Popular media itself."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Family and community warmth.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusive small community.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "A", "weight": "Minor", "aligns": "Respect for family and neighbors.", "concerns": "Minor fan-service tag (MU) to check."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Harmony with nature and elders.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "S", "weight": "Minor", "aligns": "Mindful attention to small moments of village life.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Gentle, female-centred friendships.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Curiosity and joy in the natural world.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Rural values and close-knit community.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Wholesome, nature-centred life.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Clean content.", "concerns": "Seasonal festivals likely shown (to verify)."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Peaceful, unfearful outlook.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence with community and nature.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Life following the seasons.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Harmony with rural nature and seasonal life.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Community and sharing.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Unity and education.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Positive group dynamic.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Living fully in the present.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Clean content; family warmth.", "concerns": "Entertainment displacing study."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Kindness and community.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Warm community.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Childhood squabbles only (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Small school and village norms with free outdoor play."},
+   "Civic vs kin": {"pos": 6, "evidence": "Sisters and village families (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Mixed-age class where older students look after younger (MU)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Countryside customs versus Hotaru's Tokyo ways (blurb)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Quality of daily life emphasized (Iyashikei)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "First Nation"],
+  "japan": "The depopulating rural village and mixed-age branch school reflect real conditions in Japan's countryside, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Iyashikei slice of life (AniList, MU); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "City and country are contrasted gently rather than argued."
+ },
+ "winners_losers": "Everyone in the village is treated warmly; there are no antagonists reported.",
+ "to_verify": [
+  "No review opened; tags only.",
+  "MU 'Big Breasts' and GL Subtext categories: any fan service."
+ ]
+}

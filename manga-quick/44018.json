@@ -1,0 +1,96 @@
+{
+ "anilist_id": 44018,
+ "title": "Triage X",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/44018",
+  "https://api.mangaupdates.com/v1/series/74399329228",
+  "https://api.mangadex.org/manga?title=Triage X (record 56a294ed-69bf-4549-af63-961088ce8e43)",
+  "https://icv2.com/print/article/24390"
+ ],
+ "premise": "After a terrorist attack kills his family and best friend, Arashi Mikami is saved by a surgeon who secretly leads Black Label, a team of hospital staff and local teenagers who kill criminals the law cannot reach. The team hunts arms dealers, corrupt politicians and gangsters, and the series mixes gunfights with heavy fan service.",
+ "life_message": "Killing those judged to be society's 'cancers' is presented as a necessary cure when the law fails.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Endorsed", "note": "Vigilante killings, gunfights and torture; ICv2 notes 'bloody violence' and rising body counts; MU Torture, Murder/s; AniList Gore."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Terrorism, hostages and kidnapping (AniList Terrorism; MU Hostage, Kidnapping/s)."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Endorsed", "note": "Fan service 'invades every chapter' (ICv2, rated Adult); MU Nudity, Groping, Panchira; MangaDex erotica with a Sexual Violence tag (to verify extent)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Not described; Adult rating suggests rough speech (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None indicated in sources."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Survivor's loss of family and friend (MU Dead Family Member/s, Death of Loved One/s)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Endorsed", "note": "Teen members act as armed vigilantes; motorcycles and guns (Yen Press blurb via AniList; MU Vigilante/s)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Idol subplot (AniList, MU Idol/s); minor."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Utilitarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Collectivism/authoritarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Might makes right, Utilitarianism (removing society's 'cancers'), Hedonism (fan service)",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 6},
+ "foundations": {"care": 4, "loyalty": 7, "fairness": 6, "sanctity": 6, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Evil such as terrorism is named as real and grave.", "concerns": "Extrajudicial killing endorsed; constant sexualized fan service degrading persons."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Little beyond grief for lost family.", "concerns": "Killing presented as cure; imagery that inflames the passions."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Crime and corruption shown as evil.", "concerns": "Vengeance taken by a private squad, not left to God or the magistrate; nudity and groping."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Talking point on justice versus revenge.", "concerns": "Fan service in every chapter (ICv2); vigilante murder as heroism."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content and celebrated violence contrary to holiness standards."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Corrupt officials shown as wicked.", "concerns": "Sword taken from the magistrate by private hands; lascivious pictures (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Recognizes the need to restrain evil.", "concerns": "Black Label usurps lawful authority's role; sexual imagery."},
+  {"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Diversion built on killing and lust."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Evil of terrorism shown.", "concerns": "Moral vision treats assassination as cleansing; exploitative fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "None.", "concerns": "Heroic violence is the premise; immodest imagery throughout."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Vulgar, immoral and violent media as youth guidance warns."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Anger at corrupt politicians and arms dealers.", "concerns": "Women 'treated very poorly' and 'disposable' (ICv2); glorified killing."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Opposes terror and corruption.", "concerns": "Immodesty and nudity throughout; killing outside lawful judgment."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Destroying adharma is a classic theme.", "concerns": "Tamasic mix of lust and violence."},
+  {"frame": "Buddhist", "grade": "F", "weight": "Significant", "aligns": "Suffering of loss shown.", "concerns": "Killing as solution breaks the first precept; sexual objectification."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Female fighters present (MU).", "concerns": "Sexualization of characters including high-school members; vigilante violence."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Opposes terrorism and corruption.", "concerns": "Rejects due process; exploitation of women's bodies."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Strong stand against criminals and terror.", "concerns": "Fan service and vigilantism undercut lawful order."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Impure imagery and glorified violence."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "None.", "concerns": "Violence and immorality are the core appeal."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "None.", "concerns": "Disease metaphor for killing people; sensual imagery."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Justice for victims of crime.", "concerns": "Denies inherent worth of 'cancers'; objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Protection of innocents.", "concerns": "Harm to others as policy; exploitative sexuality."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Purging corruption from the community.", "concerns": "Blood and death throughout (kegare); fan service."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Defending the oppressed against tyrants.", "concerns": "Lust shown as entertainment; killing without just process."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence and unchaste imagery."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Opposes harmful criminals.", "concerns": "Murder and illegality endorsed."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Proportionate retaliation against wrongdoers.", "concerns": "Sexualization of minors in the cast would violate the rules on children (to verify ages)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Evil confronted.", "concerns": "Severe tzniut concerns; revenge killing."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Opposes terror.", "concerns": "Degrading sexual content; vigilante killing."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Justice for victims.", "concerns": "Glorified violence; exploitation."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Wrongs answered personally by killing, not courts (Yen Press blurb; MU Vigilante/s)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Secret squad acts outside police and law (MangaDex description)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Loyalty to the Black Label team over the public law."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Team follows the hospital chairman's command."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern urban, medical framing of killing as surgery."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Security against terror and crime dominates."}
+  },
+  "closest": ["The Far West", "El Norte", "Orthodox Europe"],
+  "japan": "The secret-squad and 'cleansing' vigilante plot follows a long Japanese genre line of hidden avengers punishing those the system shields."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ICv2 treats it as genre entertainment, a 'wild, high octane ride', with no stated thematic message.",
+  "personified": [
+   {"character": "Hospital chairman (Black Label leader)", "ideology": "Criminals are a disease to be cut out", "role": "Mentor", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "None shown",
+  "note": "Sources describe the vigilante premise as given rather than debated; whether any character questions it is unknown."
+ },
+ "winners_losers": "Black Label wins sympathy as heroes; criminals, terrorists and corrupt officials are framed as disease to be removed.",
+ "to_verify": [
+  "MU lists the Adult genre and MangaDex rates it erotica; it is a Yen Press (not Ghost Ship) title and the core is vigilante action, so it was kept; confirm against site policy.",
+  "Ages of sexualized characters (team includes 'local teenagers' and MU High School tags).",
+  "MangaDex Sexual Violence tag not confirmed by a review.",
+  "Only volume 1 review (ICv2, 2012) opened; later volumes may differ."
+ ]
+}

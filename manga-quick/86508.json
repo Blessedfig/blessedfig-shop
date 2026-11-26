@@ -1,0 +1,134 @@
+{
+ "anilist_id": 86508,
+ "title": "Dragon Ball Super",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Dragon_Ball_Super",
+  "https://www.commonsensemedia.org/tv-reviews/dragon-ball-super",
+  "https://anilist.co/manga/86508",
+  "https://www.mangaupdates.com/series/nbfxrev"
+ ],
+ "premise": "Set after the defeat of Majin Boo, Goku and Vegeta meet Beerus, the God of Destruction, and train under his angel attendant Whis to reach god-level power. They fight in inter-universe tournaments, face Goku Black (the rogue deity-in-training Zamas who seeks to wipe out mortals), and compete in the Tournament of Power, where defeated universes are erased by the childlike supreme ruler Zeno.",
+ "life_message": "It holds up endless self-improvement, friendly rivalry and protecting one's world and friends.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Constant martial-arts battles; killing is common and sometimes celebrated though not graphic; whole universes erased (CSM 10+ on the anime; Wikipedia)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Annihilation stakes, intimidating aliens and a genocidal god (Wikipedia; CSM)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "CSM finds no sexual content in the anime; Master Roshi's lechery gags appear (to verify in manga; MangaDex suggestive)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild insults (CSM)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None (CSM)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None significant."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Disagreements settled by fighting (CSM); Goku's recklessness risking others for an exciting match (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Huge franchise with games, films and merchandise (CSM); manga follows the anime (Wikipedia)."
+  }
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 4, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pantheist/New Age", "strength": 2, "stance": "Explored"},
+  {"lens": "Transhumanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Might makes right, Classical virtue ethics",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 5, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Friends cooperate to save their universe; Android 17 and Frieza even join forces with heroes.", "concerns": "Multiple gods, a 'Lord of Everything' and angels as fighters; a deity-in-training who wants to kill mortals."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Zamas's pride in playing god leads to ruin.", "concerns": "Pantheon of gods and angels portrayed as fighters and servants; endless combat."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Loyalty to friends and family; protecting Earth.", "concerns": "Many gods, angels as attendants and a boyish supreme god (Zeno) who erases worlds."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Opens talk about power, pride and who truly is God.", "concerns": "Divine beings as competitors; violence as solution."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Heroes protecting the innocent from Goku Black.", "concerns": "Gods of Destruction, angels and divine rituals (Super Saiyan God) treated as real powers."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Arbitrary divine power (Zeno) invites a contrast with a just, sovereign God.", "concerns": "Polytheistic cosmology; violence."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Teamwork and loyalty.", "concerns": "Gods and angels used playfully; fighting."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Former enemies become allies.", "concerns": "Violence as main problem-solving tool."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Light mythic adventure with clear heroes.", "concerns": "Pantheon of gods; violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Some fights end in mercy and alliance.", "concerns": "Combat as the main pursuit of life."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Progression through effort; family ties of Goku and Gohan.", "concerns": "Violence; gods as rivals."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Cooperation across universes and former enemies.", "concerns": "Glorified fighting; female fighters few (to verify)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Protecting the innocent from a genocidal foe.", "concerns": "Many gods and a supreme 'Lord of Everything' depicted (shirk concern); angels as fighters."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Gods of creation and destruction (Beerus) echo cosmic cycles.", "concerns": "Violence; deities shown comically."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Ultra Instinct as a mind beyond thought resembles meditative stillness.", "concerns": "Craving for ever-greater power; violence."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Teamwork and redemption of villains.", "concerns": "Killing celebrated at times; violence as default."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Human effort can rival gods.", "concerns": "Little reasoning; fights settle everything."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Discipline, loyalty and defending home.", "concerns": "Goku's neglect of family duties for fighting (to verify)."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Protecting Earth from destruction.", "concerns": "Revived dead and gods of destruction; glorified violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Defense of the innocent.", "concerns": "Violent entertainment and false gods shown as real."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming apparent limits through mental mastery.", "concerns": "Destruction and fear imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Interdependence of universes; rivals cooperate.", "concerns": "Glorified violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Pantheon of gods without demonization.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Many divine beings coexisting, close to a kami-filled world.", "concerns": "Gods portrayed as capricious."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Righteous defense against a genocidal tyrant.", "concerns": "Ego and pride in power-seeking."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity across universes.", "concerns": "Violence as solution."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Competence and self-improvement.", "concerns": "Killing celebrated at times."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Mortals defying gods.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Pride of Zamas punished.", "concerns": "Avodah zarah: many gods and a supreme deity figure shown."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Responsibility to protect the world.", "concerns": "Polytheistic imagery; violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Cooperation and redemption.", "concerns": "Glorified violence."}
+ ],
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Summaries show Zamas's anti-mortal plan defeated by fighting; no review on delivery found (to verify).",
+  "personified": [
+   {
+    "character": "Goku",
+    "ideology": "endless self-improvement through fighting",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Zamas (Goku Black)",
+    "ideology": "mortals should be wiped out by the gods",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Its values are carried by battles and rivalries rather than by stated lessons."
+ },
+ "winners_losers": "The strongest and most persistent fighters win; arrogant gods and tyrants lose. Sympathy goes to Goku's cheerful drive and loyal friends.",
+ "to_verify": [
+  "Viz age rating (believed All Ages or Teen, to verify)",
+  "Master Roshi and other lechery gags in the manga",
+  "How the manga differs from the anime in each arc"
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "anilist_id": 30237,
+ "title": "DEAR MYSELF",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30237",
+  "https://www.mangaupdates.com/series/obagxu7",
+  "https://api.mangadex.org/manga?title=Dear%20Myself",
+  "https://publishersweekly.com/978-1-56970-900-9"
+ ],
+ "premise": "After a traffic accident at 14, Hirofumi lost his memory; two years later his old memories return but the two amnesiac years are gone, and letters he wrote to himself reveal he has been in a relationship with a classmate, Daigo, who refuses to give up on them (Publishers Weekly; DMP blurb via AniList). He struggles with a forgotten past and his own identity; a one-volume tragedy-tinged drama by Eiki Eiki, published by DMP's Juné imprint.",
+ "life_message": "It asks whether love and identity survive the loss of memory, and suggests love can be chosen again (to verify).",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Car accident in backstory (blurb)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Tragedy, a dead lover and childhood trauma labels (AniList Tragedy; MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance between high-school boys around 16 (PW). MangaUpdates lists the genre as Shounen Ai and a sexual assault label; MangaDex rates it safe; details unconfirmed (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Bickering (MangaUpdates)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Amnesia, fear of abandonment and a suicidal character label (MangaUpdates) (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable in sources."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Memory and identity, first love, grief",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Daigo's faithful love and the question of what makes a person.", "concerns": "Same-sex teen romance; suicidal character and assault label."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Constancy through suffering.", "concerns": "Same-sex romance."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty through hardship.", "concerns": "Same-sex teen romance; sexual assault label."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Identity questions worth discussing.", "concerns": "Same-sex romance affirmed among teens."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Hope after tragedy.", "concerns": "Same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Providence and memory questions.", "concerns": "Same-sex romance; suicide theme."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Grace of being loved before you remember.", "concerns": "Romance contested across synods."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Steadfast love and care.", "concerns": "Same-sex teen romance contested."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Thoughtful drama on memory and selfhood.", "concerns": "Suicide and assault labels."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Patient, nonviolent love.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Identity and agency questions.", "concerns": "Same-sex romance among youth."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "A gay teen working through homophobia and self-acceptance.", "concerns": "Suicide and assault need care."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Patience (sabr) in trial.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Self beyond memory echoes atman.", "concerns": "Teen romance; suicide."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Non-self and impermanence through amnesia.", "concerns": "Suffering from attachment; suicide."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Gay teen identity and homophobia explored (MangaUpdates).", "concerns": "Suicide safe-messaging; assault."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Identity built from memory and choice.", "concerns": "Mental-health handling unknown."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Loyalty in love.", "concerns": "Same-sex teen romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Hope through trial.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Faithfulness.", "concerns": "Same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Identity as more than material memory.", "concerns": "Dwells on trauma."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Search for self and acceptance.", "concerns": "Suicide theme."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Love as renewal.", "concerns": "Assault label."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity of feeling.", "concerns": "Death and grief (kegare)."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Overcoming ego and fear.", "concerns": "Romance outside marriage."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Spiritual self beyond memory.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Recovering lost memory as spiritual theme.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-definition against social pressure.", "concerns": "Little at odds."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Steadfast loyalty.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Memory as part of identity.", "concerns": "Suicide; assault."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusive coming-of-age.", "concerns": "Suicide theme."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Inner struggle rather than honor conflicts (PW)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hirofumi must choose his identity anew (PW)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Classmates and lover central (blurb)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peer relationship among classmates."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school life; homophobia faced (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Self-discovery and accepting one's feelings (PW)."}
+  },
+  "closest": ["The Midlands", "English-speaking", "Catholic Europe"],
+  "japan": "Social pressure to conform in Japanese school life shapes Hirofumi's shock at learning he is gay (PW; to verify)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "PW synopsis frames it as personal struggle; no review comment on tone (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources do not show characters standing for worldviews."
+ },
+ "winners_losers": "Daigo's persistence is framed sympathetically; the outcome is not stated in sources (to verify).",
+ "to_verify": [
+  "Nature of the 'sexual assault' and 'suicidal' labels on MangaUpdates and whether any sexual scene involves the 16-year-old leads.",
+  "Distributor rated the Juné edition for mature readers (search listing only, not opened).",
+  "Ending; AniList Tragedy tag."
+ ]
+}

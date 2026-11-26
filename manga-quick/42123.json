@@ -1,0 +1,357 @@
+{
+ "anilist_id": 42123,
+ "title": "Crimson Shell",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/42123",
+  "https://api.mangaupdates.com/v1/series/64656528289"
+ ],
+ "premise": "Claudia, the 'Rose Witch' rescued from darkness by the swordsman Xeno, is the foundation of the Crimson-Shell, a unit of the Red Rose organization that hunts the Black Roses, the deadly products of a mad scientist's experiments (Yen Press blurb). When Xeno's loyalty is questioned, Claudia must decide whether to believe in him (blurb). An early one-volume work by Jun Mochizuki.",
+ "life_message": "It holds up trust and loyalty between companions even when betrayal is suspected.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Sword and gun action (MangaUpdates Gun/s, Swordsman)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Spoiler-tagged tragedy and conspiracy (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Romance genre; MangaUpdates notes an age gap; MangaDex safe."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MangaUpdates tags drugs; context not described (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Betrayal and human experimentation."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing notable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Loyalty under suspicion; mad-science experiments",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 8,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithfulness between Claudia and Xeno.",
+   "concerns": "'Witch' heroine; violence."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Witch title; violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Witch heroine."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Trust and loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Witch and experiments."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Betrayal examined.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithfulness.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gothic fantasy.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Armed conflict."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Trust.",
+   "concerns": "Violence; drugs tag."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Questions unethical experiments.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Witch heroine."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty as dharma.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Trust.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Female lead.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Critique of mad science.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Witch heroine; drugs tag."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Witch and violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Trust.",
+   "concerns": "Fear."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Trust.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Witch as heroine.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Trust.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Trust.",
+   "concerns": "Drugs tag."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little at odds.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Witch heroine."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Betrayal suspected; loyalty tested."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Members of an organization."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Bond between companions."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Organization ranks."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Science experiments."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Action stakes."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Catholic Europe",
+   "El Norte"
+  ],
+  "japan": "A European-styled gothic setting is common in Japanese fantasy manga."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe no stated message."
+ },
+ "winners_losers": "Not described in sources (to verify).",
+ "to_verify": [
+  "Drug content.",
+  "Age gap.",
+  "Ending (spoiler tags note tragedy)."
+ ]
+}

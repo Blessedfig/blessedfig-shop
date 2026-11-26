@@ -1,0 +1,100 @@
+{
+  "anilist_id": 30736,
+  "title": "Blade of the Phantom Master",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/30736",
+    "https://api.mangaupdates.com/v1/series/34837593431",
+    "https://en.wikipedia.org/wiki/Blade_of_the_Phantom_Master",
+    "https://myanimelist.net/manga/736",
+    "https://www.animenewsnetwork.com/review/blade-of-the-phantom-master/shin-angyo-onshi"
+  ],
+  "premise": "In Jushin, a fallen land modeled on Joseon Korea, Munsu is one of the last secret royal inspectors who once punished corrupt officials. With his bodyguard Sando he wanders fiefdoms ruled by tyrants while tracking Aji Tae, who killed Jushin's king, Munsu's best friend; Munsu's methods often involve deceit and extreme violence, and he confronts his own guilt (Wikipedia; Webtoon text via AniList; MyAnimeList).",
+  "life_message": "Justice against corruption is worth pursuing even at great personal cost, though the hero's ruthless methods are left open to question.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Extreme violence in Munsu's methods (Wikipedia); reader reviews describe gory violence (MAL); AniList Gore 40; MU large-scale battles."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Dark fantasy, zombies, monsters, curses (MU; AniList spoilers)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "MU lists Rape; no second source (to verify); possibly understated."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not documented (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Mandrake extract used by Munsu (Wikipedia)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Grief, regret, dead lover and friends (MU; Wikipedia)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Hero deceives and acts cruelly (Wikipedia; MAL reviews)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Confucian ethics", "strength": 6, "stance": "Explored"},
+    {"lens": "Might makes right", "strength": 5, "stance": "Critiqued"},
+    {"lens": "Utilitarianism", "strength": 4, "stance": "Explored"},
+    {"lens": "Classical virtue ethics", "strength": 4, "stance": "Explored"},
+    {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "justice against corrupt rulers; ends versus means; loyalty and guilt toward a dead king",
+  "axes": {"economic": 4, "social": 5, "cultural": 4, "community": 6},
+  "foundations": {"care": 5, "loyalty": 8, "fairness": 8, "sanctity": 4, "authority": 6, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Defense of the poor against corrupt officials.", "concerns": "Ends-justify-means violence and deceit by the hero."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Munsu's guilt and reckoning with his part in the king's death.", "concerns": "Summoning magic; graphic violence."},
+    {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Corruption punished.", "concerns": "Revenge quest; demons and curses."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Moral complexity for discussion (MAL reviews).", "concerns": "Gore and sexual violence listed."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Fight against tyranny.", "concerns": "Summoning, curses and demons (AniList)."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Magistrate's duty to punish evil.", "concerns": "Cruel private vengeance."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Two kingdoms: lawful authority restoring order.", "concerns": "Revenge methods."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Challenge to injustice.", "concerns": "Violence and cruelty."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Morally serious portrait of justice.", "concerns": "Gore."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Heroic violence and vengeance."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Righteous defense of the oppressed.", "concerns": "Violent and mature content."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Exposes corruption harming the poor.", "concerns": "Sexual violence (MU)."},
+    {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Justice ('adl) against oppressors.", "concerns": "Sorcery and summoning; gore."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Dharma of a protector against adharmic rulers.", "concerns": "Violence."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Karma of the king's death returning.", "concerns": "Killing and hatred."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Critique of corrupt power.", "concerns": "Sexual violence."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Competing ideas of justice (MAL).", "concerns": "Cruelty."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Loyalty to king and restoration of order.", "concerns": "Gore."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Spirits, curses, violence."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and magic."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Conviction powers the medallions (Wikipedia).", "concerns": "Curse-illness and gore."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Justice for commoners.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Folk-tale magic tied to conviction.", "concerns": "Harm."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sincerity of conviction.", "concerns": "Kegare of blood."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed against tyrants.", "concerns": "Personal vengeance."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Justice valued.", "concerns": "Violence."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Support for just government.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Retribution against corrupt power.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Justice, justice shall you pursue.", "concerns": "Sorcery and revenge."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice against corruption.", "concerns": "Revenge."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice for the poor.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 8, "evidence": "Personal pursuit of the king's killer (Wikipedia)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Lawless warring fiefdoms; Munsu acts outside rules (Wikipedia)."},
+      "Civic vs kin": {"pos": 5, "evidence": "Loyalty to friend-king and companions."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "Royal inspectors ranked by medallions (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 3, "evidence": "Korean folktale magic and royal tradition (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Brutal, chaotic land."}
+    },
+    "closest": ["Tidewater", "Cavalier", "Orthodox Europe"],
+    "japan": "A Korean-Japanese co-production drawing on the Joseon amhaeng-eosa (secret royal inspector) tradition, published in a Japanese seinen magazine, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "MAL reader reviews note competing ideas of justice; anime-film review notes expository opening (anime, not manga).",
+    "personified": [
+      {"character": "Munsu", "ideology": "Ruthless, ends-justify-means justice", "role": "Hero", "treatment": "Mixed"},
+      {"character": "Munsu's young attendant", "ideology": "Idealistic, virtuous justice", "role": "Foil", "treatment": "Sympathetic"},
+      {"character": "Aji Tae", "ideology": "Conspiracy to seize power", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Fair",
+    "note": "The hero's harsh methods are set against an idealist companion and Sando's objections, leaving the question open."
+  },
+  "winners_losers": "Munsu kills Aji Tae but dies from his ailments; Sando carries on fighting evil (Wikipedia). Sympathy goes to justice, with its cost shown.",
+  "to_verify": [
+    "Sexual violence scenes (MU Rape)",
+    "Gore detail in the manga",
+    "ANN review covers the 2004 anime film, not the manga",
+    "Attendant's name and arc in the English Webtoon edition"
+  ]
+}

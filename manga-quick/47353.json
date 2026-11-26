@@ -1,0 +1,334 @@
+{
+ "anilist_id": 47353,
+ "title": "A Girl on the Shore",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/A_Girl_on_the_Shore",
+  "https://anilist.co/manga/47353",
+  "https://www.mangaupdates.com/series/ihngnft"
+ ],
+ "premise": "A literary drama by Inio Asano, first serialized in an adult manga magazine, about two junior high students in a seaside town, Koume Sato and Keisuke Isobe, and the loneliness and grief beneath their relationship. Isobe is haunted by his older brother's suicide and talks of ending his own life. Content advisory: the book contains explicit sexual material involving its junior high characters and is marketed to adults.",
+ "life_message": "It suggests that adolescents reaching for connection while isolated can come out still searching for 'something bigger' than what they had.",
+ "overall": 9,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "A fight in which Kashima is injured falling over a bannister; Isobe attacks older students (Wikipedia)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Koume's desperate search for Isobe during a storm after his suicide talk (Wikipedia; Tragedy signal)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 9,
+   "framing": "Neutral",
+   "note": "Explicit sexual content involving junior high characters, including coercion by an older student; reviewers call it frank (Wikipedia; AniList Psychosexual 96%, Nudity 90%; MangaUpdates Nudity; MangaDex erotica)."
+  },
+  {
+   "category": "Language",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Crude talk among teens (to verify); capped."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Condemned",
+   "note": "An older student pushes Koume to smoke cannabis; she leaves (Wikipedia)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 7,
+   "framing": "Shown with consequences",
+   "note": "Brother's suicide; Isobe states an intention to die by suicide (Wikipedia; AniList Suicide signal)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Underage sexual activity without adult awareness; reporting peers' drugs to police (Wikipedia; MangaDex erotica rating)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism (isolation and meaning), Nihilism, Hedonism (critiqued)",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 3,
+  "community": 3
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 3,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 1,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Shows emptiness in Koume and Isobe's arrangement; grief over a brother's suicide treated seriously.",
+   "concerns": "Explicit sexual content involving minors throughout (CCC 2354); suicide intent; adult-marketed."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Despair and loneliness of the passions laid bare in Isobe.",
+   "concerns": "Explicit sexual material with junior high characters runs through the whole book."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Koume refuses cannabis and leaves Misaki's group.",
+   "concerns": "Explicit underage sexual content, suicide, drugs and coercion; not for children."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "The hollowness of Koume's choices invites talk about purpose.",
+   "concerns": "Explicit sexual content involving minors in every arc; suicide intent."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "A brother's suicide and its grief shown as heavy and real.",
+   "concerns": "Explicit sexual material with minors, drugs and suicide talk throughout."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Sin's emptiness shown without glamour in Isobe's boredom.",
+   "concerns": "Explicit sexual content with minors (WLC Q139); self-murder intent (WLC Q136)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honest picture of absent parents and lonely teens.",
+   "concerns": "Explicit sexual material involving minors throughout; suicide."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Exposes how neglect by Isobe's parents leaves teens adrift.",
+   "concerns": "Explicit underage sexual content; drugs; suicide intent."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Literary treatment of grief and isolation praised by critics.",
+   "concerns": "Explicit sexual content with junior high characters; adults only, if at all."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little beyond its picture of worldly emptiness.",
+   "concerns": "Explicit sexual material with minors; drugs; suicide."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Shows harms of disconnection from family in Isobe's empty home.",
+   "concerns": "Explicit sexual content involving minors; For the Strength of Youth warnings apply throughout."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Takes adolescent loneliness and grief seriously.",
+   "concerns": "Explicit sexual depiction of minors and an older boy's coercion of Koume."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Koume's refusal of cannabis.",
+   "concerns": "Explicit sexual content involving minors, drugs and suicide intent."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Neglect of parental duty shown through Isobe's absent parents.",
+   "concerns": "Explicit underage sexual content; suicide."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Craving and boredom shown as sources of suffering for Isobe and Koume.",
+   "concerns": "Third precept violated in explicit scenes involving minors; suicide intent."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows coercion as harmful and grief as heavy.",
+   "concerns": "Sexualized depiction of minors; suicide content without safe-messaging framing."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Unsentimental look at adolescent alienation.",
+   "concerns": "Explicit sexual content involving minors; suicide intent."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Shows consequences of absent parents.",
+   "concerns": "Explicit underage sexual content, drugs and suicide; not for children."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Koume leaves when pressed to smoke cannabis.",
+   "concerns": "Explicit sexual content involving minors throughout; suicide intent."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Shows the emptiness of the teens' choices.",
+   "concerns": "Explicit sexual immorality involving minors throughout."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Searching for 'something bigger'.",
+   "concerns": "Explicit sexual content, grief and suicide dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Takes adolescent loneliness seriously.",
+   "concerns": "Explicit sexual depiction of minors; coercion."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Coercion shown as harmful.",
+   "concerns": "Sexual content involving minors, not consenting adults."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Seaside town and grief for a brother.",
+   "concerns": "Suicide and explicit content."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Koume's refusal of cannabis.",
+   "concerns": "Explicit sexual content with minors; suicide intent."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Grief and isolation honestly shown.",
+   "concerns": "Explicit sexual content with minors, drugs and suicide."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Searching for meaning.",
+   "concerns": "Explicit sexual content with minors; drugs."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Unsentimental honesty.",
+   "concerns": "Sexual depiction of children, against the Eleven Rules."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "A family's silence after a suicide.",
+   "concerns": "Explicit sexual content with minors; tzniut throughout."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Grief taken seriously.",
+   "concerns": "Explicit sexual content with minors."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Adolescent grief and loneliness.",
+   "concerns": "Explicit sexual depiction of minors; suicide."
+  }
+ ],
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No source comments on delivery; summaries show the outlook carried by plot and character choices (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The book's outlook on loneliness and grief comes through the two leads' isolation and choices rather than stated lessons."
+ },
+ "winners_losers": "No one clearly wins: Isobe survives his crisis and moves on, Koume is left searching, and Kashima loses his tournament. The story offers sympathy for lonely adolescents without endorsing their choices.",
+ "to_verify": [
+  "Vertical English edition age rating (believed adults only)",
+  "Language level",
+  "How Isobe's suicide intent is resolved on page"
+ ]
+}

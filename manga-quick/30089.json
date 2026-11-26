@@ -1,0 +1,96 @@
+{
+ "anilist_id": 30089,
+ "title": "GALS!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30089",
+  "https://api.mangaupdates.com/v1/series/70954397913",
+  "https://www.mangaupdates.com/series/wlgeztl",
+  "https://tvtropes.org/pmwiki/pmwiki.php/Manga/GALS"
+ ],
+ "premise": "Ran Kotobuki, a self-styled kogyaru queen from a family of police officers, runs Shibuya with her friends, shopping and hanging out while facing street gangs, rival gals and predatory older men (CMX blurb via MU). When she learns her classmate is doing compensated dating (paid dates with older men), she steps in (MANGA MILLION blurb via AniList). A 10-volume Ribon shoujo comedy-drama (1998-2002) about friendship, fashion and choosing your own path.",
+ "life_message": "It holds up loyal friendship and being true to yourself rather than living by what parents or society expect.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Ran knocks out harassers and gang members; a teacher hits Ran and is fired (fan-wiki plot summary; MU Hot-Blooded Female Lead)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Street gangs and harassment, comic tone."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Shown with consequences", "note": "Classmate Aya's compensated dating with older men is a plot thread (AniList blurb; fan-wiki summary); teen romances; a friend faces sexual harassment at a job. Non-explicit; MU lists no nudity."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Gyaru slang and attitude (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Neglectful parent and heavy academic pressure on friends (fan-wiki summary)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Scamming meals off men (MU blurb), fighting, exam cheating by side characters (to verify)."},
+  {"category": "Commercial", "score": 3, "framing": "Endorsed", "note": "Shibuya fashion and shopping central (Fashion tags on AniList and MU)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Feminism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Consumerism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Be yourself; loyal girl friendship; Shibuya fashion",
+ "axes": {"economic": 5, "social": 7, "cultural": 7, "community": 5},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Ran rescues a classmate from paid dating with older men.", "concerns": "Consumer fashion culture; defiance of parents praised."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Protecting the vulnerable from predators.", "concerns": "Vanity of gyaru fashion; rebellion against parents."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Compensated dating treated as a problem to escape.", "concerns": "Aya's arc favors self over parents' wishes."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Friends pulling Aya out of exploitation.", "concerns": "Materialism and attitude."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Standing against men who exploit girls.", "concerns": "Worldliness of the Shibuya scene."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Sin of exploitation exposed.", "concerns": "Fifth-commandment tension in Aya's break from her parents."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Neighbor love among friends.", "concerns": "Scamming meals off men shown as fun."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Social concern for exploited girls.", "concerns": "Shopping-centered life."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Friendship and rescue framed as good.", "concerns": "Little beyond attitude."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Community care among friends.", "concerns": "Fashion vanity; Ran's fists solve problems."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Rejects paid dating; values friendship.", "concerns": "Immodest fashion; questioning parents."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Girls protecting each other from predators.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Exploitation of girls condemned.", "concerns": "Immodest dress; free mixing; defiance of parents."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Protecting the vulnerable.", "concerns": "Aya's turn from parents' wishes."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion for a friend in trouble.", "concerns": "Craving for fashion."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Strong-willed girls resisting harassment.", "concerns": "Consumerism."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Autonomy and friendship.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Ran's police family and toughness.", "concerns": "Gyaru rebellion; parents shown as obstacles."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Exploitation rejected.", "concerns": "Worldly entertainment and dress."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Rejects immorality.", "concerns": "Bad associations; fighting."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Confidence over fear.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Each girl choosing her own path.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal autonomy and loyalty.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere friendship.", "concerns": "Little on harmony with elders."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed.", "concerns": "Vanity and ego in gal culture."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Equality and protecting girls.", "concerns": "Backbiting among rival gals."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determinism.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Rebellion against arbitrary authority.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Exploitation condemned.", "concerns": "Tzniut; honoring parents."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Friends protecting one another.", "concerns": "Gossip and rivalry."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Informed autonomy and justice.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Ran answers harassment and rival gangs with her fists (fan-wiki summary)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Gyaru street life; Aya urged to make her own decisions."},
+   "Civic vs kin": {"pos": 4, "evidence": "Chosen friendship outranks family expectations."},
+   "Equality vs hierarchy": {"pos": 2, "evidence": "A harsh teacher is fired; parents' authority questioned."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Urban, secular youth culture."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "Fashion and self-presentation central."}
+  },
+  "closest": ["New Netherland", "English-speaking", "New France"],
+  "japan": "Late-1990s Shibuya kogyaru subculture and the enjo kosai (compensated dating) moral panic of that era are the backdrop; parental pressure for exam success reflects Japanese school culture."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Fan-wiki summary: a character tells Aya outright to choose for herself (to verify).",
+  "personified": [
+   {"character": "Aya's parents", "ideology": "Achievement and conformity over a child's own choices", "role": "Foil", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The self-determination message appears stated at key moments within a comedy frame; parents' views are shown as pressure (to verify)."
+ },
+ "winners_losers": "Ran and her friends win; adults who exploit or pressure girls lose; sympathy goes to self-expression and friendship.",
+ "to_verify": [
+  "AniList dates it 1998, MU 1999 (same creator and work).",
+  "How the compensated-dating thread is resolved and how much is shown.",
+  "Fan-wiki plot facts (tvtropes) mix manga and anime details.",
+  "MANGA MILLION 2026 release scope; CMX edition defunct."
+ ]
+}

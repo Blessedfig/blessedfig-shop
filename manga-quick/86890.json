@@ -1,0 +1,367 @@
+{
+ "anilist_id": 86890,
+ "title": "Blue Giant",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Blue_Giant_(manga)",
+  "https://anilist.co/manga/86890"
+ ],
+ "premise": "Dai Miyamoto, a high school student in Sendai with no clear goal, falls for jazz, gets a saxophone bought on loan by his older brother, and practices alone by the river. After harsh early criticism and lessons from a teacher, he moves to Tokyo after graduation, vowing to become the greatest jazz player in the world, and forms a trio. Sequels follow him to Europe and America.",
+ "life_message": "Wholehearted love of your craft, stubborn practice and honest feeling can carry you toward greatness.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None central (Wikipedia)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "A bandmate's accident injures his hand (Wikipedia, film); AniList Tragedy tag."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Minimal romance; MangaDex safe."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Blunt criticism of Dai's playing; adult musicians' talk (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Jazz bar settings with drinking and possibly smoking (AniList Bar tag; to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Discouragement after harsh rejection (Wikipedia)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Leaving home young to pursue music."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Stoicism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Dedication to art; perseverance; family support",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 4,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Beauty pursued with discipline, as the Letter to Artists praises; Masayuki's sacrificial gift.",
+   "concerns": "Bar culture."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ascetic practice day after day by the riverbank.",
+   "concerns": "Ambition to be 'greatest' could feed pride."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Diligence and a brother's generosity.",
+   "concerns": "Drinking in jazz clubs."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Using a gift with all one's heart.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Passionate expression and testimony through music.",
+   "concerns": "Club and alcohol settings."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation and common-grace excellence in art.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Music honored as Luther valued it; faithful daily practice.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Disciplined growth and joyful music.",
+   "concerns": "Alcohol in bars."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Art as a path to beauty; humane portrait of musicians.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Humble hard work.",
+   "concerns": "Worldly ambition and nightlife."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Developing talents; family support.",
+   "concerns": "Alcohol shown in bars."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Creative expression and community among musicians.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Patience, effort and family generosity.",
+   "concerns": "Music debated by scholars; alcohol in bars."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Devotion to a teacher and an art like nada yoga.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mindful practice; letting go of discouragement.",
+   "concerns": "Striving to be greatest is attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-expression and pursuing a dream.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Human excellence through effort and art.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work, grit and a brother's sacrifice.",
+   "concerns": "Nightlife."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Discipline and focus.",
+   "concerns": "Drinking venues."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence and clean story.",
+   "concerns": "Worldly ambition."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Joy and confidence overcome discouragement.",
+   "concerns": "Bars."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Free and responsible pursuit of meaning.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Playing outdoors by the river; will focused on a goal.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sincerity (makoto) of Dai's devotion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kirat karni: honest work toward a goal.",
+   "concerns": "Alcohol settings."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Art practiced as service and excellence.",
+   "concerns": "Alcohol shown."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Artist's role praised; drive to excel.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-assertion and personal mastery.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Effort and family support.",
+   "concerns": "Entertainment vs Torah; bar culture."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Lifelong learning and excellence.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Creative fulfillment and perseverance.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Dai answers criticism by practicing harder, not by confrontation."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Leaves Sendai for Tokyo to follow his own path."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Brother's sacrifice matters; bandmates become close."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Respect for teachers balanced with peer band life."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern art form; no religious frame."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-expression through music above security."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "Catholic Europe"
+  ],
+  "japan": "Dai's daily solitary practice reflects the Japanese ideal of mastering a craft through long, disciplined repetition."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review or summary in the sources describes delivery; style inferred from premise and tags (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Dedication to art is carried by Dai's practice and performances."
+ },
+ "winners_losers": "Dai and those who commit fully to music grow; those who give up get less sympathy, though no one is villainized.",
+ "to_verify": [
+  "Tragedy tag details in manga",
+  "Alcohol and smoking",
+  "Seven Seas age rating"
+ ]
+}

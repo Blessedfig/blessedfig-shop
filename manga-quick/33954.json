@@ -1,0 +1,364 @@
+{
+ "anilist_id": 33954,
+ "title": "ZE",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/33954",
+  "https://api.mangaupdates.com/v1/series/24903637542",
+  "https://mangabookshelf.com/2796/ze-volumes-1-2/"
+ ],
+ "premise": "After his grandmother dies, culinary student Raizou becomes live-in cook for the Mitou family, whose 'kotodama' members curse people for hire through the power of words, paired with paper-made 'kami' who absorb their masters' injuries, mainly through sexual contact (MU blurb; Manga Bookshelf review). Raizou falls for Kon, a masterless kami who keeps himself alive by healing violent criminals (review). It is an 11-volume adult Boys' Love supernatural drama from 801 Media.",
+ "life_message": "Love and a chosen purpose give worth even to a being made to serve.",
+ "overall": 8,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Kon repeatedly left covered in wounds by mobster types; a degrading, violent situation (review); MU lists Violence-related categories, Cannibalism, Confinement."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Curses, injury transfer and tragic pasts (review; MU Tragic Past, Curse/s)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 8,
+   "framing": "Neutral",
+   "note": "Explicit sexual content 'meant more for the purpose of titillation' (review); MU genre Smut; MU lists Rape, Attempted Rape and group sex."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Kon's sense of having no purpose (review)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Wound-healing through sex is the premise; coercion themes (review; MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Audio drama adaptation (MU)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Word-curse magic; made beings who serve; explicit same-sex romance",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 7,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Raizou's self-giving care for Kon.",
+   "concerns": "Explicit sexual content, curse magic and sexual violence."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Compassion for a suffering servant.",
+   "concerns": "Passions inflamed; sorcery; sexual violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Sacrificial love themes.",
+   "concerns": "Explicit same-sex sex; curses for hire."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Dignity of a made being questioned.",
+   "concerns": "Explicit sexual content fails Philippians 4:8."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Healing of wounds as a motif.",
+   "concerns": "Word curses and sexual content as power."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Questions of purpose.",
+   "concerns": "'Lascivious' pictures (WLC Q139); sorcery."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love gives purpose.",
+   "concerns": "Explicit content; curses."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Care for the hurt.",
+   "concerns": "Explicit sex; violence; magic."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Asks what makes a person.",
+   "concerns": "Explicit and violent content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Self-giving love.",
+   "concerns": "Violence, sex and sorcery throughout."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Seeking purpose.",
+   "concerns": "Explicit sexual and violent content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Personhood of made beings explored.",
+   "concerns": "Sexual violence; exploitation of servants."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Mercy to the wounded.",
+   "concerns": "Sihr, explicit sex, same-sex relations."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Karma of curses returns as wounds.",
+   "concerns": "Explicit sexual content; black magic."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Suffering and compassion examined.",
+   "concerns": "Craving, harm and sexual misconduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Same-sex love; personhood of servants.",
+   "concerns": "Sexual violence; consent concerns."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ethics of creating beings who feel pain (review).",
+   "concerns": "Exploitation and coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Explicit sex and violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Care for the injured.",
+   "concerns": "Explicit content; spirits and curses."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Love and loyalty.",
+   "concerns": "Spiritism, explicit sex and violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Healing as theme.",
+   "concerns": "Belief in harmful mental power (curses)."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Worth of every being.",
+   "concerns": "Sexual violence; exploitation."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Word-magic has a cost.",
+   "concerns": "Harmful curses for hire; coercion."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Kotodama (word-spirit) belief drawn on.",
+   "concerns": "Blood, wounds and impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Service.",
+   "concerns": "Lust (kaam) central; magic."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Unity of lovers.",
+   "concerns": "Explicit sex; occult."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Self-determination of Kon.",
+   "concerns": "Violence and explicit content."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Pleasure among consenting adults.",
+   "concerns": "Non-consensual acts conflict with rules."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Sorcery; explicit same-sex content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions of dignity.",
+   "concerns": "Degrading sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Personhood and choice.",
+   "concerns": "Exploitation and sexual violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Conflicts settled by curses for hire, not courts (review)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Lovers choose their pairings."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Mitou household as a closed clan (MU Family)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Master-servant pairing of kotodama and kami."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Word-magic and spirits govern the world."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Love and purpose over safety."
+   }
+  },
+  "closest": [
+   "Latin America",
+   "El Norte",
+   "First Nation"
+  ],
+  "japan": "Draws on the Japanese belief in kotodama, the spiritual power of words, and on paper shikigami from folk magic."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review notes questions of love, purpose and made beings, raised through character arcs.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Ethical questions about created servants are raised but not preached, per the review."
+ },
+ "winners_losers": "Raizou and Kon's bond gains sympathy; the violent clients and abusers do not.",
+ "to_verify": [
+  "Whether this title should be excluded as explicit (801 Media, MU Smut, review says explicit); flagged for a skip review.",
+  "Frequency and framing of rape and attempted rape (MU).",
+  "Characters' ages (Raizou a culinary student; others unknown).",
+  "Only volumes 1-2 reviewed."
+ ]
+}

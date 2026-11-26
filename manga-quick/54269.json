@@ -1,0 +1,357 @@
+{
+ "anilist_id": 54269,
+ "title": "Tonight's Take-Out Night",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/54269",
+  "https://api.mangaupdates.com/v1/series/25843066337"
+ ],
+ "premise": "Anthology. In the main story, reserved fast-food planning executive Kei Matsumoto is pursued by Shinji Iwakiri, manager of the chain's top shop, who falls for him at first sight and presses advances 'to the extent that it was like sexual harassment' (MangaUpdates, Renta! blurb). Other stories pair a demon with a doctor and an art student with a sculptor. One volume.",
+ "life_message": "Persistent devotion can win over a guarded heart.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Stranding and rescue (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Demon story; survival (MU) (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Harassment-style advances (MU blurb); MU Dubious Consent, Attempted Rape; Renta! 'aggressive advances'."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Loneliness, insecurity, dead lover (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "Workplace sexual harassment played for comedy (MU tag; blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fast-food business setting."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism, Hedonism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 2,
+  "sanctity": 1,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Harassment as romance; same-sex sex; demon story."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Passions; demonic figure."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content; harassment."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Devotion of a sort.",
+   "concerns": "Sexual content; consent."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Demon romance; sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligent work.",
+   "concerns": "WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Work vocation.",
+   "concerns": "Sixth commandment."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Harm in harassment."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Dignity violated."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work ethic.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gay romance.",
+   "concerns": "Harassment and dubious consent."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex, jinn-like demon, harassment."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Adharma in coercion."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Harmful sexual conduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Queer romance.",
+   "concerns": "Harassment played for laughs."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work ethic.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Impure media; demons."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Immorality; demons."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Sensual thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love across difference.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirit-human love.",
+   "concerns": "Harm and manipulation."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Spirit tale.",
+   "concerns": "No codified ethic."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honest work.",
+   "concerns": "Lust."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Pursuing desire.",
+   "concerns": "Unwanted advances (Eleven Rules)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Tzniut; same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Harassment."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gay romance.",
+   "concerns": "Consent."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor code."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Desire over workplace rules."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Coworkers."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Executive versus shop manager."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular, with a demon story."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Passion and romance."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "English-speaking",
+   "New Netherland"
+  ],
+  "japan": "Office and franchise-store hierarchy (head office versus shop manager) reflects Japanese corporate structure."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "MU tags sexual harassment 'played for comedy'; blurbs frame it as playful (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Comic romance; harassment is played for laughs."
+ },
+ "winners_losers": "Kei gives in to Iwakiri's pursuit and they pair up (blurbs).",
+ "to_verify": [
+  "Consent framing (MU Dubious Consent, Attempted Rape)",
+  "Demon story content",
+  "License status across Renta!, Juné, Coolmic"
+ ]
+}

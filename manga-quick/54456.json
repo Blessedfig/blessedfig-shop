@@ -1,0 +1,377 @@
+{
+ "anilist_id": 54456,
+ "title": "Puella Magi Oriko★Magica",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/54456",
+  "https://api.mangaupdates.com/v1/series/39136445796",
+  "https://www.animenewsnetwork.com/review/puella-magi-oriko-magica/gn-1",
+  "https://uk-anime.net/manga/Puella_Magi_Oriko_Magica_Vol._1.html"
+ ],
+ "premise": "A two-volume spin-off of Puella Magi Madoka Magica. Oriko, a magical girl who can see the future, foresees devastation tied to Madoka and, to stop it, steers the contract-making creature Kyubey toward Yuma, a young orphan taken in by Kyoko, while a killer of magical girls stalks the town (Yen Press blurb; ANN and UK Anime Network reviews). Oriko's devoted companion Kirika and an expanded role for Mami drive a dark, tense plot.",
+ "life_message": "It questions whether saving the world can justify sacrificing innocents, and holds up protective love for the vulnerable.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Witch battles, a serial killer of magical girls and character deaths; Gore tag (AniList), Blood and Gore (MangaUpdates), reviews."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Horror genre; reviews describe a dark, tense tone and tragic pasts."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Yuri tag (AniList); ANN calls Kirika Oriko's likely lover or close friend; no sexual content noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Yuma's orphaning and troubled past; MangaUpdates lists child abuse and an abusive mother (to verify details); despair themes."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Kyubey's contracts lure children with wishes; manipulation of a child shown as harmful."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Spin-off of a major anime franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Utilitarianism",
+   "strength": 6,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Ends-versus-means sacrifice; protective found family; fatalism and despair",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Rejects killing innocents for a greater good; Kyoko's care for orphaned Yuma.",
+   "concerns": "Gore and deaths of children; bargains for magic."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Wish-bargains shown leading to ruin, like passions feeding the soul's fall.",
+   "concerns": "Graphic violence; occult-style contracts; despair."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting a vulnerable orphan; deception exposed as destructive.",
+   "concerns": "Magic contracts, gore and hopeless tone."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mercy to Yuma; manipulation condemned.",
+   "concerns": "Gore; magic powers; dark spiritual tone."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Exploitation of children by Kyubey framed as evil.",
+   "concerns": "Supernatural contracts and witches read as spiritual danger."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Human schemes to control the future end badly; fallen motives shown truthfully.",
+   "concerns": "Graphic violence; magic."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Neighbor-love for an orphan against cold calculation.",
+   "concerns": "Gore and despair."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for the weak against a \"perfect world\" plan.",
+   "concerns": "Violence and hopelessness."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral weight of sacrifice examined seriously.",
+   "concerns": "Gore; dark tone."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Killing for a greater good shown as tragic.",
+   "concerns": "Violence is constant and central."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting children; consequences of choices.",
+   "concerns": "Gore and violent media counsel."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Exposes exploitation of vulnerable girls.",
+   "concerns": "Gore; possible queer subtext handled only implicitly."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Justice and mercy toward an orphan stressed.",
+   "concerns": "Magic contracts (sihr-like); gore."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dharma of protection; karma of a bad bargain.",
+   "concerns": "Violence against children."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Craving-driven wishes produce suffering, a clear dukkha lesson.",
+   "concerns": "Killing and gore."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critiques adults and systems exploiting girls.",
+   "concerns": "Gore; Yuma's abuse needs care."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethical debate about utilitarian sacrifice.",
+   "concerns": "Gore and despair."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage protecting the weak.",
+   "concerns": "Gore and nihilistic tone."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Self-sacrifice for others.",
+   "concerns": "Magic, spirits and violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Exploiter is exposed.",
+   "concerns": "Magic, witches and violence throughout."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love protecting the vulnerable.",
+   "concerns": "Fear and despair imagery."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inherent worth of each child versus \"the greater good\".",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Magic carries a price; harm returns.",
+   "concerns": "Witches shown as monstrous."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity of devotion between Oriko and Kirika.",
+   "concerns": "Blood and death impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the defenseless; Kyoko shelters Yuma.",
+   "concerns": "Bargained powers; gore."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Unity and care for an orphan.",
+   "concerns": "Violence; magic."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Futures can be changed by choice.",
+   "concerns": "Violence; despair."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Characters defy fate and authority.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sanctity of each life against calculated sacrifice.",
+   "concerns": "Magic, gore and contracts."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Pikuach nefesh themes: each life matters.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethics of harming innocents for a cause.",
+   "concerns": "Gore."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Grudges and vendettas among magical girls; personal fights settle disputes."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Girls act outside any authority, each on her own plan."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Loyalty to one's companion or adopted child over the wider town."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Little rank; small rival groups."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Fate and wishes treated in a secular-fantasy frame."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival amid scarce resources; reviews note competition for limited resources."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "Orthodox Europe",
+   "El Norte"
+  ],
+  "japan": "Magical-girl stories are a Japanese genre built on duty and friendship; this spin-off inverts them, described here as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Reviews frame its question about harming innocents to save the world through plot; none call it preachy.",
+  "personified": [
+   {
+    "character": "Oriko Mikuni",
+    "ideology": "ends justify the means: sacrifice one to save the world",
+    "role": "Other",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The ends-versus-means dilemma is carried by Oriko's plan and its costs."
+ },
+ "winners_losers": "Reviews describe a tragic arc; the cost of Oriko's plan falls on innocents like Yuma, and the story's sympathy goes to the vulnerable (outcome to verify).",
+ "to_verify": [
+  "Exact gore level and which characters die.",
+  "Whether child abuse in Yuma's past is shown on page (MangaUpdates tags only).",
+  "Nature of the Oriko-Kirika relationship.",
+  "Ages of main cast (middle-school per franchise, to verify)."
+ ]
+}

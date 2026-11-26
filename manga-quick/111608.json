@@ -1,0 +1,364 @@
+{
+ "anilist_id": 111608,
+ "title": "Kimi no Sumire: Your Spring Flower",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/111608",
+  "https://api.mangaupdates.com/v1/series/56191180691"
+ ],
+ "premise": "Sumire transfers to an all-boys high school in Tokyo and meets Tojo, the beautiful upperclassman everyone calls the school's 'Madonna', after stepping in to help him in a fight. As they grow close, both open up about past trauma and their friendship turns into romance (Renta! and Animate blurbs). The series is ongoing.",
+ "life_message": "Being seen and accepted by one person can help heal old wounds.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Sumire steps into a fight to protect Tojo (Renta! blurb); MU 'Fight' not listed, detail to verify."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Past trauma discussed (AniList blurb, MU Trauma/Traumatic Past)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Teen boys' romance; MangaDex 'suggestive', no sex categories voted on MU; an unvoted MU 'Sexual Assault' tag (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Tojo is described as tough-talking (blurb)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "MU lists 'Smoking' (3 votes) (to verify who smokes)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Trust issues and traumatic past for both leads (MU, AniList); capped at 3 (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Teen smoking if shown (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism, Secular humanism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 4,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sumire's protective kindness toward a hurting classmate.",
+   "concerns": "Teen same-sex romance affirmed; teaching on sexuality and chastity."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion that draws Tojo out of isolation.",
+   "concerns": "Same-sex attraction affirmed rather than guarded."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Defending someone in trouble shows courage.",
+   "concerns": "Same-sex romance between teens affirmed; BF&M 2000."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Trust rebuilt through honest friendship.",
+   "concerns": "Same-sex romance celebrated for teen readers."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Care for a wounded friend.",
+   "concerns": "Same-sex romance against AG position papers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Common grace in a story about healing from trauma.",
+   "concerns": "Conservative churches' teaching on sexuality."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Neighbor-love in Sumire's acceptance of Tojo.",
+   "concerns": "LCMS/WELS teaching; ELCA families affirming."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Kindness and patient friendship.",
+   "concerns": "Holiness churches traditional; possible teen smoking."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "A gentle story about looking past appearances.",
+   "concerns": "ACNA families traditional on same-sex romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sumire chooses protecting over fighting back.",
+   "concerns": "Worldly teen romance; conservative teaching on sexuality."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship and kindness.",
+   "concerns": "Same-sex romance and smoking conflict with youth standards."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Affirming queer teen story centered on healing.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kindness and loyalty between classmates.",
+   "concerns": "Same-sex romance conflicts with traditional teaching."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion and truthfulness between friends.",
+   "concerns": "Traditional views on same-sex romance common."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion easing another's suffering from past trauma.",
+   "concerns": "Attachment themes; possible smoking."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Queer teen romance without tragedy; looks past the 'Madonna' label.",
+   "concerns": "Unverified assault tag worth checking."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Empathy and seeing a person beyond rumors.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage and loyalty.",
+   "concerns": "Same-sex teen romance presented to young readers."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kindness to a struggling peer.",
+   "concerns": "Same-sex romance a significant concern."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honesty between friends.",
+   "concerns": "Same-sex romance considered sinful."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love dispelling fear from the past.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Worth and dignity of a queer teen affirmed.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Spring imagery and healing love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Spring renewal and sincerity (makoto) between the boys.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Courage to protect someone in trouble.",
+   "concerns": "Akal Takht position on same-sex unions."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Freedom from prejudice and kindness.",
+   "concerns": "Sexual ethics limited to man-woman marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication helps overcome past trauma.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Being true to oneself.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Chesed in caring for a hurting peer.",
+   "concerns": "Same-sex romance a significant concern."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dignity and kindness.",
+   "concerns": "Varies by congregation."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inclusive, healing-focused teen romance.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "A fight occurs but the bond grows through talk (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal feelings guide the boys."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "School friendships, not family, drive the story."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Senpai-kohai relationship (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular school setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Emotional healing and self-acceptance central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Yankeedom",
+   "Catholic Europe"
+  ],
+  "japan": "The senpai-kohai bond and the all-boys school 'idol' figure reflect Japanese school culture, shown as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs describe a slow romance about trauma; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe no explicit message delivery."
+ },
+ "winners_losers": "Sumire and Tojo find trust in each other; sympathy rests with both boys (to verify as the series is ongoing).",
+ "to_verify": [
+  "MU unvoted 'Sexual Assault' tag",
+  "Who smokes",
+  "Any sexual content involving the high-school leads",
+  "Ongoing; ending unknown",
+  "English license status (Animate International, Coolmic)"
+ ]
+}

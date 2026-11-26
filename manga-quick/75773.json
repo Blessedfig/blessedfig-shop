@@ -1,0 +1,363 @@
+{
+ "anilist_id": 75773,
+ "title": "Laughter at the World's End",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/75773",
+  "https://api.mangaupdates.com/v1/series/50925490085"
+ ],
+ "premise": "In a ruined world, immortals marked with the 'Devil's Mouth' are hunted and killed, only to return and take revenge. When the marked man Godot extorts a town, a young man who also bears the mark arrives with a girl, Haru, he calls his sister, offering to rid the town of him. A single-volume dark fantasy by Yellow Tanabe about an endless cycle of hatred.",
+ "life_message": "Breaking cycles of hatred and caring for family can matter more than revenge.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Immortals hunted and killed, returning for vengeance (publisher blurb, MU demon hunter, death of loved ones)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Post-apocalyptic dread and a demon with 101 mouths (MU blurb, AniList demons)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Discrimination and grief (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Sword violence."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Christian",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism; Classical virtue ethics",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 4,
+  "authority": 3,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Cycle of vengeance questioned; protective sibling love.",
+   "concerns": "Demon imagery and killing."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hatred as a passion that breeds more evil.",
+   "concerns": "Demonic marks."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Revenge shown as destructive (Romans 12:19).",
+   "concerns": "Demon imagery."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Brother protects sister.",
+   "concerns": "Demons and violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Evil resisted.",
+   "concerns": "Demonic power central to the premise."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Human sin and its cycles explored.",
+   "concerns": "Demonic imagery."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Neighbor love versus hatred.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Breaking hatred's hold.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral weight of vengeance.",
+   "concerns": "Demons."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questioning revenge.",
+   "concerns": "Killing as solution."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family bond.",
+   "concerns": "Violence and demons."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marked outsiders demonized and discriminated against.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy over revenge.",
+   "concerns": "Demonic beings."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Karma of hatred returning.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Cycle of hatred mirrors samsara; revenge breeds suffering.",
+   "concerns": "Killing."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Discrimination against the marked examined.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Reflections on human existence (MU).",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting family and town.",
+   "concerns": "Dark tone."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mercy.",
+   "concerns": "Demons and undead."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sibling care.",
+   "concerns": "Demons and undead in entertainment."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming fear.",
+   "concerns": "Dwelling on evil."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Worth of the outcast.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Returning harm (threefold) shown.",
+   "concerns": "Demons cast as evil."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Purification from cursed marks.",
+   "concerns": "Death and blood impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending the town.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity against hatred.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Survival and helping others.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Outcast's self-determination.",
+   "concerns": "None major."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vengeance rejected.",
+   "concerns": "Demonic imagery."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Against revenge.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Against discrimination.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Immortals return to avenge harm."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Wanderers act on their own."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Brother-sister bond central."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Town and wanderers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Demons and curses frame the world."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Post-apocalyptic survival."
+   }
+  },
+  "closest": [
+   "El Norte",
+   "First Nation",
+   "The Far West"
+  ],
+  "japan": "Akuma, curses and wandering swordsmen draw on Japanese folklore and jidaigeki conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Philosophy tag (AniList) and MU 'reflections on human existence'; no review read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The cost of hatred is carried by the plot's cycle of vengeance."
+ },
+ "winners_losers": "The town seeks freedom from Godot; the wandering siblings' fate is unclear (to verify).",
+ "to_verify": [
+  "Ending and the young man's true intentions",
+  "Violence detail",
+  "Delivery style",
+  "Single volume: AniList and MU agree on 1 volume, 5 chapters"
+ ]
+}

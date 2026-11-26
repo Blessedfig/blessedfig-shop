@@ -1,0 +1,96 @@
+{
+ "anilist_id": 30050,
+ "title": "Shaman King",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Shaman_King",
+  "https://anilist.co/manga/30050",
+  "https://www.mangaupdates.com/series/6o2lpgf"
+ ],
+ "premise": "Yoh Asakura, a laid-back shaman from Izumo who can see and channel spirits, befriends classmate Manta and the ghost of a samurai, Amidamaru. Trained harshly by his fiancee Anna, Yoh enters the Shaman Fight, a tournament held every 500 years to choose the Shaman King who can merge with the Great Spirit and reshape the world. His chief rival is his twin Hao, a reincarnated shaman who plans to wipe out ordinary humans.",
+ "life_message": "Strength of soul, friendship and an easygoing heart matter more than winning, and in the end fighting is no good.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Tournament battles throughout; Hao absorbs souls and plans human extinction (Wikipedia; AniList Necromancy, Super Power)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Ghosts, death and apocalyptic stakes; comic tone elsewhere."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Yoh and Anna's arranged engagement; MangaDex safe."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Mild shonen insults (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None notable (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grief and grudges of the dead; Hao's trauma and hatred."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Spirit-channeling and possession as play."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Large franchise with trading card game, games and merchandise (Wikipedia)."}
+ ],
+ "lenses": [
+  {"lens": "Pantheist/New Age", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 5, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 5, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Shamanism and the Great Spirit; friendship across cultures; forgiveness over annihilation",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 6, "sanctity": 7, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Hao is persuaded to forgive humanity; Yoh's gentleness and friendship across peoples.", "concerns": "Spiritism and channeling the dead (CCC 2116-2117) are the hero's practice."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Forgiveness defeats hatred.", "concerns": "Communication with spirits of the dead and a Great Spirit replacing God."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Friendship and opposing genocide.", "concerns": "Necromancy and mediumship (Deuteronomy 18:10-12) central."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and compassion.", "concerns": "Spirit contact and a pluralist afterlife."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Evil defeated.", "concerns": "Spirit possession ('Over Soul') as power; spiritual warfare inverted."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Critique of a would-be god-king.", "concerns": "Spiritism and other gods shown as true."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Mercy at the climax.", "concerns": "Occult practice normalized."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Peace over violence as the final message.", "concerns": "Spirit mediumship."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "World myths respected; forgiveness.", "concerns": "Occult practice by heroes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Takei's message that fighting is no good.", "concerns": "Spirits and tournament violence."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Continuing spirits and family ties.", "concerns": "Spirit contact avoided by members."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Multicultural spirituality respected; anti-genocide.", "concerns": "Some cultural stereotypes (to verify)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Mercy and patience.", "concerns": "Sihr, necromancy and the Great Spirit as divine power."},
+  {"frame": "Hindu", "grade": "A", "weight": "Discuss", "aligns": "Reincarnation, many spirits and a cosmic One are familiar.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Discuss", "aligns": "Amidamaru released from his grudge; compassion and non-attachment in Yoh.", "concerns": "Battles."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Diversity of cultures; peace message.", "concerns": "Ethnic stereotypes in some designs (to verify)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Empathy and anti-fanaticism.", "concerns": "Supernatural presented as real within story."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Family lineage, honor and loyalty.", "concerns": "Occult themes."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Peace as the goal.", "concerns": "Conscious dead spirits central (soul-sleep teaching)."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Opposes killing humanity.", "concerns": "Spiritism and demon-like spirits throughout."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Spirit over matter.", "concerns": "Spiritualism rejected as error."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Many paths and peoples united.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Shamanic practice and nature spirits honored.", "concerns": "Some magic used to harm."},
+  {"frame": "Shinto", "grade": "A", "weight": "Discuss", "aligns": "Izumo roots, ancestor spirits and kami-like powers respected.", "concerns": "Death impurity everywhere."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "One Great Spirit; overcoming ego.", "concerns": "Spirit-calling as superstition."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity of peoples and religions.", "concerns": "Spiritualism discouraged."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Immortal spirits and reincarnation.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Ritual as psychodrama; rebellion against the X-Laws' zealotry.", "concerns": "Supernatural as literal."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Opposing mass murder.", "concerns": "Necromancy forbidden (Deuteronomy 18:11); other gods."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Peace message.", "concerns": "Sorcery and necromancy."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical message against genocide.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Yoh shrugs off provocation; Takei's stated final message is that fighting is no good."},
+   "Order vs freedom": {"pos": 7, "evidence": "Yoh's laid-back 'it'll work out' attitude and wish for an easy life."},
+   "Civic vs kin": {"pos": 5, "evidence": "Asakura clan duty and twin rivalry, balanced by friends from many nations."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Tournament ranks and the Patch officiants, but Yoh treats all as equals."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Shamanism, spirits and traditions from many cultures drive everything."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Yoh values a relaxed life; stakes are the world's survival."}
+  },
+  "closest": ["The Midlands", "English-speaking"],
+  "japan": "Izumo shamanism, ancestor spirits, a samurai ghost and Yoh's arranged engagement to Anna reflect Japanese religious and family customs."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Forgiveness theme carried by Yoh's choices and Hao's arc; no review on delivery found (to verify).",
+  "personified": [
+   {"character": "Yoh Asakura", "ideology": "easygoing gentleness; fighting is no good", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Hao", "ideology": "wiping out ordinary humans for a world of shamans", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Hao's plan to destroy humanity is opposed, and he is persuaded to forgive rather than simply defeated."
+ },
+ "winners_losers": "Yoh and his friends prevail and Hao is persuaded to forgive humanity; zealotry and annihilation lose. Sympathy goes to gentleness and pluralism.",
+ "to_verify": [
+  "Which edition this entry covers (original vs. kanzenban true ending)",
+  "Portrayal of Native American and other cultures",
+  "Gore level in later battles"
+ ]
+}

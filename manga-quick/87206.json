@@ -1,0 +1,368 @@
+{
+ "anilist_id": 87206,
+ "title": "Wave, Listen to Me!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/87206",
+  "https://api.mangaupdates.com/v1/series/28259490989",
+  "https://animenewsnetwork.com/feature/2020-06-03/the-spring-2020-manga-guide/wave-listen-to-me/.159752"
+ ],
+ "premise": "A seinen comedy-drama by Hiroaki Samura set in Sapporo. Minare Koda, a heavy drinker, rants about her breakup to a stranger at a bar who turns out to be a radio producer; her recorded rant airs the next day, she storms the station, and she is talked into doing a show, discovering a talent for radio (Kodansha blurb; ANN Spring 2020 Manga Guide). Database tags list a cult storyline and an earthquake (AniList, MangaUpdates).",
+ "life_message": "A loud, messy person can find a voice and a vocation by throwing herself into the work in front of her.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Minare breaks down station doors (ANN); no serious violence indicated."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Earthquake and cult tags (MangaUpdates; AniList spoiler) (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "A boss's sexual harassment of male staff played as a joke (ANN, Hopper); breakups (MangaUpdates)."
+  },
+  {
+   "category": "Language",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Minare's 'acid tongue' (Kodansha) and 'hollering' (ANN); profanity level to verify."
+  },
+  {
+   "category": "Substances",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Heavy drinking drives the plot (ANN); Alcohol and Smoking tags (MangaUpdates)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Heartbreak and frustration (blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Producer uses a release she signed while drunk, 'skirting the lines of legality' (ANN)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Radio industry setting; anime adaptation."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 6,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Finding a voice; workplace comedy; adult messiness",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 7,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation discovered through work.",
+   "concerns": "Drunkenness central; consent and harassment treated lightly (ANN)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Struggle with one's passions shown.",
+   "concerns": "Drunkenness, anger and coarse speech."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Hard work at a new vocation.",
+   "concerns": "Heavy drinking, profanity, harassment as a joke."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Second chance at purpose.",
+   "concerns": "Drunkenness and coarse language."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Talent used.",
+   "concerns": "Drinking and coarse speech."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation found in ordinary work.",
+   "concerns": "Drunkenness (WLC Q139); anger."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation through daily work.",
+   "concerns": "Drunkenness and manipulative producer."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Purpose found.",
+   "concerns": "Alcohol central (General Rules)."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Witty literary comedy.",
+   "concerns": "Drinking and coarse behavior."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Drunkenness, profanity, worldly media world."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Finding talent.",
+   "concerns": "Alcohol and smoking central (Word of Wisdom)."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Woman finds her voice.",
+   "concerns": "Harassment and drunken consent framed as jokes (ANN)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Intoxication central; foul speech."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Discovering one's work.",
+   "concerns": "Intoxication and anger."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Facing one's mess honestly.",
+   "concerns": "Fifth precept: drinking central; harsh speech."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Unconventional female lead.",
+   "concerns": "Consent and harassment not challenged (ANN, Hopper)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Finding meaning through work.",
+   "concerns": "Questionable consent and manipulation."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work.",
+   "concerns": "Drunkenness, profanity."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol and smoking central."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Drunkenness; possible cult storyline."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Expressive release.",
+   "concerns": "Anger and intoxication."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-expression.",
+   "concerns": "Harassment as joke; consent."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Free spirit.",
+   "concerns": "Consent issues."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hokkaido local life.",
+   "concerns": "Little else."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honest work.",
+   "concerns": "Alcohol; anger."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol central; backbiting rants."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Communication as a career (radio).",
+   "concerns": "Excess drinking."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and frank self-expression.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Nivul peh (vulgar speech); drunkenness."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Finding a voice.",
+   "concerns": "Harassment framed as humor."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Woman's agency.",
+   "concerns": "Consent issues."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Minare storms the station over the broadcast (Kodansha)."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Unruly, impulsive heroine (ANN)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Coworkers and listeners, not family (blurb)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Producer manipulates; workplace pressure (ANN)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular modern media world."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-expression on air is the arc (blurb)."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "Catholic Europe"
+  ],
+  "japan": "Reflects Japanese seinen slice-of-life and regional Hokkaido settings, and workplace pressure where juniors are pushed into roles by superiors."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN reviewer Hopper says the book lacks clear moral framing of misconduct.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Behavior is shown without commentary, which one reviewer criticized."
+ },
+ "winners_losers": "Minare wins an audience; reviewers note others' misconduct goes unchallenged.",
+ "to_verify": [
+  "Cult storyline (spoiler tag) and earthquake arc.",
+  "Profanity level; only volume 1 reviewed.",
+  "Ongoing series."
+ ]
+}

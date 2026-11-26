@@ -1,0 +1,90 @@
+{
+ "anilist_id": 87411,
+ "title": "Kakao 79%",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/87411",
+  "https://api.mangaupdates.com/v1/series/62011165470",
+  "https://api.mangadex.org/manga?title=Kakao 79% (record d0071eca-700f-4f98-9309-a1a839655a57)"
+ ],
+ "premise": "Ayano Tsubasa and Yuu Ichinose are inseparable childhood friends who are separated when both families move, then discover they have transferred to the same new school. A full-color webcomic comedy about their bittersweet teenage years as friendship slowly turns toward romance.",
+ "life_message": "Long friendship and loyalty between two people can grow into something deeper if it is honest.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Comedic slapstick only (MU Comedic Violence, few votes)."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Light school comedy (genres Comedy, Romance; MangaDex safe)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "High-school childhood-friend romance, slow burn (MU Slow Romance, Childhood Friends Become Lovers)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Moving away and misunderstandings (MU tags); mild."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Ordinary school-life antics."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Webcomic platform release (Comico; English on Coolmic)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Friendship and loyalty (Communitarianism), mild Expressive individualism",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 3, "sanctity": 1, "authority": 2, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Faithful friendship between Tsubasa and Yuu shown as lasting and caring.", "concerns": "Teen romance with no wider moral or faith frame; details unknown."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Loyalty of childhood friends who find each other again.", "concerns": "Teen romantic feelings could be a talking point on guarding the heart."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Clean school comedy built on loyal friendship (MangaDex safe).", "concerns": "High-school dating as the arc; check for kissing scenes."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Friendship that survives a move; kindness between leads.", "concerns": "No faith element; romance central for teen readers."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Nothing occult; plain friendship story.", "concerns": "Worldly teen romance focus."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common-grace picture of faithful friendship.", "concerns": "Romance among minors worth discussing."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Neighbor love between two friends who move to new homes.", "concerns": "Little beyond light romance."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Harmless diversion about loyal friends.", "concerns": "Does not tend toward knowledge of God; light romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle moral vision of fidelity between friends.", "concerns": "Teen romance only."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Minor", "aligns": "No glorified violence; loyalty valued.", "concerns": "Worldly entertainment centered on teen popularity and dating."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Clean friendship story without crude content in sources.", "concerns": "Check teen dating norms against youth guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Mutual, caring friendship; strong female lead tagged (MU).", "concerns": "Few; comedic slapstick violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and kindness between friends.", "concerns": "Mixed-gender teen romance as the goal of the story."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Friendship as a lasting bond; families present in the move.", "concerns": "Teen romance; modesty varies by family."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Gentle speech and attachment shown as tender, not harmful.", "concerns": "Attachment and longing are the story's engine."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Tomboyish, strong female lead and equal friendship (MU tags).", "concerns": "Little in sources."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Ordinary human friendship and growth.", "concerns": "Little in sources."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Wholehearted loyalty between childhood friends.", "concerns": "Teen romance; parents' role unknown."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "No substances or occult in sources.", "concerns": "Romance-driven light entertainment."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "No spiritism or violence of note.", "concerns": "Teen dating as entertainment."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Light, cheerful thought; no illness focus.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of each friend; honest feelings.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Harm-free story of loyal friends.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony and sincerity (makoto) between friends in a Japanese school.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Truthful friendship and equality between leads.", "concerns": "Teen romance; modesty."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity and friendship.", "concerns": "Teen romance without family consultation shown."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication between friends resolves misunderstandings (MU tag).", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal choice in love.", "concerns": "Little of note."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and chesed between friends.", "concerns": "Mixed-gender teen romance; time-wasting entertainment."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kind speech and loyalty.", "concerns": "Teen romance talking point."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Healthy, mutual relationship.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor disputes; everyday school comedy (genres)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Ordinary school rules; nothing stressed in sources."},
+   "Civic vs kin": {"pos": 4, "evidence": "Bond is chosen friendship, not family (MU Best Friend/s, Friendship)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Peer relationships; popular-student dynamics (MU Popular Male/Female Lead)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern secular Japanese school setting."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Focus on feelings and youth, not hardship."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Transfer-student and childhood-friend tropes reflect Japanese school life, where moving schools mid-year is a common source of social anxiety."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Only a one-line synopsis and tags; light comedy with no stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe a light romantic comedy without a stated message."
+ },
+ "winners_losers": "The two childhood friends are the focus and sympathy lies with their bond; no opposing worldview appears in the sources.",
+ "to_verify": [
+  "Series was cancelled (MU and AniList); the ending may be unresolved.",
+  "English releases on Pocket Comics and Smack Jeeves are defunct; Coolmic listed as current (MU); confirm availability.",
+  "No reviews found; all scores come from database tags and the synopsis."
+ ]
+}

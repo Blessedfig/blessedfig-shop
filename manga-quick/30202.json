@@ -1,0 +1,363 @@
+{
+ "anilist_id": 30202,
+ "title": "9th Sleep",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30202",
+  "https://api.mangaupdates.com/v1/series/9636357357"
+ ],
+ "premise": "A planet that once died was saved on the day of Despaira by a god, King Shishioh, who appeared in the sky. Now the king's throne is empty and two brothers fight over who will take it (Juné blurb). MU lists reincarnation, amnesia, a dead lover, a suicide and a god-human relationship; the single volume was discontinued in Japan.",
+ "life_message": "Bonds that outlast death and rebirth matter more than a throne.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Vicious succession battle between brothers (Juné blurb); details to verify."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Dead world and dead lover (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Shounen-ai bond (MU Shounen Ai; AniList BL); incest tag at low rank (AniList 40%)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Suicide listed (MU Suicide/s) and amnesia (AniList, MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Dharmic (Hindu/Buddhist), Pagan/occult",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 7
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 5,
+  "authority": 7,
+  "liberty": 3
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "A savior figure redeeming a dead world.",
+   "concerns": "King Shishioh as a god-savior; same-sex bond; suicide."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Resurrection-like renewal of a planet.",
+   "concerns": "A fictional god-king as savior; reincarnation."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sacrifice and salvation themes.",
+   "concerns": "Rival god-figure and reincarnation; same-sex bond."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope after a world's death.",
+   "concerns": "A god other than Christ as savior."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Deliverance from destruction.",
+   "concerns": "Spiritual beings and gods shown as real."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Providence over a fallen world.",
+   "concerns": "False god as savior; second commandment concerns."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Grace arriving from outside the world.",
+   "concerns": "Reincarnation and a pagan god-king."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope in renewal.",
+   "concerns": "Suicide and same-sex bond."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mythic fantasy on loss and succession.",
+   "concerns": "Reincarnation and suicide."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Succession contest shown as destructive.",
+   "concerns": "Brothers in violent rivalry."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Eternal bonds beyond death.",
+   "concerns": "Reincarnation; same-sex bond; suicide."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Grief and love across lives.",
+   "concerns": "Suicide handling (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Recognition of a creator's mercy.",
+   "concerns": "A god figure shown; reincarnation; shirk concern."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Rebirth, karma and divine kingship.",
+   "concerns": "Brothers' violent struggle; suicide."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Rebirth and memory loss as samsara.",
+   "concerns": "Attachment to throne and lover."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Queer bond in fantasy.",
+   "concerns": "Suicide."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Mythic story of power and loss.",
+   "concerns": "Supernatural presented in-world."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Royal succession and legitimacy.",
+   "concerns": "Same-sex bond; fratricidal rivalry."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope of renewal.",
+   "concerns": "Reincarnation conflicts with soul sleep."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "A paradise-like restoration of earth.",
+   "concerns": "Other gods and reincarnation."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Life continuing beyond death.",
+   "concerns": "Dwelling on death."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Pluralist mythic imagination.",
+   "concerns": "Suicide."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gods present in the world; cycles of life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "A kami-like figure appearing in the sky.",
+   "concerns": "Death impurity themes."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Divine rescue.",
+   "concerns": "Reincarnation framed differently; ego in succession."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "A Manifestation-like savior.",
+   "concerns": "Same-sex bond."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Thetan-like continuity of spirit across lives.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Brothers seizing power for themselves.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Redemption from destruction.",
+   "concerns": "Idolatrous god figure; same-sex bond."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Myth as story.",
+   "concerns": "Suicide."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Myth exploring loss.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Brothers fight personally for the throne (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Divine kingship sets order (blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Royal family and brothers central (MU Royalty, Brother/s)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "A god-king and royal succession (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Destiny, gods and reincarnation (MU)."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival of the world and throne."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "South and Southeast Asia",
+   "Cavalier"
+  ],
+  "japan": "Blends Japanese and Buddhist-influenced ideas of reincarnation and destiny with an invented god-king, common in fantasy shoujo."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Mythic blurb; no stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources give only the setup."
+ },
+ "winners_losers": "Not known; the story was discontinued (MU).",
+ "to_verify": [
+  "Whether the story resolves (discontinued)",
+  "Who commits suicide and framing",
+  "Relationship tags: incest (AniList 40%)",
+  "Out of print in English (MU)"
+ ]
+}

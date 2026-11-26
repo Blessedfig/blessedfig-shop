@@ -1,0 +1,369 @@
+{
+ "anilist_id": 44841,
+ "title": "Durarara!!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/44841",
+  "https://api.mangaupdates.com/v1/series/9507225596",
+  "https://otakuusamagazine.com/durarara-vol-1-2/"
+ ],
+ "premise": "High-school student Mikado moves to Tokyo's Ikebukuro district, home to urban legends and eccentrics: a stalker girl, the strongest man in town, a doctor of questionable credentials, a hedonistic informant and a headless rider on a black motorcycle. Their storylines, including a group that lures people with talk of suicide, gradually cross. This entry is the four-volume first arc adapted from Ryohgo Narita's light novels.",
+ "life_message": "Ordinary people long for the extraordinary, and connection in a strange city matters more than the legends around it.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Street fights and gangs (MU Gang/s, Crime/s); not detailed in review (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Urban legends, a headless rider, mysteries (blurb; Otaku USA)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Romance threads, a stalker's obsession; a sister's romantic fixation on her brother (MU Incest, Brother Complex; to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "A creepy young man runs fake suicide groups (Otaku USA; to verify framing)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Stalking escalates with consequences (Otaku USA; MU Stalker/s)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Light-novel franchise with anime (MU)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Postmodernism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Urban anonymity and the wish for the extraordinary; obsession and manipulation; unlikely bonds",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and longing for meaning.",
+   "concerns": "Suicide-group manipulation; incestuous fixation; stalking."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Bonds formed amid strangeness.",
+   "concerns": "Passions and obsession; headless spirit figure."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Consequences for obsession.",
+   "concerns": "Suicide theme; incest theme; gang violence."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loneliness in the city honestly shown.",
+   "concerns": "Dark themes need context."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "New community for a lonely boy.",
+   "concerns": "Supernatural dullahan; suicide manipulation."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful about human manipulation.",
+   "concerns": "Incest and suicide themes."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Neighbor love in an anonymous city.",
+   "concerns": "Manipulation; obsession."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Dark themes; violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral complexity of characters.",
+   "concerns": "Suicide theme handled ambiguously (to verify)."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Community among outsiders.",
+   "concerns": "Gang violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Incest and suicide themes."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Diverse outsiders; urban isolation explored.",
+   "concerns": "Stalking romanticized (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Incest theme; supernatural being; suicide."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Manipulation and obsession."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Craving for the extraordinary examined.",
+   "concerns": "Manipulation and violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Diverse ensemble of outsiders.",
+   "concerns": "Suicide content needs safe-messaging check."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Curiosity and mystery.",
+   "concerns": "Manipulation of the vulnerable."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and loyalty.",
+   "concerns": "Gangs, stalking, incest theme."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Headless spirit; suicide; incest theme."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Supernatural being; immorality; bad associations."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Fear and morbid themes."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Outsiders valued.",
+   "concerns": "Manipulation; stalking."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Folklore being as sympathetic figure.",
+   "concerns": "Manipulation causes harm."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Folklore woven into city life.",
+   "concerns": "Blood and death."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Obsession; violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Unity among strangers.",
+   "concerns": "Suicide; incest theme."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication and friendship.",
+   "concerns": "Unlicensed doctor; manipulation."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Individualism and hedonism examined.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Incest theme; suicide."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Community.",
+   "concerns": "Incest and suicide themes."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Inclusion of outsiders.",
+   "concerns": "Suicide theme."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Strongest man settles insults by force (blurb, to verify)."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Free-roaming eccentrics in an anonymous city (blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Friends and siblings (MU Brother Complex)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Ensemble of equals and outsiders (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Urban legends meet chat rooms (MU)."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Seeking the extraordinary (blurb)."
+   }
+  },
+  "closest": [
+   "English-speaking",
+   "New Netherland",
+   "The Far West"
+  ],
+  "japan": "Set in real Ikebukuro, with online chat rooms, color gangs and a transfer student, reflecting Tokyo youth culture of the 2000s."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Otaku USA describes a scattered, mysterious ensemble plot; no message noted (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Any message emerges from intersecting character stories rather than statement."
+ },
+ "winners_losers": "The 'twisted, cracked love story' and Mikado's search for the extraordinary get the focus; the stalker's obsession goes too far and meets consequences (Yen Press blurb; Otaku USA).",
+ "to_verify": [
+  "Fake suicide group content: one review only; how it is framed.",
+  "MU tags Incest and Brother Complex: a sister's romantic obsession with her brother; depiction level unknown.",
+  "Violence level of street fights and gangs not described in review.",
+  "Later arcs (Saika, Yellow Scarves) are separate AniList entries."
+ ]
+}

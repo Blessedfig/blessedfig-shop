@@ -1,0 +1,365 @@
+{
+ "anilist_id": 30314,
+ "title": "FAKE",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30314",
+  "https://api.mangaupdates.com/v1/series/45711780052",
+  "https://noflyingnotights.com/blog/2004/03/01/fake-vol-4/"
+ ],
+ "premise": "Soft-spoken detective Ryo Maclean joins the NYPD's 27th precinct and is partnered with the brash Dee Laytner, who soon wants more than a working partnership. The pair work narcotics and other cases, including a bomber threatening the school of Bikky, a boy in Ryo's care, while a slow, bickering romance develops. A police action-comedy with a boys' love romance (Tokyopop and Bookwalker blurbs via AniList and MangaUpdates; No Flying No Tights review).",
+ "life_message": "A good life means loyalty to your partner and courage in protecting others.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Bombings, shootouts and a wounded hero (review; AniList Police/Crime, MangaUpdates Crime)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Bomb threat at a school (review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Adult male romance with stolen kisses and pursuit (review; MangaUpdates genre Yaoi); AniList spoiler tag 'Rape' unconfirmed (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Cop banter; not detailed (capped, to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Narcotics cases (MangaUpdates blurb)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Trauma not confirmed."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dee's 'stolen kisses' and persistent pursuit (MangaUpdates 'Persistent Seme')."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "OVA adaptation."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism; Classical virtue ethics; Libertarianism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Courage and protecting a child.",
+   "concerns": "Same-sex romance affirmed; violence."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Self-sacrifice in danger.",
+   "concerns": "Same-sex romance; passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Protecting the innocent.",
+   "concerns": "Same-sex romance; violence; language."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Courage in police work.",
+   "concerns": "Same-sex romance central."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Protecting Bikky.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice served by officers.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vocation of police work.",
+   "concerns": "Same-sex romance (LCMS); ELCA open."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protection of the vulnerable.",
+   "concerns": "Same-sex romance; split by body."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lawful authority upheld.",
+   "concerns": "ACNA concerns; violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for a child.",
+   "concerns": "Violence; same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Protecting others.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay couple centred warmly.",
+   "concerns": "Persistent pursuit and consent; violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Justice and protection.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Duty of protectors.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Violence; pursuit."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Queer leads.",
+   "concerns": "Consent in pursuit; rape tag (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Secular justice.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Police heroism.",
+   "concerns": "Same-sex romance for teens."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Protecting a child.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Courage.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage over fear.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive love.",
+   "concerns": "Consent concerns."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Consensual adult love.",
+   "concerns": "Pursuit without consent."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Violence and blood."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defending the innocent.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Service.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Integrity.",
+   "concerns": "Drugs and violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Individual desire.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Protecting a child.",
+   "concerns": "Same-sex romance; violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Violence; CJLS views vary."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Violence; consent."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Cops settle matters by force and law."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Dee breaks rules (MangaUpdates)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Partners and Bikky as chosen family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Precinct ranks, banter."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern New York setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Personal love expressed."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "El Norte"
+  ],
+  "japan": "A Japanese author's imagined New York police setting; Japanese BL conventions (seme/uke roles) are described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review praises the romance; no preachiness noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romance develops through cases."
+ },
+ "winners_losers": "Ryo and Dee grow closer; sympathy goes to the couple and their protection of Bikky.",
+ "to_verify": [
+  "Only vol 4 review opened",
+  "AniList spoiler tag 'Rape' not confirmed; context to verify",
+  "Language level not confirmed",
+  "Bikky's relationship to Ryo to verify",
+  "Tokyopop license lapsed; check current availability"
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "anilist_id": 103609,
+ "title": "No Guard Wife",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/103609",
+  "https://api.mangaupdates.com/v1/series/11832218617"
+ ],
+ "premise": "Juri Takasaka lived with her boyfriend and coworker for years until he proposed. Now a full-time housewife, she tries to fluster her new husband, but he keeps beating her at her own game in short episodic chapters about newlywed life (Irodori Comics blurb via AniList/MU).",
+ "life_message": "Married love can stay playful and affectionate in ordinary daily life.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Married-couple ecchi comedy; MU lists Adult genre, Nudity, Sexually Active Couple, an uncensored version, and an artist known for adult work. Capped at 3 for lack of a review (to verify; likely understated)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "MU lists Alcohol."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "No adaptation listed."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Newlywed affection; married sexuality as comedy; housewife life",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Marriage and pregnancy (MU) inside a loving union.", "concerns": "Sexualized depiction of the couple; prior cohabitation."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Marital affection.", "concerns": "Nudity inflames passions; cohabitation before marriage."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Sex within marriage.", "concerns": "Ecchi and nudity; MU Adult genre."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Married couple delighting in each other.", "concerns": "Sexual content aimed at readers."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Marriage valued.", "concerns": "Sexual content and immodesty."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Marriage as a good gift.", "concerns": "Lascivious pictures (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Married vocation honored.", "concerns": "Explicitness."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Faithful couple.", "concerns": "Sexual content; alcohol."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Lifelong covenant shown happily.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Household life.", "concerns": "Immodesty throughout."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Marriage and pregnancy.", "concerns": "Nudity; alcohol; cohabitation before marriage."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Consensual, loving marital intimacy.", "concerns": "Housewife framing; fan-service gaze."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Nikah and family.", "concerns": "Nudity; alcohol; cohabitation before marriage."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Householder life (grihastha).", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Non-harmful marital conduct.", "concerns": "Sensual craving as entertainment."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Mutual, consenting adults.", "concerns": "Traditional housewife role; male-gaze art."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Consenting adult couple.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Marriage and a homemaker wife.", "concerns": "Explicit content; vulgarity."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Marriage.", "concerns": "Nudity; alcohol."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Married couple.", "concerns": "Sexual content; cohabitation before marriage."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Affectionate home.", "concerns": "Purity."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Healthy adult relationship.", "concerns": "Age-appropriateness for children."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Sexuality as positive between consenting adults.", "concerns": "Exploitative art."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Household continuity; pregnancy.", "concerns": "Little doctrine."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Married partnership.", "concerns": "Immodesty; alcohol."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Marriage valued.", "concerns": "Alcohol; immodesty."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Faithful to one's partner.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence between consenting adults.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Marriage as mitzvah.", "concerns": "Tzniut violated by images."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Committed marital relationship.", "concerns": "Immodest images."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Consensual, loving relationship.", "concerns": "Age suitability."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Playful one-upmanship, no honor disputes (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Couple sets their own private life."},
+   "Civic vs kin": {"pos": 7, "evidence": "Story centred entirely on the household (MU Married Couple)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Spouses tease as equals, though wife is homemaker."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Housewife role with modern apartment life."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Pleasure and affection as everyday aims."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "New France"],
+  "japan": "The full-time housewife (sengyo shufu) role after marriage reflects a common Japanese household pattern, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "No review opened; episodic gag chapters (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A comedy without an argued message."
+ },
+ "winners_losers": "The newlyweds are both shown happily; there is no opposing side.",
+ "to_verify": [
+  "BORDERLINE: MU lists the Adult genre, 'Sexually Active Couple' and 'Uncensored Version Available'; the caller may decide this belongs on the skip list.",
+  "No review opened; sexuality score capped at 3 and probably understated.",
+  "Irodori Aqua edition rating."
+ ]
+}

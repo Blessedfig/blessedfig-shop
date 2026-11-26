@@ -1,0 +1,97 @@
+{
+  "anilist_id": 30018,
+  "title": "Kodocha: Sana's Stage",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kodocha",
+    "https://anilist.co/manga/30018",
+    "https://www.mangaupdates.com/series/za74vzu"
+  ],
+  "premise": "Sana Kurata, a cheerful sixth-grade child actress raised by her eccentric adoptive mother and a formerly homeless manager, sets out to stop Akito Hayama, the troublemaker who rules her chaotic class by blackmailing teachers. She learns Akito is neglected and blamed by his family for his mother's death, helps him reconcile with them, and the two grow from rivals to sweethearts through middle school amid showbiz pressures, family secrets and illness.",
+  "life_message": "Children can face adult-sized problems with honesty, courage and loyalty, and engaging with troubled people can change them.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "Akito's karate chops, boys throw a girl into a pond, a delinquent beating, a teacher hits Akito (Wikipedia); MangaUpdates Bullying."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Family conflict, an injury and Sana's illness (Wikipedia); AniList Tragedy (spoiler)."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Grade-school crushes and love triangle; Sana jokingly calls her manager her 'pimp' without knowing the word (Wikipedia)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Insults like 'devil boy'; 'pimp' joke (Wikipedia)."},
+    {"category": "Substances", "score": 1, "framing": "Condemned", "note": "A gambling-addicted ex-husband (Wikipedia)."},
+    {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Sana's illness triggered by shock, family neglect and resentment (Wikipedia); MangaUpdates Mental Breakdown; AniList Suicide spoiler tag at 20% unconfirmed (to verify)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Akito blackmails a teacher and Sana blackmails Akito back; shoplifting blamed on Akito (Wikipedia)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Showbiz and commercials as setting."}
+  ],
+  "lenses": [
+    {"lens": "Communitarianism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Traditionalism", "strength": 2, "stance": "Critiqued"}
+  ],
+  "dominant": "Children healing families through honesty and friendship; critique of neglectful adults",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 6},
+  "foundations": {"care": 8, "loyalty": 7, "fairness": 7, "sanctity": 3, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Adoption, reconciliation of Akito with his father and sister, care for the homeless Rei.", "concerns": "Blackmail and violence among children; possible suicide content."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Repentance: Akito regrets the pond prank and is forgiven by Mami.", "concerns": "Disrespect to teachers."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Kindness to outcasts; honesty (Akito never lies).", "concerns": "Blackmail and 'pimp' joke."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Engaging a troubled kid with love transforms him.", "concerns": "Disrespect of authority early on."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Restoration of broken families.", "concerns": "Mild language and conflict."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Fifth commandment examined: honoring and being honored in families.", "concerns": "Blackmail of teachers."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Akito's father learns his vocation as a parent.", "concerns": "Bullying."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Discuss", "aligns": "Sana's works of mercy: taking in Rei, mending her class.", "concerns": "Violence between kids."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Discuss", "aligns": "Moral vision of empathy and reconciliation.", "concerns": "Mental-health content."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Peacemaking in the classroom.", "concerns": "Karate and showbiz worldliness."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family repaired; honesty valued.", "concerns": "Mild crude humor and early disrespect of teachers."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Justice for a scapegoated child; Sengoku's unfairness exposed.", "concerns": "Bullying."},
+    {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Care for orphans and family duty.", "concerns": "Mixed romance and showbiz immodesty (to verify)."},
+    {"frame": "Hindu", "grade": "A", "weight": "Discuss", "aligns": "Repairing family duty and respect.", "concerns": "Disrespect to elders."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Discuss", "aligns": "Compassion dissolves Akito's anger.", "concerns": "Violence."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Takes children's mental health and neglect seriously.", "concerns": "Suicide portrayal needs checking."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Honesty and empathy solve problems.", "concerns": "Mental-health handling."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Akito grows into discipline through karate; family loyalty.", "concerns": "Children disrespecting teachers."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Health and family.", "concerns": "Showbiz and violence."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Honesty and family love.", "concerns": "Celebrations, showbiz and fighting."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Sana's buoyant spirit overcomes hardship.", "concerns": "Illness and despair depicted."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every child.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal responsibility and harm repaired.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Family harmony restored; sincerity (Akito's honesty).", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "A", "weight": "Discuss", "aligns": "Defending the bullied.", "concerns": "Anger and violence."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Discuss", "aligns": "Truthfulness and unity of family.", "concerns": "Backbiting among classmates."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Communication heals families.", "concerns": "Mental-breakdown storyline may touch psychiatry (to verify)."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Challenging unfair authority (Sengoku).", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Chesed toward the neglected.", "concerns": "Lashon hara and disrespect early on."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Discuss", "aligns": "Family and justice.", "concerns": "Bullying."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Repairing a community.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Akito has a personal code; Sana fights back, but blackmail is regretted (Wikipedia)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Sana restores classroom peace yet both kids defy rigid teachers."},
+      "Civic vs kin": {"pos": 6, "evidence": "Family reconciliation is central, plus classmates."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Children challenge unfair adults like Sengoku (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern showbiz life; no religious frame."},
+      "Survival vs self-expression": {"pos": 7, "evidence": "Sana's acting and self-expression celebrated."}
+    },
+    "closest": ["Catholic Europe", "New France", "The Midlands"],
+    "japan": "Shows Japanese elementary-school class dynamics and showbiz child-talent culture, with teachers' concern for face (Miss Mitsuya) noted."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Wikipedia describes kids dealing with adult issues through comedy; reviewers praise comedy and characters, none call it preachy.",
+    "personified": [
+      {"character": "Sana Kurata", "ideology": "Engaging troubled people with honesty can change them", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Mr. Sengoku", "ideology": "Some children are violent by nature and cannot change", "role": "Villain", "treatment": "Mixed"},
+      {"character": "Principal Narunaru", "ideology": "Optimism: everything will be all right", "role": "Mentor", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Values are carried by comedy and character arcs; the view that Akito cannot change is voiced by a teacher Wikipedia calls unfair and spiteful."
+  },
+  "winners_losers": "Sana and Akito grow and their families heal; unfair and neglectful adults lose; sympathy goes to children carrying adult burdens.",
+  "to_verify": [
+    "AniList Suicide spoiler tag (20%): whether suicide or attempts appear and how handled.",
+    "Nature of Sana's illness and the mental-breakdown arc.",
+    "Whether Sengoku is a strawman or given a fair case.",
+    "English license: Tokyopop edition expired; MANGA MILLION listed for 2026 (MangaUpdates)."
+  ]
+}

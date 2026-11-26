@@ -1,0 +1,92 @@
+{
+ "anilist_id": 122278,
+ "title": "To Strip the Flesh",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/122278",
+  "https://api.mangaupdates.com/v1/series/12916429769",
+  "https://cdn02.animenewsnetwork.com/feature/2022-05-21/the-spring-2022-manga-guide/to-strip-the-flesh/.185222"
+ ],
+ "premise": "A one-volume collection of six short stories. In the title story, Chiaki, a transgender man bound by his late mother's wish that he become 'a beautiful bride', cares for his ailing father, a hunter, and finally transitions, finding understanding from those close to him. Other pieces include a figurine romance ('David in Love'), a body-horror mother-and-son story ('Hot Watermelon') and short comic pieces with ghosts cheering an idol group (Viz blurb via AniList/MU; ANN Spring 2022 Manga Guide).",
+ "life_message": "Being understood by the people who matter, and living as who you are, is worth the pain of shedding others' expectations.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "ANN warns of realistic scenes butchering game; MU Hunter/s."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Body horror in 'Hot Watermelon' and a disturbing dream of surgery (ANN)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "AniList Nudity (spoiler, 40%); figurine romance (ANN)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Gender dysphoria and parental rejection (ANN; AniList Transgender)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Idol fandom short."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 7, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Gender identity and transition; being understood by family; connection",
+ "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 4},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 6, "sanctity": 3, "authority": 2, "liberty": 9},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Chiaki's devoted care for his ailing father.", "concerns": "Gender transition affirmed; Church teaches sex is given (Dicastery 2024)."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Filial care.", "concerns": "Gender seen as given; transition celebrated."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Honoring a sick parent.", "concerns": "Transition presented as liberation."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Compassion for someone in pain.", "concerns": "Gender identity framed against parents' wishes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Family care.", "concerns": "Transition; ghosts short."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Honest suffering.", "concerns": "Conservative churches object to transition."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation of caring for father.", "concerns": "LCMS/WELS object; ELCA families may affirm."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love and acceptance.", "concerns": "Holiness churches object."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Dignity of every person.", "concerns": "Range of views within the communion."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Simple rural life and care.", "concerns": "Transition; hunting gore less of a concern."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family love.", "concerns": "Gender as eternal identity (Proclamation)."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Trans dignity and family reconciliation.", "concerns": "Body horror for younger readers."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Duty to an ailing parent.", "concerns": "Transition; nudity."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Seva to a parent.", "concerns": "Views on gender vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion and non-attachment to imposed roles.", "concerns": "Killing game animals."},
+  {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Trans protagonist written with care (ANN 'highly recommended').", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Autonomy and understanding.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Rural duty and caring for elders.", "concerns": "Transition presented to readers; defies mother's wish."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Caring for the sick.", "concerns": "Gender teaching; ghosts."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Family love.", "concerns": "Transition; spirits of the dead."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear and limits.", "concerns": "Body-horror imagery."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Worth and dignity of a trans man.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Hunting and nature cycles; affirming.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Rural life and ancestors (mother's wish).", "concerns": "Blood and butchering as kegare."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work and care.", "concerns": "Views on gender vary."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "No prejudice; care for parent.", "concerns": "Gender and marriage teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determination.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Bodily autonomy (Tenet 3).", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honoring father.", "concerns": "Transition; tzniut; hunting."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity and family repair.", "concerns": "Views vary."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion of trans people.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Worth asserted without retaliation; seeks understanding (ANN)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Chiaki 'sets out to remake himself in his own image' (Viz blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Bound by mother's wish and caring for father, then a friend supports him (ANN)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Parental expectations challenged."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Medical transition and a praised doctor (ANN) over inherited roles."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "'Celebrates the beauty of embracing who you are' (Viz blurb)."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "English-speaking"],
+  "japan": "The mother's wish that her child become a bride and rural hunting life reflect Japanese family expectations and countryside settings, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN: title story is 'not passively angry' and relatable; praised as skilled, not called preachy.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Parents' resistance is shown through grief and duty rather than villainy, per ANN."
+ },
+ "winners_losers": "Chiaki's self-understanding is vindicated and he finds people who understand him; parental expectations give way.",
+ "to_verify": [
+  "Whether Chiaki's father comes to accept him in the end.",
+  "Nudity (AniList spoiler tag, 40%) and how the closing conversation with a gay writer is framed.",
+  "Hunting/butchering detail level."
+ ]
+}

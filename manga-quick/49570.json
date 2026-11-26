@@ -1,0 +1,364 @@
+{
+ "anilist_id": 49570,
+ "title": "Sora and Hara",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/49570",
+  "https://api.mangaupdates.com/v1/series/6183064999",
+  "https://www.penguinrandomhouse.com/books/isbn/9781648276538"
+ ],
+ "premise": "Manabu Hara, a gay teacher at an all-boys school who feels adrift, meets a young man named Sorano at a gay bar and then finds he is a new student at his school. Hara shuts down any relationship, but the situation stirs up his own teenage feelings and lingering ties to a former, now-graduated student, Rihito. A side story in Asumiko Nakamura's Classmates series (English Classmates vol. 4).",
+ "life_message": "A good life means facing loneliness and aging honestly, and holding a teacher's boundary even when feelings say otherwise.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Emotional drama only."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Gay adult romance; a student's romantic interest in his teacher, which Hara refuses (Seven Seas blurb via Penguin Random House, AniList); MangaUpdates tags student-teacher relationship and age gap. Non-graphic in summaries."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Gay-bar setting (blurb); drinking not described (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Hara feels adrift; homophobia and coming out tagged (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "A student is met at a gay bar; boundary-keeping by the teacher is the tension."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism; Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 3,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hara refuses a relationship with a student.",
+   "concerns": "Same-sex romance and a student-teacher romantic frame."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restraint of passion by the teacher.",
+   "concerns": "Same-sex romance and gay-bar setting."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Teacher keeps a boundary with a student.",
+   "concerns": "Same-sex romance as the core; student-teacher attraction."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hara's self-restraint.",
+   "concerns": "Same-sex romance and age-gap tension."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restraint over desire.",
+   "concerns": "Same-sex romance; nightlife setting."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest look at loneliness.",
+   "concerns": "Same-sex romance; conservative churches object; PC(USA) more open."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Hara's vocation as teacher weighed against feeling.",
+   "concerns": "Same-sex romance; ELCA affirming, LCMS objects."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Duty of care toward students.",
+   "concerns": "Same-sex romance; UMC affirming, Global Methodist not."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sensitive portrait of a lonely man.",
+   "concerns": "Student-teacher attraction; provinces differ on same-sex romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restraint and humility.",
+   "concerns": "Same-sex romance and worldly nightlife."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Teacher protects a boundary.",
+   "concerns": "Same-sex romance contrary to the Proclamation."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sympathetic gay protagonist facing homophobia.",
+   "concerns": "Power imbalance between teacher and student."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Restraint from a forbidden relationship.",
+   "concerns": "Same-sex romance and gay-bar culture."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teacher's duty (dharma) to his students.",
+   "concerns": "Same-sex romance; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Non-attachment and honest reckoning with longing.",
+   "concerns": "Avoiding harmful relationships; power imbalance."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "LGBTQ adult protagonist written with empathy.",
+   "concerns": "Teacher-student romantic tension and consent concerns."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honest adult portrait of aging and loneliness.",
+   "concerns": "Student-teacher power dynamics."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Teacher's sense of duty.",
+   "concerns": "Same-sex romance and age-gap theme."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restraint over passion.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Avoiding wrongful relationship.",
+   "concerns": "Same-sex romance as core."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Facing inner turmoil.",
+   "concerns": "Dwelling on longing."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay man's inherent worth affirmed.",
+   "concerns": "Power imbalance with students."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honest love and identity.",
+   "concerns": "Harm risk in teacher-student dynamic."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity of Hara's feelings.",
+   "concerns": "No doctrine; impurity of nightlife."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Control of lust as a teacher.",
+   "concerns": "Same-sex romance; Akal Takht position."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Chastity toward a student.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Integrity in a teaching role.",
+   "concerns": "Not codified; age gap."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Adult freedom to love.",
+   "concerns": "Student involvement is the line not crossed."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Hara's restraint.",
+   "concerns": "Same-sex romance (Leviticus 18:22) and gay bar."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethical restraint; CJLS openness.",
+   "concerns": "Student-teacher romantic tension."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive gay protagonist.",
+   "concerns": "Power imbalance between teacher and student."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Inner reflection over confrontation (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Private adult life in nightlife vs. school rules (blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Family not central; school and friends are (to verify)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Teacher-student roles set the boundary (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Identity and personal love are central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "Teacher authority and closeted adult life in a socially conservative workplace reflect Japanese norms, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Publisher calls it a 'darkly comedic drama'; no review on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Hara's dilemma is shown through his choices rather than stated messages."
+ },
+ "winners_losers": "Hara's restraint and self-reflection are given sympathy; how the student romance resolves is not stated in sources.",
+ "to_verify": [
+  "No review found; based on publisher blurb and database tags",
+  "Whether any romance with Sorano develops after graduation not confirmed",
+  "Seven Seas imprint (main line vs Ghost Ship) not confirmed; MangaUpdates genre is Shounen Ai, not Adult",
+  "Homophobia and coming-out themes from MangaUpdates tags only"
+ ]
+}

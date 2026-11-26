@@ -1,0 +1,362 @@
+{
+ "anilist_id": 30179,
+ "title": "Color",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30179",
+  "https://api.mangaupdates.com/v1/series/65790753589"
+ ],
+ "premise": "Art student Takashiro Tsuda finds his painting 'Color' hung beside a nearly identical painting of the same name. Seeking the artist who shares his vision, he enrolls at an art school in Tokyo and discovers the painter is a classmate, Sakae Fujiwara, and a deep bond, then romance, grows between the two teenage boys.",
+ "life_message": "A true kindred spirit is worth finding, whoever that person turns out to be.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Family drama."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romance between high-school art students; MU notes a first kiss; no sexual-content tags (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Loneliness, insecurity, a dead family member, a runaway (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Running away (MU tag; context to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 1,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism; Existentialism",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 3,
+  "sanctity": 3,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art as a path to beauty and to another soul.",
+   "concerns": "Same-sex teen romance affirmed."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art shaping the heart; deep friendship.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gifts used faithfully in art.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Talent and calling.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sense of destiny in meeting.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Common-grace appreciation of artistic vocation.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation as painter.",
+   "concerns": "Same-sex romance; synods differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship that heals loneliness.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Imagination and art valued.",
+   "concerns": "Same-sex romance; provinces differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Quiet, non-violent story.",
+   "concerns": "Same-sex romance; worldly ambition."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Developing talents.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teens finding acceptance through art.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligence in study.",
+   "concerns": "Same-sex romance; depiction of figures in art debated."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art evoking emotion (rasa); fated meeting.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Interconnection between two minds.",
+   "concerns": "Attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gay teen romance shown sincerely.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Creativity and human connection.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Dedication to craft.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Education valued.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligence.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Shared spiritual vision in art.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Free search for meaning; inclusive love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Creative self-expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity in craft.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest effort in work.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Arts as service and worship.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Artist's role praised.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Individual creative will.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligent study.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Learning and art.",
+   "concerns": "Same-sex romance; congregations vary."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and creativity.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Quiet artistic drama; no honor contests noted."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Takashiro leaves home to pursue his artistic search."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Family drama and illegitimacy (MU) against chosen bond."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Two peers as artistic equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular art-school world."
+   },
+   "Survival vs self-expression": {
+    "pos": 9,
+    "evidence": "Art as expression of the soul is the core idea."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Protestant Europe"
+  ],
+  "japan": "The move to a Tokyo art school and family drama over an illegitimate child reflect Japanese school and household settings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; publisher blurb asks the question rather than preaching (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The idea of a kindred spirit is carried by the twin paintings premise."
+ },
+ "winners_losers": "Takashiro and Sakae find each other; sympathy rests with following one's heart.",
+ "to_verify": [
+  "Batch lists Mikiyo Tsuda and Eiki Eiki; MU lists Eiki Eiki and Zaou Taishi; confirm same creators",
+  "Exact ages and any sexual content",
+  "Family drama details (illegitimate child, runaway)"
+ ]
+}

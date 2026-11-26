@@ -1,0 +1,94 @@
+{
+ "anilist_id": 41243,
+ "title": "In This Corner of the World",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/41243",
+  "https://api.mangaupdates.com/v1/series/19411700327",
+  "https://www.graphiclibrary.org/reviews/in-this-corner-of-the-world-vol-1-by-fumiyo-kouno"
+ ],
+ "premise": "In 1940s Hiroshima Prefecture, Suzu, a young countrywoman who loves to draw, marries and joins her husband's family in the naval shipbuilding city of Kure, running the household as the war closes in (Seven Seas blurb; Graphic Library). As her world collapses around her she struggles to keep hold of happiness (blurb). Three volumes, complete; award-winning and adapted to an animated film (MU).",
+ "life_message": "Ordinary daily life, family and small joys are worth holding onto even when war destroys the world around you.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Wartime 'horrors of war' (blurb); MU War, Violence, Amputee, Death of Loved Ones; AniList Disability (spoiler). Calm tone (Graphic Library)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "World War II home front and loss (blurb; AniList Tragedy 88)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Arranged marriage and married life (MU); MU Infertility. Explicitness not noted."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Grief and recovery (AniList Rehabilitation spoiler; MU Death of Loved Ones)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Film tie-in editions."}
+ ],
+ "lenses": [
+  {"lens": "Stoicism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 4, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Endurance in everyday life; family under war; quiet anti-war humanism",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 8},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 5, "authority": 5, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Discuss", "aligns": "Suzu's faithful marriage and care for family amid suffering.", "concerns": "War deaths and injury."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Discuss", "aligns": "Patient endurance; mourning the dead.", "concerns": "War loss."},
+  {"frame": "Baptist", "grade": "A", "weight": "Discuss", "aligns": "Marriage, family and perseverance.", "concerns": "Wartime violence; no faith framing."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Discuss", "aligns": "Hope through hardship.", "concerns": "War deaths."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Perseverance.", "concerns": "Grief without spiritual hope stated."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Discuss", "aligns": "Vocation in the home; truthful picture of war.", "concerns": "Loss."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Discuss", "aligns": "Daily vocation of a wife and household.", "concerns": "War."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Discuss", "aligns": "Peace emphasis; care for neighbors.", "concerns": "Injury."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Discuss", "aligns": "Dignity of ordinary life.", "concerns": "War."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Discuss", "aligns": "Simple life; war's cost on civilians.", "concerns": "Militarized city setting."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Discuss", "aligns": "Family resilience and thrift.", "concerns": "War."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Civilian cost of war; peace.", "concerns": "Arranged-marriage gender roles."},
+  {"frame": "Muslim", "grade": "A", "weight": "Discuss", "aligns": "Patience (sabr), family duty, modesty.", "concerns": "War deaths."},
+  {"frame": "Hindu", "grade": "A", "weight": "Discuss", "aligns": "Grihastha dharma of the householder.", "concerns": "Loss."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Discuss", "aligns": "Impermanence and mindful daily life.", "concerns": "Killing in war."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Anti-war civilian perspective; disability (tags).", "concerns": "Traditional gender roles in arranged marriage."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Human-scale history; resilience.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Discuss", "aligns": "Duty, family and endurance.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Discuss", "aligns": "Simplicity; noncombatant view of war.", "concerns": "Death."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Shows war's futility.", "concerns": "Nationalist wartime setting."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Holding to good amid loss.", "concerns": "Injury and death imagery."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Worth of ordinary lives; peace.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Seasons of daily life.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Discuss", "aligns": "Household continuity and ancestors.", "concerns": "Death (kegare)."},
+  {"frame": "Sikh", "grade": "A", "weight": "Discuss", "aligns": "Endurance and acceptance (hukam).", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Discuss", "aligns": "Peace and unity.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Survival of family.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Life lived fully now.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "A", "weight": "Discuss", "aligns": "Family and home as sacred space.", "concerns": "War."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Discuss", "aligns": "Memory of war's victims.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Peace and human dignity.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Quiet endurance, no personal vengeance (Graphic Library)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Wartime discipline and household duty (blurb)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Suzu joins and serves her husband's family (blurb)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Arranged marriage; in-law household (MU)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Traditional 1940s family customs."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Poverty and wartime survival (MU Poverty, War)."}
+  },
+  "closest": ["South and Southeast Asia", "Orthodox Europe", "First Nation"],
+  "japan": "Depicts the wartime Japanese ie household, where a bride joins her husband's family, and values of gaman (endurance)."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Calm slice-of-life tone, unlike frenetic war stories (Graphic Library).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The war's cost is shown through daily life rather than stated."
+ },
+ "winners_losers": "Suzu and ordinary families get the sympathy; war itself is the loser.",
+ "to_verify": [
+  "Specific losses and injuries (AniList and MU spoiler tags) not described in the review opened.",
+  "Two ANN review links failed to load.",
+  "Graphic Library rates vol. 1 Grades 9-12.",
+  "No Wikipedia cache available in this run."
+ ]
+}

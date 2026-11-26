@@ -1,0 +1,87 @@
+{
+ "anilist_id": 147329,
+ "title": "Marriage Toxin",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": ["https://en.wikipedia.org/wiki/Marriage_Toxin", "https://anilist.co/manga/147329", "https://www.mangaupdates.com/series/wgizz2o"],
+ "premise": "Hikaru Gero, heir to a clan of poison assassins, must produce an heir or his grandmother will force his little sister Akari into marriage. He enlists his would-be target, Mei Kinosaki, a male marriage swindler who poses as a woman, to coach him in dating. Their matchmaking jobs keep colliding with rival assassin clans, mixing romantic comedy and superpowered fights.",
+ "life_message": "It holds up protecting family and learning to love openly, even for someone raised to kill.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Neutral", "note": "Assassinations, poison and hypnosis attacks, clan-master battles, a planned child sacrifice (Wikipedia; AniList Assassins, Crime)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Life-or-death fights broken up by comedy (Wikipedia)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Dating and matchmaking comedy; Akari has a girlfriend (Wikipedia; MU Lesbian Character/s; MangaDex safe)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Mild to moderate (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Poisons as weapons, not recreation."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "A suicide attempt in one arc (Wikipedia); capped (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Con artistry and deception in dating played for comedy (Wikipedia)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Family duty versus personal choice; romance-coaching comedy; assassin action",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 7},
+ "foundations": {"care": 7, "loyalty": 8, "fairness": 6, "sanctity": 3, "authority": 5, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Hikaru seeks marriage to protect his sister; marriage treated as worth pursuing.", "concerns": "Assassin violence; a con artist's deceit; Akari's same-sex relationship."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Self-sacrifice for family.", "concerns": "Killing as profession; cross-dressing swindler."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Brotherly protection and seeking a spouse.", "concerns": "Violence, deceit and same-sex relationship."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "A 'moral assassin' who chooses love over clan coercion.", "concerns": "Violence and deception."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Protecting the vulnerable sister.", "concerns": "Hypnosis powers and violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Marriage as covenant sought sincerely.", "concerns": "Murder-for-hire as backdrop; lying."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Family vocation reframed by love.", "concerns": "Violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Care for others' happiness in matchmaking.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Comedy with a moral core about family.", "concerns": "Violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Heroic killing and combat."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Marriage and family central to the plot.", "concerns": "Violence and same-sex relationship."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Resists forced marriage; LGBTQ-inclusive cast.", "concerns": "Violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Seeking lawful marriage; protecting family honor.", "concerns": "Cross-dressing, deceit and same-sex relationship."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Family duty and marriage.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Compassion for sister and targets.", "concerns": "Killing and deceit."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Challenges coerced marriage; queer characters treated warmly.", "concerns": "Violence; gender-presentation gags to discuss."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Choice over inherited obligation.", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Family duty, protecting a sister, pursuing marriage.", "concerns": "Gender-bending lead and same-sex relationship."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Marriage valued.", "concerns": "Violence and deceit."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Seeking marriage honestly at times.", "concerns": "Violence and same-sex relationship."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcoming a deadly heritage.", "concerns": "Poison and death."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inclusive cast and freedom to choose a partner.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal autonomy against family coercion.", "concerns": "Harm in fights."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Household continuity and heirship.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the vulnerable.", "concerns": "Deception and killing for hire."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Marriage and unity.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Second dynamic: family and children.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Defying arbitrary clan authority.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Marriage and family continuity.", "concerns": "Cross-dressing, same-sex relationship and violence."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Family responsibility and choosing love.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Autonomy and inclusion.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Clan rivalries are settled in personal duels between masters."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hikaru pushes back on his grandmother's rules to choose for himself."},
+   "Civic vs kin": {"pos": 8, "evidence": "Clan succession and his sister's fate drive everything."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Clan heads and masters hold rank; heirs are expected to obey."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Ancient assassin clans meet modern dating apps and matchmaking."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Personal love and identity matter more as the series goes on."}
+  },
+  "closest": ["El Norte", "Latin America", "Tidewater"],
+  "japan": "Hereditary clans, pressure to produce an heir and omiai-style matchmaking reflect Japanese ie (household) and marriage customs."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review consulted on delivery; summaries show the message carried by plot and character choices (to verify).",
+  "personified": [
+   {"character": "Clan elders / grandmother", "ideology": "forced lineage duty over personal choice", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The sources say little about delivery, so the default reading is that the message rides on the story's events."
+ },
+ "winners_losers": "Hikaru, Kinosaki and those who choose love freely win; coercive clan elders lose. Sympathy goes to chosen relationships over forced duty.",
+ "to_verify": ["Suicide-attempt arc and how it is handled", "Violence level in later arcs", "Viz age rating"]
+}

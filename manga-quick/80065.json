@@ -1,0 +1,86 @@
+{
+ "anilist_id": 80065,
+ "title": "The Quiet Life of a Professor and His Butler",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/80065", "https://api.mangaupdates.com/v1/series/65535966007"],
+ "premise": "University professor Sogo Shiba, who hates being managed, inherits his late brother's house along with a young, serious butler named Haruki (Renta! blurb via AniList; MangaUpdates). Annoyed at first, Shiba is moved when he glimpses Haruki smiling, and a restrained romance grows. Two volumes with a warm, slice-of-life tone, including side stories.",
+ "life_message": "Grief and stubborn independence can give way to quiet companionship (to verify).",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Brother's death in backstory (both sources)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Adult same-sex romance; MangaDex erotica; MangaUpdates Yaoi genre with restrained-love and virgin categories (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grief; insecurity (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Blackmail and stolen kiss categories (MangaUpdates); context unclear."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Master and servant; grief and inheritance; restrained love",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 6, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Haruki's faithful service and Shiba honoring his brother's will.", "concerns": "Master-servant same-sex romance; power imbalance."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility of service.", "concerns": "Same-sex romance; passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Diligent service.", "concerns": "Gay romance; erotica rating."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Talking point on grief and service.", "concerns": "Same-sex romance with sexual content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Duty within a household.", "concerns": "Same-sex romance."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Vocation of a butler and a teacher.", "concerns": "Synod differences."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Minor", "aligns": "Faithful service.", "concerns": "Traditional bodies object."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle household drama.", "concerns": "Power imbalance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Quiet life.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Honoring a dead brother.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Gay romance with tenderness.", "concerns": "Employer-employee power."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty and trust.", "concerns": "Same-sex relations."},
+  {"frame": "Hindu", "grade": "C", "weight": "Minor", "aligns": "Duty to family and household.", "concerns": "Views vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Grief softened by gentle presence.", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Bisexual and gay characters.", "concerns": "Master-servant consent dynamics; blackmail."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Human connection after loss.", "concerns": "Power imbalance."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Household order and loyalty.", "concerns": "Same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Simplicity.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Homosexual romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Quiet, harmonious life.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "LGBTQ love affirmed.", "concerns": "Power imbalance."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love between adults.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Continuity of an inherited household.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Honest service.", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service as worship.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication across roles.", "concerns": "Blackmail category."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Shiba's refusal to be managed.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honoring the dead brother's wishes.", "concerns": "Same-sex relations."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Chesed in household life.", "concerns": "Explicitness to check."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive, gentle romance.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflicts are about control, not honor."},
+   "Order vs freedom": {"pos": 6, "evidence": "Shiba hates being managed and restricted (MangaUpdates)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Inheritance from a brother shapes the household."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Master-servant relationship (both sources)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Old-style household in modern life."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Personal freedom and feeling valued."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "Yankeedom"],
+  "japan": "A butler fantasy draws on Japanese interest in European service culture (shitsuji), while reserve in showing emotion reflects Japanese norms."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "MangaUpdates tags warm ambience and restrained love; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Feelings are shown in small gestures."
+ },
+ "winners_losers": "Shiba and Haruki come together (to verify); no one is cast as a villain.",
+ "to_verify": [
+  "Haruki's age and how the master-servant power gap is handled.",
+  "Context of blackmail category; explicitness (MangaDex erotica)."
+ ]
+}

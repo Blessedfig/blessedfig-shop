@@ -1,0 +1,90 @@
+{
+ "anilist_id": 53689,
+ "title": "Inari Konkon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/53689",
+  "https://api.mangaupdates.com/v1/series/47161831288"
+ ],
+ "premise": "In Fushimi, Kyoto, junior-high student Inari has a crush on her classmate Tanbabashi. After she rescues a small fox spirit, the fox goddess Uka-no-Mitama-no-kami grants her a wish, and Inari gains the power to change her shape, which complicates her love life and risks trouble for the goddess with Amaterasu (AniList summary; BookWalker blurb via MU).",
+ "life_message": "Being yourself, with friends who care for you, beats trying to become someone else to be loved.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Gentle comedy-drama."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Middle-school crushes; MU GL Subtext, Girls' Love as a Subplot."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Embarrassment and self-doubt (AniList)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adapted to anime (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Pantheist/New Age", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Shinto gods in daily life; first love; accepting oneself",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 6, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Kindness to a small creature rewarded; humility.", "concerns": "Shinto goddesses shown as real and benevolent."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Friendship and care.", "concerns": "Other gods portrayed as true."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Kindness and honesty.", "concerns": "Worship-adjacent relationship with Uka-no-Mitama and Amaterasu."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Accepting oneself.", "concerns": "Other religions' gods as real."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Spirits and goddesses granting power."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Folly of wishing to be someone else.", "concerns": "Idolatry concerns."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Gentle school story.", "concerns": "Gods portrayed approvingly."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Helpfulness (MU Helpful Protagonist).", "concerns": "Other gods."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Folk-tale charm.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple kindness.", "concerns": "Pagan deities."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family (protective brother) and friendship.", "concerns": "Magic and gods."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Respectful portrayal of another faith; GL side story.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Kindness to animals.", "concerns": "Shirk: multiple deities shown as real."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Deities active and kind in daily life.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion to a fox spirit; letting go of envy.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Girls' friendships and GL subplot.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Self-acceptance.", "concerns": "Supernatural as fiction only."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Tradition, shrine culture, family.", "concerns": "GL subplot (to verify)."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Spirits and gods."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Kindness.", "concerns": "Other gods and magic central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Goodness rewarded.", "concerns": "Magic."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Respect for a living religion.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "S", "weight": "Minor", "aligns": "Goddess and nature spirits honored.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Fushimi Inari's goddess and Amaterasu portrayed with affection (MU Shinto).", "concerns": "Check that kami are shown respectfully throughout."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Humility and service.", "concerns": "Magic and multiple gods."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Respect for other faiths.", "concerns": "Magic."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-knowledge.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Being true to oneself.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Kindness to animals (tza'ar ba'alei chayim).", "concerns": "Avodah zarah portrayed approvingly."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Idolatry theme."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Interfaith curiosity.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Inari apologizes for humiliating Tanbabashi (AniList)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Divine rules; goddess risks trouble with Amaterasu (AniList)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Protective brother and friends (MU)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Hierarchy of kami with Amaterasu above (AniList)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Shrine gods active in Kyoto life (MU Shinto, Japanese Folklore)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Shapeshifting to be someone else, then self-acceptance."}
+  },
+  "closest": ["Latin America", "First Nation", "Puritan"],
+  "japan": "Set at Fushimi Inari in Kyoto, it draws on Shinto belief in Inari's fox messengers and the sun goddess Amaterasu, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; sources say nothing on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe a gentle romantic comedy."
+ },
+ "winners_losers": "Inari and the goddess who befriends her are sympathetic; outcome of the romance not confirmed.",
+ "to_verify": [
+  "No review opened; how the romance resolves and the GL subplot (MU) to check.",
+  "Kadokawa BookWalker digital-only English edition (MU)."
+ ]
+}

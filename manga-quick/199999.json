@@ -1,0 +1,388 @@
+{
+ "anilist_id": 199999,
+ "title": "WITCHRIV",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/199999",
+  "https://www.mangaupdates.com/series/7q0clgw",
+  "https://api.mangadex.org/manga?title=WITCHRIV",
+  "https://www.anitrendz.com/news/2025/11/02/brief-manga-thoughts-witchriv"
+ ],
+ "premise": "Nona, a mage hiding among humans, uses magic to fix her friend's glasses and draws the attention of the Bureau of Magic Surveillance, which persecutes mages. After the Bureau kills her friend's family she is jailed with another mage, Mira-Mira, and the story turns to escape and resistance.",
+ "life_message": "Refusing to submit to unjust persecution, and protecting those who share your fate, is the path to dignity.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "The Bureau kills Nona's friend and family; comb magic slices people in large panels (AniTrendz; AniList Gore, MU Blood and Gore)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Persecution, imprisonment and threats; AniList Tragedy and Dystopian."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Mira-Mira has given up resisting before Nona's arrival; grief over a murdered friend (AniTrendz)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Nona threatens a guard's eye with a needle during escape."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Critical theory",
+   "strength": 6,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Persecuted minority resisting a surveillance state; prejudice and class power",
+ "axes": {
+  "economic": 4,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 8,
+  "sanctity": 2,
+  "authority": 1,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending persons persecuted for what they are; unjust authority may be resisted.",
+   "concerns": "Witches and magic as sympathetic heroes; violent killing."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion for the imprisoned and the persecuted.",
+   "concerns": "Sorcery positively framed; violent imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Standing against injustice and protecting a friend.",
+   "concerns": "Witches as heroes conflicts with Deuteronomy 18 caution; gore."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage to resist oppressors who kill innocents.",
+   "concerns": "Magic-users as protagonists; graphic violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defense of the oppressed resonates with justice concern.",
+   "concerns": "Witchcraft framed as innocent and good; spiritual-warfare caution."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful depiction of state cruelty and fallen authority.",
+   "concerns": "Witchcraft celebrated; violence lingered on."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love for neighbor under persecution.",
+   "concerns": "Magic and sorcery heroes; violent panels."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Social holiness: challenging unjust systems.",
+   "concerns": "Witches and violence in heroic framing."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral clarity against persecution; imaginative fantasy.",
+   "concerns": "Violence and gore in a few panels."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Persecuted minority echoes Anabaptist martyr memory.",
+   "concerns": "Violent resistance and threats as the heroic path."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Freedom of conscience; resisting tyranny.",
+   "concerns": "Magic central; violent content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Strong critique of prejudice and state persecution.",
+   "concerns": "Violence; one-dimensional villains may flatten nuance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice for the oppressed is a Qur'anic value.",
+   "concerns": "Magic shown positively; sihr concerns."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dharma of protecting the innocent from adharma.",
+   "concerns": "Bloodshed; little non-harm."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion for imprisoned beings; suffering of persecution.",
+   "concerns": "Violent retaliation and threats feed hatred."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Anti-discrimination themes and resistance to oppression.",
+   "concerns": "Gore; enemies drawn as clear villains."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critique of dogmatic state surveillance and prejudice.",
+   "concerns": "Magic is fiction; violence moderately graphic."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage, loyalty to friends.",
+   "concerns": "Anti-authority message; law enforcement as villains."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Courage under persecution recalls end-time endurance themes.",
+   "concerns": "Witches and magic as heroes; violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful endurance under persecution.",
+   "concerns": "Magic and spiritism content widely avoided; violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope that good overcomes unjust power.",
+   "concerns": "Fear, imprisonment and killing as dwelled-on images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inherent worth of every person, against prejudice.",
+   "concerns": "Violent scenes."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Witches as sympathetic victims of persecution, not evil.",
+   "concerns": "Magic used to harm in self-defense."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity and loyalty to a friend.",
+   "concerns": "Blood and death imagery."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed is righteous.",
+   "concerns": "Vengeful violence; magic as power."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity and opposition to prejudice of any kind.",
+   "concerns": "Violent conflict instead of consultation."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Freedom from oppressive control.",
+   "concerns": "Violence glorified in escape scenes."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebellion against arbitrary authority admired.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Persecution of a minority resonates with Jewish history.",
+   "concerns": "Sorcery as heroic; gore."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Standing against persecution and injustice.",
+   "concerns": "Magic and violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Tikkun olam against state cruelty and prejudice.",
+   "concerns": "Violence; villain nuance lacking."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Nona answers state violence with defiance and threats rather than appeals."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Story sides with escape from state surveillance and control."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Loyalty to her friend and fellow mages over society at large."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Bureau hierarchy is the villain; solidarity among prisoners."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Magic is innate, neither tradition nor reason highlighted."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Fight for survival and freedom from persecution."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "El Norte",
+   "Greater Appalachia"
+  ],
+  "japan": "A Shonen Jump+ dark fantasy following the Japanese web-manga witch-persecution trend; the setting is European-styled rather than Japanese."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 6,
+  "evidence": "Reviewer calls the persecution theme blunt and predictable and the Bureau one-dimensional (AniTrendz).",
+  "personified": [
+   {
+    "character": "Nona",
+    "ideology": "resistance to persecution and loyalty",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Mira-Mira",
+    "ideology": "submission to oppressors",
+    "role": "Foil",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Bureau of Magic Surveillance",
+    "ideology": "magic is dangerous; only obedient humans deserve protection",
+    "role": "Villain",
+    "treatment": "Strawman"
+   }
+  ],
+  "opposing_views": "Strawman",
+  "note": "The anti-prejudice message is stated plainly, and its opponents are drawn as clear villains whose case collapses (one review)."
+ },
+ "winners_losers": "Persecuted mages win sympathy; the Bureau and its 'magic is dangerous' argument are shown as hypocritical.",
+ "to_verify": [
+  "Strawman call rests on one review of early chapters; later arcs may add nuance.",
+  "Viz print edition listed for 2027; English currently on Manga Plus.",
+  "Friend's name (Lovi in blurb) and later plot not confirmed."
+ ]
+}

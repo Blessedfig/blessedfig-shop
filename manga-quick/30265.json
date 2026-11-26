@@ -1,0 +1,89 @@
+{
+ "anilist_id": 30265,
+ "title": "Invisible Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/30265", "https://api.mangaupdates.com/v1/series/35784933274"],
+ "premise": "A boys' love anthology. In the main story Inori always takes his love troubles to his patient friend Senou, until he starts seeing Senou differently. Other stories include a clothing-store worker drawn to a new coworker with a troubled past, and a reunion eight years after graduation between a man now working at a gay host club and his former school crush.",
+ "life_message": "Love is often closer than it looks, in the friend who has quietly been there all along.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "No violence tags."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Mild relationship drama."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Boys' love anthology (AniList, MU Yaoi); MU lists Drunken Intercourse; MangaDex safe; capped without a review (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "MU lists Drunken Intercourse and Smoking."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "A coworker's 'troubled past' (blurb); details unknown."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Sex while drunk appears per MU; framing unknown (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Host-club work in one story."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Friends becoming lovers; second chances at old crushes",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 1, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Senou's patient listening to Inori models attentive charity in friendship.", "concerns": "Same-sex sexual relationships and drunken sex are presented approvingly."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Quiet, faithful presence of a friend like Senou.", "concerns": "Passions and drunkenness in the stories; teaching on sexuality."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Long friendship and reunion stories show loyalty.", "concerns": "Same-sex romance, drunken sex and a gay host club setting."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Care for a coworker with a troubled past.", "concerns": "Relationships outside most churches' sexual ethic; drinking."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Compassion toward a wounded coworker.", "concerns": "Holiness standards on alcohol and sexuality conflict."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Common grace: gentle portraits of loneliness and friendship.", "concerns": "Same-sex desire and drunkenness portrayed without judgement."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbour-love in Senou's steady care; ELCA families may accept.", "concerns": "LCMS and WELS object; drunken intercourse raises consent talk."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Kindness and patience in friendship.", "concerns": "Drinking and sexual content conflict with holiness rules."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Episcopal families may read sympathetic gay love stories.", "concerns": "ACNA objects; drunken sex worth discussing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humble, steady friendship.", "concerns": "Worldly nightlife, drinking and sexual content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Loyal friendship and reunion.", "concerns": "Law of chastity and Word of Wisdom on alcohol."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Affirms gay relationships and care for the hurting.", "concerns": "Consent questions around drunken sex."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Friendship and patience are valued.", "concerns": "Alcohol, same-sex relations and sexual content."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Devoted friendship.", "concerns": "Intoxicants and same-sex romance for traditional families."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Kindness and listening as compassion.", "concerns": "Fifth precept on intoxicants; third on sexual conduct."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Varied gay characters, including a host-club worker, without stigma.", "concerns": "Drunken intercourse raises consent questions."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Empathy and honest relationships.", "concerns": "Consent when drinking."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Friendship valued.", "concerns": "Same-sex romance, nightlife and drinking."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Patience and kindness.", "concerns": "Alcohol, same-sex romance and passion-centred stories."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality and drunkenness as entertainment."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Seeing love clearly where it already exists.", "concerns": "Alcohol and sensual content guarded against."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth and dignity of gay characters in ordinary jobs.", "concerns": "Consent talk around alcohol."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Love between adults treated as natural.", "concerns": "Little concern."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere feelings slowly surfacing.", "concerns": "Little doctrinal concern."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Honest work and friendship.", "concerns": "Alcohol and relationships outside marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Truthful friendship.", "concerns": "Alcohol and chastity teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication between friends drives the romance.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Adults choosing their own pleasures and partners.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little beyond friendship.", "concerns": "Same-sex relations forbidden; immodesty."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment recognised by CJLS.", "concerns": "Drunken sex and sexual content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "LGBTQ inclusion.", "concerns": "Consent ethics around alcohol."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflicts are private and emotional; no face or honour stakes noted."},
+   "Order vs freedom": {"pos": 7, "evidence": "Characters follow feelings over expectations, including a host-club job."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friends, coworkers and old classmates rather than families."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Brainy kid versus jock contrast; mostly peer relationships."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern urban settings with no religious frame."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Romantic fulfilment is the focus of every story."}
+  },
+  "closest": ["New Netherland", "English-speaking", "Catholic Europe"],
+  "japan": "Reunions years after graduation and the school-club past reflect the weight Japanese culture gives to school-era relationships."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs describe gentle romance vignettes; no message statements noted (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Short stories carry their themes through situations rather than argument."
+ },
+ "winners_losers": "Patient friends and second chances are rewarded; the stories sympathise with recognising overlooked love.",
+ "to_verify": [
+  "Ages of characters in school-set stories (MU lists All-Boys School and Dormitory/ies): confirm no sexual content involves anyone under 18.",
+  "Explicitness of sexual content; capped at 3 without a review.",
+  "Context of MU Drunken Intercourse.",
+  "Juné license status (possibly lapsed).",
+  "No Wikipedia cache or reviews opened."
+ ]
+}

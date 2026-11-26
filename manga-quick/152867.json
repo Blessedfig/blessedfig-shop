@@ -1,0 +1,374 @@
+{
+ "anilist_id": 152867,
+ "title": "Haberdashery Ginmokusei",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/152867",
+  "https://api.mangaupdates.com/v1/series/38077256989",
+  "https://kuma.pub/book/haberdashery-ginmokusei",
+  "https://www.animenewsnetwork.com/encyclopedia/manga.php?id=37112"
+ ],
+ "premise": "Ubuki has inherited Ginmokusei, his grandfather's long-established Ginza haberdashery, but the shop has lost its customers (Kuma, AniList). A handsome customer named Theo tells him his service falls short, and the two begin an adult boys' love romance involving a makeover, Ubuki's low self-esteem and an ex-boyfriend (MU). Serialized in Chara 2020-2022; two volumes in English from Kuma (ANN).",
+ "life_message": "Taking pride in one's craft and oneself opens the way to love and renewal.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Breakup and relationship tension (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult same-sex romance (AniList, MU); MU tags one-night stand; explicitness unknown (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Low self-esteem and crybaby protagonist (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "One-night stand (MU) (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fashion and tailoring setting (AniList, MU)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism, Traditionalism, Secular humanism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for an inherited family trade.",
+   "concerns": "Same-sex romance; possible one-night stand."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honoring a grandfather's legacy.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Diligent work restoring a business.",
+   "concerns": "Same-sex romance; casual sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Growth in confidence and service.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Restoring what was neglected.",
+   "concerns": "Same-sex romance; sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Craft as calling.",
+   "concerns": "Teaching on sexuality."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Vocation in serving customers well.",
+   "concerns": "LCMS teaching on sexuality."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Growth through honest feedback.",
+   "concerns": "Traditional holiness standards; denominations divided."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Craft, renewal and mutual care.",
+   "concerns": "ACNA traditional view; explicitness to verify."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humble craftsmanship.",
+   "concerns": "Worldly romance, fashion focus."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Industry and family heritage.",
+   "concerns": "Proclamation on family; sexual content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Affirming queer love and self-worth.",
+   "concerns": "Casual sex if present."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Diligence in trade.",
+   "concerns": "Same-sex relationship; sexual content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dharma of an inherited trade.",
+   "concerns": "Views on same-sex love vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Right livelihood and letting go of past hurt.",
+   "concerns": "Attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Queer romance and self-esteem.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-improvement and mutual respect.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Continuity of family business.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Diligent work.",
+   "concerns": "Same-sex relationship; sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Hard work.",
+   "concerns": "Same-sex relationship; sexual content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Seeing one's true worth.",
+   "concerns": "Material focus on appearance."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Worth of every person; inclusive love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-transformation and love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Continuity of a family craft (shokunin).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest work and service.",
+   "concerns": "Same-sex union."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Work as worship; excellence in craft.",
+   "concerns": "Chastity teaching."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Raising competence and confidence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-indulgence and personal pride.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honoring a grandfather's legacy.",
+   "concerns": "Same-sex romance; sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family heritage and diligence.",
+   "concerns": "Movement teaching evolving; explicitness."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and self-worth.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Self-worth over reputation."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal romantic choice."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Family shop and new partner."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Customer-service relationship."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Old Ginza tradition meets modern romance."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Self-expression via fashion and makeover."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "A long-established Ginza shop inherited from a grandfather reflects Japanese respect for family trades and craft, shown as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found on message delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The message appears to be carried by the shop's revival and the couple's growth."
+ },
+ "winners_losers": "Ubuki and Theo grow together and the family shop is revived; no worldview is personified (to verify).",
+ "outlook": {
+  "o": "h",
+  "hope": "L"
+ },
+ "to_verify": [
+  "Whether sex scenes are shown and how explicit (MU tags a one-night stand; Chara imprint)",
+  "English age rating (none found on Kuma page)",
+  "Love interest's name: Kuma/MU say Theo, AniList says Tosei",
+  "Role of the ex-boyfriend"
+ ]
+}

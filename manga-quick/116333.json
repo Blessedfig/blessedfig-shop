@@ -1,0 +1,83 @@
+{
+"anilist_id": 116333,
+"title": "I Have a Crush at Work",
+"label": "Quick read (from summaries)",
+"confidence": "low",
+"sources": ["https://en.wikipedia.org/wiki/I_Have_a_Crush_at_Work", "https://anilist.co/manga/116333"],
+"premise": "Masugu Tateishi and Yui Mitsuya, 28-year-old coworkers at a confectionery company, look like office rivals but are secretly attracted to each other. After he confesses following a work party, they date while hiding the relationship from colleagues. The series follows them through to marriage and a daughter, Tsumugi.",
+"life_message": "A good life is a loving, playful partnership that grows into marriage and family alongside honest work.",
+"overall": 3,
+"content": [
+{"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+{"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+{"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Adult couple who 'can't keep their hands off each other' (publisher blurb); MangaDex suggestive; intimacy level to verify."},
+{"category": "Language", "score": 1, "framing": "Neutral", "note": "Office banter (to verify)."},
+{"category": "Substances", "score": 2, "framing": "Neutral", "note": "Work drinking parties; boss Shizuno is a heavy drinker (Wikipedia)."},
+{"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+{"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Keeping a relationship secret from coworkers."},
+{"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Confectionery company setting; 2025 anime."}
+],
+"lenses": [
+{"lens": "Traditionalism", "strength": 2, "stance": "Affirmed"},
+{"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"},
+{"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+],
+"dominant": "Romantic partnership leading to marriage; working adult life",
+"axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+"foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 4, "liberty": 5},
+"frames": [
+{"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Romance leads to marriage and a daughter, Tsumugi.", "concerns": "Premarital intimacy implied (to verify)."},
+{"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Marriage and family as the arc's goal.", "concerns": "Physical affection before marriage."},
+{"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Faithful monogamous couple who marry.", "concerns": "Drinking parties; premarital intimacy."},
+{"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Committed love culminating in family.", "concerns": "Premarital intimacy implied."},
+{"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Marriage valued.", "concerns": "Alcohol culture at work."},
+{"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Work and marriage as callings.", "concerns": "Little to raise."},
+{"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation at work and in married life.", "concerns": "Little to raise."},
+{"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Faithful partnership.", "concerns": "Drinking parties."},
+{"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Marriage as lifelong covenant.", "concerns": "Little to raise."},
+{"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Family formation.", "concerns": "Worldly office culture and alcohol."},
+{"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Marriage and a child.", "concerns": "Word of Wisdom: drinking culture."},
+{"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Equal partners at work and home.", "concerns": "Little to raise."},
+{"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Ends in marriage and family.", "concerns": "Dating outside marriage and alcohol."},
+{"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Marriage and family duty; Masugu's farming family.", "concerns": "Little to raise."},
+{"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Kindness between partners.", "concerns": "Alcohol."},
+{"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Mutual, consensual adult relationship.", "concerns": "Little to raise."},
+{"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Honest affection and adult responsibility.", "concerns": "Little to raise."},
+{"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Work ethic, marriage and children.", "concerns": "Little to raise."},
+{"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Marriage and family.", "concerns": "Alcohol."},
+{"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Monogamy and marriage.", "concerns": "Premarital intimacy and drinking."},
+{"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love and harmony.", "concerns": "Alcohol."},
+{"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Loving partnership.", "concerns": "Little to raise."},
+{"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Joyful adult love.", "concerns": "Little to raise."},
+{"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Household continuity; harmony at work.", "concerns": "Little to raise."},
+{"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Honest work and marriage.", "concerns": "Alcohol."},
+{"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Marriage and family.", "concerns": "Alcohol and premarital intimacy."},
+{"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Second dynamic: partnership and family.", "concerns": "Little to raise."},
+{"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Pleasure and consenting adults.", "concerns": "Little to raise."},
+{"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Marriage and children as fulfillment.", "concerns": "Physical intimacy before marriage; tzniut."},
+{"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Covenant of marriage.", "concerns": "Little to raise."},
+{"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Healthy adult relationship.", "concerns": "Little to raise."}
+],
+"folkways": {
+"dims": {
+"Dignity vs honor": {"pos": 3, "evidence": "Fake office rivalry is comic, not about honor."},
+"Order vs freedom": {"pos": 4, "evidence": "Workplace norms lead the couple to hide their relationship."},
+"Civic vs kin": {"pos": 5, "evidence": "Coworkers and later family both matter."},
+"Equality vs hierarchy": {"pos": 6, "evidence": "Office ranks and bosses shape behavior."},
+"Tradition vs secular-rational": {"pos": 6, "evidence": "Modern office life, ending in traditional marriage."},
+"Survival vs self-expression": {"pos": 5, "evidence": "Steady jobs and personal happiness balanced."}
+},
+"closest": ["Catholic Europe", "Yankeedom", "Puritan"],
+"japan": "Discretion about office romance and after-work drinking parties (nomikai) reflect Japanese corporate norms."
+},
+"delivery": {
+"style": "Subtle",
+"preachiness": 2,
+"evidence": "Office romance comedy per Kodansha summary; entry notes no real losers (to verify).",
+"personified": [],
+"opposing_views": "None shown",
+"note": "Steady love is shown through daily moments rather than stated."
+},
+"winners_losers": "The couple wins marriage and family; no real losers. Sympathy goes to playful, steady love.",
+"to_verify": ["Level of sexual content (MangaDex suggestive)", "Kodansha USA age rating"]
+}

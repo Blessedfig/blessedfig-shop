@@ -1,0 +1,90 @@
+{
+ "anilist_id": 119497,
+ "title": "Hard-Boiled Cop and Dolphin",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/119497",
+  "https://api.mangaupdates.com/v1/series/32735048998"
+ ],
+ "premise": "Tough police officer Boyle Samejima is reassigned to the remote Ogasawara Islands, where he meets new coworkers, a mysterious young girl and a talking dolphin who becomes his partner (MANGA Plus blurb). Tags point to a surreal comedy with an adoption and father-daughter thread (AniList, MangaUpdates). The Weekly Shonen Jump series ended after five volumes (MangaUpdates lists it as cancelled).",
+ "life_message": "A hard-edged man finds purpose in protecting and raising a child in an unlikely island community.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Comedic violence and guns (MangaUpdates); police action."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "AniList spoiler tags list tragedy and a cult; detail unknown (to verify)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "MangaUpdates lists a big-breasts category; likely light fan service (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described; hard-boiled parody."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Slapstick police violence."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"},
+  {"lens": "Environmentalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Surreal cop parody; adoptive fatherhood; island community",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 5, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Boyle's protective care for the mysterious girl.", "concerns": "A cult storyline (AniList spoiler tag) needs checking."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Fatherly responsibility for an orphan.", "concerns": "Cult and supernatural shapeshifting elements."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "A lawman protecting the vulnerable.", "concerns": "Light fan service; supernatural powers."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Adoption and protection themes.", "concerns": "Cult portrayal unknown (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Courage to defend a child.", "concerns": "Supernatural powers and a cult plot."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Police as lawful protectors.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation of policing and fatherhood together.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Care for a child in need.", "concerns": "Slapstick violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Whimsy with a heart of duty.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Small-community life on remote islands.", "concerns": "Guns and police force played for laughs."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Father-daughter bond.", "concerns": "Mild fan service."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Chosen family and care for nature.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Guardianship of an orphan.", "concerns": "Immodest character designs (MangaUpdates)."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Bond with animals; protective duty.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Kinship with a dolphin and island life.", "concerns": "Comedic violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Non-traditional family formed by care.", "concerns": "Fan-service character designs."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Responsibility and empathy.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Tough cop as dutiful protector and father.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Simple island life and family care.", "concerns": "Supernatural shapeshifting; cult plot."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Protecting a child.", "concerns": "Supernatural powers and violence."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love overcoming a hard exterior.", "concerns": "Tragedy elements (to verify)."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of every creature, even a dolphin partner.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Bond with sea and animal spirits.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Island and ocean as living presences.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Defending the vulnerable.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Service and community.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Family and all-life dynamics.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individualist hard-boiled hero.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Caring for the orphan.", "concerns": "Immodest designs; time-wasting slapstick."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Protecting a child.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Compassion and responsibility.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Hard-boiled cop persona parodied (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Maverick cop in a remote outpost."},
+   "Civic vs kin": {"pos": 6, "evidence": "Adoptive father-daughter bond (tags)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Small island police team."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Supernatural elements in a modern setting."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Comedic island life; no strong pull."}
+  },
+  "closest": ["El Norte", "Catholic Europe", "The Far West"],
+  "japan": "Uses the remote Ogasawara Islands and the Weekly Shonen Jump surreal-gag tradition as its backdrop."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes of fatherhood appear to come through the comedy plot (to verify)."
+ },
+ "winners_losers": "Boyle, the girl and the dolphin are the sympathetic side; antagonists are not described in sources.",
+ "to_verify": [
+  "What the cult and tragedy spoiler tags involve and how they are framed.",
+  "Level of fan service (MangaUpdates category only).",
+  "No review or Wikipedia cache available."
+ ]
+}

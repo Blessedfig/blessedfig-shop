@@ -1,0 +1,92 @@
+{
+ "anilist_id": 91301,
+ "title": "Tokyo Tarareba Girls",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/91301",
+  "https://api.mangaupdates.com/v1/series/17400044570",
+  "https://animenewsnetwork.com/feature/2018-06-01/the-spring-2018-manga-guide/tokyo-tarareba-girls/.132356"
+ ],
+ "premise": "Rinko, a 33-year-old Tokyo screenwriter whose career has stalled, spends her nights drinking with her two single best friends and vows to marry before the 2020 Olympics (Kodansha blurb via AniList and MangaUpdates). A blunt young model, Key, who drinks at the same bar, criticizes her writing and becomes a love interest (ANN Manga Guide). Akiko Higashimura's josei satire won an Eisner Award for its US edition (AniList note).",
+ "life_message": "Stop living in 'what ifs' and face your own life honestly, married or not.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional drama only."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Shown with consequences", "note": "Adult dating; MangaUpdates lists one-night stands, affairs, drunken intercourse (database only, capped; to verify)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Key is 'rude at every turn' (ANN); profanity level not quoted."},
+  {"category": "Substances", "score": 5, "framing": "Shown with consequences", "note": "Drinking parties are central, called unproductive 'commiseration circles' (ANN); Alcohol, Bar tags (MangaUpdates, AniList)."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "A 'very raw look' at insecurities; reviewers find it depressing (ANN); Low Self-Esteem, Depression (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Heavy drinking and affairs (MangaUpdates) shown as part of the women's rut."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Urban Tokyo lifestyle."}
+ ],
+ "lenses": [
+  {"lens": "Feminism", "strength": 5, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Satire of marriage pressure on women; friendship; adult regret",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Takes the longing for lasting marriage seriously; friendship among Rinko's trio.", "concerns": "Affairs, one-night stands and heavy drinking."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Shows emptiness of passions pursued without direction.", "concerns": "Drunkenness and casual sex."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Honest about regret and self-deception.", "concerns": "Alcohol central; extramarital sex."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Search for meaning beyond career.", "concerns": "Drinking and adultery tags."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Longing for change.", "concerns": "Worldly nightlife and sex."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Truthful portrait of idols of marriage and success.", "concerns": "Drunkenness (WLC Q139); affairs."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Vocation as screenwriter and friendship.", "concerns": "Adultery."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Friends supporting each other.", "concerns": "Alcohol shown constantly."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary satire of social expectations.", "concerns": "Sexual content and drinking."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Critique of worldly vanity.", "concerns": "Drinking and casual sex."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Desire for marriage and family.", "concerns": "Alcohol; chastity issues."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Questions sexist pressure on single women.", "concerns": "Key's misogyny (ANN)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Marriage valued.", "concerns": "Alcohol and zina tags."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Grihastha stage sought.", "concerns": "Drinking and affairs."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Craving for 'what if' shown as suffering.", "concerns": "Intoxicants (fifth precept)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Satirizes marriage deadlines for women; author's afterword praised (ANN).", "concerns": "Key's rudeness may read as romanticized."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Self-honesty and taking responsibility.", "concerns": "Drinking."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Marriage seen as a real good worth seeking.", "concerns": "Promiscuity and drinking."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Shows unhealthy habits as a rut.", "concerns": "Alcohol central."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Marriage valued.", "concerns": "Drunkenness and immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Escaping limiting thoughts.", "concerns": "Alcohol."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Self-worth beyond marital status.", "concerns": "Drinking."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility for choices.", "concerns": "Affairs hurting others."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity with oneself.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work as a writer.", "concerns": "Alcohol and adultery."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Marriage as goal.", "concerns": "Alcohol and unchastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Taking responsibility for one's life.", "concerns": "Alcohol."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Living for oneself, not convention.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Marriage as a central good.", "concerns": "Immodesty and adultery."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Desire for covenantal partnership.", "concerns": "Casual sex."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Autonomy and growth.", "concerns": "Drinking."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Wounded pride but no honor conflicts (ANN)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Independent women choosing their paths, under social pressure (ANN)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Friends, not family, are the support network (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Workplace with younger assistant and model; age status matters (ANN)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Questions the expectation to marry in one's twenties (ANN)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Career and self-fulfilment versus security of marriage (blurb)."}
+  },
+  "closest": ["The Midlands", "Yankeedom", "Catholic Europe"],
+  "japan": "Satirizes the Japanese expectation that women marry in their twenties, which ANN reviewers note as context."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Key bluntly lectures Rinko; reviewers call it a 'rude awakening' (ANN); not called preachy.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "The message is voiced openly through harsh dialogue and the author's afterword, alongside comedy."
+ },
+ "winners_losers": "Sympathy lies with Rinko and her friends as they face their habits; Key is a blunt foil whom some reviewers find misogynist.",
+ "to_verify": [
+  "How sexual content (affairs, one-night stands) is depicted; database tags only.",
+  "Whether Key's lectures are framed as correct or critiqued in later volumes.",
+  "ANN guide covers volume 1 only."
+ ]
+}

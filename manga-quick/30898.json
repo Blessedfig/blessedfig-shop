@@ -1,0 +1,370 @@
+{
+ "anilist_id": 30898,
+ "title": "Say Please",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30898",
+  "https://api.mangaupdates.com/v1/series/75281682496",
+  "https://www.otakunews.com/UK/Manga/180/say-please"
+ ],
+ "premise": "Sakura, a reserved teacher at a Catholic girls' school who keeps his sexuality secret, pays Ryoichi, a young host at a male brothel, for a night; the paid arrangement continues and slowly turns into real feeling. A bonus story follows Ryu, a youth weighed down by guilt and gossip, who meets an American named Stefan. Part of the author's linked Rules series; the English edition is rated 18+.",
+ "life_message": "Two lonely, damaged people can find genuine love even when it begins as a transaction.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU lists Abuse and Rape; the review does not describe them, so capped (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Review notes 'pain and angst' and Ryu's dark past."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Sex scenes described as 'intense' though 'not overwhelmingly erotic' (Otaku News); 18+ edition; MU Yaoi."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not documented; adult setting (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Loneliness, secrecy and Ryu's guilt over his past (review)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Paid sex with a brothel host is the premise (review, AniList and MU blurbs); framed as a path to love."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Money-for-companionship theme rather than products."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Love emerging from a paid arrangement; loneliness and hidden identity",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 7,
+  "community": 3
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 3,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 1,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Sakura's integrity as a teacher is praised by the reviewer; loneliness is treated with compassion.",
+   "concerns": "Prostitution and same-sex sex shown sympathetically; a Catholic-school teacher in the setting heightens the conflict."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "The two men's longing for real connection is portrayed sincerely.",
+   "concerns": "Buying sex and explicit scenes inflame the passions the tradition warns against."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honesty about feelings eventually replaces the transaction.",
+   "concerns": "Prostitution, explicit same-sex content and 18+ rating conflict with purity teaching."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Shows hollow transactions failing to satisfy the heart's need for love.",
+   "concerns": "Commercial sex and same-sex intimacy are presented as the road to fulfilment."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Longing for genuine love beneath a damaged life is visible.",
+   "concerns": "Brothel setting and explicit sexual content clash with holiness standards."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Truthful portrait of loneliness and the emptiness of paid intimacy.",
+   "concerns": "WLC Q139 lists lascivious books and pictures; the story treats prostitution sympathetically."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion for broken people fits a gospel-centred reading.",
+   "concerns": "Sixth-commandment concerns over paid sex and explicit scenes, even for ELCA families."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Healing through love echoes grace meeting people where they are.",
+   "concerns": "Prostitution and explicit content run against the General Rules on diversions."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Episcopal readers may note dignity restored through mutual love.",
+   "concerns": "Commercial sex and explicit scenes would trouble most families across wings."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little beyond the desire for honest relationship.",
+   "concerns": "Brothel, explicit sex and worldliness conflict with separation and modesty."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Sakura's integrity at work is a positive trait.",
+   "concerns": "Law of chastity and For the Strength of Youth counsel against such content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Affirms gay love and compassion for a marginalised sex worker.",
+   "concerns": "Power imbalance of a paid arrangement and possible abuse themes need discussion."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Search for sincere connection is human and relatable.",
+   "concerns": "Zina, prostitution and same-sex relations conflict with core teaching; haya concerns."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love transforming a transactional bond hints at devotion beyond desire.",
+   "concerns": "Kama pursued outside dharma and explicit sexual content trouble many families."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Shows craving and loneliness driving suffering, eased by real care.",
+   "concerns": "Third precept: paid sex risks exploitative sexual misconduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gay characters given depth; sex work portrayed without contempt.",
+   "concerns": "Romanticised client-worker power imbalance; MU Abuse and Rape tags raise consent questions."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Empathy for two lonely adults finding honest connection.",
+   "concerns": "Consent and coercion questions around the paid arrangement and abuse themes."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Sakura's diligence at work is respected.",
+   "concerns": "Glamorised commercial sex and a teacher's secret life undermine traditional norms."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little beyond a longing for real love.",
+   "concerns": "Content that excites the passions; prostitution and same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to note.",
+   "concerns": "Sexual immorality and pornographic content are firmly rejected."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Characters move from fear and loneliness toward love.",
+   "concerns": "Purity is expected; dwelling on sensual content is guarded against."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Inherent worth of a sex worker and a closeted gay man.",
+   "concerns": "Exploitation and consent questions raised by the arrangement and abuse tags."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sexuality between adults is not shamed.",
+   "concerns": "Exploitation in a brothel setting strains the harm-none principle."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity (makoto) replaces pretence as the bond deepens.",
+   "concerns": "No codified sexual ethic, but the secretive life sits uneasily with purity ideals."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honest work and integrity in Sakura's teaching life.",
+   "concerns": "Kaam (lust) and sex outside marriage are central; adultery-type conduct is a kurahit concern."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Truthfulness eventually wins over a hidden life.",
+   "concerns": "Chaste and holy life teaching conflicts with prostitution and explicit content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication slowly turns a transaction into affinity.",
+   "concerns": "Paid sex conflicts with faithfulness to one's partner precept."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adults pursuing desire and finding love on their own terms.",
+   "concerns": "Any non-consensual elements (MU Rape tag) breach the Eleven Rules."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little beyond compassion for loneliness.",
+   "concerns": "Prostitution, same-sex relations and immodest images conflict with halakha and tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Same-sex love can be recognised under CJLS 2006.",
+   "concerns": "Degrading sexual content and commercial sex conflict with sexual ethics."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Inclusion of gay characters and dignity for a sex worker.",
+   "concerns": "Consent and exploitation ethics around the arrangement."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Sakura guards his secret to protect his reputation as a teacher (review)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Characters pursue private desire outside social rules about sex and work."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "No family focus documented; relationship is a private bond."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Client-worker imbalance gives way to a more equal relationship."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Religious school is setting only; the story's values are personal and secular."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Love and emotional fulfilment over security; Ryoichi's work hints at economic need."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "English-speaking"
+  ],
+  "japan": "The male host-club and brothel setting reflects Japanese nightlife industries; Sakura's secrecy reflects pressure to keep private life separate from public role."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Otaku News reviews it as an angsty character romance and mentions no moralising.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story presents its characters' choices with sympathy rather than argument."
+ },
+ "winners_losers": "Sakura and Ryoichi move from transaction to love; the story sympathises with lonely people finding connection outside social rules.",
+ "to_verify": [
+  "Ages of Ryoichi and of Ryu in the bonus story: the review calls Ryu a 'youth' with 'classmates'. Confirm no sexual content involves anyone under 18; if it does, this entry should be removed.",
+  "What MU's Abuse and Rape tags refer to and how they are framed.",
+  "Language level.",
+  "License: Deux edition defunct; SuBLime reissue status (to verify).",
+  "No Wikipedia cache; one review (Otaku News) opened."
+ ]
+}

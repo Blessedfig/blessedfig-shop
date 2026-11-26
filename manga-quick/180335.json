@@ -1,0 +1,94 @@
+{
+ "anilist_id": 180335,
+ "title": "Magical Girl Dandelion",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/180335",
+  "https://api.mangaupdates.com/v1/series/52369762278",
+  "https://www.animenewsnetwork.com/seasonal/2026/spring/magical-girl-dandelion/.234961"
+ ],
+ "premise": "High schooler Tanpopo Ohanami, raised by her grandfather after fiends killed her parents, is close friends with Shade, a shadowy fiend who saved her as a child. When she becomes a magical girl, whose job is to fight villains like him, their bond is tested, and she begins to question who decides what makes a 'good' magical girl (Viz blurb; ANN Spring 2026 Manga Guide).",
+ "life_message": "Love, not hate, is the true source of strength, and labels of good and evil deserve questioning.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Neutral", "note": "'Fairly bloody violence' though 'not as grimdark' as genre peers (ANN); MU Blood and Gore; swords and guns."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Fiends killed her parents; body horror listed as a spoiler tag (ANN; AniList Body Horror)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Close, teasing bond with a protective fiend (MU Teasing Male Lead, Protective Male Lead); reviewers do not mention romance (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Viz rates it T; nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Orphan grief; memory manipulation (AniList spoiler)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Little noted."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Genre conventions of transformation and cute mascots (MU Monster Sidekick/s)."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Love over hate; questioning institutional labels of good and evil; loyalty across sides",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 6, "sanctity": 4, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Tanpopo's love as the source of power; loyalty to a friend.", "concerns": "A sympathetic fiend may blur good and evil."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Self-giving love.", "concerns": "Demon-like fiend portrayed as a beloved protector."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Courage and compassion.", "concerns": "Magic and a friendly demon figure."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Love over hate.", "concerns": "Fiend ally; magic."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Fighting evil forces.", "concerns": "Demonic figure as heroine's dearest friend."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Questions corrupt authority.", "concerns": "Moral lines blurred around a fiend."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Love for neighbor, even across sides.", "concerns": "Fantasy magic."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Love as motive.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Light and dark themes framed seriously.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Bridging enemies.", "concerns": "Combat with swords and guns."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Love and family (grandfather).", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Challenges systems that label enemies.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Mercy and loyalty.", "concerns": "Magic; demon-like being as friend."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Dharma of protecting others.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Love rather than hate as the true power.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Girl who 'thinks for herself' against an institution.", "concerns": "Bloody fights for T readers."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Independent thinking over dogma.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Grandfather raising her; courage.", "concerns": "Distrust of authority."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Love over hate.", "concerns": "Magic and fiends."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Magic and demon-like friend."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love as power over fear.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Questioning labels; worth of the 'other'.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Magic used out of love.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Dandelion imagery; spirits and harmony.", "concerns": "Blood."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Courage to defend others.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity across enemies.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and loyalty.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Sympathy for the 'villain'; questions authority.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and chesed.", "concerns": "Magic and demonic beings."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Compassion.", "concerns": "Magic."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice and questioning.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Fights driven by protection, not insult (ANN)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Tanpopo thinks for herself against the organization (ANN)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Grandfather and Shade as family (ANN)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Questions who runs the magical-girl organization (ANN)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Magic fantasy without religious frame."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Love as personal source of power (ANN)."}
+  },
+  "closest": ["The Midlands", "Catholic Europe", "English-speaking"],
+  "japan": "A shoujo magical-girl story; the grandfather raising an orphan reflects common Japanese family patterns."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN reviewers praise twists and independent thinking; none call it preachy.",
+  "personified": [
+   {"character": "Tanpopo Ohanami", "ideology": "Magical girls fueled by love rather than hate", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The genre's good-versus-evil framing is questioned through plot twists; the organization's side is not yet fully shown."
+ },
+ "winners_losers": "Tanpopo and Shade's bond gets sympathy; the institution that labels heroes and villains is cast in doubt.",
+ "to_verify": [
+  "Ongoing series; only volume 1 reviewed.",
+  "Whether the Tanpopo and Shade bond becomes romantic.",
+  "Body horror and gore levels in later volumes (spoiler tags)."
+ ]
+}

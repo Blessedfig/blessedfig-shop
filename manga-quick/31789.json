@@ -1,0 +1,361 @@
+{
+ "anilist_id": 31789,
+ "title": "Captain Tsubasa",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31789",
+  "https://api.mangaupdates.com/v1/series/16354735346"
+ ],
+ "premise": "Tsubasa Ozora, a boy who has treated his soccer ball as a friend since childhood, dreams of helping Japan win the World Cup (Viz/MANGA Plus blurb). After transferring to Nankatsu Elementary he challenges goalkeeper Genzo Wakabayashi, and his rise through school tournaments begins. MangaUpdates lists rivals who become friends, injuries and illness.",
+ "life_message": "It holds that hard work, teamwork and a big dream pursued with joy can carry you to the top.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Rough tackles and injuries (MU Injury/ies)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Match tension."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Illness of a player (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Unrealistic sport moves (MU) and playing through injury (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Large franchise with games and anime."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Teamwork, perseverance, national dream",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 8,
+  "fairness": 7,
+  "sanctity": 2,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork, friendship with rivals.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Discipline and humility in victory.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Perseverance.",
+   "concerns": "Sport as idol (some)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rivals become friends.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Courage.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Diligence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation in sport.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Fair play.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sportsmanship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Competition."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Friendship across rivalry.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Fair play.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Duty to team.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Focus.",
+   "concerns": "Craving victory."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Playing through injury."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Effort and skill.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "National pride; hard work.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Health and exercise.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "National team pride."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Joy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Little.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Group harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Discipline.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Unity across nations.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Goals pursued.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal ambition.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Rivalries settled on the pitch."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Team discipline and coaching."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Team and nation over family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Captain role; coaches."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Little religion."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Dream and effort balanced."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "Puritan",
+   "The Midlands"
+  ],
+  "japan": "Team harmony, school clubs and representing Japan reflect Japanese group and national ideals."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Sports story per blurb; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sports drama with no ideological antagonist."
+ },
+ "winners_losers": "Tsubasa's dedication wins; rivals often become friends (MU).",
+ "to_verify": [
+  "No review opened.",
+  "Long series; English licensing coverage (Viz, MANGA Plus) to check."
+ ]
+}

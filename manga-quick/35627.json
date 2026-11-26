@@ -1,0 +1,96 @@
+{
+ "anilist_id": 35627,
+ "title": "Bloody Monday",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Bloody_Monday_%28manga%29",
+  "https://anilist.co/manga/35627",
+  "https://www.mangaupdates.com/series/zb38ewh",
+  "https://goodcomicsforkids.slj.com/2011/12/14/review-bloody-monday-vol-1/"
+ ],
+ "premise": "High schooler Fujimaru Takagi is secretly 'Falcon', a genius hacker who exposes corrupt people. When a secret intelligence unit asks him to decode a chip showing a deadly virus outbreak in Russia, and his agent father is framed for murder, Fujimaru races to stop a terrorist cult plotting to release the virus in Tokyo. The assassin Maya Orihara infiltrates his school as a teacher, and he cannot tell which friends to trust.",
+ "life_message": "Skill used to protect family and society, together with loyalty and vigilance, can stand against hidden evil.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Maya violently kills a man; a toddler and family die vomiting blood from the virus (SLJ); a friend is infected and killed by his stepmother (Wikipedia)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Bioterror plot against millions, betrayals, cult (Wikipedia; AniList Terrorism, Tragedy)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Opening strippers, emphasized breasts, Maya in underwear after sleeping with a victim, skirt-flipping (SLJ). MangaUpdates lists a Rape category (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "SLJ did not comment on language (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grief and betrayal; sister's chronic kidney failure (Wikipedia)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Endorsed", "note": "Vigilante hacking of others' computers (Wikipedia; MangaUpdates Hacker/s); hero flips classmates' skirts (SLJ)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Thriller of trust and betrayal; hacker vigilantism; anti-terror loyalty",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 8, "fairness": 6, "sanctity": 3, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Protecting the innocent and a framed father.", "concerns": "Sexualized women and skirt-flipping; child deaths shown."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Loyalty to father and sister.", "concerns": "Sexual imagery inflaming the passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Opposing a murderous cult.", "concerns": "Strippers, near-nudity and demeaning pranks."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Courage against evil.", "concerns": "Purity concerns; hacking as heroism."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Exposes false religion's danger.", "concerns": "Sexual content and violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Lawful authority (Third-I) defends the city.", "concerns": "Lascivious images (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Duty to neighbor and family.", "concerns": "Sexual content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Saving lives.", "concerns": "Demeaning treatment of girls."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Clear good versus evil.", "concerns": "Gratuitous fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Saving lives.", "concerns": "Violence, guns and spy-world values."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Immodesty and violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Protecting the vulnerable (sick sister).", "concerns": "Misogynistic gags; surveillance ethics."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Defending life against mass murder.", "concerns": "Immodest images and sexual content."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Duty to protect family and society.", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Preventing mass suffering.", "concerns": "Violence and lust imagery."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Exposing corruption.", "concerns": "Girls exist for skirt-flips (SLJ); sexualized villainess."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Science and skill against cult irrationality.", "concerns": "Objectification."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Patriotism, loyalty, protecting family.", "concerns": "Sexual content; vigilante hacking."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Impure and violent content."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Violence, immorality and spy work."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Disease and fear imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Clone character told she is more than a clone (Wikipedia).", "concerns": "Objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Personal responsibility.", "concerns": "Harm and exploitation."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Protecting community harmony.", "concerns": "Death imagery."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Defending the innocent.", "concerns": "Lust imagery."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Opposes terror.", "concerns": "Chastity and violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Survival of the group.", "concerns": "Illegal hacking."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Exposing corrupt authority.", "concerns": "Harm to children."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Pikuach nefesh: saving lives.", "concerns": "Tzniut violated."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Saving lives.", "concerns": "Degrading content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Justice against terror.", "concerns": "Exploitative fan service."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Fujimaru clears his father's name through evidence and agency work."},
+   "Order vs freedom": {"pos": 4, "evidence": "Hero works for a state intelligence unit (Wikipedia)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Protecting his father and sister drives him."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Agency ranks and cult hierarchy."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Technology and rational deduction versus a cult."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Survival of millions at stake."}
+  },
+  "closest": ["Orthodox Europe", "Confucian", "Catholic Europe"],
+  "japan": "Memories of the 1995 Aum Shinrikyo attack give cult terror a specific Japanese resonance (context, not a claim about the authors' intent)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "SLJ comments on plot and content, not message; thriller action carries values (to verify).",
+  "personified": [
+   {"character": "The terrorist cult (later led by 'K')", "ideology": "Apocalyptic cult terror", "role": "Villain", "treatment": "Mixed"},
+   {"character": "Maya Orihara", "ideology": "Mercenary killing for money", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The cult's ideas are barely argued; villains are thriller foes, though some get sympathetic turns (Wikipedia)."
+ },
+ "winners_losers": "Fujimaru and allies avert disaster at heavy personal cost; cult leaders die or are betrayed.",
+ "to_verify": [
+  "MangaUpdates 'Rape' category: context and explicitness not confirmed by any review",
+  "Kodansha rated T 13+, SLJ suggested 16+",
+  "Wikipedia names the writer differently (Ryō Ryūmon) from the batch (Shin Kibayashi, a pen-name question)"
+ ]
+}

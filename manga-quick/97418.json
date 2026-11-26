@@ -1,0 +1,90 @@
+{
+ "anilist_id": 97418,
+ "title": "Asobi Asobase",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/97418",
+  "https://www.mangaupdates.com/series/g70rdci",
+  "https://en.wikipedia.org/wiki/Asobi_Asobase"
+ ],
+ "premise": "Three middle-school girls at an all-girls school, energetic Hanako, Olivia (who pretends to be an American transfer student though raised in Japan) and game-hating Kasumi, form an unofficial Pastimers Club and play whatever games they invent. The surreal gag comedy escalates into absurd situations with a laser-firing butler, an occult club and hapless teachers.",
+ "life_message": "Friendship thrives on shared silliness and play.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Slapstick (AniList Slapstick); teacher made a victim of mischief (Wikipedia)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Occult-themed games played for comedy (Wikipedia)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Kasumi writes BL fantasies; gags about whether a classmate is secretly a boy (Wikipedia; MU Blue Humor, Fujoshi)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Crude and dark gag humor (MU Black Humor, Blue Humor) (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "AniList spoiler tag Drugs; context unknown (to verify)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Teacher's dejection about not marrying played for laughs (Wikipedia)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Pranks on teachers, blackmailing a teacher into advising the club, scatological gags (Wikipedia; AniList Scat spoiler tag)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation."}
+ ],
+ "lenses": [
+  {"lens": "Absurdism", "strength": 7, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Surreal comedy; play; friendship",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 3, "sanctity": 2, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Joy of play and friendship.", "concerns": "Blackmailing a teacher; crude gags."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Innocent games among friends.", "concerns": "Occult games; vulgar humor."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Friendship and fun.", "concerns": "Crude humor; disrespect to teachers."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Lighthearted friendship.", "concerns": "Occult club games; blue humor."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Little central.", "concerns": "Occult-themed games taught by a club."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common-grace delight in humor.", "concerns": "Fifth-commandment disrespect to teachers."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Harmless play as adiaphora.", "concerns": "Blackmail of a teacher."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Fellowship of friends.", "concerns": "Vulgar humor."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Imaginative absurdism.", "concerns": "Crude jokes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Non-violent play.", "concerns": "Worldly, crude entertainment."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Vulgar humor; drugs gag (to verify)."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Friendship across backgrounds (Olivia).", "concerns": "Gender-guessing gags about a classmate."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Little central.", "concerns": "Crude and indecent humor."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Playful friendship.", "concerns": "Disrespect to teachers."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Joy in simple games.", "concerns": "Harsh speech in gags."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Girls' friendship; Japan-raised foreign girl.", "concerns": "Gender-guessing jokes about Tsugumi."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Absurd humor and friendship.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Wholesome games at core.", "concerns": "Disrespect and vulgarity."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Little central.", "concerns": "Occult games; crude humor."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Little central.", "concerns": "Occult games and vulgar humor."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Joyful tone.", "concerns": "Crude images."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Play and friendship.", "concerns": "Gender-guessing jokes."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Playful occult games.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony of friends.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Occult games; disrespect."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Friendship across cultures.", "concerns": "Backbiting humor."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and affinity.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Irreverent fun.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little central.", "concerns": "Nivul peh crude humor."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Crude speech."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Friendship and inclusion.", "concerns": "Mocking jokes."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Rivalries play out as games, not honor (Wikipedia)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Unofficial club defies the student council (Wikipedia)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Friendship over family; sister's teasing remembered (Wikipedia)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Teachers become victims of mischief (Wikipedia)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school life; occult played as games (Wikipedia)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Play for its own sake (Wikipedia)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "All-girls middle school, club rules and the student council reflect Japanese school structures, mocked affectionately."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 0,
+  "evidence": "Surreal gag comedy with episodic games (AniList; Wikipedia); no message stated.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A gag series with no stated message."
+ },
+ "winners_losers": "No worldview is promoted; the Pastimers Club's playful friendship carries the series.",
+ "to_verify": [
+  "Drugs and scat gags (AniList spoiler tags) context",
+  "Dark Horse print edition listed for December 2026 (MU); Comikey digital complete"
+ ]
+}

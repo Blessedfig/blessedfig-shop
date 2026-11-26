@@ -1,0 +1,93 @@
+{
+  "anilist_id": 54836,
+  "title": "King's Game",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C5%8Csama_Game",
+    "https://anilist.co/manga/54836",
+    "https://api.mangaupdates.com/v1/series/53205122614"
+  ],
+  "premise": "Nobuaki Kanazawa's class of 32 receives midnight text messages from an unknown 'King' giving orders that start harmless and escalate; anyone who disobeys is 'punished' with death. Classmates die one after another in grisly ways as suspicion, betrayal and friendship are tested, adapted from Nobuaki Kanazawa's cell-phone novel (Coolmic blurb via AniList and MU; Wikipedia on the novel).",
+  "life_message": "Under an arbitrary, deadly authority, trust and friendship are tested and mostly broken; the story offers survival rather than a moral.",
+  "overall": 8,
+  "content": [
+    {"category": "Violence", "score": 8, "framing": "Neutral", "note": "Deaths by hanging, burning, decapitation, quartering listed for the class (Wikipedia); AniList Gore 76%, Death Game 100%; MU Blood and Gore."},
+    {"category": "Fear and intensity", "score": 7, "framing": "Neutral", "note": "Escalating death orders (Coolmic blurb); AniList Survival 95%."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU Netorare tag; orders such as confessing to a crush (Wikipedia); explicitness unknown, capped (to verify)."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Angst and betrayal among teens; not sourced (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 6, "framing": "Neutral", "note": "Two students die by suicide, by jumping and drowning (Wikipedia list); MU Angst, Coercion."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Chain-message and coercion premise (MU Text Messages, Coercion)."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Films, anime and drama adaptations (Wikipedia; MU)."}
+  ],
+  "lenses": [
+    {"lens": "Nihilism", "strength": 5, "stance": "Explored"},
+    {"lens": "Collectivism/authoritarianism", "strength": 5, "stance": "Critiqued"},
+    {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Obedience to an arbitrary authority; betrayal versus friendship; death-game survival",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 4, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Friendship tested under coercion could prompt talk on conscience versus unjust orders.", "concerns": "Graphic deaths and suicides of teens; despair."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Shows passions of fear and suspicion.", "concerns": "Gore and suicide; no hope."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Unjust authority exposed.", "concerns": "Graphic violence; suicide."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Loyalty among friends.", "concerns": "Gore; nihilism."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Evil shown as destructive.", "concerns": "Supernatural curse-like King (AniList Supernatural); gore."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Depravity under pressure.", "concerns": "Self-murder and killing."},
+    {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Unjust orders and conscience.", "concerns": "Graphic content."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little to build up.", "concerns": "Gore; suicide."},
+    {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Moral dilemmas raised.", "concerns": "Cruelty as spectacle."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and horror media."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency under coercion.", "concerns": "Violent content."},
+    {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Critique of blind obedience.", "concerns": "Suicide without care framing."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Suicide forbidden; gore."},
+    {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Tamasic violence."},
+    {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Suffering from fear and craving to survive.", "concerns": "Killing and suicide."},
+    {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Critique of coercion and peer pressure.", "concerns": "Teen suicide portrayal; gore."},
+    {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Questions blind obedience.", "concerns": "Cruelty as entertainment."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyalty valued.", "concerns": "Nihilism; gore; suicide."},
+    {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and horror."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violent entertainment."},
+    {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Fear and death."},
+    {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Resisting arbitrary power.", "concerns": "Cruelty."},
+    {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Harm."},
+    {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Group harmony shattered, shown as tragedy.", "concerns": "Death and blood."},
+    {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Courage against tyranny.", "concerns": "Suicide; violence."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence; suicide."},
+    {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Hypnosis tagged (MU) and violence."},
+    {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Rebellion against arbitrary authority.", "concerns": "Little doctrinal concern."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Gore and suicide."},
+    {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Conscience against unjust orders.", "concerns": "Gore."},
+    {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Resistance to tyranny.", "concerns": "Glorified violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Betrayal and suspicion, not honor duels (MU Betrayal)."},
+      "Order vs freedom": {"pos": 3, "evidence": "Total obedience to the King's orders, shown as horror (Coolmic blurb)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Classmates and friendships are the loyalties tested (MU Friendship)."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "An absolute 'King' over a class (blurb)."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Supernatural punishments in a modern phone-text setting (AniList; MU)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Survival dominates (AniList Survival 95%)."}
+    },
+    "closest": ["Orthodox Europe", "Puritan", "South and Southeast Asia"],
+    "japan": "The 'King's Game' party game, class-as-unit dynamics and cell-phone novel origins reflect Japanese youth culture of the 2000s."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "Sources say nothing on delivery (to verify); MU tags Absurdity and Weak Plot Continuity.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The story presents horror and survival rather than an argued view."
+  },
+  "winners_losers": "Nearly everyone dies; Nobuaki is the sole survivor in the novel (Wikipedia). No worldview is clearly rewarded.",
+  "to_verify": [
+    "Wikipedia covers the novel series; the manga's events and deaths may differ (list notes manga differences)",
+    "Sexual content of orders (MU Netorare)",
+    "Coolmic / Pocket Comics age rating",
+    "English license spread across digital platforms; check completeness"
+  ]
+}

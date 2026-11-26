@@ -1,0 +1,90 @@
+{
+ "anilist_id": 117480,
+ "title": "My Wife Has No Emotion",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/117480",
+  "https://api.mangaupdates.com/v1/series/76075088949"
+ ],
+ "premise": "Takuma, a tired single office worker, buys a housekeeping robot, Mina, and jokes that she should be his wife. Mina takes him seriously, they begin doing things together, and as Takuma falls for her the story asks whether a human and a robot can have an equal, loving relationship (Seven Seas blurb via AniList/MU).",
+ "life_message": "Love may be found in care and shared daily life, even across the line between human and machine.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "AniList Ghost (spoiler) tag; tone is gentle."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Human-robot marriage (MU Married Couple, Human-Nonhuman Relationship); MangaDex safe."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted (to verify)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Loneliness of an overworked man (blurb)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Can a machine love; domestic married life; loneliness and care",
+ "axes": {"economic": 5, "social": 6, "cultural": 7, "community": 5},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Faithful domestic care and companionship.", "concerns": "Marriage redefined as human-robot union; personhood of AI."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Healing of loneliness.", "concerns": "Marriage is a sacrament between persons."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Kindness at home.", "concerns": "Robot 'wife' challenges biblical marriage."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Gentle care.", "concerns": "What makes a person and marriage."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Robot marriage; ghost tag."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Imago Dei questions provoked.", "concerns": "Robot marriage."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Daily vocation in household.", "concerns": "Marriage definition."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Love expressed through service.", "concerns": "Marriage definition."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Thoughtful speculative fiction.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple home life.", "concerns": "Technology replacing community."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Home and companionship.", "concerns": "Eternal marriage and family."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Questions of equality and personhood.", "concerns": "Mina designed to serve."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Gentle household.", "concerns": "Marriage to a non-human."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Devotion and duty in household.", "concerns": "Marriage as samskara."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Questions of self and mind.", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Equality asked of the relationship (blurb); LGBT character (MU).", "concerns": "Robot as servile 'ideal wife'."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Philosophical inquiry into mind and love.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Married domestic life valued.", "concerns": "Substitutes machine for family."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Simple living.", "concerns": "Marriage definition."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Clean content.", "concerns": "Marriage and ghost tag."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love beyond the material.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth extended to new minds.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Love freely chosen.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Objects with spirit echo animist sensibility.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work and home.", "concerns": "Marriage as spiritual union."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Harmony of science and life.", "concerns": "Marriage teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and communication.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Choosing one's own life arrangement.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Household peace (shalom bayit).", "concerns": "Kiddushin requires a person."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical questions.", "concerns": "Marriage definition."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Respect and dignity questions.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Gentle domestic story."},
+   "Order vs freedom": {"pos": 6, "evidence": "Unconventional marriage freely chosen (blurb)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Focus on the household couple (MU Family Life)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Asks if the relationship can be equal (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Technology reshapes marriage (AniList Robots, AI)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Quality of life over work grind (blurb)."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "New France"],
+  "japan": "Overwork and loneliness of single office workers and a robot housekeeper reflect contemporary Japanese social context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "AniList Philosophy tag; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No source describes characters who oppose the relationship."
+ },
+ "winners_losers": "Takuma and Mina are treated sympathetically.",
+ "to_verify": [
+  "No review opened; AniList Ghost (spoiler) and MU LGBT Character/s tags.",
+  "How the story answers the equality question."
+ ]
+}

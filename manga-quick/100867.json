@@ -1,0 +1,86 @@
+{
+ "anilist_id": 100867,
+ "title": "What's Wrong with Being a Jerk?",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/100867", "https://api.mangaupdates.com/v1/series/30468016747"],
+ "premise": "Hanaura, a self-described jerk and deliberate loner, is suddenly confessed to and kissed by Tsuzuki, the most popular boy in school (MangaPlaza blurb via AniList and MangaUpdates). Unable to refuse him, Hanaura starts to worry whether he can be of any use to someone so perfect. A one-volume high school coming-of-age romance.",
+ "life_message": "Being loved can soften a cynic into caring whether he is good for someone else (to verify).",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Kissing between high school students (blurb); MangaDex 'suggestive'; a love-hotel category on MangaUpdates (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Blunt, rude lead (MangaUpdates); not detailed."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Social isolation by choice (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Kiss without asking; persistent pursuit (blurb; MangaUpdates)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Opposites attract; a loner learning to care; first love",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Hanaura begins to think of another's good instead of only himself.", "concerns": "Same-sex teen romance as the path of growth."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Pride and cynicism softened by love.", "concerns": "Same-sex romance among students."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Selfishness questioned as Hanaura matures.", "concerns": "Gay teen romance affirmed."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Good talking point on pride and loneliness.", "concerns": "Same-sex high school romance; love-hotel tag (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "A cold heart changing.", "concerns": "Same-sex romance as the change agent."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Honest about selfishness.", "concerns": "Same-sex romance affirmed."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Learning to be 'of use' to a neighbor.", "concerns": "LCMS families would raise the romance; ELCA less so."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Minor", "aligns": "Growth toward love of another.", "concerns": "Traditional bodies object to the romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle coming-of-age about self-worth.", "concerns": "ACNA families would raise the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Humility in Hanaura's self-doubt.", "concerns": "Worldly teen romance; same-sex."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Learning to serve another.", "concerns": "Same-sex romance for teens."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Gay teens shown with warmth.", "concerns": "Kiss without consent at the start."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Little beyond humility.", "concerns": "Same-sex romance and kissing."},
+  {"frame": "Hindu", "grade": "C", "weight": "Minor", "aligns": "Ego (ahamkara) softened.", "concerns": "Views on same-sex love vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Isolation as a form of self-clinging, loosened by connection.", "concerns": "Romantic attachment."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer teen romance normalized.", "concerns": "Unasked kiss; persistence."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy grows from connection.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Shows rudeness as a flaw to grow out of.", "concerns": "Same-sex romance for teen readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Character growth.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Homosexual romance approved."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Self-doubt overcome.", "concerns": "Romantic sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of an outsider affirmed.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Freely chosen love.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Learning harmony with others.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Ego (haumai) questioned.", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service to another as growth.", "concerns": "Romance outside man-woman marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and affinity improve.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "A proud individualist who keeps his edge.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little beyond humility.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Growth in kindness.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive teen story.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor contests; inner insecurity (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hanaura defies class social norms as a loner."},
+   "Civic vs kin": {"pos": 3, "evidence": "Classmates, not family, matter (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "School popularity ranking shapes the pair."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school romance."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Being himself, even a 'jerk', is defended in the title."}
+  },
+  "closest": ["New Netherland", "Yankeedom", "Catholic Europe"],
+  "japan": "Classroom popularity hierarchies and school trips are standard Japanese school-life settings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb frames a coming-of-age romance; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Growth is carried by the relationship plot."
+ },
+ "winners_losers": "Both boys get sympathy; Hanaura's cynicism is gently challenged rather than condemned.",
+ "to_verify": [
+  "Whether any sexual content beyond kissing involves the high school leads (love-hotel category).",
+  "Ending and whether the couple stays together."
+ ]
+}

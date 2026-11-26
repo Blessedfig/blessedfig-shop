@@ -1,0 +1,91 @@
+{
+ "anilist_id": 43841,
+ "title": "Mimi's Tales of Terror",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/43841",
+  "https://api.mangaupdates.com/v1/series/25194254623"
+ ],
+ "premise": "University student Mimi and her boyfriend Naoto run into one chilling mystery after another: a neighbor dressed all in black, eyes watching from a cemetery, a red circle on a basement wall that changes each day (Viz blurb). Junji Ito adapts nine stories from the Shin Mimibukuro urban-legend collection, presented as 'scary stories that really happened' (Viz blurb). One volume.",
+ "life_message": "The ordinary world hides unexplained terrors; the stories offer fear rather than a lesson.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Body horror (AniList); specifics not described (to verify)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Ghost horror by Junji Ito (Viz blurb 'chilling'); AniList Ghost, Body Horror; MU Dark Ambience, Insanity."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Mimi has a boyfriend (blurb)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "MU Suicide/s and Insanity; database tags only (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Exorcism listed (MU)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Urban-legend horror; ghosts and the uncanny in daily life; unexplained tragedy",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 3, "sanctity": 6, "authority": 3, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Takes evil and death seriously, as in the grave-placement story.", "concerns": "Ghosts and exorcism as fact without hope; suicide content."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Evil spirits treated as real.", "concerns": "Demonic-seeming imagery; no spiritual remedy shown."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Unsettles complacency about the unseen.", "concerns": "Spirits and haunting presented as real events."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Unseen realm acknowledged.", "concerns": "Occult horror with no redemptive frame."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Spiritual reality recognized.", "concerns": "'Open door' concern: ghosts, curses, exorcism (MU)."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Human helplessness before the uncanny.", "concerns": "Spiritism and terror for its own sake."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Horror as cultural artifact.", "concerns": "Occult themes."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Shows fear's grip.", "concerns": "Little that tends to love of God."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Folk tales as literature.", "concerns": "Occult framed as true."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little in its message to affirm beyond a couple's loyalty.", "concerns": "Occult horror media."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Mimi and Naoto face fears together.", "concerns": "Spirit contact; disturbing images."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Japanese folklore engaged as culture.", "concerns": "Suicide content."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Unseen beings exist (jinn parallel).", "concerns": "Haunting and exorcism; suicide."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Spirits are part of the worldview.", "concerns": "Tamasic fear."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Restless dead and karma familiar from folk practice.", "concerns": "Feeds fear."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Folklore as genre entertainment.", "concerns": "Suicide portrayals."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Imaginative folklore.", "concerns": "Billed as 'stories that really happened' (blurb): supernatural as fact."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Respect for graves and the dead.", "concerns": "Occult and suicide."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to affirm beyond respect for the grave.", "concerns": "Ghosts of the dead as real: a particular concern."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to affirm beyond the couple's loyalty.", "concerns": "Spiritism central."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little in the message to affirm.", "concerns": "Fear-inducing images by design."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "World folklore valued.", "concerns": "Suicide themes."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Spirits and the otherworld as part of life.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Yurei and grave customs from Japanese tradition.", "concerns": "Death impurity throughout."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Folk tales as culture.", "concerns": "Superstition rejected by the Gurus."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "The soul continues after death.", "concerns": "Spiritualism discouraged."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spirits beyond the body.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Horror as aesthetic psychodrama.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Respect for the dead.", "concerns": "Necromancy-like content; time-wasting horror."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Folklore as literature.", "concerns": "Occult themes."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Cultural horror tradition.", "concerns": "Suicide content."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor conflicts; ordinary student life (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "University student living alone (MU)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Couple-centered; MU Dead Family Member/s."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Not a theme in sources."},
+   "Tradition vs secular-rational": {"pos": 2, "evidence": "Ghosts, graves and exorcism taken as real (AniList Ghost; MU)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Fear and safety dominate."}
+  },
+  "closest": ["Puritan", "First Nation", "The Midlands"],
+  "japan": "The tales draw on Japanese urban-legend (kaidan) tradition and customs around graves and the restless dead."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Anthology of horror vignettes (blurb chapter list); no stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The stories aim at fright and leave events unexplained, as far as the blurb shows."
+ },
+ "winners_losers": "No clear winners; Mimi and Naoto are witnesses to unexplained hauntings, and the uncanny keeps the upper hand.",
+ "to_verify": [
+  "Content of the suicide-related story (MU tag)",
+  "Body-horror intensity in Ito's art",
+  "Viz age rating",
+  "No review or Wikipedia text was available; entry rests on blurb and tags"
+ ]
+}

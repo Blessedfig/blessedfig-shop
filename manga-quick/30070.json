@@ -1,0 +1,366 @@
+{
+ "anilist_id": 30070,
+ "title": "Ubel Blatt",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30070",
+  "https://en.wikipedia.org/wiki/%C3%9Cbel_Blatt"
+ ],
+ "premise": "Twenty years ago, seven of the Fourteen Lances sent against the nation of Wischtech abandoned their quest, ambushed the comrades who completed it and claimed glory as the 'Seven Heroes'. Ascheriit survived in the body of a boy, took the name Köinzell, and hunts the seven, now powerful nobles. Racial inequality and corruption run through the dark fantasy world.",
+ "life_message": "Betrayal must be answered, and the truth about false heroes exposed, even at great personal cost.",
+ "overall": 8,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 8,
+   "framing": "Endorsed",
+   "note": "Massacres, throat-slashing, surgeries grafting animal parts onto victims (Wikipedia; AniList Gore 79)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Grim tragedy and body horror (Wikipedia; AniList Tragedy 66)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 7,
+   "framing": "Condemned",
+   "note": "Rape by villains; a villain brainwashes boys; 'uncomfortable sexual moments' (Wikipedia/ANN); nudity (AniList Nudity 64, Rape 53; MangaDex 'erotica')."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Coarse language (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Drinking (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Trauma, amnesia and memory manipulation (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Vigilante revenge."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Revenge for betrayal; corrupt heroes exposed; racial and political injustice",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 8,
+  "fairness": 7,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Exposes the lie of the Seven Heroes; justice for betrayed comrades.",
+   "concerns": "Revenge as Köinzell's whole purpose; rape and gore."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Pride and treachery of the seven shown as ruinous.",
+   "concerns": "Anger nourished; sexual violence inflames passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sins of the false heroes found out.",
+   "concerns": "Vengeance belongs to God (Romans 12:19); sexual content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth versus a false official story.",
+   "concerns": "Revenge arc; rape and nudity."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Evil rulers brought down.",
+   "concerns": "Dark magic, rape and gore."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Depravity of rulers drawn frankly.",
+   "concerns": "Private vengeance; lascivious images."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Two kingdoms: corrupt magistrates judged.",
+   "concerns": "Personal revenge; sexual violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critiques racial inequality in the empire.",
+   "concerns": "Revenge and sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Monte Cristo-style moral reckoning.",
+   "concerns": "Graphic content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Shows cost of war and betrayal.",
+   "concerns": "Heroic revenge violence throughout."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Integrity versus the seven's deceit.",
+   "concerns": "Vulgar, violent, sexual content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Racial injustice and corrupt power named.",
+   "concerns": "Sexual violence and gore."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice against treacherous oath-breakers.",
+   "concerns": "Revenge beyond law; nudity and rape."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Dharma of righting a great betrayal, as in the epics.",
+   "concerns": "Modesty; cruelty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows how hatred binds Köinzell.",
+   "concerns": "Revenge creates suffering; violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critique of racism and propaganda.",
+   "concerns": "Sexual violence and fan service."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Exposing false history.",
+   "concerns": "Cruelty as spectacle."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyalty, betrayal and honor.",
+   "concerns": "Gore and sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth will out.",
+   "concerns": "Violence and sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Human rulers' corruption.",
+   "concerns": "Violence, magic and immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth replaces a false story.",
+   "concerns": "Dwells on hatred and harm."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Justice for marginalized races.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Threefold return on the seven's betrayal.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity versus false heroism.",
+   "concerns": "Blood pollution throughout."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Standing against oppressors.",
+   "concerns": "Personal vengeance; adultery and rape."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Prejudice condemned.",
+   "concerns": "Violence and unchaste content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Truth exposed.",
+   "concerns": "Murder and violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Proportionate retaliation against betrayers.",
+   "concerns": "Harm to children by villains."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Treachery condemned.",
+   "concerns": "Revenge forbidden (Lev. 19:18); tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice and truth.",
+   "concerns": "Revenge; sexual violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Justice for the oppressed.",
+   "concerns": "Glorified violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 9,
+    "evidence": "Köinzell's whole quest answers a betrayal personally."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Lone avenger outside imperial law."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Loyalty to fallen comrades above the empire."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Nobles exposed; racial hierarchy critiqued."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Feudal fantasy with magic and knightly codes."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "Brutal survival world."
+   }
+  },
+  "closest": [
+   "Greater Appalachia",
+   "Borderer"
+  ],
+  "japan": "The German-inspired setting draws on European fantasy, while the lone avenger echoes Japanese revenge tales (adauchi)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Revenge and corruption themes carried by Köinzell's hunt; no review on delivery found (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "The exposure of false heroes is carried by the revenge plot, per summaries."
+ },
+ "winners_losers": "Köinzell gradually brings down the false heroes; the betrayers and corrupt nobles lose. Sympathy goes to the betrayed and to oppressed races.",
+ "to_verify": [
+  "Frequency and framing of rape scenes",
+  "Sequel content",
+  "Yen Press age rating"
+ ]
+}

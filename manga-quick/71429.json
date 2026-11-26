@@ -1,0 +1,87 @@
+{
+ "anilist_id": 71429,
+ "title": "Author Ryusei Kaji's Savage Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/71429", "https://api.mangaupdates.com/v1/series/52407360152"],
+ "premise": "Serious editor Midori Kobayakawa is assigned to bestselling erotica writer Ryusei Kaji, surrounded by wild rumors about his love life, who relentlessly pursues him (Renta! blurb via AniList; MangaUpdates). Midori starts to think the rumors are exaggerated until Kaji pushes him down on the sofa to 'reward' him. A one-volume comedy, spin-off of another series by the author.",
+ "life_message": "Behind a scandalous reputation may be a person capable of real feeling (to verify).",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Physical pushing down; restraint category (MangaUpdates)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comic tone."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Endorsed", "note": "MangaUpdates lists many explicit sex categories; blurbs describe 'raunchy' pursuit to sleep with Midori."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Crude sexual talk implied (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Drunken intercourse category (MangaUpdates)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "None beyond conflicted feelings."},
+  {"category": "Imitable behavior", "score": 5, "framing": "Endorsed", "note": "Sexual harassment, coercion and dubious consent by an author toward his editor, played as romance (MangaUpdates; blurb 'relentless pursuit')."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 5, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Relentless pursuit as romance; workplace harassment; reputation versus reality",
+ "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 3},
+ "foundations": {"care": 3, "loyalty": 4, "fairness": 2, "sanctity": 1, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Midori's conscientious work ethic.", "concerns": "Lust and coercion presented as love; same-sex sexual content."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Midori's resistance to temptation, at first.", "concerns": "Passions glamorized."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Erotica writer's sexual pursuit as comedy."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Talking point on rumor and reputation.", "concerns": "Harassment and explicit gay sex."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sexual immorality."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Rumor (ninth commandment) shown as unreliable.", "concerns": "Lascivious content."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "'Best construction' on Kaji's rumors.", "concerns": "Coercion and sex."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Harassment; explicit content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Comic look at celebrity and gossip.", "concerns": "Consent."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly sexual content."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Chastity; vulgarity."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Gay characters.", "concerns": "Workplace harassment framed as romance."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex sex; immodesty."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Tamasic lust."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Third precept; coercion."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Queer leads.", "concerns": "Sexual harassment and coercion romanticized."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Rumors tested against evidence.", "concerns": "Coercion."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Midori's professionalism.", "concerns": "Explicit content."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Passions."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "LGBTQ characters.", "concerns": "Harassment romanticized."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Frank about desire.", "concerns": "'Harm none' and coercion."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Insincere, coercive pursuit."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Kaam (lust)."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Unchastity; backbiting rumors."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Truth beyond rumor.", "concerns": "Harm to a person of good will."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Kaji's indulgence and self-assertion.", "concerns": "Unwanted sexual advances (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Forbidden relations; lashon hara."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Degrading content; coercion."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Harassment and consent ethics."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Reputation and rumor matter but no honor contests."},
+   "Order vs freedom": {"pos": 8, "evidence": "Kaji ignores professional limits (blurbs)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Work relationships only."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Star author over junior editor."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern publishing world."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Sexual self-expression celebrated."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "The author-editor (sensei-tantō) relationship is a fixture of Japanese publishing and a common BL setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedy blurbs; no message stated (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Pursuit tropes carry the story without reflection on consent (to verify)."
+ },
+ "winners_losers": "Kaji's pursuit succeeds (to verify); Midori's reluctance is treated as something to overcome.",
+ "to_verify": [
+  "How sexual harassment and coercion are framed and whether addressed.",
+  "Rumor that Kaji based a novel on a relationship with a high school student: whether it is true in the story.",
+  "MangaUpdates lists the wider series as ongoing; Renta! volume coverage."
+ ]
+}

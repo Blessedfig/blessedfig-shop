@@ -1,0 +1,358 @@
+{
+ "anilist_id": 35025,
+ "title": "Sugarmilk",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/35025",
+  "https://api.mangaupdates.com/v1/series/26956833000",
+  "https://www.comicbookbin.com/sugarmilk2008.html"
+ ],
+ "premise": "A collection of short boys' love vignettes. The linked stories follow childhood friends Taichi and Sho, who drift apart when Sho moves away without a word and meet again working at the same diner during Taichi's university years; another story, 'Fifteen', concerns a teacher who pines for a student about to transfer schools.",
+ "life_message": "Old bonds deserve a second chance when you are honest about what you feel.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Rated M 18+, but 'not much' explicit sex (ComicBookBin); one story has a teacher pining for a student, which the review presents as longing only (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Endorsed",
+   "note": "AniList blurb jokes alcohol helps; MU lists drunken intercourse (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Loneliness after separation."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Drinking as romantic catalyst (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Taichi's faithfulness to an old friendship.",
+   "concerns": "Same-sex romance; teacher's longing for a student."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Constancy of childhood bond.",
+   "concerns": "Same-sex romance; drinking as catalyst."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty between friends.",
+   "concerns": "Same-sex romance; alcohol; teacher-student story."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Reconciliation after hurt.",
+   "concerns": "Same-sex romance; alcohol."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restored friendship.",
+   "concerns": "Same-sex romance; alcohol."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness in friendship.",
+   "concerns": "Same-sex romance; teacher's misplaced desire."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Forgiveness after Sho's leaving.",
+   "concerns": "Same-sex romance; synods differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Reconciliation.",
+   "concerns": "Alcohol joke; same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Light vignettes of affection.",
+   "concerns": "Teacher-student story; provinces differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gentle tone.",
+   "concerns": "Same-sex romance; alcohol."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Bisexual and gay young men shown warmly.",
+   "concerns": "Teacher-student power imbalance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lasting bonds.",
+   "concerns": "Same-sex romance; teacher-student boundary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Impermanence of youthful bonds.",
+   "concerns": "Intoxicants as catalyst."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Bisexual character shown without stigma.",
+   "concerns": "Teacher-student story; drunken intimacy."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honest feelings.",
+   "concerns": "Teacher-student boundary; consent while drunk."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty to old friends.",
+   "concerns": "Same-sex romance; alcohol."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; alcohol."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Affection restored.",
+   "concerns": "Alcohol."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inclusive love.",
+   "concerns": "Teacher-student story."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love freely chosen.",
+   "concerns": "Teacher-student story."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere reunion.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication restores a bond.",
+   "concerns": "Alcohol."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and free love.",
+   "concerns": "Teacher-student story."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Teacher-student boundary."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Teacher-student story."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Light vignettes without honor conflicts (review)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Characters follow feelings."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Childhood friends over family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Mostly peers; one teacher-student story."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular modern settings."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Romance and feeling first."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Midlands"
+  ],
+  "japan": "Childhood friends (osananajimi) reunited after moving away is a common Japanese romance pattern."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ComicBookBin calls them thin vignettes, 'snap shots of young men in love'.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message; brief romantic sketches."
+ },
+ "winners_losers": "Taichi wins Sho back; no worldview is opposed.",
+ "to_verify": [
+  "Ages of the student in 'Fifteen' and whether that story has any sexual content",
+  "Ages in 'What's Your Name?' and other one-shots",
+  "Drunken intercourse tag (MU) context"
+ ]
+}

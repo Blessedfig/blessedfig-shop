@@ -1,0 +1,376 @@
+{
+ "anilist_id": 85224,
+ "title": "Immortal Hounds",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/85224",
+  "https://api.mangaupdates.com/v1/series/42737350609",
+  "https://api.mangadex.org/manga/5342a967-f05d-456c-8078-b6c49dec613f",
+  "https://otakuusamagazine.com/review-immortal-hounds/"
+ ],
+ "premise": "In an alternate world where people revive after death, a disease called Resurrection Deficiency Syndrome makes its carriers, 'Vectors', able to die for good and to pass that mortality to others. Shin'ichi Kenzaki leads a police task force hunting Vectors, while a group called the Escape Artist helps them flee and seeks to end human immortality. A 7-volume seinen thriller published in English by Vertical.",
+ "life_message": "Mortality, love and the value of a life become real again once death is no longer reversible.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "Gore tag (AniList) and review: 'lots of gore and gunfire', officers' limbs shot off."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Body Horror and Terrorism tags (AniList); Horror tag (MangaDex); mind games (review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MangaUpdates lists Nudity, Sex and Mature; MangaDex rates it erotica; review is silent, capped pending a second kind of source (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Not documented; seinen police thriller (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not documented."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Self-killing as a cure for minor ailments (review) and Suicide tag, top rank (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Casual self-killing to 'reset' the body is normalized in the setting (review, AniList Suicide tag)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Mortality and meaning; immortality questioned; state control versus fugitives",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 5,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Asks whether life without death has meaning; love as the carrier of mortality.",
+   "concerns": "Casual self-killing, heavy gore and nudity listed by MangaUpdates."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Remembrance of death (memento mori) is the hidden theme.",
+   "concerns": "Gore and sexual content inflame the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Death and love reclaim their weight.",
+   "concerns": "Self-killing normalized; gore; nudity and sex per database."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Finitude and love explored seriously.",
+   "concerns": "Graphic violence and sexual content; casual suicide."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions a world that has escaped death.",
+   "concerns": "Normalized suicide, gore and nudity."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Shows human attempts to conquer death go awry.",
+   "concerns": "Gore and sexual content portrayed attractively for adults."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Vocation of police duty versus mercy for Vectors.",
+   "concerns": "Graphic violence; suicide as routine."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love and mortality treated as bound together.",
+   "concerns": "Gore, casual suicide and nudity hinder holiness."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Serious moral puzzle about life and death.",
+   "concerns": "Mature content; older readers only."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Fugitives sheltered from a hunting state.",
+   "concerns": "Gunfire and killing on all sides."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions immortality without God's plan.",
+   "concerns": "Violence, sexual content and suicide."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "State hunting of the sick invites justice questions.",
+   "concerns": "Gore; casual self-harm."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Life and death in God's hands is an implied theme.",
+   "concerns": "Suicide as routine; nudity and sex."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Death and rebirth cycle reframed.",
+   "concerns": "Violence breaks ahimsa; casual self-killing."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Impermanence: craving to escape death explored.",
+   "concerns": "Killing and self-harm everywhere."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Persecution of the infected raises rights questions.",
+   "concerns": "Self-harm normalized; male-gaze nudity (database)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "A thought experiment about mortality and ethics.",
+   "concerns": "Gore; casual suicide."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Police duty and loyalty.",
+   "concerns": "Gore, nudity and suicide as routine."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Death's reality restored.",
+   "concerns": "Gory and sexual content excites passions."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions human immortality.",
+   "concerns": "Violence and immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Explores fear of death.",
+   "concerns": "Fear, death and gore dominate thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fugitives treated as persons.",
+   "concerns": "Violence and suicide imagery."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Life and death cycle as natural.",
+   "concerns": "Harm and killing."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Death given meaning again.",
+   "concerns": "Blood pollution (kegare) throughout."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Courage to protect the hunted.",
+   "concerns": "Lust and anger present; suicide."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Science and ethics of immortality.",
+   "concerns": "Violence and sexual content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions about survival and the mind.",
+   "concerns": "Violence; suicide as routine."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Individuals defy a controlling state.",
+   "concerns": "Harm to others."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Value of each life.",
+   "concerns": "Suicide, immodesty and gore."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mortality and meaning.",
+   "concerns": "Violence and sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethical questions about life and death.",
+   "concerns": "Gore and casual suicide."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Hunters and fugitives clash by force; not documented as honor."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "State task force versus Escape Artist (review)."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Not documented."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Police hierarchy present (review)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular, scientific framing of disease and immortality."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival and pursuit dominate."
+   }
+  },
+  "japan": "Police squad loyalty and duty to the group reflect Japanese procedural conventions, noted as context.",
+  "closest": [
+   "Catholic Europe",
+   "Orthodox Europe",
+   "Confucian"
+  ]
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Review focuses on premise and mind games; no preachiness noted (to verify).",
+  "personified": [
+   {
+    "character": "Escape Artist (Rin)",
+    "ideology": "Humans should be mortal again",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The question of immortality is carried by the conflict between the task force and the Escape Artist."
+ },
+ "winners_losers": "Outcome not documented; the review presents both the task force and the Escape Artist as having stakes (to verify).",
+ "to_verify": [
+  "Sexual content: MangaUpdates lists Sex and Nudity and MangaDex rates it erotica; score capped at 3, may be understated.",
+  "Escape Artist's ideology and treatment beyond volume 1.",
+  "Ending not checked; review covers volume 1 only."
+ ]
+}

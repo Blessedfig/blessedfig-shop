@@ -1,0 +1,92 @@
+{
+ "anilist_id": 127217,
+ "title": "Lullaby of the Dawn",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/127217",
+  "https://api.mangaupdates.com/v1/series/24771245975",
+  "https://animeuknews.net/2023/10/lullaby-of-the-dawn-volume-1-review"
+ ],
+ "premise": "Elva is a kannagi, a warrior priest chosen by the divine to fight creatures from the black sea; his cursed, black-stained limbs mean all kannagi die young, and villagers fear him until the boy Alto moves in and vows to free him (Tokyopop blurb; Anime UK News). Eight years later Alto's presence seems to heal the curse, and his glimpse inside the secretive Monastery that trains kannagi makes him doubt what he has been told (Anime UK News). An ongoing Boys' Love fantasy, rated OT 16+.",
+ "life_message": "Devoted love can heal what fate and institutions say is unchangeable.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Nightly monster fights (review; no gore described); MU Blood and Gore, Murders in later volumes (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Curse and early death; dark ambience (review; MU)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Adult male romance; no sexual scenes in vol. 1 (review). MU lists sexual scenes and a sexual-assault backstory in later volumes; database only, capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "MU Drunken Kiss."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Loneliness, trauma, child-abuse backstory (MU) (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None of note."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Devotion versus fate; doubt about a secretive religious institution; BL romance",
+ "axes": {"economic": 5, "social": 6, "cultural": 4, "community": 5},
+ "foundations": {"care": 8, "loyalty": 8, "fairness": 5, "sanctity": 5, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Alto's self-giving devotion to the shunned Elva.", "concerns": "Same-sex romance; a priesthood shown as secretive."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Care for an outcast.", "concerns": "Same-sex romance; monastery as deceiver."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Faithful love.", "concerns": "Same-sex romance with later sexual content (MU)."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Compassion for the feared.", "concerns": "Same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Fighting dark creatures.", "concerns": "Curses, shamans and same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Questions man-made religious authority.", "concerns": "Same-sex romance (PC(USA) would differ)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Critique of works-based priestly sacrifice.", "concerns": "LCMS: romance; ELCA: little."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love that heals.", "concerns": "Varies by body."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Love casting out fear of the outcast.", "concerns": "ACNA would differ; later sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humble service.", "concerns": "Same-sex romance; sword fighting."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Devotion.", "concerns": "Same-sex romance; sexual content."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Queer love; doubt toward abusive religious authority.", "concerns": "Abuse backstory (MU)."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Same-sex romance; sorcery."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Devotion (bhakti-like loyalty).", "concerns": "Views vary on romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion for the suffering.", "concerns": "Attachment; violence."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Gay romance; questioning institutional secrecy.", "concerns": "Sexual-assault backstory (MU)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Doubt of received truths (review).", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyalty and duty.", "concerns": "Same-sex romance; religion distrusted."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Healing love.", "concerns": "Same-sex romance; spirits."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance; magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Love healing a supposedly fatal condition.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Affirming love; free search for truth.", "concerns": "Abuse content."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Sea, shamans and folklore; consensual love.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Shrine maidens, purification against corruption.", "concerns": "Priestly role shown as exploitative."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Selfless service.", "concerns": "Same-sex romance; superstition."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Search for truth.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Overcoming imposed limits.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Challenges dogmatic religious authority.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Same-sex romance; sorcery."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Compassion.", "concerns": "Views vary."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Inclusive love; ethical questioning.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Elva's worth affirmed by Alto despite village fear (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Alto moves in uninvited and defies the Monastery's limits (review)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Personal bond outweighs village and institution (review)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Master-servant bond (MU) that becomes partnership."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Divine calling and folklore frame the world, though questioned (review)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Survival against the sea balanced by love (blurb)."}
+  },
+  "closest": ["El Norte", "First Nation", "Latin America"],
+  "japan": "The term kannagi draws on Japanese words for shrine mediums, and the island setting echoes Japanese shrine and sea-folk traditions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Reviewer praises slow, info-dump-free worldbuilding and does not cast clear villains (Anime UK News).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Doubt about the Monastery arises through the mystery rather than argument; its later portrayal is not in the sources."
+ },
+ "winners_losers": "Alto and Elva's bond gets the story's sympathy; the Monastery's secrecy is put under suspicion (review).",
+ "to_verify": [
+  "Possibly understated: MU lists sexual scenes, sexual assault and child abuse in later volumes; only vol. 1 was reviewed.",
+  "How the Monastery and its religion are finally portrayed.",
+  "No Wikipedia cache available in this run."
+ ]
+}

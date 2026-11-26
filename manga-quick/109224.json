@@ -1,0 +1,90 @@
+{
+ "anilist_id": 109224,
+ "title": "Madoka's Secret",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/109224",
+  "https://api.mangaupdates.com/v1/series/12302569190"
+ ],
+ "premise": "Madoka Yamada, an elementary-school boy, loves dolls, stuffed animals and the dresses his sister makes for him. Teased before for being 'girly', he hides this at his new school, but his seatmate Itsuki Tanonaka, whom he admires as cool, finds out (Manga Planet blurb via AniList; MU). A single-volume story.",
+ "life_message": "Liking what you like is nothing to hide, and true friends accept you as you are.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Fear of being found out (blurb)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Child characters; MU GL Subtext and AniList Love Triangle (spoiler) at low votes."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Teasing."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Past bullying for being 'girly' (blurb; AniList Bullying 70%)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Feminism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Self-acceptance; gender-nonconforming interests; friendship",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Respect for a bullied child; supportive sister.", "concerns": "Crossdressing boy affirmed; gender questions (to verify how framed)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Kindness to the mocked.", "concerns": "Gender seen as given; crossdressing."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Opposes bullying.", "concerns": "Boy wearing dresses celebrated (Deuteronomy 22:5 concern)."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Acceptance and friendship.", "concerns": "Gender-role blurring."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Anti-bullying.", "concerns": "Crossdressing."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Honesty over hiding.", "concerns": "Complementarian concerns."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Putting the best construction on others.", "concerns": "Crossdressing (LCMS)."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Do no harm: kindness to the different.", "concerns": "Holiness churches may object."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Dignity of every child.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Gentle peacemaking among children.", "concerns": "Gender roles."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Kindness and family support.", "concerns": "Gender as eternal identity."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion of a gender-nonconforming child.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Opposes mockery.", "concerns": "Men imitating women (hadith) concern."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Compassion.", "concerns": "Views vary."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Right speech against teasing; acceptance.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Challenges gender stereotypes and bullying.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Freedom to be oneself.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Anti-bullying; family support.", "concerns": "Gender-role message presented to children."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Crossdressing."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Opposes cruelty.", "concerns": "Crossdressing."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Fear overcome by love.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Worth of every child.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Freedom of expression.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony restored in class.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Equality and anti-mockery.", "concerns": "Views vary."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "No prejudice.", "concerns": "Gender teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determination.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Individuality.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Against shaming (halbanat panim).", "concerns": "Lo yilbash (Deuteronomy 22:5)."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity.", "concerns": "Views vary."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Madoka hides rather than fights teasing (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Freedom to like 'cute things' (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Sister's support and school friendships (blurb)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peer children, no authority focus."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Questions gender norms (AniList Gender Bending)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Self-expression through clothes and dolls (blurb)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Midlands"],
+  "japan": "The pressure to fit in at a new school reflects Japanese emphasis on group conformity, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; sources say nothing on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe the premise only."
+ },
+ "winners_losers": "Madoka's self-acceptance is the sympathetic center; teasing classmates represent the pressure to conform.",
+ "to_verify": [
+  "No review opened; ending and Itsuki's own secret (AniList spoiler tags) to check.",
+  "English publisher Manga Planet listed as defunct by MU: license may have lapsed.",
+  "MU marks it Axed/Cancelled at 0 votes."
+ ]
+}

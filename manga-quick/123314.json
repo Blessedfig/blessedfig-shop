@@ -1,0 +1,92 @@
+{
+ "anilist_id": 123314,
+ "title": "Völundio ~Divergent Sword Saga~",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/123314",
+  "https://api.mangaupdates.com/v1/series/31645015136",
+  "https://api.mangadex.org/manga?title=Iken Senki Völundio (record 4fd4f8c0-fab8-4ee5-ab9e-5907720afed9)"
+ ],
+ "premise": "Cleo, a mercenary of ten years who dreams of buying a home and living peacefully, meets Kohaku, a mysterious demi-human girl who says she has foreseen his death and vows to protect him. On a battlefield where powerful 'different swords' fly about, the two start running a tavern where soldiers gather. From the creator of Helck.",
+ "life_message": "A peaceful, stable life is worth fighting to survive for, even in the middle of war.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "War setting, mercenaries and bandits (Comikey and MangaDex descriptions; AniList War, Tragedy)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Foreseen death and tragedy (Comikey description; AniList Tragedy spoiler tag)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "MU lists Rape, Slavery and Human Trafficking with very few votes (to verify; capped)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Tavern setting (MangaDex description; MU Bar/s, Bartender/s)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "War trauma implied; not described."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Mercenary life; nothing specific."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Running a tavern as a business."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Pragmatism (survive and settle down), Communitarianism (tavern community), Might makes right (critiqued)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Cleo's longing for peace and a home amid war.", "concerns": "War violence; possible sexual violence and slavery (MU, to verify)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Killing in war treated as tragic, not glorious (Tragedy tag).", "concerns": "Battle violence; prophecy of death by Kohaku."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Protecting life and seeking peace.", "concerns": "Tavern drinking, magic swords and war."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Hospitality to soldiers in a tavern as a picture of refuge.", "concerns": "Violence; foreseeing death."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Fighting to live.", "concerns": "Foretelling the future; alcohol in the tavern."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "War's misery shown honestly.", "concerns": "Divination by Kohaku; possible sexual violence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Ordinary vocation (innkeeping) prized over glory.", "concerns": "Violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Peace and care for others.", "concerns": "Tavern and drink; war."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Moral weight given to war's cost.", "concerns": "Violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Desire to leave fighting for a quiet life.", "concerns": "Mercenary violence remains central."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Self-reliance and home.", "concerns": "Tavern drinking; violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Anti-war undertone; strong female lead (MU).", "concerns": "Slavery and trafficking themes (to verify)."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Peace and protection of life.", "concerns": "Alcohol trade at the tavern; fortune-telling."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Fate (foreseen death) and duty.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "War as suffering; seeking peace.", "concerns": "Intoxicants and killing."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "War shown as tragic.", "concerns": "Possible sexual violence and slavery."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Ordinary happiness valued; Philosophy tag (AniList).", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Work, home and courage.", "concerns": "Violence."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Peace sought.", "concerns": "Alcohol, war and prophecy."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "War shown as wretched.", "concerns": "Violent entertainment and foretelling."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming a fated death.", "concerns": "Death and fear dwelt on."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Demi-humans and humans together.", "concerns": "Slavery themes (to verify)."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Seer figure treated with respect.", "concerns": "Harm in war."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Community gathering place and hospitality.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Honest work and protecting others.", "concerns": "Alcohol at the tavern."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Longing for peace.", "concerns": "Alcohol and war."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Survival drive.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation as Cleo's creed.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Valuing life and peace.", "concerns": "Divination; violence."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Peace and hospitality.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Anti-war undertone.", "concerns": "Slavery and trafficking (to verify)."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Survival, not honor, drives Cleo (Comikey description)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Mercenary living by his own terms."},
+   "Civic vs kin": {"pos": 6, "evidence": "Small bond with Kohaku; tavern community."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Little in sources."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Fate and prophecy versus personal will."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "'I want to live a peaceful and stable life' (MU description quoting Comikey)."}
+  },
+  "closest": ["Orthodox Europe", "El Norte", "The Far West"],
+  "japan": "The dream of a modest, stable home reflects a common Japanese ideal of quiet security over glory."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "AniList Philosophy tag; no review could be opened (French review site failed) (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources suggest themes of war and survival but say nothing about how they are delivered."
+ },
+ "winners_losers": "Cleo and Kohaku are the sympathetic center; war itself appears as the antagonist force.",
+ "to_verify": [
+  "MU categories Rape, Slavery, Human Trafficking and Torture have 0-1 votes; check presence and framing.",
+  "Part 1 complete and Part 2 ongoing after a hiatus (MU); English on Comikey only.",
+  "Tone balance of comedy and war tragedy unknown; no English review found."
+ ]
+}

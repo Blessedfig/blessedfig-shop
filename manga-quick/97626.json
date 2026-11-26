@@ -1,0 +1,92 @@
+{
+  "anilist_id": 97626,
+  "title": "How Heavy Are the Dumbbells You Lift?",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/97626",
+    "https://api.mangaupdates.com/v1/series/57692176020",
+    "https://en.wikipedia.org/wiki/How_Heavy_Are_the_Dumbbells_You_Lift%3F",
+    "https://familyfriendlygaming.com/Reviews/2026/How-Heavy-are-the-Dumbbells-You-Lift-Volume-1.html"
+  ],
+  "premise": "Hibiki, a high school girl who loves to eat, joins the Silverman Gym to lose weight after falling for handsome trainer Machio, whose muscles burst through his clothes when he flexes. With classmate Akemi, who has a muscle fetish, and others, she learns real exercise and nutrition techniques explained in each chapter (Wikipedia; Seven Seas blurb; Family Friendly Gaming review).",
+  "life_message": "Health comes from steady exercise and sensible eating, and friends make the effort fun.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Arm wrestling, boxing and sambo practice (Wikipedia)."},
+    {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Comedy."},
+    {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Skimpy workout outfits, provocative poses and clothes-ripping gags (Family Friendly Gaming); AniList Ecchi genre; MU Partial Nudity, Fetish/es, Swimsuit/s."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "'Bad language' noted (Family Friendly Gaming)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Weight and body-image worries played for comedy (MU Weight Loss, Insecure Character/s)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Endorsed", "note": "Exercise and diet techniques presented as real advice (Family Friendly Gaming; AniList Educational)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Gym and celebrity parodies (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Pragmatism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+    {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Fitness self-improvement; friendship; fan-service comedy",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+  "foundations": {"care": 6, "loyalty": 5, "fairness": 4, "sanctity": 3, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Care for the body; temperance against gluttony (Hibiki).", "concerns": "Fan service and fetish humor (CCC 2521-2524)."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Discipline over appetite.", "concerns": "Sexualized imagery inflames passions."},
+    {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Body as a temple; perseverance.", "concerns": "Revealing poses and language (FFG)."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Healthy habits and friendship.", "concerns": "Lust-enticing art (FFG)."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Self-discipline.", "concerns": "Immodesty."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Stewardship of the body.", "concerns": "WLC Q139 lascivious pictures."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Practical good habits.", "concerns": "Fan service."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Wesleyan health discipline echoes.", "concerns": "Fan service."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Goodhearted comedy.", "concerns": "Fan service."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Hard work.", "concerns": "Immodest dress."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Word of Wisdom-like health focus.", "concerns": "Immodest imagery."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Body positivity and health.", "concerns": "Sexualization of teen girls; national stereotypes (Gina)."},
+    {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Moderation in eating.", "concerns": "Immodesty; lowering the gaze."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Discipline of body, yoga-like effort.", "concerns": "Modesty."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Moderation and right effort.", "concerns": "Stirs craving."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Evidence-based fitness info.", "concerns": "Sexualized minors; fat-shaming risk."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Science-based exercise teaching.", "concerns": "Objectification."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Self-discipline and hard work.", "concerns": "Fan service."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Significant", "aligns": "Health message central.", "concerns": "Immodest dress."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Clean living, exercise.", "concerns": "Sexual imagery."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Vitality.", "concerns": "Material body focus."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Wellness for all bodies.", "concerns": "Objectification."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Body celebrated.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Vitality and group harmony.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Physical fitness and discipline.", "concerns": "Modesty."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Health and moderation.", "concerns": "Immodesty."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Take care of yourself (Way to Happiness).", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgence balanced with self-care.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Guarding health.", "concerns": "Tzniut."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Guarding health.", "concerns": "Modesty."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Wellness.", "concerns": "Objectification."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Friendly rivalries (arm wrestling) without honor stakes (Wikipedia)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Training discipline under a trainer (Wikipedia)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Gym community of friends."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Trainer-trainee and teacher roles."},
+      "Tradition vs secular-rational": {"pos": 8, "evidence": "Science-based exercise lessons (FFG; AniList Educational)."},
+      "Survival vs self-expression": {"pos": 7, "evidence": "Looking good for summer and fun (FFG)."}
+    },
+    "closest": ["Yankeedom", "English-speaking", "New France"],
+    "japan": "Summer swimsuit-season dieting and gym 'macho' parody draw on Japanese pop-culture humor, described here as context."
+  },
+  "delivery": {
+    "style": "Explicit",
+    "preachiness": 4,
+    "evidence": "Each chapter explains workouts and diet directly; FFG calls it educational, not preachy.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Health advice is stated outright as instruction, wrapped in comedy."
+  },
+  "winners_losers": "Hibiki gains fitness and friends; the worldview favored is practical self-improvement.",
+  "to_verify": [
+    "Family Friendly Gaming rated it for 16+; Seven Seas rating",
+    "Fan-service level across later volumes",
+    "How weight is discussed (body-image framing)"
+  ]
+}

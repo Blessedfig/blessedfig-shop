@@ -1,0 +1,95 @@
+{
+  "anilist_id": 98354,
+  "title": "APOSIMZ",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/98354",
+    "https://api.mangaupdates.com/v1/series/54781495811",
+    "https://www.animenewsnetwork.com/feature/2018-11-26/the-fall-2018-manga-guide/aposimz/.139968"
+  ],
+  "premise": "On the frozen surface of the artificial planet Aposimz, descendants of those who lost a war against the core fight cold, the Frame disease and aggressive automatons. After his colony is attacked by the Rebedoan Empire, Etherow helps a mysterious girl, Titania, protect a 'code' and seven bullets, and becomes a Frame, a skeletal being, to survive and fight back (Kodansha text via AniList; MangaUpdates; ANN Manga Guide).",
+  "life_message": "Survival in a hostile world calls for resolve, loyalty to companions and resistance to a ruling class that treats people as expendable.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Massacre in chapter one and killings for sport (ANN); MU Blood and Gore, Genocide, War."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Zombie-like Frames and body horror (ANN; MU Body Horror)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "ANN mentions no sexual content; birth imagery with an uncut umbilical cord."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Tragedy and loss (AniList Tragedy 79)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Revenge (MU)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Transhumanism", "strength": 5, "stance": "Explored"},
+    {"lens": "Marxism", "strength": 3, "stance": "Explored"},
+    {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "survival on a hostile world; rebellion against an empire and upper class; body transformation",
+  "axes": {"economic": 4, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 5, "loyalty": 6, "fairness": 6, "sanctity": 4, "authority": 3, "liberty": 7},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Defending a colony from an oppressive empire.", "concerns": "Body horror; vengeance motive (MU Revenge)."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Endurance in a cold, fallen world.", "concerns": "Disturbing Frame bodies."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Protecting the weak (Titania, colony).", "concerns": "Violence and genocide (MU)."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Courage against oppression.", "concerns": "Bleak, faith-absent world."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Resistance against a dark empire.", "concerns": "Cult element (MU Cult); body horror."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Shows consequences of an ancient war.", "concerns": "Violence."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Duty to neighbors under attack.", "concerns": "Violence."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Solidarity with the exiled poor.", "concerns": "Violence."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Serious science fiction on power and survival.", "concerns": "Gore."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Armed resistance shown as heroic."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Self-defense of one's people (Alma 43 sense).", "concerns": "Gore."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Critique of class power and genocide.", "concerns": "Violence."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Just defense against oppressors.", "concerns": "Gore and grotesque bodies."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Righteous fight to protect others.", "concerns": "Violence."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Impermanence of bodies and worlds.", "concerns": "Killing throughout."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Class conflict and rebellion against elites (ANN).", "concerns": "Violence."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Questions about AI and bodily change.", "concerns": "Violence."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Defense of home and community.", "concerns": "Gore."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and body horror."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Warfare shown heroically."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Resolve beyond the body's limits.", "concerns": "Disease and decay imagery (Frame disease)."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Dignity of the oppressed surface dwellers.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Self-defense accepted.", "concerns": "Violence."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Doll (ningyou) motif echoes animated objects.", "concerns": "Kegare of death."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed against tyranny.", "concerns": "Revenge motive."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity against oppression.", "concerns": "War central."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Self-determination.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Rebellion against arbitrary power.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Self-defense permitted.", "concerns": "Gore."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Resistance to oppression.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice for the oppressed.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 6, "evidence": "Vengeance after colony attack (ANN; MU Revenge)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Challenge to the upper classes (ANN)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Loyalty to colony and companions."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Rebellion against ruling elites (ANN)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Technological world with a cult element (MU)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Survival against cold, disease and automatons (MU description)."}
+    },
+    "closest": ["The Far West", "Orthodox Europe", "El Norte"],
+    "japan": "The doll (ningyou) motif in the Japanese title and the cold, sparse world reflect Nihei's recurring Japanese SF style, described here as context."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "ANN guide: show-over-tell, world revealed gradually; one reviewer found little social commentary.",
+    "personified": [
+      {"character": "Etherow", "ideology": "Survival and resistance against elites", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Rebedoan Empire", "ideology": "Domination of surface dwellers", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Ideas about class and power stay implicit beneath action and world-building."
+  },
+  "winners_losers": "Etherow and his allies resist the Empire; the outcome is not documented. Sympathy lies with the surface survivors.",
+  "to_verify": [
+    "Ending; MU lists Axed/Cancelled",
+    "Gore detail in later volumes",
+    "Cult and genocide arcs (MU)"
+  ]
+}

@@ -1,0 +1,361 @@
+{
+ "anilist_id": 123154,
+ "title": "Restart After Growing Hungry",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/123154",
+  "https://api.mangaupdates.com/v1/series/21684116554"
+ ],
+ "premise": "Mitsuomi, born and raised in a small country town, and Yamato, a foundling who made his home there, fell for each other in the countryside (Seven Seas blurb via BOOK WALKER). As adults they look for 'the shape of their own happiness' together. MangaUpdates lists farming, an orphanage, family business and rumors in town.",
+ "life_message": "It holds up a committed same-sex partnership and a found family as a quiet path to happiness.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "An accident (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Endorsed",
+   "note": "Established adult male couple (AniList Boys' Love, MU Realistic Homosexual Relationship/s); MangaDex safe; explicitness unknown (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Lack of self-confidence; orphan background (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Same-sex partnership, rural found family",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fidelity, care, family business.",
+   "concerns": "Same-sex romance affirmed."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rural humility.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex romance central."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for an orphan.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Work and household.",
+   "concerns": "Same-sex romance (PC(USA) more open)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation in farming.",
+   "concerns": "LCMS would object; ELCA accepting."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hospitality (UMC affirming).",
+   "concerns": "Traditional Methodists object."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Covenant faithfulness (Episcopal).",
+   "concerns": "ACNA would object."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Simple rural life, mutual aid.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work and family ties.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Faithful, loving partnership.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work; care for orphan.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family business duty.",
+   "concerns": "Views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Contentment.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Realistic LGBTQ couple; small-town rumors faced.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Building happiness in this life.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rural family business.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Simple living.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentleness.",
+   "concerns": "Little teaching."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love and inclusion.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Land and seasons.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Household continuity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to the foundling.",
+   "concerns": "Same-sex relations."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Partnership.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom to love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Chesed toward an orphan.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Commitment (CJLS affirming).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Rumors faced quietly (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Chosen relationship."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Family business (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Equal partners."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Rural tradition, modern love."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Quality of life sought."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "Small-town gossip and family-run farms reflect rural Japanese community life."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Slice-of-life blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Quiet slice-of-life romance."
+ },
+ "winners_losers": "The couple's happiness is affirmed; town gossip is an obstacle (MU).",
+ "to_verify": [
+  "No review opened.",
+  "Explicitness level; Seven Seas imprint."
+ ]
+}

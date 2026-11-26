@@ -1,0 +1,363 @@
+{
+ "anilist_id": 52993,
+ "title": "Accel World",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/52993",
+  "https://api.mangaupdates.com/v1/series/33521063849"
+ ],
+ "premise": "Haruyuki, an overweight, bullied junior-high student, is given the mysterious program Brain Burst by Kuroyukihime, the school's most admired girl. It opens the Accelerated World, a virtual fighting arena where he battles as an avatar and rises in rank. Manga adaptation of Reki Kawahara's light novels; 8 volumes.",
+ "life_message": "Hidden potential grows when someone believes in you and you choose to keep fighting.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Virtual avatar battles and tournaments (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Betrayal and duels."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romance with an older girl; harem subtext (MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Bullies' taunts."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Bullying and inferiority complex (MU, publisher blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Immersive gaming as escape."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Game culture and light-novel franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Transhumanism; Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kuroyukihime's belief in a bullied boy affirms his dignity.",
+   "concerns": "Ranked combat as path to worth; mild fan service."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Humility of the underdog.",
+   "concerns": "Escapism into virtual battles."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Victim of bullying finds friends.",
+   "concerns": "Worth measured by rank."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Haruyuki's growth through others' kindness.",
+   "concerns": "Gaming escapism."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hope for the bullied.",
+   "concerns": "Virtual worlds displacing real life."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Weakness turned to growth.",
+   "concerns": "Self-worth via game rank."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation and friendship growth.",
+   "concerns": "Gaming focus."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Growth with support.",
+   "concerns": "Escapist diversions."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Coming-of-age struggle.",
+   "concerns": "Mild."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for a bullied boy.",
+   "concerns": "Combat as advancement."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship and growth.",
+   "concerns": "Violent game content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Challenging bullying.",
+   "concerns": "Body-shaming of Haruyuki."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Patience under hardship.",
+   "concerns": "Romance subtext."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Effort and devotion.",
+   "concerns": "Mild violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Facing shame and envy with friends.",
+   "concerns": "Rank-chasing as craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Anti-bullying arc.",
+   "concerns": "Body-image teasing (to verify); harem subtext."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Technology and agency explored.",
+   "concerns": "Escapism."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Perseverance and hard work.",
+   "concerns": "Fighting-game culture."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Overcoming adversity.",
+   "concerns": "Virtual violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Violent gaming."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mind over limits.",
+   "concerns": "Virtual world as escape."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Worth of every student.",
+   "concerns": "Body shaming."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-growth.",
+   "concerns": "Mild."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony with friends.",
+   "concerns": "Mild."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage against bullies.",
+   "concerns": "Ego and rank."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity among friends.",
+   "concerns": "Rank competition."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-improvement.",
+   "concerns": "Mild."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Individual power and self-determination.",
+   "concerns": "None major."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness to the bullied.",
+   "concerns": "Time-wasting entertainment."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming bullying.",
+   "concerns": "Mild."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Anti-bullying message.",
+   "concerns": "Mild."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Duels decide standing in the Accelerated World."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Players choose allegiances."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "School friendships."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Ranked by strength (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Tech-driven world."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Self-growth vs competition."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Orthodox Europe",
+   "New Netherland"
+  ],
+  "japan": "School-based bullying and senpai-kohai deference between Haruyuki and Kuroyukihime reflect Japanese school hierarchy."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; message inferred from Yen Press blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Growth through effort and trust is carried by plot."
+ },
+ "winners_losers": "Haruyuki rises from bullied outsider to capable fighter with friends (to verify).",
+ "to_verify": [
+  "Fan service level",
+  "Bullying depiction detail",
+  "Ending of manga vs light novel",
+  "Delivery style"
+ ]
+}

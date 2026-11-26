@@ -1,0 +1,92 @@
+{
+ "anilist_id": 81747,
+ "title": "The Garden of Words",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/81747",
+  "https://api.mangaupdates.com/v1/series/77285658051",
+  "https://www.animenewsnetwork.com/review/the-garden-of-words/gn/.85408"
+ ],
+ "premise": "Takao, a first-year high-school student who dreams of making shoes, skips class on rainy mornings to sketch in a Tokyo park, where he keeps meeting Yukino, a quiet woman in her twenties who drinks beer there. Their rainy-day meetings grow into a bond before each learns the other's situation; the manga adapts Makoto Shinkai's film and adds family subplots (Kodansha and Comix Wave blurbs via MU and AniList; ANN review).",
+ "life_message": "Words and small kindnesses can carry a hurting person through, and each must learn to walk on alone.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Emotional drama; 'numerous traumas' in pasts (ANN)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Feelings between a first-year high-school student and an adult woman who is a teacher at his school (MU Student-Teacher Relationship, Age Gap; AniList Teacher spoiler tag). ANN does not report physical content (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "The woman drinks 'a morning beer' in the park (Kodansha blurb via MU)."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Students bullying a teacher is a major plot point (ANN; MU Bullying, Bullied Female Lead); traumas and unhappiness (ANN)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Skipping school (AniList; MU blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adaptation of an anime film (MU Based on an Anime)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Healing through connection; coming of age; the power of words and poetry",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 4},
+ "foundations": {"care": 8, "loyalty": 5, "fairness": 6, "sanctity": 4, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Kindness to a woman wounded by bullying; Takao's vocation as a craftsman.", "concerns": "Romantic feelings between a student and a teacher."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Gentle consolation of the suffering.", "concerns": "Teacher-student attachment; truancy."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Cruel words shown to wound (Proverbs-like theme).", "concerns": "Adult-minor romantic feelings; drinking."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Encouragement restores hope.", "concerns": "Teacher-student romance theme."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Words have power to heal or harm.", "concerns": "Adult-minor relationship; alcohol."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Ninth-commandment theme: rumors ruin a career.", "concerns": "Student-teacher feelings."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Vocation and 'best construction' versus rumor.", "concerns": "Age-gap feelings."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Compassion for the bullied.", "concerns": "Adult-minor romance; drinking."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Poetry and gentle moral vision (ANN: 'hopeful').", "concerns": "Boundaries between teacher and pupil."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Humble craft and quiet companionship.", "concerns": "Worldly romance across ages; alcohol."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Pursuit of a dream through work.", "concerns": "Alcohol; age-gap romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Attention to workplace bullying and mental health.", "concerns": "Power imbalance of teacher and student."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Harmful speech condemned.", "concerns": "Alcohol; unchaperoned romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Respect for a guru-like figure tested.", "concerns": "Romance with a teacher."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Right speech: rumor causes suffering; impermanence of rain.", "concerns": "Intoxicants."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Mental health and bullying taken seriously.", "concerns": "Adult-minor romance framing; consent."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Human connection and self-made purpose.", "concerns": "Teacher-student boundary."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Craftsmanship and diligence.", "concerns": "Truancy; teacher-student romance."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Healing of mind.", "concerns": "Alcohol; romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Gossip condemned.", "concerns": "Romance across ages; drinking."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Healing through love and right thought.", "concerns": "Alcohol."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Dignity of the bullied.", "concerns": "Age-appropriateness of the romance."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Nature (rain, garden) as healing.", "concerns": "Power imbalance."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Seasonal rain, a Japanese garden and classical tanka honored.", "concerns": "Teacher-student boundary."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work (kirat karni).", "concerns": "Alcohol."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Backbiting shown as harmful.", "concerns": "Alcohol; romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Communication heals.", "concerns": "Alcohol."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individual self-direction.", "concerns": "Adult-minor boundary."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Lashon hara shown as destructive.", "concerns": "Romance; modesty."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Harmful speech condemned.", "concerns": "Teacher-student romance."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethics of speech and care.", "concerns": "Power imbalance."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Hurt from rumors met with withdrawal and healing, not retaliation (Kodansha blurb; ANN)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Takao skips class to pursue his own dream (AniList; MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Strained ties with brother; mother leaves (ANN)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Student and teacher meet as equals in the garden (ANN)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Ancient tanka poem central (Kodansha blurb)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Shoemaking ambition and emotional healing (ANN)."}
+  },
+  "closest": ["English-speaking", "The Midlands", "New Netherland"],
+  "japan": "Uses classical Japanese tanka from the Man'yoshu tradition and the rainy season (tsuyu) as the story's frame."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN praises 'subtle symbolism' and a gentle, hopeful tone.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Meaning rests on imagery and poetry rather than stated morals."
+ },
+ "winners_losers": "Both Takao and the woman are treated with sympathy; the bullies who spread rumors are the source of harm (ANN; Kodansha blurb).",
+ "to_verify": [
+  "How the student-teacher feelings are resolved and whether anything physical occurs.",
+  "ANN mentions Takao cutting himself with a leatherworking tool; check whether accidental or self-harm.",
+  "Takao's exact age (first-year high school)."
+ ]
+}

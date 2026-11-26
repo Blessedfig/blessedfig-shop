@@ -1,0 +1,90 @@
+{
+ "anilist_id": 95229,
+ "title": "Otherworldly Izakaya \"Nobu\"",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/95229",
+  "https://api.mangaupdates.com/v1/series/4146571037"
+ ],
+ "premise": "A Japanese-style pub, Nobu, opens onto a back alley of the medieval European-style city of Aiteria, where slacker soldiers, a spoiled heiress, an uptight tax collector and others discover Japanese food and drink and find their troubles melting away (UDON blurb; MU). Episodic food comedy adapting a novel; 22 volumes, ongoing (MU).",
+ "life_message": "Good food, drink and hospitality bring comfort and bridge cultures.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Iyashikei, a soothing slice of life (AniList)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None noted (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 4, "framing": "Endorsed", "note": "An izakaya serving 'cold, super cool beer' (MU blurb); AniList Bar; UDON calls it a Japanese-style pub."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Customers' troubles eased (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Adult drinking shown as relaxing."},
+  {"category": "Commercial", "score": 3, "framing": "Endorsed", "note": "Food and drink showcased lovingly; MU Japanese Food, Food/Gourmet."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Hospitality; food and drink as comfort; cultural exchange",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Hospitality and table fellowship at Nobu.", "concerns": "Drinking is constant, though moderation is accepted."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Feasting and welcome of strangers.", "concerns": "Little to raise beyond drink."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Kindness to weary customers.", "concerns": "Beer and sake as a central pleasure."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Welcoming the stranger.", "concerns": "Alcohol shown positively."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Hospitality.", "concerns": "Alcohol celebrated."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Common grace in good food and work.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation of cooks; beer in moderation.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Comfort and care for the troubled.", "concerns": "Abstinence tradition and the beer focus."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Hospitality.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple shared meals.", "concerns": "Alcohol and worldly leisure."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Kindness and service.", "concerns": "Word of Wisdom: beer and sake shown positively."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Cross-cultural welcome.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Hospitality to guests.", "concerns": "Alcohol is central and celebrated."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Atithi devo bhava: guests honored.", "concerns": "Alcohol; meat dishes."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Kindness and easing suffering.", "concerns": "Fifth precept and intoxicants."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Cultural exchange and inclusion.", "concerns": "Adult drinking for young readers."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Human pleasures and connection.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Small business, work ethic and hospitality.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Food shared in fellowship.", "concerns": "Alcohol and unclean meats likely (to verify)."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Moderate drinking and friendliness.", "concerns": "Little to raise."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Comfort and gratitude.", "concerns": "Alcohol focus."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Pluralism across worlds.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Cakes-and-ale conviviality.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Sake, seasonal food and gratitude at the table.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Langar-like open table.", "concerns": "Intoxicants forbidden."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity across peoples.", "concerns": "Alcohol forbidden."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and communication.", "concerns": "Alcohol in excess (to verify)."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence in good things.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Hachnasat orchim.", "concerns": "Non-kosher food and drinking culture."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Hospitality.", "concerns": "Kashrut."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Welcome and community.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Troubles soothed over food, not fights (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Slacker soldiers relax off duty (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Open to all comers, any rank (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Heiress and soldiers share the same counter (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Pleasure-centered, worldly setting."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Quality of life and enjoyment (AniList Iyashikei)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "Yankeedom"],
+  "japan": "Izakaya hospitality (omotenashi) and the habit of ordering 'toriaezu nama' first are Japanese norms the series presents to its fantasy guests."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic food comedy (AniList Episodic); no review read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values arrive through each customer's comforting meal rather than stated lessons."
+ },
+ "winners_losers": "Everyone who eats at Nobu comes away comforted; little conflict is described.",
+ "to_verify": [
+  "Any conflict with city authorities or other darker plotlines in later volumes",
+  "Romance content",
+  "No review or Wikipedia text was available"
+ ]
+}

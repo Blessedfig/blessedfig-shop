@@ -1,0 +1,363 @@
+{
+ "anilist_id": 79143,
+ "title": "Sweet Monster",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/79143",
+  "https://api.mangaupdates.com/v1/series/77226146781"
+ ],
+ "premise": "'Monsters', people who can take animal forms, are kept segregated from the rest of society. As a child Riku befriended a Monster boy, Tsukasa, and lost him; now at an academy for Monsters he finds Tsukasa again but must overcome his classmates' distrust (SuBLime blurb via AniList, MU). MangaUpdates lists discrimination, bullying, politicians, coming out and an openly gay couple.",
+ "life_message": "Loyalty across a social divide can overcome prejudice.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bullying, injuries and a cage listed (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Abandonment and a difficult childhood (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Boys' Love; MU lists first-time and outdoor intercourse; MangaDex rating safe (batch data); conflicting, capped (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Shown with consequences",
+   "note": "Abandonment, betrayal, difficult childhood (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bullying among students (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Progressivism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Progressivism, Critical theory",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 7,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Dignity of the excluded; faithful friendship.",
+   "concerns": "Same-sex romance and sexual content."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love for the outcast.",
+   "concerns": "Same-sex intimacy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loving the stranger.",
+   "concerns": "Same-sex romance and sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyalty across division.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Shapeshifting; sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Image of God in the despised.",
+   "concerns": "Same-sex romance; WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love of neighbor across lines.",
+   "concerns": "Synods differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Social holiness against prejudice.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity of every human being.",
+   "concerns": "Provinces differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Peaceful loyalty amid bullying.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Keeping a childhood promise.",
+   "concerns": "Law of chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Anti-discrimination allegory; coming out.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Justice for the oppressed.",
+   "concerns": "Same-sex intimacy."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "All beings share atman.",
+   "concerns": "Sexual content; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion beyond categories.",
+   "concerns": "Third precept."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Segregation critiqued; queer love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rejecting prejudice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyalty and courage.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Faithful friendship.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love over fear.",
+   "concerns": "Sensual material."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inherent worth of the 'other'.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Animal kinship and freedom.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Animal spirits respected.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Equality of all people.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Oneness of humanity; prejudice rejected.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Improving society.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Resisting unjust order.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Opposing hatred of the stranger.",
+   "concerns": "Same-sex intimacy."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity and justice.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tikkun olam against prejudice.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Worth of Monsters is inherent."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Challenging segregation rules."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Loyalty to an outsider friend."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Social status divisions opposed."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular academy; politics."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Tolerance and coming out valued."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "English-speaking",
+   "Catholic Europe"
+  ],
+  "japan": "A boarding academy and childhood promise are common in Japanese school romance; the segregated 'Monsters' echo yokai outsider stories."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Segregation and distrust are the premise in the blurb; MU lists discrimination; no review on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Prejudice against Monsters reads as an allegory carried by the plot."
+ },
+ "winners_losers": "Riku and Tsukasa's bond wins over segregation; prejudice is what the story works against.",
+ "to_verify": [
+  "Ages at the academy and when sex occurs (SuBLime blurb implies an 'adult relationship').",
+  "How politicians and segregation are portrayed.",
+  "Sexual content level (MU vs MangaDex 'safe'); possibly understated.",
+  "License status (batch note: check)."
+ ]
+}

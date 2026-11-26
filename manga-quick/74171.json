@@ -1,0 +1,363 @@
+{
+ "anilist_id": 74171,
+ "title": "Hopelessly Devoted",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/74171",
+  "https://api.mangaupdates.com/v1/series/18335146800"
+ ],
+ "premise": "Yuuji, a young and popular Buddhist priest in a shopping district, says he has given up dating and marriage for his faith. Secretly he loves his childhood friend Saburou, a man he believes he can never date or marry. An adult boys' love slice-of-life drama with an ensemble of townspeople (Futekiya blurb via AniList; MangaUpdates).",
+ "life_message": "A good life means honest love and faithful duty held together within a supportive community.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult same-sex romance; MangaUpdates genre Yaoi, MangaDex 'safe' (capped, to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Hidden, unspoken love."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Dharmic (Hindu/Buddhist); Expressive individualism; Communitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 5,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Priestly devotion and community service shown sincerely.",
+   "concerns": "Same-sex romance affirmed; CCC 2357-2359."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Clergy life and faith taken seriously.",
+   "concerns": "Same-sex romance; passions over vows."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Yuuji's faithful service to neighbors.",
+   "concerns": "Same-sex romance central (BF&M 2000)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship and loyalty to Saburou.",
+   "concerns": "Same-sex romance as the core plot."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Devoted religious life depicted.",
+   "concerns": "Same-sex romance; non-Christian priesthood."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation as priest in a community.",
+   "concerns": "Same-sex romance; other religion's rites."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation and neighbor love.",
+   "concerns": "Same-sex romance (LCMS); ELCA families more open."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service in the shopping district.",
+   "concerns": "Same-sex romance; split across Methodist bodies."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gentle portrait of clergy and townsfolk.",
+   "concerns": "Episcopal open; ACNA would raise the romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Simplicity and community bonds.",
+   "concerns": "Same-sex romance in conservative groups."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Devotion and service.",
+   "concerns": "Same-sex romance against the Proclamation."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gay love treated with tenderness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness and modest town life.",
+   "concerns": "Same-sex romance; other worship depicted."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dharma of a temple role, family duty.",
+   "concerns": "Romance strains a priest's vows; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Buddhist priest life shown respectfully.",
+   "concerns": "Attachment versus vows; Japanese priests may marry (to verify)."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Queer love centred with warmth.",
+   "concerns": "Closeted secrecy worth discussing."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest relationships among adults.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Service to community, duty to faith.",
+   "concerns": "Same-sex romance presented to readers."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful devotion depicted.",
+   "concerns": "Same-sex romance (General Conference)."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Neighborly kindness.",
+   "concerns": "Same-sex romance; other religion's rites."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love as a healing force.",
+   "concerns": "Same-sex romance; families vary (to verify)."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love and pluralism in one town.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love among consenting adults.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Temple and shrine life (Shinto priest per MangaUpdates).",
+   "concerns": "Little doctrine at stake."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seva-like service to neighbors.",
+   "concerns": "Same-sex romance (Akal Takht 2005)."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthfulness and community harmony.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal integrity and communication.",
+   "concerns": "Little codified."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Choosing one's own desire over expectation.",
+   "concerns": "Religious devotion framed positively."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Community and loyalty.",
+   "concerns": "Same-sex romance; other worship."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness and community.",
+   "concerns": "CJLS 2006 allows; views vary."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive love story.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Gossip and admiration, not feuds (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Yuuji keeps his love private amid expectations."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Close-knit shopping district (AniList Ensemble)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Priestly role carries standing."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Temple tradition central to Yuuji's life."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Love and personal fulfillment matter."
+   }
+  },
+  "closest": [
+   "Latin America",
+   "El Norte",
+   "Catholic Europe"
+  ],
+  "japan": "Hereditary temple roles and shopping-district neighborliness reflect Japanese norms, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Message is carried by Yuuji's hidden feelings and community life."
+ },
+ "winners_losers": "Outcome not stated in sources; MangaUpdates category 'Unrequited Love Becomes Requited' suggests the pair come together (to verify).",
+ "to_verify": [
+  "No review opened; based on Futekiya blurb and MangaUpdates",
+  "Sexual content level not confirmed beyond MangaUpdates 'Yaoi' genre",
+  "MangaUpdates lists a lesbian character; not confirmed",
+  "Whether Yuuji's vows formally bar marriage to verify"
+ ]
+}

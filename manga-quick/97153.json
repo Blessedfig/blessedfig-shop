@@ -1,0 +1,90 @@
+{
+ "anilist_id": 97153,
+ "title": "Knight's & Magic",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/97153",
+  "https://api.mangaupdates.com/v1/series/4615466937"
+ ],
+ "premise": "A genius programmer and robot otaku is reborn in a world of knights and magic as Ernesti Echevalier ('Eru'), where giant humanoid machines called Silhouette Knights fight. With childhood friends Archid and Adeltrud he trains to pilot them and uses his engineering know-how to build his ultimate robot, with world-changing results (Crunchyroll blurb via MU; AniList). Manga adaptation of a light novel, 17 volumes, complete.",
+ "life_message": "Passion, study and hard work can turn a hobby into something that changes the world.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Mecha and monster battles (MU Monsters, Piloted Robots); detail not checked."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Monster threats (MU)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "MU Romance genre; AniList Female Harem (46); MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None of note."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Part of a novel/anime franchise."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Transhumanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Engineering ingenuity; following one's passion; reincarnation premise",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 5},
+ "foundations": {"care": 4, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 5, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Eru's diligence and friendship with Archid and Adeltrud.", "concerns": "Reincarnation premise; fantasy magic judged by framing."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Craft and study put to service of a kingdom.", "concerns": "Reincarnation contrary to resurrection teaching."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Hard work and loyalty.", "concerns": "Reincarnation and magic as world-building."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Gifts used to protect others.", "concerns": "Reborn-soul premise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Courage against monsters.", "concerns": "Spells and magic systems."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Vocation and cultural making in engineering.", "concerns": "Reincarnation theme."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation: Eru serves through his craft.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Diligent use of talents.", "concerns": "Battle as spectacle."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Fantasy adventure in a long tradition.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Skill and community work.", "concerns": "Building war machines celebrated."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Self-improvement and study.", "concerns": "Battle violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Creativity and teamwork.", "concerns": "Militarized technology rarely questioned (to verify)."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Knowledge and effort valued.", "concerns": "Magic as real power; reincarnation."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Rebirth carries a soul's skills forward; dharma of a craftsman-warrior.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Rebirth premise familiar.", "concerns": "Attachment to robots and weapons."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Celebrates engineering curiosity.", "concerns": "Harem tag; war machines."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Reason, invention and programming solve problems.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Knights, duty and defense of the realm.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Diligence and education.", "concerns": "Reincarnation and magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Industry and friendship.", "concerns": "Magic; martial glory."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Optimism and creative mind.", "concerns": "Material focus on machines."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Curiosity and creativity.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic woven into the world.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Monozukuri: devotion to craft.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work and courage.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Science and learning valued.", "concerns": "War spectacle."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Past-life competence fits its view of the spirit.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-directed ambition.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Magic; bittul Torah for genre fiction."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Learning and skill.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Creativity.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Knightly setting but conflict driven by engineering and monsters (MU)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Eru pursues his own robot dream within academy and kingdom (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Childhood friends and kingdom service (AniList blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Knights, academy and royal setting (MU Knights, Academy)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Programming knowledge transforms an archaic world (MU Advanced Knowledge Meets Archaic World)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Otaku passion as life goal (blurb)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "Yankeedom"],
+  "japan": "Reflects the Japanese isekai boom and otaku culture, treating a hobbyist's obsession with giant robots as a heroic calling."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Message carried by Eru's projects (blurb); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "An adventure whose values come through the hero's projects rather than argument."
+ },
+ "winners_losers": "Eru's ingenuity wins; the passion-driven inventor is the sympathetic figure.",
+ "to_verify": [
+  "Battle intensity and harem elements (AniList Female Harem 46) not checked.",
+  "English Crunchyroll digital release status (MU lists 11 volumes).",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

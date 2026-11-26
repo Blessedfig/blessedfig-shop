@@ -1,0 +1,92 @@
+{
+ "anilist_id": 192834,
+ "title": "Me and the Prez, Drinking Under the Stars",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/192834",
+  "https://api.mangaupdates.com/v1/series/30639573679",
+  "https://www.animenewsnetwork.com/press-release/2025-11-20/seven-seas-licenses-me-and-the-prez-drinking-under-the-stars-manga-series/.231226"
+ ],
+ "premise": "Reina Izutsu, 24, becomes president of Izutsu Printing after her father's death and comes across as harsh to her staff; drinking alone in a park, she vents that she wants to quit (Seven Seas blurb). Section chief Kenichi Ishizumi, 37, overhears and, charmed, vows to support her (blurb). Billed as an 'adorably awkward office rom-com' (ANN press release); MU lists it as ecchi seinen, ongoing in Japan.",
+ "life_message": "A young leader grows into her role with loyal, patient support from those under her.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Comedy."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Adult boss-subordinate romance with a 13-year age gap (blurb); MU Ecchi, Big Breasts, 'Drawn by Hentai Artist'; cap 3 pending a second kind of source (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Drunken venting (blurb); not otherwise noted."},
+  {"category": "Substances", "score": 4, "framing": "Neutral", "note": "Reina 'drowning her sorrows in beer' (blurb; ANN); MU Alcohol, Drunk/s; drinking is in the title."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Work stress and grief for her father (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Drinking alone to cope (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Confucian ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Workplace loyalty and mentoring; adult office romance; drinking as release",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 4, "sanctity": 2, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Kenichi chooses support over exploiting Reina's weakness.", "concerns": "Ecchi framing and drunkenness."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility in service to a superior.", "concerns": "Drunkenness; sexualized art."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Integrity of a subordinate who won't use gossip.", "concerns": "Alcohol central; ecchi content."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Encouragement of a struggling leader.", "concerns": "Drunkenness and fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Faithful service.", "concerns": "Alcohol and immodesty."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Vocation and duty in a family business.", "concerns": "Drunkenness; lascivious art."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Fourth commandment: honoring rightful authority.", "concerns": "Drunkenness."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care for the overburdened.", "concerns": "Alcohol focus."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Kindness at work.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Yielding service.", "concerns": "Alcohol and sexualized art."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Diligence and support.", "concerns": "Word of Wisdom; immodesty."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "A young woman leading a company.", "concerns": "Power dynamics; objectifying art."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyal, honest service.", "concerns": "Alcohol central; immodest images."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Duty to inherited role.", "concerns": "Intoxication."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Compassion for stress.", "concerns": "Fifth precept."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Female executive centered.", "concerns": "Workplace romance power imbalance; fan service."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Empathy at work.", "concerns": "Mild objectification."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Continuing a father's business; loyalty.", "concerns": "Fan service; drinking."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Diligence.", "concerns": "Alcohol; immodesty."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Honest support.", "concerns": "Drunkenness."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming discouragement.", "concerns": "Alcohol."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Supportive community.", "concerns": "Power imbalance."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Consenting adults; balance.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Household business continuity; sake normal.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work (kirat karni).", "concerns": "Intoxicants; lust."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service and consultation.", "concerns": "Alcohol forbidden."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping others succeed.", "concerns": "Alcohol excess."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence among consenting adults.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Honoring the father's legacy.", "concerns": "Tzniut issues."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Kind speech instead of exploiting a secret.", "concerns": "Immodest images."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical workplace support.", "concerns": "Power imbalance."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Kenichi declines to use her outburst against her (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Company roles and duties frame the story (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Inherited family company (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Boss-subordinate relationship central (MU)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern office comedy."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Work pressure balanced with leisure drinking (blurb)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Puritan"],
+  "japan": "Drinking to blow off work stress and the section chief's loyalty to the company head reflect Japanese office culture and its hierarchy."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; press release calls it an 'office rom-com' (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe a comedy without a stated thesis."
+ },
+ "winners_losers": "Reina and Kenichi both get sympathy; no antagonist is described.",
+ "to_verify": [
+  "Seven Seas imprint and age rating (Ghost Ship or main line); MU has no Adult genre",
+  "Fan-service and nudity level (MU Ecchi; artist note)",
+  "How the boss-subordinate romance handles power",
+  "English edition just licensed (Nov 2025)"
+ ]
+}

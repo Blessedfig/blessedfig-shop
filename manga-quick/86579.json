@@ -1,0 +1,90 @@
+{
+ "anilist_id": 86579,
+ "title": "The Morose Mononokean",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/86579",
+  "https://api.mangaupdates.com/v1/series/57209357031"
+ ],
+ "premise": "Ashiya, who did not believe in the supernatural, spends his first week of high school in the infirmary because a youkai has attached itself to him, and he asks the morose owner of a small tea room, the Mononokean, for help (Crunchyroll and Manga Up! blurbs via AniList and MU). The owner guides youkai that wander into this world on to the next, and Ashiya ends up working for him, partly to pay off a debt (blurb; MU Debt-Motivated Protagonist). Episodic comedy with an ongoing plot; complete in 18 volumes; adapted to anime (MU).",
+ "life_message": "Kindness and understanding toward misunderstood beings, and friendship between very different people, bring healing.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Exorcism and curses (MU); mostly gentle (AniList Iyashikei)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Youkai, demons and curses; AniList Body Horror at low rank (spoiler)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "MU Non-BL with Two Male Leads; no romance noted."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not checked (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Sudden servitude to repay a debt (MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation."}
+ ],
+ "lenses": [
+  {"lens": "Pantheist/New Age", "strength": 3, "stance": "Explored"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Compassion for spirits; friendship; Japanese folklore",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 5, "sanctity": 6, "authority": 5, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Ashiya's compassion for lost beings; friendship.", "concerns": "Guiding spirits to 'the next world' and exorcism outside Christian framing."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Kindness to the suffering.", "concerns": "Demons shown as benign spirits to be helped."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Friendship and humility.", "concerns": "Youkai, demons and exorcism rituals central."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Compassion and loyalty.", "concerns": "Spirit-world practice presented as real."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Healing a boy oppressed by a spirit.", "concerns": "Demons and spirit contact framed as benign."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common grace in kindness.", "concerns": "Folk-religious cosmology."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Serving one's neighbor, even strange ones.", "concerns": "Spirits and afterworld."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Mercy toward the lost.", "concerns": "Occult-adjacent elements."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle fantasy with compassion.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Peaceable resolution of spirit troubles.", "concerns": "Spirit-world themes."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Service and friendship.", "concerns": "Spirit contact."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Hospitality to the outsider.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Mercy and patience.", "concerns": "Jinn-like spirits handled with rituals."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Helping beings move on resonates with rebirth.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion guiding wandering spirits onward.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Empathy for the misunderstood.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Friendship and kindness.", "concerns": "A skeptic converted to belief in spirits."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Hard work to repay debt; loyalty.", "concerns": "Occult themes for some."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Spirits of the dead and afterworld shown as real."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Spiritism and demons central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Healing from affliction.", "concerns": "Spirit possession imagery."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Compassion across difference.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "S", "weight": "Minor", "aligns": "Spirits honored and helped, not demonized.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Respectful dealings with youkai and purification.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Seva toward suffering beings.", "concerns": "Superstition themes."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Kindness and service.", "concerns": "Spiritualism."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Freeing beings from what binds them.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Folk spirits as story symbols.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Chesed toward the lost.", "concerns": "Necromancy-like spirit dealings."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Spirit practice."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Compassion.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Spirit troubles resolved by understanding, not combat (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Ashiya bound to work for the owner (MU Sudden Servitude)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Friendship as central bond (MU Important Non-Romantic Relationship)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Master-assistant roles at the Mononokean."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Folklore and spirits shown real; skeptic changes view (MU blurb)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Debt repayment alongside school life."}
+  },
+  "closest": ["Puritan", "Catholic Europe", "Yankeedom"],
+  "japan": "Youkai folklore and the guiding of spirits draw on Japanese Shinto-Buddhist folk belief, presented as everyday fantasy."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Episodic stories per blurb; no review read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Gentle episodic supernatural comedy without argued positions."
+ },
+ "winners_losers": "Ashiya, the Mononokean owner and the youkai they help have sympathy; no villain is named in the sources.",
+ "to_verify": [
+  "Body-horror content (AniList spoiler tag)",
+  "Name of the Mononokean owner (not in sources opened)",
+  "Any more frightening arcs in later volumes"
+ ]
+}

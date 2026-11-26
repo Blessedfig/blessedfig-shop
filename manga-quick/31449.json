@@ -1,0 +1,95 @@
+{
+ "anilist_id": 31449,
+ "title": "Crying Freeman",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31449",
+  "https://api.mangaupdates.com/v1/series/16688115894",
+  "https://www.animenewsnetwork.com/house-of-1000-manga/2011-02-24"
+ ],
+ "premise": "Yo Hinomura, a Japanese potter, is abducted by the 108 Dragons, a Chinese criminal society, and hypnotically conditioned into an assassin who weeps for each victim (Dark Horse blurb via AniList and MangaUpdates; ANN column). Emu Hino, a painter who witnesses a killing, falls in love with him and is accepted as his wife; he later becomes the society's leader, and the rest is a run of globe-trotting assassination jobs (ANN). A 1986 Kazuo Koike and Ryoichi Ikegami seinen thriller for adult readers.",
+ "life_message": "It treats love and becoming powerful enough to be free as the goal of life (ANN column's reading).",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 8, "framing": "Endorsed", "note": "Assassinations, a poison-gas massacre and an arena fight to the death (ANN); MangaUpdates Violence, Mass Murder/s, Serial Killer/s."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Paranoid spy-thriller tone with realistic-looking killings (ANN); Psychopath/s, Kidnapping/s (MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 8, "framing": "Endorsed", "note": "Frequent explicit sex between adults with genitals censored; ANN calls it 'a shameless male fantasy'. MangaUpdates Adult genre, Borderline H, Rape; MangaDex erotica."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Crime-thriller dialogue; not described in sources (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "MangaUpdates lists Alcohol; hypnotic conditioning rather than drugs."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Hero conditioned to kill against his will; tears of remorse (blurb)."},
+  {"category": "Imitable behavior", "score": 5, "framing": "Endorsed", "note": "The handsome, wealthy hitman is the reader's fantasy figure (ANN); Antihero tag (MangaUpdates)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Libertarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Power as freedom, romantic devotion, male sexual fantasy, criminal loyalty",
+ "axes": {"economic": 6, "social": 7, "cultural": 5, "community": 6},
+ "foundations": {"care": 3, "loyalty": 8, "fairness": 2, "sanctity": 1, "authority": 7, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Freeman's tears show conscience still alive after each killing.", "concerns": "Contract murder made glamorous; explicit sex; Emu's sterilization as a marriage term."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Remorse after killing hints at a wounded soul.", "concerns": "Explicit imagery feeds the passions; violence celebrated as power."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Marriage bond between Freeman and Emu is central.", "concerns": "Explicit sex, many lovers devoted to Freeman, assassin hero."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Love story at its core (ANN).", "concerns": "Murder for a crime society shown as heroic; frequent explicit sex."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Conscience shown in Freeman's tears.", "concerns": "Explicit sexual content and glamorized killing; hypnotic control."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Shows how evil masters bind a man's will.", "concerns": "WLC Q139 'lascivious pictures'; killing never truly judged."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Freeman's remorse points to guilt needing grace.", "concerns": "Explicit sex and contract killing presented as adventure."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Emu becomes a capable partner, not a bystander.", "concerns": "Little here tends toward holiness; explicit sex and killing."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Remorseful assassin could open moral discussion.", "concerns": "Framing glamorizes the hitman; women defined by devotion to him."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Freeman's tears suggest killing wounds the killer.", "concerns": "Violence as heroic power; explicit sex; criminal loyalty."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Marriage commitment between Freeman and Emu.", "concerns": "Law of chastity broken throughout; vulgar and violent imagery."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Emu becomes a skilled swordswoman (ANN).", "concerns": "Women as 'love slaves'; sterilization; violence glamorized."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Loyalty and marriage are valued in the story.", "concerns": "Explicit sex and nudity; adultery; murder for hire."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Remorse after killing echoes karmic weight.", "concerns": "Kama overrides dharma; killing serves a criminal clan."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Freeman weeps for those he kills.", "concerns": "First and third precepts broken constantly; craving celebrated."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Shows a man coerced by hypnosis, raising consent questions.", "concerns": "ANN notes women defined by devotion; sexist male fantasy."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Conscience surviving conditioning is a humane idea.", "concerns": "Cruelty and killing as spectacle; exploitative sex."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyalty, marriage and duty to one's house.", "concerns": "Explicit sex and gore; criminal underworld as heroic."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Remorse is shown.", "concerns": "By beholding we are changed: explicit sex and killing throughout."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Freeman longs to leave the killing life (soon dropped, ANN).", "concerns": "Violence God hates; sexual immorality; hypnotic control."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Tears hint at the true self beneath conditioning.", "concerns": "Dwelling on killing and lust as mental influences."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Freeman's lost autonomy invites discussion of dignity.", "concerns": "Exploitation of women; violence as entertainment."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Love bond between Freeman and Emu is honored.", "concerns": "Harm done for a crime syndicate; sex not always consensual (Rape tag)."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Potter and painter artists; loyalty to one's house.", "concerns": "Constant blood and death bring kegare; little sincerity in the killing."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Emu as an equal fighter.", "concerns": "Lust and ego shown as admirable; killing for gain."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Love story at its core.", "concerns": "Violence and unchaste content opposed to a chaste and holy life."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Hypnotic implanting shown as a violation of the self.", "concerns": "'Do not murder' broken constantly; infidelity."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Indulgence and self-made power fit Church of Satan themes.", "concerns": "Freeman's will is controlled by masters; non-consensual sex tagged."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Marriage bond is valued.", "concerns": "Tzniut broken throughout; murder as heroism."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Freeman's conscience survives coercion.", "concerns": "Explicit sex; killing without justice."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Questions of free will under coercion.", "concerns": "Exploitative portrayals of women; glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Disputes settled by assassination and duels to the death (ANN column)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Freedom comes from becoming the most powerful, inside a criminal order (ANN)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Loyalty to the 108 Dragons 'family' above any law (blurb; ANN)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Masters command; Freeman rises to lead the society (ANN)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Triad rituals and tattoos alongside modern spy-thriller settings."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Constant danger; pleasure and love pursued between missions (ANN)."}
+  },
+  "closest": ["Cavalier", "Tidewater", "Orthodox Europe"],
+  "japan": "It reflects 1980s Japanese gekiga, where Koike's adult thrillers paired stoic male heroes with criminal-family loyalty; the triad setting draws on Chinese diaspora crime-fiction tropes."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN calls it pulpy 'imaginative porn' with quick reversals; no moralizing described.",
+  "personified": [
+   {"character": "Yo Hinomura (Crying Freeman)", "ideology": "freedom by becoming the most powerful (ANN's Ayn Rand comparison)", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "None shown",
+  "note": "Sources describe it as a wish-fulfilment action story rather than one that argues a case."
+ },
+ "winners_losers": "Freeman and Emu win and rise to lead the society; rivals and targets lose. The hitman's power and charisma get the story's sympathy (ANN).",
+ "to_verify": [
+  "Rape: MangaUpdates lists it, but the ANN column does not describe rape in this series; check scenes and framing.",
+  "Emu's sterilization as part of the marriage terms (ANN): check how it is presented.",
+  "Language level not described in any source.",
+  "ANN column covers the five-volume Viz-era English edition; check the Dark Horse omnibus matches."
+ ]
+}

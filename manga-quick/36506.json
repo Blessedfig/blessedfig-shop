@@ -1,0 +1,362 @@
+{
+ "anilist_id": 36506,
+ "title": "CRASH!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/36506",
+  "https://www.mangaupdates.com/series/1g5y51d"
+ ],
+ "premise": "Hana Shirahoshi, daughter of an entertainment agency's owner, gets nosebleeds whenever she meets someone with star potential. For the agency's 10th anniversary she encounters five boys at an event and forms an idol group with them. A 16-volume shoujo romance with love triangles and showbiz drama.",
+ "life_message": "Hard work and belief in others' talent build a team and a future.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Reverse-harem romance and love triangles (AniList, MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not documented."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "AniList Tragedy tag (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Nosebleed gag; showbiz pressure."
+  },
+  {
+   "category": "Commercial",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Idol industry and talent agency are the setting (AniList Idol, MU Talent Agency)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Teamwork and talent; showbiz; romance",
+ "axes": {
+  "economic": 6,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hard work and teamwork.",
+   "concerns": "Celebrity culture."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Encouragement of others' gifts.",
+   "concerns": "Vanity of fame."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Romance focus; fame."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hard work.",
+   "concerns": "Worldly fame."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Encouraging others.",
+   "concerns": "Worldliness of showbiz."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation and diligence.",
+   "concerns": "Pursuit of fame."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gifts used in work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Fame culture."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Worldly fame and performance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Developing talents.",
+   "concerns": "Romance; fame."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Young woman as producer.",
+   "concerns": "Idol commodification."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Music and mixed-gender romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hard work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Right effort.",
+   "concerns": "Attachment to fame."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Girl leads a business.",
+   "concerns": "Idol-industry pressures."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Talent and effort.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Work ethic and family business.",
+   "concerns": "Celebrity culture."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Worldly entertainment."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work.",
+   "concerns": "Worldly music and romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Confidence in good.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Each person's gifts.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Creative expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Effort and harmony.",
+   "concerns": "Little doctrine."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Arts as service.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Artistic achievement.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ambition rewarded.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Tzniut; music; mixed-gender romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Talent and agency.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Rivalries in showbiz, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Creative careers chosen freely."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Family-run agency."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Agency-talent hierarchy."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular entertainment world."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Self-expression through music."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "The Midlands"
+  ],
+  "japan": "The idol and talent-agency system is a distinctive part of Japanese pop culture, with strong expectations of hard work and group image."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review opened; blurbs carry values through the band story (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Summaries present a showbiz romance without argument."
+ },
+ "winners_losers": "Hana and the band win sympathy.",
+ "to_verify": [
+  "No review, MangaDex or Wikipedia source; plot from Manga Million blurb via AniList and MU",
+  "Tragedy tag content",
+  "Romance details across 16 volumes"
+ ]
+}

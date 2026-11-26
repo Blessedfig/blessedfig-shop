@@ -1,0 +1,357 @@
+{
+ "anilist_id": 30997,
+ "title": "Parfait Chic",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30997",
+  "https://api.mangaupdates.com/v1/series/62851502220"
+ ],
+ "premise": "Cheerful high schooler Fuko gets new upstairs neighbors, the cool, aloof Ichi and the mischievous Daiya, cousins who attend her school. Over 22 volumes a love triangle and wider love polygon unfold among the three and their friends.",
+ "life_message": "Patient, sincere first love and loyal friendship lead to happiness.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Long teen love triangle; MU lists cohabitation and ex-lovers (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Crying, indecision (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere first love.",
+   "concerns": "Long teen dating; cohabitation tag (to verify)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithfulness tested over time.",
+   "concerns": "Romantic passions dominate."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyal affection.",
+   "concerns": "Teen relationships; cohabitation tag."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness among neighbors.",
+   "concerns": "Dating focus."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Clean comedy.",
+   "concerns": "Possible cohabitation."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ordinary life and choices.",
+   "concerns": "Indecisive romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Neighborly love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Growth through relationships.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Long comedy of young love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Neighbor community.",
+   "concerns": "Worldly romance focus."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clean romance (to verify).",
+   "concerns": "Cohabitation tag."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Fuko's choices respected.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincere affection.",
+   "concerns": "Mixed-gender teen dating; neighbors living close."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship duty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness.",
+   "concerns": "Attachment and indecision."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Emotional honesty.",
+   "concerns": "Possessive tropes (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Growth through choices.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithful love.",
+   "concerns": "Teen dating."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clean story.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clean story.",
+   "concerns": "Romance focus."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Cheerful heroine.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Each person's feelings valued.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Following the heart.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Neighborhood harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest feelings.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courtesy among friends.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Communication.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choosing freely.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Teen dating; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respectful relationships.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honesty.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Rivalry handled by feelings, not pride."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Teens choose freely."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Cousins and neighbors."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Peers as equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular modern school life."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Emotional expression central."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "Yankeedom"
+  ],
+  "japan": "Apartment-neighbor life and school seasonal events are typical Japanese shoujo settings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values come through the love triangle."
+ },
+ "winners_losers": "Fuko's love triangle with Ichi and Daiya is central; MU suggests unrequited love becomes requited; outcome not confirmed.",
+ "to_verify": [
+  "Which suitor Fuko chooses",
+  "MU 'Cohabitation' tag context",
+  "MANGA MILLION digital English edition; completeness"
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "anilist_id": 43163,
+ "title": "The Color of the Clear Blue Sky",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/43163",
+  "https://api.mangaupdates.com/v1/series/4459524492",
+  "https://api.mangadex.org/manga/b65f6561-404e-41ac-9628-0d4230035940"
+ ],
+ "premise": "Sakae Sugiura becomes an elementary-school teacher and is assigned to the school where his own former teacher, Ryuuji Fukada, still works; Fukada had been a support to him, but now seems changed, and Sakae's admiration slowly becomes romantic feeling (Renta! blurb). The romance is between adult colleagues (MU). It is a one-volume Boys' Love title.",
+ "life_message": "Gratitude and admiration can grow into an adult love between equals.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Quiet drama."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult same-sex romance between coworkers (blurb; MU); MangaDex rates safe."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Shy, tearful protagonist; divorced parents (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romance with a former teacher, now a colleague (MU Teacher-Ex-Student)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Teacher-mentor gratitude; adult same-sex romance; vocation",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gratitude and vocation to teach.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Respect for teachers.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love of teaching.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mentorship and service.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Service to children.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vocation honored.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teaching as vocation.",
+   "concerns": "Same-sex romance (LCMS); ELCA open."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gratitude.",
+   "concerns": "Same-sex romance (traditional bodies)."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle adult romance.",
+   "concerns": "ACNA would raise same-sex romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Service.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gratitude to teachers.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adult same-sex love; mentoring.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Respect for teachers.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Guru-like respect for teacher.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gratitude and kindness.",
+   "concerns": "Attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Realistic gay relationship (MU).",
+   "concerns": "Former mentor dynamic."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adults choosing love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Vocation and respect for elders.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Service.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Service.",
+   "concerns": "Same-sex romance central."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gratitude.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Consenting adults.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gratitude and sincerity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Service to children.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Education valued.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal growth.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adult choice.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Respect for teachers.",
+   "concerns": "Same-sex romance central."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love of learning.",
+   "concerns": "Same-sex romance (varies by congregation)."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor stakes."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "School workplace norms."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Colleagues and pupils."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Former teacher-student rank lingers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern school."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Personal feeling."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "The Midlands"
+  ],
+  "japan": "Deep respect for one's former teacher (sensei) shapes the romance."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found; blurb only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Feeling grows through workplace scenes."
+ },
+ "winners_losers": "Sakae's admiration turns to love; no opposing view is shown.",
+ "to_verify": [
+  "Explicitness of romance.",
+  "Whether any flashbacks involve romance while Sakae was a pupil (should not, per blurb)."
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "anilist_id": 102014,
+ "title": "Falling Slowly",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/102014",
+  "https://api.mangaupdates.com/v1/series/71200536999"
+ ],
+ "premise": "Masumi, an expressionless coworker who is popular with women, suddenly confesses to Yuki, who has never dated a man and rejects him. Masumi keeps telling Yuki how much he likes his expressive face, and Yuki starts to feel something in return (Renta! blurb via AniList and MangaUpdates). MangaUpdates places it in a convenience-store part-time workplace and calls it heartwarming.",
+ "life_message": "Love can grow slowly when someone keeps showing honest affection.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Boys' Love; kisses listed (MU); MangaDex rating erotica (batch data) but MU lists no sex acts (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Repeated confessions after a refusal framed as romantic (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest affection and patience.",
+   "concerns": "Same-sex romance affirmed."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentleness between coworkers.",
+   "concerns": "Passions; same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness at work.",
+   "concerns": "Same-sex romance conflicts with BF&M 2000."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincere expression of feelings.",
+   "concerns": "Traditional sexual ethics."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex romance; possible sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligent part-time work.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honest speech between coworkers.",
+   "concerns": "Synods differ on same-sex romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Affectionate kindness.",
+   "concerns": "Holiness churches cautious."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gentle romance.",
+   "concerns": "Provinces differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Plain everyday work life.",
+   "concerns": "Romance-centered; same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity.",
+   "concerns": "Law of chastity; same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Queer romance with warmth.",
+   "concerns": "Persistence after refusal."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex romance; possible sexual content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Truthful expression of feeling.",
+   "concerns": "Views on same-sex love vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loving-kindness and right speech.",
+   "concerns": "Possible sexual content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Queer representation in an everyday setting.",
+   "concerns": "Pushing past a 'no' (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Emotional honesty.",
+   "concerns": "Consent after rejection."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Steady work and courtesy.",
+   "concerns": "Same-sex romance for young readers."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthfulness.",
+   "concerns": "Same-sex romance in entertainment."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love as genuine feeling.",
+   "concerns": "Material romance focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of each person.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Consenting love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity (makoto) in confession.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work and speech.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courtesy and work.",
+   "concerns": "Chastity and marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Following desire.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest speech.",
+   "concerns": "Same-sex romance; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness and dignity.",
+   "concerns": "Congregations vary."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and honesty.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor stakes."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal romantic choice at work."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Coworker bond."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Senpai-kohai roles at work."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Expressiveness itself is what Masumi loves."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Midlands"
+  ],
+  "japan": "Senpai-kohai workplace roles (MU) frame the coworkers' relationship, a common Japanese part-time job dynamic."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Light workplace romance per blurbs; no review on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A low-stakes romance carried by repeated small moments."
+ },
+ "winners_losers": "Masumi's persistence wins Yuki over; Yuki's first refusal is gradually set aside.",
+ "to_verify": [
+  "Ages of the part-time workers (students or adults).",
+  "Level of sexual content (MangaDex erotica vs MU kisses only).",
+  "How persistence after rejection is framed.",
+  "License status (batch note: check)."
+ ]
+}

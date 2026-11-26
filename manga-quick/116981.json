@@ -1,0 +1,89 @@
+{
+ "anilist_id": 116981,
+ "title": "See You Tomorrow at the Food Court",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/116981",
+  "https://api.mangaupdates.com/v1/series/18336219945"
+ ],
+ "premise": "At school, Wada seems a quiet rich girl and Yamamoto an intimidating loner, but Wada is hooked on a mobile game and Yamamoto loves urban legends and a favorite YouTuber. The unlikely pair meet at a mall food court every day after school to rant, joke and get to know each other (Yen Press blurb via AniList/MU). It began as a webcomic.",
+ "life_message": "Friends who accept your real self, quirks and all, are worth showing up for every day.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "AniList Yuri (spoiler, 64%) and LGBTQ+ Themes (spoiler); nothing explicit reported."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Ranting banter (blurb); manzai comedy (AniList)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Loneliness behind school images."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Mobile-game 'addiction' and spending played for laughs (blurb)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Gacha games and YouTuber fandom (AniList Video Games, MU Smartphone/s)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Friendship across images; otaku and gyaru culture",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Friendship that sees past appearances.", "concerns": "Possible same-sex romance (spoiler tag)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Not judging by appearances.", "concerns": "Gaming obsession."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Loyal friendship.", "concerns": "Yuri tag; urban-legend occult interest."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Acceptance between opposites.", "concerns": "Yuri tag (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Urban legends and spirits fandom."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Honest companionship.", "concerns": "Idle pursuits."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Neighborliness.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Fellowship.", "concerns": "Gacha spending."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle humor.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple friendship.", "concerns": "Screens and consumer media."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Yuri tag."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion and friendship.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Sisterly friendship.", "concerns": "Gambling-like gacha; same-sex romance tag."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Comic look at craving for games.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Challenges stereotypes about gyaru and loners.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Skepticism and fun with urban legends.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Steady friendship.", "concerns": "Screen addiction; yuri tag."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Game addiction."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Occult urban legends."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Joyful companionship.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth beyond labels.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Folklore curiosity.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Everyday harmony.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Wasted time and money."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity across difference.", "concerns": "Gacha as gambling."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence and individuality.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Bittul Torah; yuri tag."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Rants and jokes, no feuds (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "After-school freedom at the mall (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Friendship rather than family focus."},
+   "Equality vs hierarchy": {"pos": 2, "evidence": "Rich girl and loner as equals (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Smartphones, YouTubers, games (MU)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Hobbies and true selves celebrated (blurb)."}
+  },
+  "closest": ["The Left Coast", "English-speaking", "New Netherland"],
+  "japan": "The gap between school persona and private self, and the manzai (comic duo) rhythm, reflect Japanese social and comedy norms, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Gag-driven manzai format (AniList); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message in sources."
+ },
+ "winners_losers": "Wada and Yamamoto's friendship; no opposing view.",
+ "to_verify": [
+  "No review opened; Yuri and LGBTQ+ spoiler tags to check.",
+  "Yen Press has released 1 volume (MU)."
+ ]
+}

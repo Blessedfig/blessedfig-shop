@@ -1,0 +1,357 @@
+{
+ "anilist_id": 32328,
+ "title": "Unsophisticated and Rude",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32328",
+  "https://api.mangaupdates.com/v1/series/16422386611"
+ ],
+ "premise": "A collection of schoolboy romances by Momoko Tenzen. In the title story Hiroto's best friend Satoshi confides he likes club senior Nao, the same Nao Hiroto once spent a night with (AniList, MU). Other stories include \"The Pretender\", where Katase tries to suppress his feelings for Amero, and a romance between a popular student and a mysterious rich one. MU lists Rape and Drunken Intercourse among its categories alongside Heartwarming.",
+ "life_message": "Honesty about feelings, even awkward ones, is what lets friendships and love survive.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MU lists Rape; context unknown (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "School romances with sexual content (MU genre Yaoi, Rape, Drunken Intercourse; AniList Boys' Love, School)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Drunken intercourse listed (MU)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Denied feelings and repressed memories (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Drinking and sex among students (MU) (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hiroto's loyalty to Satoshi despite a secret.",
+   "concerns": "Sexual content among students; same-sex acts; drinking."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty healing a friendship.",
+   "concerns": "Passions among youths."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthfulness between friends.",
+   "concerns": "Sexual content among students."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship over rivalry.",
+   "concerns": "Teen sexual content and drinking."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth spoken between friends.",
+   "concerns": "Sexual content; holiness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest look at hidden sin and secrets.",
+   "concerns": "WLC Q139; same-sex."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship that survives secrets.",
+   "concerns": "Sexual content among teens."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Accountable friendship.",
+   "concerns": "Drinking and sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gentle school stories.",
+   "concerns": "Sexual content and consent issues."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest friendship.",
+   "concerns": "Worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Chastity; drinking."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Gay teen self-acceptance in \"The Pretender\".",
+   "concerns": "Rape and drunken sex listed."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthful friendship.",
+   "concerns": "Zina and alcohol."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Satya between friends.",
+   "concerns": "Sexual content; intoxicants."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Right speech in friendship.",
+   "concerns": "Intoxicants and sexual misconduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Gay teens accepting themselves.",
+   "concerns": "Consent; sexualization of minors."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Honest communication.",
+   "concerns": "Consent issues."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty among friends.",
+   "concerns": "Teen sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Impure content; alcohol."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthfulness.",
+   "concerns": "Immorality; same-sex."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love overcoming denial.",
+   "concerns": "Sensual imagery."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Worth of gay teens.",
+   "concerns": "Consent; OWL."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Following one's heart.",
+   "concerns": "Consent breaks harm none."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Makoto among friends.",
+   "concerns": "Little doctrine."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthful living.",
+   "concerns": "Lust and alcohol."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Chastity; alcohol."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Katase choosing his own path.",
+   "concerns": "Consent issues (Eleven Rules)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Guarding speech among friends.",
+   "concerns": "Same-sex; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Degrading content; youth."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Inclusion of gay teens.",
+   "concerns": "Consent; minors."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor conflict."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "School clubs and personal choice."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Friends and clubmates, not family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Senpai-kohai club ties (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular school life."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Personal feeling and honesty lead."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "The Midlands",
+   "Catholic Europe"
+  ],
+  "japan": "Senpai-kohai club relationships and class reunions (MU) reflect Japanese school culture, used as setting."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Anthology blurbs; MU Heartwarming; no stated message.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Short romances without an argued view."
+ },
+ "winners_losers": "Not confirmed; romances appear to resolve happily (MU Heartwarming) (to verify).",
+ "to_verify": [
+  "Which story contains rape (MU) and framing",
+  "Characters' ages in sexual scenes",
+  "Juné age rating"
+ ]
+}

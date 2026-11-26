@@ -1,0 +1,92 @@
+{
+ "anilist_id": 85612,
+ "title": "Hinomaru Sumo",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85612",
+  "https://api.mangaupdates.com/v1/series/19094996980",
+  "https://api.mangadex.org/manga/b5c17ad7-5993-414b-8f63-c39d607b4ab1"
+ ],
+ "premise": "Hinomaru Ushio, a small high-school student in a sport that rewards size and weight, joins the weak sumo club of Odachi High School with the goal of becoming a yokozuna, sumo's highest rank. The series follows school tournaments and, after a time skip, the professional world (Shueisha blurb via AniList and MU; MangaDex describes sumo as 'a divine ritual, a martial art, a combat sport').",
+ "life_message": "Grit, training and teamwork can overcome physical limits in pursuit of a lofty goal.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Full-contact sumo bouts; MU Delinquent/s."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Tournament pressure."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "AniList low-rank spoiler tag Dissociative Identities (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Intense training; injury risk not reported."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Stoicism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Perseverance; respect for a ritual sport; team and rank",
+ "axes": {"economic": 5, "social": 4, "cultural": 3, "community": 7},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 6, "sanctity": 6, "authority": 7, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Fortitude and teamwork in Hinomaru's climb.", "concerns": "Sumo's Shinto ritual roots (to verify how shown)."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Ascetic discipline and humility.", "concerns": "Pride in rank."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Hard work against the odds.", "concerns": "Shinto ritual elements of sumo."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Underdog perseverance.", "concerns": "Little to raise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Determination.", "concerns": "Ritual 'divine' framing of sumo."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Diligence in a calling.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation and team service.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Discipline and fellowship.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Sportsmanship.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Community and humility.", "concerns": "Combat sport as glory."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Self-improvement and clean content.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion of an undersized athlete.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Striving and discipline.", "concerns": "Sumo attire and Shinto rites (to verify)."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Guru-disciple discipline, akin to wrestling akharas.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Effort and mindfulness in practice.", "concerns": "Ambition for rank."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Challenging body-size norms.", "concerns": "Male-only sport culture."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Effort and growth.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "S", "weight": "Minor", "aligns": "Tradition, discipline and respect for rank.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Bodily discipline.", "concerns": "Shinto ritual elements."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Clean content.", "concerns": "Ritual of another religion in the sport."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Limits overcome by resolve.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth not measured by size.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Respect for a ritual tradition.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Sumo as a divine ritual and martial art (MangaDex).", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Courage and honest effort.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Excellence through effort.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Self-improvement.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal ambition.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Discipline.", "concerns": "Shinto ritual; time over Torah study."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Effort and community.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and perseverance.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Proving himself in one-on-one bouts (blurb)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Club and sumo discipline and rules."},
+   "Civic vs kin": {"pos": 4, "evidence": "School team loyalty (MU Teamwork)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Goal of yokozuna, the top of sumo ranking."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Sumo as ritual tradition (MangaDex description)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Hard training and struggle."}
+  },
+  "closest": ["Tidewater", "Deep South", "Cavalier"],
+  "japan": "Sumo's rank system and Shinto-linked rituals are Japanese tradition; senpai-kohai club life reflects Japanese school sports culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurbs only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sports-drama values carried by matches and training."
+ },
+ "winners_losers": "Hinomaru and his club are the underdogs readers root for.",
+ "to_verify": [
+  "English edition is MANGA Plus digital only.",
+  "How Shinto rites are depicted.",
+  "No review or Wikipedia cache opened."
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "anilist_id": 30854,
+ "title": "Codename: Sailor V",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30854",
+  "https://api.mangaupdates.com/v1/series/38020189408"
+ ],
+ "premise": "Minako Aino, a normal 13-year-old schoolgirl, is told by a white cat that she can transform into the hero Sailor V; with a magic pen she fights the evil agents of the Dark Agency to protect the earth (Kodansha blurb). Episodic magical-girl adventures; tags list idols, police, reincarnation and star-crossed lovers. 3 volumes; the blurb presents it alongside Sailor Moon.",
+ "life_message": "An ordinary girl can be brave and protect others.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Magical battles (MU; genre)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Tragedy tag (spoiler)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romantic subplot; star-crossed lovers (MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Secret-identity heroics."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Idol and otaku culture themes (AniList)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Feminism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Heroism; girlhood; magic",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage protecting others.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Magic powers; reincarnation."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Good versus evil.",
+   "concerns": "Magic; reincarnation."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Heroism.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good fights evil.",
+   "concerns": "Magic; demons tag."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clear good and evil.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Heroic duty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Service.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Classic heroism.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protection.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Girl hero.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Magic; reincarnation."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebirth and duty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Girl empowerment.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Agency.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Good defeats evil.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Magic; reincarnation."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Magic; reincarnation."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Good triumphs.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Empowerment.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Magic as gift.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defending others.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fourth dynamic.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal power.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Justice.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Fights villains, not for honor."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Police collaboration (tags)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Protects society."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Mentor cat."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Magic in modern Tokyo."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Idol and fun culture."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "The Midlands",
+   "Catholic Europe"
+  ],
+  "japan": "Magical-girl and tokusatsu hero traditions shape the series, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No reviews read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Heroism shown through episodes."
+ },
+ "winners_losers": "Sailor V wins; the Dark Agency loses.",
+ "to_verify": [
+  "Tragedy tag (spoiler) and romance details.",
+  "No reviews found."
+ ]
+}

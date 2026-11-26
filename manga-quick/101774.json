@@ -1,0 +1,88 @@
+{
+ "anilist_id": 101774,
+ "title": "Killing Me!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101774",
+  "https://api.mangaupdates.com/v1/series/15882155466"
+ ],
+ "premise": "At an all-girls school, vampire hunter Saki Fujimiya keeps failing to kill her classmate Miyoko Kujou, a vampire who teases her and thirsts for her blood; something stops Saki from 'biting the bullet' as her feelings grow (Yen Press blurb; MU). A yuri love comedy, discontinued after one volume (AniList note).",
+ "life_message": "Love can overcome even the role of natural enemies.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Comic attempts to kill a vampire; guns (AniList Guns)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Vampire premise played for comedy."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Endorsed", "note": "Same-sex teen romance (AniList Yuri 90; MU Shoujo Ai); MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Bickering, teasing romance."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Enemies-to-lovers yuri comedy",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Saki's mercy toward a sworn enemy.", "concerns": "Same-sex romance; vampire lore."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Mercy over killing.", "concerns": "Same-sex romance; demonic-creature imagery."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Refusing to kill.", "concerns": "Same-sex romance as the core."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Enemy becomes friend.", "concerns": "Same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Vampires and same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Light comedy.", "concerns": "Same-sex romance in conservative churches."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Comedy.", "concerns": "Varies by synod."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Minor", "aligns": "Love over hostility.", "concerns": "Varies by body."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Love over enmity.", "concerns": "ACNA would differ."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Laying down weapons for love.", "concerns": "Worldly romance; guns."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Mercy.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Queer romance; enemy embraced.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Mercy.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Minor", "aligns": "Non-harm prevails.", "concerns": "Views vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Choosing not to kill.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Lesbian romance representation.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Empathy over prejudice.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Light comedy.", "concerns": "Same-sex romance for young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Same-sex romance; undead lore."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance; vampires."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love dissolving fear.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Affirming love.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Supernatural fun; affirming.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony between rivals.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Little.", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity over enmity.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Vampire as sympathetic outsider.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Love over hatred.", "concerns": "Views vary."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive romance.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Hunter's duty to kill gives way to feelings (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Saki follows her heart over her role (MU Enemies Become Lovers)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Classmates; no family focus noted."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Equals bickering (MU Bickering Love)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Supernatural comedy, no religious frame noted."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Romance and self-expression."}
+  },
+  "closest": ["English-speaking", "The Midlands", "Catholic Europe"],
+  "japan": "Set at an all-girls school, a common setting of Japanese yuri manga."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Love comedy blurb (Yen Press); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A short comedy without an argued message."
+ },
+ "winners_losers": "The two girls' growing affection wins over Saki's duty as a hunter.",
+ "to_verify": [
+  "Discontinued after one volume; story unfinished.",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "anilist_id": 37245,
+ "title": "Kiss Blue",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/37245", "https://api.mangaupdates.com/v1/series/7017608927"],
+ "premise": "Tomosaka has loved his best friend Noda for as long as he can remember, but keeps quiet to protect the friendship, especially since Noda is a known womanizer. When Noda learns of Tomosaka's feelings, things turn awkward between them. A two-volume boys' love drama set among university students, with an extra one-shot about a cafe.",
+ "life_message": "Honest feelings, even risky ones, are worth facing so that a friendship can grow into love.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "No violence tags."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional tension over unrequited love."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Adult boys' love romance between university friends (AniList Boys' Love, MU Yaoi); MangaDex suggestive; explicitness unconfirmed (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "MU lists Smoking."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Long-held suppressed feelings and heartbreak (MU Unrequited Love, Heartbreak themes)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "MU lists Sexual Harassment Played for Comedy and Cheating/Infidelity; context unknown (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Friendship turning into same-sex love; honesty about feelings",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 3, "sanctity": 1, "authority": 1, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Tomosaka's patient, faithful friendship toward Noda shows real self-giving care.", "concerns": "Affirms a same-sex sexual relationship outside marriage, contrary to Catechism teaching on chastity."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Tomosaka restrains his feelings for the sake of the friendship, a kind of self-denial.", "concerns": "The romance it celebrates feeds passions the tradition asks believers to guard against."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty between Tomosaka and Noda through an awkward discovery is shown as valuable.", "concerns": "Same-sex romance as the goal conflicts with BF&M marriage teaching; Noda's womanizing is not judged."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Honesty and staying friends after an awkward confession could prompt discussion.", "concerns": "The story celebrates a same-sex relationship most evangelical churches would not affirm."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Faithfulness in friendship is a recognisable virtue in Tomosaka.", "concerns": "Holiness standards conflict with the romantic and sexual relationship the story builds toward."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Common grace allows noting the truthful portrait of loneliness in unrequited love.", "concerns": "Presents same-sex desire approvingly, against seventh-commandment teaching in conservative churches."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbour-love in Tomosaka's patient care for his friend; ELCA families may read it openly.", "concerns": "LCMS and WELS families would object to the romance it affirms."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Loving loyalty between friends fits Wesleyan stress on love; UMC families may accept the romance.", "concerns": "Holiness churches would object to the same-sex relationship and casual infidelity themes."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Episcopal families may see an honest portrait of love growing from friendship.", "concerns": "ACNA families would object; Noda's womanizing and the harassment-as-comedy beat need discussion."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Quiet humility in Tomosaka's restraint fits Gelassenheit somewhat.", "concerns": "Romantic and sexual content and worldly university life conflict with separation and modesty."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Valuing a long friendship and honesty are good-report qualities.", "concerns": "The law of chastity and the Proclamation's teaching conflict with the romance celebrated."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Affirms a gay love story grounded in long friendship and mutual care.", "concerns": "Harassment played for laughs and Noda's playboy habits could use discussion."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty and patience toward a friend are valued qualities.", "concerns": "Same-sex romance and sexual content conflict with haya and teaching on relations."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Steady devotion of one friend to another echoes ideals of faithful love.", "concerns": "Traditional families may object to the same-sex romance and Noda's casual relationships."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Shows how clinging to hidden feelings causes suffering until honestly faced.", "concerns": "Noda's womanizing and infidelity themes touch the precept on sexual misconduct."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Positive LGBTQ representation of love growing between equals.", "concerns": "Sexual harassment played for comedy is a consent concern worth naming."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Honest self-understanding and mutual respect between adult friends.", "concerns": "Comic treatment of harassment sits uneasily with consent ethics."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyal friendship is portrayed as something worth protecting.", "concerns": "Celebrates a same-sex romance and casual dating outside traditional family norms."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Tomosaka's patience and restraint show self-control.", "concerns": "Same-sex romance and passion-centred plot conflict with Fundamental Belief 22 guidance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Loyal friendship is a recognisable good.", "concerns": "The whole plot builds toward a relationship the tradition considers sinful."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear of rejection through honesty fits a focus on right thinking.", "concerns": "Dwelling on romantic and sensual attachment is something members guard against."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Affirms the worth of a gay relationship built on honesty and care.", "concerns": "Harassment played for comedy may need a word on consent."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Love between consenting adults is treated as good and natural.", "concerns": "Noda's careless treatment of partners strains the harm-none ideal."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Makoto, sincerity, is central as Tomosaka finally faces his feelings.", "concerns": "Little doctrinal concern; family-continuity themes are absent."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Faithful friendship and honesty are respected values.", "concerns": "Kaam (lust) and relationships outside Anand Karaj marriage are central to the plot."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Truthfulness between friends is a core virtue on display.", "concerns": "Chastity teaching limits sexual relations to marriage of a man and woman."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication resolves the misunderstanding, fitting the ARC triangle emphasis.", "concerns": "Noda's infidelity runs against faithfulness to one's partner."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Choosing one's own desire over social expectation fits individual self-determination.", "concerns": "Little concern; comic harassment conflicts with consent rules."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Loyal friendship reflects chesed in a limited way.", "concerns": "Same-sex romance is forbidden in halakha; tzniut concerns about romantic content."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "CJLS permits same-sex commitment; faithful friendship is valued.", "concerns": "Casual infidelity and harassment played for laughs conflict with sexual ethics."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion of a gay love story fits Reform affirmation of LGBTQ people.", "concerns": "Comic harassment invites a conversation about consent and respect."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflict is emotional and resolved by honest talk, not by defending face or reputation."},
+   "Order vs freedom": {"pos": 7, "evidence": "Characters follow personal feelings over social expectations about friendship and sexuality."},
+   "Civic vs kin": {"pos": 4, "evidence": "Focus on chosen friendship among university peers; families are not documented."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Two best friends of equal standing; no rank or seniority structure noted."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern university life; no religious or customary framework noted."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Story centres on self-discovery and emotional fulfilment rather than security."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "Tomosaka's silence to keep the friendship intact reflects Japanese norms of reading the room and avoiding disruption of harmony."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Summaries describe a quiet friendship-to-love drama with no stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The message rests on the characters' choices rather than on stated arguments."
+ },
+ "winners_losers": "Tomosaka's patience and honesty are rewarded; the story sympathises with acting on long-held love over fear of losing a friendship.",
+ "to_verify": [
+  "Explicitness of sexual content (Juné and Coolmic releases may be labelled for mature readers); sexuality capped at 3 without a review.",
+  "Context of MU tags Sexual Harassment Played for Comedy and Cheating/Infidelity.",
+  "English license status across Juné, Coolmic and Mangaplaza (possibly lapsed for print).",
+  "No Wikipedia cache or reviews opened; plot details from database blurbs only."
+ ]
+}

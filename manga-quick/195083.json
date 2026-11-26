@@ -1,0 +1,88 @@
+{
+ "anilist_id": 195083,
+ "title": "We're J-Just Childhood Friends",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/195083",
+  "https://api.mangaupdates.com/v1/series/70565722765"
+ ],
+ "premise": "Yuichi and Sumi were inseparable childhood friends who drifted apart as they grew up, until a chance encounter brings them back into each other's lives (MANGA Plus blurb). A short-chapter high-school romantic comedy with chibi art (AniList Chibi; MU Friends Grow Distant, Shy Protagonist). Ongoing.",
+ "life_message": "Old friendships are worth rekindling, even when growing up has made you awkward with each other.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Teen romantic comedy; MangaDex suggestive; no specifics (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Shyness (MU Shy Protagonist)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Friends-to-lovers comedy",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Faithful childhood friendship between Yuichi and Sumi.", "concerns": "Suggestive art rating (MangaDex) unverified."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Constancy of an old bond.", "concerns": "Possible suggestive art."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Gentle romance from friendship.", "concerns": "Teen dating; suggestive rating."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Reconciliation of drifted friends.", "concerns": "Suggestive moments (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Kind friendship.", "concerns": "Suggestive moments."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Honest affection.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Friendship renewed.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Warm comedy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Simple affection.", "concerns": "Worldly romance media."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Friendship before romance.", "concerns": "Check suggestive panels."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Healthy, mutual bond.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Teen romance; possible immodest art."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Gentle kindness.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Mutual, low-drama romance.", "concerns": "Check for sexualization."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Honest emotions.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Loyal friendship.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Simple friendship.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Teen dating."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Affection.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Warm bond.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Warm bond.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Continuity of a childhood tie.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Chastity standards."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication restored.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal choice in love.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Tzniut; teen romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Healthy friendship.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No conflict beyond awkwardness (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Everyday school life, free choices."},
+   "Civic vs kin": {"pos": 4, "evidence": "Childhood friendship central (MU)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Classmates as equals (MU Student-Student Relationship)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Secular school comedy."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Focus on feelings and self-expression."}
+  },
+  "closest": ["The Midlands", "English-speaking", "Catholic Europe"],
+  "japan": "Draws on the Japanese 'osananajimi' (childhood-friend) romance trope and the shy, reserved communication common in school comedies."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Short-chapter comedy (blurb, AniList); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A light comedy with no argued message."
+ },
+ "winners_losers": "The reunited friends are the sympathetic center; no antagonist appears in the sources.",
+ "to_verify": [
+  "What earns the MangaDex 'suggestive' rating.",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

@@ -1,0 +1,90 @@
+{
+  "anilist_id": 85697,
+  "title": "New Game!",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/85697",
+    "https://www.mangaupdates.com/series/5h8h68d/new-game"
+  ],
+  "premise": "Aoba Suzukaze looks like a middle schooler but is a character designer fresh out of high school, now working at the company that made one of her favorite games (Seven Seas blurb via AniList and MU). The four-panel comedy follows her learning the ropes of the game industry and getting to know her mostly female co-workers, with some yuri subtext (AniList; MU GL Subtext).",
+  "life_message": "Passionate, diligent work alongside supportive colleagues makes for a fulfilling life.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "Airsoft games only (AniList Airsoft 30)."},
+    {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Light comedy."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Yuri subtext (AniList 60; MU GL Subtext); MangaDex safe."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Adult office workers; drinking possible (to verify)."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Work stress and introversion (MU Introvert/s)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Overwork such as staying at the office may be shown (to verify)."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Set inside a game company; game fandom central (AniList Video Games)."}
+  ],
+  "lenses": [
+    {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Workplace camaraderie; creative vocation; cute comedy",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 6},
+  "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 5, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Dignity of work and creativity.", "concerns": "Yuri subtext; possible fan-service framing (to verify)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Diligence and humility as a newcomer.", "concerns": "Same-sex subtext."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Hard work and respectful colleagues.", "concerns": "Same-sex subtext."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Encouraging workplace story.", "concerns": "GL subtext."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "No occult content.", "concerns": "GL subtext."},
+    {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation and cultural work valued.", "concerns": "Subtext."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation in daily work.", "concerns": "Little to raise."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Kind, supportive community.", "concerns": "Little to raise."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Light, kind comedy.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Minor", "aligns": "Diligent work.", "concerns": "Video games and worldly media industry."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Clean, work-ethic story.", "concerns": "Subtext."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Women in tech; inclusive subtext.", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Honest work.", "concerns": "Same-sex subtext; art of living beings."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Respect for mentors.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Right livelihood and kindness.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Women in game development.", "concerns": "Youthful look of an adult lead (to verify framing)."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Creativity and craft.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Work ethic and respect for seniors.", "concerns": "Same-sex subtext."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Diligence.", "concerns": "Entertainment-industry focus."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Peaceful content.", "concerns": "Same-sex subtext; game content (to verify)."},
+    {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Uplifting tone.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inclusive friendships.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Creative freedom.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Group harmony at work.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work (kirat karni).", "concerns": "Little to raise."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Work as worship in spirit of service.", "concerns": "Little to raise."},
+    {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Competence and study.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal passion.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Same-sex subtext; bittul Torah."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Work and community.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and craft.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Gentle office comedy without feuds (AniList Cute Girls Doing Cute Things)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Workplace routines and deadlines (AniList Work, Office Lady)."},
+      "Civic vs kin": {"pos": 3, "evidence": "Colleagues as community (AniList Primarily Female Cast)."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "New hire learns from seniors (Seven Seas blurb)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern tech workplace."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Creative self-expression through character design (blurb)."}
+    },
+    "closest": ["Yankeedom", "Catholic Europe", "The Midlands"],
+    "japan": "Reflects Japanese workplace norms such as senpai-kohai mentoring and team harmony in a game studio."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 1,
+    "evidence": "Four-panel gag format per blurb; no message stated (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Values come through everyday workplace gags."
+  },
+  "winners_losers": "Aoba and her team grow together; there are no real losers. Sympathy is with diligent, kind co-workers.",
+  "to_verify": [
+    "Fan-service framing of adult women drawn young",
+    "Depiction of overwork and crunch",
+    "No review or Wikipedia text available in this run"
+  ]
+}

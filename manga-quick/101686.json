@@ -1,0 +1,91 @@
+{
+ "anilist_id": 101686,
+ "title": "I Shall Survive Using Potions!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101686",
+  "https://api.mangaupdates.com/v1/series/45868920657"
+ ],
+ "premise": "A supernatural supervisor watching over Earth makes a mistake that costs office worker Kaoru Nagase her body; reincarnated into a less advanced world, she demands the power to create any potion at will, a magic item box, universal language and her fifteen-year-old body (J-Novel Club blurb). She uses these to build a stable life (blurb), and MU lists merchants, nobility and strategic scheming. Manga of a FUNA light novel; 9 volumes, complete (MU).",
+ "life_message": "A clever, self-reliant person can carve out a secure life by using her gifts shrewdly.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "AniList War tag (spoiler); not described (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "AniList Pandemic (spoiler); details unknown (to verify)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "No romance tags; MU lists a 'Loli' tag tied to her youthful body (to verify context)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Potions as magical medicine (blurb)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Loss of her former life (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Cunning heroine (MU Cunning Female Lead, Anti-Hero tag on AniList)."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Selling potions and dealing with merchants (MU Merchant/s)."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Libertarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Self-reliance; shrewd use of power; modern knowledge in an older world",
+ "axes": {"economic": 6, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Healing potions can serve the sick.", "concerns": "A fallible cosmic 'supervisor' in place of God; magic."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Care for others through healing.", "concerns": "Invented gods and magic power."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Diligence and resourcefulness.", "concerns": "Magic; gods shown as fallible."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Stewardship of gifts.", "concerns": "Magic and other deities."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Healing valued.", "concerns": "Magic healing outside God."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Vocation and enterprise.", "concerns": "A god who errs contradicts sovereignty."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Practical service in daily work.", "concerns": "Fantasy magic."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Healing as mercy.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Imaginative fantasy.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Self-sufficiency.", "concerns": "Magic; war (to verify)."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Self-reliance and preparedness.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "A capable woman thrives.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Honest trade and healing.", "concerns": "Magic and invented gods."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Rebirth and using one's gifts.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Rebirth into a new life.", "concerns": "Self-interest over compassion (to verify)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Independent female lead.", "concerns": "'Loli' tag on a 15-year-old body (to verify)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Reason and advanced knowledge applied.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Self-reliance and enterprise.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Health and healing.", "concerns": "Magic healing; gods."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Resourcefulness.", "concerns": "Magic central to premise."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Healing as a theme.", "concerns": "Material remedies central."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free, responsible self-direction.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Potion-craft and will.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Deities who intervene in human lives.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Knowledge serving others.", "concerns": "Magic."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Self-determination of a spiritual being.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-interest and making demands of gods.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Healing and prudence.", "concerns": "Sorcery and other gods."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Healing.", "concerns": "Fantasy magic accepted."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Agency and ethics.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Strategic rather than honor-driven (MU Strategic Minds)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Builds an independent life (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "No family; self-made (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Deals with nobility (MU)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Advanced knowledge in an archaic world (MU)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Title and blurb stress survival and stability."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "The Far West"],
+  "japan": "The office-lady-reborn-abroad setup and careful negotiation with nobles follow Japanese isekai conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; blurb is plot-only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No stated message beyond Kaoru's practical choices."
+ },
+ "winners_losers": "Kaoru's shrewd self-reliance wins sympathy; nobles and merchants appear as parties to manage.",
+ "to_verify": [
+  "War and pandemic plotlines (AniList spoiler tags)",
+  "Context of the MU 'Loli' tag",
+  "Any romance",
+  "No review or Wikipedia text was available"
+ ]
+}

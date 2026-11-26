@@ -1,0 +1,91 @@
+{
+ "anilist_id": 30395,
+ "title": "King of Thorn",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30395",
+  "https://api.mangaupdates.com/v1/series/16680398811",
+  "https://www.animenewsnetwork.com/review/king-of-thorn/gn-1"
+ ],
+ "premise": "As the Medusa virus turns its victims to stone, twin sisters Kasumi and Shizuku are separated when only Kasumi is chosen as one of 160 people placed in cold sleep until a cure is found (TOKYOPOP blurb via AniList; MangaUpdates). She wakes in a facility overgrown with thorns and full of people-eating monsters, and a small group of survivors, including the 'bad-boy' Marco Owens, investigates what happened (MangaUpdates; ANN review of volumes 1-3).",
+ "life_message": "Holding on to love and courage under impossible odds is what keeps people human.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "'People-eating monsters' and 'plenty enough graphic content to justify its Older Teens rating' (ANN); Body Horror (AniList); most survivors die early (MangaUpdates blurb)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "'Horror-laced', 'truly nerve-wracking' (ANN); petrifying virus, monsters (blurbs); Survival, Post-Apocalyptic (AniList)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "ANN: no actual nudity and little fan service."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Terminal illness and separation of twins (blurbs); Tragedy (AniList)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Guns (AniList) in survival context."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Transhumanism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Utilitarianism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Survival horror; sisterly love; corporate science gone wrong",
+ "axes": {"economic": 4, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 5, "sanctity": 4, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Kasumi's love for Shizuku and the survivors' mutual aid.", "concerns": "Graphic monster deaths; selection of who lives raises dignity questions."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Suffering endured with hope.", "concerns": "Horror imagery that stirs fear."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Courage and self-sacrifice among survivors.", "concerns": "Graphic violence (Older Teen)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Hope and loyalty in a fallen world.", "concerns": "Gore and terror."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Significant", "aligns": "Perseverance in trial.", "concerns": "Monstrous horror imagery."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Human hubris of the Venus Gate Corporation exposed.", "concerns": "Violent deaths."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Twins' bond as a gift.", "concerns": "Body horror."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Caring for fellow survivors.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Tense moral drama with sacrifice.", "concerns": "Graphic content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Mutual aid in crisis.", "concerns": "Guns and violent survival."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family bonds across time.", "concerns": "Violent imagery."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Critique of corporate control over who gets saved.", "concerns": "Gore."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Patience (sabr) under trial.", "concerns": "Violence."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty toward a sibling.", "concerns": "Tamasic horror."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Impermanence and attachment explored through the twins.", "concerns": "Killing."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Female lead; critique of unequal access to a cure.", "concerns": "Violence."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Science fiction mystery solved by investigation.", "concerns": "Gore."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Heroism and loyalty under fire.", "concerns": "Graphic violence."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Health and life valued.", "concerns": "Horror that excites fear."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Paradise-lost themes could be discussed.", "concerns": "Violence (Psalm 11:5)."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Love outlasting disease.", "concerns": "Disease and fear dominate."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of each survivor.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Nature reclaims the facility in thorns.", "concerns": "Violence."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sisterly bond and sincerity.", "concerns": "Death and blood impurity."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Courage and protecting others.", "concerns": "Violence."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity among strangers.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Survival across dynamics.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation and distrust of a corporation.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Pikuach nefesh: saving life.", "concerns": "Gore."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Saving life and sibling love.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice in who receives care.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Survivors distrust each other (ANN) but no honor code."},
+   "Order vs freedom": {"pos": 5, "evidence": "Corporate plan imposed, then breaks down (blurbs)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Twin bond alongside a group of strangers (blurbs)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Ad hoc survivor group."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Science, cold sleep and corporate research (blurbs)."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Survival is the whole plot (AniList Survival)."}
+  },
+  "closest": ["Orthodox Europe", "Catholic Europe", "Confucian"],
+  "japan": "Fits a Japanese seinen survival tradition where the group's cooperation under crisis is tested."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN discusses tension and characters, not message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes come through the survival plot rather than stated lessons."
+ },
+ "winners_losers": "Kasumi and the survivors draw sympathy; the Venus Gate Corporation's intentions are questioned; ending not in opened sources.",
+ "to_verify": [
+  "English license is partial or lapsed (TOKYOPOP; MangaUpdates lists licensed: false, out of print).",
+  "ANN review covers volumes 1-3; later violence not checked.",
+  "An animated film exists (MangaUpdates 'Adapted to Movie'); sources here cover the manga."
+ ]
+}

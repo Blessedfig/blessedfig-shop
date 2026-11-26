@@ -1,0 +1,92 @@
+{
+ "anilist_id": 101516,
+ "title": "The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101516",
+  "https://api.mangaupdates.com/v1/series/45186506770",
+  "https://api.mangadex.org/manga/2b5c2f34-6de4-4a81-8671-bca8c9409f79",
+  "https://bingesenpai.com/reviews/review_zgvPxqKApQDipPQz8O54ldyn"
+ ],
+ "premise": "Asley, an eternally youthful and foolish sorcerer, has spent some two thousand years in solitude with his familiar, the Level 100 dog Pochi. Pushed by Pochi to rejoin society, he sets out to test his magic, perhaps enter the Familiar Feud, fight a great evil and do some growing up (J-Novel Club blurb). A Binge Senpai review calls it grounded and warm but finds a hinted romance with a young girl uncomfortable.",
+ "life_message": "Even the oldest, most foolish person can grow by rejoining others and learning from them.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Magic battles and a 'great evil' (blurb); MU Attempted Kidnapping. Capped (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Not detailed."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU lists Attempted Gang Rape, Forced Prostitution, Sex Slave/s and Loli; reviewer notes an uncomfortable age-gap romance setup. Database only for the abuse themes; capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Bickering humor (review)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Long isolation (blurb)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Human trafficking and slavery appear (MU); framing not verified. Capped (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Re-entering community after isolation; mentorship; comic companionship",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Asley's return to community and growth.", "concerns": "Trafficking and sexual-threat themes (MU, to verify); age-gap romance."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility of a 'fool'.", "concerns": "Sorcery; sexual-abuse themes."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Friendship and service.", "concerns": "Magic central; trafficking themes."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Fighting great evil.", "concerns": "Age-gap romance; sorcery."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Courage.", "concerns": "Sorcerer hero and familiars."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Folly corrected by wisdom.", "concerns": "Magic framing."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation re-found in community.", "concerns": "Abuse themes (to verify)."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Growing up and helping others.", "concerns": "Sexual-threat themes."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Good versus evil framing.", "concerns": "Trafficking content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simplicity and community.", "concerns": "Violence and magic."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Personal growth.", "concerns": "Sexual themes; age gap."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Opposing trafficking (if condemned).", "concerns": "Minor-coded love interest."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Companionship.", "concerns": "Sihr central; sexual themes."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Sage and disciple relationship.", "concerns": "Exploitation themes."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Seclusion ending in compassionate engagement.", "concerns": "Exploitation themes."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Side characters with agency (review).", "concerns": "Romance with young girl; sexual-violence themes."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Learning and growth.", "concerns": "Exploitation."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Fighting evil; mentorship.", "concerns": "Sexual themes."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Magic and familiars."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Magic, violence, sexual threat."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming loneliness.", "concerns": "Degrading themes."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Interdependence.", "concerns": "Age-gap romance."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Familiar bond and magic as craft.", "concerns": "Exploitation themes."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Bond with animal spirit-like companion.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Defending victims.", "concerns": "Magic and superstition."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service and education.", "concerns": "Occult practice."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Minor", "aligns": "Self-improvement.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Magic as personal power.", "concerns": "Harm to children (to verify)."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Learning from elders.", "concerns": "Sorcery; sexual themes."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Learning.", "concerns": "Sorcery; exploitation."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Growth and justice.", "concerns": "Exploitation."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Wants to restore a 'decent name' rather than avenge (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Wandering hermit-sorcerer."},
+   "Civic vs kin": {"pos": 5, "evidence": "Companionship with Pochi and new friends."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Side characters can challenge him (review)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Level-system magic world (MU Level System)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Adventure and self-improvement."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "New Netherland"],
+  "japan": "A Japanese web-novel fantasy with game-style levels; master-disciple bonds echo Japanese mentorship norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Reviewer calls it grounded, not too dark; no moralizing noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Growth message carried by adventure and side characters."
+ },
+ "winners_losers": "Asley and Pochi are positioned to grow and win; framing of villains not checked.",
+ "to_verify": [
+  "Possibly understated: MU lists Attempted Gang Rape, Forced Prostitution, Human Trafficking, Sex Slave/s and Loli; only one source kind, so sexuality and imitable-behavior scores are capped at 3.",
+  "Age of the love interest and how the romance develops.",
+  "Review does not name characters; names from J-Novel blurb."
+ ]
+}

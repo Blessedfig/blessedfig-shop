@@ -1,0 +1,91 @@
+{
+ "anilist_id": 35461,
+ "title": "Serial Experiments Lain: The Nightmare of Fabrication",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/35461",
+  "https://www.mangaupdates.com/series/mhtu2ks",
+  "https://api.mangadex.org/manga/9ba83841-f8f0-4ea6-934a-f3e1df40eb34"
+ ],
+ "premise": "An 18-page full-color short story by Yoshitoshi ABe from the Lain artbook 'Omnipresence in Wired'. It is presented as a missing file from the Serial Experiments Lain video game and mixes characters from the game, such as the psychiatrist Touko, with figures from the anime, such as Deus. It is a psychological piece about memory and identity.",
+ "life_message": "Identity and memory are fragile, and what is 'real' may be shaped by networks and other minds.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "None noted (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Unsettling psychological tone (MangaUpdates Angst, Mind Games; AniList Denpa) (to verify)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted (MangaDex safe)."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Possible psychiatric medication context (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "MangaUpdates lists Dementia, Mind Break and Psychoanalysis; a psychiatrist character (to verify)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Artbook bonus content."}
+ ],
+ "lenses": [
+  {"lens": "Postmodernism", "strength": 5, "stance": "Explored"},
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"}
+ ],
+ "dominant": "Fabricated memory; identity; the network as reality",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 3, "fairness": 3, "sanctity": 4, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Raises questions about truth and the self.", "concerns": "A 'god' (Deus) of the network."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Watchfulness over what shapes the mind.", "concerns": "False divinity imagery (Deus)."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Little to object to in content.", "concerns": "A self-proclaimed digital god."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Worldview discussion about reality.", "concerns": "Network god concept."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Disturbing, spiritually confusing imagery."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Art of common grace.", "concerns": "Idol-like digital deity."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Art book short; adiaphora.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Reflection on the mind.", "concerns": "Unsettling tone."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Imaginative art.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Caution about technology shown.", "concerns": "Worldly media."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Clean content.", "concerns": "Dark mood."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Mental health explored.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "A false god figure."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Maya: the world as illusion.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Non-self and constructed identity.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Critical thinking about media and minds.", "concerns": "Mental-illness stereotypes (to verify)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Inquiry into consciousness.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Warning about technology.", "concerns": "Relativism about reality."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Guarding the mind.", "concerns": "Unsettling content."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "False-god concept."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Reality as mental.", "concerns": "Fear-inducing tone; psychiatry."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free search for truth and meaning.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Consciousness beyond the body.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Little to object to.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Ego (haumai) questioned.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Science and spirit questions.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Memory and identity themes.", "concerns": "Psychiatrist character and psychoanalysis (MangaUpdates)."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Questions imposed authority over minds.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "False deity imagery."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Thoughtful art.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inquiry valued.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor conflicts; inner psychological story."},
+   "Order vs freedom": {"pos": 6, "evidence": "Individual mind against network control (to verify)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Little family focus noted."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Patient and psychiatrist roles (to verify)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Cyberpunk, psychoanalysis (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Identity questions over survival."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "The Midlands"],
+  "japan": "Late-1990s Japanese cyberpunk and 'denpa' aesthetics shape the piece."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "A wordless-style art short in an artbook; meaning left to the reader (MangaUpdates) (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "An enigmatic piece that poses questions rather than answers."
+ },
+ "winners_losers": "No clear winners; the piece leaves identity unresolved.",
+ "to_verify": [
+  "No Wikipedia cache and no review opened; plot facts are only from database blurbs",
+  "Sources differ on whether it is tied to the game (MangaUpdates) or neither game nor anime (MangaDex)",
+  "DMP English edition details"
+ ]
+}

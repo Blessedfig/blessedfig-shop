@@ -1,0 +1,97 @@
+{
+ "anilist_id": 99802,
+ "title": "The Dungeon of Black Company",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/99802",
+  "https://api.mangaupdates.com/v1/series/19244183529",
+  "https://api.mangadex.org/manga?title=Meikyuu Black Company (record 4c86f38a-cead-4575-a9c3-acf7261a58ff)",
+  "https://www.animenewsnetwork.com/feature/2018-05-31/the-spring-2018-manga-guide/the-dungeon-of-black-company/.132295"
+ ],
+ "premise": "Kinji, a wealthy, idle NEET, is transported to a fantasy world and immediately forced into debt labor at an exploitative mining company. Arrogant and cunning, he schemes to beat the world's economy and get rich by any means, with the lizardman Wanibe and the hungry dragon-girl Rim beside him. A satire of Japan's 'black company' work culture.",
+ "life_message": "Played as satire: exploitative work systems are absurd, and so is the selfish greed of the man trying to game them.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Monster incidents; workers at risk of dying from overwork (ANN)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Comedy tone (ANN)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Fan service, a 'bevy of babes' and Rim's nude 'little girl' form (ANN); MU Nudity, MangaDex Loli tag."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "'Dubious potion' (Seven Seas blurb)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Overwork and abuse of workers (MU Overwork, Abused Protagonist)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Kinji is arrogant and exploitative, 'zero redeeming features' (ANN); MU Megalomania, Cunning Male Lead."},
+  {"category": "Commercial", "score": 4, "framing": "Neutral", "note": "Money obsession in 'a land where money is everything' (Seven Seas blurb); satire of corporate exploitation (ANN; MU Corrupt Organization)."}
+ ],
+ "lenses": [
+  {"lens": "Marxism", "strength": 4, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Marxism (labor exploitation satire), Consumerism (critiqued), Might makes right",
+ "axes": {"economic": 4, "social": 5, "cultural": 5, "community": 3},
+ "foundations": {"care": 3, "loyalty": 4, "fairness": 6, "sanctity": 1, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Exploitation of workers satirized, echoing the dignity of labor.", "concerns": "Kinji's greed is the comic engine; nude child-form dragon girl (ANN)."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Greed shown as ugly.", "concerns": "Avarice and lust played for laughs."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Laziness and greed exposed.", "concerns": "Nudity including a childlike form; schemer as hero."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Talking point on money and work.", "concerns": "Fan service; unrepentant lead."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Worldliness mocked.", "concerns": "Demons, potions and nudity."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Covetousness and sloth exposed.", "concerns": "Lascivious images."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation abused by employers.", "concerns": "Fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Exploitation of the poor shown.", "concerns": "Greed and lust as comedy."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Satire of injustice.", "concerns": "Moral center unclear with Kinji as lead."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Critique of greedy systems.", "concerns": "Immodesty and cunning glorified."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Hard work's value contrasted with idleness.", "concerns": "Nudity; dishonest schemes."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Labor justice satire.", "concerns": "Loli-tagged fan service."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Exploitation (zulm) and greed shown.", "concerns": "Nudity; deceit."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Greed (lobha) as folly.", "concerns": "Fan service."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Craving for wealth shown as absurd.", "concerns": "Sexual content."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Satire of exploitative labor.", "concerns": "Sexualized childlike character (ANN; MangaDex Loli)."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Critique of exploitation.", "concerns": "Childlike nudity."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Idle rich man forced to work.", "concerns": "Fan service; anti-hero."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Impure images; greed."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Greed shown as foolish.", "concerns": "Immorality and demons."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Sensual imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Worth of exploited workers.", "concerns": "Sexualized child form."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Exploitation as harm.", "concerns": "Exploitative fan service."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Satire of corporate disharmony.", "concerns": "Fan service."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work versus greed.", "concerns": "Lust and greed among the five vices."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Justice for workers.", "concerns": "Unchaste imagery."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Survival by wits.", "concerns": "Dishonesty."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Self-interest and defiance of the company.", "concerns": "Sexualized childlike figure breaks the rules on children."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Oppressing workers forbidden.", "concerns": "Immodesty."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Fair wages and workers' dignity.", "concerns": "Fan service."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Economic justice satire.", "concerns": "Childlike nudity."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Arrogant lead fights for status (MU Arrogant Protagonist)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Schemes against company rules (ANN)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Loyal to a few coworkers only (ANN, McNulty)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Corporate hierarchy and debt slavery (MU Slavery, Company)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Economic calculation drives Kinji."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Debt, overwork and survival (Seven Seas blurb)."}
+  },
+  "closest": ["The Far West", "Orthodox Europe", "El Norte"],
+  "japan": "'Black company' (burakku kigyou) is Japanese slang for firms that exploit staff with unpaid overtime; the series satirizes this."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN reviewers discuss the satire and its unlikeable lead but do not call it heavy-handed or subtle.",
+  "personified": [
+   {"character": "Kinji", "ideology": "Selfish money-making by any means", "role": "Hero", "treatment": "Mixed"},
+   {"character": "Wanibe", "ideology": "Honest, hard-working decency", "role": "Foil", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The company and Kinji both stand for greed, and the satire targets both."
+ },
+ "winners_losers": "Kinji is the focus but reviewers find him unsympathetic; exploited workers and Wanibe carry the moral counterweight.",
+ "to_verify": [
+  "Seven Seas imprint: listed as Seven Seas (not Ghost Ship) and MU has no Adult genre; kept.",
+  "Rim's nude childlike form and MangaDex Loli/Shota tags: frequency and framing.",
+  "ANN review covers volume 1 (2018); later arcs and ending not checked.",
+  "Anime adaptation exists; anime reviews were not used."
+ ]
+}

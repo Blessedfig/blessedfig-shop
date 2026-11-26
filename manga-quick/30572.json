@@ -1,0 +1,92 @@
+{
+ "anilist_id": 30572,
+ "title": "Midori Days",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30572",
+  "https://api.mangaupdates.com/v1/series/56636302045",
+  "https://animenewsnetwork.com/review/midori's-days"
+ ],
+ "premise": "Seiji Sawamura, a feared 17-year-old fighter known for his 'Devil's Right Hand', secretly longs for a girlfriend; one morning his right hand has become a tiny girl, Midori, who has had a crush on him since middle school (blurb). The series moves from episodic sitcom to a continuing story, including a romance with classmate Ayase, who warms to Seiji as he softens (ANN). Eight volumes, complete; Viz edition out of print (MU).",
+ "life_message": "Friendship and kindness are worth more than being feared.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Delinquent fights and rival school gangs (ANN; MU Street Fighting, Delinquent/s)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "MU Coma, Kidnapping/s; emotional final volume (ANN)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Ecchi and Nudity (MU; batch); sexual gags such as Seiji's porn collection (ANN). ANN notes it is mild next to fan-service peers."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Delinquent talk; not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Seiji's loneliness (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Shown with consequences", "note": "Fighting reputation shown as isolating (ANN)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Absurdism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Romantic comedy; softening a tough guy; friendship over fear",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Seiji learns gentleness and friendship over intimidation.", "concerns": "Ecchi gags, nudity and porn-collection humor."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Taming of anger and pride.", "concerns": "Sexual humor feeds the passions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Turning from fighting to kindness.", "concerns": "Fan service and sexual jokes."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Change of heart through love.", "concerns": "Ecchi content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Transformation of a feared delinquent.", "concerns": "Sexual humor; supernatural body sharing."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Shows pride and violence as lonely.", "concerns": "Lascivious images."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Friendship as gift.", "concerns": "Nudity and sex jokes."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Growth in love toward others.", "concerns": "Ecchi elements."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Moral arc away from fear.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Fighting set aside for peace.", "concerns": "Worldly sexual humor."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Kindness and friendship.", "concerns": "Modesty concerns; porn gag."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Rejects intimidation; BL subplot treated lightly (MU).", "concerns": "Objectifying gags."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Gentleness valued over brawling.", "concerns": "Immodest images; pornography reference."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Self-mastery of anger.", "concerns": "Sexual humor."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Letting go of anger for kindness.", "concerns": "Craving-themed gags."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Critiques toxic tough-guy image.", "concerns": "A girl reduced to a hand; 'Trap' gags (MU)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Empathy over fear.", "concerns": "Mild objectification."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Responsibility and loyalty.", "concerns": "Sexual humor; delinquency."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Transformation of character.", "concerns": "Impure humor."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Leaving violence behind.", "concerns": "Immoral humor."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcoming fear.", "concerns": "Degrading gags."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Inherent worth beyond reputation.", "concerns": "Stereotypes."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Harm none over brawling.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere feelings (makoto) rewarded.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Control of anger.", "concerns": "Lust as comedy."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity and friendship.", "concerns": "Chastity standards."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and affinity.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-acceptance.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Kindness (chesed).", "concerns": "Tzniut issues."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Friendship and decency.", "concerns": "Sexual humor."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Rejecting intimidation.", "concerns": "Objectifying gags."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Delinquent honor fights at the start, softened over time (ANN)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Seiji lives alone; absent parents (MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friends matter more than family; sister Rin present (ANN)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Delinquent pecking order matters less as story goes on (ANN)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Supernatural premise played as comedy, not belief."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Love and friendship as goals (ANN)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "The 'yankee' delinquent with a fearsome reputation is a Japanese school-manga type, and the story leans on norms of reputation and belonging at school."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN: Seiji 'gradually learns that friendship is worth far more than fear' through character-driven comedy.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The lesson emerges from Seiji's changing relationships rather than speeches."
+ },
+ "winners_losers": "Seiji, Midori and their friends win; the fear-based tough-guy reputation is what the story leaves behind.",
+ "to_verify": [
+  "Nudity frequency and context (MU Nudity)",
+  "Boys' Love subplot and 'Trap' tags: how portrayed",
+  "Ending of the Midori-Ayase love triangle",
+  "Out of print in English (MU)"
+ ]
+}

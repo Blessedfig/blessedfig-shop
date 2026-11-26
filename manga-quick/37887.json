@@ -1,0 +1,85 @@
+{
+  "anilist_id": 37887,
+  "title": "Toriko",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Toriko",
+    "https://anilist.co/manga/37887",
+    "https://www.mangaupdates.com/series/yq43d1d"
+  ],
+  "premise": "In an 'age of gourmet' where the world's finest ingredients are monstrous beasts and wild plants, Gourmet Hunter Toriko tracks them down with superhuman strength and senses. He teams up with the timid chef Komatsu to complete his 'full-course menu' of the world's best dishes. Their hunts grow into a world-spanning conflict with the Gourmet Corps, which seeks control of the world's food supply and the legendary ingredient GOD.",
+  "life_message": "Life is a feast to be shared: gratitude for food, courage in the hunt and loyal friendship make it worth living.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Endorsed", "note": "Bare-handed fights with giant beasts and villains; injuries and gore (Viz blurb via AniList; AniList Gore 55; MU Hunting, Near-Death Experience)."},
+    {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Kaiju-size monsters and cosmic threats (AniList Kaiju 79, Survival 79; MU Inhuman Power)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Little romance; MangaDex safe."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Shounen insults (to verify)."},
+    {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Exotic alcohol among gourmet ingredients (MU Alcohol) (to verify)."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Little noted."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Extreme eating and fighting wild animals, fantastical."},
+    {"category": "Commercial", "score": 3, "framing": "Endorsed", "note": "Food as the highest pleasure; large toy and game tie-ins (Wikipedia: Namco Bandai toy estimate; AniList Food 99; MU Black Market)."}
+  ],
+  "lenses": [
+    {"lens": "Hedonism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Might makes right", "strength": 4, "stance": "Explored"},
+    {"lens": "Environmentalism", "strength": 4, "stance": "Explored"},
+    {"lens": "Pantheist/New Age", "strength": 3, "stance": "Explored"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Joy and gratitude in food; strength and adventure; friendship",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 5, "loyalty": 7, "fairness": 5, "sanctity": 5, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Gratitude for food and the Toriko-Komatsu friendship.", "concerns": "Gluttony-adjacent appetite; violent hunts."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Gratitude for creation's gifts.", "concerns": "Feasting without fasting; violence."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and courage.", "concerns": "Graphic monster violence; gluttony."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Thankfulness and friendship.", "concerns": "Violence."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Bold courage.", "concerns": "Demons and afterlife elements (AniList tags); violence."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Creation's abundance enjoyed with thanks.", "concerns": "Violence."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Daily bread received with thanks.", "concerns": "Violence."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Sharing food and community.", "concerns": "Violence; alcohol."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Fellowship of the table.", "concerns": "Violence."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Shared meals.", "concerns": "Combat as heroism."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Gratitude and friendship.", "concerns": "Alcohol ingredients; violence."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Ecological balance and respect for food.", "concerns": "Mostly male cast; violence."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Gratitude for provision.", "concerns": "Alcohol; non-halal animals; violence."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Food as sacred gift.", "concerns": "Killing animals for food; ahimsa."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Gratitude and interdependence of life.", "concerns": "Killing beings; craving for flavor."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Environmental themes.", "concerns": "Violence; few women."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Joy in life and friendship.", "concerns": "Violence."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Courage, loyalty and hard work.", "concerns": "Gore."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Health through good food.", "concerns": "Unclean meats; alcohol; violence."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Violence and spirit elements."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Joyful confidence.", "concerns": "Injury and monstrous fear."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Interdependence of the web of life.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Reverence for nature's bounty and its cycles.", "concerns": "Violence."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Gratitude to food and nature.", "concerns": "Blood in hunts."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Sharing food (langar-like communal meals).", "concerns": "Alcohol; violence."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity through shared meals.", "concerns": "Alcohol; violence."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Survival across all life.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence and strength.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Blessing over food.", "concerns": "Non-kosher creatures; violence."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Gratitude.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Gratitude and friendship.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 6, "evidence": "Hunters prove themselves in personal combat."},
+      "Order vs freedom": {"pos": 7, "evidence": "Free-roaming hunters outside most rules."},
+      "Civic vs kin": {"pos": 5, "evidence": "Loyalty to partners and allies."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "Ranks of hunters and the gourmet organization."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Gratitude rituals beside science-fiction biology."},
+      "Survival vs self-expression": {"pos": 5, "evidence": "Survival hunts, but food as joy and self-expression."}
+    },
+    "closest": ["The Far West", "El Norte", "Latin America"],
+    "japan": "Gratitude toward food and the hunter-chef partnership echo Japanese food culture and craftsmanship ideals (to verify)."
+  },
+  "delivery": {"style": "Woven in", "preachiness": 3, "evidence": "No source addresses delivery; gratitude-for-food theme carried by the hunts (to verify).", "personified": [], "opposing_views": "Mixed", "note": "Gratitude and friendship are carried by Toriko and Komatsu's hunts, with the Gourmet Corps as the greedy opposition."},
+  "winners_losers": "Toriko and Komatsu win through strength, gratitude and friendship; greedy hoarders of ingredients lose.",
+  "to_verify": [
+    "Gore level in later arcs (AniList Cosmic Horror spoiler tag)",
+    "Viz age rating"
+  ]
+}

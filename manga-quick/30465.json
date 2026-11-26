@@ -1,0 +1,92 @@
+{
+  "anilist_id": 30465,
+  "title": "NOiSE",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/30465",
+    "https://api.mangaupdates.com/v1/series/41078630880",
+    "https://en.wikipedia.org/wiki/NOiSE"
+  ],
+  "premise": "A one-volume prequel to BLAME!: police officer Susono Musubi investigates child abductions in a dystopian city as the Megastructure begins its runaway growth, Silicon Creatures emerge and killer Safeguards appear. Her partner is viciously murdered, and she confronts the killer and his Silicon Creature. The volume also includes Nihei's prototype one-shot BLAME (Wikipedia; Kodansha text via AniList; MangaUpdates).",
+  "life_message": "Little in the summaries describes a good life; the story shows a lone officer pursuing duty as civilization collapses into machinery.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Partner viciously murdered (MU description); AniList Gore 79, Body Horror 70, Guns 80."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Body horror, child abductions, dystopian collapse (Wikipedia; AniList)."},
+    {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "MU Mind Break, Dead Partner, Emotionless Protagonist."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Cult element (AniList Cult, spoiler)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Transhumanism", "strength": 5, "stance": "Critiqued"},
+    {"lens": "Nihilism", "strength": 4, "stance": "Explored"},
+    {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Critiqued"}
+  ],
+  "dominant": "technology outgrowing humanity; dystopian policing; body horror",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 5, "loyalty": 4, "fairness": 5, "sanctity": 5, "authority": 5, "liberty": 3},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Protecting abducted children; warning about technology without ethics.", "concerns": "Gore and body horror; cult element."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows a world that has lost its soul to machines.", "concerns": "Grotesque imagery feeds fear."},
+    {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Officer pursuing justice for kidnapped children.", "concerns": "Graphic gore (AniList Gore 79)."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Opens talk on technology and human worth.", "concerns": "Bleak with no hope offered."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Fights against a dark force.", "concerns": "Cult and body horror."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Fallen human ambition producing ruin.", "concerns": "Violence and despair."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Police vocation upholding order.", "concerns": "Gore."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care for the vulnerable (abducted children).", "concerns": "Graphic content."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Cautionary science fiction.", "concerns": "Gore."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Warns of technology run amok.", "concerns": "Gun violence and killing."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Protecting children.", "concerns": "Violent and disturbing imagery."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Critique of dehumanizing systems.", "concerns": "Violence."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Justice for victims.", "concerns": "Gore and mutilated bodies."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Cycle of creation and dissolution echoed in the city's fate.", "concerns": "Tamasic horror."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Suffering of an impermanent, grasping world.", "concerns": "Violence."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Dystopia as warning about unaccountable tech.", "concerns": "Gore."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Speculative fiction about human control of technology.", "concerns": "Gore."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Duty of a police officer.", "concerns": "Gratuitous gore."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Apocalyptic warning tone.", "concerns": "Violent imagery."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and cult element."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Body horror and fear."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Questions what makes us human.", "concerns": "Gore."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Nature overwhelmed by artifice.", "concerns": "Violence."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Kegare of death and blood."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Defending the defenseless.", "concerns": "Gore."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Science needs moral guidance.", "concerns": "Violence."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Bleak aesthetic; lone individual against systems.", "concerns": "Harm to children in plot."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Protecting life.", "concerns": "Gore."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice pursued.", "concerns": "Gore."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Ethics of technology.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Officer works through police investigation (Wikipedia)."},
+      "Order vs freedom": {"pos": 3, "evidence": "Police and system order in a dystopian city (Wikipedia; AniList Police)."},
+      "Civic vs kin": {"pos": 3, "evidence": "Duty to strangers' abducted children (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "Police hierarchy; machine authorities (AniList)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Techno-dystopia; a cult as counterpoint (AniList)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Survival against killers and Safeguards."}
+    },
+    "closest": ["Confucian", "Puritan", "Orthodox Europe"],
+    "japan": "Nihei's sparse, architecture-dominated cyberpunk draws on Japan's dense urban landscapes, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "No review opened; default lowered for a short, image-driven volume (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Themes are carried by world-building and action rather than statements."
+  },
+  "winners_losers": "The city's machinery and the killers gain ground; the outcome for Susono is not documented in the sources.",
+  "to_verify": [
+    "Child abduction and gore detail",
+    "Cult element (AniList spoiler)",
+    "Content of the BLAME one-shot",
+    "No review found; web budget ran out; TokyoPop edition expired, Kodansha digital current"
+  ]
+}

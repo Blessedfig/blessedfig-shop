@@ -1,0 +1,95 @@
+{
+ "anilist_id": 30074,
+ "title": "Air Gear",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Air_Gear",
+  "https://animenewsnetwork.com/review/air-gear-gn-1",
+  "https://anilist.co/manga/30074",
+  "https://www.mangaupdates.com/series/xgxh48h"
+ ],
+ "premise": "Junior high brawler Itsuki 'Ikki' Minami discovers Air Trecks, motorized inline skates that let 'Storm Riders' fly across rooftops. He forms a team with friends, battles rival skating gangs for territory, and climbs toward the Trophaeum Tower, the pinnacle all riders dream of. Over 37 volumes the street-gang story grows into a conspiracy involving the military and a hidden plan behind the technology.",
+ "life_message": "Freedom, flight and a crew of friends are worth fighting for, and the sky belongs to whoever is bold enough to reach it.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Endorsed", "note": "Gang turf battles and aerial fights (ANN review; Kodansha blurb); AniList Torture (60), Gangs, Military tags."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Tragedy and conspiracy arcs (AniList Tragedy, Conspiracy 79). Capped (to verify); likely understated."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Endorsed", "note": "Heavy fan service and nudity (Kodansha 'wild, sexy manga'; ANN review on fetish designs; AniList Nudity 79). MangaUpdates lists a Rape category (to verify)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Delinquent and gang talk (AniList Delinquents). Capped (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Possible smoking or drinking among gangs (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Bullying, disability and dissociative identities appear (AniList tags)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Endorsed", "note": "Dangerous rooftop skating, parkour stunts and street fighting by middle schoolers (Wikipedia; AniList Parkour, Gangs)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Gear-upgrade culture; AniList Advertisement tag (low rank)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 5, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Freedom and flight; gang loyalty and turf honor; fan-service bravado",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 4, "loyalty": 8, "fairness": 4, "sanctity": 1, "authority": 2, "liberty": 9},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Loyalty to friends and Ikki's courage for his crew.", "concerns": "Gang violence as the path to glory; constant fan service degrades persons."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Brotherly loyalty.", "concerns": "Passions of pride, wrath and lust fed throughout."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Friendship and perseverance.", "concerns": "Nudity, sexual content and street fighting celebrated."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Teamwork and courage.", "concerns": "Glorified violence and fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Overcoming bullies.", "concerns": "Sexual content and gang culture."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Exposes a military conspiracy abusing youth.", "concerns": "Lascivious pictures (WLC Q139); violence without just cause."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Loyalty to one's crew as vocation-like bond.", "concerns": "Sixth- and fifth-commandment issues."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Fellowship of friends.", "concerns": "Holiness and do-no-harm concerns."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Coming-of-age ambition and loyalty.", "concerns": "Fan service and violence framing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note beyond friendship.", "concerns": "Violence, pride and sexual content central."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Friendship and goal-setting.", "concerns": "Vulgar, immoral and violent media per For the Strength of Youth."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Disability and outsiders find a place in the crew.", "concerns": "Sexualized women and glorified fighting."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Loyalty among friends.", "concerns": "Pervasive immodesty, sexual content and gang violence."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Striving and courage.", "concerns": "Tamasic and rajasic content; disrespect of elders."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Freedom as a longing explored.", "concerns": "Violence and craving celebrated."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Critique of a militarized conspiracy using kids.", "concerns": "Sexualization of teen characters; possible sexual assault content."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Technology, ingenuity and freedom.", "concerns": "Exploitation and glorified violence."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Courage and loyalty.", "concerns": "Delinquency, fan service and anti-authority attitude."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Physical activity and friendship.", "concerns": "Impure and violent content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and immorality throughout."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Aspiration to rise above limits.", "concerns": "Degrading images."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Freedom and belonging for outsiders.", "concerns": "Exploitation and violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Sky and wind imagery; personal freedom.", "concerns": "Harm and possible non-consent."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Group loyalty and seasonal urban life.", "concerns": "Blood and violence (kegare)."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Courage.", "concerns": "Lust, anger and ego celebrated."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Fellowship.", "concerns": "Degrading content and violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Group and self dynamics; ambition.", "concerns": "Violence and illegal acts glorified."},
+  {"frame": "Satanist", "grade": "B", "weight": "Significant", "aligns": "Rebellion, indulgence and personal freedom.", "concerns": "Unwanted sexual advances and harm to children."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Nivul peh, immodesty and violence."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Questioning militarized authority.", "concerns": "Exploitation and violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Rival gangs' challenges must be answered in battle; territory and reputation are defended personally."},
+   "Order vs freedom": {"pos": 9, "evidence": "Flying free of rules and authority is the series' core image."},
+   "Civic vs kin": {"pos": 7, "evidence": "Loyalty to one's crew and the Noyamano household comes first."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Riders rank by 'Roads' and 'Kings'; status is won in combat."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "High-tech gear and engineering drive the world."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Style and freedom matter, amid street survival."}
+  },
+  "closest": ["El Norte", "The Far West"],
+  "japan": "Delinquent (yankii) gang culture and loyalty to one's team echo Japanese youth subcultures and shonen battle-ranking conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Freedom and crew loyalty carried by gang battles; ANN review cited for content, not delivery (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Freedom and loyalty are expressed through action and turf battles rather than speeches, per summaries."
+ },
+ "winners_losers": "Ikki and his crew win; adult and military schemers lose. Sympathy goes to freedom and crew loyalty, with fan service as a constant.",
+ "to_verify": [
+  "MangaUpdates 'Rape' category: what scene, how framed",
+  "Fear and intensity and Language capped at 3; may be understated",
+  "Kodansha/Del Rey age rating (believed Older Teen)",
+  "Torture scenes detail"
+ ]
+}

@@ -1,0 +1,387 @@
+{
+ "anilist_id": 46601,
+ "title": "Limit",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/46601",
+  "https://api.mangaupdates.com/v1/series/72125249426",
+  "https://www.animenewsnetwork.com/review/the-limit/gn-1"
+ ],
+ "premise": "High-school junior Mizuki Konno keeps herself safe by staying close to the popular Sakura and her clique, who torment the outcast Morishige (Kodansha blurb; ANN). A bus crash on a class trip kills nearly everyone, and five injured girls who resent one another must survive in the wilderness while a new pecking order forms on different terms (blurb). A six-volume shoujo survival drama compared to Lord of the Flies.",
+ "life_message": "It suggests that social rank built on looks and popularity is fragile, and that empathy and honesty matter more when survival is at stake.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "A crash kills most of the class (blurb); ANN notes a violent cliffhanger; MangaUpdates tags a psychopath and dead friends."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "Survival peril, injured girls and mounting hostility; ANN calls it tense and overwhelming."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "MangaUpdates notes a romantic subplot only."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Verbal cruelty between classmates; profanity not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "School bullying central (AniList, MangaUpdates, ANN); torment of Morishige builds; deaths of classmates."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Condemned",
+   "note": "Bullying and bystander indifference shown, then reversed."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 3,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Critique of school caste and conformity; survival ethics; bystander guilt",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 5,
+  "fairness": 8,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity of the outcast; conscience of a bystander like Mizuki.",
+   "concerns": "Mass death and violence among teens."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Repentance of pride and cruelty.",
+   "concerns": "Intense fear, hatred and death."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sin of cruelty exposed; humility gained.",
+   "concerns": "Violent survival scenes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Golden-rule lesson on bullying.",
+   "concerns": "Violence between classmates."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "The proud brought low.",
+   "concerns": "Dark tone without hope in God."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Human depravity under pressure shown truthfully.",
+   "concerns": "Bleak violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love of neighbor tested; vocation of the weak.",
+   "concerns": "Disturbing peril."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Social holiness: exposes bystander apathy (ANN).",
+   "concerns": "Violence and despair."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Lord of the Flies-style moral fable.",
+   "concerns": "Teen violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Peacemaking needed among enemies.",
+   "concerns": "Violence and revenge-tinged power reversal."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness and accountability among peers.",
+   "concerns": "Violent, frightening content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Exposes exclusion, hierarchy and bystander guilt.",
+   "concerns": "Violence intensity."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice toward the oppressed.",
+   "concerns": "Violence and death."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Karma of cruelty returning.",
+   "concerns": "Hatred and violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Suffering from pride and craving for status.",
+   "concerns": "Violence; harsh speech."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Anti-bullying; critiques social hierarchy.",
+   "concerns": "Violence and trauma; safe-messaging around deaths."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Empathy and reason amid crisis.",
+   "concerns": "Violence among teens."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility and courage.",
+   "concerns": "Anarchy among youths."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Humility and kindness learned.",
+   "concerns": "Violence and fear."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lesson against cruelty.",
+   "concerns": "Violent, frightening content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Selfishness exposed.",
+   "concerns": "Dwelling on fear and death."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inherent worth of every classmate.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Harm returns to those who cause harm.",
+   "concerns": "Violent survival."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Community harmony broken and sought.",
+   "concerns": "Death imagery (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Equality of all, against status.",
+   "concerns": "Violence and hatred."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity and the elimination of prejudice.",
+   "concerns": "Violence and backbiting."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Survival dynamics and group ethics.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overturning arbitrary status hierarchy.",
+   "concerns": "Little at odds."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Lashon hara and shaming condemned.",
+   "concerns": "Violence and death."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kind speech and human dignity.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Justice for the marginalized.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Old slights demand answer once roles reverse (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "School order collapses; new rules imposed in the wild."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Classmates, not family, form the group."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Critiques the popularity caste system it depicts."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Survival reasoning rather than custom."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "Physical survival dominates."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Puritan",
+   "Catholic Europe"
+  ],
+  "japan": "The school-class caste system and pressure to conform to the group reflect common themes in Japanese school fiction, shown critically."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "ANN: social commentary subtle in bullying scenes but Morishige's storyline 'a bit heavy-handed at times'; opening bystander scene states the theme.",
+  "personified": [
+   {
+    "character": "Sakura",
+    "ideology": "school caste rule by popularity",
+    "role": "Villain",
+    "treatment": "Mixed"
+   },
+   {
+    "character": "Morishige",
+    "ideology": "the outcast's resentment of the caste system",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The story critiques school hierarchy through dramatic reversal, with one reviewer finding parts of it heavy-handed."
+ },
+ "winners_losers": "Status built on popularity collapses; the formerly powerful lose standing and the bullied gain it, with the story probing whether that is any better. Ending not checked.",
+ "to_verify": [
+  "Severity of violence among survivors in later volumes.",
+  "Ending and who survives.",
+  "Treatment of Morishige (single review volume 1).",
+  "Language."
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "anilist_id": 34778,
+ "title": "La Vie en Rose",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/34778",
+  "https://api.mangaupdates.com/v1/series/68946447159",
+  "https://fast.animenewsnetwork.com/encyclopedia/releases.php?id=29626"
+ ],
+ "premise": "When 19-year-old Yayoi's parents die, he expects an inheritance but instead inherits a 100 million yen debt owed to the yakuza; his girlfriend dumps him and points him to host work. A wealthy businessman, Kazu(to), offers to take on the debt if Yayoi will become his, and Yayoi wonders what the price will be (AniList, MU, ANN; English title A Rose-Colored Life from Digital Manga).",
+ "life_message": "A relationship that begins as a debt arrangement is shown turning into love.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "MU lists Rape, Attempted Rape, Kidnapping/s, Child Abuse; single source (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Yakuza debt collectors (ANN; MU blurb)."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Neutral", "note": "Debt in exchange for becoming Kazu's (MU blurb; ANN 'what the price will be'); MU Forced into a Relationship, Rape, Aphrodisiac."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "MU Aphrodisiac, Drug/s; single source."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Parents' death treated lightly (AniList blurb); MU Amnesia."},
+  {"category": "Imitable behavior", "score": 5, "framing": "Neutral", "note": "Body-for-debt arrangement as romance (MU blurb; ANN); MU Rapist Protagonist."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Money, inheritance, host work and a rich suitor drive the plot (AniList; ANN)."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 4, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 3, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Might makes right; Consumerism",
+ "axes": {"economic": 7, "social": 7, "cultural": 6, "community": 3},
+ "foundations": {"care": 3, "loyalty": 3, "fairness": 2, "sanctity": 1, "authority": 6, "liberty": 3},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Kazu relieves a young man of a crushing debt.", "concerns": "Sexual relationship bought with money; rape and child abuse tags."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Rescue from yakuza collectors.", "concerns": "Passions and coercion; same-sex relationship."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sex in exchange for debt; host work; same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "A form of rescue.", "concerns": "Coercion presented as romance; abuse tags."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Aphrodisiacs, rape and forced relationship."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Little beyond comic tone.", "concerns": "Seventh and eighth commandments: sex as payment."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Debt forgiven, a faint gospel echo.", "concerns": "Coercion; abuse of power."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Yayoi rescued from yakuza.", "concerns": "Do no harm: coercive sex; child abuse tags."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Comedy of misfortune.", "concerns": "Dignity of persons violated by purchase."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Wealth used to dominate; sexual content."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little; debt freedom.", "concerns": "Chastity; coercion."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Gay romance.", "concerns": "Economic coercion and non-consent as romance."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Riba-like debt bondage; zina; same-sex relations."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Artha and debt obligations taken seriously.", "concerns": "Adharma of coercion."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Shows how craving for wealth brings suffering (the girlfriend).", "concerns": "Sexual misconduct; harm."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Queer characters.", "concerns": "Consent; class power; child abuse tags."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Satire of greed (the girlfriend).", "concerns": "Coercion and exploitation."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content; glamour of wealth; yakuza."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Drugs; passions; coercion."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality; violence; bad associations."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Fear, coercion and sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Inherent dignity violated; consent."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Harm and coercion; aphrodisiacs."},
+  {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Little; family debt duty.", "concerns": "Disregard for dead parents; kegare."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Lobh (greed) and kaam; drugs."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Chastity; drugs; coercion."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Drugs; harm to a person of good will."},
+  {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Self-interest on display.", "concerns": "Eleven Rules: unwanted advances; harm to children tags."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex acts; coercion."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Degradation and coercion."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Exploitation of the vulnerable."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Debt to yakuza must be paid or settled (ANN)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Yayoi bound by debt and Kazu's terms (MU blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Inherited parental debt (AniList, ANN)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Rich businessman holds power over a debtor (MU Rich Seme; ANN)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular money-driven world."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Paying debt and survival dominate (ANN)."}
+  },
+  "closest": ["Orthodox Europe", "Confucian", "Tidewater"],
+  "japan": "Inheriting a parent's debt, yakuza loan collectors and host-club work are recurring settings in Japanese fiction about money."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedy genre and blurb tone; no review found (to verify).",
+  "personified": [
+   {"character": "Yayoi's girlfriend", "ideology": "love for money", "role": "Foil", "treatment": "Strawman"}
+  ],
+  "opposing_views": "None shown",
+  "note": "Comic tone over a coercive premise."
+ },
+ "winners_losers": "MU tags Unrequited Love Becomes Requited, suggesting Yayoi and Kazu end together; the greedy girlfriend is the loser (to verify).",
+ "to_verify": [
+  "MU tags Child Rape, Pedophilia, Child Abuse, Rapist Protagonist: who, when, and whether shown (single source; sensitive)",
+  "Whether the Say Yes one-shot or the main story holds these elements",
+  "English publisher age rating (DMG eBook)",
+  "Ending"
+ ]
+}

@@ -1,0 +1,363 @@
+{
+ "anilist_id": 32685,
+ "title": "Georgie",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32685",
+  "https://api.mangaupdates.com/v1/series/74902227986",
+  "https://www.comicsbeat.com/manga-mavericks-books-and-omoi-announce-classic-manga-georgie-license/"
+ ],
+ "premise": "Georgie, a lively girl living with her mother and two older brothers in the Australian countryside, meets Lowell, a young English noble, and follows a path to England to discover her roots (Manga Mavericks blurb). A 1982 historical shoujo drama written by Mann Izawa and drawn by Yumiko Igarashi; the publisher calls it a coming-of-age story built on many forms of love. Database tags list adoption, siblings not related by blood, a love triangle, Victorian England, child abuse and neglect, illness, drug addiction, an attempted suicide and an execution.",
+ "life_message": "It suggests that love in its many forms, and knowing where one comes from, shape who a person becomes.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Execution, confinement, child abuse tags (MangaUpdates); capped, database only."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Tragedy and death of loved ones (tags)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Love polygon; romantic feelings between adoptive siblings (tags 'Siblings Not Related by Blood', 'Inseki'); capped (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not documented."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Drug abuse/addiction tag (both databases); capped (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Attempted suicide (MangaUpdates) and Suicide spoiler (AniList); capped (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Runaways and cross-dressing to travel (tags)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Classic anime adaptation."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Coming of age; search for roots; love in many forms; tragedy",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family bonds and self-giving love (publisher).",
+   "concerns": "Adoptive-sibling romance; suicide attempt; drug addiction."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Repentance and suffering in tragedy.",
+   "concerns": "Passions in a love polygon among adoptive siblings."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family love and courage.",
+   "concerns": "Romance between siblings raised together; suicide."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Search for identity and belonging.",
+   "concerns": "Suicide attempt; drug abuse."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Perseverance through trials.",
+   "concerns": "Sibling romance; addiction."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Providence-like journey to one's roots.",
+   "concerns": "Romantic passions and suicide."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love within a farm family.",
+   "concerns": "Tragic elements."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love expressed in many forms.",
+   "concerns": "Addiction and suicide portrayal."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Classic Victorian romance tradition.",
+   "concerns": "Abuse and suicide themes."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Simple rural family life.",
+   "concerns": "Execution and abuse."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family central to identity.",
+   "concerns": "Sibling romance; drug use."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Abuse and neglect shown as harm.",
+   "concerns": "Suicide handling."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kinship and honoring a mother.",
+   "concerns": "Sibling romance; addiction; suicide."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family duty and lineage.",
+   "concerns": "Suicide; addiction."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Suffering and impermanence.",
+   "concerns": "Intoxicants; attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Spirited tomboy heroine (tags).",
+   "concerns": "Abuse and suicide portrayal (safe messaging)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-discovery.",
+   "concerns": "Tragedy handling."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family loyalty; roots and heritage.",
+   "concerns": "Romance between adoptive siblings."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family love.",
+   "concerns": "Drug addiction; suicide."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest search for truth of origins.",
+   "concerns": "Romance and drugs."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love that endures trials.",
+   "concerns": "Illness and death dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Many forms of love honored.",
+   "concerns": "Abuse."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freedom of a spirited girl.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ancestral roots matter.",
+   "concerns": "Death and tragedy."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Equality and courage of a girl.",
+   "concerns": "Intoxicants; suicide."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love and unity.",
+   "concerns": "Drugs; suicide."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family and survival.",
+   "concerns": "Drug addiction."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-determination of the heroine.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honoring a parent's love.",
+   "concerns": "Sibling romance; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family and identity.",
+   "concerns": "Suicide; addiction."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Search for belonging.",
+   "concerns": "Suicide portrayal."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Class and noble honor in England (tags)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Runaways and journey (tags)."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "Family and roots central (publisher)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "English nobility and political marriage (tags)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Victorian setting and inherited status."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Rural survival and romance balanced."
+   }
+  },
+  "closest": [
+   "Latin America",
+   "El Norte",
+   "Tidewater"
+  ],
+  "japan": "A Western historical setting typical of 1970s-80s shoujo; Japanese norms are not foregrounded."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Publisher frames it as a coming-of-age story of many loves; no review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes appear carried by Georgie's journey."
+ },
+ "winners_losers": "Not described beyond setup; tragedy tags suggest losses (to verify).",
+ "to_verify": [
+  "English edition due 2027 (announced Oct 2026).",
+  "Nature of the adoptive-sibling romance, suicide and drug content.",
+  "No review opened."
+ ]
+}

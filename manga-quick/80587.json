@@ -1,0 +1,89 @@
+{
+ "anilist_id": 80587,
+ "title": "Anonymous Noise",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/80587",
+  "https://api.mangaupdates.com/v1/series/73466303986"
+ ],
+ "premise": "Nino Arisugawa loves to sing. As a child she is parted first from her friend Momo and then from Yuzu, a young composer; both promise to find her through her singing. In high school she meets Yuzu again through music while still longing for Momo (VIZ blurb via AniList/MU).",
+ "life_message": "Music can carry feelings that words cannot, and holding on to a promise can shape who you become.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Emotional separations and unrequited love (AniList)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "High-school love triangle (AniList, MU); physical content not reported (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Rock-band setting; not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Longing and loss; not reported in detail."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "MU lists Parental Interference and secret identities."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Anime, live-action and audio-drama adaptations (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "First love and longing; music as self-expression; love triangle",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 4},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Faithfulness to a childhood promise; music as beauty.", "concerns": "Intensity of teen romance; parental conflict."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Constancy of affection.", "concerns": "Passions of romance stirred."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Loyal friendship and promise-keeping.", "concerns": "Rock-band culture; love triangle; cross-dressing (MU)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Using talent to reach others.", "concerns": "Teen romance focus."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Song as heartfelt expression.", "concerns": "Worldly music scene."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Gift of music used with devotion.", "concerns": "Parental interference shown negatively (to verify)."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "High view of music, as in its hymn tradition.", "concerns": "Little reported."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Singing as the heart's voice.", "concerns": "Romance drama."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Art and longing explored thoughtfully.", "concerns": "Little reported."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Minor", "aligns": "Faithfulness.", "concerns": "Rock-band fame and romance as aims."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Keeping commitments.", "concerns": "Teen romance; parents opposed."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Creativity and gender-fluid presentation (MU).", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Loyalty to friends.", "concerns": "Music debated; teen romance; cross-dressing."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Music and rasa: emotion through art.", "concerns": "Defiance of parents."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Shows the pain of clinging to the past.", "concerns": "Attachment celebrated."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Female lead finding her voice; gender-bending looks.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Creative self-realization.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Fidelity to a promise; hard work at craft.", "concerns": "Parental interference framed against parents."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Talent and diligence.", "concerns": "Rock-music scene."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Loyalty.", "concerns": "Worldly fame and teen romance."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love and hope sustained.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Self-expression and inclusiveness.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Music as personal power.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity of feeling in song.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Music (kirtan-like devotion of feeling); diligence.", "concerns": "Romance outside marriage."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Arts as worship when done in service.", "concerns": "Teen romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication through art.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Individual self-expression.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Keeping one's word.", "concerns": "Teen romance; secular entertainment time."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Keeping promises.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Creative expression.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflicts are emotional, not about honor."},
+   "Order vs freedom": {"pos": 7, "evidence": "Teens pursue music against parental interference (MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Band and friend ties over family."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "School club and band roles."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern rock-music world."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "Singing to express feeling is the core (blurb)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "School club music and the masked-band image reflect Japanese youth pop culture, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No source reports how the story's themes are delivered."
+ },
+ "winners_losers": "Nino, Yuzu and Momo carry the reader's sympathy; who ends up together is not reported.",
+ "to_verify": [
+  "No review opened; content from blurb and tags only.",
+  "Romance physicality and any darker themes across 18 volumes.",
+  "Parental interference subplot details."
+ ]
+}

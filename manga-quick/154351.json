@@ -1,0 +1,90 @@
+{
+ "anilist_id": 154351,
+ "title": "ELDEN RING: The Road to the Erdtree",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/154351",
+  "https://api.mangaupdates.com/v1/series/16155842662",
+  "https://api.mangadex.org/manga?title=ELDEN RING: Ougonju e no Michi (record 455bfa6f-e355-4996-8d0c-dbdc55f17ffc)"
+ ],
+ "premise": "A gag-comedy parody of the dark fantasy video game Elden Ring. Aseo, a hapless Tarnished cast into Limgrave 'naked, penniless, hopeless, and maidenless', follows the guidance of the mysterious Melina toward the Erdtree, meeting characters from the game on his way to Stormveil Castle.",
+ "life_message": "Persistence through repeated failure is worth laughing at and admiring.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Parody of a combat game; 'certain death' played for comedy (MangaDex description; AniList Survival) (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Dark setting turned into absurd comedy (Yen Press blurb)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Hero in a loincloth, comic male near-nudity (MangaDex description)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Hopelessness played for laughs."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Slapstick."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Licensed tie-in to a commercial video game (MU Based on a Video Game; creators FromSoftware, Bandai Namco)."}
+ ],
+ "lenses": [
+  {"lens": "Absurdism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Postmodernism", "strength": 3, "stance": "Explored"},
+  {"lens": "Stoicism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Absurdism, Postmodernism (meta parody), Stoicism (enduring failure)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 3, "loyalty": 3, "fairness": 3, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Humility and perseverance of a failing pilgrim, played for laughs.", "concerns": "Parody of a game with invented gods and a quasi-religious Erdtree."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Little beyond perseverance.", "concerns": "Dark mythology with witches and grafted horrors."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Clean of sexual content in sources.", "concerns": "Witches and sorcery from the game world."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Laughs at a self-important quest; humility.", "concerns": "Game mythology and magic."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Ranni the Witch and occult-flavored game lore."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Satire of human pretension.", "concerns": "Fictional deity worship (Erdtree)."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Weakness exposed with humor.", "concerns": "Fantasy, often accepted."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Harmless comedy.", "concerns": "Little moral aim."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle satire of epic fantasy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Mockery of warrior glory.", "concerns": "Violence-game tie-in."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Perseverance.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Comedy deflates violent heroics.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Invented gods, witches and sorcery."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Comic pilgrimage.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Laughing at striving and ego.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Anti-heroic comedy.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Humor at myth and grandiosity.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Persistence.", "concerns": "Mockery of heroism."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Spirit-guide Melina and sorcery."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritism and magic from game lore."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Cheerfulness amid hardship.", "concerns": "Death motifs."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Playful take on mythology.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Witch Ranni and nature-tree mythos in comic light.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sacred-tree imagery treated playfully.", "concerns": "Death."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Humility.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Humor.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Persistence.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Irreverence toward a god-like Erdtree and its order.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Idolatry-like tree worship; time-wasting."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Humor.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Satire of violent heroics.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Anti-hero lacks any honor to defend (Yen Press blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Lone wanderer in a lawless land (MangaDex description)."},
+   "Civic vs kin": {"pos": 4, "evidence": "No family; chance companions."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Quest to become 'Elden Lord' parodied."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Game mythology treated irreverently."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Survival with nothing (AniList Survival)."}
+  },
+  "closest": ["The Far West", "El Norte", "The Midlands"],
+  "japan": "The tsukkomi-style gag parody of a famous game is a common Japanese web-manga format."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Yen Press markets it as 'absurd comedy'; no message stated (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A parody without a stated message."
+ },
+ "winners_losers": "Aseo's hapless persistence gets the reader's sympathy; no worldview is set against another.",
+ "to_verify": [
+  "Violence level of the parody; deaths may be frequent as in the game.",
+  "No review found."
+ ]
+}

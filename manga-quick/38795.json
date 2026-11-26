@@ -1,0 +1,362 @@
+{
+ "anilist_id": 38795,
+ "title": "The Knight in the Area",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/38795",
+  "https://api.mangaupdates.com/v1/series/63948165049"
+ ],
+ "premise": "Eighth-grader Kakeru Aizawa manages his school's football team after vowing never to play again, while his older brother Suguru is the team's ace and a national-level player. Suguru believes in Kakeru's hidden talent, and a childhood friend, Nana, returns. A 57-volume sports series following the brothers toward national and international competition; MU lists an accident, an organ transplant and a dead family member.",
+ "life_message": "Talent grows through hard work, teamwork and the faith of family.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Sports contact."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Accident and a family death (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romantic subplot and harem subtext (MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Grief and self-doubt."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Sports striving."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Pro football world."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Classical virtue ethics; Communitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 8,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Brotherly love, perseverance and teamwork.",
+   "concerns": "Grief handling (to verify)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Humility and perseverance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work and family loyalty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Brother's faith in Kakeru.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Perseverance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gifts used faithfully.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation and teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Discipline and growth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork and fair play.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Cooperation and humility.",
+   "concerns": "Competitive ambition."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family support.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Perseverance (sabr).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Duty and effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Right effort.",
+   "concerns": "Attachment to winning."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Effort and skill.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work, family, discipline.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Discipline.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Brotherly love.",
+   "concerns": "National competition focus."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Overcoming limits.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mutual support.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal growth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony and sincerity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Unity of team.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Competence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-mastery.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honoring family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Disputes settled on the pitch."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Team discipline."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Brothers' bond central."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Senpai and coaches respected."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular sports world."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Hard work first."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Catholic Europe",
+   "Confucian"
+  ],
+  "japan": "Team discipline and senpai-kohai respect in school football reflect Japanese club culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; message inferred from blurbs (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Perseverance is carried by Kakeru's growth."
+ },
+ "winners_losers": "Kakeru develops into a player with family and team support (to verify).",
+ "to_verify": [
+  "English license via DeNA Manga Box may be partial or lapsed",
+  "How the brother's death and transplant are handled",
+  "Delivery style"
+ ]
+}

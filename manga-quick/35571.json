@@ -1,0 +1,358 @@
+{
+ "anilist_id": 35571,
+ "title": "Barefoot Waltz",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/35571",
+  "https://api.mangaupdates.com/v1/series/10253082174"
+ ],
+ "premise": "A collection of eight short stories. In the title story, love-shy novelist Azuma confesses \"a little too forcefully\" to Katsumi, a part-timer at his publisher, and fears he has ruined everything, until Katsumi turns up at his door two years later (AniList, MU).",
+ "life_message": "Second chances in love come to those who are patient and honest about past mistakes.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Forceful confession (AniList blurb); details unknown."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "MangaDex rating erotica; MU Yaoi, Live-in Lover, Ex-Lovers."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Explored",
+   "note": "Loner protagonist, regret (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "A too-forceful confession later forgiven (AniList blurb; to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 3,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Azuma's remorse and Katsumi's return suggest reconciliation.",
+   "concerns": "Same-sex romance and sex outside marriage; forceful advance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Repentance-like regret over a wrong done.",
+   "concerns": "Sexual content and same-sex relationships feed the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond remorse.",
+   "concerns": "Same-sex sex outside marriage; erotic content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Regret after hurting someone.",
+   "concerns": "Same-sex romance and sexual content celebrated."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content; same-sex relationships."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest picture of a man's failure.",
+   "concerns": "Lascivious content (WLC Q139); same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Grace of a second chance after failure.",
+   "concerns": "Confessional synods object; ELCA readers focus on the forceful confession."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Reconciliation after wrong.",
+   "concerns": "Holiness bodies object to sexual content and romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Quiet adult drama of regret.",
+   "concerns": "ACNA object to the romance; sexual content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content and worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Law of chastity; same-sex romance; erotic content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Committed adult same-sex love after reconciliation.",
+   "concerns": "The forceful confession raises consent questions."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content; same-sex relationships."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Patience rewarded.",
+   "concerns": "Kama outside marriage; varied views on same-sex love."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Regret leading to changed conduct.",
+   "concerns": "Sexual content and attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adult queer love stories.",
+   "concerns": "The forceful confession; consent should be checked."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adults repairing a relationship.",
+   "concerns": "Pressure in Azuma's confession."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content; same-sex romance; unmarried live-in lovers."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Content that excites the passions."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality as Witnesses define it."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love outlasting fear of failure.",
+   "concerns": "Dwelling on sensual images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of every loving relationship.",
+   "concerns": "Consent in the opening scene."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sex between consenting adults treated warmly.",
+   "concerns": "Forceful advance."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity in Azuma's apology.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lust and sex outside marriage."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity; same-sex relations."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Communication repairs a broken bond.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adults following desire.",
+   "concerns": "Forceful confession sits poorly with consent rule."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Tzniut; same-sex relations."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teshuva-like return after harm.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive adult love.",
+   "concerns": "Consent."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Azuma's shame is private; no honor contest."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Unconventional live-in relationship."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Work colleagues, not kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Age gap (MU) but no rank pressure."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular adult setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Personal feelings and fulfilment."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Midlands"
+  ],
+  "japan": "The publishing-house setting reflects the close author-staff relations common in Japanese publishing."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Reunion plot carries the idea (AniList, MU); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Short romances without stated lessons."
+ },
+ "winners_losers": "Azuma gets a second chance when Katsumi returns (AniList); sympathy rests with the couple.",
+ "to_verify": [
+  "What 'too forcefully' means in the confession scene",
+  "How explicit the stories are (MangaDex erotica vs MU no Smut)",
+  "Other seven stories",
+  "English availability (June)"
+ ]
+}

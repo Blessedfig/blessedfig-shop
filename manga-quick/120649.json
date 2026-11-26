@@ -1,0 +1,90 @@
+{
+ "anilist_id": 120649,
+ "title": "AYAKA is in LOVE with HIROKO!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/120649",
+  "https://api.mangaupdates.com/v1/series/41689581014"
+ ],
+ "premise": "An office romantic comedy between two adult women. Bubbly office worker Ayaka is in love with her senior and boss Hiroko, while Hiroko, who is not out at work but has a reputation as a womanizer in the local lesbian community, tries to keep her composure; each assumes the other is straight. Tags note coming out, homophobia and a love triangle (MangaPlaza blurb via MU and AniList).",
+ "life_message": "Being honest about who you love brings happiness, even when fear keeps people closeted.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Romance between adult women; 'busty' subordinate and womanizer framing (blurb); MangaDex 'suggestive'. Level not reviewed, capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Lesbian bar setting (MU, AniList Bar)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Internalized homophobia and fear of coming out (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Boss-subordinate romance (MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adapted to live-action drama (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Feminism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Same-sex love and coming out; workplace romance; self-acceptance",
+ "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 3},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 6, "sanctity": 1, "authority": 3, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Respect for persons and rejection of mockery toward Ayaka and Hiroko.", "concerns": "Affirms a same-sex romantic relationship contrary to Church teaching."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Sincere affection.", "concerns": "Same-sex romance affirmed; bar culture."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Honesty replacing hidden lives.", "concerns": "Same-sex romance celebrated (BF&M Article XVIII)."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Kindness at work.", "concerns": "Same-sex romance affirmed; affirming churches differ."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Love expressed openly.", "concerns": "Same-sex romance; womanizer reputation."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Truthful about fear of exposure.", "concerns": "Conservative churches object; PC(USA) affirming."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Office life and honesty.", "concerns": "LCMS/WELS object; ELCA affirming."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love and inclusion.", "concerns": "UMC affirming; Global Methodist and Nazarene object."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Covenant love between adults.", "concerns": "Episcopal affirming; ACNA objects."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Honest relationships.", "concerns": "Same-sex romance; worldly bar culture."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Same-sex romance against the Family Proclamation."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Affirms lesbian love and critiques homophobia.", "concerns": "Boss-subordinate power dynamic."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex romance celebrated; bar; immodest framing."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Devotion and love.", "concerns": "Views vary; traditional families object."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion and honesty.", "concerns": "Workplace power and alcohol."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "LGBTQ representation and coming-out story.", "concerns": "Busty fan-service framing; boss-subordinate consent."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Consenting adult relationship affirmed.", "concerns": "Workplace power."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Workplace professionalism.", "concerns": "Same-sex romance presented approvingly."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex romance; bar."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Fear overcome.", "concerns": "Teaching varies (to verify)."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Full welcome of LGBTQ people.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love between consenting adults.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity in feelings.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Honest living.", "concerns": "Akal Takht opposes same-sex marriage; alcohol."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Rejection of prejudice.", "concerns": "Sexual relations reserved to man-woman marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication resolves misunderstanding.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Consenting adults free in love.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex romance; immodesty."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "CJLS permits same-sex unions.", "concerns": "Views vary by congregation."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Affirming and inclusive.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Reputation concerns at work but no honor conflicts (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Coming out and freedom to love as you choose (MU Coming Out of the Closet)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Workplace and community setting, not family."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Boss-subordinate romance softened by mutual feelings (MU)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Modern urban office life; homophobia critiqued (MU)."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "Authentic identity and love as core (blurb)."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "Protestant Europe"],
+  "japan": "Reflects Japanese office-lady culture and workplace senpai-kohai roles, where being out at work remains uncommon."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Rom-com premise; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Homophobia appears as background pressure rather than a debated position (to verify)."
+ },
+ "winners_losers": "Sympathy lies with Ayaka and Hiroko as they overcome fear (to verify ending).",
+ "to_verify": [
+  "No review or Wikipedia cache opened; database and publisher blurb only.",
+  "Level of fan service ('busty' framing) and any intimate scenes.",
+  "How homophobia is depicted (MU categories)."
+ ]
+}

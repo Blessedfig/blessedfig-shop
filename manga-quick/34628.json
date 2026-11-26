@@ -1,0 +1,91 @@
+{
+ "anilist_id": 34628,
+ "title": "Shin Yami no Koe: Kaidan",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/34628",
+  "https://api.mangaupdates.com/v1/series/67630564086",
+  "https://www.animenewsnetwork.com/feature/2019-06-05/the-spring-2019-manga-guide/mashed/.147514"
+ ],
+ "premise": "A one-volume anthology of Junji Ito horror stories: two stories about Soichi, a curse-obsessed boy who spits nails, including one where his family adopts a stray cat; two villages that face each other with mirrors; a driver who finds a bloodied girl on a mountain road; a husband obsessed with an inherited book collection; and a song that will not leave someone's head (AniList; MU). In English these stories were collected in Viz's omnibus Smashed (MU).",
+ "life_message": "No clear life message; guilt, obsession and grief turn into literal horrors.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Blood, splatter and cannibalism listed (MU Blood and Gore, Splatter, Cannibalism; AniList Body Horror); ANN reviewers note 'disturbing imagery'."},
+  {"category": "Fear and intensity", "score": 7, "framing": "Neutral", "note": "Body horror and haunted locations (AniList Body Horror rank 100; MU Haunted Location); reviewers say the tone is 'a little cold'."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "A married couple in one story (blurb); nothing else noted."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Neutral", "note": "Guilt-driven psychological tales and obsession (ANN review); stuck-song story (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Soichi's spitting nails and cursing people (MU blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 4, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Folk curses and absurd horror; guilt and obsession",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 4, "sanctity": 5, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Guilt has consequences in several tales.", "concerns": "Soichi's cursing played for dark fun; gore and cannibalism."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows passions (obsession over books) consuming people.", "concerns": "Curses and haunting imagery."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Little to affirm beyond warning tales.", "concerns": "Curses, hauntings, cannibalism."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Obsession and enmity shown as destructive.", "concerns": "Occult curses and gore."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Evil is real and harmful.", "concerns": "Cursing child, ghosts and haunted houses."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common-grace craft of a horror master.", "concerns": "Curses shown as effective."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Village enmity in the mirrors tale as a warning.", "concerns": "Gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Guilt as moral conscience.", "concerns": "Horror diversion; curses."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Imaginative fable-like tales.", "concerns": "Gore."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Enmity between villages leads to ruin.", "concerns": "Worldly horror media."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Family adopts a stray cat.", "concerns": "Spirit contact and gore."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Grief and guilt explored.", "concerns": "Gore."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Guilt leads to reckoning.", "concerns": "Sihr-like cursing; cannibalism."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Karma of hatred between villages.", "concerns": "Black-magic curses."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Attachment (books, songs) causes suffering.", "concerns": "Disturbing imagery feeds the mind."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Well-known horror art.", "concerns": "Age-appropriateness of gore."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Imaginative fiction, clearly fantastical.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Family heirlooms valued in one tale.", "concerns": "Gore; occult."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Ghosts of the dead and curses as real."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritism and curses central."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Shows thought shaping experience.", "concerns": "Dwells on fear."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Folklore and imagination.", "concerns": "Gore."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Folk magic as story.", "concerns": "Curses used to harm."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Village and mountain spirits in Japanese folklore.", "concerns": "Blood and death impurity."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Shows futility of hatred.", "concerns": "Superstition and curses."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Disunity between villages condemned.", "concerns": "Occult themes."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Fiction by a famous artist.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Dark art valued.", "concerns": "Harm to a cat (to verify)."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Kishuf and gore; bittul Torah."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Fantasy horror.", "concerns": "Sorcery-like curses."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Imaginative fiction.", "concerns": "Gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Village feud expressed through mirrors, not courts (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "No clear stance."},
+   "Civic vs kin": {"pos": 6, "evidence": "Family heirloom library; Tsujii family stories (blurb)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "No clear stance."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Curses, haunted houses, folk feuds (MU)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Characters struggle to survive horrors (blurb)."}
+  },
+  "closest": ["First Nation", "El Norte", "Tidewater"],
+  "japan": "Draws on Japanese folk horror (village feuds, curses, mountain roads) as atmosphere, not message."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN reviewers describe guilt-driven tales with a 'blithe tone'; no moralizing noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Horror vignettes with no stated thesis."
+ },
+ "winners_losers": "Most protagonists are victims of their own obsessions or curses; Soichi's mischief is played partly for dark comedy.",
+ "to_verify": [
+  "AniList id is the 7-chapter Japanese volume; English readers find these stories in Viz's Smashed omnibus, whose reviews use different story titles ('Library Vision') and cover more stories.",
+  "Whether the cat in 'Soichi's Beloved Pet' is harmed.",
+  "Which story contains the cannibalism tag."
+ ]
+}

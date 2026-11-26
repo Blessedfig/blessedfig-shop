@@ -1,0 +1,90 @@
+{
+ "anilist_id": 86469,
+ "title": "Pochi Kuro",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/86469",
+  "https://api.mangaupdates.com/v1/series/35222798808"
+ ],
+ "premise": "In a demon world where humans are a legendary delicacy, the demon Kuro fishes a human girl out of a pond, meaning to eat her, which begins a cross-cultural story between a demon who cannot speak human language and the girl (MANGA MILLION blurb via AniList and MangaUpdates). MangaUpdates tags describe a hot-blooded demon who falls for her first, a demon king and royalty, and the pair being hunted. A four-volume shounen comedy by Naoya Matsumoto.",
+ "life_message": "It suggests kindness and effort can bridge any language or species barrier.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Demon-world fights and a hunted protagonist (MangaUpdates); comic tone (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Girl at risk of being eaten (blurb)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Kuro falls in love first (MangaUpdates); MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Cross-cultural friendship, language barrier comedy, demon-human romance",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Love of the stranger: Kuro chooses to protect rather than eat.", "concerns": "Demons as sympathetic heroes."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Mercy shown.", "concerns": "Demons, taken as real evil, made lovable."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Kindness across barriers.", "concerns": "Demon world and magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Friendship across difference.", "concerns": "Demon hero."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Protection of the vulnerable.", "concerns": "Demons portrayed as friendly."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Fantasy comedy with a kind core.", "concerns": "Demons humanized."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Gentle comedy.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Mercy and friendship.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Fairy-tale reversal of predator and prey.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Peace across divides.", "concerns": "Fantasy demons; fights."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Bridging cultures and languages.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Mercy and kindness.", "concerns": "Demons as heroes; interspecies romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Asura who chooses compassion.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "A predator choosing not to kill.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Communication across difference; strong-willed heroine.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy overcomes prejudice.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Protecting the weak.", "concerns": "Demons."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Demon world."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Demons and magic as entertainment."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love overcomes fear.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of the other.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Otherworld beings not demonized.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Yokai-like beings with hearts.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Compassion.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity across difference.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication as key.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Demons as sympathetic.", "concerns": "Little at odds."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Saving a life.", "concerns": "Demons as heroes."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Welcoming the stranger.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Empathy across difference.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Kindness rather than fighting resolves the core conflict (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Kuro breaks demon norms to protect her."},
+   "Civic vs kin": {"pos": 4, "evidence": "Bond with an outsider."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Demon royalty present but the pair cross lines (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Fantasy, little custom."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Feelings and friendship central."}
+  },
+  "closest": ["The Midlands", "English-speaking", "Catholic Europe"],
+  "japan": "Friendly demons echo the Japanese tradition of yokai and oni as relatable characters rather than pure evil."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Comedy per blurb; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources do not describe how the story delivers its themes."
+ },
+ "winners_losers": "Not described in sources (to verify).",
+ "to_verify": [
+  "Ending and romance outcome.",
+  "Human girl's age and name (not given in sources).",
+  "Fight intensity."
+ ]
+}

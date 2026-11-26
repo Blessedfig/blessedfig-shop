@@ -1,0 +1,93 @@
+{
+ "anilist_id": 43271,
+ "title": "House of Five Leaves",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/43271",
+  "https://api.mangaupdates.com/v1/series/52986643101",
+  "https://www.animenewsnetwork.com/review/house-of-five-leaves/gn-8"
+ ],
+ "premise": "In Edo-period Japan, the shy, unlucky ronin Akitsu Masanosuke (Masa) becomes bodyguard to Yaichi, leader of the Five Leaves, a gang whose main business is kidnapping. Masa is uneasy with the crimes but drawn to the outlaws, and Yaichi's violent past with another gang eventually catches up with them as the law closes in (Viz blurb via AniList/MU; ANN review of vol. 8).",
+ "life_message": "Integrity and loyalty to friends can matter more than rank or the law, but past wrongs must still be faced.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "Kidnapping gang; 'only one swordfight' in the finale and a threat of the executioner's blade (ANN); MU Murder/s. Series 'barely relies on violent fight scenes' (ANN)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Tragic pasts and pursuit by authorities (ANN; AniList Tragedy)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Red-light district and prostitution settings (MU; AniList Oiran rank 60); ANN does not mention sexual content. LGBTQ+ Themes tag (spoiler, rank 20) to verify."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Formal, sparse dialogue (ANN)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Bars and drinking places (MU Bar/s) (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Masa's social anxiety (MU Social Phobia); tragic pasts."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Shown with consequences", "note": "Sympathetic gang kidnaps for profit (blurb, ANN); law catches up with Yaichi (ANN)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation exists (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 3, "stance": "Explored"},
+  {"lens": "Utilitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Integrity of a gentle ronin; found family among outlaws; reckoning with past crimes",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 7},
+ "foundations": {"care": 7, "loyalty": 8, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Masa's integrity and self-giving for friends; past sins must be faced.", "concerns": "Kidnapping gang presented sympathetically; prostitution setting."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humility of Masa; repentance themes around Yaichi's past.", "concerns": "Crime made attractive; red-light district."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Honesty and loyalty in Masa.", "concerns": "Outlaws as heroes; prostitution and drinking settings."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Grace-like hope on the final page (ANN).", "concerns": "Sympathy for kidnappers to discuss."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Sacrifice for friends.", "concerns": "Glamour of the underworld; worldliness."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Sin and its consequences portrayed truthfully.", "concerns": "Crime framed warmly."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Law catching up shows civil righteousness.", "concerns": "Kidnapping as livelihood."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Question of using ill gains for altruism (ANN).", "concerns": "Crime and red-light setting."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Discuss", "aligns": "Subtle moral vision of integrity among sinners.", "concerns": "Crime glamor to discuss."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Violence minimized; Masa reluctant swordsman.", "concerns": "Samurai bodyguard role and crime."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and integrity.", "concerns": "Prostitution, drinking, crime."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Outcasts form a caring community.", "concerns": "Kidnapping victims' perspective."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Keeping trust and loyalty.", "concerns": "Prostitution, alcohol and crime."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Masa's dharma as loyal protector.", "concerns": "Adharmic livelihood of gang."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Karma of past deeds returns; quiet introspection.", "concerns": "Wrong livelihood (kidnapping)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Marginalized people as found family.", "concerns": "Sex work depiction."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Human integrity and moral complexity (ANN).", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Loyalty, honor and integrity.", "concerns": "Outlaws admired; law as obstacle."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Faithfulness.", "concerns": "Alcohol, prostitution, crime."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Bad associations and immorality."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Goodness of Masa overcoming fear.", "concerns": "Crime."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of outcasts.", "concerns": "Crime."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility for deeds.", "concerns": "Harm to kidnap victims."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Makoto (sincerity) in Masa.", "concerns": "Blood in swordfight."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Protecting friends with courage.", "concerns": "Dishonest livelihood."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness of Masa.", "concerns": "Crime, alcohol."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Personal integrity.", "concerns": "Illegal acts."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Outsiders choosing their own code.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Teshuvah-like reckoning with the past.", "concerns": "Kidnapping (a capital crime in Torah); prostitution."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical questioning of tainted gain.", "concerns": "Crime."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethics over law in friendship.", "concerns": "Victims' harm."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Yaichi settles scores with his former boss (ANN), but Masa avoids fights."},
+   "Order vs freedom": {"pos": 7, "evidence": "Outlaws living outside lord and law (blurb, ANN)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Loyalty to the gang as family (AniList Found Family; ANN)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Ronin serving lords; gang led by Yaichi (blurb)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Edo-period samurai customs (MU Edo Period, Samurai)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Hungry ronin takes job to survive (blurb)."}
+  },
+  "closest": ["El Norte", "Latin America", "First Nation"],
+  "japan": "Edo-period samurai service, a ronin's loss of status and quiet, implied emotion reflect Japanese historical norms and the series' understated style."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN: dialogue short, 'loaded with meaning', 'almost poetic', and can be hard to follow.",
+  "personified": [],
+  "opposing_views": "Fair",
+  "note": "Ginta, a former victim, asks whether crime is forgivable if gains are used well, so the case against the gang is heard (ANN)."
+ },
+ "winners_losers": "Masa's integrity and the gang's bonds earn sympathy, but Yaichi's past crimes are not excused and the law closes in (ANN).",
+ "to_verify": [
+  "Depiction of the red-light district, prostitution and drinking (MU tags only).",
+  "LGBTQ+ Themes spoiler tag (AniList rank 20).",
+  "ANN review covers volume 8; earlier volumes unchecked."
+ ]
+}

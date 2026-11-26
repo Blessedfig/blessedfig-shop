@@ -1,0 +1,367 @@
+{
+ "anilist_id": 30789,
+ "title": "Full Metal Panic",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30789",
+  "https://api.mangaupdates.com/v1/series/75703177037"
+ ],
+ "premise": "Sergeant Sousuke Sagara, a teenage military prodigy with a strange upbringing and few social skills, is sent undercover by the private military organization Mithril to guard high-school girl Kaname Chidori from terrorists (ANN blurb via AniList; ADV blurb). He struggles to protect her while keeping up with schoolwork. The manga adapts the first three light novels and mixes school comedy with mecha action (MangaUpdates).",
+ "life_message": "Duty and loyalty can grow into real care, and a soldier can learn to live among ordinary people.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Terrorists, mercenaries, guns and piloted robots (MangaUpdates); Military tag (AniList). Capped at 3: database tags only (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Kidnapping and terrorist threats against Kaname (ADV blurb)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Love triangle (MangaUpdates); MangaDex rates it suggestive."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Orphan soldier raised in combat (AniList Orphan tag)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Military habits brought into school played for comedy (fish-out-of-water per MangaUpdates)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Light-novel and anime franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Duty and protection; soldier versus school life; military action",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 8,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 6,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sousuke's self-giving protection of Kaname.",
+   "concerns": "A teen raised as a soldier; armed violence; fan service."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful guardianship.",
+   "concerns": "Killing in combat treated lightly."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage and duty.",
+   "concerns": "Suggestive scenes; gun violence."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting the innocent from terrorists.",
+   "concerns": "Violence weighed by purpose; suggestive humor."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Guarding the vulnerable.",
+   "concerns": "Graphic action; fan service."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Lawful protection against evil.",
+   "concerns": "Private military rather than lawful magistrate."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Soldier's vocation in service of others.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyalty and care.",
+   "concerns": "Militarized violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Just defense of the innocent.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Learning to live among peaceful classmates.",
+   "concerns": "Soldier hero and combat celebrated."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defense in a just cause.",
+   "concerns": "Suggestive content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Strong female lead Kaname.",
+   "concerns": "Child-soldier background normalized; militarism."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Fighting only to protect.",
+   "concerns": "Immodesty in school scenes."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kshatriya-like duty to protect.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sousuke learns gentler ways.",
+   "concerns": "Violence as solution."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kaname's agency (Strong Female Lead tag).",
+   "concerns": "Militarism; youth as combatants; fan service."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Learning empathy and social skills.",
+   "concerns": "Glorified combat."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Duty, loyalty, courage and protecting others.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protecting life.",
+   "concerns": "Combat heroism versus noncombatant stance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty to a friend.",
+   "concerns": "Military hero; violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming fear.",
+   "concerns": "Violence and threat."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Outsider learns belonging.",
+   "concerns": "Militarism."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-defense accepted; honor.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony restored in school community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Soldier who defends the oppressed.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service and loyalty.",
+   "concerns": "Violence and war."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Protecting groups (third dynamic).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Capable, self-reliant hero.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-defense against attackers.",
+   "concerns": "Immodesty; time-wasting entertainment."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defending life.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Protecting the vulnerable.",
+   "concerns": "Militarism."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Professional soldier's code, not personal vendetta."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Military discipline and orders (Military tag)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Serves organization and protects a classmate."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Rank of sergeant, chain of command (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern tech and mecha."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Security against terrorism."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Confucian",
+   "Puritan"
+  ],
+  "japan": "Plays the rigid soldier against Japanese high-school life, where group harmony and social reading of the room are expected."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes come through action comedy rather than speeches (to verify)."
+ },
+ "winners_losers": "Sousuke and Kaname are the sympathetic side; terrorists are the antagonists.",
+ "to_verify": [
+  "How graphic the combat is in the manga adaptation.",
+  "English license (ADV) lapsed per MangaUpdates.",
+  "No review or Wikipedia cache available; most English reviews cover the anime or light novels."
+ ]
+}

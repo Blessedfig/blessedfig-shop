@@ -1,0 +1,92 @@
+{
+ "anilist_id": 114645,
+ "title": "April Showers Bring May Flowers",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/114645",
+  "https://api.mangaupdates.com/v1/series/19673264990",
+  "https://api.mangadex.org/manga?title=Busu ni Hanataba wo. (record b8272d78-498e-477c-8835-548d3f2370e4)",
+  "https://animenewsnetwork.com/seasonal/2024/fall/april-showers-bring-may-flowers/.216525"
+ ],
+ "premise": "Pessimistic high-school student Hana Tabata is convinced she is ugly and destined to be a side character, but secretly imagines herself as a shoujo-manga heroine. When handsome classmate Yousuke Ueno catches her daydreaming, he keeps her secret and keeps talking to her, and her life slowly begins to change. Includes the sequel 'Bloom'.",
+ "life_message": "Ordinary people are worth loving, and kindness can undo the damage of cruelty and low self-esteem.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Social embarrassment (ANN)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Slow-burn high-school romance and love triangle (ANN; MU Slow Romance; AniList Love Triangle)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Self-insults like 'ugly' (title Busu); mild."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Low self-esteem and social anxiety rooted in 'middle school cruelty' (ANN); AniList Bullying; MU Social Anxiety, Low Self-Esteem."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Condemned", "note": "Past bullying and a blackmail subplot (MU Blackmail, 2 votes)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Shoujo-manga fandom (MU Otaku)."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Secular humanism (worth of ordinary people), Expressive individualism, Communitarianism (friends)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 8, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 2, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Hana's dignity affirmed beyond looks; Ueno's kindness models charity.", "concerns": "Self-contempt shown at length; teen romance."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Humility and kindness; worth not in appearance.", "concerns": "Romance focus."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Clean story of kindness and self-worth.", "concerns": "Teen dating."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Worth not based on appearance (1 Samuel 16:7 echo).", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Nothing occult; encouragement.", "concerns": "Little."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common grace in kindness.", "concerns": "Teen romance."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Accepted without earning it.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Kindness that lifts the lowly.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle moral vision.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Plainness and humility valued.", "concerns": "Worldly romance genre."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Self-worth and friendship.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Story never 'punching down' at Hana (ANN).", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Inner worth over appearance.", "concerns": "Mixed-gender teen romance."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Inner qualities valued.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Letting go of self-clinging and harsh self-talk.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Challenges beauty standards; bullying shown as harmful.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy and normal life valued (ANN).", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Kindness and modesty.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Clean and kind.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Teen dating."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Correcting false self-belief.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Inherent worth of every person.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Self-acceptance.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity and harmony in class.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Equality and humility.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Kindness and unity.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication builds affinity.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-acceptance.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Guarding speech; kindness.", "concerns": "Teen romance."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Kind speech over cruelty.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Dignity of all.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Worth is inherent, not won by status (ANN)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Ordinary school life."},
+   "Civic vs kin": {"pos": 4, "evidence": "Classmates and friends (MU Friendship)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Popular and unpopular students meet as equals."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern secular school."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Self-acceptance and growth."}
+  },
+  "closest": ["The Midlands", "Catholic Europe", "Yankeedom"],
+  "japan": "Hana's fear of standing out reflects Japanese school pressures around conformity and 'reading the air'."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "ANN: the message is present but 'nearly hidden' in the details; neither reviewer calls it preachy.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values are shown through characters' inner lives rather than stated."
+ },
+ "winners_losers": "Hana and her new friends win sympathy; earlier cruelty is the implied wrong.",
+ "to_verify": [
+  "Blackmail subplot (MU, 2 votes).",
+  "Love triangle resolution and the Bloom sequel.",
+  "Anime adaptation exists (MU); not used."
+ ]
+}

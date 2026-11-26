@@ -1,0 +1,368 @@
+{
+ "anilist_id": 96626,
+ "title": "Kakegurui Twin",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/96626",
+  "https://api.mangaupdates.com/v1/series/28396964708",
+  "https://www.commonsensemedia.org/tv-reviews/kakegurui-twin"
+ ],
+ "premise": "A prequel to Kakegurui: first-year Mary Saotome enters Hyakkaou Private Academy, where social rank is decided by gambling and students who fall into debt become 'house pets'. Finding an old classmate, Tsuzura, reduced to that status, Mary tries to rise through the gambling hierarchy with wit and nerve.",
+ "life_message": "Loyal friends and nerve can let you survive a system that ranks people by what they win.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Bullying, a near-strangling (CSM on anime); MU Bullying, Sadist/s."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "High-stakes psychological games and manipulation (MU Psychological Warfare; CSM)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Master-'pet' power play, foot-fetish and innuendo (CSM on anime: 'a lot'); MU Masochist/s, GL Subtext."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Words like 'hell', 'ass', 'bitch' (CSM on anime)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None (CSM)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Gambling addiction and debt bondage (MU Gambling Addict/s, Debt/s; CSM)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Gambling central; cheating treated as normal and needed (CSM; AniList Gambling 100; MU Manipulation)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Spin-off of a major franchise with anime (MU, CSM)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 6,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "A gambling hierarchy as social power; friendship against exploitation; cunning as survival",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mary's loyalty to a humiliated friend.",
+   "concerns": "Gambling and debt-slavery normalized; fetish imagery; cheating."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship against exploitation.",
+   "concerns": "Passions of greed and pride; immodest imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescuing a friend.",
+   "concerns": "Gambling, deception and sexualized power play."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Exposes a cruel system.",
+   "concerns": "Cheating normalized; sexual innuendo."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Gambling and worldliness; sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful about pride and greed.",
+   "concerns": "Gambling and lascivious imagery."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship serving neighbor.",
+   "concerns": "Deceit and gambling as virtue."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gambling (General Rules) central."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critique of a dehumanizing hierarchy.",
+   "concerns": "Deception rewarded; fetish imagery."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mutual aid among friends.",
+   "concerns": "Worldliness, gambling, pride."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Gambling, immodesty, dishonesty."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critique of status systems and debt bondage.",
+   "concerns": "Fetishized LGBTQ+ and BDSM imagery (CSM)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gambling (forbidden) central; immodest content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal friendship.",
+   "concerns": "Deceit and greed celebrated."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Shows suffering from craving.",
+   "concerns": "Craving and deceit fed; no right speech."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Exposes a rigged hierarchy.",
+   "concerns": "Sexualization and fetishized queerness (CSM)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Wit and reason.",
+   "concerns": "Manipulation and cruelty."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty to friends.",
+   "concerns": "Gambling, cheating, defiance of authority, sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gambling, excitement of passions."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Gambling and immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Fear and degrading imagery."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity of 'pets' asserted.",
+   "concerns": "Fetishized portrayals; cruelty."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal agency.",
+   "concerns": "Manipulation harms others."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincere friendship.",
+   "concerns": "Insincerity and deceit rewarded."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Gambling and deceit."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gambling forbidden; backbiting."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Group survival.",
+   "concerns": "Dishonesty."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and challenge to arbitrary hierarchy.",
+   "concerns": "Coercion of debtors."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gambling, immodesty, deceit."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Exposes exploitation.",
+   "concerns": "Gambling and degrading content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Exposes exploitation.",
+   "concerns": "Fetishized content; cheating."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Status defended at the gambling table (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Rigid academy ranking system (blurb; CSM)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friend loyalty over school rules (blurb)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 9,
+    "evidence": "Gambling caste with 'pets' at the bottom (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular, calculating world (MU Strategic Minds)."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Wealthy students gamble for status (blurb)."
+   }
+  },
+  "closest": [
+   "Confucian",
+   "Orthodox Europe",
+   "Tidewater"
+  ],
+  "japan": "Elite private-school hierarchy, student council power and senpai-kohai rank are exaggerated into a gambling caste system."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb frames friendship against the system; CSM (anime) notes no clear positive messages (to verify for manga).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story dramatizes the academy's ranking system without speeches about it."
+ },
+ "winners_losers": "Mary and her friends get the sympathy against the academy's elite; gambling skill and cheating decide who wins (blurb; CSM on anime).",
+ "to_verify": [
+  "Common Sense Media reviews the 2022 anime, not the manga.",
+  "Degree of master-pet / BDSM imagery in the manga itself.",
+  "Yuri and LGBTQ+ tags are spoiler-tagged on AniList."
+ ]
+}

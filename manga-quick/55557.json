@@ -1,0 +1,357 @@
+{
+ "anilist_id": 55557,
+ "title": "The Young Man Yearns for Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/55557",
+  "https://api.mangaupdates.com/v1/series/74382420359",
+  "https://api.mangadex.org/manga/e88b1107-f39c-4c8d-87d3-9718d578e07c"
+ ],
+ "premise": "Throughout high school, Kaede has kept two secrets: he is gay, and he loves his best friend Okuda, and he has resolved never to tell him (Renta! blurb). The title story follows their clashing feelings, with a reunion and living together later (MU), and a second story, 'Faraway Love', completes the one-volume Boys' Love book.",
+ "life_message": "Honest love between friends is worth the risk of speaking.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Emotional tension."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MangaDex rates erotica; MU Yaoi. Capped at 3 pending a second kind of source; likely understated (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Hiding his orientation; insecurity (blurb; MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Possessive lover (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Closeted love for a best friend; coming out; reunion",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyal friendship.",
+   "concerns": "Same-sex sexual content; teen characters."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful friendship.",
+   "concerns": "Passions; same-sex sexual content."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Truthfulness.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest love.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Gay teen's inner life treated with care.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Modesty concerns."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest speech.",
+   "concerns": "Attachment; sexual content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Coming out and queer love.",
+   "concerns": "Sexual content with teens (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love over fear.",
+   "concerns": "Sensual focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Age-appropriateness."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Love freely chosen.",
+   "concerns": "Teen sexual content (to verify)."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity (makoto).",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Unchaste content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest communication.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-honesty.",
+   "concerns": "Possible minors in sexual content."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Sexual content."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor stakes."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Personal feeling against social expectation."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friends, not family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Expressing hidden identity."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "The Left Coast"
+  ],
+  "japan": "Hiding one's feelings to keep group harmony reflects Japanese social reserve."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found; blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The coming-out theme is carried by Kaede's choices."
+ },
+ "winners_losers": "Kaede's hidden love is answered per MU (Unrequited Love Becomes Requited); sympathy goes to honesty.",
+ "to_verify": [
+  "Sexual explicitness (MangaDex erotica) and whether characters are minors in those scenes; sexuality score likely understated.",
+  "Content of 'Faraway Love'."
+ ]
+}

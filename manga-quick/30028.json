@@ -1,0 +1,347 @@
+{
+ "anilist_id": 30028,
+ "title": "Nana",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Nana_(manga)",
+  "https://anilist.co/manga/30028",
+  "https://www.mangaupdates.com/series/ov4rpc8"
+ ],
+ "premise": "Two 20-year-old women both named Nana meet on a train to Tokyo and become roommates: punk singer Nana Osaki chasing a music career and romantic Nana 'Hachi' Komatsu. Their friendship is tested by love affairs, a pregnancy and marriage, fame, addiction and loss.",
+ "life_message": "A good life means loyal friendship and the courage to pursue your own path, though love and ambition carry real costs.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Occasional fights and arguments (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Ren's death in a car accident, tabloid pressure, unresolved disappearance (Wikipedia); AniList Tragedy signal."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Adult sexual relationships, infidelity, unplanned pregnancy (Wikipedia); AniList Nudity signal, MangaUpdates Nudity; AniList also lists a Rape signal (context to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult rock-scene profanity (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "Heroin supplied to Ren and his substance abuse (Wikipedia); AniList Drugs signal; heavy smoking and drinking (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Grief, jealousy, emotional dependence (Wikipedia); AniList Tragedy and Philosophy tags."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Smoking and nightlife shown as part of the scene (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fashion, brands and celebrity culture (to verify)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Feminism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism, Existentialism, Feminism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 8,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Hachi keeps her pregnancy and marries; the two Nanas' self-giving friendship.",
+   "concerns": "Sex outside marriage and infidelity normalized; Ren's heroin use (CCC 2291)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Faithful friendship that bears the other's burdens through Ren's death.",
+   "concerns": "Lust and pride shown with little watchfulness; nudity feeds the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyal friendship (Proverbs 17:17); ruin of drug use shown.",
+   "concerns": "Premarital sex, infidelity and nudity; heavy drinking and smoking."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Costs of ambition and addiction open talk on what lasts.",
+   "concerns": "Sexual relationships outside marriage are the normal backdrop; nudity."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Brokenness shown honestly; loyalty between the two Nanas.",
+   "concerns": "Sexual content, drugs and rock-scene worldliness against holiness standards."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Vanity of fame shown, Ecclesiastes-like; friendship under common grace.",
+   "concerns": "Sexual imagery (WLC Q139); heroin and drinking."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation and friendship tested by real loss; the need for grace.",
+   "concerns": "Sixth-commandment concerns throughout; drug abuse."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Care between friends; addiction's damage shown.",
+   "concerns": "Holiness concerns with sex and drugs; nightlife glamour."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest portrait of love, fame and grief.",
+   "concerns": "Sexual content and drugs, judged case by case."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty and sharing a home.",
+   "concerns": "Worldly fame, sex and drugs are the whole setting; separation from the world."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Hachi chooses family when pregnant; loyal friendship.",
+   "concerns": "Law of chastity and Word of Wisdom: sex, alcohol, tobacco and heroin."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Women's friendship and agency; addiction treated as harm, not glamour.",
+   "concerns": "Consent around the AniList rape signal (to verify); infidelity."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyalty and the cost of chasing worldly status.",
+   "concerns": "Zina and nudity against haya; intoxicants (Qur'an 5:90)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and duty in hardship; Hachi's turn to family.",
+   "concerns": "Sexual content and intoxicants; modesty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Craving for love and fame shown to bring suffering.",
+   "concerns": "Fifth precept: heroin, drinking; third precept: infidelity."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Female friendship and career ambition; complex women at the center.",
+   "concerns": "Consent context to verify; jealous, possessive relationships."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Choices and their human costs, without moralizing.",
+   "concerns": "Substance harm and consent questions."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyalty and taking responsibility for a child.",
+   "concerns": "Promiscuity, drugs and celebrity glamour."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Addiction's toll on Ren shown plainly; friendship.",
+   "concerns": "Alcohol, tobacco and heroin against the health message; sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty; the emptiness of fame.",
+   "concerns": "Sexual immorality and drugs throughout; rock-scene companions jw.org would call unwise association."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love between friends outlasting loss.",
+   "concerns": "Dwelling on jealousy, grief and drugs; thoughts members guard against."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of each woman's choices; friendship across difference.",
+   "concerns": "Possessive relationships; consent context to verify."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sexuality between adults as natural; personal responsibility.",
+   "concerns": "Harm in possessive love and heroin."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity in friendship; gratitude for those who stay.",
+   "concerns": "Ren's death, kegare; drinking as social norm."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest work in music; sharing a home.",
+   "concerns": "Lust and attachment shown at full force; intoxicants and tobacco."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship and service between the two Nanas.",
+   "concerns": "Sex outside marriage, alcohol and drugs, all forbidden."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication and affinity between friends.",
+   "concerns": "Heroin and drugs, strongly opposed; infidelity."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Indulgence and self-determination for adults; Nana's defiance.",
+   "concerns": "Compulsive addiction and possessive control."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Chesed between friends.",
+   "concerns": "Tzniut, nudity and sex outside marriage throughout; drug abuse."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal friendship and responsibility for a child.",
+   "concerns": "Degrading sexual content and drugs."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Women's agency and friendship.",
+   "concerns": "Drugs and possessive relationships."
+  }
+ ],
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No source comments on delivery; carried by character choices per AniList and entry notes (to verify)",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Friendship and ambition are carried by the two Nanas' lives, with costs shown rather than preached."
+ },
+ "winners_losers": "The friendship between the two Nanas holds the story's sympathy; ambition, addiction and possessive love take a heavy toll, and no one simply wins. The series is unfinished.",
+ "to_verify": [
+  "Context of the AniList Rape signal",
+  "Extent of nudity and sex scenes",
+  "Viz age rating (likely Older Teen)",
+  "Series on hiatus since 2009 (from memory)",
+  "Yuri tag (60%) context",
+  "Cached Wikipedia file is a disambiguation page, not the Nana (manga) article; no Reception text used"
+ ]
+}

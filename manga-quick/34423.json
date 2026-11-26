@@ -1,0 +1,97 @@
+{
+  "anilist_id": 34423,
+  "title": "Ōoku: The Inner Chambers",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/%C5%8Coku%3A_The_Inner_Chambers",
+    "https://anilist.co/manga/34423",
+    "https://www.mangaupdates.com/series/uv4tlaj"
+  ],
+  "premise": "In an alternate Edo-period Japan, a disease called the redface pox kills most young men, so women take over labor, family businesses and finally the shogunate, while the shogun's Inner Chambers become a harem of beautiful men. The story opens with the reformer shogun Yoshimune reading the chamber's secret chronicles, then follows generations of shoguns and the men around them, examining power, gender and survival.",
+  "life_message": "People of either sex can rule, love and suffer; institutions built on power and appearances shape and often crush the individuals inside them.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Political intrigue with samurai, swordplay and espionage (AniList tags); detail not in Wikipedia text (to verify)."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Shown with consequences", "note": "A plague with an 80% fatality rate among boys (Wikipedia); AniList Tragedy and Pandemic tags."},
+    {"category": "Sexuality and romance", "score": 6, "framing": "Shown with consequences", "note": "Men sold to brothels or rented to families as studs (Wikipedia); a harem of concubines; AniList tags rape and incest (spoilers); MangaUpdates genre Mature. Explicitness of art not confirmed (to verify)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Period speech; a reviewer notes faux-old-English translation (Wikipedia)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported (to verify)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "AniList Suicide tag (spoiler); not in Wikipedia text, capped (to verify)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Condemned", "note": "Exploitation of men as breeding stock shown as harmful."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Feminism", "strength": 7, "stance": "Explored"},
+    {"lens": "Critical theory", "strength": 5, "stance": "Explored"},
+    {"lens": "Traditionalism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Pragmatism", "strength": 4, "stance": "Explored"},
+    {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Feminist thought experiment on gender and power; critique of rigid institutions; pragmatic statecraft",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 6},
+  "foundations": {"care": 6, "loyalty": 6, "fairness": 7, "sanctity": 3, "authority": 6, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Exposes the dehumanizing of men as breeding stock and prostitutes, affirming dignity by contrast.", "concerns": "Rape, incest, concubinage and same-sex relationships depicted at length."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows passions and power corrupting rulers.", "concerns": "Sexual imagery and harem life."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Sin's consequences across generations are shown.", "concerns": "Sexual violence, incest, harems and LGBTQ themes."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Serious exploration of power and suffering for mature readers.", "concerns": "Sexual content and same-sex relationships."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Exposes exploitation.", "concerns": "Sexual content throughout."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Truthful portrayal of fallen institutions; common-grace literary value.", "concerns": "Seventh-commandment depictions."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Vocation and governance examined seriously.", "concerns": "Sexual violence and incest."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Social-justice lens on exploitation.", "concerns": "Explicit content."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Acclaimed literary work (Tezuka Prize, Tiptree Award).", "concerns": "Mature sexual content."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Shows worldly power's cruelty.", "concerns": "Sexual and violent content."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family lineage concerns.", "concerns": "Chastity and sexual violence."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Gender-justice thought experiment; won feminist SF prizes.", "concerns": "Sexual violence."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Justice of rulers examined.", "concerns": "Haya; harem, rape and incest depicted."},
+    {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Duty of rulers (raja dharma) central.", "concerns": "Sexual content."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Significant", "aligns": "Suffering, impermanence and monks feature.", "concerns": "Sexual misconduct depicted."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Significant", "aligns": "Questions gender roles; ALA listed it for teens.", "concerns": "Rape and incest need content warnings."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Significant", "aligns": "Rational reformer Yoshimune and pandemic realism.", "concerns": "Sexual violence."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Historical drama and duty.", "concerns": "Gender inversion and sexual content."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Health crisis themes.", "concerns": "Sexual content."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Exposes corruption.", "concerns": "Immorality and same-sex relationships."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Endurance amid disease.", "concerns": "Fear and sexual content."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Significant", "aligns": "Gender equity and dignity explored.", "concerns": "Sexual violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Significant", "aligns": "Female power and balance.", "concerns": "Harm and exploitation."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Household continuity and lineage central to the shogunate.", "concerns": "Death and blood as kegare."},
+    {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Equality of women and men.", "concerns": "Adultery-like harem and lust."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Equality of the sexes.", "concerns": "Chastity standards."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Survival dynamics of a society.", "concerns": "Sexual content."},
+    {"frame": "Satanist", "grade": "A", "weight": "Discuss", "aligns": "Challenges arbitrary social roles.", "concerns": "Exploitation."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Justice themes.", "concerns": "Tzniut, incest and harem content."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Ethical reflection on power.", "concerns": "Sexual violence."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Justice and equality.", "concerns": "Sexual violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 6, "evidence": "Shogunal prestige and samurai honor shape choices; the harem itself signals the shogun's prestige (Wikipedia)."},
+      "Order vs freedom": {"pos": 2, "evidence": "Rigid court ritual; men confined to the Inner Chambers."},
+      "Civic vs kin": {"pos": 6, "evidence": "Dynasty and household lineage dominate politics."},
+      "Equality vs hierarchy": {"pos": 9, "evidence": "Shogunate hierarchy and social hierarchy tags (MangaUpdates)."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Yoshimune's rational reforms challenge custom-bound records (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Population collapse forces survival-driven social change."}
+    },
+    "closest": ["South and Southeast Asia", "Deep South", "Tidewater"],
+    "japan": "Reimagines real Tokugawa institutions (the shogun's inner palace, inheritance through households) to examine Japanese gender norms."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Douresseaux notes later volumes focus on character drama and politics more than gender roles; critics call it a 'what if' study.",
+    "personified": [
+      {"character": "Shogun Yoshimune", "ideology": "Rational, frugal reform of a wasteful order", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Lady Kasuga", "ideology": "Preserving the dynasty by concealment and appearances", "role": "Other", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Fair",
+    "note": "Gender and power are explored through many rulers and courtiers across generations rather than argued by narration."
+  },
+  "winners_losers": "No single side wins: rulers of both sexes gain and lose power, and the men of the Inner Chambers often suffer; sympathy goes to individuals caught in the system.",
+  "to_verify": [
+    "Explicitness of sex and sexual violence scenes (rape and incest tags are AniList spoilers).",
+    "Suicide depictions (AniList tag only).",
+    "Violence level in political plots.",
+    "Lady Kasuga's role and outlook are inferred from Wikipedia's note that she founded the Ooku and its chronicle, and from the male-name records; confirm."
+  ]
+}

@@ -1,0 +1,365 @@
+{
+ "anilist_id": 30292,
+ "title": "Prince Charming",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30292",
+  "https://api.mangaupdates.com/v1/series/15174113183",
+  "https://www.animenewsnetwork.com/encyclopedia/manga.php?id=9246"
+ ],
+ "premise": "Professor Asahina is rumored to spend nights at love hotels and sometimes comes to class drunk; when his student Yuasa finds a sex tape of him, Yuasa promises to help recover it \"for a price\" (Juné blurb). A love polygon with cheating, a gay bar and a large cast follows across three volumes (MU).",
+ "life_message": "Desire is shown as playful and messy, with the chase itself as the point.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Violent Uke (MU, 0 votes)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Low intensity comedy."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "ANN lists objectionable content \"Pornography\" and genre erotica; AniList Ecchi; MU School Intercourse and Underage Seme (low votes)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "None reported (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Teacher drunk in class (Juné blurb)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Student uses a sex tape as leverage for sex (Juné blurb); cheating (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Hedonism, Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 7,
+  "community": 3
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 3,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond comic warmth.",
+   "concerns": "Sex-tape leverage; student-teacher sex; pornography flag."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Inflamed passions; drunk teacher; same-sex."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Hedonism, coercion and drunkenness celebrated."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Promiscuity and coercion."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual focus; drunkenness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lascivious content; abuse of authority."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Comedy.",
+   "concerns": "Coercive leverage; drunkenness."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness; sexual focus."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Satirical comedy.",
+   "concerns": "Coercion; teacher-student."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Worldly hedonism throughout."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity, alcohol, coercion."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Openly gay student.",
+   "concerns": "Teacher-student power and coercion."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Zina, alcohol, same-sex."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Teacher (guru) role dishonored."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Craving shown comically.",
+   "concerns": "Third and fifth precepts."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Queer comedy.",
+   "concerns": "Coercion and power imbalance."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Frank about sex.",
+   "concerns": "Coercive leverage."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Disrespect for teachers."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol; sexual focus."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Dwelling on sensuality."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sex-positive tone.",
+   "concerns": "Consent and power."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Playful sexuality.",
+   "concerns": "Coercion breaks \"harm none\"."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Comic energy.",
+   "concerns": "Little sincerity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lust; alcohol."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol; chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Alcohol; faithlessness."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Indulgence without guilt.",
+   "concerns": "Possible minor involvement (to verify)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Immodesty; same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Coercion; immodesty."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Comedy.",
+   "concerns": "Coercion and power."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Reputation and a secret tape."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Few limits on behavior."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "School and bar circles."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Professor-student roles subverted."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular hedonism."
+   },
+   "Survival vs self-expression": {
+    "pos": 9,
+    "evidence": "Pleasure-first."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "English-speaking"
+  ],
+  "japan": "Love hotels (rabu hoteru) are a Japanese setting for private encounters, used here for comedy."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Sex comedy without stated thesis (Juné blurb).",
+  "personified": [
+   {
+    "character": "Asahina",
+    "ideology": "Pleasure without commitment",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "The story invites amusement at Asahina's indulgence (to verify)."
+ },
+ "winners_losers": "Yuasa's pursuit of Asahina appears to succeed (to verify).",
+ "to_verify": [
+  "Whether Yuasa is a university or high-school student (MU Underage Seme, School Boy/s)",
+  "Explicitness",
+  "Ending of the love polygon"
+ ]
+}

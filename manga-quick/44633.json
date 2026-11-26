@@ -1,0 +1,362 @@
+{
+ "anilist_id": 44633,
+ "title": "Voice Over!: Seiyuu Academy",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/44633",
+  "https://api.mangaupdates.com/v1/series/76140743747"
+ ],
+ "premise": "Hime Kino enters Hiragi Academy's voice-acting department dreaming of following her idol Sakura Aoyama, but Sakura's grouchy son Senri mocks her husky voice and her favorite anime. Demoted to the Stragglers group and nicknamed 'Gorilla Princess', Hime works to prove herself. A shojo showbiz comedy in 12 volumes, with cross-dressing and a secret-identity plot (MU).",
+ "life_message": "Hard work and persistence let a person turn an unusual gift into a calling.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Showbiz pressure."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Slow romance and love polygon (MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Insults such as 'Gorilla Princess'."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Loneliness and neglectful parent (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Cross-dressing to hide identity (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Anime-industry and idol-show fandom setting."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism; Classical virtue ethics",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hime's diligence and perseverance after demotion.",
+   "concerns": "Secret identity involves deception (to verify)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Humility and patience under mockery.",
+   "concerns": "Showbiz vanity."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hard work and refusing to give up.",
+   "concerns": "Cross-dressing deception."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Perseverance and talent stewardship.",
+   "concerns": "Cross-dressing plot."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Endurance through ridicule.",
+   "concerns": "Cross-dressing plot."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation pursued faithfully.",
+   "concerns": "Deception in secret identity."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation as service through art.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligent growth.",
+   "concerns": "Showbiz focus."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Imagination and artistic craft valued.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Humble effort in a misfit group.",
+   "concerns": "Entertainment industry focus."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Developing talents.",
+   "concerns": "Cross-dressing; parental neglect."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Misfits succeed; gender play gently.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Patience and effort.",
+   "concerns": "Cross-dressing; music and performance debated."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Svadharma: following one's gift.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Right effort.",
+   "concerns": "Ambition as craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Girl in non-traditional role; anti-teasing.",
+   "concerns": "Mild."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Effort and skill.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hard work and grit.",
+   "concerns": "Gender-bending plot."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence.",
+   "concerns": "Showbiz worldliness."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Cross-dressing; worldly entertainment focus."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rising above criticism.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every voice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal path honored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sincere effort (makoto).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work (kirat karni).",
+   "concerns": "Ego in showbiz."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Excellence in arts as service.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Study and competence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-determination.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Persistence.",
+   "concerns": "Cross-dressing (Deut. 22:5)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Effort and growth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-expression.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Hime answers insults by working harder."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "School rules and personal ambition."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Classmates and teachers matter more than family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Senpai and stars ranked above Stragglers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular showbiz."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Self-expression through voice."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "New Netherland"
+  ],
+  "japan": "Ranked student groups and senpai-kohai deference in a performing-arts school reflect Japanese training hierarchies."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; premise from Viz blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Perseverance is carried by Hime's efforts."
+ },
+ "winners_losers": "Hime's persistence earns respect (to verify); mockers like Senri are challenged.",
+ "to_verify": [
+  "Cross-dressing and secret-identity details",
+  "Ending (MU lists it as axed)",
+  "Delivery style"
+ ]
+}

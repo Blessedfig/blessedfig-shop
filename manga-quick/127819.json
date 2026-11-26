@@ -1,0 +1,96 @@
+{
+ "anilist_id": 127819,
+ "title": "Death Note Short Stories",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/127819",
+  "https://www.mangaupdates.com/series/fydpau0",
+  "https://api.mangadex.org/manga/25a76aba-e730-4a17-8f77-83c65a51036e",
+  "https://animeuknews.net/2022/06/death-note-short-stories-review"
+ ],
+ "premise": "A one-volume collection of Death Note side stories. 'C-Kira' has Near, now in L's role, face a new Kira killing people aged 60 and over; 'a-Kira' gives the notebook to brilliant student Minoru Tanaka in a surveillance-heavy world ten years after Light's fall. It also includes the original pilot (Taro Kagami), comic vignettes of L at Wammy's House and four-panel gag strips.",
+ "life_message": "Power over life and death tempts people toward self-made justice, and only intelligence, restraint and law hold it in check.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Killings by notebook and copycat murders (Anime UK News; MangaUpdates Murder/s, Violence)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Psychological thriller tension and a death god, Ryuk (Anime UK News; AniList Psychological, Gods)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify); Viz rates T+ (Anime UK News)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "AniList lists a low-ranked Suicide tag; C-Kira targets the elderly (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Vigilante killing fantasy; the reviewer notes the stories seem to de-sensationalize Kira after real copycat incidents."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Promotional L vignettes tied to a novel (Anime UK News)."}
+ ],
+ "lenses": [
+  {"lens": "Utilitarianism", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Nihilism", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Vigilante justice and its limits; intellect against intellect; death",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 7, "sanctity": 4, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Shows the evil of usurping God's judgment over life.", "concerns": "Death gods; killing the elderly in C-Kira."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Pride of playing god exposed.", "concerns": "Shinigami imagery as a real power."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Vengeance belongs to God, not a notebook holder.", "concerns": "Death god and murder plots."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Good discussion of justice and sin.", "concerns": "Occult notebook as central device."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Evil power shown as corrupting.", "concerns": "Demonic-seeming death god given to a teen."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Only the lawful magistrate bears the sword.", "concerns": "Killing as puzzle entertainment."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Two-kingdoms: private killing is not lawful authority.", "concerns": "Occult elements."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Do no harm tested.", "concerns": "Murder as plot."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Well-framed moral thriller.", "concerns": "Death god."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Shows killing never brings peace.", "concerns": "Killing is the core of every main story."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Agency and accountability.", "concerns": "Dark, violent themes."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Critique of vigilante power and surveillance.", "concerns": "Targeting the elderly."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Life and death belong to God.", "concerns": "Gods of death shown as real."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Karma catches those who misuse power.", "concerns": "Killings."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "First precept violated with clear costs.", "concerns": "Killing as intellectual game."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Surveillance-state and ageism questions.", "concerns": "Violence."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Reason and due process beat vigilantism.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Lawful authority (Near, police) prevails.", "concerns": "Glamorized killer protagonists."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Death gods and spirits; murder."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Human rule cannot bring justice.", "concerns": "Demon-like beings; violence."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Death and fear imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of every life, including the old.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Harm returns on the user.", "concerns": "Death magic used to harm."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Shinigami part of Japanese folklore.", "concerns": "Death (kegare) central."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Hukam: life is not ours to take.", "concerns": "Ego in judging others."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Obedience to just government.", "concerns": "Killing."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "'Do not murder' shown as crucial.", "concerns": "Murder plots."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Questions who holds authority.", "concerns": "Harm to the innocent."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Sanctity of life; justice through courts.", "concerns": "Death-god figure."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Due process valued.", "concerns": "Killings."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethics of power examined.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Disputes are battles of wits between investigators and Kiras."},
+   "Order vs freedom": {"pos": 4, "evidence": "Surveillance society in a-Kira (Anime UK News)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Society-wide justice, not family loyalty."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Institutions (Near, police) versus lone killers."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Rational deduction drives the stories."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Fear and control over life dominate."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Confucian"],
+  "japan": "Shinigami folklore and an aging society, reflected in a Kira who targets the elderly, give it a Japanese context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Reviewer reads 'C-Kira' as quietly de-sensationalizing Kira; no preachiness noted (Anime UK News).",
+  "personified": [
+   {"character": "Kira figures (C-Kira, Minoru Tanaka)", "ideology": "Self-appointed justice through killing", "role": "Other", "treatment": "Mixed"},
+   {"character": "Near / L", "ideology": "Rule of law by reasoning", "role": "Foil", "treatment": "Fair"}
+  ],
+  "opposing_views": "Fair",
+  "note": "As in the main series, vigilante and lawful views argue through clever characters on both sides."
+ },
+ "winners_losers": "Investigators and the logic of law generally prevail; Kira figures are undone or humbled.",
+ "to_verify": [
+  "No Wikipedia cache; one review opened",
+  "Whether the a-Kira ending endorses or rejects Minoru's choices",
+  "Suicide content (low-ranked AniList tag)"
+ ]
+}

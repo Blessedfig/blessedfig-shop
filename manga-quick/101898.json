@@ -1,0 +1,90 @@
+{
+ "anilist_id": 101898,
+ "title": "Gacha Girls Corps",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101898",
+  "https://api.mangaupdates.com/v1/series/30566078295"
+ ],
+ "premise": "Heihachi, a mobile-game player who spends heavily on gacha pulls, is pulled into another world by an item from a pull. Attacked by monsters, he rolls the gacha again and his game units, including the swordswoman Norl, materialize as real girls; he sets out to build the strongest army of beautiful girls (Kaiten Books blurb via AniList; MU).",
+ "life_message": "Luck and the right tools can turn an ordinary gamer into a leader, with loyal companions at his side.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Monster fights and dungeons (blurb; MU Dungeon/s)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Monster attacks (blurb)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Harem of 'beautiful girl' units; MU Ecchi genre, Big Breasts; MangaDex suggestive. Capped at 3 (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Gambling addiction played for comedy (MU Gambling Addict/s)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Endorsed", "note": "Loot-box spending framed as a superpower: 'mobile game addict with a whale-sized hole in his wallet' (publisher blurb); MU Gacha, Gambling Addict/s."},
+  {"category": "Commercial", "score": 4, "framing": "Endorsed", "note": "Premise celebrates gacha monetization mechanics (blurb, MU)."}
+ ],
+ "lenses": [
+  {"lens": "Consumerism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Gacha luck as power; harem of summoned girls; isekai adventure",
+ "axes": {"economic": 6, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 3, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Loyalty of companions in danger.", "concerns": "Gambling-like spending celebrated; girls as collectible units; fan service."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Little beyond courage.", "concerns": "Passions of greed and lust fed by premise."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Courage against monsters.", "concerns": "Gambling celebrated; ecchi harem."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Teamwork.", "concerns": "Gacha addiction glamorized; objectifying girls."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Gambling, ecchi, summoning demons tag."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Chance and covetousness as virtue; fan service."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Light entertainment.", "concerns": "Wasteful spending glorified."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Gambling (General Rules); ecchi."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Adventure.", "concerns": "Objectification and gambling."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Worldly consumerism; violence; ecchi."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Gambling and immodest art."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Predatory monetization and objectifying women."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Maysir (gambling) celebrated; immodest images."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Rajasic indulgence and gambling."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Craving fed by chance rewards."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Strong female characters (MU Strong Female Lead).", "concerns": "Women as gacha collectibles; loot-box normalization for minors."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Light escapism.", "concerns": "Evidence on gambling harms ignored."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Courage.", "concerns": "Thriftlessness rewarded; fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Gambling; magic; ecchi."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Gambling, magic, violence."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Little.", "concerns": "Materialism."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Minor", "aligns": "Little.", "concerns": "Objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Minor", "aligns": "Summoning as play.", "concerns": "Objectification."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Luck charms and fortune common in culture.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Greed (lobh) and lust as engine of plot."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Gambling forbidden."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Minor", "aligns": "Personal ability.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgence embraced.", "concerns": "Compulsive behavior discouraged."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Gambling; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Gambling; objectification."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Minor", "aligns": "Little.", "concerns": "Exploitation."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Fights monsters, no honor code in sources."},
+   "Order vs freedom": {"pos": 7, "evidence": "Builds his own army as he pleases (MU)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Loyal summoned companions; no kin."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Summoner commands his units (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Smartphone and game mechanics in a fantasy world (MU)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Pursuit of a 'strongest beautiful girl army' (MU)."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "The Midlands"],
+  "japan": "Built on Japanese mobile gacha game culture and the 'whale' spender joke, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Comedic blurb; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Gacha spending is a comic premise, not argued."
+ },
+ "winners_losers": "Heihachi's gacha habit pays off; no critique appears in sources.",
+ "to_verify": [
+  "No review found; ecchi level capped at 3 (MU Ecchi genre).",
+  "Whether gambling addiction is ever framed critically.",
+  "MU lists the Kaiten Books English release as ongoing at 7 volumes."
+ ]
+}

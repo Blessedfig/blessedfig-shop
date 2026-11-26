@@ -1,0 +1,376 @@
+{
+ "anilist_id": 36916,
+ "title": "Knights",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/36916",
+  "https://api.mangaupdates.com/v1/series/13794433070"
+ ],
+ "premise": "In a medieval world where the church and its 'Saints' burn people en masse on suspicion of witchcraft, masked squire Mistletien ('Mist', the Black Knight) and his order rescue the accused. Feared by villagers for his appearance, Mist travels with Euphemia, a young girl skilled with potions and poisons (MangaUpdates, AniList). Five volumes; MangaUpdates marks it cancelled.",
+ "life_message": "Protecting the innocent from a cruel institution is worth being feared and misunderstood.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "Sword fights to rescue the accused; burnings at the stake (MU, AniList)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Mass witch burnings and executions (both summaries)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Ecchi genre, partial nudity (MU, AniList) (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Euphemia's potions and poisons (summaries)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mist hated by villagers (summaries)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Poisons and swordplay (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Critical theory, Classical virtue ethics",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 7,
+  "sanctity": 3,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Defense of the innocent; condemnation of unjust killing.",
+   "concerns": "Church shown as persecutor; witchcraft sympathetic; fan service."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mercy for the condemned.",
+   "concerns": "Mockery of holy institutions; sorcery; immodest images."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rescuing the falsely accused.",
+   "concerns": "Witchcraft sympathetic; partial nudity."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage against religious abuse of power.",
+   "concerns": "Magic and potions; ecchi content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Protection of the weak.",
+   "concerns": "Witches and magic as heroes; occult imagery."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critique of tyranny by false religion.",
+   "concerns": "Witchcraft sympathetic; fan service."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Resisting an abusive church echoes Reformation critique.",
+   "concerns": "Magic; ecchi images."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice for the oppressed.",
+   "concerns": "Violence as solution; occult themes."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral vision against cruelty in religion's name.",
+   "concerns": "Partial nudity; church caricature."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Martyrs Mirror echoes: victims of church burnings.",
+   "concerns": "Heroic sword violence conflicts with nonresistance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the innocent (Alma).",
+   "concerns": "Magic and immodesty."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Challenging abusive religious authority.",
+   "concerns": "Fan service objectifying women."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice for the wronged.",
+   "concerns": "Sorcery shown positively; immodest images."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dharmic duty to protect the innocent.",
+   "concerns": "Violence; partial nudity."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ending cruelty and fear-driven killing.",
+   "concerns": "Cycle of violence; sensual imagery."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Exposes moral panic and persecution.",
+   "concerns": "Sexualized images; age of Euphemia (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Reason against superstition-driven trials.",
+   "concerns": "Fan service; violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Knightly courage and self-sacrifice.",
+   "concerns": "Anti-church message; ecchi content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defense of the persecuted.",
+   "concerns": "Witchcraft and spirits; impure images."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Opposes cruelty of false religion.",
+   "concerns": "Magic, violence, immodesty."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truth overcoming fear.",
+   "concerns": "Fear-filled imagery and occult."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Justice and protection of the marginalized.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Witch-hunt victims treated as innocent.",
+   "concerns": "Possible poison-witch stereotypes (to verify)."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage and sincerity.",
+   "concerns": "Blood and death (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed as duty.",
+   "concerns": "Immodesty; potions."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice and protection.",
+   "concerns": "Violence and magic; chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Opposing those who harm people of good will.",
+   "concerns": "Glorified violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebellion against arbitrary religious authority.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Saving lives (pikuach nefesh).",
+   "concerns": "Sorcery and immodest images."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice for the persecuted.",
+   "concerns": "Violence and fan service."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Stand against persecution.",
+   "concerns": "Sexualized imagery."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Mist answers injustice with the sword, as a knight."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Resisting a repressive church order."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Loyalty to the order and to the accused."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Knightly rank versus church hierarchy."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Magic and church both present; neither wins on reason (to verify)."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival under persecution dominates."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "El Norte",
+   "Catholic Europe"
+  ],
+  "japan": "A Japanese shounen take on European witch hunts that borrows Western church imagery as a fantasy backdrop."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 4,
+  "evidence": "Premise sets the church as persecutor and the knights as rescuers (MU, AniList) (to verify).",
+  "personified": [
+   {
+    "character": "The church and its 'Saints'",
+    "ideology": "Religious authority enforcing purity by execution",
+    "role": "Villain",
+    "treatment": "Strawman"
+   },
+   {
+    "character": "Mist",
+    "ideology": "Defending the accused against institutional cruelty",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Strawman",
+  "note": "Summaries frame the church only as persecutor; whether any clergy get a fair hearing needs a read (to verify)."
+ },
+ "winners_losers": "Sympathy goes to the accused witches and the knights who save them; the church is the oppressor. Ending unclear (MU: cancelled).",
+ "to_verify": [
+  "Ecchi and partial nudity level, and Euphemia's age",
+  "Whether the church portrayal is wholly negative",
+  "Ending (MU: Axed/Cancelled)",
+  "License status (DMP)"
+ ]
+}

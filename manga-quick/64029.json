@@ -1,0 +1,363 @@
+{
+ "anilist_id": 64029,
+ "title": "Skygrazer",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/64029",
+  "https://api.mangaupdates.com/v1/series/56712423052",
+  "https://animeuknews.net/2022/11/skygrazer-review"
+ ],
+ "premise": "In a future where robots are part of society, a maze-like apartment complex called Skygrazer links seemingly unrelated episodes: three teenage boys trying to get hold of censored erotic material, space detectives, robots and a series of murders (Kodansha blurb via MangaUpdates; Anime UK News review). Years later rookie detective Saeko Sakuraba investigates and uncovers a conspiracy. A single-volume, nine-chapter sci-fi mystery by Masakazu Ishiguro, nominated for the 2012 Manga Taisho; database tags add human experiments, mad science, rape, incest and body horror as plot spoilers.",
+ "life_message": "It suggests that ordinary lives are tangled in hidden systems, and that curiosity can uncover uncomfortable truths.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Murders and a conspiracy with more than one death (review); Murder/s tag (MangaUpdates)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Unsettling hints of something bigger (review); body horror and tragedy spoiler tags (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Teen boys seek erotic material (review; blurbs); rape and incest tags are database-only (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Tragedy tags; review silent, so capped."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Minors hunting for pornography played as comedy (review; blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Absurdism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Interlinked mystery; human experiments; comedic-then-dark tone",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Truth sought by an investigator; human experiments exposed.",
+   "concerns": "Boys seeking pornography; rape and incest themes (to verify)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mad science shown as corrupting.",
+   "concerns": "Lust-driven comedy and dark sexual themes inflame the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hidden wrongdoing uncovered.",
+   "concerns": "Pornography-seeking minors; sexual violence tags."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Consequences of playing God.",
+   "concerns": "Pornography humor; incest and rape themes."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Evil schemes exposed.",
+   "concerns": "Sexual content and murders."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sin and its hidden reach shown truthfully.",
+   "concerns": "Lascivious material sought; WLC Q139 concerns."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Investigation of human pride in science.",
+   "concerns": "Sexual themes involving teens."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Conscience and truth.",
+   "concerns": "Pornography humor."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Clever literary puzzle structure.",
+   "concerns": "Sexual themes; murder."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Wrongs come to light.",
+   "concerns": "Murder and sexual violence themes."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequences of wrongdoing.",
+   "concerns": "Pornography as a plot driver; sexual violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Exploitation via experiments exposed.",
+   "concerns": "Rape and incest themes need care."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice pursued.",
+   "concerns": "Seeking immoral images; sexual violence; incest."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Karma of hidden deeds.",
+   "concerns": "Lust and violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Craving shown leading characters astray.",
+   "concerns": "Sexual misconduct themes."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethics of experimentation.",
+   "concerns": "Sexual violence and minors' porn humor."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Rational inquiry by a detective.",
+   "concerns": "Exploitation themes."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Order and justice restored by investigation.",
+   "concerns": "Teen porn-seeking; sexual violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth revealed.",
+   "concerns": "Sexual content; murders."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond truth-seeking.",
+   "concerns": "Immorality and violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Error exposed.",
+   "concerns": "Fear, lust and disease of body dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dignity of experimented-upon persons.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Harm exposed.",
+   "concerns": "Exploitation themes."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity of investigation.",
+   "concerns": "Death impurity; dark sexual themes."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truth over deceit.",
+   "concerns": "Lust as a vice drives comedy."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Science needing conscience.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truth found through observation.",
+   "concerns": "Violence; experiments."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Curiosity and taboo-breaking explored.",
+   "concerns": "Harm to the young is condemned in its rules (to verify)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth comes to light.",
+   "concerns": "Immodest material, incest and rape themes."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethical inquiry.",
+   "concerns": "Sexual themes."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Exposing exploitation.",
+   "concerns": "Sexual violence handling."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Mysteries go to police investigation (review)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Residents pursue private desires."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Siblings central to the mystery (AniList)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Rookie detective in police ranks."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Robots and science framing."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Curiosity and personal desires drive episodes."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "Yankeedom"
+  ],
+  "japan": "Police rank and a rookie's wish to prove herself reflect Japanese workplace hierarchy, shown as setting."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewer describes puzzle-like connections and no moralizing.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Meaning emerges only when the episodes connect."
+ },
+ "winners_losers": "Not described; the conspiracy is uncovered in the final arc (review).",
+ "to_verify": [
+  "Rape and incest tags (database only) and how they are shown.",
+  "Body horror content.",
+  "Sexual imagery level; review says little."
+ ]
+}

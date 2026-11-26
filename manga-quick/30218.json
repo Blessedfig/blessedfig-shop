@@ -1,0 +1,365 @@
+{
+ "anilist_id": 30218,
+ "title": "Our Kingdom",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30218",
+  "https://api.mangaupdates.com/v1/series/77246807808"
+ ],
+ "premise": "After his grandmother dies, country boy Akira Nonaka is taken in by the wealthy, powerful Takatou family and named a candidate for heir. The rival candidate, his princely cousin Rei, shows no interest in inheriting and instead pursues Akira, who slowly finds himself attracted back (DMP blurb). School-age cast; MangaUpdates tags include kidnapping, drowning and an attempted rape. Five volumes.",
+ "life_message": "Love and belonging can matter more than wealth and inheritance.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Kidnapping, rescue, drowning (MU) (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Kidnapping and near-drowning (MU) (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Cousin romance among school-age boys; AniList Incest tag; MU Attempted Rape, Stolen First Kiss (two databases agree)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Grandmother's death (blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Aggressive, possessive affection framed as romance (blurb, MU Possessive Seme)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Wealth display (to verify)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Expressive individualism, Traditionalism",
+ "axes": {
+  "economic": 4,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Care for an orphaned boy.",
+   "concerns": "Cousin same-sex romance among youths; attempted rape."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Wealth placed below love.",
+   "concerns": "Passions; same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Taking in an orphan.",
+   "concerns": "Same-sex romance and sexual threat among teens."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Rejecting greed for inheritance.",
+   "concerns": "Same-sex romance; possessive pursuit."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescue from danger.",
+   "concerns": "Sexual content; holiness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wealth not the chief end.",
+   "concerns": "Same-sex romance; WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family hospitality to an orphan.",
+   "concerns": "Views vary on same-sex romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Simplicity over riches.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love over status.",
+   "concerns": "Possessive affection."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Country simplicity honored.",
+   "concerns": "Romance media; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Family care.",
+   "concerns": "Law of chastity; same-sex."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay youth love shown warmly.",
+   "concerns": "Possessiveness and attempted assault."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for an orphan (yatim).",
+   "concerns": "Same-sex relations; family boundaries."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family duty and lineage.",
+   "concerns": "Romance between cousins."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Non-attachment to wealth.",
+   "concerns": "Craving; possessive love."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Queer youth love.",
+   "concerns": "Consent and possessiveness."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Choosing love over status.",
+   "concerns": "Possessive behavior."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Family continuity.",
+   "concerns": "Same-sex romance among youths."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex relations."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Love above material wealth.",
+   "concerns": "Sensual thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love over status.",
+   "concerns": "Possessiveness."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Free love.",
+   "concerns": "Coercion concerns."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Household continuity and ancestors.",
+   "concerns": "Little doctrine."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wealth not the goal.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wealth below love.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family dynamic.",
+   "concerns": "Little stated."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rejecting imposed succession.",
+   "concerns": "Attempted rape (unwanted advances)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for an orphan.",
+   "concerns": "Same-sex relations; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Values over riches.",
+   "concerns": "Teen sexual threat."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive love.",
+   "concerns": "Consent concerns."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Family name and succession matter."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Family expectations versus personal choice."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family and inheritance at the center."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Powerful family hierarchy (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Heirship tradition questioned by Rei."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Security of a rich home versus love."
+   }
+  },
+  "closest": [
+   "Latin America",
+   "El Norte",
+   "Orthodox Europe"
+  ],
+  "japan": "Rich-family heir succession and the country-boy-in-the-city contrast reflect Japanese household (ie) and inheritance drama conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurb frames comedy-romance; no stated message (to verify).",
+  "personified": [
+   {
+    "character": "Takatou family",
+    "ideology": "Wealth and succession first",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "Comic romance; family pressure is backdrop."
+ },
+ "winners_losers": "Akira and Rei end as a couple (blurb, MU); inheritance takes second place (to verify).",
+ "to_verify": [
+  "Characters' ages during romantic and sexual scenes (AniList School tag)",
+  "Context of the attempted rape and kidnapping (MU)",
+  "Cousin romance handling",
+  "License status (Juné; out of print?)"
+ ]
+}

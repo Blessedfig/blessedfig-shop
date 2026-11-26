@@ -1,0 +1,94 @@
+{
+ "anilist_id": 101864,
+ "title": "The Ride-On King",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101864",
+  "https://api.mangaupdates.com/v1/series/60462450667",
+  "https://schoolgirlmilkycrisis.com/2022/06/13/ride-on-king"
+ ],
+ "premise": "Alexander Plutinov, martial-arts master and president-for-life of the Republic of Prusia, loves to 'ride' and conquer anything: beasts, machines, a nation. After surviving a terrorist attack he is knocked out by an accident and wakes in a fantasy world of orcs, wyverns and centaurs, which he sets out to ride and conquer too (Sol Press blurb via AniList; MU; a reviewer reads him as a satirical take on a real-world leader).",
+ "life_message": "Boundless confidence and strength let a man master any world he lands in.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Endorsed", "note": "Constant fights with monsters (review; AniList Martial Arts); MU Blood and Gore, Violence, Murder/s. Gore level not described in the review (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Comic tone, 'properly mental' (review)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Shirtless hero; reviewer's wording about young half-elf girls flags some sexualized framing (to verify); MU Older Male Younger Female."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Endorsed", "note": "Domination played for laughs (Sol Press blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Isekai genre parody (MU Parody, Satire)."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 6, "stance": "Explored"},
+  {"lens": "Collectivism/authoritarianism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Postmodernism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Might makes right played for satire; strongman protagonist; isekai parody",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 4},
+ "foundations": {"care": 3, "loyalty": 6, "fairness": 3, "sanctity": 2, "authority": 7, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Protecting companions from monsters.", "concerns": "Conquest and domination as the hero's joy; slavery in the world (MU)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Bravery.", "concerns": "Pride and lust for domination celebrated."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Courage against monsters.", "concerns": "Violence and pride; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Protector instincts.", "concerns": "Strongman glorified; violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Strength used to defend.", "concerns": "Magic powers; zombies and skeletons."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Satire can expose tyranny.", "concerns": "Pride of an absolute ruler."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Two-kingdoms: rulers as protectors.", "concerns": "Glorified conquest."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Helping villagers.", "concerns": "Violence as fun."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Satirical frame.", "concerns": "Domination celebrated."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence and conquest as heroic throughout."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Self-reliance.", "concerns": "Violence; pride."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Discuss", "aligns": "Satire of authoritarian leaders (review).", "concerns": "Militarism and strongman worship."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Fighting monsters in defense.", "concerns": "Magic; arrogance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Warrior strength (kshatriya echoes).", "concerns": "Ego-driven conquest."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Craving for domination; violence."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Discuss", "aligns": "Political satire.", "concerns": "Authoritarian hero; sexualized wording around young characters."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Mockery of power.", "concerns": "Glorified violence."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Courage and leadership.", "concerns": "Mocks a political figure; violence."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Violence and magic."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence, magic and political hero-worship."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Fearlessness.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Satire of power.", "concerns": "Slavery and domination."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Bond with beasts.", "concerns": "Riding as domination of creatures."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Comic energy.", "concerns": "Bloodshed."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Martial courage.", "concerns": "Ego (haumai) celebrated."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Violence; conquest."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Supreme self-confidence.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self as one's own god; indulgent irreverence.", "concerns": "Young characters sexualized (to verify)."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Violence; magic; pride."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Satire of tyranny.", "concerns": "Glorified violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Critique of power.", "concerns": "Violence; slavery."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Personal combat and domination answer every challenge (Sol Press blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Strongman acts by his own will in the new world (review)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Companions and subjects, not family (AniList characters)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "President-for-life 'worshiped by his citizens' (Sol Press blurb)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Fantasy magic, no faith theme (MU)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Strength and survival in monster lands (MU Monster/s)."}
+  },
+  "closest": ["Tidewater", "Cavalier", "Orthodox Europe"],
+  "japan": "A parody of the Japanese isekai genre that casts an older strongman where a teenager usually stands."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Reviewer reads it as cheeky satire and absurd comedy, with no lecturing.",
+  "personified": [
+   {"character": "Alexander Plutinov", "ideology": "Strongman conquest; might makes right", "role": "Hero", "treatment": "Mixed"}
+  ],
+  "opposing_views": "None shown",
+  "note": "The strongman ideal is both celebrated and lampooned; whether satire or admiration dominates is left to the reader."
+ },
+ "winners_losers": "Plutinov wins at nearly everything; the comedy rests on his unstoppable will (Sol Press blurb; review).",
+ "to_verify": [
+  "English license: publisher Sol Press folded and MU marks English version dropped; English release is partial.",
+  "Gore level (MU Blood and Gore) and slavery storyline (AniList, MU).",
+  "Sexualized framing of young half-elf characters (only a reviewer's wording)."
+ ]
+}

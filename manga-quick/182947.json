@@ -1,0 +1,89 @@
+{
+ "anilist_id": 182947,
+ "title": "Wicked Spot",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/182947",
+  "https://api.mangaupdates.com/v1/series/57385658417"
+ ],
+ "premise": "Sadako, a powerful sorceress who has hidden for over a century, discovers social media, becomes an internet sensation and shocks her fans by announcing she is a witch (Kodansha USA blurb via AniList and MangaUpdates). The reveal turns Hanako, a lonely young woman with inhuman strength and resistance to magic, into a dedicated hater, and the two are swept into an adventure. It is a two-volume josei comedy with a yuri (romance between women) thread.",
+ "life_message": "Real connection can grow out of loneliness and even rivalry.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Hanako's 'inhuman strength' (blurb); no fighting described."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light comedy."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Yuri romance (AniList Yuri; MangaUpdates Shoujo Ai); nothing explicit noted."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Hanako is lonely (blurb); AniList Bullying tag. Capped (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Online hating and influencer culture (blurb)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Social media fame and fashion (AniList Fashion; MangaUpdates Influencer)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Witch meets the internet; loneliness; rivals to romance",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Hanako's loneliness answered by friendship.", "concerns": "Witch heroine; same-sex romance."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Loneliness taken seriously.", "concerns": "Sorcery and same-sex romance."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Online hate shown as unhealthy.", "concerns": "Witchcraft as heroine's identity; yuri romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Reaching across hostility.", "concerns": "Witch and same-sex relationship."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond friendship.", "concerns": "Witchcraft celebrated."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Vanity of online fame examined.", "concerns": "Sorcery; same-sex romance in conservative churches."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbor love over hate.", "concerns": "Witchcraft framing."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Healing loneliness.", "concerns": "Occult heroine."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Whimsical fantasy.", "concerns": "Views on romance vary by province."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Critique of worldly fame.", "concerns": "Witchcraft; social media culture."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Women's relationship affirmed; isolation healed.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little beyond friendship.", "concerns": "Sihr shown positively; same-sex romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Companionship.", "concerns": "Views vary on same-sex romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Craving for attention examined.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer women leads; online hate examined.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Human connection.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Critique of influencer culture.", "concerns": "Same-sex romance for young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little beyond friendship.", "concerns": "Witchcraft; same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to commend.", "concerns": "Magic and same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcomes isolation.", "concerns": "Occult framing."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of the lonely and different.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Witch as sympathetic heroine.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Youkai and magic as natural.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Overcoming ego and hate.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity over hate.", "concerns": "Occult; romance outside marriage of man and woman."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication across conflict.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Outsider witch thriving openly.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to commend.", "concerns": "Sorcery and same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Kindness overcoming hate.", "concerns": "Sorcery."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and healing.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Hanako's grudge against Sadako (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Witch reveals herself on her own terms (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Online community, not family."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peer relations."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Centuries-old witch in modern social media (blurb)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Fashion and online self-presentation (tags)."}
+  },
+  "closest": ["English-speaking", "New Netherland", "The Midlands"],
+  "japan": "Plays on Japanese influencer and jirai-kei fashion subcultures (MangaUpdates tags)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about delivery."
+ },
+ "winners_losers": "Sadako and Hanako are both sympathetic leads (blurb).",
+ "to_verify": [
+  "Nature of bullying content (AniList tag).",
+  "How the romance develops."
+ ]
+}

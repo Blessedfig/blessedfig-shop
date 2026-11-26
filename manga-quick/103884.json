@@ -1,0 +1,94 @@
+{
+  "anilist_id": 103884,
+  "title": "Citrus+",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/103884",
+    "https://api.mangaupdates.com/v1/series/67795143490",
+    "https://en.wikipedia.org/wiki/Citrus_%28manga%29",
+    "https://www.penguin.com.au/books/citrus-plus-vol-1-9781642756883"
+  ],
+  "premise": "A sequel to the yuri series Citrus. High school stepsisters Yuzu and Mei, whose rivalry turned to romance in the first series, are now dating openly, and friends and family keep offering unwanted advice as the two try to work their relationship out themselves (Seven Seas blurb; Wikipedia article on Citrus for background).",
+  "life_message": "Two people who love each other should be free to define their relationship on their own terms.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Relationship drama only."},
+    {"category": "Sexuality and romance", "score": 4, "framing": "Endorsed", "note": "Same-sex romance between stepsisters (AniList Yuri 96%; MU Stepsibling Love, False Incest). The original series drew criticism for non-consensual advances (Wikipedia reception); how far Citrus+ continues this is to verify."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Family and relationship stress."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Dress-code defiance and fashion (Wikipedia, AniList Fashion); relationship dynamics from the first series."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Fashion and makeup focus."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Romantic self-determination; same-sex love affirmed; family acceptance",
+  "axes": {"economic": 5, "social": 7, "cultural": 7, "community": 4},
+  "foundations": {"care": 5, "loyalty": 5, "fairness": 3, "sanctity": 2, "authority": 3, "liberty": 7},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Fidelity and mutual care between Yuzu and Mei.", "concerns": "Same-sex romance between stepsisters is the core; CCC 2357-2359."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Commitment over fleeting attraction.", "concerns": "Romance framework at odds with marriage teaching; sensual scenes."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty within the couple.", "concerns": "Same-sex dating affirmed (BF&M Article XVIII)."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Honesty about feelings.", "concerns": "Same-sex relationship celebrated; stepsibling romance."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Devotion and persistence.", "concerns": "Romance and sensuality outside holiness standards."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Covenant-like faithfulness of the couple.", "concerns": "WLC Q139 concerns; same-sex romance (PC(USA) differs)."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Love of neighbor within family tensions.", "concerns": "LCMS/WELS object to the romance; ELCA more open."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care and patience as relatives meddle.", "concerns": "Split: UMC affirming, holiness churches object."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Committed relationship tested and kept.", "concerns": "Episcopal affirming; ACNA would object."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Worldly fashion focus and same-sex romance."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family members who care enough to advise.", "concerns": "Romance contrary to the Family Proclamation; chastity concerns."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Affirming portrayal of a queer couple facing family.", "concerns": "Earlier series' consent problems (Wikipedia reception)."},
+    {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance and sensual content at the core."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Family duty and acceptance negotiated.", "concerns": "Traditional families object to romance within a household."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Learning to communicate; non-harming love.", "concerns": "Attachment and craving; consent history."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Out queer couple asserting autonomy.", "concerns": "Critics flagged consent issues in the original (Wikipedia)."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Consenting partners working things out.", "concerns": "Power imbalances from the earlier series."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Family stays involved.", "concerns": "Same-sex romance between stepsisters aimed at teens."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance; sensual content."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance celebrated throughout."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love as a governing theme.", "concerns": "Sensual focus; families vary."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth of a queer couple; self-determination.", "concerns": "Consent issues from the first series (Wikipedia)."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Love between consenting partners honored.", "concerns": "Manipulative past dynamics."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Household harmony restored.", "concerns": "No doctrine; family propriety concerns."},
+    {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Commitment and loyalty.", "concerns": "Akal Takht position on same-sex unions."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Unity in a family.", "concerns": "Romance outside man-woman marriage."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and faithfulness to a partner.", "concerns": "Little stated."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-determined love against outside pressure.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance and immodest content."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "CJLS-era acceptance of same-sex couples.", "concerns": "Stepsibling framing and consent history."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Inclusive, affirming relationship story.", "concerns": "Consent history from the original."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Conflict is talked through; no honor contests noted."},
+      "Order vs freedom": {"pos": 7, "evidence": "The couple resists advice to define things themselves (Seven Seas blurb)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Family Life tag (AniList 79%); relatives involved in the relationship."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Mei's elite school role from the first series (Wikipedia) is background."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Conservative school norms challenged by Yuzu's style (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Fashion, romance and dating openly (AniList, blurb)."}
+    },
+    "closest": ["English-speaking", "New Netherland", "Catholic Europe"],
+    "japan": "The all-girls school setting and the 'Class S' tradition of intense schoolgirl bonds inform the yuri genre in Japan, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "No review of Citrus+ found on delivery; values carried by the couple's choices (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Outside advice-givers appear as meddling friends and family rather than as a contrary worldview, as far as summaries show."
+  },
+  "winners_losers": "Yuzu and Mei come through as a couple; sympathy goes to their choice to be together openly.",
+  "to_verify": [
+    "Wikipedia cache covers the original Citrus; Citrus+ plot details come only from the Seven Seas blurb",
+    "Whether the non-consensual dynamics criticized in the original carry into Citrus+",
+    "Level of sexual content in the sequel",
+    "Seven Seas age rating (not shown on retailer page)",
+    "How family members react to the relationship"
+  ]
+}

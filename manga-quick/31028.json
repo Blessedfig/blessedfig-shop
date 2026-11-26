@@ -1,0 +1,361 @@
+{
+ "anilist_id": 31028,
+ "title": "The Ghost in the Shell 1.5: Human-Error Processor",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31028",
+  "https://api.mangaupdates.com/v1/series/13585737407"
+ ],
+ "premise": "A set of Ghost in the Shell stories drawn after the first volume: Section 9 agents handle terrorists, cybercriminals and ghost hackers in a future where human and machine have merged (Kodansha and Dark Horse blurbs via AniList and MangaUpdates). The cases involve remote-controlled corpses, malfunctioning micromachines and cop-killer cyborgs, in a police-procedural style.",
+ "life_message": "It values a competent, disciplined team that protects society from new kinds of crime made possible by technology.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Cop-killer cyborgs and remote-controlled corpses (Kodansha blurb); AniList Gore, Guns; MU Murder, Violence."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Cyber-thriller tension (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted; MangaDex safe."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Nothing specific noted."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Hacking shown; far from daily life."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Franchise volume."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Cyber-crime policing, human-machine blur",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 8,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 2,
+  "authority": 6,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting the public from crime.",
+   "concerns": "Violence; body treated as hardware."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Order against crime.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Lawful authority restrains evil.",
+   "concerns": "Gunfights and gore."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Clear justice framing.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Good guys stop criminals.",
+   "concerns": "Violence; corpses controlled."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Magistrate bears the sword.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation of police service.",
+   "concerns": "Some gore."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Teamwork for public good.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Order and justice.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting others.",
+   "concerns": "Armed force is how problems are solved."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Law and order valued.",
+   "concerns": "Violent scenes."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethics of technology.",
+   "concerns": "State security focus."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice against wrongdoers.",
+   "concerns": "Desecration of corpses."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty of protectors.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions of self and body.",
+   "concerns": "Killing."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Questions about technology and power.",
+   "concerns": "Police violence little questioned."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rational inquiry into technology.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Law and order; competence.",
+   "concerns": "Some gore."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting life.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Restraint of wrongdoing.",
+   "concerns": "Violent entertainment."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions of mind and matter.",
+   "concerns": "Dwelling on violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ethics of technology.",
+   "concerns": "State force."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Order and harmony restored.",
+   "concerns": "Death and corpses (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending people.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Service.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting society.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Competence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Desecrated bodies."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ethics of tech.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Cases go through a police unit and legal order."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Security state hunting threats."
+   },
+   "Civic vs kin": {
+    "pos": 2,
+    "evidence": "Team and public, not family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Chain of command in Section 9."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 9,
+    "evidence": "Technology and science dominate."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Security comes first."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "Catholic Europe",
+   "Confucian"
+  ],
+  "japan": "Section 9's teamwork and chain of command reflect Japanese organizational norms, shown here as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Publisher blurbs stress action and procedure (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Episodic cases with no clear ideological antagonist in the sources."
+ },
+ "winners_losers": "Section 9 stops the criminals; the human-machine blur is explored rather than judged.",
+ "to_verify": [
+  "No review opened; violence from blurb and tags only.",
+  "Whether any nudity typical of the author appears."
+ ]
+}

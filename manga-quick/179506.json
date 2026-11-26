@@ -1,0 +1,92 @@
+{
+ "anilist_id": 179506,
+ "title": "How to Handle My Sassy Big Sis",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/179506",
+  "https://api.mangaupdates.com/v1/series/52430956226",
+  "https://www.theouterhaven.net/manga-review-how-to-handle-my-sassy-big-sis-vol-1/",
+  "https://yenpress.com/series/how-to-handle-my-sassy-big-sis"
+ ],
+ "premise": "Konno, a gyaru taken in by a family, is sharp-tongued toward her younger stepbrother Tanuki and seen as cold at school. A friend suggests Tanuki 'handle' her like a manga trope, but he chooses to win her over with kindness and persistence while she faces threats from older boys and a predatory teacher (Yen Press blurb; Outerhaven review of volume 1).",
+ "life_message": "Patient kindness can reach someone whose hostility hides hurt, and family means protecting each other.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Threats and rescue scenarios (MU Rescue, Delinquents tag); no fights reported."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Konno nearly coerced at a party and targeted by a teacher (review); MU Stalker/s."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Shown with consequences", "note": "Review: sexual danger as plot (party, predatory teacher); MU Nudity, Big Breasts, Ecchi genre; MangaDex rates it erotica. Possible stepsibling romance (MU)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Konno's constant insults (Yen Press blurb); harsh talk about her reputation (review)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Party setting; nothing specific reported (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Emotional pain behind a tough exterior (review); MU Abused Female Lead."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Condemned", "note": "The 'handler' trope is raised but Tanuki rejects it for kindness (review)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 3, "stance": "Explored"},
+  {"lens": "Feminism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Blended-family belonging; kindness over domination; protecting the vulnerable",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 5, "sanctity": 4, "authority": 4, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Tanuki's patience and protection of Konno; adopted child welcomed.", "concerns": "Nudity and ecchi framing; possible stepsibling romance."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Meekness answering insults.", "concerns": "Sexualized art feeds the passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Kindness to a difficult sibling.", "concerns": "Ecchi content; romance between household siblings (to verify)."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Love that seeks the hurting person behind the attitude.", "concerns": "Fan service and erotic rating."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Protection from predators.", "concerns": "Immodesty and sexual tension."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Exposes a teacher abusing authority.", "concerns": "Lascivious images (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Putting the best construction on Konno's behavior.", "concerns": "Ecchi content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Doing good to the difficult.", "concerns": "Sexualized depiction of a teen girl."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Hospitality toward an adopted daughter.", "concerns": "Erotic rating versus story's caring message."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Non-coercive love.", "concerns": "Immodest art."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family unity.", "concerns": "Media that is not modest; party scenes."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Shows grooming and coercion as threats to resist.", "concerns": "Male-gaze art of a teen."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Guarding a family member's honor.", "concerns": "Haya: nudity and sexualized teen."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Family duty to protect.", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Patience and right speech answering harsh speech.", "concerns": "Sensual imagery."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Takes predatory adults seriously.", "concerns": "Sexualization of a minor (MangaDex erotica rating)."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Empathy over domination.", "concerns": "Exploitative art."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Brother protects his sister; family loyalty.", "concerns": "Fan service; stepsibling romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Impure images."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Family care.", "concerns": "Immorality and immodesty."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love dissolving hostility.", "concerns": "Degrading images."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Inherent worth of a girl judged by peers.", "concerns": "Sexualized depiction."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Harm-none: Tanuki refuses to break her.", "concerns": "Exploitative framing."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Household harmony and sincerity.", "concerns": "Little doctrinal concern; nudity."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Protecting the vulnerable.", "concerns": "Lust in imagery."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Love and unity in family.", "concerns": "Unchaste imagery."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Communication repairs a relationship (ARC).", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Unwanted advances condemned.", "concerns": "Teen sexualization."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Chesed toward a hostile relative.", "concerns": "Tzniut violated."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Kindness and protection.", "concerns": "Degrading imagery."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Protects against exploitation.", "concerns": "Sexualized art."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Tanuki answers insults with patience, not retaliation (review)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Remedial school and family rules versus Konno's defiance (review)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Protecting a stepsister is the story's drive (blurb, review)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "A teacher's authority is shown as dangerous (review)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern gyaru and otaku culture (AniList Gyaru)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Konno's style tolerated, while safety is the concern."}
+  },
+  "closest": ["Catholic Europe", "El Norte", "First Nation"],
+  "japan": "Plays on the Japanese 'wakarase' manga trope about humbling a cocky girl, which this story subverts, and on gyaru subculture, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Outerhaven: Tanuki 'doesn't lecture' Konno; message carried by his actions.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "The domination approach is voiced by a friend and set aside in favor of kindness."
+ },
+ "winners_losers": "Konno and Tanuki gain trust; predatory adults and older boys are the threats; the 'handler' approach loses.",
+ "to_verify": [
+  "Kept, not skipped: MangaDex rates it erotica, but the review and MU genres (no Adult/Smut) show a family drama, not sexual content at its core; confirm.",
+  "Whether a romance between the stepsiblings develops (MU Stepbrother-Stepsister Relationship).",
+  "Extent of nudity and fan service; only volume 1 reviewed."
+ ]
+}

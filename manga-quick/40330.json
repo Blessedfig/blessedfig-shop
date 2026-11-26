@@ -1,0 +1,95 @@
+{
+ "anilist_id": 40330,
+ "title": "Drowning Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/40330",
+  "https://api.mangaupdates.com/v1/series/25480694725",
+  "https://kodansha.us/series/drowning-love/volume-3/",
+  "https://myanimelist.net/reviews.php?id=512391"
+ ],
+ "premise": "Natsume, a mature sixth-grade model from Tokyo, moves with her family to the countryside and meets the boy Kou, awakening intense feelings (MU/INKR description). Kodansha describes 'a turbulent tale of preteens on the brink of self-destruction' whose feelings swing between love and hatred; Natsume throws herself into modeling and the two later date (Kodansha blurbs). A 17-volume shoujo coming-of-age drama rated 16+ by Kodansha, adapted to a live-action film.",
+ "life_message": "First love can be overwhelming and destructive; growing up means surviving it and finding your own path.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "'They fight one another' (Kodansha blurb); MU Violence, Delinquents, Gangs, Abuse."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Heavy atmosphere and trauma (MU); stalker (MU)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Shown with consequences", "note": "Intense teen romance from preteen years (Kodansha); an attempted sexual assault on the young heroine (AniList Rape spoiler; MU Attempted Rape); later first sexual relationship between teens (MU). Rated 16+. Explicitness not checked (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not checked (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "'On the brink of self-destruction' (Kodansha); MU Depression, Suicidal Character, Guilt; AniList Suicide (spoiler)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Possessive, obsessive love (MU Possessive Lovers, Obsessive Love)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Modeling and fashion world (AniList Fashion); film tie-in."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Pantheist/New Age", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Destructive first love; trauma and recovery; coming of age",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 4},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 4, "sanctity": 4, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Shows the harm of possessive love and the trauma of assault.", "concerns": "Sexual relationship between teens; assault theme; self-destruction."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Passions shown as destructive.", "concerns": "Sexual content with minors; local god folklore."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Consequences of obsession.", "concerns": "Teen sexuality; sexual violence."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Recovery after trauma.", "concerns": "Teen sex; assault."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Deliverance from despair.", "concerns": "Sexual content; local deity mythology."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Sin's destructiveness shown truthfully.", "concerns": "Attractive portrayal of obsession."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Brokenness and need for grace.", "concerns": "Teen sexuality."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Harm shown as harm.", "concerns": "Sexual content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Literary coming-of-age.", "concerns": "Sexual violence and teen sex."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content; violence; worldliness."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency and consequence.", "concerns": "Law of chastity; violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Takes trauma seriously.", "concerns": "Abuse of minors; possessive romance."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content; immodesty; violence."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Kama out of balance shown harmful.", "concerns": "Immodesty; violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Craving and attachment as suffering.", "concerns": "Sexual misconduct; harm."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Agency of a girl after assault.", "concerns": "Sexualization of minors; safe-messaging on suicide."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Psychological realism.", "concerns": "Exploitation of minors."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Teen sex; delinquency; disregard of parents."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content; passions."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality; violence."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Degrading and fear-inducing images."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Honest about trauma.", "concerns": "Exploitation; consent."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Nature and a local god in the coastal village.", "concerns": "Non-consent; harm."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Village festival and local god (MU Festival, God).", "concerns": "Kami linked with violence (to verify)."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Courage after harm.", "concerns": "Sexual content; violence."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Chastity; violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Overcoming trauma.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "C", "weight": "Significant", "aligns": "Self-assertion.", "concerns": "Harm to children (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Tzniut; sexual content."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Trauma seriously treated.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Honest about harm.", "concerns": "Exploitation of minors."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Rivals 'fight one another... capture one another' (Kodansha blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Teens act outside adult control (MU Delinquents)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Family moves; heir and village ties (MU Heir, Countryside)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Local heir Kou's standing in the village (MU Heir)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Village god folklore beside modern fashion world (AniList Gods, Fashion)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Modeling career and pursuit of desire (Kodansha)."}
+  },
+  "closest": ["The Far West", "El Norte", "English-speaking"],
+  "japan": "Contrasts Tokyo and a coastal village with a local deity and festival, a common Japanese setting for stories of rural tradition meeting city life."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Reviewer describes turbulent relationship dynamics and consequences, no moralizing noted (MAL review); default (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story shows consequences rather than stating lessons."
+ },
+ "winners_losers": "Natsume's survival and growth carry the sympathy; possessive love and the assault leave lasting damage (tags).",
+ "to_verify": [
+  "AniList tags 'Rape' while MU lists 'Attempted Rape': what happens and how it is drawn.",
+  "Explicitness of the teen sexual relationship (MU First-Time Intercourse; Kodansha 16+).",
+  "Role of the local god in the plot.",
+  "MAL review is a user review of the manga; it gives few plot details.",
+  "No Wikipedia cache available in this run."
+ ]
+}

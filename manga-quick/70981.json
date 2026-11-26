@@ -1,0 +1,94 @@
+{
+ "anilist_id": 70981,
+ "title": "Stop!! Hibari-kun!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/70981",
+  "https://api.mangaupdates.com/v1/series/51246417863",
+  "https://www.animenewsnetwork.com/seasonal/2026/winter/stop-hibari-kun/.232491"
+ ],
+ "premise": "After his mother dies, Kohsaku Sakamoto moves in with yakuza boss Ibari Ozora and his children, including Hibari, the popular, stylish girl at school whom the family knows was assigned male (Peow2 blurb; ANN). A 1980s shonen gag romantic comedy, it plays Hibari's pursuit of Kohsaku and the household's yakuza life for slapstick (ANN). Four volumes, the series was left unfinished (MU).",
+ "life_message": "Hibari lives as herself without apology, though the comedy around her mostly laughs rather than reflects.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Slapstick and yakuza gags; AniList Boxing, Slapstick."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedic tone (ANN)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Hibari's pursuit of Kohsaku is called 'skeezy' with consent concerns (ANN); AniList Nudity at low rank."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Jokes 'crude, often vulgar' (ANN); one source (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Yakuza household; not described (to verify)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Kohsaku's mother's death (blurb)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Persistent misgendering and transphobic, homophobic humor (ANN; MU Transphobia); racial stereotypes (ANN)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Gender identity as comic premise; yakuza family life; 1980s gag humor",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 6, "fairness": 3, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Kohsaku is taken in after his mother's death.", "concerns": "Gender presentation at odds with Church teaching; crude humor."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Household hospitality to an orphan.", "concerns": "Gender seen as given; yakuza and vulgar jokes."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Family takes in a grieving boy.", "concerns": "Transgender premise; vulgar humor; organized crime."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Welcome of a newcomer.", "concerns": "Gender identity theme; crude jokes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Family care for Kohsaku.", "concerns": "Gender identity theme; worldliness."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Shows a household needing order.", "concerns": "Gender theme; crime family played for laughs."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Range: ELCA families may note Hibari's self-acceptance.", "concerns": "LCMS/WELS: gender theme; vulgar humor."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Hospitality to the bereaved.", "concerns": "Mockery of a gender-nonconforming person."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Hibari's self-acceptance.", "concerns": "Humor demeaning to trans and gay people."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Kohsaku cared for by others.", "concerns": "Worldly gag comedy; yakuza; gender theme."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family takes in Kohsaku.", "concerns": "Gender as eternal identity; vulgar content."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Early trans character living openly.", "concerns": "Misgendering and transphobic jokes (ANN)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Hospitality to an orphan.", "concerns": "Gender theme; crude speech; crime family."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Family duty toward a guest child.", "concerns": "Mocking humor; crime family."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Hibari's equanimity about herself.", "concerns": "Harsh speech and ridicule."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Hibari is 'unapologetically herself' (ANN).", "concerns": "'Not enlightened representation': misgendering, transphobia, stereotypes."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Historical look at 1980s attitudes ('fossilized', ANN).", "concerns": "Demeaning humor."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Family loyalty within the household.", "concerns": "Gender theme for children; crude humor; crime."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Care for an orphan.", "concerns": "Gender theme; vulgar jokes."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness to a bereaved boy.", "concerns": "Gender theme; obscene speech."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Identity beyond the material body.", "concerns": "Degrading humor."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "A trans girl centered in a mainstream comic.", "concerns": "Negative portrayals and mockery (ANN)."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Hibari's autonomy.", "concerns": "Mockery of LGBTQ people."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Household continuity and comic everyday life.", "concerns": "Crude humor."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Care for a grieving youth.", "concerns": "Lust and mockery as comedy."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Family consultation.", "concerns": "Prejudice in humor; sexual teasing."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Second dynamic: family life.", "concerns": "Crime-family setting."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Hibari defies conventions.", "concerns": "Consent concerns (ANN)."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Taking in an orphan.", "concerns": "Gender theme; nivul peh."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Family warmth.", "concerns": "Demeaning humor."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Inclusion of a trans character.", "concerns": "Stereotypes and mockery."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Yakuza household and gang humor (blurb; AniList Yakuza, Delinquents)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Hibari lives as she chooses despite her father (ANN)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Family keeps Hibari's secret (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Yakuza boss father heads the house (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Gender norms mocked and enforced by turns (ANN)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Hibari's fashion and self-presentation (blurb; ANN)."}
+  },
+  "closest": ["El Norte", "Latin America", "The Far West"],
+  "japan": "The series is a product of 1980s Japanese gag manga, where gender-play comedy and yakuza family parody were common genre conventions."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN reviewers describe a gag manga 'so very much of its time', with no stated message.",
+  "personified": [
+   {"character": "Ibari Ozora (Hibari's father)", "ideology": "Rejection of his child's gender presentation", "role": "Foil", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Reviewers say Hibari is persistently misgendered and the transphobic father is played for comedy; no position is argued."
+ },
+ "winners_losers": "Hibari stays herself and is the comic star; the father's anger is the running gag. Reviewers find the humor dated and often at trans and gay people's expense.",
+ "to_verify": [
+  "Nudity and fan-service frequency",
+  "Language in the Peow2 translation",
+  "Peow2 edition volume count and age rating",
+  "MU notes the series was cancelled"
+ ]
+}

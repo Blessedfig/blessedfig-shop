@@ -1,0 +1,370 @@
+{
+ "anilist_id": 46484,
+ "title": "Double Mints",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/46484",
+  "https://api.mangaupdates.com/v1/series/28026617463",
+  "https://comicbastards.com/comics/review-double-mints"
+ ],
+ "premise": "Two men who share the name Mitsuo Ichikawa had a master-and-servant bond in high school. Years later one calls the other after killing a woman, and they reunite as accomplices hiding the crime, drawn into gangs, drugs and an abusive, obsessive relationship.",
+ "life_message": "It presents obsessive devotion as a bond that outlasts crime and ruin, without holding it up as a model.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "A killing and attempted murder (AniList, MU, review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "'Dark' and 'twisted' tone (review); gangs and crime (tags)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "Explicit sexual content and sexual violence per AniList/MU tags; review calls it mature and dominant/submissive."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Review itself is profane; manga's language not confirmed (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Drug trafficking (MU) (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Psychological abuse; pair treat each other 'like utter shit' (review); masochism (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Covering up a killing; violent possessive relationship (tags, review)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Nihilism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Nihilism; Existentialism; Might makes right",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 2,
+  "loyalty": 7,
+  "fairness": 2,
+  "sanctity": 1,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Murder carries weight in the plot.",
+   "concerns": "Sexual violence, abuse and same-sex sex shown sympathetically."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Consequences of crime.",
+   "concerns": "Passions of lust and violence throughout."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Sin shown as destructive.",
+   "concerns": "Explicit sex, rape and murder."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Guilt as an undercurrent.",
+   "concerns": "Abusive love and explicit content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Darkness of a life without God implied.",
+   "concerns": "Sexual violence, drugs, murder."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Total depravity on display.",
+   "concerns": "Lascivious and violent imagery."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Law and sin laid bare.",
+   "concerns": "Explicit content against sixth commandment."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Cost of a life away from holiness.",
+   "concerns": "Explicit sex, abuse, drugs."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Bleak moral vision taken seriously.",
+   "concerns": "Sexual violence; abuse as romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Violence's ruin is visible.",
+   "concerns": "Murder, gang violence, sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Consequences of sin.",
+   "concerns": "Explicit, violent material."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Characters 'confident in their sexuality' (review).",
+   "concerns": "Abuse and non-consent romanticized."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Murder shown as grave.",
+   "concerns": "Explicit sex and sexual violence."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Karma of violence follows them.",
+   "concerns": "Adharma: cruelty, deceit, lust."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Suffering from craving and attachment.",
+   "concerns": "Killing, sexual misconduct, intoxicants."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gay leads without shame.",
+   "concerns": "Rape and abuse eroticized; consent absent."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest look at psychological damage.",
+   "concerns": "Cruelty and coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Crime has costs.",
+   "concerns": "Glamorized crime, explicit content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Wages of sin.",
+   "concerns": "Impurity and violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Crime brings ruin.",
+   "concerns": "Violence, immorality, drugs."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Error leads to suffering.",
+   "concerns": "Fear and degrading images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Characters' inner lives taken seriously.",
+   "concerns": "Abuse and sexual coercion."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Bond chosen freely by both men.",
+   "concerns": "Harm and manipulation violate 'harm none'."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sincere devotion of the pair.",
+   "concerns": "Blood, death and kegare throughout."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty between the two.",
+   "concerns": "Lust, anger and murder."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Consequences of moral collapse.",
+   "concerns": "Unchastity and violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth of a destructive bond.",
+   "concerns": "Drugs and harm to others."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Indulgence and self-chosen bonds.",
+   "concerns": "Non-consensual acts break the Eleven Rules spirit."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Murder treated as grave.",
+   "concerns": "Explicit, forbidden sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Moral weight of murder.",
+   "concerns": "Degrading sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest about harm.",
+   "concerns": "Abuse and exploitation."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "Dominance and humiliation govern the bond."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Characters live outside law and norms."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "Loyalty to each other over everyone else."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Master-servant hierarchy between the two Mitsuos."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "No religious framing; secular underworld."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival in a criminal world."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "El Norte",
+   "The Far West"
+  ],
+  "japan": "The high-school 'master and servant' roles echo senpai-style hierarchies pushed to an extreme; tanbi aesthetics of BL frame the drama."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Review: 'meant to be sensitive' but jumbled; no stated message.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story shows a destructive bond without explaining a moral."
+ },
+ "winners_losers": "The two Mitsuos end bound together on the run; the woman killed and their victims lose; sympathy goes to the pair.",
+ "to_verify": [
+  "Exact explicitness of sexual scenes and sexual violence",
+  "Ending ('Romeo and Juliet feel' per review)",
+  "Drug content",
+  "Digital Manga Guild edition; license may be lapsed",
+  "Live-action film adaptation exists (to verify); review covers the manga"
+ ]
+}

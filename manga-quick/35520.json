@@ -1,0 +1,360 @@
+{
+ "anilist_id": 35520,
+ "title": "Love+α",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/35520",
+  "https://api.mangaupdates.com/v1/series/2522277095",
+  "https://www.animenewsnetwork.com/encyclopedia/manga.php?id=9823"
+ ],
+ "premise": "Yuuya is caught in a love triangle between Kyosuke, a ghost who loves him, and his childhood friend Katsuki, and must choose between them (AniList, MU, ANN).",
+ "life_message": "Love chooses between the past and the present, even across death.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU lists Rape; single source (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Ghost and dead lover (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 7,
+   "framing": "Endorsed",
+   "note": "MU genres Adult and Smut with Group Intercourse; ANN Yaoi; 801 Media (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Explored",
+   "note": "Dead lover (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Possible non-consent (MU; to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Hedonism; ghost lore",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 3,
+  "fairness": 2,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content; same-sex acts; ghost romance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; restless dead; group sex (MU)."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sex with a ghost and a friend; same-sex acts."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content celebrated; spirit of the dead."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Spirit contact with a ghost lover; explicit content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lascivious content; ghost lore."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; possible non-consent."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; harm via possible non-consent."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content; dignity questions."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Law of chastity; ghost romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Same-sex love triangle with a choice.",
+   "concerns": "Possible non-consent (MU Rape); group sex."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; souls of the dead."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Kama and attachment to the dead."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Craving and attachment across death; misconduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Queer romance.",
+   "concerns": "Consent questions (MU Rape)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Consent questions."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Ghost of the dead conscious; explicit content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Spiritism and sexual immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sensual images; death treated as real."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Same-sex love.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Spirits as part of life.",
+   "concerns": "Consent and harm."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirit attachment as folk belief.",
+   "concerns": "Lingering dead disturbing harmony."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lust; sex outside marriage."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity; occult."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirit continuing after death.",
+   "concerns": "Little else."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Desire pursued freely.",
+   "concerns": "Unwanted advances rule (MU Rape)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; same-sex acts; necromancy-like bond."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Degrading sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Consent."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Romantic rivalry, no honor duel."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Sexual freedom."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Childhood friend vs ghost."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Peers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Ghost folklore in a modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Desire comes first."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "The Midlands"
+  ],
+  "japan": "Ghost lovers who linger out of attachment draw on Japanese folk stories of yurei."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Triangle premise only (AniList, MU, ANN); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message found."
+ },
+ "winners_losers": "Unknown which suitor Yuuya chooses (to verify).",
+ "to_verify": [
+  "Ending and who Yuuya chooses",
+  "Nature of the MU Rape and Group Intercourse categories",
+  "Characters' ages",
+  "Whether explicit sex is the core of the book (possible explicit-later title)",
+  "English availability (801 Media)"
+ ]
+}

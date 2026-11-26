@@ -1,0 +1,367 @@
+{
+ "anilist_id": 30107,
+ "title": "Chobits",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30107",
+  "https://en.wikipedia.org/wiki/Chobits"
+ ],
+ "premise": "Hideki, a poor student preparing for university in Tokyo, finds a discarded humanoid computer ('persocom') and names her Chi after the only word she can say. Chi may be one of the legendary Chobits, persocoms with free will and emotions. As Hideki teaches her, the story asks whether love between a human and a machine can be real.",
+ "life_message": "Love means accepting someone fully and choosing them, even when the relationship cannot be what society expects.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Minimal."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mystery of Chi's origin; some melancholy (AniList Unrequited Love 79)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Nudity and fan service of Chi; Hideki's adult magazines; anime criticized for fan service (Wikipedia; AniList Nudity 68; MangaDex suggestive)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Social drinking (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Loneliness; a side character's grief over a persocom (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Minor."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime and merchandise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Feminism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Human-machine love; loneliness and technology; personhood",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 7,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Hideki's tenderness and respect for Chi; critique of using others as objects.",
+   "concerns": "Nudity and fan service; romance with a machine."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loneliness of modern life shown.",
+   "concerns": "Sexualized imagery of Chi."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hideki's restraint toward Chi.",
+   "concerns": "Fan service and adult magazines."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Asks what makes love real.",
+   "concerns": "Nudity; non-human romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness of Hideki.",
+   "concerns": "Sexualized content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Image-of-God question in persocoms.",
+   "concerns": "WLC Q139 imagery."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for the neighbor, even unusual ones.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love expressed in patient care.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral reflection on technology and love.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows technology replacing human bonds.",
+   "concerns": "Immodesty."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Chastity-minded hero in some respects.",
+   "concerns": "Nudity and adult magazines."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personhood and dignity of the other.",
+   "concerns": "Idealized obedient female persocom."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gentle treatment of others.",
+   "concerns": "Nudity; haya."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Devotion and selfless care.",
+   "concerns": "Modesty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Attachment and loneliness examined.",
+   "concerns": "Sensual imagery."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethics of AI personhood.",
+   "concerns": "ANN critique: obedient persocoms erase women's humanity."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions how we use technology.",
+   "concerns": "Objectification."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Hideki's honest, hardworking nature.",
+   "concerns": "Fan service; substitute for real family."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gentle main character.",
+   "concerns": "Immodest imagery."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love as true identity.",
+   "concerns": "Material focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inherent worth of any being.",
+   "concerns": "Gender stereotypes."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Consent and Chi's own choice of 'person just for me'.",
+   "concerns": "Objectification."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirit dwelling in made objects.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work and kindness.",
+   "concerns": "Lust as a vice."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love beyond appearance.",
+   "concerns": "Unchaste imagery."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "ARC between Hideki and Chi.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love on one's own terms despite society.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness to the vulnerable.",
+   "concerns": "Tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dignity questions.",
+   "concerns": "Degrading imagery."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethics of personhood.",
+   "concerns": "Objectification."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Hideki avoids conflict; gentle character."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Chi's free will and Hideki's personal choice celebrated."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Neighbors and friends form his support."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Hideki treats Chi as an equal, not property."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Technological society; no religious frame."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Love and fulfillment over money troubles."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Midlands"
+  ],
+  "japan": "The rural student moving to Tokyo for cram school and the isolation of urban life reflect Japanese social patterns."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Questions about human-machine love raised through Hideki and Chi's story; no review on delivery found (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Whether love for a persocom can be real is explored through the plot rather than settled by narration."
+ },
+ "winners_losers": "Hideki and Chi choose each other; those who see persocoms as objects are challenged. Sympathy goes to unconditional love.",
+ "to_verify": [
+  "Nudity frequency and the location of Chi's reset switch as a sexual theme",
+  "Kodansha age rating",
+  "Ending details"
+ ]
+}

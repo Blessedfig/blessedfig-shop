@@ -1,0 +1,91 @@
+{
+ "anilist_id": 136834,
+ "title": "Secrets of the Silent Witch",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/136834",
+  "https://api.mangaupdates.com/v1/series/40083725069"
+ ],
+ "premise": "Monica Everett, the 'Silent Witch', is the only mage who can cast without chanting and once drove off a legendary Black Dragon, but she learned silent magic only because she is painfully shy (Yen Press blurb via AniList and MU). The Seven Sages send her undercover to an academy to protect the Second Prince without revealing who she is (blurb). Manga of a light novel; ongoing; MU lists student council, nobility and subtle romance.",
+ "life_message": "A shy, anxious person can grow in courage and connection by using her gifts to protect others.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Magic fights against 'evils targeting the young royal' and a dragon (blurb); detail unknown (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Assassination threats to the prince implied (blurb); AniList Tragedy at low rank."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "MU Subtle Romance."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not checked (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Extreme shyness and social anxiety as core trait (blurb); AniList Hikikomori."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Undercover deception for a mission."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Light-novel franchise."}
+ ],
+ "lenses": [
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Overcoming shyness; duty and protection; coming of age",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Monica's humility and service to protect the prince.", "concerns": "Witch title and magic as heroine's gift; undercover deception."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humility of a powerful but self-effacing heroine.", "concerns": "Witchcraft positively named."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Faithfulness in an assigned duty.", "concerns": "Heroine is a 'witch'; spellcasting central."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Growth in courage; serving others.", "concerns": "Witch and magic framing."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "A timid person made bold.", "concerns": "Witchcraft as heroic power."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Duty within lawful authority.", "concerns": "Magic framed as skill."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation of protection.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Growing in love and courage.", "concerns": "Magic."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Fantasy virtue in the Lewis tradition.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humility.", "concerns": "Combat magic and royal court."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Developing talents; service.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Anxiety shown with sympathy.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Duty and modesty of character.", "concerns": "Sihr-like magic shown positively."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Dharma of a protector; humility.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Quiet, non-boastful power used to protect.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Sympathetic portrayal of social anxiety; capable female lead.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Personal growth and competence.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Duty, service to the crown.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Humble service.", "concerns": "Witch heroine and magic."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Gentle character.", "concerns": "Magic and witchcraft central."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Overcoming fear.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of the shy and different.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "S", "weight": "Minor", "aligns": "A witch heroine portrayed with respect.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity and quiet service.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Protecting others with humility.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Service and education.", "concerns": "Magic."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Overcoming barriers to communication.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individual power mastered.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Modesty and duty.", "concerns": "Sorcery theme."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Learning and responsibility.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion of the anxious and shy.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Monica avoids glory and recognition (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Follows the Seven Sages' orders (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Duty to the kingdom and the prince."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Nobility, royalty and sages (MU)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Magic treated as a learned discipline."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Personal growth alongside duty."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Puritan"],
+  "japan": "Monica's extreme shyness and the academy's student council setting echo Japanese school-story conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; growth theme implied by blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Character-driven fantasy; no argued worldview in the sources."
+ },
+ "winners_losers": "Monica and the prince she protects have sympathy; unnamed 'evils' targeting the royal are the threat.",
+ "to_verify": [
+  "Violence level in later volumes",
+  "How anxiety is depicted and whether it is mocked",
+  "Romance development",
+  "Villains' motives"
+ ]
+}

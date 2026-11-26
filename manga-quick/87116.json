@@ -1,0 +1,86 @@
+{
+ "anilist_id": 87116,
+ "title": "Searching for the Comet",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/87116", "https://api.mangaupdates.com/v1/series/62408456535"],
+ "premise": "High school astronomy club member Kawai grows close to classmate Ohara while preparing their last school-festival exhibit, and has loved him since seeing him cry under the planetarium's fake stars (MangaPlaza blurb via AniList; MangaUpdates). After graduation their careers pull them apart despite mutual feelings, and the story follows them into adulthood. A one-volume romance.",
+ "life_message": "Love that keeps missing its moment can still be found again if you keep looking (to verify).",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "MangaUpdates lists sex friends, oral sex and a sexually active couple; MangaDex 'suggestive'; timing relative to high school to verify."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Painful love; giving up a dream (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Sex-friend arrangement (MangaUpdates)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"},
+  {"lens": "Naturalism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Love across time; missed chances; dreams and careers",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Kawai's constancy toward Ohara over years.", "concerns": "Same-sex romance with a sex-friend phase."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Wonder at the heavens in the astronomy club.", "concerns": "Same-sex sexual relationship."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Faithful longing.", "concerns": "Gay romance and sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Talking point on choices after school.", "concerns": "Same-sex sex outside commitment."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex sexual content."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Creation's wonder (stars) as backdrop.", "concerns": "Lascivious content."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Careers as vocation.", "concerns": "Synod differences on same-sex romance."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Steadfast love.", "concerns": "Traditional bodies object; sex friends."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Gentle, literary romance.", "concerns": "Sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly romance; sex."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Chastity; same-sex."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Gay love affirmed with tenderness.", "concerns": "Sex-friend phase."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex sexual content."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Pursuit of one's path (career).", "concerns": "Same-sex love (views vary)."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Impermanence of youth and closeness.", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Queer love realistically told.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Science hobby and human love.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Constancy.", "concerns": "Same-sex sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex; passions."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Homosexual relations."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Hope and seeking.", "concerns": "Sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Worth of LGBTQ love.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Stars and cycles of time.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "School festival and seasons.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work lives.", "concerns": "Same-sex; lust."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Harmony of science and life.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication restored.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Following desire.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Forbidden relations."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Commitment found.", "concerns": "Sex-friend phase."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Inclusive love story.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Feelings kept private rather than confronted."},
+   "Order vs freedom": {"pos": 6, "evidence": "Each follows his own career path (MangaUpdates)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Classmates and club; family absent."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Classmate peers."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Astronomy and modern careers."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Love pursued over convention."}
+  },
+  "closest": ["New Netherland", "Yankeedom", "Catholic Europe"],
+  "japan": "The last school festival (bunkasai) and diverging post-graduation paths are Japanese school-life milestones."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurb is lyrical ('like shooting stars'); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Meaning is carried by mood and imagery."
+ },
+ "winners_losers": "Kawai and Ohara both get sympathy; time and circumstance are the obstacles.",
+ "to_verify": [
+  "Whether sexual content occurs during high school or only as adults.",
+  "Ending: whether they end together."
+ ]
+}

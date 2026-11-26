@@ -1,0 +1,90 @@
+{
+ "anilist_id": 97391,
+ "title": "Usotoki Rhetoric",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/97391",
+  "https://api.mangaupdates.com/v1/series/69930946837"
+ ],
+ "premise": "In 1926 Japan, 16-year-old Kanoko Urabe can hear when someone is lying, and her village shunned her for exposing lies. Starving in the city of Tsukumoya, she meets Souma Iwai, a gifted but penniless detective who values her ability and hires her as his assistant; together they solve cases as she builds a new life (AniList; One Peace Books blurb via MU). Ten volumes.",
+ "life_message": "Honesty matters, but so does kindness in how truth is used; a found family can replace a home that rejected you.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "Crime and murder cases (MU Murder/s, Crime/s); capped without review."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Mystery tension (AniList Mystery, Thriller)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Subtle, slow romance with an older detective (MU Subtle Romance, Age Gap); MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Ostracism and low self-confidence (blurb; MU Lack of Self-Confidence)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Little."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Truthfulness and its costs; found family; justice through detection",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 8, "sanctity": 4, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Truth valued (eighth commandment); Souma's charity to a starving girl.", "concerns": "Her power is supernatural-like."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Honesty and humble poverty.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Truthfulness and justice.", "concerns": "Murder cases."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Truth sets free; welcome to outcast.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Discernment of lies.", "concerns": "Unexplained power."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Ninth commandment honored.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Honest vocation.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Care for the poor and outcast.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Moral mystery stories.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Simple honesty.", "concerns": "Crime focus."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Honesty and work.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Outcast girl given dignity; lesbian character included (MU).", "concerns": "Age gap."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Truthfulness (sidq).", "concerns": "Mixed-gender cohabiting work."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Satya (truth).", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Right speech central.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Female assistant valued for her skill.", "concerns": "Older man and teen romance subtext."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Reasoning detective.", "concerns": "Lie-hearing ability as fantasy."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Honesty and period setting.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Truthfulness.", "concerns": "Supernatural power."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Truth.", "concerns": "Paranormal ability."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Truth over error.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inclusion of an outcast.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Gift respected, not demonized.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Makoto (sincerity) at the heart.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Sach (truthful living).", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Truthfulness as foundation.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Live with the truth.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Exposing deceit.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "A", "weight": "Minor", "aligns": "Keep far from falsehood.", "concerns": "Little."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Honesty.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice and honesty.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Disputes solved by detection, not vengeance (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Cases resolved with police (AniList Police)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Found family replaces rejecting village (AniList Found Family)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Employer-assistant, but he values her (blurb)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Taisho-Showa period; reason plus gift (MU)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Poverty and food alongside growth (MU Poor Protagonist)."}
+  },
+  "closest": ["Puritan", "Yankeedom", "Catholic Europe"],
+  "japan": "The village ostracizing a girl who disrupts harmony with uncomfortable truths reflects Japanese norms about tatemae (public face)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "Kanoko and Souma flourish together; the villagers who shunned her are not detailed.",
+ "to_verify": [
+  "No review opened.",
+  "Whether the age-gap romance becomes explicit.",
+  "Lesbian character (MU) details."
+ ]
+}

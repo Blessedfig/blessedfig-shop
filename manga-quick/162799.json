@@ -1,0 +1,94 @@
+{
+ "anilist_id": 162799,
+ "title": "Cosmos",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/162799",
+  "https://api.mangaupdates.com/v1/series/27150025819",
+  "https://www.animenewsnetwork.com/seasonal/2025/spring/cosmos/.222916"
+ ],
+ "premise": "High schooler Kaede, who can smell lies, discovers that a missing classmate is an alien wearing a human suit (Viz blurb via AniList; ANN). Rin, a ruthless investigator for an intergalactic insurance agency that handles aliens on Earth, recruits him, leading to fights and cases involving stranded or dying aliens (ANN). Ongoing seinen series by the creator of Beelzebub; Viz rates it T; won the Shogakukan Manga Award (MU).",
+ "life_message": "Outsiders are still persons, and seeing through lies should lead to empathy rather than cold judgment.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "'Epic battle on a commuter train' (Viz blurb); MU Violence, Attempted Murder, Murder/s."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Alien in a 'human flesh suit'; tragic dying alien (blurb, ANN); AniList Tragedy."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Not mentioned by ANN; no romance tags (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "T rating; not checked (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grief over a classmate's unreachable dream (ANN)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Lying is a theme; detected rather than modeled."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Ultraman/tokusatsu jokes (ANN)."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Empathy for outsiders and immigrants; honesty versus lies",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Kaede treats aliens as persons with dignity; truth-telling matters.", "concerns": "Some violence; aliens hidden in human skins may unsettle."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Compassion for the stranger and the dying alien.", "concerns": "Little spiritual framing."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Honesty: Kaede can smell lies.", "concerns": "Mild violence; secular worldview."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Welcoming the stranger (aliens as immigrants).", "concerns": "Action violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Truth exposed; kindness to outsiders.", "concerns": "Body-horror imagery of skin suits."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Ninth-commandment interest in truth.", "concerns": "Mild violence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Kaede's job as vocation serving neighbors.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Works of mercy toward stranded aliens.", "concerns": "Action violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Dignity of every being, framed through Kaede.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Compassion for the vulnerable stranger.", "concerns": "Fight scenes resolve conflicts."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Honesty and service.", "concerns": "Some violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Hospitality to migrants mirrored in alien cases.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Truthfulness and kindness to travelers.", "concerns": "Violence; T-rated content unchecked."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Satya (truth) and compassion.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion for suffering beings; right speech.", "concerns": "Fights."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Empathy for immigrants and outsiders.", "concerns": "Corporate detachment shown, framed critically."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy and honesty as everyday ethics.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Honesty and a young man's diligence.", "concerns": "Immigration allegory may read as political to some."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Truth and compassion.", "concerns": "Violence and body horror."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Honesty valued.", "concerns": "Violent action as entertainment."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Seeing through false appearances.", "concerns": "Disease and death of an alien shown."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth of outsiders.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Harm none; care for strangers.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity (makoto) embodied by a lie-detecting hero.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Truthful living; defending the vulnerable.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Truthfulness and the oneness of all peoples.", "concerns": "Some violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Seeking truth by observation.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Skepticism toward official stories.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "'Love the stranger'; keep far from falsehood.", "concerns": "Time spent on entertainment."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Welcoming the stranger.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice and empathy for outsiders.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Aliens treated as persons by Kaede regardless of status (ANN)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Agency rules exist; Kaede follows conscience over corporate procedure."},
+   "Civic vs kin": {"pos": 3, "evidence": "Care extended to strangers and outsiders."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Workplace boss and recruit roles; little emphasis on rank."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Sci-fi, secular modern Japan."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Aliens chasing personal dreams on Earth (ANN)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "New Netherland"],
+  "japan": "Workplace hierarchy and tokusatsu (Ultraman) references reflect Japanese pop-culture norms (ANN)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN: empathy theme comes through Kaede's character against Rin's corporate detachment; not called preachy.",
+  "personified": [
+   {"character": "Rin", "ideology": "Detached, profit-minded professionalism", "role": "Foil", "treatment": "Fair"}
+  ],
+  "opposing_views": "Fair",
+  "note": "Rin is a capable, sympathetic partner rather than a villain, so the contrast is mild (to verify)."
+ },
+ "winners_losers": "Kaede's empathy wins sympathy; aliens as outsiders are treated as persons, while purely transactional handling is gently questioned.",
+ "to_verify": [
+  "Violence level beyond volume 1",
+  "Any fan service (none noted by ANN)",
+  "Whether the immigration allegory becomes more explicit in later volumes",
+  "Rin's treatment (ANN vol. 1 only)"
+ ]
+}

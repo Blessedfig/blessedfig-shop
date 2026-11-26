@@ -1,0 +1,107 @@
+{
+  "anilist_id": 37760,
+  "title": "Hanma Baki",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/List_of_Baki_the_Grappler_characters",
+    "https://anilist.co/manga/37760",
+    "https://www.mangaupdates.com/series/se0wcvx",
+    "https://www.animenewsnetwork.com/cms/.233942",
+    "https://www.animenewsnetwork.com/review/baki-the-grappler-volume-1/manga/.228590"
+  ],
+  "premise": "The third Baki series (Son of Ogre) follows teenage fighter Baki Hanma as he trains toward a final showdown with his father Yujiro, 'the strongest being on earth', who killed Baki's mother. Along the way Baki faces superhuman opponents, including Pickle, a prehistoric caveman. The series climaxes in a brutal father-son fight that ends in mutual recognition, framed in part through an imagined family dinner (Wikipedia character list; AniList; MU desc; ANN reviews of the earlier series for tone).",
+  "life_message": "Strength is the measure of a man, but even the strongest must finally recognize his son.",
+  "overall": 8,
+  "content": [
+    {"category": "Violence", "score": 8, "framing": "Endorsed", "note": "Graphic, bloody no-rules fights and a gruesome father-son battle leaving Baki broken (Wikipedia; AniList Gore; ANN reviews of the series: 'blood and guts', heavy and graphic)."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Psychotic, gloating antagonist Yujiro; near-death injuries (ANN review; Wikipedia)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "AniList Rape spoiler tag at low rank; ANN notes uncomfortable 'Oedipal' scenes in the earlier series. Not confirmed for this series, so capped (to verify)."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Rude, intimidating characters (MU Rude Character/s, Intimidation) (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted (to verify)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Family trauma from the mother's killing; obsession with killing the father (Wikipedia)."},
+    {"category": "Imitable behavior", "score": 4, "framing": "Endorsed", "note": "Extreme fighting and training as the path to worth; ANN flags violence and bullying warnings (ANN review; Wikipedia)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+  ],
+  "lenses": [
+    {"lens": "Might makes right", "strength": 8, "stance": "Explored"},
+    {"lens": "Classical virtue ethics", "strength": 3, "stance": "Explored"},
+    {"lens": "Absurdism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Might makes right; father-son rivalry; martial honor",
+  "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 3},
+  "foundations": {"care": 2, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 6, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Baki fights fairly and longs for a normal family meal with his father.", "concerns": "Revenge as life goal; gratuitous gore; murder by Yujiro."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "A son seeking reconciliation, however violently.", "concerns": "Anger and pride as passions glorified."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Discipline and perseverance.", "concerns": "Graphic violence; revenge rejected in Romans 12:19."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Father-son reconciliation theme.", "concerns": "Gore weighed by purpose: largely spectacle."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Graphic violence; 'demon face' imagery."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Fifth commandment strained but the son seeks his father.", "concerns": "Sixth commandment: killing intent as goal."},
+    {"frame": "Lutheran", "grade": "D", "weight": "Discuss", "aligns": "Family longing.", "concerns": "Violence and revenge."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Glorified violence."},
+    {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Discuss", "aligns": "Over-the-top satire of masculinity can be discussed.", "concerns": "Gore."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence is the entire subject."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Desire for family unity.", "concerns": "Violent media."},
+    {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Intergenerational abuse made visible.", "concerns": "Glorified violence; poor treatment of women (ANN)."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Son's respect for a parent in the end.", "concerns": "Revenge and brutality; possible sexual content."},
+    {"frame": "Hindu", "grade": "D", "weight": "Discuss", "aligns": "Warrior discipline.", "concerns": "Violence against a parent; ahimsa."},
+    {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Final fight ends in mutual recognition rather than killing.", "concerns": "Killing intent and harm throughout."},
+    {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Shows toxic father as abusive.", "concerns": "Hypermasculine violence; women poorly treated."},
+    {"frame": "Secular humanist", "grade": "D", "weight": "Discuss", "aligns": "Absurd exaggeration invites critique.", "concerns": "Cruelty."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Strength, training and a son earning his father's respect.", "concerns": "Gratuitous gore."},
+    {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Glorified violence."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violent entertainment (Psalm 11:5)."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Physical injury dwelt upon."},
+    {"frame": "Unitarian Universalist", "grade": "D", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Glorified violence."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Warrior virtues honored in some Heathen paths.", "concerns": "Harm far beyond self-defense."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Martial tradition and filial reconciliation.", "concerns": "Blood and death (kegare)."},
+    {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Courage and discipline.", "concerns": "Anger and ego (krodh, ahankar) celebrated."},
+    {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence contrary to unity."},
+    {"frame": "Scientologist", "grade": "D", "weight": "Discuss", "aligns": "Overcoming limits.", "concerns": "Glorified violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Self-preservation and strength.", "concerns": "Harm to the weak and to women."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honoring a parent, of a sort.", "concerns": "Violence and revenge."},
+    {"frame": "Conservative Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "D", "weight": "Discuss", "aligns": "Abuse made visible.", "concerns": "Glorified violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 8, "evidence": "Every slight answered by combat; strength defines worth."},
+      "Order vs freedom": {"pos": 7, "evidence": "No-rules underground arena outside the law."},
+      "Civic vs kin": {"pos": 7, "evidence": "Father-son blood bond and vengeance for a mother drive the story."},
+      "Equality vs hierarchy": {"pos": 7, "evidence": "Ranking of the strongest; Yujiro at the top."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Martial arts lineages and titles (Sea King) honored."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "Raw physical survival and dominance."}
+    },
+    "closest": ["Cavalier", "El Norte", "Tidewater"],
+    "japan": "Martial-arts lineages, ranks and the father as an overwhelming patriarch reflect Japanese budo and family-hierarchy tropes."
+  },
+  "delivery": {
+    "style": "Explicit",
+    "preachiness": 4,
+    "evidence": "Characters openly declare strength the measure of worth; ANN calls the tone deliberately over-the-top (to verify).",
+    "personified": [
+      {
+        "character": "Yujiro Hanma",
+        "ideology": "the strongest rules",
+        "role": "Villain",
+        "treatment": "Mixed"
+      },
+      {
+        "character": "Baki Hanma",
+        "ideology": "fighting fairly and honorably",
+        "role": "Hero",
+        "treatment": "Sympathetic"
+      }
+    ],
+    "opposing_views": "Mixed",
+    "note": "Yujiro is monstrous yet admired, and the climax ends in mutual recognition rather than condemnation."
+  },
+  "winners_losers": "Baki and Yujiro end in a tie of mutual respect; victims of Yujiro, including Baki's mother, are casualties. Sympathy goes to strength and fighting spirit.",
+  "to_verify": [
+    "ANN reviews opened cover Baki the Grappler (earlier series); content of this series inferred",
+    "AniList Rape and Cannibalism spoiler tags: what scenes they refer to",
+    "Wikipedia cache file is the character list, not a series article",
+    "Kodama age rating"
+  ]
+}

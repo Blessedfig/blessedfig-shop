@@ -1,0 +1,369 @@
+{
+ "anilist_id": 46815,
+ "title": "Itsuwaribito",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/46815",
+  "https://api.mangaupdates.com/v1/series/8389921691",
+  "https://animenewsnetwork.com/review/itsuwaribito/gn-3"
+ ],
+ "premise": "As a boy Utsuho vowed always to tell the truth, but his honesty let bandits destroy his village of orphans, raised by a monk; he then decided to lie from that day on (Viz blurb; ANN review). Inspired by the monk to help people, he uses deception and trickery to do good across a feudal-Japan-style land. A 23-volume shonen adventure; a review of volume 3 describes con men, villains who set fires, and a town captivated by a cult leader.",
+ "life_message": "It argues that intentions matter more than literal honesty, and that cleverness should serve others.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Bandit attack, fistfights, murders (tags; review); not described as graphic."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fires and danger."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Subtle romance."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Grief, dead family; 'Abuse' category in catalog."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Endorsed",
+   "note": "Lying and trickery framed as heroic."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Deception for good; found family; justice through cleverness",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 7,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Serving others; monk mentor.",
+   "concerns": "Lying framed as virtue (CCC 2482)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mercy and help to the needy.",
+   "concerns": "Deception celebrated."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping people.",
+   "concerns": "Lying as heroism; cult portrayal."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping the oppressed.",
+   "concerns": "Lying justified by outcomes."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice for victims.",
+   "concerns": "Deception; cult leader."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Common-grace justice.",
+   "concerns": "Ends justify deceptive means."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Serving the neighbor.",
+   "concerns": "Bearing false witness praised."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Works of mercy.",
+   "concerns": "Dishonesty modeled."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral puzzle on truth.",
+   "concerns": "Lying as virtue."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Non-lethal trickery over force (to verify).",
+   "concerns": "Fights; deception."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service.",
+   "concerns": "Lying heroic."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defends the vulnerable.",
+   "concerns": "Lying; murder plots."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice and helping others.",
+   "concerns": "Lying praised."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Monk's teaching to help.",
+   "concerns": "Untruthfulness."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Skillful means echo; monk mentor.",
+   "concerns": "False speech precept."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Exposes swindlers and cult manipulation.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Skeptic of a cult leader.",
+   "concerns": "Lies as tool."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage and justice.",
+   "concerns": "Moral relativism on honesty."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping others.",
+   "concerns": "Lying praised."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Exposing a cult leader.",
+   "concerns": "Lying; violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming evil.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice for the vulnerable.",
+   "concerns": "Lying."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little at odds.",
+   "concerns": "Manipulation used."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere heart beneath lies.",
+   "concerns": "Makoto (sincerity) challenged."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed.",
+   "concerns": "Truthfulness central to Sikh ethics."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Truthfulness foundational."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Helping others.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Cunning self-reliance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping others.",
+   "concerns": "Deception celebrated."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Lying."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice.",
+   "concerns": "Lying."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Personal answers to wrongs."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Roams outside law."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Found family of companions."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Monk mentor; otherwise loose."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Feudal setting, monk teaching."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival amid bandits."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "El Norte",
+   "First Nation"
+  ],
+  "japan": "The wandering trickster in feudal Japan and the tanuki shape-shifter companion draw on Japanese folklore."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Blurb states Utsuho's vow to lie for good; review notes no moralizing.",
+  "personified": [
+   {
+    "character": "Utsuho",
+    "ideology": "Lying for good outcomes",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The premise states its truth-versus-lying theme openly."
+ },
+ "winners_losers": "Utsuho outwits swindlers and a cult leader; the story sympathizes with well-meant deception.",
+ "to_verify": [
+  "Later-volume violence and the 'Abuse' category.",
+  "Whether the story later questions lying."
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "anilist_id": 87347,
+ "title": "Given",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Given_(manga)",
+  "https://anilist.co/manga/87347",
+  "https://www.mangaupdates.com/series/sw6yr8u"
+ ],
+ "premise": "Four students form a rock band. Guitarist Uenoyama falls for vocalist Mafuyu, whose songs grow out of grief over his former boyfriend's suicide, and side arcs follow the band's older members and Mafuyu's childhood friends.",
+ "life_message": "A good life is working through grief and finding your voice through music and love.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little violence (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Grief and tragedy (Wikipedia)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Several male-male romantic relationships; explicitness to verify (Wikipedia; Boys' Love 91% tag; MangaDex 'suggestive')."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Casual language likely (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "A suicide followed drinking; smoking possible (Wikipedia) (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "A past suicide shapes the story; grief and recovery (Wikipedia; Suicide signal; Rehabilitation tag)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Little to raise."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime and film."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 6,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism, Progressivism",
+ "axes": {
+  "economic": 5,
+  "social": 2,
+  "cultural": 3,
+  "community": 5
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Healing from grief; dignity of persons.",
+   "concerns": "Same-sex romance central (CCC 2357-2359); suicide."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Grief and memory of the dead.",
+   "concerns": "Same-sex romance central; suicide."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for the grieving.",
+   "concerns": "Same-sex romance central; suicide and alcohol."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Discussion of grief and hope.",
+   "concerns": "Same-sex relationships affirmed."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Healing from loss.",
+   "concerns": "Same-sex romance central."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Grief handled honestly; PC(USA) families differ.",
+   "concerns": "Same-sex romance in conservative churches."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Grief and recovery; LCMS and ELCA differ.",
+   "concerns": "Same-sex themes; suicide."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing community; UMC and Global Methodist differ.",
+   "concerns": "Same-sex themes; suicide."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Pastoral grief themes; Episcopal and ACNA differ.",
+   "concerns": "Same-sex themes."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Community support in grief.",
+   "concerns": "Same-sex romance; worldly music scene."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion in grief.",
+   "concerns": "Same-sex romance contrasts with the Proclamation."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Affirming LGBTQ portrayal; grief care.",
+   "concerns": "Suicide needs mental-health framing."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Patience in grief.",
+   "concerns": "Same-sex romance central; alcohol."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Duty to friends; music as devotion.",
+   "concerns": "Varying views on same-sex love."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Attachment and letting go.",
+   "concerns": "Intoxicants; suicide."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "LGBTQ representation; grief handled sensitively.",
+   "concerns": "Suicide safe-messaging."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Empathy and recovery.",
+   "concerns": "Heavy topics for younger teens."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship and creativity.",
+   "concerns": "Same-sex romance presented to teens; suicide."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for the grieving Mafuyu.",
+   "concerns": "Same-sex romance central; suicide after drinking."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship and healing after loss.",
+   "concerns": "Same-sex romance affirmed as the core story."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Grief transformed into creative expression.",
+   "concerns": "Suicide and grief dwelt on; limited public teaching on same-sex love (to verify)."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Same-sex love treated as ordinary; worth of each band member.",
+   "concerns": "Suicide needs careful framing."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love honored between consenting partners; music as healing.",
+   "concerns": "Little beyond the suicide backstory."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Remembering the dead with sincerity.",
+   "concerns": "Death and grief, kegare concerns."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work in music; sharing grief.",
+   "concerns": "Same-sex romance; drinking and suicide."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Arts as service; consolation in grief.",
+   "concerns": "Same-sex romance outside teaching on marriage; suicide."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Communication through music restores affinity (ARC).",
+   "concerns": "Suicide and drinking."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-expression and authentic love.",
+   "concerns": "Little beyond the suicide backstory."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Remembrance and comfort for mourners.",
+   "concerns": "Same-sex romance central (Leviticus 18:22); suicide."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Comforting mourners; dignity of each person.",
+   "concerns": "Suicide; views on same-sex love vary by congregation."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and healing after loss.",
+   "concerns": "Suicide needs mental-health framing."
+  }
+ ],
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No source describes the delivery; summaries show the message carried by plot and character choices (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Grief and same-sex love are presented through the band members' relationships and music rather than argued."
+ },
+ "winners_losers": "Mafuyu and Uenoyama's healing romance gets full sympathy; the story affirms same-sex love as ordinary.",
+ "to_verify": [
+  "Explicitness of sexual scenes (later volumes)",
+  "SuBLime age rating",
+  "Smoking and drinking",
+  "Only one non-database source read (Wikipedia)",
+  "Fear and intensity recheck (2026-11-22): the AniList Tragedy tag points to Yuki's past suicide, already scored under Mental health (6) from the cited Wikipedia article; no source suggests frightening content, so Fear and intensity left at 3 (no new fetch spent)",
+  "Delivery block (2026-11-23): no source describes how the message is delivered; style, preachiness, personified rows and opposing_views are inferred from summaries"
+ ]
+}

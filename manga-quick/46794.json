@@ -1,0 +1,91 @@
+{
+ "anilist_id": 46794,
+ "title": "LDK",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/L_DK",
+  "https://anilist.co/manga/46794",
+  "https://www.mangaupdates.com/series/2cjehx9"
+ ],
+ "premise": "Sixteen-year-old Aoi Nishimori lives alone after refusing to move away with her parents. The school 'prince' Shusei Kugayama, who coldly rejected her best friend, moves in next door, and after a kitchen fire floods his apartment he moves into hers. Keeping their cohabitation secret, they fall in love while dealing with rivals, Shusei's family and his past relationship.",
+ "life_message": "Love means protecting and trusting each other, and growing past old hurts together.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Aoi is threatened by delinquents and rescued (Wikipedia)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Romantic drama."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Teen couple living together with sexual tension; inappropriate remarks about underwear; an older brother kisses Aoi (Wikipedia; MangaUpdates Sexual Tension, Live-in Lover)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Teasing and rude rejections (Wikipedia)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Painful first love (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Minors cohabiting in secret; father agrees on condition they not have sex (Wikipedia; MangaUpdates Secret Relationship)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Teen romance; secret cohabitation; jealousy and trust",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Protective, faithful love between Aoi and Shusei.", "concerns": "Teens living together; sexual tension."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Cohabitation of minors stirs passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Father insists on no sex.", "concerns": "Secret live-in teen romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Boundaries discussed by a parent.", "concerns": "Cohabitation and deceit toward parents."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Worldly romance and living together."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Fifth commandment surfaces with Aoi's father.", "concerns": "Secrecy and sexual tension."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Care for one another.", "concerns": "Cohabitation."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Protective love.", "concerns": "Teen cohabitation."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Romantic growth.", "concerns": "Living together as minors."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Worldly romance and secrecy."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Commitment honored by the father's condition.", "concerns": "Law of chastity tested by cohabiting teens."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Affection and trust.", "concerns": "Boundary-crossing comments; brother's kiss without consent."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Unrelated teens alone together; kisses."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Parental role reasserted.", "concerns": "Defying parents; cohabitation."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Letting go of past hurts.", "concerns": "Attachment and jealousy."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Female lead stands up for her friend.", "concerns": "Consent issues (Soju's kiss, underwear remarks)."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Honest communication.", "concerns": "Consent issues."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Father's protective role.", "concerns": "Minors living together, hidden from parents."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Passions excited; cohabitation."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality concerns."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love over coldness.", "concerns": "Purity."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Autonomy and affection.", "concerns": "Consent issues."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Autonomy.", "concerns": "Consent."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Household harmony.", "concerns": "Secrecy from family."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Relationship outside marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Chastity and parental consent."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Second dynamic: partnership.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Autonomy from parents.", "concerns": "Unwanted kiss."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Yichud and tzniut violated."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Commitment.", "concerns": "Teen cohabitation."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Healthy relationship talk.", "concerns": "Consent."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Aoi confronts Shusei verbally over her friend (Wikipedia)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Teens live by their own rules away from parents."},
+   "Civic vs kin": {"pos": 5, "evidence": "Families intrude but couple comes first."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Peers; parental authority bargained with."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern urban teen life."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Feelings and romance central."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "The Midlands"],
+  "japan": "The school 'prince' trope and teens living alone in apartments reflect Japanese shoujo conventions."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN (via Wikipedia) praised use of standard romance tropes; no message stated.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A trope-driven romance with values implied by events."
+ },
+ "winners_losers": "Aoi and Shusei end in love; rivals step aside.",
+ "to_verify": [
+  "Any sexual content in later volumes",
+  "Kodansha USA age rating",
+  "Wikipedia says serialization 'since 2009' but MangaUpdates lists 25 volumes complete"
+ ]
+}

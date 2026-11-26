@@ -1,0 +1,363 @@
+{
+ "anilist_id": 31274,
+ "title": "RustBlaster",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31274",
+  "https://api.mangaupdates.com/v1/series/74000814783"
+ ],
+ "premise": "In a world where humans and stronger vampires coexist, Millennium Academy trains elite vampires to keep the balance. Aldred, the least vampire-like student there, meets Kei, a human transfer student, and the two become bound up in the fate of their world on the night of the Twin Moons that brings a cycle of blood and chaos every millennium. A single-volume early work by the creator of Black Butler (Yen Press blurb via AniList and MangaUpdates).",
+ "life_message": "A good life means friendship and loyalty across the lines that divide peoples.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Supernatural combat with weapons (MangaUpdates; capped, to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Tragedy and imminent death (AniList, MangaUpdates)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Looming death; ambiguous ending (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Creator's later franchise draws readers."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Secular humanism; Communitarianism; Existentialism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship across human-vampire divide.",
+   "concerns": "Vampire lore."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyalty unto death.",
+   "concerns": "Vampires and blood."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-sacrificing friendship.",
+   "concerns": "Vampires and contracts."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship across difference.",
+   "concerns": "Vampire setting."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal friendship.",
+   "concerns": "Blood, contracts, dark powers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Tragedy shown honestly.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Bridging divided peoples.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gothic tragedy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Peace between peoples.",
+   "concerns": "Weapons and combat."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Vampires and combat."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Coexistence of different peoples.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal friendship.",
+   "concerns": "Vampire contracts and blood."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty to keep balance.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion across species.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Coexistence theme.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Friendship over prejudice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty and duty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Vampires; death."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyal friends.",
+   "concerns": "Vampires, blood, combat."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage.",
+   "concerns": "Death and fear."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Bridging difference.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Cycles of moons.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Balance between worlds.",
+   "concerns": "Blood (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defending others.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Unity of peoples.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Individual choice against fate.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyal friendship.",
+   "concerns": "Vampires."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Coexistence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Coexistence.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Elite vampires keep order by force."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Academy discipline."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Friendship over clan."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Elite academy ranks."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Millennial prophecy cycle."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival of the world at stake."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Orthodox Europe",
+   "Latin America"
+  ],
+  "japan": "An elite academy with ranked students reflects Japanese school-hierarchy settings, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Friendship theme carried by the plot."
+ },
+ "winners_losers": "Outcome ambiguous per MangaUpdates; sympathy goes to Aldred and Kei's friendship.",
+ "to_verify": [
+  "No review opened",
+  "Violence level from tags only",
+  "Ending ambiguous per MangaUpdates",
+  "MangaUpdates lists Shoujo genre while AniList lists Shounen"
+ ]
+}

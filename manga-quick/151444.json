@@ -1,0 +1,101 @@
+{
+ "anilist_id": 151444,
+ "title": "Mujina into the Deep",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/151444",
+  "https://www.mangaupdates.com/series/6m2gbm7",
+  "https://www.theouterhaven.net/2025/02/manga-review-mujina-into-the-deep-vol-1",
+  "https://viz.com/mujina-into-the-deep"
+ ],
+ "premise": "In a near-future Japan where rights are tied to a card that can be lost or bought, people without one are mujina with no legal protection. Ubume, a thirty-year-old mujina assassin, goes on the run after a failed job and, with overworked game developer Terumi, takes in Juno, a fifteen-year-old who lost her card to the people exploiting her; Ubume agrees to work off the huge price of Juno's new rights.",
+ "life_message": "In a society that sells human rights, people without protection survive by forming their own fragile bonds.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Neutral", "note": "Assassinations and sword fights with gore (AniList Gore; MU Blood and Gore, Violence; Outer Haven review)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Dystopian surveillance, a hunted protagonist and a dark mood (AniList Dystopian; MU Dark Ambience)."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Condemned", "note": "Nudity, a fellatio scene, prostitution and sexual exploitation of a teen (MU Adult genre and categories; MangaDex erotica; review notes a prostitution ring)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Not documented; likely coarse (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "MU Drug/s (one vote; to verify)."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Terumi's suicidal thoughts; bullying of Juno (Outer Haven review; MU Suicide/s; batch MU category)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Killing for pay as the path out of rightlessness."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Streamer culture (Tenki) satirized."}
+ ],
+ "lenses": [
+  {"lens": "Critical theory", "strength": 6, "stance": "Explored"},
+  {"lens": "Marxism", "strength": 4, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Dystopian critique of rights as property; class struggle; survival by violence",
+ "axes": {"economic": 3, "social": 6, "cultural": 7, "community": 6},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 8, "sanctity": 2, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Exposes a society that denies the dignity of the poor, the old and the young.", "concerns": "Explicit sexual content and killing as the way to rescue."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Shows the misery of a world without mercy.", "concerns": "Passions inflamed by nudity and gore; no repentance path."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Sin and exploitation shown as destructive.", "concerns": "Sexual scenes, prostitution, graphic murder."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Protecting a vulnerable teen is the moral core.", "concerns": "Sexual content and an assassin heroine."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Evil of trafficking shown plainly.", "concerns": "Explicit sexuality and gore."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Truthful picture of a fallen, unjust order.", "concerns": "WLC Q139 concerns: lascivious pictures throughout."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Neighbor-love for the rightless.", "concerns": "Graphic sex and violence for adult readers only."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Social holiness: rights and dignity for outcasts.", "concerns": "Explicit content; killing to pay a debt."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Serious moral vision about who counts as a person.", "concerns": "Content level."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Critique of a violent state order.", "concerns": "Heroic killing and sexual content throughout."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Care for a child in danger.", "concerns": "Sexual content and violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Justice for the excluded; critique of surveillance and ageism.", "concerns": "Sexual exploitation of a minor shown."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Condemns injustice (zulm) against the weak.", "concerns": "Nudity, sex outside marriage and killing."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Shows adharma in a society without duty to the weak.", "concerns": "Tamasic violence and sexuality."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Suffering of craving and cruelty laid bare.", "concerns": "Precepts against killing and sexual misconduct broken on page."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Critique of rights as commodities, ageism and surveillance.", "concerns": "Sexualization of a teen victim on the page."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Human rights as universal, not purchasable.", "concerns": "Cruelty and sexual violence shown."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Warns against state control and loss of liberty.", "concerns": "Gratuitous sex and gore; assassin protagonist."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Exposes cruelty of the system.", "concerns": "Sexual content and violence excite the passions."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Shows human governments failing.", "concerns": "Violence and immorality as content."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Longing for freedom from fear.", "concerns": "Saturated with fear, harm and degradation."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Inherent worth of every person against a rights market.", "concerns": "Exploitation shown explicitly."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Autonomy and resistance to control.", "concerns": "Harm none broken constantly."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Bonds formed among outcasts.", "concerns": "Blood and death (kegare) everywhere."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Defending the oppressed against an unjust system.", "concerns": "Lust and killing for hire."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Oneness of humanity against a caste of the rightless.", "concerns": "Violence and unchaste content."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Survival of self and group in a hostile world.", "concerns": "Murder as a trade."},
+  {"frame": "Satanist", "grade": "B", "weight": "Significant", "aligns": "Rebellion against arbitrary authority; bodily autonomy.", "concerns": "Harm to a child condemned by the Eleven Rules."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Every person bears dignity; exploitation condemned.", "concerns": "Tzniut and nivul peh; violence."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Justice for the stranger and the poor.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Prophetic justice themes.", "concerns": "Exploitation of a minor shown."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Without legal protection, mujina settle matters by their own blades."},
+   "Order vs freedom": {"pos": 8, "evidence": "Surveillance state is the threat; outlaws live outside its rules."},
+   "Civic vs kin": {"pos": 4, "evidence": "Found family of Ubume, Terumi and Juno rather than blood kin."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Rights-card caste system and an employer whose trust must be regained."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Technocratic future of monitors and cards; no religion shown."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Paying 800 million yen for Juno's rights; survival dominates."}
+  },
+  "closest": ["The Far West", "Orthodox Europe", "El Norte"],
+  "japan": "The mujina (badger) name draws on Japanese folklore of shape-shifting tricksters, applied to an underclass living on Tokyo rooftops."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 4,
+  "evidence": "Outer Haven praises the gritty dystopia without calling it preachy; themes carried by the rights-card system and plot (VIZ blurb).",
+  "personified": [
+   {"character": "Ubume", "ideology": "rightless survival through skill and violence", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Nive", "ideology": "rights as merchandise", "role": "Other", "treatment": "Mixed"},
+   {"character": "Tenki", "ideology": "streamer turned mujina, chaos for attention", "role": "Foil", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The critique of rights for sale is built into the setting rather than argued in speeches, per the available review."
+ },
+ "winners_losers": "The rightless get the story's sympathy; the system that sells rights and those who exploit Juno are shown as the problem.",
+ "to_verify": [
+  "No Wikipedia text in cache; one critic review (vol. 1) plus database tags",
+  "MU Child Rape and Sex Slave/s categories carry single votes; check how the abuse of Juno is depicted",
+  "VIZ age rating not shown on the series page (likely Mature)",
+  "Kept, not skipped: MU lists Adult and MangaDex erotica, but sources describe a dystopian action story with sexual content rather than sex at its core; check",
+  "Language level"
+ ]
+}

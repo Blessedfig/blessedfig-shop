@@ -1,0 +1,95 @@
+{
+  "anilist_id": 114898,
+  "title": "I Think I Turned My Childhood Friend Into a Girl",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/I_Think_I_Turned_My_Childhood_Friend_into_a_Girl",
+    "https://anilist.co/manga/114898",
+    "https://www.mangaupdates.com/series/bwhugc2/koisuru-otome-no-tsukurikata"
+  ],
+  "premise": "Popular high schooler Kenshirou Midou secretly loves cosmetics and practices makeup on his small, plain childhood friend Hiura. Hiura enjoys the feminine look, starts wearing the girls' uniform to school, and the two boys realize they are attracted to each other (Seven Seas blurb via AniList; Wikipedia).",
+  "life_message": "Being free to present yourself as you like, and to love regardless of gender, makes people happier and more themselves.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Light romantic comedy."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance between two boys, one cross-dressing (AniList Boys' Love 87; MU Shounen Ai); MangaDex rates it safe."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Kenshirou hides his hobby from almost everyone (AniList blurb)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Makeup and fashion tips; nothing risky."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Cosmetics are central (AniList Makeup 87)."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 7, "stance": "Affirmed"},
+    {"lens": "Progressivism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Postmodernism", "strength": 3, "stance": "Explored"},
+    {"lens": "Traditionalism", "strength": 3, "stance": "Critiqued"}
+  ],
+  "dominant": "Gender expression; love regardless of gender; hidden hobbies",
+  "axes": {"economic": 5, "social": 2, "cultural": 3, "community": 3},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 9},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Kenshirou and Hiura's long friendship and kindness to each other.", "concerns": "Hiura's cross-dressing and the boys' romance run against Church teaching on sex and gender."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Loyal friendship from childhood.", "concerns": "Gender seen as given; cross-dressing and same-sex attraction celebrated."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Friendship and honesty about a hidden hobby.", "concerns": "Cross-dressing (Deut. 22:5) and same-sex romance presented positively."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Accepting a friend as he is.", "concerns": "Gender expression and same-sex attraction as liberation."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Faithful friendship.", "concerns": "Cross-dressing and same-sex romance."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Friendship and talent in a craft.", "concerns": "Conservative churches object to cross-dressing romance; PC(USA) differs."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Love of neighbor; ELCA families more open.", "concerns": "LCMS and WELS object to gender-bending romance."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Acceptance; UMC affirming since 2024.", "concerns": "Holiness and Global Methodist families object."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Dignity of every person, as the Episcopal Church holds.", "concerns": "ACNA families would object."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Gentle story with no violence.", "concerns": "Plain-dress communities object to cross-dressing and same-sex romance."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Kindness and loyalty.", "concerns": "Gender is eternal in LDS teaching; cross-dressing romance conflicts."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Love 'regardless of gender', praised by a manga editor (Wikipedia).", "concerns": "English vol. 1 mislabeled Hiura as trans (Wikipedia)."},
+    {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Friendship and loyalty.", "concerns": "Men imitating women and same-sex attraction are central."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Gender fluidity has some places in Hindu tradition.", "concerns": "Many families hold traditional views."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "No harm, kindness and honesty between friends.", "concerns": "Views on same-sex love vary."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Gender expression and queer romance shown warmly.", "concerns": "Translation controversy over Hiura's identity (Wikipedia)."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Freedom of self-expression and consent.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Long friendship.", "concerns": "Gender nonconformity and same-sex romance aimed at teens."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Cross-dressing and same-sex romance."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Friendship.", "concerns": "Cross-dressing and same-sex romance are the premise."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Freedom from fear of others' judgment.", "concerns": "Families vary; teaching less public."},
+    {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Worth and dignity of a gender-nonconforming teen.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Freedom to be oneself, affirming of queer love.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity and beauty; cross-dressing has stage traditions in Japan.", "concerns": "No doctrine either way."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality of persons.", "concerns": "Traditional teaching on marriage; diaspora varies."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Rejection of prejudice.", "concerns": "Sexual relations limited to man-woman marriage."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determinism and communication.", "concerns": "Little stated."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-expression over social norms.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Friendship.", "concerns": "Cross-dressing (Deut. 22:5) and same-sex romance."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity of LGBTQ people (CJLS 2006).", "concerns": "Cross-dressing questions vary by congregation."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion of gender-diverse youth.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "No face-saving conflict noted; light comedy (AniList)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Hiura chooses to wear the girls' uniform to school (AniList blurb)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Kenshirou practices on his sisters before Hiura (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Childhood friends as equals."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Gender norms set aside for personal choice."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Makeup and dress as liberating self-expression (AniList blurb)."}
+    },
+    "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+    "japan": "Hiura fits the Japanese 'otokonoko' (feminine-presenting boy) type, a fashion and fiction category distinct from transgender identity (Wikipedia; MU)."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Wikipedia reception focuses on Hiura's cuteness and love 'regardless of gender'; no review calls it preachy (to verify).",
+    "personified": [
+      {"character": "Hiura Mihate", "ideology": "freedom of gender expression", "role": "Hero", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "None shown",
+    "note": "The theme is carried by the two boys' daily life and feelings; sources mention no character arguing the other side."
+  },
+  "winners_losers": "Hiura and Kenshirou grow closer and freer; sources name no losers. Sympathy goes to self-expression.",
+  "to_verify": [
+    "Whether classmates or family react negatively",
+    "Level of physical romance in later volumes",
+    "Seven Seas revised vol. 1 after mislabeling Hiura as a trans woman (Wikipedia; MU note); check which printing a family has",
+    "No English review was opened"
+  ]
+}

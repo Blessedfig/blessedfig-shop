@@ -1,0 +1,367 @@
+{
+ "anilist_id": 125434,
+ "title": "Peddler in Another World: I Can Go Back to My World Whenever I Want",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/125434",
+  "https://api.mangaupdates.com/v1/series/74783779034",
+  "https://www.animenewsnetwork.com/seasonal/2023/spring/peddler-in-another-world/.197102"
+ ],
+ "premise": "After quitting a toxic job, Shiro Amata finds that his late grandmother was a witch from another world reached through her closet, and gains a skill to exchange money between worlds (J-Novel Club blurb). He sells modern goods like matches to get rich, and an eight-year-old girl, Aina, comes to call him 'Papa' (ANN Manga Guide). Reviewers call it light and low-conflict.",
+ "life_message": "Escaping exploitative work to build a kind, profitable small business is a good life.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Little conflict (ANN)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Low stakes (ANN)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU lists Sexual Predator/s, Grooming, Sexual Innuendo, Harem Subtext; ANN notes an exhibitionist guildmaster (to verify; capped at 3)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Toxic job escape (blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Get-rich scheme."
+  },
+  {
+   "category": "Commercial",
+   "score": 3,
+   "framing": "Endorsed",
+   "note": "Selling modern goods for profit is the premise (blurb; ANN)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Trade and profit; escape from toxic work; found-family warmth",
+ "axes": {
+  "economic": 7,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Fatherly care for Aina; honest trade.",
+   "concerns": "Magic inheritance; MU grooming and predator tags to check."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to a child.",
+   "concerns": "Witchcraft origin; profit motive."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work and care.",
+   "concerns": "Witch grandmother; innuendo."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness and fair trade.",
+   "concerns": "Magic; innuendo."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Generosity.",
+   "concerns": "Witchcraft inheritance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation in commerce.",
+   "concerns": "Magic; innuendo."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest vocation.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for the poor child.",
+   "concerns": "Greed; innuendo."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle fantasy.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mutual aid.",
+   "concerns": "Wealth-seeking."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-reliance.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rejects toxic work culture.",
+   "concerns": "Harem objectification; predator tags."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fair trade.",
+   "concerns": "Witchcraft; innuendo."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Artha pursued with dharma.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Right livelihood questions.",
+   "concerns": "Craving for riches."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Critique of exploitative work.",
+   "concerns": "Possible grooming element (MU) to verify."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Trade and technology gap explored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Entrepreneurship.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Witchcraft."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Witchcraft and magic."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Prosperity through care.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fair dealing.",
+   "concerns": "Harem tropes."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Witch grandmother portrayed warmly.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gratitude for inheritance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honest work and sharing.",
+   "concerns": "Greed."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Improving conditions for others.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-interest pursued.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest trade.",
+   "concerns": "Witchcraft; innuendo."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Fair business.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Escape from exploitation.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No feuds."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Quits job, sets own course."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Grandmother's legacy; Aina as 'daughter'."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Small-scale trade."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Practical economics with magic."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Comfort and wealth."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "New Netherland"
+  ],
+  "japan": "Responds to Japanese 'black company' overwork culture, with the hero escaping to self-employment."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN Manga Guide: light, uncomplicated, stress-free; not preachy.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Little message beyond escapist comfort."
+ },
+ "winners_losers": "Shiro and the townsfolk he trades with prosper.",
+ "to_verify": [
+  "MU tags Sexual Predator/s and Grooming: check who and how (ANN reviewers did not mention it); sexuality may be understated.",
+  "ANN reviewed volume 1 only."
+ ]
+}

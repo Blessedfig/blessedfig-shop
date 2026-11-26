@@ -1,0 +1,365 @@
+{
+ "anilist_id": 32239,
+ "title": "Cigarette Kisses",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32239",
+  "https://api.mangaupdates.com/v1/series/61278526618"
+ ],
+ "premise": "Yusuke and Soji, close since junior high, drift apart when Soji suddenly marries; three years later they meet on a cigarette break at work, and Soji's lingering feelings clash with his duty to his wife while their junior Masahito pursues Yusuke (AniList, from SuBLime; MU). MU lists Divorce and a reason behind Soji's marriage.",
+ "life_message": "Facing true feelings honestly matters more than a life built on avoidance.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "MU Yaoi with Drunken Intercourse; married man's feelings (AniList)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Smoking central to the title and meeting (AniList); drinking (MU Drunken Intercourse)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Avoidance and heartbreak (AniList, MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Married man's feelings for another (AniList); MU Divorce."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Soji feels the weight of duty to his wife.",
+   "concerns": "Marriage ending (MU Divorce) for a same-sex bond; drunken sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Duty to a spouse acknowledged.",
+   "concerns": "Same-sex love placed above marriage; passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond weighing duty.",
+   "concerns": "Same-sex romance over marriage; drinking."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty about feelings.",
+   "concerns": "Marriage set aside; same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; smoking and drinking."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Seventh commandment issues; drunkenness."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Long friendship.",
+   "concerns": "Marriage covenant set aside."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest heart.",
+   "concerns": "Divorce and drinking."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Adult drama of feeling.",
+   "concerns": "Marriage ending."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Divorce; same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Word of Wisdom (coffee breaks, smoking, drink); chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Authentic same-sex love affirmed.",
+   "concerns": "How Soji's wife is treated."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Smoking, drink, same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Long friendship.",
+   "concerns": "Marriage duty set aside."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truth to oneself.",
+   "concerns": "Intoxicants; attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Coming to terms with queer feelings.",
+   "concerns": "Fairness to Soji's wife."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honesty with oneself.",
+   "concerns": "Drunken consent."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Marriage abandoned; smoking."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Tobacco, alcohol and same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality; tobacco."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truth emerging.",
+   "concerns": "Alcohol and tobacco."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Authenticity.",
+   "concerns": "Wife's dignity."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "True feelings honored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity (makoto) to feelings.",
+   "concerns": "Household harmony broken."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Tobacco (kurahit); marriage."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthfulness.",
+   "concerns": "Chastity; marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Communication repairs a friendship.",
+   "concerns": "Drink."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choosing desire over convention.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex acts; marriage."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Marriage."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Authenticity.",
+   "concerns": "Wife's treatment."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Soji's duty to his wife (AniList)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Feeling over obligation."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Childhood friends and marriage."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Senpai-kohai with Masahito."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular office life."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Self-honesty."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "Yankeedom"
+  ],
+  "japan": "Marrying out of duty and a senpai-kohai rivalry at the office (Masahito as kohai) reflect Japanese workplace and social expectations."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Conflict between love and duty in blurb (AniList); (to verify).",
+  "personified": [
+   {
+    "character": "Soji's wife",
+    "ideology": "conventional marriage",
+    "role": "Other",
+    "treatment": "Fair"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Duty to marriage is weighed, not mocked, as far as summaries show (to verify)."
+ },
+ "winners_losers": "Yusuke learns the real reason behind Soji's marriage (MU); MU Divorce suggests the friends end together (to verify).",
+ "to_verify": [
+  "Reason behind the marriage",
+  "Treatment of Soji's wife",
+  "Ending",
+  "English availability (SuBLime)"
+ ]
+}

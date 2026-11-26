@@ -1,0 +1,357 @@
+{
+ "anilist_id": 30921,
+ "title": "Here is Greenwood",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30921",
+  "https://www.mangaupdates.com/series/d3aqcuo"
+ ],
+ "premise": "Fifteen-year-old Kazuya Hasukawa leaves home after his older brother marries Kazuya's first love and brings her to live with the family. At the all-boys Ryokuto Academy he lands in the eccentric Greenwood dormitory with a cross-dressing roommate, and the 1980s comedy follows dorm life, unrequited love and friendships.",
+ "life_message": "Moving on from heartbreak through friendship and community.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Comic scuffles (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Light."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Unrequited love for his sister-in-law; cross-dressing roommate; BL subtext (MU, AniList)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Heartbreak and leaving home."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dorm pranks (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Dorm friendships; healing from unrequited love; gender-play comedy",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kazuya learns to forgive his brother and move on.",
+   "concerns": "Cross-dressing roommate and BL subtext."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing family rift through humility.",
+   "concerns": "Cross-dressing comedy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and forgiveness.",
+   "concerns": "Cross-dressing and BL subtext."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Brotherly reconciliation themes.",
+   "concerns": "Gender-play humor."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fellowship in the dorm.",
+   "concerns": "Cross-dressing and same-sex subtext."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Common grace in school comedy.",
+   "concerns": "Gender-play humor."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Brothers and friends living together.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Community of the dorm.",
+   "concerns": "BL subtext."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle comedy of community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mutual aid among dorm residents.",
+   "concerns": "Worldly comedy and cross-dressing."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family ties and friendship.",
+   "concerns": "Cross-dressing; BL subtext."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gender-nonconforming character in a warm community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect between brothers.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Letting go of attachment to a lost love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "LGBTQ-adjacent themes welcomed.",
+   "concerns": "Possible dated jokes."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Growing up through friendships.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for older brother and dorm seniors.",
+   "concerns": "Cross-dressing humor."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing and BL subtext."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming heartbreak.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom of expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony and senpai respect.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Brotherhood.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Unity in diversity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication repairs relationships.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Individualism.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family peace (shalom bayit).",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family repair.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Comic disputes, no honor code."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Freewheeling dorm life."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Family rift balanced with dorm friends."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Senpai-kohai dorm hierarchy."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular school life."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Self-expression in dorm culture."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "English-speaking"
+  ],
+  "japan": "All-boys boarding-school and senpai-kohai dorm hierarchy reflect Japanese school customs."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Comedy that breaks the fourth wall (MU); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Not documented."
+ },
+ "winners_losers": "Kazuya builds a new life with friends; sympathy lies with community.",
+ "to_verify": [
+  "How BL subtext and cross-dressing are portrayed.",
+  "Viz omitted unrelated one-shots (MU).",
+  "No review found."
+ ]
+}

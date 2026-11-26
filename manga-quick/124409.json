@@ -1,0 +1,95 @@
+{
+ "anilist_id": 124409,
+ "title": "The War of Greedy Witches",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/124409",
+  "https://api.mangaupdates.com/v1/series/12788097333",
+  "https://www.animenewsnetwork.com/seasonal/2024/fall/the-war-of-greedy-witches/.216424"
+ ],
+ "premise": "At the moment of her execution, Joan of Arc is carried by a demon to another world, where she joins 31 famous women from history, called 'witches', in a fight to the death. Only one survivor will have her wish granted. The first volume centers on a long duel between Tomoe Gozen and Elizabeth Bathory (Comikey and Yen Press blurbs; ANN Fall 2024 Manga Guide).",
+ "life_message": "Desire and the will to win decide who survives; a gentle soul like Joan is tested by a contest built on selfish wishes.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Death-match tournament (AniList Death Game, MU Mature); ANN reviewer says it 'isn't holding anything back', e.g. Bathory tearing off a fingernail, torture devices."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Brutal duels and torture imagery (ANN); MU Tragedy."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Not mentioned in reviews; no sexual tags (to verify fan service)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Joan's execution trauma (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Fantasy combat."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 6, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Christian", "strength": 3, "stance": "Explored"},
+  {"lens": "Feminism", "strength": 3, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Death-game spectacle; desire and power; historical women as fighters",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 3},
+ "foundations": {"care": 3, "loyalty": 3, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Joan is presented as gentle (ANN).", "concerns": "A saint recast as a demon-summoned 'witch' in a killing game."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Shows greed and pride destroying its contestants.", "concerns": "Demonic patronage and torture spectacle inflame passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Little beyond Joan's gentleness.", "concerns": "Witches, a demon granting wishes, graphic killing."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Selfish wishes shown as a deadly trap.", "concerns": "Occult framing of a Christian martyr; gore."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Demon (Agrat Bat Mahlat) sponsors a witch war; occult power celebrated."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Depravity of human desire on show.", "concerns": "Sorcery and violence as entertainment."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Fantasy freedom; Joan's reflection on desire and power (ANN).", "concerns": "Witchcraft and gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Diversion built on killing and occult wishes."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Could raise questions about temptation and power.", "concerns": "Treatment of Joan as saint versus 'witch'."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence is the whole premise."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Violent and occult content."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Historical women given agency and spotlight.", "concerns": "Glorified violence and torture."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Sihr and a demon patron; killing as sport."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Desire's consequences, karma of contestants.", "concerns": "Rajasic and tamasic violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Shows craving as the engine of suffering.", "concerns": "Spectacle of killing."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Women from many cultures as powerful protagonists.", "concerns": "Glorified violence; real figures like Bathory as spectacle."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Playful use of history (Earhart, Christie per ANN).", "concerns": "Cruelty as entertainment."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Courage in combat (Tomoe Gozen).", "concerns": "Gore; Joan reframed as witch."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritualism, demons and violence."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritism, magic and violence."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Fear and cruelty imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Pluralist cast of women across history.", "concerns": "Violence and torture."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Witch as a title of power, not evil.", "concerns": "Witches tied to a demon and killing (misrepresentation)."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Tomoe Gozen honored as a fighter.", "concerns": "Blood impurity throughout."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Courage.", "concerns": "Violence for selfish wishes, not defense of the weak."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Violence and occult."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Personal will to survive.", "concerns": "Murder as game."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Desire and self-assertion openly embraced.", "concerns": "Cruelty for its own sake."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Agrat Bat Mahlat, a demon from Jewish lore, as wish-giver; sorcery."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Jewish demonology reused for spectacle; violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Fantasy accepted.", "concerns": "Use of Agrat Bat Mahlat; gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Every dispute settled by personal duel to the death (blurb, ANN)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Each witch fights for her own wish (Yen Press blurb 'selfish wishes')."},
+   "Civic vs kin": {"pos": 5, "evidence": "Little family or community focus in volume 1 (to verify)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "A queen (Marie Antoinette) and commoners compete on equal terms."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Saints, demons and witches mixed with modern figures like Earhart (ANN)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Survival game, but driven by personal desires."}
+  },
+  "closest": ["The Far West", "El Norte", "Latin America"],
+  "japan": "From the writer of Kakegurui; the high-stakes gamble and tournament format reflects a popular Japanese seinen genre, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN: 'You absolutely are not going to fix anyone here'; reviewers focus on action, not message.",
+  "personified": [
+   {"character": "Agrat Bat Mahlat", "ideology": "desire and promises of power as what drives humans", "role": "Other", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Joan's gentleness and the demon's appeal to desire are set against each other, per ANN, without a stated lesson."
+ },
+ "winners_losers": "Fighters who embrace desire and violence advance; Joan's gentle outlook is the question the story poses.",
+ "to_verify": [
+  "Agrat Bat Mahlat's role beyond prompting Joan to reflect on desire (ANN).",
+  "Fan service or nudity, not mentioned in reviews.",
+  "Whether Joan's Christian faith is treated respectfully in later volumes."
+ ]
+}

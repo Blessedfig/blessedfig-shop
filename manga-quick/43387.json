@@ -1,0 +1,92 @@
+{
+ "anilist_id": 43387,
+ "title": "March Story",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/43387",
+  "https://api.mangaupdates.com/v1/series/70653964623",
+  "https://www.mangaupdates.com/series/wghjo0f",
+  "https://otakuusamagazine.com/march-story-vol-1/"
+ ],
+ "premise": "In 18th-century Europe, demons called Ill hide in beautiful objects made by tormented artists and possess people overwhelmed by dark emotions, driving them to violence (VIZ blurb via AniList and MU). March, a young hunter of the Ciste Vihad with her own tie to an Ill, travels from town to town destroying them (Otaku USA review). A 5-volume Korean-created dark fantasy serialized in Japan's Sunday GX; Viz labeled it Parental Advisory for graphic violence (review).",
+ "life_message": "It suggests that unchecked dark desires corrupt people, and that guilt can be redeemed through hard service.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Gore and torture, including a woman who bathes in maidens' blood (Otaku USA); MU Violence; Viz advisory label."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Possession by demons, horror (review; Horror genre on AniList and MU)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "MU lists nudity (3 votes) and a romantic subplot; review mentions none."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Possession tied to despair; MU Guilt and Tragic Past."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Demons and dark desire; guilt and redemption; exorcism",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 6, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Sin rooted in disordered desire; guilt and redemption arc.", "concerns": "Torture and gore; March's bond with a demon."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Passions open the door to demons.", "concerns": "Demonic imagery and gore."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Evil taken seriously.", "concerns": "Hero bound to a demon; graphic gore."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Inner darkness exposed.", "concerns": "Demonic powers used by the hero."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Possession treated as real danger.", "concerns": "Demon-linked heroine; exorcism without God."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Human depravity shown truthfully.", "concerns": "Gore and occult."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Guilt and grace themes.", "concerns": "Gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Redemption.", "concerns": "Torture scenes."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Gothic moral tales.", "concerns": "Gore."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and the occult."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency and temptation.", "concerns": "Gory, demonic content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Compassion for possessed victims.", "concerns": "Gore."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Evil spirits as real; temptation.", "concerns": "Sorcery and a demon-bound heroine."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Destructive desire (kama, krodha) shown.", "concerns": "Tamasic gore."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Craving and anger breed suffering.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Female lead; empathy for victims.", "concerns": "Torture imagery."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Psychology of dark impulses.", "concerns": "Gore."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Moral cautionary tales.", "concerns": "Gratuitous gore."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Demons and violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Spiritism and gore."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Evil as mental influence.", "concerns": "Dwelling on fear."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Compassion.", "concerns": "Gore."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Cursed objects and spirits as lore.", "concerns": "Harmful magic."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Objects with spirits (tsukumogami-like).", "concerns": "Blood impurity."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Five vices shown destroying people.", "concerns": "Magic; gore."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Inner virtue matters.", "concerns": "Violence; occult."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Overcoming the past.", "concerns": "Glorified violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Dark aesthetics.", "concerns": "Harm to children in one story."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Yetzer hara shown.", "concerns": "Sorcery; gore."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Moral tales.", "concerns": "Occult; gore."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Empathy for victims.", "concerns": "Gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Possessed people harm loved ones; hunters intervene."},
+   "Order vs freedom": {"pos": 5, "evidence": "A hunter order versus wandering."},
+   "Civic vs kin": {"pos": 5, "evidence": "Family betrayals in episodes (review)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Hunter organization."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Demons and exorcism real."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Fighting to survive evil."}
+  },
+  "closest": ["Puritan", "First Nation", "Tidewater"],
+  "japan": "Korean creators working in a Japanese magazine set the story in a Gothic European past; cursed objects echo Japanese tales of possessed things."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review notes no explicit message, emphasizing complexity.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Moral lessons come through episodic horror tales."
+ },
+ "winners_losers": "Victims of dark desire suffer; March's guilt-driven hunting is drawn sympathetically.",
+ "to_verify": [
+  "Nudity per MU (3 votes).",
+  "AniList dates it 2007, MU 2008 (same creators).",
+  "March's secret and ending."
+ ]
+}

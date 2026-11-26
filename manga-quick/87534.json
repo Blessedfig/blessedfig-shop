@@ -1,0 +1,95 @@
+{
+  "anilist_id": 87534,
+  "title": "Prison Lab",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/87534",
+    "https://api.mangaupdates.com/v1/series/40998645471"
+  ],
+  "premise": "Aito Eyama, a high schooler bullied daily, is invited to a secret 'prison game' in which a player may confine anyone for a month and do anything short of killing them, winning money if their identity stays hidden. He imprisons Aya Kirishima, the ringleader of his bullies, and carries out a sadistic revenge while meeting other captors with hidden agendas (Coolmic text via AniList; MangaUpdates).",
+  "life_message": "Revenge for bullying is explored as an intoxicating and corrupting power; the summaries do not show the story endorsing a good life.",
+  "overall": 7,
+  "content": [
+    {"category": "Violence", "score": 7, "framing": "Neutral", "note": "Torture and captivity central (AniList Torture 76, Gore 70; MU Torture, Blood and Gore, Murder); publisher text: confinement with anything allowed but killing."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Horror/thriller genres; secret organization, masks, kidnapping (AniList, MU)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU lists Rape, Gang Rape, Nudity, Affair; AniList Nudity 33. Capped at 3 pending a second source of another kind (to verify); likely understated."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Taunting bullies (MU description); not documented (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 6, "framing": "Shown with consequences", "note": "Protagonist in despair from bullying (publisher text); MU Abuse, Bullied Male Lead, Personality Change; AniList Suicide 26 (spoiler)."},
+    {"category": "Imitable behavior", "score": 5, "framing": "Neutral", "note": "Bullied teen kidnaps and torments his bully (publisher text; MU Kidnapping, Revenge); framing of revenge unclear (to verify)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Cash prize motivates the game."}
+  ],
+  "lenses": [
+    {"lens": "Might makes right", "strength": 6, "stance": "Explored"},
+    {"lens": "Nihilism", "strength": 4, "stance": "Explored"},
+    {"lens": "Utilitarianism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "revenge for bullying; power without law; captivity thriller",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 3},
+  "foundations": {"care": 3, "loyalty": 2, "fairness": 7, "sanctity": 3, "authority": 2, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Shows the injustice and cruelty of bullying.", "concerns": "Revenge, torture and sexual violence (MU) against a captive."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Passions of anger traced to real wounds.", "concerns": "Inflames anger and lust; torture of Aya."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Bullying's harm taken seriously.", "concerns": "'Vengeance is mine' contradicted; rape listed (MU)."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Opening to discuss victims and justice.", "concerns": "Sadistic revenge as the engine of the plot."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Exposes a hidden organization's evil game.", "concerns": "Torture, gore and sexual violence."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Depravity of both bully and avenger on display.", "concerns": "Lascivious and cruel content (WLC Q139 sense)."},
+    {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Shows law without mercy turning monstrous.", "concerns": "Private vengeance outside lawful authority."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Bullying victims deserve care.", "concerns": "Does harm; no tending to love of God."},
+    {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Moral vision of revenge's cost possible.", "concerns": "Torture and abuse focus."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Retaliation in place of nonresistance; torture."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Bullying condemned.", "concerns": "Violent, immoral content; revenge."},
+    {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Takes bullying's psychological toll seriously.", "concerns": "Sexual violence and abuse of a captive woman (MU)."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Oppression of the weak shown as wrong.", "concerns": "Revenge beyond law; sexual content and nudity."},
+    {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Karma of bullying returns on the bully.", "concerns": "Tamasic cruelty; himsa."},
+    {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Shows hatred breeding more suffering.", "concerns": "First and third precepts broken throughout."},
+    {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Bullying and its trauma depicted.", "concerns": "Sexual violence and torture of a teen girl."},
+    {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Can prompt thought on justice versus revenge.", "concerns": "Cruelty and exploitation."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Bullies face consequences.", "concerns": "Vigilante sadism; sexual content."},
+    {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violent, impure content excites passions."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and immorality (Psalm 11:5)."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Dwelling on fear and cruelty."},
+    {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Worth of bullied youth affirmed.", "concerns": "Captive's dignity violated."},
+    {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Harm returns on those who cause it.", "concerns": "'Harm none' broken at every turn."},
+    {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Kegare of blood and torture."},
+    {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Defending the oppressed theme inverted.", "concerns": "Anger and lust as drivers; personal vengeance."},
+    {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and degradation."},
+    {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Cruelty and murder (MU)."},
+    {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Proportionate retaliation against tormentors (Church of Satan view).", "concerns": "Sexual violence; harm beyond proportion."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Revenge forbidden (Lev 19:18); tzniut violated."},
+    {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Bullying's harm recognized.", "concerns": "Revenge and sexual abuse."},
+    {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Justice for the bullied as a question.", "concerns": "Torture and sexual violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 8, "evidence": "Humiliation answered by personal retribution (publisher text; MU Revenge)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Game grants exemption from the law (MU description)."},
+      "Civic vs kin": {"pos": 5, "evidence": "No family focus documented."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Victim reverses school pecking order."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Secular, game-rule logic."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "Survival thriller tone (AniList Survival)."}
+    },
+    "closest": ["The Far West", "Orthodox Europe", "El Norte"],
+    "japan": "School bullying (ijime) and group pressure on an outsider are long-running concerns in Japanese schools, described here as context for the premise."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "No review found; default per spec (to verify).",
+    "personified": [
+      {"character": "Aito Eyama", "ideology": "Retribution as 'divine' justice for bullying", "role": "Hero", "treatment": "Mixed"},
+      {"character": "Aya Kirishima", "ideology": "Bully's power over the weak", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Revenge is the story's engine; how far it is critiqued is not documented in the summaries."
+  },
+  "winners_losers": "The bullied Aito holds power over his former tormentor; who ultimately wins is not documented. Sympathy starts with the victim but his methods are sadistic.",
+  "to_verify": [
+    "Sexual violence scenes listed by MU (Rape, Gang Rape) and their framing",
+    "Whether revenge is condemned by the ending",
+    "Suicide content (AniList spoiler tag)",
+    "No Wikipedia cache or review found; web budget ran out before a review could be opened",
+    "MangaDex 'safe' rating seems inconsistent with tags"
+  ]
+}

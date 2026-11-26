@@ -1,0 +1,364 @@
+{
+ "anilist_id": 52870,
+ "title": "SIX HALF",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/52870",
+  "https://api.mangaupdates.com/v1/series/75788788126",
+  "https://myanimelist.net/manga/22870/Six_Half"
+ ],
+ "premise": "High-school student Shiori Kikukawa wakes from a motorcycle accident with no memories. Back home with her older brother and younger sister, tension rises, and at school she hears that her former self was cruel and disliked. She tries to build a new identity while reckoning with who she used to be (MANGA MILLION blurb via AniList, MangaUpdates, MyAnimeList).",
+ "life_message": "A good life means owning your past wrongs and choosing to become a kinder person.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Motorcycle accident (blurbs)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Isolation and hostility at school."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "A romance develops between Shiori and her older brother, who is not biologically related (AniList spoiler tag, MangaUpdates 'Stepsibling Love', MyAnimeList user reviews); not graphic."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Identity crisis, isolation, a past as a bully (MangaUpdates, MyAnimeList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bullying by her former self; motorcycle riding."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism; Classical virtue ethics; Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 7,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Repentance and becoming new.",
+   "concerns": "Romance between step-siblings raised as family."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Metanoia: a changed heart.",
+   "concerns": "Romance within the household."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Turning from cruelty.",
+   "concerns": "Step-sibling romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fresh start after wrongdoing.",
+   "concerns": "Step-sibling romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "New life theme.",
+   "concerns": "Romance inside the family."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Facing sin's consequences.",
+   "concerns": "Step-sibling romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Grace of a new start.",
+   "concerns": "Family romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Growth in kindness.",
+   "concerns": "Step-sibling romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral growth.",
+   "concerns": "Family romance; reader discomfort."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humility after pride.",
+   "concerns": "Romance within household."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Repentance and change.",
+   "concerns": "Step-sibling romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Accountability for bullying.",
+   "concerns": "Power dynamics in a family romance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Taking responsibility.",
+   "concerns": "Mahram boundaries blurred."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Karma of past deeds.",
+   "concerns": "Family roles crossed."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self is not fixed; change possible.",
+   "concerns": "Attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Accountability for bullying.",
+   "concerns": "Family romance power dynamics."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Identity rebuilt by reason and choice.",
+   "concerns": "Family romance."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Family boundaries crossed."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Transformation.",
+   "concerns": "Family romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Repentance.",
+   "concerns": "Romance within the family."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "New self-understanding.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dignity regained.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebirth of self.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Purification of the past self.",
+   "concerns": "Family romance."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming ego (haumai).",
+   "concerns": "Family romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Transformation of character.",
+   "concerns": "Family romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reinvention.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-made identity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Teshuvah (repentance).",
+   "concerns": "Romance within household."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teshuvah.",
+   "concerns": "Family romance."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Accountability.",
+   "concerns": "Family romance."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Past misdeeds answered by change, not revenge."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Shiori defines herself."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family relationships central (MangaUpdates Family)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Peer judgement at school."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Identity and self-expression."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "El Norte",
+   "The Midlands"
+  ],
+  "japan": "School reputation and peer judgement reflect Japanese group-belonging norms, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No critic review opened; MyAnimeList user reviews disagree on the ending (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Message carried by Shiori's reckoning with her past."
+ },
+ "winners_losers": "Shiori rebuilds herself; MyAnimeList user reviews say the romance with her non-biological brother becomes central (to verify).",
+ "to_verify": [
+  "Step-sibling romance from tags and MyAnimeList user reviews; how it is framed to verify",
+  "Name of boyfriend not confirmed beyond MyAnimeList",
+  "No professional review opened",
+  "Ending reportedly rushed per user reviews"
+ ]
+}

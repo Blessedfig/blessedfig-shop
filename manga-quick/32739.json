@@ -1,0 +1,364 @@
+{
+ "anilist_id": 32739,
+ "title": "The Spiral of Sand",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32739",
+  "https://api.mangaupdates.com/v1/series/58644179789"
+ ],
+ "premise": "Haruka loves his best friend Ryou, who marries Haruka's sister; drunk on the wedding night, Haruka is raped by a scarred stranger who swears revenge for a wrong done by Haruka's family (Juné blurb, MU). Days later the attacker turns up as a new colleague, and Haruka must learn who he is.",
+ "life_message": "Old family wrongs must be faced before anyone can move forward.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Condemned",
+   "note": "Rape and revenge (AniList blurb \"assaulted\"; MU desc and Rape, Revenge, Kidnapping)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Stalking attacker at work (MU, Juné)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Assault that develops into a relationship (MU Love-Hate, Love Triangle)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Threats (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Drunk at the wedding (MU)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Attempted suicide (MU, 1 vote) (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Revenge (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Existentialism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Regret and the cost of family sins.",
+   "concerns": "Rape-turned-romance; same-sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequences of wrongdoing.",
+   "concerns": "Rape and passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sin has consequences.",
+   "concerns": "Sexual violence romanticized."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth about the past.",
+   "concerns": "Rape; same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Wrongs exposed.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sins of fathers faced.",
+   "concerns": "Rape; WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Need for forgiveness.",
+   "concerns": "Rape framed as romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Reconciliation.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Moral seriousness.",
+   "concerns": "Rape-romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Revenge shown as destructive.",
+   "concerns": "Violence and sex."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Accountability.",
+   "concerns": "Rape; alcohol."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gay protagonist.",
+   "concerns": "Rape becomes romance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice for old wrongs.",
+   "concerns": "Rape; alcohol."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Karma of family deeds.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Revenge shown as suffering.",
+   "concerns": "First and third precepts."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Survivor's inner life.",
+   "concerns": "Rape romanticized."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Truth-seeking.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family duty.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Regret.",
+   "concerns": "Violence; sex; alcohol."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth.",
+   "concerns": "Violence; immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Overcoming hatred.",
+   "concerns": "Fear and violence dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Dignity of the survivor.",
+   "concerns": "Rape romanticized."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Threefold return of harm.",
+   "concerns": "Rape violates \"harm none\"."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Purifying old wrongs.",
+   "concerns": "Kegare of violence."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Seeking truth.",
+   "concerns": "Lust; revenge."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice.",
+   "concerns": "Violence; chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seeking truth.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Proportionate response debated.",
+   "concerns": "Sexual assault."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice for wrongs.",
+   "concerns": "Rape; same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest reckoning.",
+   "concerns": "Rape."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Seeking justice.",
+   "concerns": "Rape romanticized."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 8,
+    "evidence": "Revenge for a family wrong (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Personal vendetta versus order."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family debts drive the plot."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Colleagues."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival and fear."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "El Norte",
+   "Latin America"
+  ],
+  "japan": "A grudge carried against a whole family for a parent's act reflects ideas of family responsibility common in Japanese melodrama."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Revenge melodrama (MU); no review found (to verify).",
+  "personified": [
+   {
+    "character": "The scarred stranger",
+    "ideology": "Revenge",
+    "role": "Other",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The avenger is drawn as wronged and dangerous (to verify)."
+ },
+ "winners_losers": "Haruka and his attacker appear to end in a relationship; Ryou remains unrequited (MU) (to verify).",
+ "to_verify": [
+  "Framing of the rape",
+  "Attempted suicide context",
+  "Ending"
+ ]
+}

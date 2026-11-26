@@ -1,0 +1,370 @@
+{
+ "anilist_id": 45317,
+ "title": "Oreimo",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/45317",
+  "https://api.mangaupdates.com/v1/series/48092791390",
+  "https://www.publishersweekly.com/9781595829566"
+ ],
+ "premise": "High-schooler Kyosuke Kosaka discovers that his fourteen-year-old sister Kirino, a popular model student who has ignored him for years, secretly collects otaku anime and adult games about 'little sisters', and she makes him her confidant. The story follows him helping her keep the hobby despite their anti-otaku policeman father. A four-volume manga adaptation of a light novel.",
+ "life_message": "A good life means accepting family members' secret passions and rebuilding a sibling bond, on terms the story leaves uncomfortable.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little violence noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Family conflict only."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Fan-service panty and cleavage shots of the 14-year-old sister and 'implications of incest' between siblings (Publishers Weekly); AniList and MangaUpdates tag incest, ecchi and sexual innuendo. Non-graphic; clinical description."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described in sources (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "A 14-year-old owns adult games (AniList synopsis); PW says readers may be encouraged to indulge 'little sister' fantasies."
+  },
+  {
+   "category": "Commercial",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Otaku collecting and merchandise culture is central (AniList otaku culture; PW)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism; Consumerism",
+ "axes": {
+  "economic": 6,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 5,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sibling reconciliation and family bonds.",
+   "concerns": "Sexualized framing of a 14-year-old, adult games and incest implications."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brother cares for his sister.",
+   "concerns": "Passions-feeding fan service and incest hints."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Family members reconnecting.",
+   "concerns": "Sexualized minor, pornographic games owned by a child, incest implications."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brother shows patience and loyalty.",
+   "concerns": "Fan service of a minor and incest implications."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Family restoration.",
+   "concerns": "Sexual content involving a young teen; holiness standards."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest look at family estrangement.",
+   "concerns": "WLC Q139: lascivious imagery and pornographic games."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sibling care as vocation in the family.",
+   "concerns": "Sexualized minor and adult games."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brother serves his sister's good.",
+   "concerns": "Lustful framing and incest hints."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family relationships explored.",
+   "concerns": "Sexualized framing of a child."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Peacemaking within a family.",
+   "concerns": "Worldly media obsession and sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Brother and sister rebuild trust.",
+   "concerns": "Pornographic game theme and immodest imagery of a minor."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Accepting a sibling's interests.",
+   "concerns": "Sexualization of a 14-year-old and incest fantasy (PW)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness within family.",
+   "concerns": "Immodest images of a minor, adult games and incest themes."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family duty between siblings.",
+   "concerns": "Sexualized content and incest themes violate family dharma."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brother practices patience.",
+   "concerns": "Craving fed by sexualized imagery; misconduct themes."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Fan cultures can be accepted without shame.",
+   "concerns": "Sexualization of a minor is a core concern (PW)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Questions stigma against otaku hobbies.",
+   "concerns": "Exploitative focus on a minor's body."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kyosuke's loyalty to family.",
+   "concerns": "Undermines parental authority and sexualizes a child."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Siblings reconnect.",
+   "concerns": "Passions-exciting imagery of a minor."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Family reconciliation.",
+   "concerns": "Immorality and pornographic material."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Affection between siblings.",
+   "concerns": "Dwelling on degrading images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Freedom to pursue hobbies without stigma.",
+   "concerns": "Sexualization of a child and exploitation."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Personal freedom in hobbies.",
+   "concerns": "Exploitation of a minor in imagery."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Household harmony restored somewhat.",
+   "concerns": "Impure focus and family-relationship taboos."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Brother serves sister.",
+   "concerns": "Lust and attachment; pornography themes."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Family unity.",
+   "concerns": "Unchaste imagery of a minor."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family dynamic improves.",
+   "concerns": "Sexual content involving a minor."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Freedom from shame about one's interests.",
+   "concerns": "Harm to children under the Eleven Rules."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Siblings reconcile.",
+   "concerns": "Tzniut, incest taboo and pornographic content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shalom bayit between siblings.",
+   "concerns": "Degrading sexual content and a sexualized minor."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Acceptance within family.",
+   "concerns": "Exploitation of a minor in imagery."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Kirino guards her reputation; the father's disapproval is answered with secrecy, not confrontation (AniList)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Kirino pursues her hobby against the family rule (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "The story centers on the sibling bond and the family home."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Policeman father holds authority the children work around (AniList)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular consumer culture setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Freedom to enjoy chosen hobbies is the theme."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "New France"
+  ],
+  "japan": "Social stigma against otaku hobbies and the importance of keeping face at school reflect Japanese norms, shown as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Publishers Weekly calls the contrast between brother and sister heavy-handed in characterization, not as a sermon (to verify).",
+  "personified": [
+   {
+    "character": "The father",
+    "ideology": "social disapproval of otaku hobbies",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Acceptance of the hobby is carried by the siblings' choices rather than stated lessons."
+ },
+ "winners_losers": "Kirino's hobby and the siblings' bond win; the father's anti-otaku view is the obstacle; reviewers note the framing invites fantasies about the younger sister.",
+ "to_verify": [
+  "Only one review (Publishers Weekly, vol. 1); father's role from AniList synopsis",
+  "Ecchi extent across 4 volumes unverified",
+  "Several frames graded on the sexualized framing of a minor reported by PW"
+ ]
+}

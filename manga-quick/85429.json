@@ -1,0 +1,92 @@
+{
+ "anilist_id": 85429,
+ "title": "King's Game: Origin",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/85429",
+  "https://api.mangaupdates.com/v1/series/16695084956",
+  "https://otakuusamagazine.com/review-kings-game-origin/"
+ ],
+ "premise": "Thirty years before the main King's Game story, a black envelope arrives in remote Yonaki Village carrying 'the King's' orders, and failure to obey is punished (Crunchyroll blurb via AniList, MangaUpdates). A reviewer describes a 1977 village of 32 people forced through sadistic, mostly fatal trials by an unseen dictator, with several murders (Otaku USA). It is a prequel manga based on a novel.",
+ "life_message": "Little is held up as good: the story mainly shows people breaking under an arbitrary, deadly command.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Trials 'most of them fatal' and several murders, with 'oblique framing' on the goriest moments (Otaku USA); Blood and Gore, Game of Death (MangaUpdates)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Survival horror with characters killed off often (Otaku USA; Crunchyroll blurb); Death Game, Tragedy (AniList)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Reviewer: 'prurient or scandalous, though rarely in any substantial way'; Forbidden Love, Seduction (MangaUpdates); AniList spoiler tag Incest (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "AniList spoiler tag Suicide only; review does not mention it. Capped (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Chain-message 'orders' game premise; villagers turn on each other (AniList, review)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Part of a larger King's Game franchise."}
+ ],
+ "lenses": [
+  {"lens": "Nihilism", "strength": 6, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Nihilistic survival horror; collapse of a closed community under arbitrary rule",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 3, "loyalty": 5, "fairness": 3, "sanctity": 2, "authority": 6, "liberty": 3},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Shows how fear of 'the King' corrupts neighbors in Yonaki Village.", "concerns": "Frequent killings for shock, possible suicide, no hope offered."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Passions of fear and self-preservation laid bare.", "concerns": "Death-game gore and curse imagery inflame fear."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Sin's spread through a small community is visible.", "concerns": "Sadistic trials and murders presented as entertainment."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Raises questions about obedience to evil commands.", "concerns": "Reviewer calls it shocking entertainment without deeper meaning."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Evil treated as an active, organized force.", "concerns": "Curses and a malevolent unseen ruler; violent deaths."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Human depravity under pressure shown plainly.", "concerns": "Cruelty and possible self-murder without moral frame."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Neighbors' duties tested under an unjust 'authority'.", "concerns": "Graphic fatal trials and despair."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Shows harm done when no one 'does no harm'.", "concerns": "Violence as spectacle hinders love of God and neighbor."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Can prompt talk about conscience versus command.", "concerns": "Moral vision is bleak; deaths are relentless."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little beyond a warning about coercion.", "concerns": "Murder and fatal violence throughout as the main draw."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency under compulsion is a central question.", "concerns": "Violent and disturbing content youth guidance warns against."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Critique of blind obedience to arbitrary power.", "concerns": "Cruelty to vulnerable villagers; suicide portrayal to check."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Injustice of the King's orders is evident.", "concerns": "Killings, curses and possible suicide."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Actions under the game carry heavy consequences.", "concerns": "Tamasic horror; adharma without restoration."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Fear and clinging to life drive suffering.", "concerns": "Killing as spectacle; despair."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Shows a closed rural community turning on itself.", "concerns": "Violence and suicide content against safe-messaging norms."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "A mystery to reason out behind the orders.", "concerns": "Cruelty for shock; curse elements."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Village and family ties tested.", "concerns": "Nihilism and gratuitous killing."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Shows evil escalating in a small community.", "concerns": "Violent horror that excites fear."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to commend.", "concerns": "Violence God hates (Psalm 11:5), curses and death game."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little to commend.", "concerns": "Saturated with fear and death imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Questions coercive authority and mob pressure.", "concerns": "Cruelty without care for victims."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Shows harm returning upon those who harm.", "concerns": "Curses used to destroy people."},
+  {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Rural village community at the center.", "concerns": "Death and blood impurity dominate."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Courage to resist injustice could be discussed.", "concerns": "Killing and despair; suicide."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Disunity's consequences shown starkly.", "concerns": "Violence and suicide."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Survival urge examined.", "concerns": "Murder and suicide."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Arbitrary authority shown as monstrous.", "concerns": "Harm to innocents."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Sanctity of life shown by its violation.", "concerns": "Killing, curses and forbidden relations tag."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Moral weight of obeying evil orders.", "concerns": "Gore and despair."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Ethical questions about complicity.", "concerns": "Cruelty and suicide."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Village feuds and forbidden love surface under pressure (MangaUpdates tags); no court recourse."},
+   "Order vs freedom": {"pos": 3, "evidence": "'The King's orders are absolute' (Crunchyroll blurb)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Villagers fight to keep friends and family alive (Otaku USA)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Strict parents and a dictator figure (MangaUpdates; review)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Isolated 1977 rural village; curse elements (AniList, review)."},
+   "Survival vs self-expression": {"pos": 1, "evidence": "Pure survival horror (blurb; review)."}
+  },
+  "closest": ["South and Southeast Asia", "Orthodox Europe", "Sub-Saharan Africa"],
+  "japan": "Reflects Japanese fears of the closed rural village (mura shakai) where group pressure overrides the individual."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewer: 'doesn't strive for any greater significance than shocking entertainment' (Otaku USA).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The series is built around suspense and deaths rather than any stated message."
+ },
+ "winners_losers": "Most villagers lose; the unseen 'King' holds power, and no worldview receives clear sympathy in the sources.",
+ "to_verify": [
+  "Whether suicide is shown on the page and how (AniList spoiler tag only).",
+  "Incest and seduction tags (database only).",
+  "Protagonist's name and the specific orders were not in the opened sources."
+ ]
+}

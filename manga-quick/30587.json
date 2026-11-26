@@ -1,0 +1,90 @@
+{
+ "anilist_id": 30587,
+ "title": "Lucky☆Star",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30587",
+  "https://www.mangaupdates.com/series/ekcswzw"
+ ],
+ "premise": "A loosely plotted four-panel comedy about high-school girls in Kasukabe, Saitama. Konata Izumi is athletic and smart but lazy at school because she cares mostly about anime and games, and she spends her days with friends Kagami, Tsukasa and Miyuki as they move through their three years of school.",
+ "life_message": "It suggests that ordinary days with friends, and enjoying one's hobbies, are worth celebrating.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Little romance; MU lists Fujoshi and Himejoshi otaku humor (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Konata neglects study for games (AniList description)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Heavy otaku-culture references (AniList Otaku Culture 92%; MU Otaku)."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Communitarianism (friendship), Hedonism and Consumerism (otaku hobbies)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 4, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Friendship and ordinary joy among the four girls.", "concerns": "Konata's sloth toward schoolwork shown as a joke."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Community of friends.", "concerns": "Entertainment-centered life."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Clean everyday comedy.", "concerns": "Otaku obsession with media over responsibility."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Friendship valued.", "concerns": "Media obsession as identity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Light, harmless humor.", "concerns": "Worldliness."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Ordinary life as a sphere of joy.", "concerns": "Idleness."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Daily life and friendship as adiaphora gladly enjoyed.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Fellowship.", "concerns": "Diversions without purpose."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle humor.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Minor", "aligns": "No violence.", "concerns": "Pop-culture immersion counters separation from the world."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Clean friendship comedy.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusive friendship.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Friendship and kindness.", "concerns": "Idle entertainment (31:6) as lifestyle."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Friendship and family.", "concerns": "Neglect of study (dharma of the student)."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Contentment in small moments.", "concerns": "Attachment to entertainment."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Girls' friendships centered.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Enjoyment of life and culture.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Wholesome-seeming school life.", "concerns": "Laziness as humor."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Clean comedy.", "concerns": "Entertainment focus."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "No violence or occult noted.", "concerns": "Holiday or festival chapters may appear (to verify)."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Cheerful outlook.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Pluralism of interests.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Enjoyment of life.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony among friends through the school seasons.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Idleness."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Friendship and harmony.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Affinity among friends.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Enjoying life.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Minor", "aligns": "Friendship.", "concerns": "Bittul Torah: entertainment as lifestyle."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Friendship and learning.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Gentle comedy.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No conflict beyond teasing (4-koma comedy)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Konata follows her own interests over school expectations (AniList description)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Friends and families both feature (to verify)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Friends as equals."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern otaku culture setting."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Hobbies and leisure celebrated."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "New France"],
+  "japan": "Rooted in Japanese otaku culture, school life and the real town of Kasukabe; humor relies on Japanese pop-culture references."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Viz describes 'loose' comic-strip stories for relaxing (MU quote of Viz).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A gag strip with no argued message."
+ },
+ "winners_losers": "No winners or losers; slice-of-life comedy.",
+ "to_verify": [
+  "English license lapsed: Bandai print defunct (8 volumes) and Viz digital cancelled (MU).",
+  "Japanese release ongoing (10+ volumes).",
+  "No review opened."
+ ]
+}

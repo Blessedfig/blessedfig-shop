@@ -1,0 +1,92 @@
+{
+  "anilist_id": 99703,
+  "title": "If I Could Reach You",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/99703",
+    "https://api.mangaupdates.com/v1/series/70063496914",
+    "https://en.wikipedia.org/wiki/If_I_Could_Reach_You_%28manga%29"
+  ],
+  "premise": "High schooler Uta lives with her older brother and his new wife Kaoru, a childhood friend on whom Uta has long had a crush. Trying to get over her feelings, Uta is drawn closer as cracks appear in the marriage and Kaoru confides in her; the series follows Uta's coming to terms with her sexuality (Kodansha blurb; Wikipedia; AniList).",
+  "life_message": "Facing one's feelings honestly, even unreturned ones, is part of growing up and finding self-worth.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted; MU 'Accident/s' and 'Injury' low votes (to verify)."},
+    {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Emotional family drama."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Teen's same-sex crush on her adult sister-in-law; age gap (AniList Age Gap; MU Student-Adult Relationship). Physical content not described (to verify)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Uta feels a burden due to her mother's verbal abuse (Wikipedia); marriage breakdown (MU Divorce, Cheating low votes)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "MU 'Liar/s' tag (to verify)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Coming to terms with sexuality; unrequited love; strained family",
+  "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Uta restrains her feelings to protect her brother's marriage.", "concerns": "Same-sex romance arc; marriage breakdown (to verify)."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Self-restraint over a forbidden attachment.", "concerns": "Romantic passions toward a married woman."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Respect for marriage early on.", "concerns": "Same-sex attraction affirmed; possible infidelity."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Honest wrestling with temptation and family duty.", "concerns": "Same-sex romance framed positively."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Restraint.", "concerns": "Same-sex romance; marriage crisis."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Covetousness of a neighbor's spouse shown as painful.", "concerns": "Same-sex affirmation."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Sixth- and ninth-commandment tensions explored.", "concerns": "Confessional families object; ELCA open."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Compassion for a hurting teen.", "concerns": "Split on same-sex romance."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Sensitive literary treatment (Wikipedia reception).", "concerns": "ACNA would object."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Family care.", "concerns": "Worldly romance; same-sex theme."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Same-sex romance; divorce."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Gentle portrait of a queer teen; verbal abuse named.", "concerns": "Teen-adult age gap."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex desire toward a brother's wife."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Family duty weighed against desire.", "concerns": "Household propriety."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Letting go of attachment; right intention.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Queer coming-of-age handled with care (Wikipedia reception).", "concerns": "Power imbalance of adult and teen."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Emotional honesty.", "concerns": "Age gap."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Marriage respected at first.", "concerns": "Same-sex romance for teens; marriage dissolves."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance central."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming a sense of being a burden.", "concerns": "Families vary."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth and dignity of a queer teen.", "concerns": "Age gap."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Honest love.", "concerns": "Age gap."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Household harmony valued.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Restraint.", "concerns": "Same-sex romance; marriage breakdown."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Chastity of conduct early on.", "concerns": "Romance outside man-woman marriage."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication resolves tension.", "concerns": "Little stated."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Owning one's desires.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex desire for a brother's wife."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Shalom bayit tested.", "concerns": "Age gap."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusive coming-of-age.", "concerns": "Age gap."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Private emotional conflict, no honor contests."},
+      "Order vs freedom": {"pos": 6, "evidence": "Uta's feelings strain household norms (blurb)."},
+      "Civic vs kin": {"pos": 7, "evidence": "Story set inside one household (AniList Family Life 95%)."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Age gap but no rank focus."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern urban family; marriage strains (MU Divorce)."},
+      "Survival vs self-expression": {"pos": 7, "evidence": "Coming to terms with her sexuality (Kodansha blurb)."}
+    },
+    "closest": ["Catholic Europe", "English-speaking", "The Midlands"],
+    "japan": "Living with a married older sibling and the obligation not to disturb family harmony shape Uta's restraint, described here as context."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "Reviewers praise its sensitivity and lack of melodrama (ANN, Anime UK News via Wikipedia).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Feelings are explored through Uta's inner life rather than argued."
+  },
+  "winners_losers": "Uta grows in self-acceptance; sympathy goes to her feelings. Outcome of the marriage and the romance is to verify.",
+  "to_verify": [
+    "Whether Uta and Kaoru's relationship becomes romantic and at what ages (MU 'Unrequited Love Becomes Requited', time-skip tag)",
+    "Whether infidelity occurs and by whom",
+    "Kodansha USA age rating",
+    "English edition omits the epilogue chapter (MU note)"
+  ]
+}

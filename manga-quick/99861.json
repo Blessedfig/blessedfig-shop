@@ -1,0 +1,92 @@
+{
+ "anilist_id": 99861,
+ "title": "When a Clueless First-Person Shooter Player Falls into Another World",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/99861",
+  "https://api.mangaupdates.com/v1/series/43379876933",
+  "https://www.animenewsnetwork.com/seasonal/2026/spring/when-a-clueless-first-person-shooter-player-falls-into-another-world/.234609"
+ ],
+ "premise": "Schwarz, a dedicated VR shooter gamer, falls off the map mid-match and wakes in a world of swords and sorcery, where the locals call him a 'dud' for lacking magic until his modern rifle proves stronger than spells (Seven Seas blurb via AniList; ANN). His first encounter is rescuing a woman about to be 'ravaged by goblins' (ANN). Manga of a light novel, five volumes and on hiatus in Japan (MU); Seven Seas rates it 15+ (ANN).",
+ "life_message": "Skill, preparation and technology let an outsider prove his worth where he was written off.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Endorsed", "note": "Rifle combat against monsters is the core appeal (blurb, ANN); MU Armed Combat, Goblins, Kidnapping."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Goblin threat and dungeons (ANN, MU)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Woman threatened by goblins, implied sexual threat (ANN) and MU Attempted Rape; 'a little prurience' (ANN); MU Harem genre."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not checked (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted (to verify)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Stranded, no way home (blurb)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Firearms shown as the solution; game-like framing of killing."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Built on FPS game mechanics (ANN; MU Game Elements)."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Competence and firepower as worth; isekai power fantasy",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Schwarz rescues a woman in danger.", "concerns": "Sexual threat used as a hook; prurient framing (ANN); gun violence as fun."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Defense of the weak against monsters.", "concerns": "Fan service and violence feed the passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Rescue of the vulnerable.", "concerns": "Attempted sexual assault by goblins, harem elements, magic world."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "An underdog proves faithful in his skill.", "concerns": "Prurience and sexual threat; violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Protecting the helpless.", "concerns": "Sexual threat, fan service, sorcery-filled world."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Diligence and competence in one's calling.", "concerns": "Lascivious elements (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation-like competence put to use for others.", "concerns": "Fan service; violence as play."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Rescuing others.", "concerns": "Content unlikely to build holiness."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Good versus monstrous evil.", "concerns": "Sexual threat used for spectacle."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little beyond rescue.", "concerns": "Gun violence is the celebrated answer."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Self-reliance and preparation.", "concerns": "Immodest and violent content."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Outsider proves worth.", "concerns": "Women as objects of threat and fan service; guns celebrated."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Protecting a woman from harm.", "concerns": "Immodest imagery, harem, magic."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Protecting the weak.", "concerns": "Rajasic violence and prurience."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Rescue of a suffering being.", "concerns": "Killing as game; craving-driven fan service."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "An underdog story.", "concerns": "Sexualized threat to a woman; gun glorification."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Reason and technology over superstition-like magic.", "concerns": "Exploitative framing of women."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Self-reliance, marksmanship and courage.", "concerns": "Fan service and harem."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Rescue of the helpless.", "concerns": "Violence, sorcery and sexual content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in its framing.", "concerns": "Violence, magic and immorality central."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Confidence and capability.", "concerns": "Fear and degrading imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Outsider's worth recognized.", "concerns": "Objectifying fan service; violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Magic world shown neutrally.", "concerns": "Guns triumphing over magic; sexual threat."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Diligent mastery of one's craft.", "concerns": "Blood and fan service."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Protecting the oppressed woman.", "concerns": "Lust shown; violence as fun."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little in its framing.", "concerns": "Unchaste and violent content."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Competence and self-determination.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Individual ingenuity and self-preservation.", "concerns": "Sexual threat framed for titillation."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Saving a life.", "concerns": "Tzniut violated; bittul Torah."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Rescue of the vulnerable.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Underdog's worth recognized.", "concerns": "Exploitative framing; violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Schwarz proves himself personally after being branded a 'dud' (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Lone adventurer relying on his own gear and skill."},
+   "Civic vs kin": {"pos": 5, "evidence": "Small party bonds; no strong stance."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Magic-based status he overturns."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Technology outperforms magic (blurb)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Survival with limited ammo balanced with gamer self-image."}
+  },
+  "closest": ["The Far West", "El Norte", "Catholic Europe"],
+  "japan": "A standard Japanese isekai light-novel adaptation, with game mechanics and harem conventions common to the genre."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "ANN calls it a mashup of FPS mechanics and isekai; no message delivery noted (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "An entertainment-first power fantasy with little argued worldview."
+ },
+ "winners_losers": "Schwarz and his firearms win out over a magic-based world that dismissed him; monsters such as goblins are the disposable losers.",
+ "to_verify": [
+  "How explicit the goblin attack scene is and whether attempted rape recurs (MU tag)",
+  "Extent of harem and fan service in later volumes",
+  "Names of female leads",
+  "Language level"
+ ]
+}

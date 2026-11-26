@@ -1,0 +1,90 @@
+{
+  "anilist_id": 69959,
+  "title": "Invisible",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/69959",
+    "https://www.mangaupdates.com/series/b25szuq"
+  ],
+  "premise": "Aya Kinomiya grows up in a family where her father beats her mother and controls the household, her older brother looks away, and her mother silently endures for the children's sake. After a violent quarrel, Aya wishes she were not there and gains the power to turn invisible; she enjoys it at first, then makes a choice she may blame herself for all her life. A four-volume psychological drama about reclaiming normal life and facing pain.",
+  "life_message": "Escaping pain is not the same as healing; one has to face what happened and live on.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Condemned", "note": "Father beats the mother (MangaUpdates blurb; Domestic Abuse, Abusive Father, Murder, Attempted Murder categories); capped at 3 without a second kind of source (to verify, likely higher)."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Living in fear of the father (MangaUpdates); Tragedy and Crime spoiler tags (AniList); to verify."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "GL subtext (MangaUpdates), Yuri spoiler tag (AniList); father's 'other inappropriate deeds' unspecified (to verify)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Father scolds harshly (MangaUpdates)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Wish to disappear, lifelong self-blame, hallucinations (MangaUpdates); capped at 3 (to verify)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Shown with consequences", "note": "Invisibility misused; stalking (MangaUpdates Stalker)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+    {"lens": "Feminism", "strength": 3, "stance": "Explored"},
+    {"lens": "Critical theory", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Domestic abuse and its aftermath; guilt and responsibility; coming of age",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 8, "loyalty": 5, "fairness": 7, "sanctity": 3, "authority": 2, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Truthful portrayal of abuse and the dignity of victims like Aya's mother.", "concerns": "Murder and possible vigilante act; heavy themes for young readers."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "Conscience and repentance after Aya's choice.", "concerns": "Violence in the home; despair."},
+    {"frame": "Baptist", "grade": "B", "weight": "Significant", "aligns": "Sin's devastation in a family; guilt that seeks resolution.", "concerns": "Murder and abuse depicted."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Honest picture of brokenness.", "concerns": "No redemption source named."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Significant", "aligns": "Need for healing.", "concerns": "Supernatural power from despair."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Fifth-commandment failure of a father shown truthfully.", "concerns": "Murder (sixth commandment) and its framing."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Significant", "aligns": "Law exposing guilt.", "concerns": "Heavy content."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Significant", "aligns": "Concern for the oppressed in the home.", "concerns": "Violence."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Serious moral drama.", "concerns": "Violence."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Violence shown as destructive.", "concerns": "Murder plot."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Family harm shown as grievous.", "concerns": "Violence and mature themes."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Significant", "aligns": "Attention to victims of domestic violence.", "concerns": "Trauma content."},
+    {"frame": "Muslim", "grade": "B", "weight": "Significant", "aligns": "Injustice of a cruel father; mother's patience.", "concerns": "Murder; GL subtext."},
+    {"frame": "Hindu", "grade": "B", "weight": "Significant", "aligns": "Adharma of a cruel householder.", "concerns": "Violence."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Significant", "aligns": "Suffering, karma of harmful acts and guilt.", "concerns": "Killing."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Significant", "aligns": "Names patriarchal abuse; centers a girl's experience.", "concerns": "Triggering content; safe-messaging around despair."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Significant", "aligns": "Responsibility for one's choices.", "concerns": "Trauma content."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Failed fatherhood shown as harm.", "concerns": "Undermined parental authority; violence."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Significant", "aligns": "Truthful moral consequence.", "concerns": "Violence."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Family suffering.", "concerns": "Violence and supernatural power."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Healing from fear.", "concerns": "Dwells on violence and fear."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Significant", "aligns": "Worth and dignity of abused family members.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Significant", "aligns": "Power used and its threefold return.", "concerns": "Harm."},
+    {"frame": "Shinto", "grade": "B", "weight": "Significant", "aligns": "Sincerity in facing guilt.", "concerns": "Kegare of death."},
+    {"frame": "Sikh", "grade": "B", "weight": "Significant", "aligns": "Defending the oppressed; anger's harm.", "concerns": "Violence."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Significant", "aligns": "Justice and family dignity.", "concerns": "Violence."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Significant", "aligns": "Overcoming traumatic experience.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Retaliation against an abuser explored.", "concerns": "Harm to children."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Significant", "aligns": "Gravity of harming family; teshuvah.", "concerns": "Murder; GL subtext."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Significant", "aligns": "Justice and dignity.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Significant", "aligns": "Tikkun of a broken home.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Abuse is shown as harm, not as family honor (MangaUpdates blurb)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Aya seeks escape from a controlling father."},
+      "Civic vs kin": {"pos": 6, "evidence": "Mother endures for the children; family at the center."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Patriarchal authority shown as abusive."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern secular setting."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Reclaiming normal life and her own pain (publisher blurb)."}
+    },
+    "closest": ["Catholic Europe", "The Midlands", "New France"],
+    "japan": "Reflects the Japanese pattern of keeping family trouble hidden (sekentei) and a mother's silent endurance (gaman)."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "No review could be retrieved (to verify); themes carried by Aya's choice and its aftermath.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The abusive father is a source of harm in the summaries, not a voice for an argued worldview."
+  },
+  "winners_losers": "Aya survives and grows up carrying guilt; the abusive father is the source of harm; sympathy goes to Aya and her mother.",
+  "to_verify": [
+    "Violence and mental-health scores capped at 3 for lack of a non-database source; MangaUpdates lists Murder, Attempted Murder and Domestic Abuse, so intensity is likely understated.",
+    "Nature of the 'decision' and of the father's 'other inappropriate deeds' (MangaUpdates).",
+    "Two attempts to open an Italian review (animeclick.it) failed."
+  ]
+}

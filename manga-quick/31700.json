@@ -1,0 +1,358 @@
+{
+ "anilist_id": 31700,
+ "title": "Sunflower",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31700",
+  "https://api.mangaupdates.com/v1/series/61060531636"
+ ],
+ "premise": "Ryuhei starts at an all-boys high school rumored to be 90% gay, where classmate Kunihisa, who is wary of gay suitors, appoints him his protector (Juné blurb). Ryuhei, still recovering from unrequited love, starts falling for Kunihisa himself (MU).",
+ "life_message": "Protecting someone honestly can turn into love.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "High-school romance; no sexual categories listed (MU); AniList Boys' Love."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Blurb calls Kunihisa \"homo-phobic\"; gay jokes (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Rejection (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Classmates' unwanted advances (blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ryuhei protects a classmate.",
+   "concerns": "Teen same-sex romance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protection of the vulnerable.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal friendship.",
+   "concerns": "Same-sex romance with teens."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending a friend.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protection.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Neighborly care.",
+   "concerns": "LCMS concern."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle school comedy.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protection without violence.",
+   "concerns": "Worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Respect for boundaries.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gay teens shown sympathetically.",
+   "concerns": "Gay jokes."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protecting modesty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay school setting.",
+   "concerns": "\"Homo-phobic\" jokes and pressure."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Respect for boundaries.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Chivalry.",
+   "concerns": "Same-sex romance with teens."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protection.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protection.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Teasing."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-acceptance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protecting others.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Respect.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Being oneself.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Respect.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Protection.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Protector role, not honor fights."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Students follow their feelings."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "School community."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Student council (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular school."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Feelings first."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Yankeedom",
+   "Catholic Europe"
+  ],
+  "japan": "All-boys high schools and student councils are ordinary Japanese school settings."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Comedy premise; no argued message (to verify).",
+  "personified": [
+   {
+    "character": "Kunihisa",
+    "ideology": "Wary of gay suitors",
+    "role": "Other",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Kunihisa's wariness is a comic starting point (to verify)."
+ },
+ "winners_losers": "Ryuhei and Kunihisa appear to grow closer (to verify).",
+ "to_verify": [
+  "Any sexual content between the teens",
+  "How homophobia is framed"
+ ]
+}

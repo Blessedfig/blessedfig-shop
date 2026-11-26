@@ -1,0 +1,91 @@
+{
+ "anilist_id": 53358,
+ "title": "No Longer Heroine",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/53358",
+  "https://api.mangaupdates.com/v1/series/33461205902"
+ ],
+ "premise": "Hatori Matsuzaki is sure she is the heroine of a love story with her childhood friend Rita, a popular playboy, until Rita starts dating their plain, quiet classmate Miho Adachi. Hatori must face the possibility that she is only a side character in a slapstick, self-aware shoujo comedy (Yen Press blurb via AniList; MU).",
+ "life_message": "Love is not owed by destiny; growing up means seeing others clearly and letting go of entitlement.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Slapstick comedy (AniList)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy-drama."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "High-school love triangle with a playboy lead and flirting (AniList; MU)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Comic insults (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Jealousy and heartbreak (MU)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Hatori schemes to break up the couple (MU Manipulative Protagonist, Jealousy)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Live-action adaptation (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Postmodernism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Parody of shoujo destiny; jealousy and growth; love triangle",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Hatori's pride and envy are shown and must be outgrown.", "concerns": "Manipulation played for laughs; a playboy love interest."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Passions of jealousy exposed.", "concerns": "Teen romance focus."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Envy shown as foolish.", "concerns": "Scheming heroine; dating playboy."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Character growth from selfishness.", "concerns": "Manipulative behavior."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Pride brought low.", "concerns": "Worldly romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Tenth-commandment theme: coveting another's love.", "concerns": "Scheming humor."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Honesty about one's failings.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Growth in love.", "concerns": "Manipulation."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Comic moral growth.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humility learned.", "concerns": "Worldly dating culture."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Repentance from jealousy.", "concerns": "Playboy romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Dignity of the overlooked Adachi.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Envy condemned.", "concerns": "Dating culture."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Ego humbled.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Attachment and craving cause suffering.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Parodies the 'destined heroine' trope.", "concerns": "Playboy behavior normalized."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Self-awareness and growth.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Comeuppance for scheming.", "concerns": "Teen dating focus."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Jealousy corrected.", "concerns": "Romance focus."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Envy shown as harmful.", "concerns": "Dating culture."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Right thinking brings peace.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Every person matters, not only the 'heroine'.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "What you send out returns.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity over pretense.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Ego (haumai) overcome.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Truthfulness.", "concerns": "Dating culture."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Taking responsibility.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-interest openly pursued.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Lashon hara and envy shown.", "concerns": "Dating culture."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Character refinement (middot).", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Fairness to others.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Rivalry fought through schemes and slapstick (MU Rivalry)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Teens pursue love freely (MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Childhood friends and best friends (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Popular versus plain classmates (MU Social Gap)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern high school (MU)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Romance and identity as heroine (Yen Press blurb)."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "Yankeedom"],
+  "japan": "Parodies Japanese shoujo manga conventions and school social hierarchies."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Fourth-wall-breaking parody (MU); no review opened (to verify).",
+  "personified": [
+   {"character": "Hatori Matsuzaki", "ideology": "Romantic destiny and entitlement to love", "role": "Hero", "treatment": "Mixed"}
+  ],
+  "opposing_views": "None shown",
+  "note": "Hatori's belief in her destiny is lampooned through her own comic failures."
+ },
+ "winners_losers": "Adachi wins Rita at first; Hatori's sense of destiny is challenged (Yen Press blurb; MU).",
+ "to_verify": [
+  "No review opened; ending (MU Unrequited Love Becomes Requited).",
+  "Treatment of Hatori as Mixed is an estimate."
+ ]
+}

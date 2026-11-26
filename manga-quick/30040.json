@@ -1,0 +1,97 @@
+{
+  "anilist_id": 30040,
+  "title": "Black Cat",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Black_Cat_(manga)",
+    "https://anilist.co/manga/30040",
+    "https://api.mangaupdates.com/v1/series/27113423397"
+  ],
+  "premise": "Train Heartnet, once a top assassin for the world-ruling organization Chronos, left after his friend Saya changed his outlook and now works as an easygoing bounty hunter with partner Sven. They rescue Eve, a girl made as a nanotech bio-weapon, and are drawn into a war between Chronos and Creed, the ex-assassin who killed Saya and leads a revolutionary terrorist group (Wikipedia; Viz blurb via AniList).",
+  "life_message": "A person can leave a killing life behind, choose freedom and mercy, and become family to others.",
+  "overall": 5,
+  "content": [
+    {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Gunfights, assassins, killing of world leaders by Creed's group (Wikipedia); AniList Guns, Assassins; MU Child Assassin."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Friend's death, revenge (AniList Revenge, Tragedy spoiler)."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Thief Rinslet; fan service not sourced (to verify)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Tragic pasts (MU Tragic Past)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Gun use glamorized as cool (AniList Guns; to verify)."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Anime adaptation; bestselling (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Libertarianism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Collectivism/authoritarianism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Transhumanism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Freedom from controlling organizations; mercy over revenge; critique of nanotech immortality",
+  "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 4},
+  "foundations": {"care": 6, "loyalty": 6, "fairness": 6, "sanctity": 4, "authority": 2, "liberty": 8},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Conversion from killer to free man; Train lets defeated Creed walk away (Wikipedia).", "concerns": "Gunplay styled as cool; bounty hunting as violent trade."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Repentance of a former assassin.", "concerns": "Killing without call to repentance shown in battles."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Changed life and protecting Eve.", "concerns": "Graphic gun violence; revenge theme."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Second chances and mercy to an enemy.", "concerns": "Violence as entertainment."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Freedom from a dark past.", "concerns": "Violence; little occult (sci-fi powers)."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Shows Creed's grasp at immortality as hubris (Wikipedia).", "concerns": "Rejection of lawful (if shadowy) authority."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Grace-like turn in Train's life.", "concerns": "Gun violence."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Train's growth and care for Eve.", "concerns": "Violence as a tool."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Clear good-evil frame with mercy at the end.", "concerns": "Violence."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Train leaves an organization of killers.", "concerns": "Gunfighter hero; violence as heroic."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Repentance and found family.", "concerns": "Frequent violence."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Freeing a child weapon, Eve; critique of global power (Chronos).", "concerns": "Glorified gunplay."},
+    {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Mercy to a defeated enemy; turning from wrongdoing.", "concerns": "Violence; possible immodesty (to verify)."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Choosing a righteous path over a karmic cycle of killing.", "concerns": "Violence."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Releasing revenge; Creed spared (Wikipedia).", "concerns": "Killing throughout."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Opposes child soldiers and human experiments (MU).", "concerns": "Gun glamor."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Ethics of nanotech and immortality explored.", "concerns": "Violence."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Personal responsibility and loyalty between partners.", "concerns": "Anti-authority hero."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Turning from a violent life.", "concerns": "Glorified violence."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Rejects a world-ruling human organization.", "concerns": "Violent entertainment (Psalm 11:5)."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming the past.", "concerns": "Violence as norm."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of Eve beyond being a weapon.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal autonomy.", "concerns": "Harm to others."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity and loyalty to companions.", "concerns": "Bloodshed."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Defending the oppressed; rejects vengeance for its own sake.", "concerns": "Violence."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity of the found family.", "concerns": "Violence and terrorism plot."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determination and helping others.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Individual choosing his own path against an organization.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Mercy over revenge (Leviticus 19:18).", "concerns": "Violence; bittul Torah."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Turning away from killing.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice for a child used as weapon.", "concerns": "Glorified violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 7, "evidence": "Personal duel with Creed settles the conflict (Wikipedia)."},
+      "Order vs freedom": {"pos": 9, "evidence": "Train abandoned Chronos to live 'on his own terms' (Viz blurb)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Loyalty to partner Sven and Eve as found family (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Rejects the ranked Chronos Numbers (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Nanotech sci-fi; no religion (MU Nanotechnology)."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Easygoing life over duty; bounty work for money (MU Debt-Motivated)."}
+    },
+    "closest": ["The Far West", "El Norte", "New Netherland"],
+    "japan": "A lone gunman who leaves his organization echoes the masterless-samurai (ronin) figure, and friendship and mercy are Weekly Shonen Jump staples."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Critics criticized a typical shonen plot (Wikipedia); no mention of preachiness (to verify).",
+    "personified": [
+      {"character": "Creed", "ideology": "revolution and immortality through force", "role": "Villain", "treatment": "Mixed"},
+      {"character": "Chronos", "ideology": "world peace through a secret ruling organization", "role": "Other", "treatment": "Mixed"},
+      {"character": "Train", "ideology": "personal freedom and mercy", "role": "Hero", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Both the revolutionaries and the ruling organization are shown as dangerous, with the hero standing apart from each."
+  },
+  "winners_losers": "Train, Sven and Eve win and stay free; Creed is defeated but spared. Sympathy goes to independent conscience over both revolution and organized power.",
+  "to_verify": [
+    "No review opened; Wikipedia summarizes critics only in brief",
+    "Fan service level and Rinslet's portrayal",
+    "Viz age rating"
+  ]
+}

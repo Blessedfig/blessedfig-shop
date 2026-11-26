@@ -1,0 +1,92 @@
+{
+ "anilist_id": 34268,
+ "title": "A, A'",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/34268",
+  "https://api.mangaupdates.com/v1/series/63648283823",
+  "https://www.mangaupdates.com/series/t8mjm3z",
+  "https://soliloquyinblue.mangabookshelf.com/2009/01/21/a-a-by-moto-hagio-b/"
+ ],
+ "premise": "Three science-fiction stories by Moto Hagio about the 'Unicorns', a genetically engineered human race with muted emotions (AniList; MU). In 'A, A'' a researcher's lover dies and is replaced by a clone without memories; in '4/4' teenage Mori meets Trill, a Unicorn used in experiments; in 'X+Y' Mori, now older, is drawn to a male Unicorn, Tacto (review). It won the 1985 Seiun Award (MU).",
+ "life_message": "It holds that identity, memory and love are bound together, and that people must not be treated as experiments.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Shown with consequences", "note": "A death on a mission; a life-threatening space accident (review)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Death of a lover, cloning grief, human experiments (review; MU)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Male-male attraction in X+Y; a forced kiss in 4/4 (review); MU lists attempted rape (2 votes, to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "MU lists childhood trauma, abuse and suicide (low votes; to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Reckless space-scooter stunt (review)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Progressivism", "strength": 2, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Identity and cloning; emotion; gender and attraction",
+ "axes": {"economic": 5, "social": 6, "cultural": 7, "community": 4},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Trill's objection to experiments affirms human dignity.", "concerns": "Cloning accepted; same-sex attraction in X+Y."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "A person is more than a copied body.", "concerns": "Cloning; same-sex romance."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Identity questions open to discussion.", "concerns": "Male-male attraction; genetic engineering."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Questions about soul and memory.", "concerns": "Same-sex attraction."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Limits of science over persons.", "concerns": "Same-sex romance; ESP powers."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Image-bearer dignity versus experiments.", "concerns": "Same-sex attraction."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Neighbor's dignity; grief honestly shown.", "concerns": "Views differ on X+Y."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Compassion for the experimented-on.", "concerns": "Varies by body on X+Y."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "A literary classic of moral inquiry.", "concerns": "Varies on same-sex theme."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Critique of power over others.", "concerns": "Same-sex attraction; technology."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Eternal identity beyond a body.", "concerns": "Gender questions in X+Y."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Dignity of the marginalized Unicorns.", "concerns": "Forced kiss in 4/4."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Limits on tampering with creation.", "concerns": "Same-sex attraction."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Atman beyond the body.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Non-self, memory and attachment explored.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Early queer and gender themes.", "concerns": "Non-consensual kiss framing."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Science ethics and personhood.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Classic literary value.", "concerns": "Gender-identity themes."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Death and identity questions.", "concerns": "Same-sex attraction."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Same-sex attraction; ESP."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Identity as more than matter.", "concerns": "Dwelling on death."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Inherent worth of the engineered Unicorns.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Affirming of love in any form.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere feeling valued.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Equality of beings.", "concerns": "Same-sex theme."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Science and ethics together.", "concerns": "Same-sex attraction."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "The spirit beyond the body.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Bodily autonomy against experimenters.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Dignity of persons.", "concerns": "Same-sex attraction."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethics of science.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice for the othered.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Trill objects to experiments through words, not revenge (review)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Individuals against research programs."},
+   "Civic vs kin": {"pos": 3, "evidence": "Crews and research stations, not families."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Critique of scientists' power over subjects."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Science-fiction future of genetics and space."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Emotion and identity questions."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "Protestant Europe"],
+  "japan": "A landmark of the 1970s-80s 'Year 24 Group' shoujo creators, who used science fiction to explore gender and emotion."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review describes themes carried by story events; no comment on preachiness (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The stories pose questions about identity rather than state answers, from the review's account."
+ },
+ "winners_losers": "Unicorns who claim their own feelings gain sympathy; experimenters treating them as subjects do not.",
+ "to_verify": [
+  "MU lists attempted rape, abuse and suicide with low votes; not confirmed by the review.",
+  "Ages in 4/4 (Mori is teenaged)."
+ ]
+}

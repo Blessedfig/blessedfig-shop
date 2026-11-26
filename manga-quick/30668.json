@@ -1,0 +1,386 @@
+{
+ "anilist_id": 30668,
+ "title": "Appleseed",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30668",
+  "https://api.mangaupdates.com/v1/series/29343081172",
+  "https://www.animenewsnetwork.com/house-of-1000-manga/2011-07-21"
+ ],
+ "premise": "After a third world war, ex-SWAT soldiers Deunan Knute and her cyborg partner Briareos are brought from the wasteland to Olympus, a high-tech utopian city run by a central management bureau, where most citizens are bioroids (Dark Horse blurb; ANN). They join its police to fight terrorists while the city's peaceful surface hides conflicts that could lead to war. Four volumes, left without a firm ending.",
+ "life_message": "Security and order are worth defending, but the story asks how much freedom and human nature should be traded for a stable utopia.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Gunfights, terrorism, a man shot in the face, blood (ANN; AniList Terrorism, Military; MU Violence)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "War, terrorism and genocide threat (Dark Horse blurb; ANN)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Nude or scantily clad women in bed, skintight suits (ANN; AniList and MU Nudity)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Military and police dialogue (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Endorsed",
+   "note": "Gun handling and harsh anti-terror policing shown approvingly (ANN)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Environmentalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Managed utopia vs. freedom; cyborgs and engineered humans; security against terrorism",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 7,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protecting the innocent; questions engineered 'perfect' societies.",
+   "concerns": "Engineered humans (bioroids) treated as normal; violence; nudity."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions human attempts to perfect human nature.",
+   "concerns": "Gun violence and nude imagery inflame passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Police protect order against terror.",
+   "concerns": "Nudity and violence; humanity remade by technology."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Asks whether utopia can be built by human design.",
+   "concerns": "Nudity; graphic gunfights."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good guarding against chaos.",
+   "concerns": "Violence and nudity; no spiritual dimension."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Shows limits of human-made utopia (fallen nature).",
+   "concerns": "Lascivious images (WLC Q139) and violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Lawful authority wields the sword against terror (two kingdoms).",
+   "concerns": "Nudity; cloning normalized."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal partnership between Deunan and Briareos.",
+   "concerns": "Violence and nudity."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Thought-provoking Brave New World themes (ANN).",
+   "concerns": "Violence and nudity."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions trading freedom for security.",
+   "concerns": "Heroic gunfights and police violence conflict with nonresistance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Just-cause defense of a city.",
+   "concerns": "Nudity and violence against For the Strength of Youth."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Debates on surveillance and freedom (ANN).",
+   "concerns": "Terrorists drawn from Islamic and Southern groups may stereotype (ANN)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defense against aggression.",
+   "concerns": "Nudity; terrorist groups described as Islamic (ANN) risk stereotyping."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Righteous protection of society.",
+   "concerns": "Nudity and violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Interdependence of humans and cyborgs.",
+   "concerns": "Killing and violence; nude imagery."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Strong female lead; questions state power.",
+   "concerns": "Militarism; ethnic and religious terrorist stereotypes (ANN)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Rich ideas on science, sociology and politics.",
+   "concerns": "Harsh anti-terror measures shown favorably."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Order, duty and loyal partnership.",
+   "concerns": "Nudity and violence; managed-utopia collectivism."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Peace as a goal.",
+   "concerns": "Violence and nudity."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence, nudity and militarism."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope of a peaceful society.",
+   "concerns": "Violence and nude imagery."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Interdependence and big questions about freedom.",
+   "concerns": "Glorified security violence; stereotyping."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Artemis as wild nature (ANN).",
+   "concerns": "Little beyond violence."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony and order as ideals.",
+   "concerns": "Violence and blood (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending the innocent.",
+   "concerns": "Nudity and violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Unity of peoples as goal.",
+   "concerns": "Violence and nudity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Competence and survival.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Chiffon's doubts about Olympus as 'a zoo' (ANN).",
+   "concerns": "Little; authoritarian utopia."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Self-defense permitted.",
+   "concerns": "Nudity (tzniut) and violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defense of society.",
+   "concerns": "Nudity and violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethical questions about engineered society.",
+   "concerns": "Violence; stereotyped terrorists."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Personal combat within a police force."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Order and security of Olympus defended."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Partners and city before kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Central bureau and senators govern."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 9,
+    "evidence": "Science, engineering and cloning shape society."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Security against terror prioritized."
+   }
+  },
+  "closest": [
+   "Confucian",
+   "Catholic Europe",
+   "Orthodox Europe"
+  ],
+  "japan": "Reflects 1980s Japanese cyberpunk and a technocratic ideal of managed harmony, described not judged."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "ANN: dense footnotes, timelines and long speeches on science, sociology and politics; ideas often overshadow character.",
+  "personified": [
+   {
+    "character": "Chiffon",
+    "ideology": "Olympus as a 'zoo'; freedom over managed security",
+    "role": "Foil",
+    "treatment": "Fair"
+   },
+   {
+    "character": "Olympus administration (AEGIS) and senators",
+    "ideology": "Managed, engineered utopia spread worldwide",
+    "role": "Other",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Ideas are argued in long explanations; dissent is voiced, while terrorists are mainly adversaries (to verify)."
+ },
+ "winners_losers": "Deunan and Briareos come to back Olympus's police approach; terrorists lose; doubts about managed utopia remain open.",
+ "to_verify": [
+  "ANN column says terrorists include Islamic groups and fascist American Southerners: check portrayal.",
+  "Nudity extent across volumes.",
+  "Language level not described."
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "anilist_id": 30446,
+ "title": "Oh My Goddess!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30446",
+  "https://api.mangaupdates.com/v1/series/3418690473"
+ ],
+ "premise": "College student Keiichi Morisato dials a wrong number and reaches the Goddess Technical Help Line. Granted one wish by the goddess Belldandy, he wishes she would stay with him always, and the pair are thrown out of his male-only dorm, setting off a long comedy of campus life, motorcycles and divine visitors (Dark Horse blurb via AniList/MU). It won the Kodansha Manga Award in 2009 (AniList).",
+ "life_message": "Patient, kind and unconditional love is the heart of a good life.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Supernatural mishaps and demon antics (AniList Demons); not reported in detail."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Demons and divine conflicts; comedic tone."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Slow, affectionate romance (MU Unconditional Love, Kind Female Lead); AniList lists a female harem. Fan service not reported (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Motorcycle and car racing hobbies (AniList)."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Long franchise with anime, games and novels (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Pantheist/New Age", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Gentle romance between a human and a goddess; kindness; campus and mechanical hobbies",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 8, "loyalty": 8, "fairness": 5, "sanctity": 6, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Faithful, self-giving love between Keiichi and Belldandy.", "concerns": "Multiple goddesses and demons shown as real; unmarried couple living together."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Gentleness and humility of Belldandy.", "concerns": "Polytheistic divine realm; demons."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Kind, patient love.", "concerns": "Goddesses as real powers; cohabitation."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Love that serves.", "concerns": "Other gods portrayed as benevolent and real."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Goodness and kindness.", "concerns": "Demons, spirits and summoned deities."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Virtue shown attractively.", "concerns": "Worship-worthy beings other than God."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Everyday vocation in study and mechanics.", "concerns": "Gods and magic."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Perfect-love ideal echoed in Belldandy.", "concerns": "Polytheistic setting."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Mythic fantasy with moral warmth.", "concerns": "Cohabitation."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Gentleness and nonviolence.", "concerns": "Other gods; worldly media."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Devoted partnership.", "concerns": "Cohabitation outside marriage."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Kindness and mutual care.", "concerns": "Idealized self-effacing heroine."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Patience and kindness.", "concerns": "Shirk: many gods shown as real; cohabitation."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Devas among humans, bhakti-like devotion.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion and loving-kindness (metta).", "concerns": "A Zen priest in the blurb thinks Belldandy is a witch; portrayal to check."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Minor", "aligns": "Gentle relationships.", "concerns": "Idealized submissive female lead; harem framing."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Engineering and mechanics celebrated.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Loyalty, devotion and traditional courtship.", "concerns": "Cohabitation; other gods."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Spirits and deities as real."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "False gods and demons central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Divine Love as a helping presence.", "concerns": "Magic power."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Myth and compassion.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Benevolent goddesses and divine feminine.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Divine beings living among humans, treated respectfully.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Selfless love and service.", "concerns": "Many deities; magic."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Spiritual qualities of kindness.", "concerns": "Magic; cohabitation."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and communication.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Demons shown as characters, not just evil.", "concerns": "Self-effacing devotion less valued."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Chesed modeled by Belldandy.", "concerns": "Avodah zarah: goddesses as real; cohabitation."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Idolatry imagery."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical warmth.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Gentle comedy; conflicts resolved kindly (MU Kind Male/Female Lead)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Divine rules bind Belldandy; students live freely."},
+   "Civic vs kin": {"pos": 6, "evidence": "Household of goddesses and Keiichi (MU Sister/s)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Celestial ranks and college club seniors."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Divine realm coexists with engineering hobbies."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Comfortable campus life and hobbies."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "First Nation"],
+  "japan": "Gods living alongside ordinary people reflects a Japanese comfort with the sacred in daily life, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review opened; default (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No source reports how themes are delivered."
+ },
+ "winners_losers": "Keiichi and Belldandy's devotion is the sympathetic center; demons appear as antagonists (to verify).",
+ "to_verify": [
+  "No review opened; content from blurb and tags only.",
+  "Where the couple live after leaving the dorm (blurb mentions a Zen priest) not confirmed.",
+  "Fan-service level and ending across 48 volumes.",
+  "English edition status (Dark Horse)."
+ ]
+}

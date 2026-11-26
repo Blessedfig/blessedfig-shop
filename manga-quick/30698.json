@@ -1,0 +1,351 @@
+{
+ "anilist_id": 30698,
+ "title": "Neon Genesis Evangelion",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion_(manga)",
+  "https://anilist.co/manga/30698",
+  "https://www.mangaupdates.com/series/jgjdahb",
+  "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+ ],
+ "premise": "Teenager Shinji Ikari is summoned by his estranged father to pilot Evangelion Unit 01 for the secretive organization Nerv against monstrous beings called Angels. The manga retells the anime with changes to characters and events, focusing on Shinji's anger and loneliness.",
+ "life_message": "A good life is daring to connect with others despite the pain it brings.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "Mecha battles; a main character is killed; body horror (Wikipedia; Gore and Body Horror signals)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Cosmic horror and apocalypse (Wikipedia; Cosmic Horror tag)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Some nudity and a kiss; same-sex feelings tagged (Wikipedia; AniList signals) (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Insults such as 'bitch' in English translation (Wikipedia)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "An adult guardian drinks (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Self-doubt, hatred of father, trauma (Wikipedia; Coming of Age and Philosophy tags)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little to raise."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Large franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 7,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Christian",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 3,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Existentialism, Transhumanism (critiqued), Christian imagery",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 5,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Need for love; human dignity.",
+   "concerns": "Christian and Kabbalistic symbols used aesthetically (to verify); violence."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Struggle with despair.",
+   "concerns": "Angels as monsters; sacred imagery reused."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Longing for a father's love.",
+   "concerns": "Angels as enemies; nudity; dark tone."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loneliness and need for relationship.",
+   "concerns": "Religious imagery without Christian meaning."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Shows spiritual darkness.",
+   "concerns": "Angels depicted as monsters; occult symbols."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Depravity of power.",
+   "concerns": "Sacred imagery reworked."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Father-son reconciliation questions.",
+   "concerns": "Religious imagery; violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for the hurting.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Literary seriousness.",
+   "concerns": "Imagery judged case by case."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critique of military use of children.",
+   "concerns": "War violence throughout."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family healing.",
+   "concerns": "Violent and dark media."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mental-health honesty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Patience in hardship.",
+   "concerns": "Angels (mala'ika) recast as monsters; sacred imagery used freely."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-knowledge and duty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Suffering and connection.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critique of using children as soldiers.",
+   "concerns": "Gender portrayals."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Psychological insight.",
+   "concerns": "Dark tone."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Duty and courage.",
+   "concerns": "Rebellion against a father; violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Longing for love and connection; adults' exploitation critiqued.",
+   "concerns": "Angels as monsters and apocalyptic imagery that may unsettle prophetic readings."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Need for honest relationships.",
+   "concerns": "Angels recast as monsters; violence (Psalm 11:5)."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Daring to connect despite pain.",
+   "concerns": "Trauma, fear and death dwelt on at length."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Mental-health honesty and the worth of each lonely child.",
+   "concerns": "Nudity and violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility for connection.",
+   "concerns": "Violence and body horror."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity and longing for harmony.",
+   "concerns": "Death and destruction, kegare."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Overcoming ego and attachment toward love.",
+   "concerns": "Violence; sacred imagery reused."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity and connection overcome isolation.",
+   "concerns": "Violence and religious imagery used loosely."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Communication and affinity as healing.",
+   "concerns": "Psychological manipulation by Nerv; violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critique of the authoritarian father figure Gendo.",
+   "concerns": "Little at odds."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions of honoring a father.",
+   "concerns": "Kabbalistic symbols used aesthetically (to verify); nudity."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family healing.",
+   "concerns": "Religious imagery reworked."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critique of using children as soldiers.",
+   "concerns": "Violence."
+  }
+ ],
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Wikipedia (anime article): layered religious and psychoanalytic references resist one reading; Anno says the theme is making a choice",
+  "personified": [
+   {
+    "character": "Shinji Ikari",
+    "ideology": "withdrawal versus risking connection",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Gendo Ikari",
+    "ideology": "using people as tools for his own plan",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Its theme of choosing connection is left largely for readers to work out through Shinji's struggles and dense symbolism."
+ },
+ "winners_losers": "Children used by adults' secret plans get sympathy; the institutions and fathers who exploit them are critiqued.",
+ "to_verify": [
+  "Nudity and sexual content in the manga",
+  "Religious imagery details",
+  "Viz rating",
+  "Only one non-database source read (Wikipedia)",
+  "Delivery judged from the cached Wikipedia article on the anime, not the manga; the manga retells it with changes",
+  "Delivery evidence includes Anno's stated intent (creator statement), not a review of the manga"
+ ]
+}

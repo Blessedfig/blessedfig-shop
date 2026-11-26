@@ -1,0 +1,92 @@
+{
+ "anilist_id": 151886,
+ "title": "Spring Storm and Monster",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/151886",
+  "https://api.mangaupdates.com/v1/series/68124712971",
+  "https://api.mangadex.org/manga?title=Haru no Arashi to Monster (record 28074f2b-f393-474a-8b13-ec196c4be75e)",
+  "https://www.animenewsnetwork.com/seasonal/2024/fall/spring-storm-and-monster/.213964"
+ ],
+ "premise": "Anxious, withdrawn high-school freshman Ranko Haruno wants only her pet pig and her mother. Then Kaya Amamine, a frightening boy with a reputation for violence, turns out to be her new stepfather's adopted son and moves in as her stepbrother. The two lonely teens slowly learn to trust each other, and the story turns toward romance between the step-siblings, who are not related by blood.",
+ "life_message": "Two wounded people can heal through trust, though reviewers disagree on whether the turn to romance respects the heroine's agency.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Kaya hurls a boy into a wall in the opening; 'penchant for violence' (Yen Press blurb; ANN); AniList Delinquents."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Ranko fears Kaya as a 'monster' (Yen Press blurb)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Kaya pressures his stepsister toward a physical relationship (ANN reviewer); non-blood step-sibling romance (ANN; MU Stepsibling Love); off-page sexual abuse in Kaya's past (ANN content warning; MU Sexual Abuse). Non-graphic."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Ranko's anxiety and agoraphobia, Kaya's abuse trauma (ANN); MU Codependency, Troubled Past, Abused Male Lead."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Possessive, jealous 'yandere' lead (AniList Yandere; MU Possessive, Jealous Male Lead); ANN reviewer calls the dynamic uncomfortable."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Video games as a hobby (AniList)."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Healing through relationship (Secular humanism), blended family (Communitarianism)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 3, "sanctity": 3, "authority": 3, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Ranko notices Kaya's pain; compassion for an abuse survivor.", "concerns": "Pressure toward a physical relationship and possessive romance between stepsiblings."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Mercy toward a wounded person.", "concerns": "Romance within a household; passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Blended family learning to love.", "concerns": "Sexual pressure, step-sibling romance, violence."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Talking point on trauma and grace.", "concerns": "Possessive love modeled for teens."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Healing of wounds.", "concerns": "Sexual pressure and violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Sin's damage in Kaya's past shown honestly.", "concerns": "Household romance; sexual pressure."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Family duties in a new household.", "concerns": "Romance between stepsiblings."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Care for the hurting.", "concerns": "Pressured physical relationship."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Compassion for both leads' struggles.", "concerns": "Ending criticized for removing Ranko's agency (ANN)."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Violence and sexual pressure."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family unity theme.", "concerns": "Chastity pressure; household romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Takes mental health and abuse seriously.", "concerns": "Consent: Kaya 'pressuring' Ranko (ANN)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Compassion for the orphan (MU Orphan Male Lead).", "concerns": "Unrelated teens alone in a home; physical pressure."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Family duty.", "concerns": "Sibling-status romance widely objectionable."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Suffering met with compassion.", "concerns": "Possessive craving; sexual misconduct."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Anxiety and abuse represented with care.", "concerns": "Possessive male lead; consent problems."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Empathy between damaged people.", "concerns": "Coercive dynamic."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Mother's remarriage and new family.", "concerns": "Step-sibling romance; delinquency."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content and violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality and violence."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Overcoming fear.", "concerns": "Dwells on trauma and fear."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Worth of the wounded.", "concerns": "Consent."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Healing through trust.", "concerns": "Harm and coercion."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Household harmony restored.", "concerns": "Violence."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Care for the suffering.", "concerns": "Lust and modesty."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Family unity.", "concerns": "Unchaste pressure."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Family dynamic.", "concerns": "Mental-health framing."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Personal choice in love.", "concerns": "Unwanted sexual advances violate the Eleven Rules."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Yichud and tzniut; sexual pressure."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Compassion.", "concerns": "Degrading pressure."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Healing and trauma care.", "concerns": "Consent."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Kaya answers threats with force (Yen Press blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Rebellious child, delinquency (MU, AniList)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Household bonds central; Ranko lives for her mother and pig (Yen Press blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Little hierarchy."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern blended family."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Emotional survival and growth."}
+  },
+  "closest": ["Catholic Europe", "El Norte", "The Midlands"],
+  "japan": "Step-sibling cohabitation romance is a common shoujo trope; blood relation, not household, is the usual line drawn in Japanese fiction."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN reviewers discuss character dynamics and mental health, not preaching; one sees 'investment in characters' well-being'.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Reviewers split on whether the romance undercuts the story's healing theme."
+ },
+ "winners_losers": "Both leads get sympathy; one ANN reviewer says the ending 'threw our lead under the bus'.",
+ "to_verify": [
+  "Extent of Kaya's pressure on Ranko and how the story frames it.",
+  "Off-page abuse depiction (ANN content warning).",
+  "ANN guide covers volume 1 only; series ongoing."
+ ]
+}

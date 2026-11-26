@@ -1,0 +1,98 @@
+{
+  "anilist_id": 87211,
+  "title": "Accomplishments of the Duke's Daughter",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/87211",
+    "https://api.mangaupdates.com/v1/series/62355564884",
+    "https://en.wikipedia.org/wiki/Accomplishments_of_the_Duke%27s_Daughter",
+    "https://animenewsnetwork.com/review/accomplishments-of-the-duke-daughter/gn-1/.135556"
+  ],
+  "premise": "An office worker killed in an accident wakes as Iris, villainess of an otome game, at the moment Prince Edward denounces her. Avoiding the nunnery, she is given charge of her family's fief and uses modern knowledge to reform taxes, found banking and schools for commoners and launch businesses, while a succession crisis and a possibly spy-like heroine threaten the kingdom (Wikipedia; ANN; Seven Seas text via AniList).",
+  "life_message": "Competent, honest stewardship that serves ordinary people is the best answer to scorn and slander.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Fatal accident in prologue; assassination threats in succession plot (Wikipedia)."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Political tension."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Light romance (AniList Heterosexual 20); none explicit noted (ANN)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Workaholic lead (MU)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Disguise (MU)."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Business and product launches (chocolate, cosmetics) (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Pragmatism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Utilitarianism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Feminism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Traditionalism", "strength": 3, "stance": "Explored"},
+    {"lens": "Consumerism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "good governance and economics; a woman leading her fief; vindication through work",
+  "axes": {"economic": 6, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 6, "loyalty": 7, "fairness": 7, "sanctity": 3, "authority": 6, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Care for the poor via schools and rescued street children (ANN).", "concerns": "Nunnery shown only as punishment."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humble service after public disgrace.", "concerns": "Monastic life framed negatively."},
+    {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Diligence and honest stewardship.", "concerns": "Reincarnation premise."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Integrity answers slander.", "concerns": "Reincarnation."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Perseverance through hardship.", "concerns": "Little."},
+    {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation and cultural engagement for common good.", "concerns": "Little."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Serving neighbor through governing well.", "concerns": "Little."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Education for commoners; social holiness.", "concerns": "Little."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Responsible stewardship.", "concerns": "Little."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Practical service and mutual aid.", "concerns": "Aristocratic power and commerce."},
+    {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Self-reliance, education and family.", "concerns": "Little."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "A woman's leadership and public education.", "concerns": "Rule by aristocracy unquestioned."},
+    {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Justice and charity in governance.", "concerns": "Reincarnation; banking (riba) may concern some."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Artha pursued within dharma.", "concerns": "Little."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Right livelihood and compassion.", "concerns": "Little."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Competent woman leader; schooling for all.", "concerns": "Monarchy taken for granted."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Reason and knowledge improve lives.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Duty, family honor and sound economics.", "concerns": "Little."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Diligence and education.", "concerns": "Reincarnation."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Honesty and industry.", "concerns": "Political focus."},
+    {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Clear thinking overcomes adversity.", "concerns": "Little."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Education and justice for commoners.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony restored through diligent service.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work and service to all; women's equality.", "concerns": "Little."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Universal education; equality of women.", "concerns": "Little."},
+    {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Competence and trustworthiness.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-made success against those who wronged her.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Honest commerce and tzedakah-like schooling.", "concerns": "Reincarnation premise."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Ethical leadership.", "concerns": "Little."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Tikkun olam through reform.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Iris leaves with dignity, answers scorn with results (Wikipedia)."},
+      "Order vs freedom": {"pos": 3, "evidence": "Ordered reform of taxes and institutions (Wikipedia; ANN)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Family fief and loyal retainers (MU)."},
+      "Equality vs hierarchy": {"pos": 7, "evidence": "Aristocratic rule, devoted followers (MU)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern economics applied to a feudal world (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 4, "evidence": "Prosperity and work first."}
+    },
+    "closest": ["Confucian", "Orthodox Europe", "Catholic Europe"],
+    "japan": "The workaholic office lady reborn as a tireless administrator reflects Japanese work culture, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 4,
+    "evidence": "ANN: development told rather than shown; not described as preachy.",
+    "personified": [
+      {"character": "Iris", "ideology": "Competent, people-serving governance", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Prince Edward", "ideology": "Entitled, punitive rule", "role": "Villain", "treatment": "Mixed"},
+      {"character": "Yuri", "ideology": "Charity as a facade", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Rivals are shown as foolish or scheming, while the story spends most time on Iris's reforms."
+  },
+  "winners_losers": "Iris and her fief prosper; Prince Edward and the heroine Yuri lose standing. Sympathy goes to practical, honest leadership.",
+  "to_verify": [
+    "Whether Yuri's spy role is confirmed in the manga",
+    "Succession-crisis violence",
+    "Seven Seas age rating"
+  ]
+}

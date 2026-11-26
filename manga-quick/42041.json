@@ -1,0 +1,358 @@
+{
+ "anilist_id": 42041,
+ "title": "Your Story I've Known",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/42041",
+  "https://api.mangaupdates.com/v1/series/76330338141",
+  "https://api.mangadex.org/manga/09af7aa5-d51f-46f4-b5d1-d14384135ae4"
+ ],
+ "premise": "High-school student Haato loves Shibusawa, a yakuza who was once his abusive mother's boyfriend and was kind to him; with nowhere left to go, he turns to the older man, and the three-chapter story follows their relationship over the years (AniList and MU blurbs). Other stories cover a high-school couple deciding whether to move their relationship forward, a fighter haunted by a samurai ghost, and a man confessed to by another man (AniList). It is a one-volume Boys' Love anthology.",
+ "life_message": "Kindness and steadfast love can rescue someone from abuse.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Abusive mother; yakuza setting (blurb; MU Domestic Abuse)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Abuse background; a ghost story."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "High-school couple considering a further step (blurb); MangaDex rates safe; explicitness to verify."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Child abuse and homelessness (blurb; MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Romance between a high-school student and an adult yakuza (blurb; MU Age Gap); when it begins relative to his age is to verify."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Audio drama (MU)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Escape from abuse; age-gap same-sex romance; short anthology",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescue of an abused child.",
+   "concerns": "Adult-minor romance; same-sex relationship."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mercy to the abandoned.",
+   "concerns": "Same-sex romance; criminal milieu."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness of a rescuer.",
+   "concerns": "Adult-teen same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for the vulnerable.",
+   "concerns": "Age-gap same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Rescue.",
+   "concerns": "Same-sex romance; ghosts."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mercy.",
+   "concerns": "Same-sex romance; age gap."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Caring for the needy.",
+   "concerns": "Adult-minor romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Age gap; same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Rescue story.",
+   "concerns": "Age-gap romance with a minor."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Mercy.",
+   "concerns": "Crime milieu; same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Care.",
+   "concerns": "Same-sex romance; age gap."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Escape from abuse.",
+   "concerns": "Adult-minor power imbalance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Care for an orphan-like youth.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Adharma in abuse and crime."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Compassion ends suffering.",
+   "concerns": "Power imbalance with a minor."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Abuse recognized; queer love.",
+   "concerns": "Grooming-like age gap (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Escape from abuse.",
+   "concerns": "Adult-minor exploitation risk."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Rescue of a child.",
+   "concerns": "Age-gap romance; gangster hero."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Mercy.",
+   "concerns": "Same-sex romance; ghosts."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex romance; spirits."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Love over fear.",
+   "concerns": "Abuse and crime."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Worth of an abused child.",
+   "concerns": "Adult-minor power imbalance."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Care.",
+   "concerns": "Age-gap with a minor."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Bond (en) over years.",
+   "concerns": "Ghost and impurity motifs."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Protecting the oppressed.",
+   "concerns": "Same-sex romance; crime."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Recovery from abuse.",
+   "concerns": "Adult-minor romance."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Self-determination.",
+   "concerns": "Possible harm to a minor."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Mercy.",
+   "concerns": "Same-sex romance; ghost."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Age-gap with a minor."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Escape from abuse.",
+   "concerns": "Adult-minor power imbalance."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Yakuza world with fights (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Personal love chosen over norms."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Chosen family replaces abusive mother."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Age-gap relationship."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern urban setting; a ghost story."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Love and survival mixed."
+   }
+  },
+  "closest": [
+   "El Norte",
+   "Catholic Europe",
+   "The Far West"
+  ],
+  "japan": "Yakuza characters as gruff protectors are a common Japanese genre figure."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found; blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The rescue theme is carried by the main story's time span."
+ },
+ "winners_losers": "Haato finds refuge with Shibusawa; the abusive mother gets no sympathy (blurb).",
+ "to_verify": [
+  "Whether the romance becomes physical while Haato is a minor (time skip noted by MU).",
+  "Level of yakuza violence.",
+  "No review opened."
+ ]
+}

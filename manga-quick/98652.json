@@ -1,0 +1,370 @@
+{
+ "anilist_id": 98652,
+ "title": "Persona 5",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/98652",
+  "https://api.mangaupdates.com/v1/series/13859906428",
+  "https://api.mangadex.org/manga/9d2ffef6-127c-4de2-aed0-88041c63009b",
+  "https://goodcomicsforkids.slj.com/2020/06/11/review-persona-5-volumes-1-2/"
+ ],
+ "premise": "Akira Kurusu is put on probation and transferred to Shujin Academy after stopping a politically connected man from molesting a woman (MangaDex; Viz blurb). He and delinquent Ryuji enter a 'palace' in an alternate reality shaped by an abusive teacher, Kamoshida, awaken their Personas and, with Ann and the cat-like Morgana, form the Phantom Thieves to 'change the hearts' of corrupt adults (SLJ review). Adapts the video game.",
+ "life_message": "Young people should refuse to let corrupt adults decide who they are, and stand up against injustice.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Battles against shadows; assault backstory (SLJ); MU Violence."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Distorted palaces and shadows."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Molestation attempt Akira stopped (MangaDex)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Delinquents; not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Condemned",
+   "note": "Abuse by Kamoshida (SLJ); suicide in game not confirmed for manga (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Teen vigilantes 'stealing hearts' (blurbs; MU Vigilante/s; SLJ 15+)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Video-game tie-in."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Rebellion against corrupt adults; true self; vigilante justice",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 8,
+  "sanctity": 3,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending abused students against an abusive teacher.",
+   "concerns": "Vigilantism; demons/Personas."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Justice for victims.",
+   "concerns": "Demonic imagery; rebellion."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting the weak.",
+   "concerns": "Personas (some demons); rebellion against authority."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Standing up to evil.",
+   "concerns": "Demon summoning."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demonic Personas; spirit battles."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Resisting unjust authority.",
+   "concerns": "Vigilantism."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Unjust authority may be resisted.",
+   "concerns": "Supernatural."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Social holiness against injustice.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral framing of good versus corrupt.",
+   "concerns": "Vigilantism."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Concern for abused students.",
+   "concerns": "Heroes resolve injustice through combat."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the innocent.",
+   "concerns": "Rebellion; demons."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Exposes institutional abuse.",
+   "concerns": "Vigilantism."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Demons."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Righteous fight.",
+   "concerns": "Rebellion against teachers."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Teens challenging abusive power (SLJ).",
+   "concerns": "Vigilantism."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions authority.",
+   "concerns": "Vigilantism."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending victims.",
+   "concerns": "Anti-adult rebellion."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demons; violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demons and occult."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming 'distortion' of mind.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Justice.",
+   "concerns": "Vigilantism."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal empowerment.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending oppressed.",
+   "concerns": "Demons."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Vigilantism."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebellion against arbitrary authority.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demons."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Demons."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Vigilantism."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Thieves answer injustice themselves."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Refuse conformity (SLJ)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friends' group."
+   },
+   "Equality vs hierarchy": {
+    "pos": 2,
+    "evidence": "Rejecting adult authority."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern Tokyo."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-definition central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "The Left Coast"
+  ],
+  "japan": "Pressure to conform at a Japanese school frames the teens' rebellion."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "SLJ: teens 'refuse to let anyone else, especially adults, decide who they are'; Personas awakened by refusing injustice.",
+  "personified": [
+   {
+    "character": "Akira Kurusu / Phantom Thieves",
+    "ideology": "Rebellion against corrupt adult authority",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Rebellion is stated outright; corrupt adults are the opposition."
+ },
+ "winners_losers": "Phantom Thieves win; abusive adults lose.",
+ "to_verify": [
+  "Whether the Kamoshida arc includes sexual harassment or a student suicide attempt (unverified; not in sources opened).",
+  "SLJ review covers volumes 1-2 only."
+ ]
+}

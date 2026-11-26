@@ -1,0 +1,92 @@
+{
+  "anilist_id": 51467,
+  "title": "Stargazing Dog",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/51467",
+    "https://api.mangaupdates.com/v1/series/73019768365",
+    "https://en.wikipedia.org/wiki/Stargazing_Dog"
+  ],
+  "premise": "Told by Happie, an Akita, this short drama follows a working-class man whose wife asks for a divorce. Jobless and nearly penniless, he drives south with the dog, helps a hungry boy who later steals his wallet, pawns his belongings for the dog's surgery, and dies in his car at a campground; Happie stays loyally by him until his own death. A second story follows from their discovery (Wikipedia; MangaUpdates; AniList).",
+  "life_message": "Quiet loyalty and small kindnesses give a life meaning even when the world overlooks it.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Deaths of the man and the dog; bodies found later (Wikipedia; AniList Tragedy 76%, MU Death)."},
+    {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Divorce, homelessness and decline (Wikipedia; MU Divorce, Homeless)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "A boy steals the man's wallet (Wikipedia)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Secular humanism", "strength": 4, "stance": "Explored"},
+    {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+    {"lens": "Dharmic (Hindu/Buddhist)", "strength": 2, "stance": "Explored"},
+    {"lens": "Consumerism", "strength": 2, "stance": "Critiqued"}
+  ],
+  "dominant": "Loyalty; the dignity of an overlooked life; loss",
+  "axes": {"economic": 4, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 8, "loyalty": 9, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "A", "weight": "Discuss", "aligns": "Charity to the hungry boy; dignity of the poor; faithful love.", "concerns": "Death without spiritual hope; divorce."},
+    {"frame": "Eastern Orthodox", "grade": "A", "weight": "Discuss", "aligns": "Humility and endurance amid loss.", "concerns": "No consolation beyond death."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Kindness to a thief (Romans 12:20 echo).", "concerns": "Divorce; hopeless ending for young readers."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Unconditional loyalty as a picture of love.", "concerns": "Bleak death scenes."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Generosity to strangers.", "concerns": "No hope offered."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Common grace in an ordinary man's goodness.", "concerns": "Providence absent."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Discuss", "aligns": "Vocation and the worth of a humble life.", "concerns": "Divorce."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Discuss", "aligns": "Works of mercy toward the hungry boy.", "concerns": "Sad ending."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Discuss", "aligns": "Literary meditation on the human condition (Publishers Weekly via Wikipedia).", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Minor", "aligns": "Simplicity, nonresistance toward the thief.", "concerns": "Little to raise."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Faithfulness and service.", "concerns": "Family breakup."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Compassion for the poor and forgotten.", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Mercy to animals and the needy.", "concerns": "Some households keep dogs outdoors; divorce."},
+    {"frame": "Hindu", "grade": "A", "weight": "Discuss", "aligns": "Dog's loyalty echoes Yudhishthira's dog; karma and compassion.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Discuss", "aligns": "Impermanence and compassion across species.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Portrays poverty and social neglect.", "concerns": "Pet death distress for young readers."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Meaning in this life through bonds.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Loyalty and quiet endurance.", "concerns": "Family breakdown."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Care for creation and animals.", "concerns": "Sad ending."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "No objectionable themes noted.", "concerns": "Little to raise."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Love outlasts hardship.", "concerns": "Illness and death dwelt on."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence of all life.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Human-animal bond; nature setting.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Discuss", "aligns": "Akita loyalty (cf. Hachiko); sincerity.", "concerns": "Death impurity."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Sharing with the needy (vand chakna).", "concerns": "Little to raise."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Kindness to animals and strangers.", "concerns": "Little to raise."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Help others; animal dynamic.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Animal loyalty honored.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Tza'ar ba'alei chayim and charity.", "concerns": "Divorce; bleak."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Compassion and tzedakah.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Social-justice lens on poverty.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "The man answers theft with patience, not retaliation (Wikipedia)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Drifting road trip outside society (Wikipedia)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Bond of man and dog replaces the broken family."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Working-class protagonist; no rank focus."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Secular modern Japan; no religious frame noted."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Scavenging and sleeping in the car to survive (Wikipedia)."}
+    },
+    "closest": ["The Far West", "First Nation", "Catholic Europe"],
+    "japan": "The image of the faithful Akita and of a laid-off salaryman quietly disappearing touch on recognizable Japanese cultural motifs, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Publishers Weekly (via Wikipedia) found insight without sappiness but called the dog's name heavy-handed.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The meaning is carried by the dog's narration and the man's choices rather than speeches."
+  },
+  "winners_losers": "No one wins materially; the man and dog both die. Sympathy goes to their loyalty and to the overlooked poor.",
+  "to_verify": [
+    "Content of the second story (the investigator Okutsu)",
+    "Whether the deaths are depicted graphically",
+    "NBM age rating"
+  ]
+}

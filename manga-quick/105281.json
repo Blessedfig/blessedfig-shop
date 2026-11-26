@@ -1,0 +1,93 @@
+{
+ "anilist_id": 105281,
+ "title": "Blue Hearts",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/105281",
+  "https://api.mangaupdates.com/v1/series/68846918518",
+  "https://myanimelist.net/manga/116702/Blue_Hearts/reviews"
+ ],
+ "premise": "Yuuhi Nagi is halfway through high school with no friends, no goals and failing grades. He is grouped with other students at risk of being held back and one classmate who tutors them, and the five form an unlikely bond as each one's hidden troubles come out (Pocket Comics blurb via AniList; MAL reviews). Full-color webtoon by the creator of ReLIFE.",
+ "life_message": "Nobody has to carry their burdens alone; friendship can pull people back from despair.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Violence and delinquents; attempted gang assault (MAL reviews list violence; AniList Delinquents; MU Attempted Gang Rape)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Tragedy and suicide crisis scenes amid comedy (AniList Tragedy; reviews)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Condemned", "note": "Sexual assault of a teen character, including gang rape, as backstory; 'sex friends' subplot (MU Rape, Gang Rape, Sex Friend/s; reviews list sexual assault). Depiction level not confirmed (to verify)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Delinquent and bickering cast (MU Bickering Friendship); not rated in sources (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 6, "framing": "Shown with consequences", "note": "Bullying, depression and a suicide-prevention scene (MAL reviews; MU Suicide/s, Bullying)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Bullying and blackmail (MU Blackmail, Bullying)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Friendship and mutual support; rehabilitation of outcast teens",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 7},
+ "foundations": {"care": 9, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Friends bear one another's burdens; life defended in the suicide scene.", "concerns": "Sexual assault backstory and casual 'sex friends'."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Healing through community and compassion.", "concerns": "Sexual content and a transgender storyline."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Loyal friendship rescuing the lost.", "concerns": "Sexual assault, casual sex, transgender character."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Rescuing a classmate from suicide; second chances.", "concerns": "Sexual themes; gender identity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Restoration of broken people.", "concerns": "Sexual content; no spiritual source of hope."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Diligence, duty and neighbor love among students.", "concerns": "Sexual sin portrayed casually in a subplot."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Grace-like acceptance of failing students.", "concerns": "Sexual assault and sex-friend subplot."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Social holiness: lifting up the outcast.", "concerns": "Sexual content."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Compassion and respectful handling of hard topics.", "concerns": "Assault and suicide themes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Community mutual aid.", "concerns": "Worldly sexual content; violence."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Friendship and study effort rewarded.", "concerns": "Chastity standards not kept in subplots."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Respectful treatment of trauma and gender dysphoria.", "concerns": "Graphic trauma for younger readers."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Helping a struggling friend; striving in study.", "concerns": "Sexual content and immodesty; gender transition."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty to friends and to learning.", "concerns": "Sexual content."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion relieves suffering.", "concerns": "Sexual misconduct shown."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Trans character and survivors treated with respect (one reviewer).", "concerns": "Sexual violence; check age fit."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Empathy and peer support solve real problems.", "concerns": "Trauma content."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Hard work to avoid repeating a year.", "concerns": "Sexual content and gender identity themes for teens."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Saving a life; friendship.", "concerns": "Impure content."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness to the friendless.", "concerns": "Immorality and gender transition."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Love overcomes despair.", "concerns": "Dwells on trauma."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Worth of each outcast; inclusion.", "concerns": "Age-appropriateness of assault themes."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Harm none; care for one another.", "concerns": "Sexual exploitation shown."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Harmony of a small group restored.", "concerns": "Little doctrinal; heavy themes."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Seva-like service: tutoring classmates.", "concerns": "Sexual content."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Education and unity of friends.", "concerns": "Chastity themes."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Communication and affinity heal.", "concerns": "Depression framing (to verify)."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-determination of misfits.", "concerns": "Abuse of others condemned."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Saving a life; diligence in study.", "concerns": "Tzniut; sexual content; gender transition."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Learning and chesed.", "concerns": "Sexual content."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Inclusion and repair of broken lives.", "concerns": "Trauma themes."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Problems resolved through support, not retaliation (MAL reviews)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Misfit students find their own way (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Chosen friends replace absent families (MU Absent Parent/s)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "A peer, not a teacher, tutors the group (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular school drama; gender identity treated openly (review)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Emotional wellbeing and acceptance central (reviews)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "The Midlands"],
+  "japan": "The fear of being held back a year and the shame of failing in a prestigious school reflect Japanese school pressures."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Reviewers say heavy topics are treated 'with respect' and not made a spectacle; none call it preachy (MAL).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Friendship is carried by plot and character arcs rather than speeches."
+ },
+ "winners_losers": "The five misfits gain friendship and purpose; perpetrators of abuse are not given sympathy in the sources.",
+ "to_verify": [
+  "English license lapsed: Pocket Comics is defunct (MU).",
+  "How explicit the assault backstory is.",
+  "How the transgender character's arc is handled (only one reviewer mentions it).",
+  "Reviews are fan reviews on MAL, not professional."
+ ]
+}

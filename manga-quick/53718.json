@@ -1,0 +1,91 @@
+{
+ "anilist_id": 53718,
+ "title": "Sword Art Online: Aincrad",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/53718",
+  "https://api.mangaupdates.com/v1/series/69448094027"
+ ],
+ "premise": "In 2022 thousands of players log into Sword Art Online, a full-immersion virtual-reality game, and find there is no log-out button. Trapped in the floating castle Aincrad, they must clear all 100 floors to escape, and dying in the game means dying in real life (Yen Press blurb via AniList and MU). Two-volume adaptation of the light novel's Aincrad arc.",
+ "life_message": "Courage, skill and the bonds formed in hardship give life meaning even in an artificial world.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Sword combat; player deaths are real deaths (Yen Press blurb; AniList Death Game, MU Play or Die Situation)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Trapped death game with no exit (blurb; AniList Survival)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romance develops in the game (MU Love Develops Online, Romance genre)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Despair of trapped players (blurb, to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Immersive gaming fantasy (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Part of a large franchise; video-game culture (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Virtual reality as real life; survival and courage; solo hero",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Courage and protecting fellow players.", "concerns": "Death game violence; virtual life as escape."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Endurance through trial.", "concerns": "Immersion in an artificial world."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Bravery and self-sacrifice.", "concerns": "Violence; romance in game."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Talk point on technology and real life.", "concerns": "Violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Perseverance.", "concerns": "Escapist gaming."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Responsibility amid danger.", "concerns": "Violence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Duty to neighbor in crisis.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Cooperation among players.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Adventure framing good and evil.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Warns of technology's dangers.", "concerns": "Combat as heroism."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Courage.", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Community under trial.", "concerns": "Violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Steadfastness.", "concerns": "Violence; time-wasting games."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Maya-like illusion of the game world.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Illusion and real suffering.", "concerns": "Killing in game."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Critique of reckless tech creators.", "concerns": "Male-centered power fantasy (MU Gary Stu)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Ethics of technology.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Heroism and duty.", "concerns": "Gaming escapism."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Perseverance.", "concerns": "Violence; gaming."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Courage.", "concerns": "Violent entertainment."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Mind and reality theme.", "concerns": "Fear of death."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Questions of reality.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Fantasy adventure.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Group survival.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Courage to protect others.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Cooperation.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Survival dynamics.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individual strength.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Pikuach nefesh themes.", "concerns": "Bittul Torah; violence."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Saving lives.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical questions about tech.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Duels and personal combat (MU Sword/s)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Players act freely within a hostile game (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Guilds rather than family (MU Guild/s)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Level system ranks players (MU Level System)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Technology-driven setting (blurb)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Clear the floors or die (blurb)."}
+  },
+  "closest": ["Catholic Europe", "The Far West", "The Midlands"],
+  "japan": "Reflects Japanese MMORPG and light-novel culture of the 2000s."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "The trapped players who fight through are the sympathetic center; whoever trapped them is the antagonist (not detailed in sources).",
+ "to_verify": [
+  "No review opened; plot details beyond the blurb not verified.",
+  "MU match was by exact title; MangaDex rating unavailable.",
+  "Story is adapted from the light novel."
+ ]
+}

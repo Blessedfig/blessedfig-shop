@@ -1,0 +1,368 @@
+{
+ "anilist_id": 41493,
+ "title": "JIN",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/41493",
+  "https://api.mangaupdates.com/v1/series/73122348294",
+  "https://otakusandgeeks.com/articles/2018/4/5/manga-jin"
+ ],
+ "premise": "Brain surgeon Jin Minakata is thrown back in time to Edo-period Japan. Using modern medical knowledge with period tools, he treats diseases and injuries that were usually fatal, meets ordinary Edo people and famous historical figures, and comes to worry that saving lives is changing history.",
+ "life_message": "A good life means using one's skill to save lives and serve others, whatever the cost or risk.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Samurai era and local distrust that can turn violent (otakusandgeeks); surgery and injuries central (AniList) (to verify gore)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Deadly diseases and injuries (AniList, MangaUpdates)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Romantic subplot; courtesans (oiran) and prostitution tagged (AniList, MangaUpdates); AniList also tags sexual violence at low rank (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Period medicine; nothing noted (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Disease and death of patients."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Shown with consequences",
+   "note": "Surgery by a trained doctor; not imitable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Confucian ethics",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Secular humanism; Classical virtue ethics; Utilitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 9,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Healing the sick as a work of mercy; dignity of every life.",
+   "concerns": "Prostitution setting and possible sexual violence (to verify)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Self-giving service to the suffering.",
+   "concerns": "Courtesan setting; violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion and service to the sick.",
+   "concerns": "Prostitution themes; time travel without God."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Serving others through skill.",
+   "concerns": "Prostitution themes."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing as central good.",
+   "concerns": "Healing by medicine only; prostitution setting."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Vocation used for the neighbor's good under providence.",
+   "concerns": "Changing history raises sovereignty questions."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Doctor's vocation as service to neighbor.",
+   "concerns": "Prostitution and violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Works of mercy: healing the sick.",
+   "concerns": "Brothel setting."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Healing and service.",
+   "concerns": "Sexual-violence tag to verify."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Service and healing rather than violence.",
+   "concerns": "Samurai violence in the setting."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Service and diligence.",
+   "concerns": "Prostitution themes."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Care for the poor and sick across class.",
+   "concerns": "Period gender roles."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Saving life as saving humanity; mercy.",
+   "concerns": "Prostitution and alcohol in setting."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Seva-like healing; dharma of the physician.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion relieving suffering.",
+   "concerns": "Interference with karma debated."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Science and care for the poor.",
+   "concerns": "Period sexism shown."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Reason and medicine saving lives.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Duty, courage and history.",
+   "concerns": "Prostitution setting."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Health and healing.",
+   "concerns": "Medicine over faith not an issue; prostitution."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Saving lives.",
+   "concerns": "Historical violence; prostitution."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion and healing.",
+   "concerns": "Healing by material medicine."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every patient.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Healing without harm.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Respect for Edo-era Japanese life.",
+   "concerns": "Blood and death impurity in surgery."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Seva and honest work.",
+   "concerns": "Prostitution."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Science and service in harmony.",
+   "concerns": "Prostitution setting."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping people survive.",
+   "concerns": "Medical framing; psychiatry not noted."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Reason and science.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Pikuach nefesh: saving life above all.",
+   "concerns": "Prostitution and immodest scenes (to verify)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Saving life as supreme value.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tikkun olam through healing.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Samurai honor culture surrounds Jin (AniList samurai)."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Edo social order and rules (MangaUpdates)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Jin serves anyone sick, not just kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Edo hierarchy, samurai and illustrious figures (AniList)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Modern science transforms a traditional world."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival against deadly disease."
+   }
+  },
+  "closest": [
+   "Confucian",
+   "Orthodox Europe",
+   "Tidewater"
+  ],
+  "japan": "Edo-period class order, samurai honor and suspicion of foreign learning are shown as historical Japanese context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "AniList tags it Educational; otakusandgeeks highlights medical realism and the ethics of altering history, not moralizing (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The value of saving life is shown through cases rather than speeches."
+ },
+ "winners_losers": "Jin's medicine wins against disease; distrust of outsiders is the obstacle (to verify).",
+ "to_verify": [
+  "Prostitution, courtesan and sexual-violence elements from database tags only",
+  "Only one short article consulted",
+  "English license via Mangamo and the author's Patreon; completeness of English release to check"
+ ]
+}

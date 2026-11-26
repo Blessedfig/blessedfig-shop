@@ -1,0 +1,93 @@
+{
+ "anilist_id": 112234,
+ "title": "Nina the Starry Bride",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/112234",
+  "https://api.mangaupdates.com/v1/series/42923941664",
+  "https://api.mangadex.org/manga/d02a12f4-aa9d-48eb-8d4d-0ff476df2d12",
+  "https://animenewsnetwork.com/feature/2021-05-27/the-spring-2021-manga-guide/nina-the-starry-bride/.172112"
+ ],
+ "premise": "Nina, an orphan who steals to survive, is sold or abducted for her rare blue eyes and taken by Prince Azure to impersonate the late princess-priestess Alisha. Trained to play the princess and promised to a foreign fiancé, she resists quietly while feelings grow between her and Azure (Kodansha blurb; ANN Manga Guide). It won the Kodansha Manga Award for shoujo.",
+ "life_message": "Loyalty and love can grow even inside a role forced on you, and wit is a way to keep your self.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Court intrigue and conspiracy (MU); reviewers report no violence in volume 1."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Abduction, sale into service and a dead princess; AniList spoiler tag Tragedy. Capped (to verify)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romance and love triangle; arranged marriage; AniList low-rank spoiler tag Nudity (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Identity crisis while impersonating another (MU)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Deception and imposture as plot engine (MU Impostor, Lying Female Lead)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Feminism", "strength": 3, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Identity under an imposed role; court politics; love across rank",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 4, "authority": 6, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Nina's dignity persists though she is bought and used.", "concerns": "Deception of a whole court; marriage arranged as a political tool."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humility and endurance as Nina adapts.", "concerns": "Impersonating a priestess-princess; sustained lies."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "An orphan given a new life; perseverance.", "concerns": "Lying heroine worth discussing (MU Lying Female Lead)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Redemption from a thief's life.", "concerns": "Deception and the ethics of buying a person."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Changed fortune and courage.", "concerns": "Fake priestess role in a fictional faith (to verify)."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Providence-like turn from slavery to palace.", "concerns": "Ninth-commandment issues in the long imposture."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Faithfulness in a vocation not chosen.", "concerns": "Deceit at court."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Growth in character through hardship.", "concerns": "A person purchased; consent and power in the romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Moral complexity framed with care, per reviewers.", "concerns": "Imposture and political marriage."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Little violence; humility of a common girl.", "concerns": "Worldly court power and display."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Marriage and family duty taken seriously.", "concerns": "Deception and coerced role."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Poor orphan's voice and agency.", "concerns": "Buying a girl and a power-imbalanced romance."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Modest Middle Eastern-influenced setting; marriage central.", "concerns": "Deception; low-rank nudity tag (to verify)."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty to a role (dharma) explored through Nina.", "concerns": "Adharma of deceit and trafficking."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Suffering and identity examined gently.", "concerns": "False speech sustains the plot."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Class mobility and a resourceful heroine.", "concerns": "Purchase of a person and romance with her captor."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Wit and agency against circumstance.", "concerns": "Coercion of Nina."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Duty, loyalty and royal responsibility.", "concerns": "Lies at the heart of the court."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Little violence or sensuality reported.", "concerns": "Deception; priestess role."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Little violence or spiritism reported.", "concerns": "Fictional state religion and deceit."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Hope overcoming hard origins.", "concerns": "Grief over a dead princess."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of a street orphan.", "concerns": "Power imbalance in the romance."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Star-themed fantasy setting.", "concerns": "Little to raise beyond coercion."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity grows in Nina's role.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Equality across class; honest work of a common girl.", "concerns": "Attachment and deceit."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Oneness across class and nations via marriage.", "concerns": "Deception."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Integrity of self under pressure.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-assertion against an imposed role.", "concerns": "Bodily autonomy violated by sale."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Marriage and family duty; little immodesty reported.", "concerns": "Deceit; fictional priestly role."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Human dignity of an orphan.", "concerns": "Deception."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Justice for the vulnerable as a theme.", "concerns": "Trafficking framed as romance origin."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Nina keeps her self-respect quietly rather than by open defiance (ANN)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Court manners and royal duty constrain Nina; she adapts rather than rebels."},
+   "Civic vs kin": {"pos": 6, "evidence": "Royal family and succession disputes drive politics (MU)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Princes, priestess-princess and arranged royal marriage (blurb, MU)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Priestess-princess role and court custom."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Begins in theft for survival; feelings constrained by duty."}
+  },
+  "closest": ["Tidewater", "South and Southeast Asia", "Orthodox Europe"],
+  "japan": "A Japanese shoujo/josei court romance set in a fictional Middle Eastern-influenced kingdom, using common Japanese romance tropes of a hidden identity and love across rank."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN reviewers call it familiar, well-handled trope work; no moralizing noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values come through Nina's choices within a court drama rather than stated themes."
+ },
+ "winners_losers": "Nina gains status and affection; sympathy rests with her and, increasingly, with Azure.",
+ "to_verify": [
+  "Blurbs differ: sold by her brother (AniList/Kodansha), sold by a friend or kidnapped (ANN reviewers).",
+  "Later-volume tragedy and nudity spoiler tags (AniList).",
+  "Ongoing series; ANN guide covers volume 1 only; no Wikipedia cache."
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "anilist_id": 44701,
+ "title": "Moteki",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/44701",
+  "https://api.mangaupdates.com/v1/series/48153256175",
+  "https://www.mangaupdates.com/series/m4d7e9b",
+  "https://soliloquyinblue.mangabookshelf.com/2018/04/13/moteki-love-strikes-vol-1/"
+ ],
+ "premise": "Yukiyo Fujimoto, a 29-year-old temp worker who has never had a girlfriend, is suddenly contacted by several women from his past: Aki Doi, Itsuka Nakashiba, Natsuki Komiyama and Naoko Hayashida (Kodansha USA blurb via AniList). He fumbles each chance, at times too passive and at times too pushy, and slowly has to grow up (review). A 4.5-volume seinen drama by Mitsurou Kubo, nominated for the Manga Taisho.",
+ "life_message": "It suggests that love needs maturity and respect for others more than luck or persistence.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "None described."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional awkwardness only."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Adult near-sex scenes, loss of virginity, a forgotten condom (review); MU lists first-time intercourse, partial nudity, adultery; Mature genre."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Insulting outbursts at women (review)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Adult social drinking likely (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Low self-esteem, inferiority complex, hikikomori tag (review; MU; AniList)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Pushing past a woman's boundaries; reviewer worries about the persistence advice he gets."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Rock festival and pop-culture settings (to verify)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Male immaturity; desire and self-esteem; growing up",
+ "axes": {"economic": 5, "social": 7, "cultural": 7, "community": 4},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Fujimoto's need to mature before love.", "concerns": "Casual sex, adultery category and pursuit of sex as goal."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Exposes the passions' emptiness.", "concerns": "Sexual scenes stir the passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Shows desperation does not satisfy.", "concerns": "Premarital sex scenes."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Honest picture of loneliness.", "concerns": "Sex outside marriage normalized."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sexual content central."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Realistic about the fallen heart.", "concerns": "Lascivious content (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Honest about sin and need.", "concerns": "Sixth-commandment matters throughout."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Character growth.", "concerns": "Explicit adult content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Moral vision of growing up.", "concerns": "Sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly sexual drama."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Shows emptiness of chasing sex.", "concerns": "Law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Critiques male entitlement.", "concerns": "Boundary-pushing; consent messaging."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Zina and immodesty."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Kama without dharma leads to confusion.", "concerns": "Sexual content."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Craving shown to cause suffering.", "concerns": "Third precept."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Male insecurity examined.", "concerns": "Persistence past refusal; women defined by him."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Realistic adult growth.", "concerns": "Consent framing."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Steady work and maturity needed.", "concerns": "Promiscuity and adultery."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Passions excited."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming self-doubt.", "concerns": "Dwelling on lust."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Honest search for meaning.", "concerns": "Boundary-pushing."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Adult sexuality without shame.", "concerns": "Manipulative pursuit."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity (makoto) as the lesson.", "concerns": "Little doctrine at stake."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Ego shown as a trap.", "concerns": "Kaam (lust) central."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Unchastity."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Taking responsibility.", "concerns": "Infidelity themes."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgence among consenting adults.", "concerns": "Unwanted advances."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Tzniut and sexual content."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Growth toward commitment.", "concerns": "Degrading moments."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical self-examination.", "concerns": "Consent."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Shame is private and emotional, not a matter of honor."},
+   "Order vs freedom": {"pos": 7, "evidence": "Adults freely choosing partners."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friends and old acquaintances, with a hometown trip."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Temp worker; no deference theme."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Urban secular life."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Pursuit of love and fulfilment."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "Catholic Europe"],
+  "japan": "The pressure of reaching 30 single, temp work and pop-culture references reflect 2000s Japanese urban life."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review describes growth through events, plus advice from a hometown acquaintance.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "The series shows a flawed hero; one reviewer was unsure whether it endorses his persistence."
+ },
+ "winners_losers": "Fujimoto gains partial insight; women who set boundaries are shown sympathetically, though the story centers his view.",
+ "to_verify": [
+  "How the series resolves the persistence theme.",
+  "Explicitness of sex scenes across volumes.",
+  "Review covers only volume 1 of the English omnibus."
+ ]
+}

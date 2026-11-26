@@ -1,0 +1,375 @@
+{
+ "anilist_id": 104231,
+ "title": "Just Like Mona Lisa",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/104231",
+  "https://api.mangaupdates.com/v1/series/76526304271",
+  "https://animenewsnetwork.com/review/just-like-mona-lisa-volume-1/manga/.212749"
+ ],
+ "premise": "In a world where children are born without a sex and their bodies shift toward a gender around age twelve, Hinase has stayed genderless and content until eighteen. Two childhood friends, the girl Ritsu and the boy Shiori, confess on the same day, and Hinase must face romance and decide who to become as adulthood nears.",
+ "life_message": "Identity is found by honest self-knowledge rather than by pressure from others, even loving ones.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Identity crisis and emotional tension (ANN)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Love triangle with confessions; romantic and potentially sexual attraction discussed, nothing explicit (ANN; AniList)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Foreshadowed trauma (ANN); suicide spoiler tag (AniList only, to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 7,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Gender identity as a coming-of-age choice; social pressure toward a binary; love triangle",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 7,
+  "community": 4
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love and honest friendship; dignity of the person.",
+   "concerns": "Gender presented as chosen, contrary to teaching that sex is given."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care among childhood friends.",
+   "concerns": "Gender as chosen identity."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness and honesty.",
+   "concerns": "Gender choice and same-sex attraction central."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Struggle shown with compassion.",
+   "concerns": "Gender-identity allegory central."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gender choice; same-sex attraction."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Explores identity seriously.",
+   "concerns": "Contrary to created male and female."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion for neighbor.",
+   "concerns": "LCMS concern over gender as chosen; ELCA would differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love and kindness.",
+   "concerns": "Traditional Wesleyan bodies differ; UMC open."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity of each person.",
+   "concerns": "Episcopal and ACNA would read it differently."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentle, non-violent story.",
+   "concerns": "Gender as self-chosen identity."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty and friendship.",
+   "concerns": "Gender seen as eternal, not chosen."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion for gender-diverse youth.",
+   "concerns": "Suitors' pressure not clearly critiqued (ANN)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness among friends.",
+   "concerns": "Gender choice and same-sex attraction."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-understanding.",
+   "concerns": "Varied views on gender."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Non-attachment to fixed self examined.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Trans and nonbinary allegory; consent.",
+   "concerns": "Inconsistent symbolism (ANN)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-determination and empathy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gender identity presented to youth."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Gender choice; same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gender choice; same-sex attraction."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Inner spiritual identity beyond body.",
+   "concerns": "Romance focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Worth and dignity of every person.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom and personal truth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity among friends.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Equality; honest living.",
+   "concerns": "Varied views on gender."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Prejudice rejected; kindness.",
+   "concerns": "Sexuality outside marriage norms."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal integrity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Autonomy over one's body.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Gender choice; same-sex attraction."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity of the person.",
+   "concerns": "Views vary by congregation."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Conflict handled through feelings and talk (ANN)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Hinase's own choice of identity (blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Childhood friends, little family focus (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Peers as equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Biology reframed as choice (blurb)."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-expression central (ANN)."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "The Left Coast"
+  ],
+  "japan": "High-school setting with confession culture and quiet social expectations about fitting in, typical of Japanese school drama."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 4,
+  "evidence": "ANN calls it a 'surprisingly poignant trans and coming-out allegory' but 'a little shaky and inconsistent' in theming.",
+  "personified": [
+   {
+    "character": "Ritsu and Shiori (suitors)",
+    "ideology": "pressure toward a binary gender for love's sake",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The allegory is carried by the love triangle; the reviewer was unsure whether the suitors' pressure is meant as critique."
+ },
+ "winners_losers": "Hinase's own search for self gets the sympathy; social pressure into binary categories is questioned (ANN; Square Enix blurb).",
+ "to_verify": [
+  "AniList spoiler tag 'Suicide' (low rank) not confirmed by a second source.",
+  "Review covers volume 1 only; ending (MU lists Multiple Endings).",
+  "Any sexual content in later volumes."
+ ]
+}

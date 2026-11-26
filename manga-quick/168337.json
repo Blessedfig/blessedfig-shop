@@ -1,0 +1,92 @@
+{
+ "anilist_id": 168337,
+ "title": "The Strongest Evolutionary Necromancer",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/168337",
+  "https://www.mangaupdates.com/series/3azmw46",
+  "https://api.mangadex.org/manga/0fe937a5-d40c-48d7-bce7-a51000843a5b"
+ ],
+ "premise": "After clearing the game Peccata twelve times, Kim Jinhwan wakes inside it as Adrias Cromwell, a weak, cowardly side character fated to be executed with his master for practicing forbidden magic. With six months left, he trains and gathers corpses to strengthen his necromancy, using his game knowledge to change events. This full-color Korean webtoon is adapted from a web novel.",
+ "life_message": "Knowledge, hard training and refusing a fated role let a person survive and rise.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Endorsed", "note": "AniList tags Gore and Swordplay; combat with undead (to verify: may be understated, capped for lack of a second source kind)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Corpses, skeletons and a cult (AniList Necromancy, Skeleton, Cult; publisher blurb) (to verify)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Low-ranked harem and romance tags (AniList, MangaUpdates); MangaDex rates safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Fear of a fated death."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Fantasy necromancy, not realistic."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Survival against a scripted fate; power growth; necromancy",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 3, "loyalty": 5, "fairness": 3, "sanctity": 2, "authority": 4, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Refusing despair; effort to survive.", "concerns": "Necromancy (CCC 2116) as the hero's power; corpse-gathering."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Little in line.", "concerns": "Raising the dead by sorcery; desecrating bodies."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Diligent training.", "concerns": "Necromancy forbidden (Deuteronomy 18:11) and celebrated."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Overcoming a cowardly past.", "concerns": "Occult practice as heroism."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Death magic and cult imagery."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Diligence.", "concerns": "Occult framed positively."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Effort and courage.", "concerns": "Witchcraft positively framed."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Occult and gore."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Fantasy convention of dark magic.", "concerns": "Necromancy unjudged."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence and occult."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency over fate.", "concerns": "Spirit-of-the-dead magic; gore."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Underdog breaking a scripted fate.", "concerns": "Gore."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sihr and desecration of corpses."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Changing one's karma through effort.", "concerns": "Black magic disapproved."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Fate not fixed.", "concerns": "Killing and attachment to power."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Violence; possible harem tropes."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Knowledge used to change outcomes.", "concerns": "Gore."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Hard work and loyalty to a master.", "concerns": "Occult themes."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spirits of the dead shown as real tools."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritism and violence."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Death imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Gore."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Magic not demonized in itself.", "concerns": "Magic used to harm."},
+  {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Corpses: deep kegare."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Magic rejected by the Gurus."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Occult and violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Taking control of one's own survival.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Forbidden magic as rebellion against arbitrary rules.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Necromancy and corpse impurity."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Sorcery forbidden."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Revenge tag; fights to survive his fated execution (AniList)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Practices forbidden magic against authority (publisher blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Bond with his master; sibling characters (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Nobility, academy and royalty settings (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Game-knowledge rationalism."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Six months to survive."}
+  },
+  "closest": ["The Far West", "Orthodox Europe", "El Norte"],
+  "japan": "A Korean webtoon (not Japanese) in the 'trapped in a game' genre; Korean regression-fantasy conventions apply."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No source describes a message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A power-fantasy whose values are assumed rather than argued."
+ },
+ "winners_losers": "The prepared protagonist survives and grows; those following the game's script are outplayed.",
+ "to_verify": [
+  "No Wikipedia cache and no review opened; scores from databases and publisher blurb only",
+  "Gore level (AniList tag) may be understated by the cap",
+  "Cult storyline content"
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "anilist_id": 43955,
+ "title": "Ou to Hiyaku ~Keisei Kobanashi~",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/43955",
+  "https://api.mangaupdates.com/v1/series/44974707335"
+ ],
+ "premise": "A collection of linked one-shots. In the title stories, Emperor Shion, on his first visit to the red-light district, is smitten with Moegi, a caged male prostitute up for sale, and buys out his contract, but the rescue may be part of a conspiracy; a sequel involves an aphrodisiac (AniList, MU). Other stories include a raider pair, a ghost and revenge (MU).",
+ "life_message": "Love may grow out of rescue, but power and intrigue shadow it.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU lists Rape and Revenge; single source for rape (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Conspiracy and ghost story (AniList, MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Brothel, male prostitute and aphrodisiac (AniList blurb; MU Brothel/s, Male Prostitute/s, Aphrodisiac)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Aphrodisiac (MU)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Captivity of Moegi (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Buying a caged person framed as romantic rescue (AniList blurb, MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Trade in people in the red-light district (AniList)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Might makes right; Hedonism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 2
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 6,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Freeing Moegi from a cage.",
+   "concerns": "Prostitution and purchase of a person as romance; same-sex acts; aphrodisiac."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Release of a captive.",
+   "concerns": "Brothel setting inflames the passions; sorcery-like potion."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond the rescue.",
+   "concerns": "Prostitution; same-sex sex; aphrodisiac."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescue from bondage.",
+   "concerns": "Sexual content in a brothel setting."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Potions, ghosts and brothel sex."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Emperor's power used to free someone.",
+   "concerns": "Lascivious content; buying a person."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Rulers' duty to protect the weak.",
+   "concerns": "Brothel and purchased love."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Liberation of a captive.",
+   "concerns": "Exploitation; sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Historical court intrigue.",
+   "concerns": "Buying a prostitute; possible non-consent."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Brothel; revenge; sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity; prostitution; potion."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Freedom from sexual servitude.",
+   "concerns": "Purchase and power over Moegi; MU Rape."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Zina; brothel; same-sex acts."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "King's dharma to protect.",
+   "concerns": "Kama via purchase and potion."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Freeing a being from suffering.",
+   "concerns": "Sexual misconduct; revenge story."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critique of sex trafficking possible.",
+   "concerns": "Purchased partner; consent under potion."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Shion's act ends Moegi's sale to the highest bidder.",
+   "concerns": "Exploitation of Moegi; consent under an aphrodisiac."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shion's protective role as ruler.",
+   "concerns": "Prostitution framed as romance; same-sex acts."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond the rescue.",
+   "concerns": "Ghost story and brothel passions."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality; ghost of the dead; revenge."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Moegi freed from his cage.",
+   "concerns": "Sensual and degrading brothel images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Liberation from the pleasure quarter.",
+   "concerns": "Consent and trafficking; MU Rape."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Escape from bondage.",
+   "concerns": "Aphrodisiac manipulates will; harm none broken."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ghost and historical lore woven in.",
+   "concerns": "Impurity of the pleasure quarter; revenge."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Freeing the oppressed is righteous.",
+   "concerns": "Lust; brothel; revenge for its own sake."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity; inequality of buyer and bought."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Shion helps someone in bondage.",
+   "concerns": "Harm through the aphrodisiac and conspiracy."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Pursuit of desire by Shion.",
+   "concerns": "Unwanted advances; potion overriding consent."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Pidyon shevuyim echo: freeing a captive.",
+   "concerns": "Prostitution; same-sex acts; aphrodisiac."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Freeing a captive.",
+   "concerns": "Exploitation of Moegi; degrading content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Liberation of Moegi.",
+   "concerns": "Exploitation and consent."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Revenge story (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Imperial court order."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Court and conspiracy."
+   },
+   "Equality vs hierarchy": {
+    "pos": 9,
+    "evidence": "Emperor and caged prostitute."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Historical setting; ghosts."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival in the pleasure quarter."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Cavalier",
+   "South and Southeast Asia"
+  ],
+  "japan": "The keisei (courtesan) and red-light district setting draws on Edo-period pleasure-quarter imagery, here with a male courtesan."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Conspiracy blurb (AniList); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Historical romance without argued message."
+ },
+ "winners_losers": "Whether Shion's rescue is a conspiracy is the hook (AniList); outcome to verify.",
+ "to_verify": [
+  "Ending",
+  "Nature of MU Rape category",
+  "Other one-shots",
+  "English availability (Digital Manga Guild; likely lapsed)"
+ ]
+}

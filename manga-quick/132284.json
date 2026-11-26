@@ -1,0 +1,89 @@
+{
+ "anilist_id": 132284,
+ "title": "Candy Flurry",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/132284",
+  "https://api.mangaupdates.com/v1/series/11722896451"
+ ],
+ "premise": "Magical 'Toy Toy Candy' sweets give whoever eats them candy powers, and their misuse destroyed Tokyo. Tsumugi secretly has the same lollipop power that brought the city to ruin, and must hide it while confronting criminal sweets-users (MANGA Plus blurb via AniList/MU). A three-volume Weekly Shonen Jump series that MU lists as cancelled.",
+ "life_message": "A dangerous power can be used responsibly to protect others.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Superpower battles with criminals (blurb); AniList spoiler Terrorism, Crime."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Tokyo destroyed by candy powers (blurb); MU Man-Made Disaster/s."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted; MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Power-granting candy works like a controlled substance (blurb) (to verify)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Hiding a secret (MU Hiding Power/s)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Sweets theme (AniList Food)."}
+ ],
+ "lenses": [
+  {"lens": "Utilitarianism", "strength": 2, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Absurdism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Hidden dangerous power; candy-themed superhero comedy; police and criminals",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Using gifts to protect others.", "concerns": "Superpowered fights."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Restraint of a dangerous power.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Responsibility and courage.", "concerns": "Magic tag."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Good versus criminals.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Resisting misuse of power.", "concerns": "Magic candy."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Police as lawful order.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Civil righteousness.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Do no harm with power.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Light moral frame.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Fear of destructive power.", "concerns": "Battles as heroism."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Responsibility.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Female hero.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Justice against criminals.", "concerns": "Magic."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty to protect.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Restraint.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Girl lead in a shonen title (MU).", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Responsibility for dangerous tech-like power.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Police and order.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Little.", "concerns": "Magic; violence."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Magic and violence."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Courage.", "concerns": "Disaster imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Little.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Power with responsibility.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Little.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Protecting others.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Little.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Little.", "concerns": "Power-granting substance."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal power.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Little.", "concerns": "Magic."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Little.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Little.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Confronts criminals directly (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hides power from authorities (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Neither stressed."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Police tag; little hierarchy shown."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern urban fantasy."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Comedy amid ruined city."}
+  },
+  "closest": ["Catholic Europe", "The Far West", "The Midlands"],
+  "japan": "A short Weekly Shonen Jump run; hiding a stigmatized trait to fit in reflects Japanese conformity pressures."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No source describes opposing views."
+ },
+ "winners_losers": "Tsumugi is the sympathetic lead; criminal sweets-users are opponents.",
+ "to_verify": [
+  "No review opened; AniList spoiler tags Terrorism, Espionage, Anti-Hero.",
+  "AniList notes the volumes include one-shots ('Uchuusen Minamo-gou', 'Seiken no Yuusha no Goei') not reviewed."
+ ]
+}

@@ -1,0 +1,363 @@
+{
+ "anilist_id": 103586,
+ "title": "Cells at Work! CODE BLACK",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/103586",
+  "https://api.mangaupdates.com/v1/series/12384533054",
+  "https://api.mangadex.org/manga/f736cce8-888e-49ff-9505-afc5853ebc04",
+  "https://otakuusamagazine.com/?p=242955"
+ ],
+ "premise": "A rookie red blood cell works inside an adult man's unhealthy body, where stress, cholesterol, ulcers and other problems make every day a 'code black' (Kodansha USA blurb). Each chapter shows cells responding to crises tied to smoking, drinking, erectile dysfunction, a sexually transmitted infection and stress, with biology captions (Otaku USA review). An adult spinoff of Cells at Work!",
+ "life_message": "The body pays for self-destructive habits; health is shared work.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Gore and blood (AniList, MU); Otaku USA says not much more violent than the original series."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Dystopian survival, dark ambience (tags); body under extreme stress (review). Capped (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Erectile tissue and STI chapters; one naked cell; revealing figure (Otaku USA); MU Nudity."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 5,
+   "framing": "Condemned",
+   "note": "Smoking and drinking damage the body (review; MU Alcohol, Smoking)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Suicide, depression and overwork per MU and AniList spoiler tags only; capped (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Learning biology."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Naturalism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 2,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Health consequences; overwork; adult body biology",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 7,
+  "community": 7
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Body as gift; vices bear consequences.",
+   "concerns": "STI and sex organs; suicide."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ascetic warning.",
+   "concerns": "Sexual themes; gore."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vices condemned.",
+   "concerns": "Sexual content; suicide."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Stewardship of body.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vices condemned.",
+   "concerns": "Sexual; gore."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Body stewardship.",
+   "concerns": "Lascivious elements."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Health.",
+   "concerns": "Sexual chapters."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Abstinence message.",
+   "concerns": "Sex content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Educational.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Temperance.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Word of Wisdom echoed.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overwork critique.",
+   "concerns": "Suicide."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Intoxicants harmful.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Health dharma.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Intoxicants harm.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Health education.",
+   "concerns": "Suicide portrayal."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Science education.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Health message.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Disease focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Science.",
+   "concerns": "Suicide."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Body wisdom.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Purity.",
+   "concerns": "Blood."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Tobacco condemned.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Health.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Anti-drug.",
+   "concerns": "Psychiatric themes (to verify)."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Bodily autonomy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Guarding health.",
+   "concerns": "Nivul peh."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Health.",
+   "concerns": "Sexual."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Health.",
+   "concerns": "Suicide."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Cells serve body rules."
+   },
+   "Order vs freedom": {
+    "pos": 2,
+    "evidence": "Strict duty."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Body community."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Cell roles."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Biology."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "Survival."
+   }
+  },
+  "closest": [
+   "Confucian",
+   "Puritan",
+   "Catholic Europe"
+  ],
+  "japan": "Japanese 'black company' overwork culture is satirised through cells (MU Black Company)."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "Captions explain biology; cells state consequences of binge habits (Otaku USA).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Health message stated."
+ },
+ "winners_losers": "Overworked cells suffer from the host's habits.",
+ "to_verify": [
+  "Suicide depiction (MU tag).",
+  "Review covers volume 1."
+ ]
+}

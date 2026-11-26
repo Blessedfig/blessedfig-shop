@@ -1,0 +1,92 @@
+{
+ "anilist_id": 30633,
+ "title": "Beauty Pop",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30633",
+  "https://api.mangaupdates.com/v1/series/60996085628"
+ ],
+ "premise": "Kiri Koshiba is a gifted hairstylist with no interest in fame, unlike the three popular boys of the school's 'Scissors Project', who give showy makeovers to hand-picked girls (Viz blurb via MU). When they reject Kiri's friend Kanako as 'too ugly', Kiri decides to help her and teach the boys what true beauty is (Viz blurb via AniList). A shoujo comedy with rivalry, a love triangle and a reverse harem; complete in 10 volumes and out of print in English (MU).",
+ "life_message": "True beauty and talent serve others rather than one's own fame.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Love triangle and reverse harem (AniList, MU); teen cast; no sexual tags."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Insults about looks (blurb: 'too ugly')."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Appearance-based rejection (blurb); MU Gynophobia."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Hairdressing and makeup by teens."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Makeovers, fashion and beauty products (AniList Fashion, Makeup)."}
+ ],
+ "lenses": [
+  {"lens": "Consumerism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Inner versus outer beauty; humility of talent; teen romance",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Kiri defends Kanako's dignity against being judged by looks.", "concerns": "Emphasis on makeovers and appearance."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humility of the gifted Kiri.", "concerns": "Vanity culture."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "'Man looks on the outward appearance' theme.", "concerns": "Reverse-harem romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Kindness to a rejected friend.", "concerns": "Appearance focus."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Humility and loyalty.", "concerns": "Worldly beauty culture."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Gifts used for others.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation of a craft.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Doing good to a neighbor.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Dignity over vanity.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humility over fame.", "concerns": "Fashion and makeup culture opposite plainness."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Talent and kindness.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Critique of looks-based judgment.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Inner character valued.", "concerns": "Beauty display and mixed-gender romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Skill without ego.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Non-attachment to fame.", "concerns": "Appearance focus."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Pushback on beauty standards.", "concerns": "Makeover framing may reinforce them."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Talent and fairness.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Humility and loyalty to a friend.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Inner beauty theme.", "concerns": "Adornment emphasis."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Clean school comedy.", "concerns": "Romance and vanity."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "True beauty as spiritual quality.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth independent of appearance.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal responsibility and craft.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincere craftsmanship.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Ego (haumai) humbled.", "concerns": "Haircutting culture may be noted by kesh-keeping families."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Service with one's art.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Talent asserted on one's own terms.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Opposes shaming (lashon hara about looks).", "concerns": "Mixed-gender romance; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kind speech.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Dignity for all.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Rivalry settled by skill contests (MU Rivals Become Lovers)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Kiri does as she pleases (MU Lazy Protagonist)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Loyalty to a friend (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Popular boys' status deflated."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern fashion world."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Beauty and self-presentation central."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "English-speaking"],
+  "japan": "School club rivalries and popular-boy groups are Japanese shoujo staples."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb: Kiri sets out to 'give the boys a lesson in what true beauty is'; no review read (to verify).",
+  "personified": [
+   {"character": "The Scissors Project boys", "ideology": "Beauty as surface and status", "role": "Foil", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The boys begin as foils but MU's Rivals Become Lovers tag suggests they are not simply mocked."
+ },
+ "winners_losers": "Kiri and the friend she defends win sympathy; the Scissors Project's shallow standard is challenged.",
+ "to_verify": [
+  "How the series resolves its own makeover-centered framing",
+  "Romance outcome",
+  "English edition out of print (MU)"
+ ]
+}

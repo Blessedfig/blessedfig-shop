@@ -1,0 +1,89 @@
+{
+ "anilist_id": 182911,
+ "title": "Monochrome Days",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/182911",
+  "https://www.mangaupdates.com/series/xjm22bv"
+ ],
+ "premise": "Office worker Hanaichi Fudo had a gift for art but gave up his dream of being an artist to lead a normal life. When his senior colleague Saori Wakaba asks him to help her make manga, he is drawn back to the pen in a comedy about aspiring manga artists.",
+ "life_message": "It suggests that it is never too late to return to a creative dream, and that working together can rekindle it.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Light workplace romance tag (AniList Heterosexual 45%)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Adult office setting; not described."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "A dead mother and an abandoned dream in the background (MU Dead Mother, Childhood Dream)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "Drawing technique shown educationally (AniList Educational)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Manga industry as subject."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Expressive individualism (return to art), Communitarianism (collaboration)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 3, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Gifts as talents to use; colleagues helping one another.", "concerns": "Little."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Humble service to a senior's project.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Using one's gifts; clean workplace comedy.", "concerns": "Little."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Calling and gifts rediscovered.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Gifts stirred up again.", "concerns": "Little."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation in both office and art.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "S", "weight": "Minor", "aligns": "Ordinary vocation and creative calling held together.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Encouragement and accountability between colleagues.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Imagination as a gift.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Humble, cooperative work.", "concerns": "Pursuit of popular media."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Developing talents.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "A competent woman senior leading a project.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Honest work and cooperation.", "concerns": "Mixed-gender workplace romance (to verify)."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Art and duty balanced.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Right livelihood and patient practice.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Adult creativity and a capable female lead.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Craft and self-realization.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Hard work and respect for seniors.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Purposeful leisure.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Clean, cooperative work.", "concerns": "Little."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Overcoming limiting beliefs about oneself.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Transformation and creativity.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Creative will.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincere effort and workplace harmony.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work and sharing skill.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Art as work done in service.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Artist's role praised.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Pursuing one's desires.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Diligent work.", "concerns": "Bittul Torah question."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Lifelong learning.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Creativity and cooperation.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No conflicts of honor described."},
+   "Order vs freedom": {"pos": 4, "evidence": "Hanaichi chose a 'normal life' in an office (MANGA Plus blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Workplace bonds rather than family."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Senior-junior office relationship drives the plot (MU Senpai-Kouhai Relationship)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Secular modern office."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Stable job versus artistic dream (MANGA Plus blurb)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Puritan"],
+  "japan": "Senpai-kohai office relations and giving up dreams for a stable salaried job reflect Japanese workplace norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Comedy per publisher blurb; AniList Educational tag; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The return-to-art theme is carried by the premise."
+ },
+ "winners_losers": "Hanaichi and Wakaba (to verify).",
+ "to_verify": [
+  "No review opened.",
+  "English on MANGA Plus (digital); five volumes complete."
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "anilist_id": 201855,
+ "title": "Bus for Two",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/201855",
+  "https://api.mangaupdates.com/v1/series/59790756843"
+ ],
+ "premise": "In a rural town of about 3,000 people, Shunpei rides the same bus every day as An Takayagawa, the classmate who left for a private middle school. After years without talking, the disappearance of a local vending machine starts a conversation, and their bus rides become a new routine of banter (VIZ blurb via AniList; MU description).",
+ "life_message": "Small, patient conversations can renew a friendship, and maybe more.",
+ "overall": 1,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "'Not-quite-love comedy' between middle schoolers (MU)."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Rekindled friendship; rural small-town life; gentle first love",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Patient renewal of friendship between Shunpei and An.", "concerns": "Little."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Quiet, gentle relationships.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Innocent friendship.", "concerns": "Early romance (mild)."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Reconciliation after drifting apart.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Wholesome friendship.", "concerns": "Little."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Ordinary life as good.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Daily-life vocation.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle comedy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Minor", "aligns": "Simple rural life.", "concerns": "Little."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Clean, uplifting story.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Rural community and smart female lead (MU).", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Respectful conversation.", "concerns": "Boy-girl romance hints."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Studiousness (An studying).", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Mindful everyday moments.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Gentle, equal friendship.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Human connection.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Small-town community.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Education and simplicity.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Clean friendship.", "concerns": "Little."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Harmony.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Connection.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Rural rhythms.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Countryside community.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Diligence.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Education and friendship.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Communication restored.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Enjoying small pleasures.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Studiousness.", "concerns": "Boy-girl romance hints."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Gentle banter, no conflict (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Routine bus rides (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Small class that stayed together for years (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Peers."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Rural town and private-school ambition side by side."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Leisure and conversation."}
+  },
+  "closest": ["The Midlands", "Catholic Europe", "Yankeedom"],
+  "japan": "Rural depopulation and long bus commutes to private schools reflect Japanese countryside life, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurbs describe a 'soft, sky-blue not-quite-love comedy' (MU); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message in sources."
+ },
+ "winners_losers": "Shunpei and An's renewed bond; no opposing view.",
+ "to_verify": [
+  "VIZ English release listed by MU for Summer 2027; AniList lists Viz as publisher. Confirm English availability.",
+  "No review opened."
+ ]
+}

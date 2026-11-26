@@ -1,0 +1,93 @@
+{
+ "anilist_id": 110429,
+ "title": "Something's Wrong With Us",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110429",
+  "https://api.mangaupdates.com/v1/series/67738479596",
+  "https://butwhytho.net/2020/06/12/review-somethings-wrong-with-us-volume-2"
+ ],
+ "premise": "Nao, a 21-year-old maker of traditional Japanese sweets (wagashi), meets Tsubaki, heir of the prestigious confectioner Kogetsuan, whom she believes framed her mother for his father's murder 15 years earlier (Kodansha blurb). Unrecognized, she enters a marriage arrangement with him to uncover the truth, while his mother and grandfather oppose her (But Why Tho review). Kodansha markets it as a dark, psychological, steamy josei romance.",
+ "life_message": "Truth and love must be pursued through family secrets and old grudges; craft and perseverance sustain a person.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Murder mystery at the core; grandfather physically attacks Nao (review); abusive family members (MangaUpdates)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Psychological thriller tension, hatred and framing (MangaUpdates, review calls it tense)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Kodansha calls it 'steamy' and 'sexy'; review says intimacy is implied with shadows, not shown."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Nao's PTSD triggered by Tsubaki's mother (review); childhood trauma and phobia (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Deceptive marriage for revenge or truth; scheming family (MangaUpdates)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Live-action drama adaptation (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 5, "stance": "Explored"},
+  {"lens": "Feminism", "strength": 3, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Family secrets and succession; revenge versus love; traditional craft",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 7, "sanctity": 4, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Nao seeks truth about her mother's wrongful conviction.", "concerns": "Deceptive marriage and sexual relations outside sacramental marriage."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Honoring a mother's memory.", "concerns": "Grudge, deception and passions drive the leads."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Justice for the falsely accused.", "concerns": "Steamy romance; marriage entered under false pretenses."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Truth eventually confronted.", "concerns": "Revenge motive and implied sex."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Perseverance through hostility.", "concerns": "Sensual content and hatred within the family."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Vocation and craftsmanship in wagashi.", "concerns": "Ninth-commandment issues: framing and lies throughout."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Diligent work in a craft as vocation.", "concerns": "Lying and implied intimacy."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Endurance under abuse by in-laws.", "concerns": "Revenge motive; sexual content."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "A morally complex mystery about guilt and truth.", "concerns": "Abusive family dynamics left to the reader."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Craft and simple diligence.", "concerns": "Deception, grudge and worldly romance."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Strong family-business ties.", "concerns": "Chastity concerns; dishonest arrangement."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Woman resisting a powerful family's injustice.", "concerns": "Romanticized relationship with a suspected framer."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Seeking justice for a parent.", "concerns": "Sexual content and deception in marriage."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty to mother's honor; family lineage.", "concerns": "Adharma of deceit and abuse."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Shows how hatred and grudges bind families.", "concerns": "Craving and resentment drive choices."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Skilled working woman in a male-led tradition.", "concerns": "Romanticizes a power-imbalanced, possibly abusive bond."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Truth-seeking about a wrongful conviction.", "concerns": "Little beyond toxic family dynamics."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Respect for traditional craft and family house.", "concerns": "Steamy content; family elders shown as abusive."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Diligence and talent.", "concerns": "Sexual content and hatred."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Pursuit of truth.", "concerns": "Immorality and violence in the plot."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Truth uncovering error.", "concerns": "Dwelling on fear and resentment."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Justice for the wrongly accused.", "concerns": "Emotional abuse dynamics."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility for truth.", "concerns": "Harm done through deceit."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Seasonal wagashi craft and household continuity.", "concerns": "Death and grudges unpurified."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work (kirat karni) in her craft.", "concerns": "Deceit and anger drive the plot."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness ultimately sought.", "concerns": "Unchaste content; marriage without consent norms."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence and drive of Nao.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Nao pursues her own ends against a powerful house.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Honoring a parent's name.", "concerns": "Tzniut issues; falsehood in marriage."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice for the wronged.", "concerns": "Sexual content; deception."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical concern for wrongful accusation.", "concerns": "Unhealthy relationship patterns."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Nao sets out to clear her mother's name and confront Tsubaki (blurb)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Rigid rules of an old confectionery house (MangaUpdates Tradition/s)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Family business, family secret and succession central."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Grandfather and mother rule the house; outsiders punished (review)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Traditional wagashi and family customs."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Nao's survival after exile; status and inheritance."}
+  },
+  "closest": ["South and Southeast Asia", "Tidewater", "Sub-Saharan Africa"],
+  "japan": "Set in a long-established wagashi house where family name, succession and the matriarch's authority reflect Japanese merchant-household (ie) traditions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Review discusses tension and romance, no moralizing (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A melodrama that carries its themes through mystery and romance rather than stated lessons."
+ },
+ "winners_losers": "Nao is the sympathetic lead; the controlling elders of the house appear as antagonists (review).",
+ "to_verify": [
+  "Who actually committed the murder and how the series resolves it (not in sources).",
+  "Explicitness of later volumes; review covers volume 2 only.",
+  "Extent of consent issues in the marriage arrangement.",
+  "ANN Spring 2020 Manga Guide page failed to load."
+ ]
+}

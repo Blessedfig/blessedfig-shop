@@ -1,0 +1,363 @@
+{
+ "anilist_id": 30234,
+ "title": "Close the Last Door",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30234",
+  "https://api.mangaupdates.com/v1/series/12786959589",
+  "https://www.publishersweekly.com/978-1-56970-883-5"
+ ],
+ "premise": "Office worker Nagai has long secretly loved his coworker Saitoh. After Saitoh's wedding, a drunk Nagai ends up in a hotel room with Honda, a guest of the bride; then Saitoh's new wife leaves him, and a love triangle among the three adult men develops.",
+ "life_message": "Honest feelings, once admitted, matter more than the life you planned.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Lovers' fights (MU); no violence reported."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Emotional drama only."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Adult boys' love from the Juné line; drunken hotel encounter (Publishers Weekly); MU lists sex scenes and dubious consent (detail to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Adult office banter; not covered in detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Heavy drinking drives events: Nagai 'drinks himself half blind' (PW); MU Alcohol, Drunken Intercourse and Smoking tags."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Heartbreak, unrequited love."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Drinking to excess leading to sex; secret relationship (PW, MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism; Hedonism",
+ "axes": {
+  "economic": 5,
+  "social": 2,
+  "cultural": 7,
+  "community": 3
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty about long-hidden feelings.",
+   "concerns": "Same-sex sex; drunkenness; a marriage abandoned."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth replacing secret longing.",
+   "concerns": "Passions indulged; drunkenness; same-sex sex."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little beyond friendship.",
+   "concerns": "Drunken same-sex sex; marriage breakup played for drama."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship tested.",
+   "concerns": "Drunkenness; same-sex sexual relationships."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness and sexual content central."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows chaos following drink.",
+   "concerns": "Same-sex sex; drunkenness."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest wrestling with desire.",
+   "concerns": "Drunkenness; explicit content; synods differ on same-sex love."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Couple growth (MU).",
+   "concerns": "Alcohol central; explicit content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Adult romance with growth.",
+   "concerns": "Drunken encounters; explicit content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "No violence.",
+   "concerns": "Drunkenness; sexual content; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol, smoking and sex outside marriage central."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adult men accepting same-sex love.",
+   "concerns": "Drunken and dubious-consent encounters."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol and same-sex sex central."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthfulness about feelings.",
+   "concerns": "Intoxication; sexual content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Suffering of craving shown.",
+   "concerns": "Intoxicants and sexual misconduct concerns."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Bisexual and gay adults shown sympathetically.",
+   "concerns": "Drunken sex; dubious consent (MU)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adults sorting out real feelings.",
+   "concerns": "Consent while drunk."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Failed marriage, drinking and same-sex sex."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol, tobacco and sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Drunkenness and sexual content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol and tobacco; sensual content."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive adult love.",
+   "concerns": "Consent issues."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sexuality among adults.",
+   "concerns": "Consent while drunk."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity of long-held feeling.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol, tobacco and sex outside marriage."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol and sex outside marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication between lovers.",
+   "concerns": "Drinking; faithfulness."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Adult indulgence and honesty about desire.",
+   "concerns": "Consent while drunk."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex sex; drunkenness."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty.",
+   "concerns": "Drunkenness; sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusion of gay adults.",
+   "concerns": "Consent while drunk."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Jealousy handled through argument, not honor fights (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Characters break from marriage and office norms."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Coworkers and friends, little family focus."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Senpai-kouhai ties (MU) but peers in love."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Wedding norms upended; secular office life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Personal desire and fulfilment drive the plot."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Protestant Europe"
+  ],
+  "japan": "Salaryman drinking culture and senpai-kouhai office relationships shape the setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Publishers Weekly treats it as a romantic comedy; no messaging noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Acceptance of same-sex love emerges through the triangle rather than stated arguments."
+ },
+ "winners_losers": "The men resolve the triangle into adult relationships; sympathy rests with following true feelings, while the runaway bride is offstage.",
+ "to_verify": [
+  "Explicitness and dubious-consent scenes (MU)",
+  "Incest-as-subplot MU tag",
+  "English edition availability (DMP Juné)"
+ ]
+}

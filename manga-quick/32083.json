@@ -1,0 +1,92 @@
+{
+ "anilist_id": 32083,
+ "title": "Mr. Flower Groom",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32083",
+  "https://www.mangaupdates.com/series/wwgaijy",
+  "https://www.yenpress.com/series/mr-flower-bride",
+  "https://www.animenewsnetwork.com/encyclopedia/manga.php?id=9059"
+ ],
+ "premise": "In the Souda clan, younger sons are traditionally married off to male clan members; childhood friends Ritsu and Kouichirou, introduced in the prequel Mr. Flower Bride, have begun married life and must work through past loves, misunderstandings and each other (Yen Press blurb via AniList; MangaUpdates). A one-volume Lily Hoshino romance anthology published in English by Yen Press.",
+ "life_message": "It presents an arranged clan marriage that grows into genuine love and commitment (to verify).",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Jealousy and insecurity (MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Married male couple; MangaDex rating suggestive (batch data) and MangaUpdates Yaoi; characters' ages not stated in sources, and the prequel is set among high-school classmates (to verify; possibly understated)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Insecurity and emotional confusion (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Audio drama; sequel to Mr. Flower Bride (MangaUpdates; Yen Press)."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Arranged clan marriage, married life, friends becoming lovers",
+ "axes": {"economic": 5, "social": 6, "cultural": 4, "community": 7},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 4, "sanctity": 4, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Fidelity and working through marital misunderstandings.", "concerns": "Same-sex marriage as clan custom; suggestive content."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Marriage as lifelong commitment.", "concerns": "Marriage redefined between men."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Commitment over infatuation.", "concerns": "Same-sex marriage presented as normal and good."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Marital faithfulness.", "concerns": "Same-sex marriage."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Faithful love.", "concerns": "Same-sex marriage; suggestive scenes."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Covenant-like commitment.", "concerns": "Conservative churches reject the marriage; PC(USA) differs."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation of marriage.", "concerns": "LCMS objects; ELCA affirms."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love growing through marriage.", "concerns": "Split across Methodist bodies."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Marriage as covenant.", "concerns": "Episcopal affirms; ACNA does not."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Community and family obligations.", "concerns": "Same-sex marriage."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Family centrality.", "concerns": "Marriage between men contradicts the Proclamation."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Same-sex marriage treated as faithful covenant.", "concerns": "Arranged marriage and consent questions."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Family-arranged marriage.", "concerns": "Same-sex marriage."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Family-arranged marriage and clan custom.", "concerns": "Same-sex union; views vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Patience and understanding in a relationship.", "concerns": "Jealousy."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Same-sex marriage normalized.", "concerns": "Arranged marriage and age questions."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Love freely grown.", "concerns": "Custom imposed on youths."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Family custom and marriage honored.", "concerns": "Same-sex marriage presented to readers."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Commitment.", "concerns": "Same-sex marriage."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Marital loyalty.", "concerns": "Same-sex marriage."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love as harmony.", "concerns": "Suggestive content."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Marriage equality theme.", "concerns": "Arranged marriage."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Handfasting-like union of choice.", "concerns": "Custom over choice."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Clan continuity and wedding custom.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Marriage as spiritual union.", "concerns": "Same-sex marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Marriage and family consent.", "concerns": "Marriage between men."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Faithfulness to a partner.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "C", "weight": "Minor", "aligns": "Personal love over custom.", "concerns": "Clan custom dictates partners."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Arranged matches (shidduch) and family.", "concerns": "Same-sex marriage."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Kiddushin-like commitment.", "concerns": "Ages and suggestive content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Same-sex marriage celebrated.", "concerns": "Arranged-marriage pressure."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Family custom shapes duty; no fighting noted (blurb)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Clan tradition decides marriages (Yen Press blurb)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Marriage within the Souda clan (blurb)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Elder sons and family custom set roles (blurb)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Age-old marriage customs (Yen Press)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Couple must find their own feelings within custom."}
+  },
+  "closest": ["Latin America", "South and Southeast Asia", "First Nation"],
+  "japan": "Plays on Japanese ideas of the household (ie) and arranged marriage to keep the clan line, transposed to a fantasy same-sex custom."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review found; romantic comedy-drama per blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources do not describe how themes are delivered."
+ },
+ "winners_losers": "The couple's commitment is presented as the path to 'matrimonial bliss' (Yen Press blurb).",
+ "to_verify": [
+  "Ages of Ritsu and Kouichirou and whether any sexual scenes involve under-18 characters (prequel Mr. Flower Bride is set among high-school classmates and was skipped).",
+  "Level of sexual content (MangaDex suggestive).",
+  "Yen Press age rating."
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "anilist_id": 30429,
+ "title": "Sugar Sugar Rune",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30429",
+  "https://api.mangaupdates.com/v1/series/53705419529"
+ ],
+ "premise": "Young witches Chocolat and Vanilla are best friends competing to become Queen of the Magic World. In the human world they must win the hearts of human boys, which become jewel-like objects, and Chocolat struggles as shy Vanilla does better while she falls for the aloof Pierre (Del Rey blurb via AniList/MU). It won the Kodansha Manga Award for children's manga in 2005.",
+ "life_message": "Friendship and an honest heart matter more than winning, even when you want the crown.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "AniList War (50%) and magical conflict; children's manga (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Curses and rival magic (AniList spoiler tags)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Crush-collecting contest; unrequited love; MU Older Male Younger Female and AniList Age Gap (spoiler) to check."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Children's award winner."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Winning boys' hearts as a game (blurb)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Adapted to anime and game (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Feminism", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Friendship versus rivalry; witches' coming of age; first love",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Chocolat and Vanilla's friendship tested and valued.", "concerns": "Witches harvesting human hearts by spell; fantasy magic judged by framing."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Friendship over pride.", "concerns": "Witchcraft as heroic identity."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty between friends.", "concerns": "Child witches casting spells on people (Deuteronomy 18)."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Honesty and friendship.", "concerns": "Spells taking human hearts."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond friendship.", "concerns": "Witchcraft and curses central."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Pride and rivalry shown as costly.", "concerns": "Occult heroines."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Fantasy freedom; friendship.", "concerns": "Spells on boys."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Kindness between rivals.", "concerns": "Witch theme."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Whimsical fairy-tale tradition.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Friendship over competition.", "concerns": "Magic and war."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Friendship and loyalty.", "concerns": "Witch magic."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Girls' friendship and leadership.", "concerns": "Treating boys' hearts as prizes."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyal friendship.", "concerns": "Sihr central; romance chasing."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty of a future queen.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Craving to win shown as straining friendship.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Female leads in a matriarchal world (AniList Matriarchy).", "concerns": "Age-gap tag to check."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Imaginative fiction.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Duty, royal responsibility, friendship.", "concerns": "Occult themes."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Witchcraft and curses."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Friendship.", "concerns": "Magic and spells throughout."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love and sincerity.", "concerns": "Mesmerizing others' hearts."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Friendship and fairness.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Witches as heroines, not villains.", "concerns": "Spells that take hearts edge toward manipulative magic."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Magic and spirits as wonder.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Friendship and humility.", "concerns": "Magic rejected by the Gurus."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity of friends.", "concerns": "Occult themes."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Integrity and ARC.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Ambition and individuality.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Kishuf (sorcery) central."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Sorcery theme."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Fantasy accepted.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Rivalry is a contest, not a feud (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Contest rules set by the Magic World (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Best friendship is the core bond (blurb)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Royal succession and queenship (AniList Royal Affairs)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Magic kingdom with inherited crown."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Personal style and feelings drive the contest."}
+  },
+  "closest": ["Latin America", "Tidewater", "Puritan"],
+  "japan": "A magical-girl shoujo from Moyoco Anno; the witch-queen contest draws on European fairy-tale imagery filtered through Japanese shoujo conventions, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; sources say nothing on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Blurb frames the question as whether rivalry will ruin friendship."
+ },
+ "winners_losers": "Both girls are sympathetic; who wins the throne is not confirmed from sources.",
+ "to_verify": [
+  "English license partial or lapsed: Del Rey edition out of print, Udon release announced or possibly dropped (MU).",
+  "No review opened; war arc, curses and Pierre's role and age to check.",
+  "How spells on human boys are framed."
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "anilist_id": 30826,
+ "title": "Yurara",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30826",
+  "https://api.mangaupdates.com/v1/series/4348973174",
+  "https://api.mangadex.org/manga/bfcf32d1-ce92-497a-a6a1-979fdbc8bd6f"
+ ],
+ "premise": "Yurara Tsukinowa, a quiet high-school girl, can see spirits and sense their emotions but hides it. She meets Mei and Yako, two boys who use spiritual powers against vengeful spirits, and a strong-willed guardian spirit inside her surfaces with the power to release souls (VIZ blurb). It is a five-volume shojo supernatural romance with a love triangle (MU).",
+ "life_message": "Accepting an unusual gift lets one help the restless dead and others.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fights with vengeful spirits (blurb; MU Exorcism); detail to verify."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Ghosts and possession (MU Ghost/s, Possession)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Love triangle with a playboy (MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Lack of self-confidence; a split personality via the guardian spirit (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Spirit-seeing and exorcism; guardian-spirit possession; love triangle",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 5,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion for suffering souls.",
+   "concerns": "Spirit contact and exorcism by laypeople framed positively."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for troubled souls.",
+   "concerns": "Spiritism and possession as heroic power."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Courage and kindness.",
+   "concerns": "Communication with spirits of the dead."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping others in distress.",
+   "concerns": "Spirit-seeing and possession."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Release from torment.",
+   "concerns": "Possession and spirit contact shown as good."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to the troubled.",
+   "concerns": "Necromantic premise framed positively."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service with one's gift.",
+   "concerns": "Spirit contact."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Spiritualism as the plot engine."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Imaginative ghost story.",
+   "concerns": "Possession and exorcism."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Humility of the quiet heroine.",
+   "concerns": "Occult practice and worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping others.",
+   "concerns": "Spirit contact outside proper authority."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion for the hurting.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mercy to souls.",
+   "concerns": "Spirit and jinn-like contact; exorcism by youths."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Release of souls toward peace.",
+   "concerns": "Possession."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Easing attachment of lingering souls.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Accepting difference.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Empathy.",
+   "concerns": "Supernatural belief presented as fact."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage and duty.",
+   "concerns": "Occult themes."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Spirits of the dead shown as conscious and present."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Spiritism and possession central."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Freeing others from fear.",
+   "concerns": "Mesmeric possession."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Accepting one's hidden gift.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Spirit work used to help.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Calming restless spirits restores harmony.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service to others.",
+   "concerns": "Superstition and spirits."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Spiritualism."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-discovery of abilities.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Embracing one's power.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness to the troubled.",
+   "concerns": "Necromancy-like contact with the dead."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Sorcery-like spirit power."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-acceptance.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor feuds; conflicts are spiritual (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Heroine balances hiding and using her gift."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "A small team works for others' peace."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Teen peers as near-equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Spirits and their release are real in-story."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Self-acceptance of a hidden identity."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Puritan",
+   "Yankeedom"
+  ],
+  "japan": "Vengeful spirits and soul-calming draw on Japanese folk beliefs about onryo and guardian spirits."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found; blurb shows supernatural romance (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Self-acceptance is carried by the heroine's choices."
+ },
+ "winners_losers": "Yurara and her allies calm vengeful spirits; sympathy goes to compassion for the dead.",
+ "to_verify": [
+  "Intensity of spirit attacks and possession scenes.",
+  "Romantic content in the love triangle.",
+  "No review or Wikipedia text available; all plot detail from blurbs."
+ ]
+}

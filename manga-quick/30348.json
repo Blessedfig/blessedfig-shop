@@ -1,0 +1,368 @@
+{
+ "anilist_id": 30348,
+ "title": "Genshiken",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Genshiken",
+  "https://anilist.co/manga/30348",
+  "https://www.mangaupdates.com/series/955rfy2"
+ ],
+ "premise": "Shy freshman Kanji Sasahara joins Genshiken, a university club for otaku, and over four years learns to accept his hobbies without shame. Alongside him are Saki Kasukabe, a non-otaku trying to drag her boyfriend out of the club, and Chika Ogiue, a fan who hates her own interests.",
+ "life_message": "It holds up accepting oneself and one's passions, and friendship among misfits, as the way to grow up.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Slapstick only (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Everyday college life (Wikipedia)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Buying and making erotic doujinshi and discussing eroge are recurring plot points; anime nudity was censored on TV (Wikipedia); AniList Boys' Love 20%."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Casual crude talk among club members (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "College drinking (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Ogiue's deep shame and self-loathing about her interests (Wikipedia plot); possible past trauma (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Spending and obsessive hobby culture played for laughs (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Built around buying manga, games, models and convention merchandise (Wikipedia setting; AniList Otaku Culture 100%)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Postmodernism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism, Consumerism (fan culture), Communitarianism (club)",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and self-acceptance of the person.",
+   "concerns": "Pornographic doujinshi and eroge treated casually; consumerist obsession."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Community among outsiders.",
+   "concerns": "Feeding passions through erotic media."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship and growing up.",
+   "concerns": "Pornography in hobby culture; crude talk."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Talk about identity and idols of fandom.",
+   "concerns": "Erotic fan material and consumerism."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Fellowship among friends.",
+   "concerns": "Sexual media and worldliness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Common-grace delight in creativity.",
+   "concerns": "Lascivious books and pictures (WLC Q139)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation and community; adiaphora of hobbies.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Accountability among friends.",
+   "concerns": "Diversions not in the Lord's name; sexual media."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Imagination as a gift; humane comedy.",
+   "concerns": "Erotic fan material."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mutual acceptance in a small group.",
+   "concerns": "Worldly media consumption is the subject."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship and growing up.",
+   "concerns": "Media that is vulgar; pornography references."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Acceptance of difference, including LGBTQ fans.",
+   "concerns": "Male-gaze erotic media."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship and loyalty.",
+   "concerns": "Erotic media, immodesty and idle entertainment."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Growth through stages of life.",
+   "concerns": "Tamasic indulgence in media."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Acceptance and right speech among friends.",
+   "concerns": "Craving for consumer goods; sexual media."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion of misfits and gender-nonconforming fans.",
+   "concerns": "Sexualized fan content."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-acceptance and free expression.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and eventual maturity.",
+   "concerns": "Vulgarity and sexual media."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Unwholesome media at the center."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Immoral media and bad associations."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming shame.",
+   "concerns": "Material focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every person; acceptance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom of practice and play.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony and belonging in a group.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and honest work.",
+   "concerns": "Lust and attachment to goods."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship across differences.",
+   "concerns": "Degrading media."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Affinity and communication in a group.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and individual pleasure without shame.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Bittul Torah, nivul peh and immodest media."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Acceptance and community.",
+   "concerns": "Degrading sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and self-acceptance.",
+   "concerns": "Sexualization in fan media."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Teasing and disputes are absorbed into club friendship (Wikipedia plot)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Members follow their hobbies freely, against social stigma (Wikipedia premise)."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "The club, not family, is the community (Wikipedia plot)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Club presidents and senpai exist but the room is informal (Wikipedia plot)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular, media-centered college life (Wikipedia)."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-acceptance of identity and hobbies is the arc (Wikipedia: Sasahara 'comes to accept himself')."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Protestant Europe"
+  ],
+  "japan": "Social stigma around being otaku, senpai-kohai ties in the club and Comic Market culture reflect early-2000s Japanese fandom; IGN called it the definitive portrait of anime fandom."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Self-acceptance of otaku carried by club life and character arcs; no review on delivery found (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Shame and conformity are gently challenged through the members' growth, per summaries."
+ },
+ "winners_losers": "The otaku and those who learn to accept them win sympathy; shame and conformity are gently challenged.",
+ "to_verify": [
+  "MangaUpdates link resolves to Genshiken Nidaime (second series), not the 2002 original; categories may belong to the sequel",
+  "How much erotic doujinshi or nudity is shown on the page",
+  "Kodansha USA (and earlier Del Rey) rating, likely Older Teen"
+ ]
+}

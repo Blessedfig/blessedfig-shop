@@ -1,0 +1,329 @@
+# One Piece
+
+Built from summaries, databases and reviews (From summaries); no pages were read. Confidence: medium. A second research pass (2026-11-22) opened 25 more pages (see Sources). Most chapter and volume placements are now confirmed at the volume level from Wikipedia's chapter lists, the One Piece fan wiki and news recaps. Wikipedia's chapter lists do not print chapter numbers, so numbers taken from them were counted from the list and are marked "(counted)". Items still unconfirmed are marked "likely" or "to verify". Scene content still comes from summaries, not from the pages.
+
+## Series facts
+
+| Field | Value |
+|---|---|
+| Title | One Piece (Japanese: ワンピース, Wan Pīsu) |
+| Creators | Eiichiro Oda (story and art). Oda began the work in 1996 while assistant to Nobuhiro Watsuki ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)) |
+| Origin | Weekly Shonen Jump (Shueisha), Jump Comics imprint; shonen (aimed at adolescent boys); serialized since July 22, 1997; ongoing. Oda said in 2022 the final saga begins at ch. 1054; the current arc, Elbaph, began at ch. 1126 ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)). Wikipedia's chapter list says the series "spans over 1175 chapters" ([chapter list 1016 on](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(1016%E2%80%93current))) |
+| English edition | VIZ Media (North America; UK after a Gollancz run), Madman (Australia and New Zealand). Publisher rating: Teen / "T" (from general knowledge; still to verify: the VIZ and Simon & Schuster pages could not be opened, and ANN's release page lists no age rating). Volumes: 114 in Japan as of March 2026, Vol. 115 dated July 3, 2026; English Vol. 111 released March 10, 2026 (224 pages), Vols. 112 and 113 scheduled for later in 2026 ([volume list](https://en.wikipedia.org/wiki/List_of_One_Piece_manga_volumes); [ANN release page](https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56684)) |
+| Anime | Toei Animation, Fuji TV, since October 20, 1999 (1,000th episode November 2021). Rated TV-14 per Common Sense Media. Netflix live-action series (2023, season 2 March 2026; TV-14). A Wit Studio remake, *The One Piece*, is scheduled for Netflix in February 2027 ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)) |
+| Recognition | Best-selling manga ever: over 600 million copies by March 2026; Guinness World Records (2015, 2022); Japan Cartoonists Association Grand Prize (2012); Tezuka Osamu Cultural Prize finalist 2000 to 2002; Sondermann Award (Germany); first place in a 2008 Oricon poll of most moving manga ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)). MyAnimeList manga score 9.20, popularity rank #3, about 712,000 members ([MAL](https://myanimelist.net/manga/13)) |
+| Other guides | Common Sense Media: anime 13+ (parents and kids both say 11+); Netflix live action 14+ ([CSM anime](https://www.commonsensemedia.org/tv-reviews/one-piece); [CSM live action](https://www.commonsensemedia.org/tv-reviews/one-piece-0)). Plugged In reviews the Netflix live action only (no age given; flags violence, language, transgender characters and objectified women) ([Plugged In](https://www.pluggedin.com/tv-reviews/one-piece/)). No guide rating the manga itself was found |
+| Entry tier | From summaries, medium confidence |
+
+**Premise.** Monkey D. Luffy ate the Gum-Gum Fruit as a boy, and his body turned to rubber. He sets out from the East Blue to find the legendary treasure of the late pirate king Gold Roger, the "One Piece", and become King of the Pirates. He gathers a crew, the Straw Hat Pirates. Island by island, they topple tyrants. Over 25 years the story grows into a conflict with the World Government, an authoritarian global state ruled by hereditary "Celestial Dragons", and with the secret of a "Void Century" the government has erased from history ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)).
+
+## Life message
+
+**A good life is a free life spent chasing your own dream, side by side with friends who would die for you, and never bowing to anyone who claims the right to own other people.**
+
+| Meta lens | Reading |
+|---|---|
+| Evolutionary biology | Coalition-building is the core strategy: Luffy wins by recruiting loyal allies, not by being strongest alone. Kin loyalty is often betrayed (the Vinsmoke and Charlotte families abuse their own children), while chosen kin ("nakama") is rewarded. Romance and mating are nearly absent from the hero; Luffy shows no romantic interest. Status hierarchy (the bounty system, the "Emperors") is everywhere, and the story keeps measuring people by it. Death in fighting is common among villains' victims, rare among heroes. |
+| Pragmatic | Power and training decide most fights, and the cast grows stronger arc by arc, including a two-year training timeskip. But victories also hinge on information, alliances and timing. Pirates live outside the law, and the story is frank that most pirates are predators; its heroes are an exception. Family is judged by what it does: foster parents who sacrifice are honored, blood parents who exploit are not. |
+| Religious | No real-world religion appears. Characters who claim to be gods (Enel in Skypiea, the Celestial Dragons) are exposed as tyrants. Later the story gives Luffy a mythic identity as the "Sun God Nika", a legendary "Warrior of Liberation" believed to free slaves (ch. 1044, Vol. 103). Death is final for most characters, though the dead live on through "inherited will". There are undead (Brook, Moria's zombies) and Norse-style giants with gods and an afterlife in Elbaph. Plugged In notes Haki is presented as "spiritual energy" (live action). |
+| Socio-cultural | A Japanese shonen ideal of friendship, effort and victory, set in a pirate fantasy. Oda told the New York Times that "friendship became a central theme" ([Spokesman-Review reprint](https://spokesman.com/stories/2023/aug/29/one-piece-creator-hopes-to-defy-a-history-of-failu)). Wano draws on samurai loyalty and Edo-period Japan. Global readers have taken it as an anti-authoritarian text: in 2025 the Straw Hat flag became a protest symbol in Indonesia, Nepal and elsewhere ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)). |
+
+## Content scores
+
+Overall content level: 7 out of 10 (Strong), set by violence. Content scores measure intensity only: higher = more of it, not better or worse. Scores combine Common Sense Media's anime review with summaries of the manga. All are "From summaries" until the pages are checked. No score changed in the second pass: the new sources confirmed placements and details but did not show more or less intensity than the draft assumed.
+
+| Category | Intensity (0 to 10) | Frequency | Framing | Evidence |
+|---|---|---|---|---|
+| Violence | 7 | Constant | Shown with consequences; condemned when villains do it | CSM: "slapstick comedy antics to brutal fights"; swords, guns, superpowers; death "rarely shown on-screen". Manga: Nami's adoptive mother Bell-mère killed by Arlong with a shot to the head in the manga (the anime moved it to the chest) ([TV Tropes recap](https://tvtropes.org/pmwiki/pmwiki.php/Recap/OnePieceArlongArc); ch. 79, Vol. 9, likely); Ace dies after a fatal blow ("The Death of Portgas D. Ace", ch. 574, Vol. 59) and Whitebeard is killed (ch. 576, Vol. 59) ([chapter list 389 to 594](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(389%E2%80%93594)), counted); Oden held in a boiling cauldron for an hour, then shot in the head and sinks into it (ch. 972, Vol. 96) ([ComicBook](https://comicbook.com/anime/news/one-piece-manga-spoiler-972-true-events-of-odens-death/); [chapter list 807 to 1015](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(807%E2%80%931015))); Otohime assassinated (Vol. 63); Doflamingo kills his brother Corazon (Vol. 77); Flevance's lead-poisoned town destroyed in Law's past (Vol. 76) ([chapter list 595 to 806](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(595%E2%80%93806))); a Celestial Dragon "native hunting" event at God Valley (Vol. 108 and the "God Valley Incident", Vol. 114; per the chapter list summaries and news headlines). Blood is common; gore is rare and stylized (to verify on the page). |
+| Fear and intensity | 6 | Frequent | Neutral | Zombie and shadow-theft horror arc (Thriller Bark, Vols. 46 to 50, confirmed; ch. 442 to 489, likely); the prison levels of Impel Down ("The Underwater Prison Impel Down", ch. 525, Vol. 54, through Vol. 56); war arc with major deaths (Marineford, "Paramount War" ch. 553, Vol. 57, through Vol. 59) ([chapter list 389 to 594](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(389%E2%80%93594)), counted); Kuma's backstory, described in headlines as the series' darkest turn (Vols. 108 to 109). |
+| Sexuality and romance (incl. fan service; manga vs anime) | 5 | Recurring | Played as comedy; sexual coercion condemned | CSM: men "ogle women and ask to see their panties, played for comedy"; implied shower nudity; an invisible villain "licking and holding a woman against a wall while she's in the shower". A Barnes & Noble readalong confirms in the manga that the invisible Absalom attacks Nami in the shower, talks of making her his bride, and stages a sham wedding while she is unconscious "with bonus sexual harassment" before Sanji rescues her (Vols. 46 to 48; "Pirate Sanji vs. Mystery Man Absalom", ch. 463, Vol. 48, counted); it also calls Brook's first-meeting request to see Nami's underwear sexual harassment ([B&N](https://www.barnesandnoble.com/blog/one-piece-readalong/everlasting-one-piece-readalong-vols-46-48)). CSM also flags a woman "forced into a nonconsensual relationship with a villain to protect her country" (Viola and Doflamingo; Viola's story is in Vols. 72 to 74). Sanji's nosebleeds are a running gag. Female designs are highly exaggerated, more so after the timeskip (Vol. 61 on); the all-female island Amazon Lily ("Adventure on the Island of Women", ch. 515, Vol. 53, counted); Egghead outfits (Vols. 105 to 111), where a headline reports Oda joking about drawing panty shots (not opened; to verify). Celestial Dragons take women as "wives" by force: Shirahoshi at the Reverie (Vol. 90); Ginny "made his bride" by a Celestial Dragon and thrown out two years later while dying (ch. 1098, Vol. 108); the recap shows no sexual content on the page ([Sportskeeda](https://www.sportskeeda.com/anime/one-piece-chapter-1098-kuma-s-backstory-takes-dark-turn-ginny-s-death-bonney-s-birth)). No sex scenes; no explicit nudity in the manga (to verify). Romance is minimal; Hancock's crush on Luffy is comic and one-sided. |
+| Language | 3 (manga); higher in the anime dub and live action | Occasional | Neutral | VIZ's manga text uses "damn", "bastard", "hell" (from general knowledge; to verify). The English anime dub includes occasional "f--k", "s--t", "a--hole", "bitch" (CSM). Plugged In counts the s-word once in live-action S1E1 and seven times in S2E1, plus a middle finger and God's name in vain ([Plugged In](https://www.pluggedin.com/tv-reviews/one-piece/)). |
+| Substances | 5 | Recurring | Alcohol and tobacco shown casually; drugs condemned | CSM: characters drink and get drunk; "a few characters, including main characters, smoke cigarettes and cigars nearly constantly" (Sanji, Smoker; Zoro drinks heavily). The 4Kids dub replaced Sanji's cigarette with a lollipop (from general knowledge; to verify). Villains' drugs: Hody's "Energy Steroids" (Fish-Man Island, Vols. 62 to 65; the steroids are not named in the chapter-list summary, to verify); Caesar Clown's chapter "Candy" (Vol. 67) and candy "laced with experimental drugs" fed to kidnapped children (Vol. 69); artificial "SMILE" fruits revealed as defective (chapter "Smile", Vol. 94) ([chapter lists 595 to 806](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(595%E2%80%93806)) and [807 to 1015](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(807%E2%80%931015))). |
+| Mental health and self-harm | 5 | Occasional, intense | Shown with consequences | Nami stabs her own shoulder tattoo in despair, then asks Luffy for help, in the chapter titled "Tears" (Vol. 9, also titled "Tears"; ch. 81, likely) ([TV Tropes recap](https://tvtropes.org/pmwiki/pmwiki.php/Recap/OnePieceArlongArc); [volume list](https://en.wikipedia.org/wiki/List_of_One_Piece_manga_volumes)). The Catholic review on Pauline.org calls the live-action version of this scene Nami's "self-harm attempt" ([Pauline](https://pauline.org/media-mindfulness/one-piece-realizing-belonging/)). Robin, hunted since childhood, decides to live (Vol. 41 summary; ch. 398, likely). Luffy's breakdown after Ace's death and Jinbe's "count what you still have" talk (Vols. 59 to 60, likely). Kuma's book title: Vol. 108 is called "Better Off Dead In This World". No suicide method is shown (to verify). |
+| Imitable behavior | 3 | Recurring | Shown as cool | Smoking and drinking by admired heroes; defying police and government is the heroes' way of life; superpowered stunts. |
+| Commercial | 3 | Franchise-wide, not in-story | Neutral | CSM rates consumerism as not present in the anime. The franchise itself is vast (films, games, Netflix, merchandise, brand collaborations). |
+
+| Values theme | Presence | Portrayal |
+|---|---|---|
+| Family and authority | Central | Chosen family is sacred: the crew, Whitebeard's "sons", foster parents like Zeff, Bell-mère, Garp and Kuma. Many birth families are cruel (Vinsmoke, Vols. 81 to 87; Big Mom's marriage alliances, Vols. 81 to 89; Donquixote; Celestial Dragons). Authority is mixed: good kings (Cobra, Neptune, Riku) are honored; the World Government and Celestial Dragons are corrupt; Marines range from decent (Coby, Smoker, Garp) to fanatical (Akainu's "Absolute Justice"). |
+| Religion and spirituality | Recurring | Self-proclaimed gods are frauds or tyrants (Enel, Skypiea, ch. 218 to 302, likely; the Celestial Dragons and the hidden ruler Imu). A liberating mythic god, Nika, is embodied by Luffy (ch. 1044 "Warrior of Liberation", Vol. 103) ([Epicdope](https://www.epicdope.com/one-piece-chapter-1044-luffy-joy-boy-sun-god-nika/); [volume list](https://en.wikipedia.org/wiki/List_of_One_Piece_manga_volumes)). No real religion is depicted or critiqued. |
+| Gender and identity (incl. LGBTQ) | Recurring | Many powerful women (Nami, Robin, Hancock, Big Mom, Vivi) alongside sexualized art and comic harassment. Gender-variant characters: Bon Clay (cross-dresser), Emporio Ivankov and Newkama Land ("Level 5.5: New Kama Land", ch. 538, Vol. 55, counted; Ivankov's speech on leaving gender borders behind, ch. 537 per Bounding Into Comics), Kikunojo (Vol. 100), Yamato (Vols. 97 to 99). No SBS answer by Oda on Yamato was found; ComicBook (2021) reported a leaked Vivre Card guide said Yamato identifies as female, based on a fan translation it called unclear; Beebom notes Yamato uses the boyish pronoun "boku", joins the men's bath, and that VIZ uses masculine pronouns ([ComicBook](https://comicbook.com/anime/news/one-piece-manga-anime-yamato-gender-official); [Beebom](https://beebom.com/yamato-gender-one-piece)). CSM says nonbinary and transgender characters are "depicted with respect and pride", while also noting the show "plays sexual harassment for comedy". |
+| Politics and social issues | Central | Slavery and human auctions ("The Incident of the Celestial Dragons", ch. 502, Vol. 51), racism against fish-men (Fisher Tiger and Otohime, Vol. 63), hereditary aristocracy, a tribute tax on poor nations, erasure of history and murder of scholars ("The Demons of Ohara" and "Ohara vs. the World Government", ch. 394 to 395, Vol. 41, counted), state propaganda, genocide, revolution. The real-world use of the Straw Hat flag in protests (2025) shows how widely the story is read politically. |
+
+**Virtues shown:** loyalty, courage, keeping promises, freedom, compassion for the oppressed, self-sacrifice, honesty, perseverance, respect for dreams, gratitude, forgiveness (Luffy spares most defeated foes).
+
+## Family frames
+
+Each row describes how voices within that tradition might read the series, using the per-frame guides in /mnt/project-files/frame-guides/. These are not the site's views. Two separate judgments are given. **Grade** is message fit only, judged by that tradition's own teaching on art and media: does the series endorse or merely depict what it shows, is evil framed as evil, are there consequences, is redemption or justice possible, and how is the sacred treated. Intensity alone never lowers a grade; the story's slavery, genocide and executions are shown as evils, which counts toward fit. **Depiction concern** (Minor / Discuss / Significant) is how that tradition views the explicitness itself, apart from the message; intensity for age stays in Content scores. For this series the message concerns are mainly that heroes' drinking and smoking cost nothing, that leering and harassment are played as comedy, and (for some traditions) the Nika "sun god" and gender-variant characters shown with acceptance; the depiction concerns are fan-service art and violence. The per-frame guides are drafts from general knowledge, so every row is a draft to verify, except where Plugged In, Pauline.org, Beneath the Tangles, Common Sense Media or Anime Feminist is cited. Rows marked "(from general knowledge; to verify)" draw on no cited source at all.
+
+| Frame | Grade (S to F) | Depiction concern (Minor / Discuss / Significant) | What aligns | What may concern | Talking points (from the tradition's own sources) |
+|---|---|---|---|---|---|
+| Catholic | B | Discuss | Dignity of every person; slavery and rulers who make themselves gods condemned; self-giving love (Ace, Kuma, Oden). A Pauline.org reviewer reads Luffy's rescue of Nami as an image of Christ seeking the lost. | Leering and harassment played for laughs; constant drinking and smoking without cost; violence as the default answer. | Inter Mirifica 7 on depicting evil without making it attractive; Catholic social teaching on the dignity of the person; CCC 2290 on drunkenness, 2521-2524 on modesty; Pauline Media Mindfulness ([Pauline](https://pauline.org/media-mindfulness/one-piece-realizing-belonging/)). |
+| Eastern Orthodox | B | Discuss | Self-sacrifice for friends; false gods humbled; mercy (Luffy rarely kills). | A human made into a "sun god" (Nika); undead treated lightly; fighting as heroic (St. Basil, canon 13). Fan-service art weighs on guarding the senses (nepsis). | Theosis as growth in love: does Luffy's crew make its members better? False divinity (the Celestial Dragons) against true holiness. |
+| Baptist | C | Significant | Clear good versus evil; courage; freeing the enslaved; loyalty. | Heroes drink and smoke without consequence (SBC resolutions urge abstinence); the Nika "god" identity; gender-variant characters shown approvingly (BF&M 2000, Article XVIII). Fan service a strong concern under Philippians 4:8. Views vary by congregation. | Philippians 4:8; Exodus 20:3 on other gods; Romans 13 versus Acts 5:29 on obeying unjust rulers. |
+| Non-denominational Evangelical | B | Discuss | Beneath the Tangles, an evangelical anime site, reads Luffy's freedom as a picture of "freedom through a Savior" ([BTT](https://beneaththetangles.com/2021/05/06/one-piece-stirs-a-call-to-freedom-a-call-to-adventure)). Rebellion against evil rulers is admired. | Plugged In (live action) warns of "content that lurks below these waves": blood, a man sliced in half, profanity, transgender characters, objectified women ([Plugged In](https://www.pluggedin.com/tv-reviews/one-piece/)). | Plugged In and Beneath the Tangles as discussion tools; "engaging culture"; John 15:13 on laying down one's life. |
+| Pentecostal / Charismatic | C | Significant | Liberation of captives (Luke 4:18 resonance); loyalty; false gods unmasked. | A human awakened as a "Sun God," Haki as "spiritual energy" (Plugged In), zombies and shadow-theft (Thriller Bark), cursed swords: media as an "open door" makes these weigh heavily; alcohol; sexualized art. | Ephesians 6:12; Assemblies of God position on abstinence from alcohol; discernment about whether Nika is shown as myth or as a real deity. |
+| Reformed / Presbyterian | B | Discuss | Total depravity on display: power corrupts every unchecked ruler; common grace in a non-Christian story's hatred of slavery; lesser magistrates resisting tyranny. | Heroes' drunkenness; outlaws as heroes against the magistrate (WLC Q123-133); lascivious pictures (WLC Q139). | Kuyper on common grace; Reformed resistance theory; Westminster Larger Catechism on the fifth and seventh commandments. |
+| Lutheran | B | Discuss | Two kingdoms: the worst villains abuse the sword the state holds; grace-like forgiveness of defeated foes. | Outlaw heroes against authority (fourth commandment); drinking; LCMS and ELCA families differ on gender-variant characters. | Entertainment as adiaphora; law and gospel; "put the best construction on everything" (eighth commandment) applied to former villains. |
+| Methodist / Wesleyan | B | Discuss | Social holiness: freeing slaves, fighting racism (Fish-Man Island); characters growing toward goodness. | Alcohol and tobacco shown as cool (holiness bodies ask members to abstain); heroic violence. UMC and Global Methodist families differ on gender themes. | Wesley's General Rules ("do no harm"); Wesley's *Thoughts upon Slavery* (1774); prevenient grace in former enemies who join Luffy. |
+| Anglican / Episcopal | A | Discuss | Myth and fantasy sit comfortably in the tradition (C.S. Lewis); anti-slavery and anti-tyranny themes; found family. | Harassment gags; drunkenness. Episcopal and ACNA families differ on gender-variant characters. | Works judged by how they frame good and evil; Article 37 on lawful authority, against the story's corrupt state. |
+| Anabaptist (Mennonite, Amish, Brethren) | C | Significant | Suspicion of state power; Luffy's refusal to rule the islands he frees; care for the weak. | Freedom is won by force in every arc, which nonresistance rejects at the level of message; drinking; immodest dress. Many conservative families avoid such media altogether. | Nonresistance (Matthew 5:39); Schleitheim Confession, Article 4; must freedom be won by force? Mennonite Church USA families may be more open. |
+| Latter-day Saint | C | Significant | Loyalty, keeping promises, self-sacrifice; family-like bonds; slavery condemned. | Admired heroes drink and smoke without cost (Word of Wisdom); harassment played as comedy. | For the Strength of Youth (2022) on media that invites the Spirit; Article of Faith 12 on obeying law, against the story's unjust government. |
+| Seventh-day Adventist | C | Significant | Liberation of the oppressed; self-sacrifice. | Heroes' drinking and smoking (members abstain); undead and a living afterlife (Brook, Thriller Bark) conflict with the teaching that the dead sleep; a human god. (from general knowledge; to verify) | Fundamental Belief 22; "by beholding we become changed" (2 Corinthians 3:18). |
+| Jehovah's Witness | C | Significant | Hatred of human tyranny that echoes distrust of human governments; mercy; freeing slaves. | Violence as the hero's way (Psalm 11:5); spiritism in zombies, cursed objects and a "sun god"; heroes defy all government, where Witnesses keep neutrality rather than rebellion; gender-variant characters. (from general knowledge; to verify) | jw.org counsel on entertainment, spiritism and violence (Psalm 11:5; Galatians 5:19-21). |
+| Christian Science | B | Discuss | Freedom and good overcoming oppression; love among friends. | Horror and bodily harm as mental imagery to guard against; drinking and smoking. (from general knowledge; to verify) | "Stand porter at the door of thought" (Science and Health 392). |
+| Mainline progressive Protestant | A | Discuss | Social-justice core: slavery, racism, aristocracy, erasure of history; gender-variant characters shown with acceptance (CSM). | Fan service and harassment as comedy; okama characters sometimes used for laughs. | Denominational statements on racial justice; how a story can condemn oppression and still objectify women. |
+| Orthodox Jewish | B | Significant | An Exodus-like hatred of slavery and of rulers who call themselves gods; memory against erased history (Ohara). | A man revered as a god; gender-variant characters. Tzniut makes fan service a strong depiction concern; Haredi homes would avoid it. (from general knowledge; to verify) | Exodus 20:2-3 on bondage and other gods; "remember" (zachor) as a frame for the Void Century. |
+| Conservative Jewish | B | Discuss | Exodus themes; dignity of the stranger (fish-men); memory against erasure. | A man worshipped as a god; leering gags. (from general knowledge; to verify) | Modesty and kind speech applied by families; zachor. |
+| Reform Jewish | A | Minor | Tikkun olam; anti-slavery and anti-racism; gender variance shown with acceptance. | Objectifying humor. (from general knowledge; to verify) | Informed autonomy; the prophetic call to justice. |
+| Muslim | C | Significant | Justice ('adl) against oppressors; freeing slaves as a virtue (Qur'an 90:13); hospitality and keeping promises. | Heroes' drinking and smoking without cost (Qur'an 5:90); a man revered as a "sun god" touches on shirk; gender-variant characters shown approvingly. Immodest art and leering (lowering the gaze, 24:30-31). | Qur'an 90:13 and 5:90; why does the heroes' drinking cost them nothing? Nika as myth versus worship. |
+| Hindu | B | Discuss | Dharma as duty to protect the weak; loyalty to a rightful lord (Wano); a righteous war against tyrants (Gita). | Intoxicants; ahimsa strained by constant fighting. | Bhagavad Gita on righteous fighting; ahimsa against Luffy's refusal to kill; respect for teachers (Rayleigh, Zeff). |
+| Buddhist | B | Discuss | Compassion for suffering beings; letting go of hatred (Hody's revenge rejected); impermanence of power. | Violence as the main way problems end (first precept); intoxicants (fifth precept); ambition ("King of the Pirates") as a life goal. | Is Luffy's dream a craving or a vow? The Five Precepts; Sengoku's "Buddha" form as Buddhist imagery used in a fight. |
+| Shinto | A | Minor | Wano's shrines, festivals and loyalty to ancestors honored; gratitude and harmony. | Self-proclaimed gods are frauds, though real kami are not mocked. (from general knowledge; to verify) | Association of Shinto Shrines, "Principles of Life in Reverence of Kami." |
+| Sikh | B | Discuss | Defending the oppressed and freeing slaves fits the saint-soldier ideal; equality against hereditary caste (Celestial Dragons). | Admired heroes smoke constantly (tobacco is one of the four kurahits) and drink; lust played as comedy (Sanji). (from general knowledge; to verify) | Sikh Rehat Maryada; Guru Gobind Singh on defending the oppressed. |
+| Bahá'í | B | Discuss | Oneness of humanity; elimination of prejudice (fish-men); justice. | Freedom won through violence, against the commitment to non-violence and obedience to government; drinking; fan service. (from general knowledge; to verify) | Bahá'u'lláh on the oneness of humanity; Shoghi Effendi on a "chaste and holy life" (to verify wording). |
+| Scientologist | B | Minor | Basically good beings freeing others; loyalty; survival across all dynamics. | Heroes' drinking and smoking; violence. Kuma made into a cyborg and other experiments shown as harm. (from general knowledge; to verify) | The Way to Happiness ("Do not murder," "Safeguard and improve your environment"). |
+| Wiccan / Pagan | A | Minor | Freedom; nature and myth (Nika, Elbaph's Norse gods) treated with respect; no stereotyped witches. | Violence against "harm none." (from general knowledge; to verify) | The Wiccan Rede; respectful portrayals of pagan myth. |
+| Secular progressive | B | Discuss | Anti-slavery, anti-racism, anti-aristocracy; gender-variant characters shown kindly (CSM); found family. | Sexualized female designs and harassment gags; okama as comic relief; Anime Feminist argues Oda answered female critics by sexualizing women more ([Anime Feminist](https://animefeminist.com/choosing-toremain-strong-against-female-criticism-the-vindictive-storytelling-of-oda-eiichiro)). | Common Sense Media's 13+ guide; can a story criticize oppression and still objectify women? |
+| Secular humanist | A | Minor | Human solidarity and inherited will carry meaning; no god rewards virtue; knowledge defended against censorship (Ohara). | Exploitation in fan service; violence. | Humanist Manifesto III; Robin and the Ohara scholars as defenders of free inquiry. |
+| Conservative / traditional | C | Discuss | Loyalty, honor, duty, gratitude; strong fathers and mentors; good monarchs honored; courage against tyranny. | Outlaws as heroes and distrust of all government; gender-identity themes (Ivankov, Yamato) and how adaptations localize them (Bounding Into Comics on "New Trans"). | When is defying authority justified? Legitimate rulers (Cobra, Riku, Neptune) versus tyrants. |
+| Satanist | A | Minor | Rebellion against arbitrary authority; self-proclaimed gods exposed; personal freedom and loyalty to those who earn it. | Harassment gags against the Eleven Rules on unwanted advances. (from general knowledge; to verify) | Nine Satanic Statements; The Satanic Temple's tenets on freedom and justice. |
+| Unitarian Universalist | A | Minor | Worth and dignity of the oppressed; justice; welcome for gender-variant people. | Objectifying humor. (from general knowledge; to verify) | UUA principles on inherent worth and justice. |
+
+**Where traditions disagree.** On alcohol and tobacco, which appear constantly: Muslims, Latter-day Saints, Adventists, Christian Scientists, Bahá'ís and Sikhs (for whom tobacco is a cardinal prohibition) do not drink or smoke; many Baptists, Pentecostals, holiness Methodists and Anabaptists abstain; Catholics, Orthodox, Lutherans, Anglicans, Reformed and Jewish families permit moderate drinking. On violence: Anabaptists, Jehovah's Witnesses and Bahá'ís weigh it most; Catholic, Reformed, Lutheran, Anglican and Sikh teaching accepts just force against tyrants. On the Nika "sun god" and undead: Pentecostal, Jehovah's Witness, Adventist and many Baptist families are most sensitive; Anglican, Lutheran, Shinto, Wiccan and secular readers usually take it as myth in fiction. On gender-variant characters: mainline, Reform Jewish, UU, secular progressive and secular humanist families tend to welcome them, while Catholic, Orthodox, Baptist, Latter-day Saint, Jehovah's Witness, Muslim and conservative families tend to see them as a topic to discuss; Methodist, Lutheran, Anglican and Presbyterian views split by denomination. On anti-government heroes: Satanist and secular frames prize them, while Jehovah's Witness, Bahá'í and conservative frames stress lawful authority. Baptist, non-denominational and Jewish views vary widely by congregation or movement.
+
+## Winners, losers and sympathy
+
+The story's sympathy runs with the free, the loyal and the oppressed. It is withheld from anyone who claims to own other people.
+
+| Side | Worldview it carries | Outcome | How the story treats it |
+|---|---|---|---|
+| Straw Hat Pirates and allies | Freedom, loyalty, dreams, protecting the weak | Win nearly every arc; free nations one after another | Full sympathy |
+| World Government and Celestial Dragons | Hereditary divine right, order through terror, control of history | Still in power; increasingly exposed and shaken (Reverie, Egghead) | Condemned; Celestial Dragons drawn as grotesque and cruel |
+| Marines | Law and "Justice" (absolute or moderate) | Mixed; win Marineford but at a cost | Split: decent officers sympathetic, fanatics (Akainu) condemned |
+| Tyrant pirates and warlords (Crocodile, Doflamingo, Big Mom, Kaido) | Might makes right; rule by fear | Defeated by Luffy | Condemned, but often given tragic backstories |
+| Revolutionary Army (Dragon) | Overthrowing the World Government | Rising | Sympathetic; methods mostly offstage |
+| Oppressed peoples (fish-men, Mink, Wano citizens, slaves) | Survival, dignity, at times revenge | Freed, though revenge (Hody) is rejected | Sympathy for victims; cycles of hatred critiqued |
+
+**Fan favorites versus the official moral.** The first official global poll (WORLD TOP 100, 2021) drew 12 million votes for 1,174 characters; Luffy placed first, then Zoro, Nami, Sanji, Trafalgar Law and Robin ([ANN](https://www.animenewsnetwork.com/interest/2021-05-05/full-results-revealed-for-one-piece-1st-global-character-popularity-poll/.172412)). The draft's claim that Zoro won was wrong and is corrected here. The second global poll (results August 2026) again put Luffy first, followed by Zoro, Sanji, Nami, Law, Robin, Ace, Shanks and Mihawk; former or current antagonists in its top 30 include Crocodile (10th), Rocks D. Xebec, Cracker, Doflamingo and Buggy (order read from [Anime Corner](https://animecorner.me/luffy-wins-2nd-one-piece-global-poll-final-results-for-top-30-characters-revealed/); no vote counts given). So fans mostly favor the heroes the story favors, while also keeping several villains the story defeats near the top. Luffy's "Gear 5" form (ch. 1044) became a wide meme.
+
+## Message delivery
+- Style: Explicit
+- Preachiness: 5
+- Opposing views: Mixed
+- Evidence: Inferred from the entry's summaries; no review addresses preachiness.
+- Note: Its anti-tyranny stance is stated openly in arc climaxes, while the Marines range from decent officers to fanatics.
+
+| Character | Ideology | Role | Treatment |
+|---|---|---|---|
+| Luffy | Freedom and loyalty | Hero | Sympathetic |
+| Celestial Dragons | Hereditary divine right | Villain | Mixed |
+| Akainu | Absolute Justice, order at any price | Villain | Fair |
+| Hody Jones | Revenge for real grievances | Villain | Mixed |
+
+## Creator and publisher context
+
+- **Eiichiro Oda.** Began One Piece in 1996 while assistant to Nobuhiro Watsuki (Rurouni Kenshin) ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)). Announced in 2022 that the final saga was starting. Oda speaks to readers mainly through "SBS" question-and-answer columns in the volumes; these are the main on-record source for character facts.
+- **On themes.** In a New York Times interview by Charles Solomon (reprinted by the Spokesman-Review, August 2023), Oda said "friendship became a central theme" ([Spokesman-Review](https://spokesman.com/stories/2023/aug/29/one-piece-creator-hopes-to-defy-a-history-of-failu)). Sportskeeda attributes to him a 2017 line, "the other side of justice is another justice", without naming the original source (to verify) ([Sportskeeda](https://sportskeeda.com/anime/eiichiro-oda-s-view-justice-one-piece-explored)).
+- **On women characters.** In the same interview Oda said: "I depict women who know how to fight for themselves and don't need to be saved." Anime Feminist (Lillian King, February 2022) argues the opposite trend, citing SBS answers in which Oda replies to complaints about sexualized art that he is a shonen artist and "a man's dream" never ends, and mentions many complaint postcards from female readers; the essay gives these by chapter and page, not volume (wording as reported; to verify in the VIZ volumes) ([Anime Feminist](https://animefeminist.com/choosing-toremain-strong-against-female-criticism-the-vindictive-storytelling-of-oda-eiichiro)). A headline reports a joke about practicing "sexy" drawing for Egghead (FandomWire; not opened).
+- **On Yamato's gender.** No SBS answer by Oda on Yamato was found in the pages opened; the draft's "Vol. 105 or 106 SBS" could not be confirmed. ComicBook (September 2021) reported that a leaked, not-yet-public Vivre Card guide said Yamato identifies as female, while noting the "exact language" was unclear; Beebom cites the guide as saying Yamato was born female and says Oda has not addressed the question directly ([ComicBook](https://comicbook.com/anime/news/one-piece-manga-anime-yamato-gender-official); [Beebom](https://beebom.com/yamato-gender-one-piece)). Treat Oda's position as unconfirmed.
+- **Politics and religion.** No statement by Oda on real-world politics or religion was found. When fans carried the Straw Hat flag in 2025 protests, Indonesian authorities called it a threat to national unity ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)); no creator comment was found.
+- **Publisher.** Shueisha (Hitotsubashi Group) publishes Weekly Shonen Jump. VIZ Media is jointly owned by Shueisha, Shogakukan and ShoPro (from general knowledge; to verify). Toei Animation makes the anime; Netflix makes the live action with Shueisha and Tomorrow Studios (from general knowledge; to verify).
+- **Localization disputes** (stated neutrally): the 4Kids dub (2004 to 2006) heavily edited violence, smoking and guns (from general knowledge; to verify). Bounding Into Comics reported that Netflix's English subtitles for anime episode 441 render "New Kama" as "the new trans", where Funimation's read "the people of New Kama land"; it argues this goes beyond Oda's ch. 537, and notes Shueisha, Toei, Oda and Netflix had not commented ([Bounding Into Comics](https://boundingintocomics.com/anime/netflixs-english-localization-of-one-piece-anime-changes-term-new-kama-into-new-trans)). Translations of Yamato's lines are also disputed.
+
+## Worldview lenses
+
+Dominant lenses: Libertarianism (liberty and anti-authoritarianism), Classical virtue ethics (loyalty and courage), Communitarianism (the crew and freed peoples), and a critique of Collectivism/authoritarianism. "Anti-authoritarian" is drawn from Wikipedia's account of the themes. The labels Critical theory, Expressive individualism, Communitarianism, Pragmatism and Confucian ethics are our framing, not any source's.
+
+| Lens | Strength (0 to 10) | Stance | Closeness (S to F) | Evidence |
+|---|---|---|---|---|
+| Libertarianism / liberty | 9 | Affirmed | A | Freedom is a central theme per Wikipedia; the Pirate King is defined as the freest person; heroes defy every state. |
+| Collectivism / authoritarianism | 8 | Critiqued | F | The World Government, Celestial Dragons, Imu; book-burning and murder of scholars at Ohara (ch. 394 to 395, Vol. 41). |
+| Classical virtue ethics | 7 | Affirmed | A | Loyalty, courage, promises kept; Zoro's oath, Sanji's code, Usopp's growth in courage. |
+| Communitarianism | 6 | Affirmed | B | The crew ("nakama") as a chosen community; Luffy frees islands and leaves them to govern themselves; Wano's retainers bound by loyalty to Oden. Oda: "friendship became a central theme" (NYT). Our framing. |
+| Might makes right | 6 | Critiqued, though power decides most fights | D | Doflamingo's "Whoever wins this war becomes justice!" at Marineford (quoted by [Sportskeeda](https://sportskeeda.com/anime/eiichiro-oda-s-view-justice-one-piece-explored); chapter likely 556, to verify); tyrant pirates beaten by stronger heroes. |
+| Critical theory (anti-oppression) | 6 | Explored | C | Slavery (ch. 502), racism against fish-men (Vol. 63), hereditary caste; our framing. |
+| Expressive individualism | 6 | Affirmed | B | Every crew member pursues a personal dream; mockery of dreams is treated as the worst insult; our framing. |
+| Secular humanism | 5 | Affirmed | B | Human solidarity and inherited will carry meaning; no god rewards virtue. |
+| Pagan / mythic | 4 | Explored | C | Sun God Nika (ch. 1044); Norse-inspired giants and gods of Elbaph (Vols. 111 on); Shandia sky-island folk religion. |
+| Traditionalism | 4 | Explored | C | Inherited will, honoring ancestors, samurai loyalty in Wano; also critiques traditions that oppress. |
+| Progressivism | 4 | Explored | C | Anti-racism, gender-variant characters shown with acceptance (CSM). |
+| Pragmatism | 3 | Explored | C | Alliances of convenience (Law, the Worst Generation in Wano) judged by results; heroes adapt plans to win. Our framing. |
+| Confucian ethics | 3 | Explored | C | Wano's lord-and-retainer loyalty and filial devotion to Oden honored; abusive patriarchs (Judge Vinsmoke, Big Mom) show filial duty exploited. Our framing. |
+| Transhumanism | 3 | Explored, critiqued in use | D | Vegapunk's science; Kuma made into a cyborg; Germa gene-edited soldiers. |
+| Feminism | 3 | Explored | C | Women rulers and fighters; Oda says his women "don't need to be saved"; offset by fan service (see controversy). |
+| Existentialism | 3 | Explored | C | Characters choose their own purpose; Robin's choice to live. |
+| Hedonism | 3 | Explored | C | Feasts, parties, Luffy's appetite as joy rather than vice. |
+| Utilitarianism | 2 | Critiqued | D | Marines sacrifice civilians for "Absolute Justice". |
+| Christian | 2 | Explored | C | Self-sacrifice and the dignity of the lowly; no Christian content. Christian reviewers draw parallels (Pauline, Beneath the Tangles). |
+| Dharmic (Hindu / Buddhist) | 2 | Explored | C | Sengoku's "Buddha" power; Wano shrines; mercy over killing. |
+| Marxism | 2 | Explored | C | Class oppression and tribute taxes; no economic program; our framing. |
+| Stoicism | 2 | Explored | C | Zoro's endurance ("nothing happened", Thriller Bark, likely ch. 485). |
+| Postmodernism, Absurdism, Consumerism, Environmentalism | 1 | Explored | C | Relative "justice" rhetoric; gag humor; minor ecological themes. |
+| At 0 | 0 | — | — | Jewish, Islamic, Pantheist/New Age, Moralistic therapeutic deism, Naturalism, Nihilism, Anti-natalism. |
+
+| Political axis (0 to 10, 5 = takes no side) | Score | Why |
+|---|---|---|
+| Economic (0 collective, 10 free market) | 6 | Little economics; leans against state extraction (the Heavenly Tribute tax ruins poor nations) but praises no market system. |
+| Social (0 authority, 10 liberty) | 9 | Freedom is the series' core value; almost every government shown is corrupt or captured. |
+| Cultural (0 traditional, 10 progressive) | 6 | Anti-racist and accepting of gender variance; but honors loyalty, ancestry and good monarchs. |
+| Community (0 individual first, 10 community first) | 6 | Each character's personal dream comes first in principle, but the crew risks everything for any one member and for strangers under tyranny; freedom is lived inside a chosen community. |
+
+**Moral foundations profile (0 to 10):** care 8, loyalty 10, fairness 8, sanctity 3, authority 3, liberty 10.
+
+**Profile notes for parents:** The story's politics are anti-tyranny more than left or right; readers across the spectrum claim it. Families who stress respect for authority may want to discuss how the story separates just rulers from unjust ones. Families sensitive to sexualized art or to gender-identity themes will find both, scattered across a very long series.
+
+## Folkways and cultural values
+
+| Dimension | Position | Evidence |
+|---|---|---|
+| Dignity vs honor | 6 | When a crewmate is wronged, the crew declares war on whoever holds them (Arlong Park, vol. 9; Enies Lobby, for Robin). Zoro's vows and Sanji's chivalry are honored, while revenge as a cycle is rejected (Hody, vols. 62-65). |
+| Order vs freedom | 9 | The Pirate King is "the freest person on the sea"; Luffy will not order his crew to stay and leaves freed islands to rule themselves (Philosophy essay). Authoritarian rule is critiqued in nearly every arc. |
+| Civic vs kin | 7 | Chosen kin (nakama) come first; blood families that exploit are condemned (Vinsmoke, vols. 83-87; Big Mom). Luffy also frees strangers and whole nations, which keeps the position below the top. |
+| Equality vs hierarchy | 2 | Hereditary divine right is the central enemy (Celestial Dragons and slavery, ch. 502, 521; Kuma's backstory, vols. 108-109). Loyalty is honored only when freely given (Wano's retainers to Oden). |
+| Tradition vs secular-rational | 6 | No real-world religion appears; self-proclaimed gods are exposed as tyrants (Enel; the Celestial Dragons). Late in the story Luffy embodies a liberation myth, the "Sun God Nika" (ch. 1044). |
+| Survival vs self-expression | 7 | A good life is chasing your own dream; each crewmate joins by choice to chase a dream, and that pursuit is the series' engine. Oppressed peoples' survival is shown seriously, so the position stops short of the top. |
+
+Closest clusters: The Far West; El Norte; New Netherland
+
+Japanese source culture: The shonen ideal of friendship, effort and victory, and Wano's samurai loyalty and Edo-period setting (vols. 92-100) reflect Japanese norms; the story's strong anti-aristocratic and anti-authoritarian message is its own, and global readers have taken it up as such.
+
+## Philosophy essay
+
+**The central question.** What makes a person free, and what does freedom owe to others? Luffy's goal, King of the Pirates, sounds like a quest for power. He defines it otherwise: the Pirate King is the freest person on the sea. The series then asks what blocks that freedom, and finds the answer in people who claim to own others.
+
+**The answer the story gives.** Freedom is lived with friends and protected for strangers. Luffy does not conquer the islands he frees. He leaves them to rule themselves, often refusing reward. Freedom here is not isolation. It is loyalty chosen, never forced. The crew joins by choice; Luffy will not order them to stay. When Nami or Robin is in trouble, the crew declares war on whoever holds them, a navy base or the world itself.
+
+**Characters as arguments.** Luffy argues that a person may be simple, hungry and reckless and still be right about what matters. Zoro argues for vows and self-discipline. Nami and Robin carry the cost of oppression: one robbed by a fish-man warlord, one hunted for knowing history. Sanji argues for chivalry, a code the story both honors and mocks. Against them stand the Celestial Dragons, who wear bubble helmets so as not to breathe common air and buy people at auction. Akainu argues for "Absolute Justice", order at any price. Doflamingo argues that "whoever wins this war becomes justice". The fish-man Hody argues for revenge, and the story rejects him even though his grievances are real.
+
+**Symbols and motifs.** The straw hat is passed from Roger to Shanks to Luffy, a sign of inherited will. The Jolly Roger stands for chosen identity. Wanted posters measure fame and threat, and are often used as jokes. The "Void Century" and the stone Poneglyphs stand for history the powerful want erased. Food and feasts close many arcs, framing victory as shared joy. Since 2025, the Straw Hat flag has also become a real protest symbol.
+
+**Traditions it echoes.** Liberal and libertarian suspicion of the state; abolitionist writing; Japanese "jingi" codes of honor and the samurai tale (Wano); the trickster-liberator figure of folklore, made literal in the Sun God Nika, the "Warrior of Liberation"; Norse myth in Elbaph. Readers have also compared the hidden ruler Imu to Gnostic ideas of a false god on a throne; that link is a fan reading, not the author's.
+
+**How each lens is portrayed.** Liberty is affirmed. Authoritarian rule is critiqued in nearly every arc. Might-makes-right is put in villains' mouths, yet the heroes also win by being stronger, a tension readers notice. Religion appears mostly as false divinity unmasked, and then, late, as a liberator myth Luffy embodies. Traditional loyalty is honored where it is freely given (Wano's retainers to Oden) and rejected where it is forced. Gender variance is accepted within the world, while the art and gags around women remain a point of dispute; Oda says his women "don't need to be saved", and critics answer with the fan service on the page.
+
+**Shifts across the series.** The East Blue arcs (ch. 1 to 100) are local and comic, each island with its own petty tyrant. From Alabasta and Enies Lobby the enemy grows into the state. After Marineford, loss becomes real and the crew trains for two years. The post-timeskip arcs widen into race, slavery, genocide and history. The final saga (from ch. 1054) turns openly to the World Government, the Celestial Dragons and the truth of the Void Century. Kuma's backstory (Vols. 108 to 109) is described in news coverage as the darkest material in the series, and the Elbaph arc returns to the "God Valley Incident" (Vol. 114).
+
+**Discussion questions.**
+1. Luffy says the Pirate King is "the freest person". Is freedom the same as having no rules?
+2. Pirates are criminals in real life. Why does the story make pirates the heroes and a government the villain? Is that fair?
+3. Hody's people really were mistreated. Why does the story still reject his revenge?
+4. Sanji will not fight women, and he also leers at them. Can both be true of one person? How should we read it?
+5. The Celestial Dragons believe they are gods. What makes someone's authority legitimate, in the story and in your family's view?
+
+## How readers took it
+
+| Reading | Who (viewpoint; anime or manga) | Summary | Source |
+|---|---|---|---|
+| Critics, general | Critics and readers; manga | Praised for storytelling, worldbuilding, art, characters, humor; often called one of the greatest manga | [Wikipedia](https://en.wikipedia.org/wiki/One_Piece) |
+| Secular parent guide | Common Sense Media; anime | 13+; positive messages about dreams, friendship, bravery; flags violence, harassment played for comedy, smoking, dub profanity; praises diverse representation | [CSM anime](https://www.commonsensemedia.org/tv-reviews/one-piece) |
+| Secular parent guide | Common Sense Media; Netflix live action | 14+; drinking "a lot"; a lead who is a positive role model | [CSM live action](https://www.commonsensemedia.org/tv-reviews/one-piece-0) |
+| Christian parent guide | Plugged In (Focus on the Family); Netflix live action, two episodes | Calls it a "faithful adaptation" and Luffy "chipper and friendly"; flags blood, a man sliced in half, profanity, God's name in vain, transgender characters, an objectifying "happiness punch", drinking; warns "some content that lurks below these waves" | [Plugged In](https://www.pluggedin.com/tv-reviews/one-piece/) |
+| Christian commentary | Beneath the Tangles (Laura A. Grace, May 2021); anime | Reads Luffy's boldness as a picture of freedom in Christ (2 Corinthians 5:17); raises no content concerns | [Beneath the Tangles](https://beneaththetangles.com/2021/05/06/one-piece-stirs-a-call-to-freedom-a-call-to-adventure) |
+| Catholic media guide | Pauline Media Mindfulness (Sr Orianne Pietra René Dyck, FSP, 2023); Netflix live action | Luffy's rescue of Nami as an image of Christ seeking the lost; the straw hat as unconditional belonging; notes the series is not written from a Christian worldview and may show moral relativism | [Pauline](https://pauline.org/media-mindfulness/one-piece-realizing-belonging/) |
+| Progressive, feminist | Anime Feminist (Lillian King, February 2022); manga | Argues Oda responded to female criticism by sexualizing women and reducing their agency; cites SBS answers and a 52% female-readership estimate | [Anime Feminist](https://animefeminist.com/choosing-toremain-strong-against-female-criticism-the-vindictive-storytelling-of-oda-eiichiro) |
+| Progressive, queer reading | Georgetown Voice | "What One Piece can teach us about queer identities" | https://georgetownvoice.com/2023/08/30/what-one-piece-can-teach-us-about-queer-identities (seen in search only) |
+| Conservative | Bounding Into Comics; anime (Netflix subtitles) | Objects to "the new trans" for "New Kama" in episode 441 as contradicting Oda's ch. 537 and taking a side in a political debate | [Bounding Into Comics](https://boundingintocomics.com/anime/netflixs-english-localization-of-one-piece-anime-changes-term-new-kama-into-new-trans) |
+| Fan reading on Yamato | Beebom; manga and anime | Lays out the evidence on both sides of Yamato's gender and says Oda has not settled it | [Beebom](https://beebom.com/yamato-gender-one-piece) |
+| Readalong commentary | Barnes & Noble "Everlasting One Piece Readalong"; manga | Calls Absalom's and Brook's behavior sexual harassment, and the section both "the grossest" and among the funniest | [B&N](https://www.barnesandnoble.com/blog/one-piece-readalong/everlasting-one-piece-readalong-vols-46-48) |
+| Political, real-world | NPR, CBC, The Week, Kathmandu Post | Straw Hat flag adopted by Gen Z protesters in Indonesia, Nepal and elsewhere in 2025 | https://npr.org/2025/10/05/nx-s1-5560980/gen-z-protesters-one-piece-pirate-flag (seen in search only); [Wikipedia](https://en.wikipedia.org/wiki/One_Piece) |
+| Fan reviews and polls | MyAnimeList; official global polls; manga | MAL score 9.20, popularity #3; Luffy won both global polls (2021: 12 million votes) | [MAL](https://myanimelist.net/manga/13); [ANN](https://www.animenewsnetwork.com/interest/2021-05-05/full-results-revealed-for-one-piece-1st-global-character-popularity-poll/.172412); [Anime Corner](https://animecorner.me/luffy-wins-2nd-one-piece-global-poll-final-results-for-top-30-characters-revealed/) |
+| Japanese reception | Oricon, Pixiv Encyclopedia | Top Oricon comic chart since 2008; most moving manga in a 2008 Oricon poll ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece)); Pixiv Encyclopedia not read | https://dic.pixiv.net/a/ONEPIECE (seen in search only) |
+
+**Controversies, each side.** (1) *Women and fan service:* critics (Anime Feminist; B&N's readalong on Absalom) point to exaggerated designs and comic harassment; Oda says he depicts women "who know how to fight for themselves and don't need to be saved", and defenders point to women with real power. (2) *Gender identity:* progressive readers and CSM see respectful gender-variant characters; others see okama as comic stereotypes; conservative outlets object to localizations they say go beyond Oda's text, especially "New Trans" and Yamato. Oda's own position on Yamato is unconfirmed. (3) *Political use:* governments in Indonesia condemned the flag; protesters and many commentators saw it as a hopeful symbol.
+
+## Most loaded parts and pages to photograph
+
+Volume to arc mapping (confirmed from the opened pages unless marked): East Blue Vol. 1 to 12 (ch. 1 to 100, from general knowledge); Arlong Park ends with "Tears" (Vol. 9); Alabasta to Vol. 23 ("Vivi's Adventure"); Skypiea Vol. 24 to 32 (likely); Enies Lobby including Ohara Vol. 41 to 45; Thriller Bark Vol. 46 to 50; Sabaody ch. 490 to 513, Vol. 50 to 53 ([fan wiki](https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc)); Amazon Lily Vol. 53; Impel Down Vol. 54 to 56; Marineford Vol. 57 to 59 (fan wiki serial table puts ch. 543 to 560 in Vols. 56 to 57); Return to Sabaody Vol. 61; Fish-Man Island Vol. 62 to 66; Punk Hazard Vol. 66 to 69; Dressrosa Vol. 70 to 80; Zou and Whole Cake Island Vol. 81 to 90; Reverie (Levely) Vol. 90; Wano Vol. 90 to 105 (Wano begins at "Onward to Wano", Vol. 90; Kaido falls in Vol. 104); Egghead Vol. 105 to 111 (ch. 1058 to 1125, likely); Elbaph from ch. 1126, Vol. 111 on ([Wikipedia](https://en.wikipedia.org/wiki/One_Piece); chapter lists [389 to 594](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(389%E2%80%93594)), [595 to 806](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(595%E2%80%93806)), [807 to 1015](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(807%E2%80%931015)), [1016 on](https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(1016%E2%80%93current)); [fan wiki volumes page](https://onepiece.fandom.com/wiki/Chapters_and_Volumes)). Chapter numbers marked "counted" were counted from Wikipedia's title lists. Also photograph the SBS Q&A pages in each volume listed.
+
+| Rank | Loaded part | Chapters (volume) | Why it matters |
+|---|---|---|---|
+| 1 | Celestial Dragons and slavery: human auction and Luffy's punch; Hancock's past ("Hoof of the Celestial Dragon"); Fisher Tiger and Otohime; the Reverie and Imu | ch. 502 (Vol. 51), counted; ch. 521 (Vol. 53), counted; Vol. 63; Vol. 90 | The series' central political claim; anti-slavery and anti-aristocracy for all frames |
+| 2 | Kuma's backstory: God Valley hunt, Ginny made a Celestial Dragon's "bride" and returned dying, Bonney's birth, Kuma's conversion | "Kuma the Tyrant's Holy Land Rampage" and Ginny (Vol. 108); ch. 1098 (Ginny, per Sportskeeda); "Kuma's Life" (Vol. 109); ch. 1095 to 1102 overall (per headlines) | Darkest material per coverage; implied sexual coercion, not shown per the recap; confirm on the page |
+| 3 | Gender-variant characters: Bon Clay; Ivankov's New Kama speech and Newkama Land; Kikunojo; Yamato | Bon Clay from about ch. 155 (to verify); ch. 537 to 538 (Vol. 55); Kikunojo Vol. 100; Yamato Vols. 97 to 99 | Main source of the progressive versus conservative dispute; confirm VIZ's wording for "okama", "New Kama" and Yamato's pronouns |
+| 4 | Fan service and harassment gags: Absalom in Nami's shower and the sham wedding; Brook's request; Amazon Lily; Egghead outfits | Vols. 46 to 48 (Absalom vs. Sanji ch. 463, counted); ch. 515 to 516 (Vol. 53), counted; Vols. 105 to 111 | Sets the Sexuality score; CSM and B&N both cite the shower scene |
+| 5 | Marineford: Ace's death, Whitebeard's death, Doflamingo's "justice" line, Luffy's breakdown and recovery | ch. 553 to 576 (Vols. 57 to 59); ch. 574 and 576 (Vol. 59), counted; Doflamingo's line likely ch. 556 (Vol. 57); recovery Vols. 59 to 60, likely | Violence peak and grief; might-makes-right lens |
+| 6 | Ohara: Buster Call kills scholars and burns books; Robin decides to live | ch. 394 to 395 (Vol. 41), counted; "I want to live" ch. 398, likely (Vol. 41) | Censorship and state violence; suicidal despair to hope |
+| 7 | Nika: Luffy's awakening as the "Sun God", Gear 5 | ch. 1044 "Warrior of Liberation" (Vol. 103) | Religious framing; key for Pentecostal, Baptist and Muslim frames |
+| 8 | Drugs: Energy Steroids; drugged candy for kidnapped children; SMILE fruits | Hody Vols. 62 to 65 (steroid chapters to verify); "Candy" (Vol. 67) and laced candy (Vol. 69); "Smile" (Vol. 94) | Substances score; drugs as villain tools |
+| 9 | Wano tyranny: Oden's boiling execution; Orochi's rule; the smiling Ebisu Town | ch. 972 (Vol. 96; chapters "Sentenced to Boil" and "I Am Oden, and I Was Born to Boil"); Ebisu Town Vols. 92 to 94 | Strongest execution scene; authority and loyalty themes |
+| 10 | Arlong Park and Flevance: Bell-mère shot in the head; Nami stabs her tattoo; Law's town destroyed; Corazon killed | Vol. 9 ("Tears"; ch. 79 to 81, likely); Flevance Vol. 76; Corazon Vol. 77 | Violence against family; self-harm-adjacent scene |
+| 11 | Abusive families: Vinsmoke treatment of Sanji; Big Mom's forced marriages | Vols. 81 to 89 (Vinsmoke Vols. 83 to 87) | Family theme; birth family versus chosen family |
+| 12 | The God Valley Incident flashback (Elbaph) | "The God Valley Incident" (Vol. 114) | New since the draft: Celestial Dragon manhunt and Rocks D. Xebec; not yet checked for content |
+
+Estimate: over 1,175 chapters published (Wikipedia, late 2026). The rows above cover roughly 70 chapters, or about 1,200 pages; photographing the key 4 to 6 pages per row plus the SBS pages comes to roughly 80 to 100 pages.
+
+## Sources
+
+Pages actually opened (first pass):
+- https://en.wikipedia.org/wiki/One_Piece
+- https://www.commonsensemedia.org/tv-reviews/one-piece
+- https://www.commonsensemedia.org/tv-reviews/one-piece-0
+
+Pages actually opened (second pass, 2026-11-22):
+- https://en.wikipedia.org/wiki/List_of_One_Piece_manga_volumes
+- https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(389%E2%80%93594)
+- https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(595%E2%80%93806)
+- https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(807%E2%80%931015)
+- https://en.wikipedia.org/wiki/List_of_One_Piece_chapters_(1016%E2%80%93current)
+- https://onepiece.fandom.com/wiki/Chapters_and_Volumes
+- https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc
+- https://tvtropes.org/pmwiki/pmwiki.php/Recap/OnePieceArlongArc
+- https://www.pluggedin.com/tv-reviews/one-piece/
+- https://pauline.org/media-mindfulness/one-piece-realizing-belonging/
+- https://beneaththetangles.com/2021/05/06/one-piece-stirs-a-call-to-freedom-a-call-to-adventure
+- https://animefeminist.com/choosing-toremain-strong-against-female-criticism-the-vindictive-storytelling-of-oda-eiichiro
+- https://boundingintocomics.com/anime/netflixs-english-localization-of-one-piece-anime-changes-term-new-kama-into-new-trans
+- https://spokesman.com/stories/2023/aug/29/one-piece-creator-hopes-to-defy-a-history-of-failu
+- https://comicbook.com/anime/news/one-piece-manga-anime-yamato-gender-official
+- https://beebom.com/yamato-gender-one-piece
+- https://comicbook.com/anime/news/one-piece-manga-spoiler-972-true-events-of-odens-death/
+- https://www.epicdope.com/one-piece-chapter-1044-luffy-joy-boy-sun-god-nika/
+- https://www.sportskeeda.com/anime/one-piece-chapter-1098-kuma-s-backstory-takes-dark-turn-ginny-s-death-bonney-s-birth
+- https://sportskeeda.com/anime/eiichiro-oda-s-view-justice-one-piece-explored
+- https://www.barnesandnoble.com/blog/one-piece-readalong/everlasting-one-piece-readalong-vols-46-48
+- https://www.animenewsnetwork.com/interest/2021-05-05/full-results-revealed-for-one-piece-1st-global-character-popularity-poll/.172412
+- https://animecorner.me/luffy-wins-2nd-one-piece-global-poll-final-results-for-top-30-characters-revealed/
+- https://myanimelist.net/manga/13
+- https://www.animenewsnetwork.com/encyclopedia/releases.php?id=56684
+
+Tried but blocked or failed: simonandschuster.com and simonandschuster.co.uk volume pages (site errors); ANN's 2026 second-poll article (site error); onepiece.fandom.com Story Arcs (refused: shared fetch budget). VIZ's own product pages, TV Tropes YMMV, Pixiv Encyclopedia and the fan wiki SBS pages were not reached within the budget.
+
+Seen only as search-result titles (not opened; used only where marked "seen in search" or "per headlines"):
+- https://beneaththetangles.com/2021/05/14/newmans-nook-pirate-family/
+- https://georgetownvoice.com/2023/08/30/what-one-piece-can-teach-us-about-queer-identities
+- https://fandomwire.com/eiichiro-oda-one-piece-egghead-arc-has-a-lot-of-panty-shots-because-i-practiced-to-make-butts-look-more-sexy/
+- https://www.gamepro.de/artikel/frauen-gerettet-one-piece-eiichiro-oda,3399868.html
+- https://npr.org/2025/10/05/nx-s1-5560980/gen-z-protesters-one-piece-pirate-flag
+- https://en.wikipedia.org/wiki/Straw_Hat_Pirates_insurgence
+- https://www.sportskeeda.com/anime/one-piece-chapter-1102-concludes-kuma-s-flashback-best-possible-way
+- https://sportskeeda.com/anime/one-piece-chapter-1096-masterpiece-and-reason-think
+- https://onepiece.fandom.com/wiki/SBS_Volume_110
+- https://www.tvtropes.org/pmwiki/pmwiki.php/YMMV/OnePiece
+- https://myanimelist.net/manga/13/One_Piece/reviews
+- https://dic.pixiv.net/a/ONEPIECE
+
+## Full-read review checklist
+
+- [ ] Replace the remaining "likely" and "counted" chapter numbers using the fan wiki chapter pages or the VIZ volumes: ch. 79 to 81, 398, 463, 485, 502, 515 to 521, 556, 574 to 576, and the Kuma chapters 1095 to 1102 (all scores).
+- [ ] Confirm VIZ's age rating (Teen / T) on a VIZ product page or a printed volume, and the current English volume count (Series facts).
+- [ ] Vols. 108 to 109 (ch. 1095 to 1102): what is shown versus implied about Ginny's capture and "bride" status and the God Valley hunt; the recap opened shows no sexual content (Sexuality 5, Violence 7, Fear 6).
+- [ ] Vols. 46 to 48: how much of Absalom's shower attack and the sham wedding is drawn; Brook's underwear request (Sexuality 5).
+- [ ] Amazon Lily (Vol. 53) and Egghead (Vols. 105 to 111): degree of fan service in the manga art; any nudity (Sexuality 5).
+- [ ] Ch. 537 to 538 (Vol. 55), Vol. 100 and Vols. 97 to 99: how VIZ translates "okama", "New Kama", Kikunojo's and Yamato's pronouns (Gender theme).
+- [ ] Look for any SBS answer by Oda on Yamato in Vols. 98 to 115, and record the exact VIZ wording; the Vivre Card claim also needs the published text (Gender theme; Creator context).
+- [ ] Check the SBS answers Anime Feminist cites (placed at ch. 50, 87, 263, 381 and 786) for the exact VIZ wording (Creator context; Secular progressive frame).
+- [ ] Vol. 59 (ch. 574 to 576): blood and wound detail in Ace's and Whitebeard's deaths (Violence 7).
+- [ ] Vol. 96 (ch. 972): Oden's execution, how graphic the boiling and the shooting are (Violence 7).
+- [ ] Vol. 9: Bell-mère's head shot and Nami stabbing her tattoo; whether it reads as self-harm (Violence 7; Mental health 5).
+- [ ] Vol. 41: Robin's "I want to live" and earlier death-wish dialogue (Mental health 5).
+- [ ] Vols. 62 to 65 (Energy Steroids) and Vols. 67 to 69 (drugged candy): how drugs are drawn and named (Substances 5).
+- [ ] Sample 5 random chapters for VIZ profanity (Language 3).
+- [ ] Ch. 1044 (Vol. 103): wording of the Nika "Sun God" and "Warrior of Liberation" reveal (Religion theme; Pentecostal, Baptist and Muslim frames).
+- [ ] Doflamingo's "Whoever wins this war becomes justice!" line: exact chapter (likely 556) and VIZ wording (Worldview lenses).
+- [ ] Find the original source of the "other side of justice is another justice" quote attributed to Oda (Creator context).
+- [ ] Open Georgetown Voice, TV Tropes YMMV and Pixiv Encyclopedia; add Japanese reception beyond Oricon (How readers took it).
+- [ ] Find a parent or faith review of the manga itself (all current guides cover the anime or live action) (Other guides).
+- [ ] Check the Elbaph arc (ch. 1126 on), especially "The God Valley Incident" (Vol. 114), for new loaded content (all scores).
+- [ ] Photograph the SBS pages in each listed volume.
+- [ ] Re-score and sign off: update all scores, change the label to "Full read", record the reviewer, delete photos.

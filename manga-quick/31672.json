@@ -1,0 +1,97 @@
+{
+ "anilist_id": 31672,
+ "title": "Lady Snowblood",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31672",
+  "https://api.mangaupdates.com/v1/series/33679458614",
+  "https://animenewsnetwork.com/house-of-1000-manga/2014-01-23"
+ ],
+ "premise": "A 1970s adult gekiga set in Meiji-era Japan (the 1890s). Yuki, born in prison to Sayo, whose husband and son were murdered and who was raped by a gang of four criminals, is raised as an assassin sworn to avenge her family (ANN House of 1000 Manga; Dark Horse blurb). Episodic stories move through brothels, the underworld and Westernizing high society.",
+ "life_message": "A life inherited as a single purpose of vengeance; the story presents retribution as total and unquestioned.",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Endorsed", "note": "Sword killings such as throat-slashing (ANN); Gore and Assassins tags (AniList); murder, cruelty (MangaUpdates)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Cruelty, blackmail, psychopathic villains (MangaUpdates); dark exploitation tone (ANN)."},
+  {"category": "Sexuality and romance", "score": 8, "framing": "Neutral", "note": "Strong sexual focus (ANN); nudity, sexual coercion and rape including by the heroine in some stories (ANN, MangaUpdates, AniList). Adult magazine origin."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Not described; adult crime milieu (to verify)."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Drugs listed by MangaUpdates; detail unknown (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Trauma of the inherited revenge mission; not detailed (to verify)."},
+  {"category": "Imitable behavior", "score": 6, "framing": "Endorsed", "note": "Assassination and revenge as the heroine's purpose (ANN); sexual coercion in some stories."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Film adaptations exist; nothing commercial in story."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 6, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Nihilism", "strength": 4, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 3, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Inherited vengeance; anti-Westernization; exploitation-era sexuality and violence",
+ "axes": {"economic": 5, "social": 4, "cultural": 3, "community": 6},
+ "foundations": {"care": 2, "loyalty": 8, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "F", "weight": "Significant", "aligns": "Exposes the crimes done to Sayo's family as real injustice.", "concerns": "Revenge as life purpose; Yuki's sexual coercion of others; pornographic-leaning scenes."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Shows how sin passes from one generation to the next.", "concerns": "Passions of wrath and lust displayed and indulged throughout."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Evil of the gang's murders is plain.", "concerns": "Vengeance taken by Yuki rather than left to God; graphic sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Takes the wrong done to the family seriously.", "concerns": "Revenge never questioned (ANN); sexual violence by the heroine."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Injustice of the gang shown clearly.", "concerns": "Murder, rape and brothel life as entertainment."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Total depravity of the criminals depicted.", "concerns": "Lascivious images (WLC Q139) and private vengeance."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Hunger for justice when authorities fail.", "concerns": "Yuki usurps the sword of lawful authority; explicit sexual scenes."},
+  {"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Exposes oppression of prisoners and the poor.", "concerns": "Harm done and celebrated; sexual violence."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Literary historical tour of Meiji society (ANN).", "concerns": "Frames vengeance as heroic; degrading sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little beyond depicting victims' suffering.", "concerns": "Killing for revenge is the hero's whole purpose."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Family devotion of Sayo and Yuki.", "concerns": "Violent, sexual and vulgar content far outside youth guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Sides with prisoners, prostitutes and the poor.", "concerns": "Sexual violence and predatory lesbian portrayals (ANN)."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Justice for a wronged family.", "concerns": "Revenge beyond lawful limits; nudity and sex outside marriage throughout."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Duty to avenge family has echoes in epic tales.", "concerns": "Adharmic means; tamasic violence and lust."},
+  {"frame": "Buddhist", "grade": "F", "weight": "Significant", "aligns": "Shows suffering produced by hatred across generations.", "concerns": "Killing and sexual misconduct presented without karmic reckoning."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "A woman avenges sexual violence; critique of elites.", "concerns": "Reviewer notes Koike's treatment of women; rape scenes; predatory queer stereotype."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Historical detail on Meiji modernization (ANN).", "concerns": "Celebrates cruelty and vengeance over reason."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Defends Japanese tradition against extreme Westernization (ANN).", "concerns": "Gratuitous sex and gore."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence, sexual content and degradation throughout."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence and immorality are central, not incidental."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Dwells on hatred, cruelty and lust."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Attention to marginalized people of the era.", "concerns": "Dignity violated by sexual coercion; revenge glorified."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Strong, self-directed female figure.", "concerns": "Breaks 'harm none'; non-consensual sex."},
+  {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Loyalty to ancestors and family memory.", "concerns": "Constant blood and death (kegare)."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Fighting against oppressors of the weak.", "concerns": "Vengeance for personal grievance; lust shown as power."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence and unchaste content opposed to core principles."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Competence and resolve of Yuki.", "concerns": "Murder and harm to people of good will."},
+  {"frame": "Satanist", "grade": "C", "weight": "Significant", "aligns": "Retaliation against those who wronged her family.", "concerns": "Unwanted sexual advances by the heroine break the Eleven Rules."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Revenge forbidden (Lev. 19:18); severe tzniut issues."},
+  {"frame": "Conservative Jewish", "grade": "F", "weight": "Significant", "aligns": "Exposes injustice of the gang.", "concerns": "Degrading sexual content and vengeance."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Concern with injustice and class exploitation.", "concerns": "Cruelty and sexual exploitation celebrated."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 10, "evidence": "Yuki is 'sworn to revenge since the day she was born' (ANN)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Operates outside law as paid assassin among outlaws (ANN)."},
+   "Civic vs kin": {"pos": 9, "evidence": "Avenging Sayo and her murdered husband and son drives everything (ANN)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Allies with beggars and prostitutes, attacks elites (ANN)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Opposes 'Westernization gone mad' (ANN)."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Underworld survival and violence dominate."}
+  },
+  "closest": ["Borderer", "Greater Appalachia", "El Norte"],
+  "japan": "Rooted in the Japanese vendetta (katakiuchi) tradition and 1970s gekiga, set against Meiji-era debates over Westernization."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 4,
+  "evidence": "ANN: Koike plays to nationalistic sentiments; Westernizing extremes are assassination targets.",
+  "personified": [
+   {"character": "Westernizing officials and intellectuals (proposals such as Arinori Mori's, per ANN)", "ideology": "Wholesale Westernization of Japan", "role": "Villain", "treatment": "Mixed"},
+   {"character": "Yuki (Lady Snowblood)", "ideology": "Inherited duty of vengeance", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Revenge is never questioned, and modernizers appear chiefly as extreme proposals that become targets."
+ },
+ "winners_losers": "Yuki and her quest win sympathy; the gang and Westernizing elites lose. The reviewer notes women other than Yuki often suffer abuse in Koike's work.",
+ "to_verify": [
+  "Whether the Westernizers are drawn as strawmen; ANN supports 'extremes' but not a clear Strawman call.",
+  "Exact frequency and explicitness of sexual scenes; MangaUpdates lists many adult categories and the Adult genre.",
+  "Only one review opened (ANN House of 1000 Manga, about the Dark Horse manga).",
+  "Not flagged adult on AniList and rated suggestive on MangaDex, so not skipped; parents should know MangaUpdates lists Adult and Mature genres."
+ ]
+}

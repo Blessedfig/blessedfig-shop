@@ -1,0 +1,94 @@
+{
+ "anilist_id": 31515,
+ "title": "Baoh",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31515",
+  "https://api.mangaupdates.com/v1/series/53120870944",
+  "https://www.animenewsnetwork.com/house-of-1000-manga/2010-07-22"
+ ],
+ "premise": "Teenager Ikuro Hashizawa is abducted by a secret organization (Doress, called Judas in the Viz edition) and implanted with the Baoh parasite, which turns him into a near-unkillable mutant when threatened (AniList; MangaUpdates; ANN column). A young psychic girl (Sumire, Violet in the Viz edition), about 10, frees him and they flee while the chief scientist sends ever-stronger assassins after them (ANN). Hirohiko Araki's 1984 two-volume shounen action story, his work before JoJo's Bizarre Adventure.",
+ "life_message": "It holds up loyalty to a friend and refusing to become someone else's weapon as what makes a person human.",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 8, "framing": "Endorsed", "note": "Melting, exploding and sliced heads, dismembered animals; 'blood-splattered, brainmatter-drenched' (ANN); AniList Gore; MangaUpdates Blood and Gore."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Human experiments and body horror (MangaUpdates Body Horror, Human Experiment/s); hunted fugitives."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "No nudity or fan service (ANN). The young psychic girl has a non-sexual crush on the teenage hero."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Purple prose and sound effects (ANN); nothing coarse noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Amnesia; hero fears the beast within (ANN)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Revenge-driven fighting (ANN)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Friendship and protecting the weak, unethical science critiqued, monstrous power",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Human dignity against experiments on people; protecting a child.", "concerns": "Gratuitous gore; revenge motive."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Ikuro resists the beast within him.", "concerns": "Gore and rage feed the passions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Good versus evil plain; no sexual content.", "concerns": "Graphic gore; revenge."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Self-sacrificing protection of an innocent girl.", "concerns": "Extreme gore."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Evil organization opposed.", "concerns": "Psychic powers; gore."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Image of God violated by human experiments.", "concerns": "Graphic violence as spectacle."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Significant", "aligns": "Protection of the weak.", "concerns": "Gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Friendship and loyalty.", "concerns": "Violence enjoyed as spectacle."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Clear moral framing of hero and villain.", "concerns": "Gore and camp."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Hero refuses to be a weapon for others.", "concerns": "Violence is the whole climax of every chapter."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Defending the innocent.", "concerns": "Violent content beyond youth guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Outsiders rejected by 'normal' people find friendship (ANN).", "concerns": "Female characters mostly victims or fans (ANN)."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Protecting the weak; justice against oppressors.", "concerns": "Gore; psychic powers."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Righteous fight against adharma.", "concerns": "Tamasic gore; animal deaths."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Compassion for a captive child.", "concerns": "Killing, revenge, animal dismemberment."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Critique of unethical science and militarism.", "concerns": "ANN calls it 'a bit sexist'; glorified violence."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Science without ethics critiqued.", "concerns": "Gore as entertainment."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Heroism and protecting the weak.", "concerns": "Gratuitous gore."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Life protected from evil science.", "concerns": "Violent imagery throughout."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Loyalty to a friend.", "concerns": "Violence God hates; psychic powers."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Will over the body's condition.", "concerns": "Dwelling on bodily horror."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of outsiders; consent violated by experiments.", "concerns": "Glorified violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Power used to protect, not harm the innocent.", "concerns": "Animal deaths."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincere bond between Ikuro and the girl.", "concerns": "Blood and death imagery."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed.", "concerns": "Revenge and anger."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Friendship and protecting the weak.", "concerns": "Violence as solution."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Hero keeps his self-determination.", "concerns": "Killing throughout."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Rebellion against controlling authority.", "concerns": "Animal harm."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Saving a life; experiments on humans condemned.", "concerns": "Gore."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Human dignity against misuse of science.", "concerns": "Gore."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice for the exploited.", "concerns": "Glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Driven by justice and revenge (ANN)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Fugitives escaping a controlling organization (blurbs)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Bond with a stranger child becomes chosen family."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Little emphasis on rank."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern science-fiction world of labs and parasites."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Survival on the run dominates."}
+  },
+  "closest": ["The Far West", "Catholic Europe", "Orthodox Europe"],
+  "japan": "A 1980s Weekly Shonen Jump action story built on the Jump values of friendship, struggle and victory."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN: campy melodrama; volume 2 cover promises 'the true meaning of friendship!'",
+  "personified": [
+   {"character": "The chief scientist (Kasuminome / Hazyeye)", "ideology": "science that turns people into weapons", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "None shown",
+  "note": "Themes are carried by fights and the hero's bond with the girl rather than argued."
+ },
+ "winners_losers": "Ikuro defeats a chain of assassins; the organization's weapon program gets no sympathy. The ending is not described in the sources.",
+ "to_verify": [
+  "Ending (AniList Tragedy and Time Skip spoiler tags).",
+  "Character names differ between the Viz edition (Violet, Hazyeye, Judas) and MangaUpdates (Sumire, Kasuminome, Doress).",
+  "MangaUpdates lists it as out of print in English."
+ ]
+}

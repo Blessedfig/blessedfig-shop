@@ -1,0 +1,89 @@
+{
+ "anilist_id": 134066,
+ "title": "Starting Today, We’re Childhood Friends",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/134066",
+  "https://api.mangaupdates.com/v1/series/18638868981"
+ ],
+ "premise": "Kaede has always wanted a childhood friend like those in the manga she reads; when she moves next door to her classmate Kouhei, who offers to help her settle in, she asks him to be her childhood friend, and the two set out to recreate everything childhood friends are supposed to do (Comikey blurb). A gentle middle-school romantic comedy that began as a webcomic; 16 volumes, ongoing (MU).",
+ "life_message": "Friendship and first love can be built deliberately, one shared experience at a time.",
+ "overall": 1,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "MU Wholesome, Iyashikei."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Innocent middle-school crush; Kouhei falls in love first (MU)."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Kaede is shy and new in town (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Playful teasing (MU Teasing Character/s)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Manga-inspired fantasies of friendship (blurb)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Friendship; gentle first love; neighborly welcome",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Kouhei's welcome of a new neighbor; innocent friendship.", "concerns": "Little to raise."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Chaste friendship and kindness.", "concerns": "Little to raise."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Wholesome friendship between classmates.", "concerns": "Young romance; parents may discuss."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Neighborly love.", "concerns": "Little to raise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Uplifting, clean content.", "concerns": "Little to raise."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Common-grace delight in friendship.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Kindness to the newcomer.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Love of neighbor made concrete.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Hospitality.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Minor", "aligns": "Simple everyday friendship.", "concerns": "Popular media culture as the model."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Clean, uplifting friendship.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Welcome and mutual care.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Kindness to neighbors.", "concerns": "Boy-girl closeness for some families."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Friendship and neighbor duty.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Loving-kindness in daily life.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Consentful, kind young friendship.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Human connection.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Neighborliness and innocence.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Wholesome entertainment.", "concerns": "Little to raise."},
+  {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Clean, kind content.", "concerns": "Holiday episodes possible (to verify)."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Joy and love.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Friendship and inclusion.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Playful joy.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony and seasonal life.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Sharing and friendship.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Unity and kindness.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Affinity and communication.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Pursuit of joy.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Chesed to a neighbor.", "concerns": "Mixed-gender closeness for some."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Welcoming the newcomer.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Gentle, conflict-free (MU Wholesome)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Kids choose their own adventures (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Neighbors and classmates (MU)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peer friendship."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school life."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Fun and personal wishes (blurb)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "New France"],
+  "japan": "The 'osananajimi' (childhood friend) is a beloved Japanese romance trope that the characters consciously act out."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic slice-of-life (MU Iyashikei); no review read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argument is made; warmth comes from everyday episodes."
+ },
+ "winners_losers": "Kaede and Kouhei both win a friendship; no antagonist is described.",
+ "to_verify": [
+  "Any fan service (MangaDex rates it 'safe')",
+  "Romance progression in later volumes",
+  "No review or Wikipedia text was available"
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "anilist_id": 100472,
+ "title": "Mujirushi",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/100472",
+  "https://api.mangaupdates.com/v1/series/13266204407"
+ ],
+ "premise": "Kamoda, a man always after a quick buck, is bankrupted by a tax audit after skipping out on taxes, and his wife leaves on a luxury cruise without him and their daughter Kasumi (Viz blurb). A failed scheme selling masks of a controversial American presidential candidate buries him in debt, until a sign leads him to the Director, an art fanatic who promises to make their dreams come true (blurb). A one-volume Naoki Urasawa story made with the Louvre, involving a plot around the museum (MU).",
+ "life_message": "Chasing dreams can lead somewhere unexpected, though shortcuts and schemes cost the dreamer.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Crime caper; no violence noted (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Debt and despair (blurb)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Kamoda 'on the verge of despair' (blurb)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Tax evasion and get-rich schemes (blurb); a theft plot (MU Thief/ves)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Made in collaboration with the Louvre (MU); mask merchandise scheme (blurb)."}
+ ],
+ "lenses": [
+  {"lens": "Consumerism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Dreams and schemes; father-daughter bond; satire of money and politics; love of art",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Father's care for Kasumi; art as a path to beauty.", "concerns": "Tax evasion and a theft scheme as plot engine."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Greed's emptiness shown in Kamoda's ruin.", "concerns": "Deception central."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Consequences of dishonesty with money.", "concerns": "Thieves as protagonists."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Fatherly love amid failure.", "concerns": "Crime framed as caper."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Hope in a dark time.", "concerns": "Theft and lies."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Eighth-commandment themes made concrete.", "concerns": "Theft as adventure."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Shows sin's cost; care for a child.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Care for the struggling family.", "concerns": "Gambling-like schemes."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Art and beauty valued (Louvre).", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Exposes worldly greed.", "concerns": "Deception central."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Family loyalty; honesty's importance shown by its absence.", "concerns": "Thievery."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Social commentary on money and politics.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Father's duty to his daughter.", "concerns": "Theft and deceit; images of people as art."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Artha pursued wrongly, with consequences.", "concerns": "Deceit."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Craving for wealth brings suffering.", "concerns": "Theft (second precept)."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Satire of a 'controversial' politician and money culture.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Reflections on human existence and art (MU).", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "A father providing for his daughter.", "concerns": "Tax evasion and theft; political satire."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Family devotion.", "concerns": "Dishonesty."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Shows greed's results.", "concerns": "Political content; theft."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Dreams as hope.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Art, imagination and satire.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Dreams and signs as guides.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Father-daughter household bond.", "concerns": "Insincerity of schemes."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Kirat karni shown by contrast.", "concerns": "Dishonest earning."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Art as worship and service.", "concerns": "Dishonesty."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Living with the truth, shown by contrast.", "concerns": "Illegal acts."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Satire of authority and politics.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Fatherly responsibility.", "concerns": "Geneivah (theft) and deceit."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Art and family.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Ethical satire.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Problems are financial, not honor-bound (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Skips taxes and follows dreams (blurb)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Single father and daughter bond (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Satire of politicians and presidents (MU)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern, secular setting; art and museums."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Debt versus dreams (blurb)."}
+  },
+  "closest": ["Catholic Europe", "El Norte", "New France"],
+  "japan": "Kamoda's debt shame and the father-daughter bond reflect Japanese family pressures; the story is a collaboration with a French museum."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "MU lists Social Commentary; no review read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Satire of money and politics appears to come through the plot rather than speeches, per summaries."
+ },
+ "winners_losers": "Kamoda and Kasumi get sympathy despite their schemes; the outcome of the Louvre plot is not in the sources.",
+ "to_verify": [
+  "Who the Director is and what the Louvre plot involves",
+  "How the fictional candidate Beverly Duncan figures in the plot",
+  "Ending",
+  "No review or Wikipedia text was available"
+ ]
+}

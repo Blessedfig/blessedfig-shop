@@ -1,0 +1,369 @@
+{
+ "anilist_id": 60431,
+ "title": "Emma and the Earl",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/60431",
+  "https://api.mangaupdates.com/v1/series/32664569095"
+ ],
+ "premise": "A two-volume Harlequin manga adapted from a Paula Marshall novel, set in 19th-century England. Emilia, a wealthy commoner's daughter, turns down a charming aristocrat after learning he wanted her fortune; after misfortune she leaves society, takes the name Emma and becomes governess to the Earl of Chard's children.",
+ "life_message": "Integrity and self-respect, refusing to be married for money, lead to genuine love.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "MU lists Attempted Murder and Attempted Rape; detail unverified (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Peril from those plots (MU); single-source detail (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Period romance with a governess and an earl; no sexual content noted beyond the MU attempted-rape tag."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Loss of family and fortune (MU Dead Family Member/s, Rich to Poor)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Inheritance and wealth drive the plot."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Feminism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Classical virtue ethics, Traditionalism",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 4,
+  "authority": 6,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Emilia rejecting a fortune-hunter and working humbly reflects dignity and honesty.",
+   "concerns": "Attempted assault and murder plots need discussion."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Humility in her fall from wealth echoes Orthodox humility.",
+   "concerns": "Peril and attempted violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Integrity over money and honest work fit Baptist values.",
+   "concerns": "Attempted assault needs context."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Choosing honesty over status reflects evangelical character.",
+   "concerns": "Violence threats need parental framing."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Perseverance through misfortune echoes testimony of endurance.",
+   "concerns": "No faith element; peril content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Vocation as governess and providence through hardship fit Reformed themes.",
+   "concerns": "Attempted crimes need discussion."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Serving faithfully as a tutor is a clear vocation picture.",
+   "concerns": "Attempted assault content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Integrity and service in humble circumstances fit holiness.",
+   "concerns": "Peril content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Period propriety and honest love fit Anglican sensibilities.",
+   "concerns": "Attempted violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Simplicity after losing wealth echoes plain living.",
+   "concerns": "Aristocratic setting and worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Integrity, work and marriage for love fit LDS values.",
+   "concerns": "Attempted assault content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "A woman rejecting being valued for money fits equality.",
+   "concerns": "Class hierarchy is accepted, not questioned."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Honesty, modesty and honest work fit Islamic ethics.",
+   "concerns": "Mixed household and romance may raise modesty points."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Dharma of duty as teacher and truthfulness fit Hindu values.",
+   "concerns": "Peril content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Non-attachment to wealth in her fall echoes Buddhist ideals.",
+   "concerns": "Attachment in romance; violence threats."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Woman's agency in refusing a mercenary match.",
+   "concerns": "Aristocratic hierarchy unquestioned."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rational judgment of a suitor's motives fits.",
+   "concerns": "Class norms not examined."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Propriety, honor and marriage for love fit traditional values.",
+   "concerns": "Attempted crimes."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Education and honest work as governess fit Adventist ideals.",
+   "concerns": "Peril content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honesty and modest conduct align.",
+   "concerns": "Romance focus; violence threats."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Integrity over material wealth echoes spiritual values.",
+   "concerns": "Peril content."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Worth not tied to money fits UU values.",
+   "concerns": "Class hierarchy unquestioned."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal responsibility and balance fit.",
+   "concerns": "Harm in attempted crimes."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity and duty fit Shinto ideals.",
+   "concerns": "Foreign setting; peril."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Honest work (kirat karni) and integrity fit Sikh values.",
+   "concerns": "Attempted assault."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Truthfulness and education fit Bahá'í values.",
+   "concerns": "Peril content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Integrity and honest exchange fit precepts.",
+   "concerns": "Peril content."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Self-reliance after misfortune fits.",
+   "concerns": "Propriety and self-denial less aligned."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Honest dealings and modesty fit Jewish ethics.",
+   "concerns": "Attempted assault needs care."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Integrity over wealth fits Jewish values.",
+   "concerns": "Peril content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Woman's dignity fits Reform ethics.",
+   "concerns": "Class hierarchy accepted."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Aristocratic honor and reputation shape choices (MU Nobility/Aristocracy)."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Propriety and social order of Victorian society guide Emilia (MU description)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Family wealth and inheritance matter (MU Inheritance)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Earl, governess and servant ranks (MU Master-Servant Relationship)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Inherited social custom governs courtship."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Security and reputation weigh heavily."
+   }
+  },
+  "japan": "A Japanese adaptation of a British historical romance; the governess-and-earl hierarchy is drawn from the English source rather than Japanese norms.",
+  "closest": [
+   "Tidewater",
+   "South and Southeast Asia",
+   "Cavalier"
+  ]
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Values implied by blurb and tags only; no review found (to verify).",
+  "personified": [
+   {
+    "character": "Dominique",
+    "ideology": "Marrying for money",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Emilia's choices carry the contrast between mercenary and sincere love."
+ },
+ "winners_losers": "Emilia's integrity appears rewarded with genuine love; the fortune-hunting suitor's approach is rejected.",
+ "to_verify": [
+  "Attempted murder and rape context (MU only)",
+  "Whether Dominique returns or is redeemed",
+  "Ending"
+ ]
+}

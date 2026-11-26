@@ -1,0 +1,369 @@
+{
+ "anilist_id": 32477,
+ "title": "Vampire's Portrait",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32477",
+  "https://api.mangaupdates.com/v1/series/59753577607"
+ ],
+ "premise": "Struggling painter Lou is hired by the handsome Sein to paint 'his true face', and while living with his patron he learns Sein is a vampire. Lou comes to hope Sein will drink only his blood, but Adam, a mysterious man close to Sein, complicates things (MangaUpdates, Juné blurb). Gothic France setting; two volumes, marked cancelled.",
+ "life_message": "Seeing and painting someone's true self is a form of love, even when that self is dark.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Blood and gore, attempted murder (MU); vampire feeding (both summaries)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Dark gothic vampire horror (MU Horror, Dark Ambience; AniList Vampire)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Subtle shounen-ai romance (MU) plus MU Rape, Attempted Rape and brother Incest tags (context to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Past trauma plays a big role (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Pagan/occult, Existentialism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 3,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Art seeking the true face of a person.",
+   "concerns": "Vampire occult; same-sex romance; sexual violence tags."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Longing for redemption of a dark soul (to verify).",
+   "concerns": "Demonic and blood imagery; passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Occult; sexual violence; same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Art and truth.",
+   "concerns": "Occult and dark content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Vampires, spells, blood as open door."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art valued by common grace.",
+   "concerns": "Occult; same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art and vocation.",
+   "concerns": "Occult and violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art.",
+   "concerns": "Dark passions."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gothic literary tradition.",
+   "concerns": "Sexual violence tags."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Dark media; violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Creative work.",
+   "concerns": "Occult; sexual violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Queer outsider romance.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Spells, blood and same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rasa of the gothic.",
+   "concerns": "Tamasic darkness."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seeing the true self.",
+   "concerns": "Harm and craving for blood."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Queer gothic romance.",
+   "concerns": "Sexual violence; incest tag."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Art and identity.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Occult and sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Undead and spells."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Spiritism, blood and immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Seeking the true self beyond appearance.",
+   "concerns": "Fear and dark imagery."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Outsiders embraced.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Spells as story element.",
+   "concerns": "Harmful magic."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Art and sincerity.",
+   "concerns": "Blood impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art as truth.",
+   "concerns": "Superstition; lust."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art as service.",
+   "concerns": "Occult; chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirit beyond the body (immortal being).",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gothic outsider aesthetic.",
+   "concerns": "Rape tag (unwanted advances)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Blood, occult, same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art and identity.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Queer romance.",
+   "concerns": "Violence and assault."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Claims on a person, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Outsiders living apart from society."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Brothers and patron bonds (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Patron-artist relationship."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Vampire lore and spells taken as real."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Art and identity as themes."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "A Japanese gothic romance using European vampire lore and a French setting as atmosphere."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurbs set up a gothic romance mystery; no stated message (to verify).",
+  "personified": [
+   {
+    "character": "Adam",
+    "ideology": "Possessive claim on Sein",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "Mood-driven gothic story."
+ },
+ "winners_losers": "Unresolved; MU tags the romance as subtle and unresolved and the series as cancelled.",
+ "to_verify": [
+  "Context of MU Rape, Incest and Blood and Gore tags (past or present, who)",
+  "Ending (MU: cancelled)",
+  "License status (Juné, Renta!)"
+ ]
+}

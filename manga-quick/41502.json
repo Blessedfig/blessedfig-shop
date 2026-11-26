@@ -1,0 +1,357 @@
+{
+ "anilist_id": 41502,
+ "title": "Rose And Savage",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/41502",
+  "https://api.mangaupdates.com/v1/series/54828086398"
+ ],
+ "premise": "In middle school Yasukuni falls for shy transfer student Tomokazu, who dreams of being an illustrator, but they are separated before either admits it. Seven years later they meet again at art college, where Tomokazu is unexpectedly cold. A second story follows art student Fujii, rescued from a molester by sculptor Amou, who becomes his first real friend.",
+ "life_message": "First love and real friendship can survive years apart if you keep reaching out.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Fujii is rescued from a molester (MU blurb); detail unknown (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Attempted molestation; sudden disappearance (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MangaDex rates it erotica; adult college romance; MU lists wet dreams. Capped pending a second source of another kind (to verify; possibly higher)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Unrequited love; loneliness."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Yasukuni's protective care for Tomokazu.",
+   "concerns": "Same-sex sexual content (erotica rating)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Constancy over seven years.",
+   "concerns": "Sexual content; same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Rescuing someone from a molester.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship that rescues.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Artistic vocation.",
+   "concerns": "Lascivious images (WLC Q139)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vocation as artists.",
+   "concerns": "Erotic content; synods differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for the lonely Fujii.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Art-school story of reunion.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay young men finding friendship and love.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Devotion over time.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion of the rescuer Amou.",
+   "concerns": "Craving; erotic content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay lead seeking friendship, not only partners.",
+   "concerns": "Explicit content; molestation scene."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Creativity and connection.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love answers loneliness.",
+   "concerns": "Sensual content."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive love.",
+   "concerns": "Explicit content for age."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adult sexuality.",
+   "concerns": "Molestation scene."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity of first love; island setting.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping others.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Adult desire; molester opposed.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Explicit content."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Rescue and reconciliation, not revenge."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Art students pursue their own paths."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friends and neighbours over family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Fellow students as peers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular art-college setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Art and love as self-expression."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "The Midlands"
+  ],
+  "japan": "Separation by a family move and reunion at university follow common Japanese school-romance patterns."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; MU and publisher blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message; romance carried by reunion plots."
+ },
+ "winners_losers": "Yasukuni pursues Tomokazu and Fujii finds friendship with Amou; the molester is the only antagonist.",
+ "to_verify": [
+  "Explicitness of sexual content (MangaDex erotica; score capped at 3 and may be understated)",
+  "That all sexual content involves the college-age characters, not the middle-school period",
+  "Molestation scene detail"
+ ]
+}

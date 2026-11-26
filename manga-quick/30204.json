@@ -1,0 +1,88 @@
+{
+ "anilist_id": 30204,
+ "title": "Words of Devotion",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/30204", "https://api.mangaupdates.com/v1/series/10263336505"],
+ "premise": "After high school, best friends Tachibana and Otani move in together as a secret couple. When they run into a former classmate, Yuki, with whom Tachibana was once close, Otani's insecurity grows and old rumours resurface. The two-volume collection also includes linked stories, such as one about a soccer team's captain and vice-captain.",
+ "life_message": "Love needs words spoken aloud; unsaid feelings breed doubt.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "MU lists Kidnapping/s and Confinement; context unknown (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Kidnapping and Stockholm Syndrome tags (MU) suggest some tense material (to verify)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Boys' love; AniList and MU list Masturbation and Prostitution; MangaDex safe; capped without a review (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Insecurity, jealousy and loneliness (MU)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Prostitution and confinement themes; framing unknown (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Young couple's trust and insecurity; the power of spoken love",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 3, "sanctity": 1, "authority": 1, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "The title's stress on words of devotion and fidelity echoes faithful love.", "concerns": "Cohabiting same-sex couple and prostitution themes conflict with chastity teaching."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Faithfulness tested by jealousy is a recognisable struggle.", "concerns": "Passions and sexual content; teaching on marriage."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Commitment and honesty between partners.", "concerns": "Same-sex cohabitation celebrated; sexual tags."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Communication and trust within a relationship.", "concerns": "Relationship outside biblical sexual ethics."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Overcoming jealousy.", "concerns": "Holiness standards on sexuality."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest picture of insecurity and doubt.", "concerns": "Same-sex desire affirmed; lascivious content concerns."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "'Put the best construction on everything' fits Otani's need to trust.", "concerns": "LCMS objects to the relationship."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Faithful love worked out in daily life.", "concerns": "Holiness churches object."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Episcopal families may see a committed young couple.", "concerns": "ACNA objects; kidnapping and confinement themes unclear."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Loyal partnership.", "concerns": "Sexual content and worldliness."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Fidelity valued.", "concerns": "Law of chastity; cohabitation."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Affirms a young gay couple building a life.", "concerns": "Stockholm Syndrome and confinement tags may romanticise control."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty between partners.", "concerns": "Same-sex relations, cohabitation, sexual content."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Devotion as a love ideal.", "concerns": "Traditional families object to the relationship."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Right speech: unspoken words feed suspicion and suffering.", "concerns": "Prostitution theme and sexual conduct."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Gay couple living openly together.", "concerns": "Stockholm Syndrome and kidnapping tags raise consent and control questions."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Honest communication as the key to love.", "concerns": "Coercion themes worth discussing."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Commitment valued.", "concerns": "Same-sex cohabitation and sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Fidelity.", "concerns": "Same-sex romance and sexual content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Relationship considered immoral at the centre."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear and doubt through trust.", "concerns": "Sensual content guarded against."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Affirms a young gay couple and honest communication.", "concerns": "Coercion tags need context."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Love between adults honoured.", "concerns": "Confinement themes strain harm-none."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Kotodama, the spirit power of words, is the title's own concept.", "concerns": "Little doctrinal concern."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Truthful speech.", "concerns": "Relationship outside marriage; lust as vice."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Truthfulness.", "concerns": "Chastity teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication resolves doubt.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Choosing one's own partner and life.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Guarding speech carefully echoes shmirat halashon.", "concerns": "Same-sex relations forbidden; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment permitted by CJLS.", "concerns": "Sexual content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "LGBTQ inclusion.", "concerns": "Context of coercion tags."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Rumours from school days threaten the couple's standing (MU blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Couple keeps their relationship secret while living as they choose."},
+   "Civic vs kin": {"pos": 4, "evidence": "Chosen partnership; families not documented."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Former classmates as equals; soccer captain and vice-captain in a side story."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern setting with no religious frame."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Emotional security and love as the main concerns."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "Yankeedom"],
+  "japan": "The title draws on kotodama, the traditional Japanese belief that words carry spiritual power."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; theme of unspoken words is carried by plot (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No character is described as standing for an idea."
+ },
+ "winners_losers": "Not documented; the blurb sympathises with the couple working through doubt.",
+ "to_verify": [
+  "Context of MU Kidnapping/s, Confinement, Stockholm Syndrome and Prostitution tags; violence and imitable scores may be understated.",
+  "Whether any sexual content is set during the high-school years (flashbacks); main couple is post-graduation.",
+  "Explicitness; capped at 3 without a review.",
+  "Juné (June) license status (possibly lapsed); AniList year 1999 vs MU 2000.",
+  "No Wikipedia cache or reviews opened."
+ ]
+}

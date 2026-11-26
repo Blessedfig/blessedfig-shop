@@ -1,0 +1,90 @@
+{
+ "anilist_id": 106001,
+ "title": "Lovestruck in High School",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/106001",
+  "https://api.mangaupdates.com/v1/series/66664119780"
+ ],
+ "premise": "Hinata has always dreamed of falling in love at an all-boys school, but just as he gets in, his father is transferred overseas and Hinata moves in with a family friend. The young man at the door is exactly his type; Hinata's fantasies run away with him, and he is caught touching himself by the object of his crush (Brite Publishing blurb via AniList; Renta! via MU).",
+ "life_message": "Eager first love is played as comedy that works out in the end.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "MU lists Rape and Dubious Consent; single source (to verify)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Neutral", "note": "Publisher blurb has high schooler Hinata aroused and masturbating (AniList); MU Horny Uke, High School Student/s, Teenagers."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Father moves abroad; little noted."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Dubious consent played in a comedy (MU; AniList Comedy genre) (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Hedonism; Expressive individualism",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 3, "loyalty": 4, "fairness": 3, "sanctity": 1, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Hinata is taken in by a family friend.", "concerns": "Sexual content involving a high schooler; same-sex romance; consent tags."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Hospitality of the host family.", "concerns": "A boy's passions put on display."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Teen masturbation and sexual content; same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Lust as comedy; minors."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Teen sexual content; same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Seventh commandment; youths."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Hospitality.", "concerns": "Sexual content involving a minor."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Harm; consent; minors."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Comedy of first crush.", "concerns": "Minors and dubious consent."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content with a youth."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Law of chastity; youth."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Gay teen's crush taken in stride.", "concerns": "Consent; sexualised minor."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex desire and immodesty involving a youth."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Guest welcomed (atithi).", "concerns": "Student stage and modesty."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Craving; third precept; consent."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Openly gay teen protagonist.", "concerns": "Sexualisation of a minor; dub-con as comedy."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Consent; minors."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Teen sexual content; same-sex romance for teens."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Passions."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Sensual thought."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Gay teen welcomed.", "concerns": "Consent; age."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Consenting adults only."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Household hospitality.", "concerns": "Impropriety in a host home."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Kaam."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Harm to youths."},
+  {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Unashamed desire.", "concerns": "Eleven Rules: children; unwanted advances."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex desire; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Degrading content; minors."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Inclusion.", "concerns": "Exploitation; consent."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Embarrassment, not insult, drives the comedy (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hinata pursues desires freely after his father leaves."},
+   "Civic vs kin": {"pos": 5, "evidence": "Lives with a family friend; MU Younger Brother."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Older host and younger student (MU Older Seme)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular school life."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Dream of romance is the goal."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "Yankeedom"],
+  "japan": "Parental job transfers abroad (tanshin funin) and lodging with family friends are common Japanese premises."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comic blurb tone; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sex comedy without an argued message."
+ },
+ "winners_losers": "Hinata appears to win his crush (to verify).",
+ "to_verify": [
+  "Age of the host character",
+  "Meaning of MU Rape and Dubious Consent tags",
+  "Renta! license listed as expired (MU); current English availability via Coolmic",
+  "Explicitness"
+ ]
+}

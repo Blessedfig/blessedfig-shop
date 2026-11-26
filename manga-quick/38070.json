@@ -1,0 +1,98 @@
+{
+ "anilist_id": 38070,
+ "title": "Sengoku Youko",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Sengoku_Youko",
+  "https://anilist.co/manga/38070",
+  "https://www.mangaupdates.com/series/3vwd15w"
+ ],
+ "premise": "In a war-torn Japan where humans and supernatural katawara live in tension, Tama, a fox-spirit katawara who loves humans, travels with her adoptive brother Jinka, a human who hates humans. They confront katawara hunters and violent warlords, joined by the cowardly swordsman Shinsuke who wants to become strong. They uncover monks experimenting on spiritually gifted people to make human-katawara hybrids and rescue one of the victims, Shakugan.",
+ "life_message": "Strength is worth seeking when it protects others, and peace between peoples is possible for those who refuse to hate a whole kind.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "War, warlords, hunters and battles with demons (Wikipedia plot; MangaUpdates War/s, Dead Friend/s, Dark Ambience)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Cruel experiments on humans to create hybrids (Wikipedia); AniList tags Demons, Revenge."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romance genre listed; MangaUpdates lists Dead Love Interest; no sexual content noted."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described in sources (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted; period setting may include sake (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "MangaUpdates lists Loneliness and Inferiority Complex; Shinsuke's sense of weakness is a thread."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Sword fighting in a fantasy setting."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 3, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Peace across a human-monster divide; courage and growth; critique of cruelty by the strong",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 6, "sanctity": 4, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Tama's love for enemies and defense of the weak against warlords.", "concerns": "Spirits and gods shown as real powers; war violence."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Shinsuke's humble growth from cowardice to courage.", "concerns": "Demonic beings as heroes is a serious matter for this tradition."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Rescue of Shakugan from cruel experiments; courage to protect.", "concerns": "Fox spirits, goddesses and demons central to the story."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Redemptive journey; love that crosses enemy lines.", "concerns": "Spirit beings and youkai cosmology."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Protecting the vulnerable from abusers.", "concerns": "Demons and spirits portrayed as friendly companions."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Honest picture of human cruelty in war and religious power.", "concerns": "Mythic spirit world in a non-Christian frame."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation of the protector; Shinsuke's weakness made strength.", "concerns": "Battle violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Works of mercy: freeing experiment victims, resisting warlords.", "concerns": "Violent conflict throughout."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Fantasy in the Lewis tradition where good and evil are clearly framed.", "concerns": "Little beyond battle violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Tama seeks peace between peoples.", "concerns": "Peace is pursued by sword and fighting."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Defending the innocent in a just cause.", "concerns": "Dark ambience and violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Reconciliation between groups who fear each other.", "concerns": "Violence in battles."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Fighting only to defend the oppressed.", "concerns": "Goddesses and spirit powers as real; magic positively portrayed."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Dharmic fighting to protect the weak; spirit beings familiar.", "concerns": "War violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion that crosses species lines.", "concerns": "Monks as villains conducting cruel experiments."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Critique of prejudice against a whole group (katawara and humans alike).", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Unethical experimentation condemned; empathy across divides.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Samurai courage, loyalty to family and duty to protect.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Protection of the helpless.", "concerns": "Spirits and youkai shown as real and good."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Exposes cruelty done by religious figures.", "concerns": "Spiritism, demons and warfare at the core."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcoming hate.", "concerns": "Dark, fearful imagery."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every being, human or katawara.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Nature spirits and fox lore treated with respect.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Kitsune, kami-like goddesses and youkai in natural harmony.", "concerns": "War and blood (kegare)."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed against tyrants.", "concerns": "Magic and spirit powers."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Oneness across a divided world.", "concerns": "Violence as the main means."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Growth in ability; helping others survive.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Rebellion against cruel authority.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Saving life (pikuach nefesh) through rescues.", "concerns": "Spirits and goddesses as real powers."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Protecting the stranger.", "concerns": "Battle violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Justice against cruelty.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Samurai and warrior codes; personal duels with hunters and warlords (Wikipedia, MangaUpdates)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Wandering band outside any lord's control."},
+   "Civic vs kin": {"pos": 6, "evidence": "Adoptive siblings Tama and Jinka bound by family loyalty."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Warlords' power over the weak is opposed."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Spirits, temples and goddesses are part of the world."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "War-torn setting where strength means survival."}
+  },
+  "closest": ["El Norte", "The Far West", "First Nation"],
+  "japan": "Draws on the Sengoku warring-states era, kitsune lore and the samurai-and-monk landscape of Japanese folklore."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Summaries show the peace-versus-hatred theme carried by the siblings' contrasting views (to verify).",
+  "personified": [
+   {"character": "Tama", "ideology": "Love of humans and peace between races", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Jinka", "ideology": "Misanthropic hatred of humanity", "role": "Hero", "treatment": "Mixed"},
+   {"character": "Experimenting monks", "ideology": "Power through cruel science on people", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Love and hatred of humanity travel together as siblings, so the opposing view is held by a protagonist rather than a villain (to verify)."
+ },
+ "winners_losers": "Protectors of the weak win sympathy; warlords and those who experiment on people are opposed.",
+ "to_verify": [
+  "Only the first 6 volumes (arc 1) were licensed in English by Tokyopop; the license is partial",
+  "Whether Jinka's misanthropy is resolved or vindicated",
+  "Later arcs after the time skip and change of protagonist",
+  "No parent or critic review of the manga opened; anime adaptation exists (2024)"
+ ]
+}

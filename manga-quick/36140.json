@@ -1,0 +1,362 @@
+{
+ "anilist_id": 36140,
+ "title": "Cirque Du Freak",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/36140",
+  "https://api.mangaupdates.com/v1/series/66176329084",
+  "https://blogs.slj.com/goodcomicsforkids/2009/08/13/review-cirque-du-freak-the-manga-vol-1/"
+ ],
+ "premise": "Ordinary boy Darren Shan is drawn into a shadowy world of vampires, werewolves and strange creatures after visiting the Cirque du Freak freak show, and his life changes forever (Yen Press blurb). A 12-volume manga by Takahiro Arai adapting Darren Shan's novels; MangaUpdates tags list a master-disciple bond, friends who become enemies, prophecy, a vampire war, betrayal, death of loved ones, regret and a trial. A School Library Journal blog review notes Yen Press's T (13+) rating for language and violence and calls the story dark horror with black humor.",
+ "life_message": "It suggests that choices carry lasting costs and that loyalty, responsibility and courage matter even in a dark world.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Vampire war and deaths (MangaUpdates tags); rated T for violence (SLJ review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Horror, giant spiders, grotesque imagery (SLJ review); horror genre (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Language cited in T rating (SLJ)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Death of friends and family, regret (tags)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Sneaking out to a freak show (SLJ)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Franchise adaptation."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Coming of age in a vampire world; consequences of choices; loyalty and betrayal",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 7,
+  "fairness": 6,
+  "sanctity": 4,
+  "authority": 6,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Consequences of choices; loyalty.",
+   "concerns": "Vampirism; horror violence."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Repentance and regret.",
+   "concerns": "Demonic-style imagery; blood."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sin's consequences shown.",
+   "concerns": "Vampires and occult horror."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Responsibility.",
+   "concerns": "Horror; vampirism."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Courage.",
+   "concerns": "Vampires, ghosts, prophecy."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful view of sin.",
+   "concerns": "Occult horror."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Accountability.",
+   "concerns": "Horror."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Horror; violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gothic moral fable.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Regret for harm.",
+   "concerns": "War and violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Accountability.",
+   "concerns": "Violent and dark media."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Outsiders humanized at the circus.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequences of choices.",
+   "concerns": "Vampires; sorcery-like powers."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Karma of choices.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Suffering and impermanence.",
+   "concerns": "Killing."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Freak-show outsiders given humanity.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral reasoning.",
+   "concerns": "Superstition shown as real."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyalty and courage.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequences.",
+   "concerns": "Ghosts, vampires."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Spiritism, violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Moral growth.",
+   "concerns": "Fear-inducing images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Outsiders included.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Myth and creatures as fiction.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Spirits normal.",
+   "concerns": "Blood impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Superstition."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Integrity.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebel outsiders; self-responsibility.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequences.",
+   "concerns": "Vampirism, blood, sorcery."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Accountability.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Outsiders.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Vampire clan honor and trials."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Vampire laws."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Clan loyalty."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Vampire princes and masters."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Prophecy and tradition."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival in war."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "South and Southeast Asia",
+   "Orthodox Europe"
+  ],
+  "japan": "The master-disciple bond and duty to a clan echo Japanese shonen conventions, though the source is a British novel series."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "SLJ notes introspection; no moralizing noted (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Message carried by consequences of Darren's choices."
+ },
+ "winners_losers": "Not described beyond setup (to verify).",
+ "to_verify": [
+  "Darren's specific choices and fate; review page does not cover them.",
+  "Reviewer suggests elementary and middle school; publisher rates 13+ (conflict)."
+ ]
+}

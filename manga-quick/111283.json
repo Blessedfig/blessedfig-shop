@@ -1,0 +1,92 @@
+{
+ "anilist_id": 111283,
+ "title": "Promise Cinderella",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/111283",
+  "https://api.mangaupdates.com/v1/series/9547813193",
+  "https://leclaireur.fnac.com/article/542881-promise-cinderella-cest-quoi-ce-shojo-qui-bouscule-les-codes-de-la-romance/"
+ ],
+ "premise": "Hayame, a 27-year-old housewife, is suddenly divorced and robbed, and ends up homeless. A rich, mean-spirited high-school boy, Issei, draws her into a strange challenge, and she ends up living and working at his family's ryokan while a romance with an age gap develops (Comikey blurb via AniList; MU; L'Eclaireur Fnac article).",
+ "life_message": "Pain can be a turning point: a person thrown down can rebuild a life with grit and self-respect.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Fnac lists physical violence and harassment as themes; MU lists Attempted Murder, Kidnapping, Domestic Abuse, Violence."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Stalker, psychopath and yandere elements (MU; AniList spoiler tag)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Endorsed", "note": "Romance between a 27-year-old divorced woman and a high-school student (MU Student-Adult Relationship, Age Gap; AniList Age Gap; Fnac 'a complex relationship between a mature woman and a high school student'). Explicitness not reported (to verify). Cheating husband (MU)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Harsh exchanges (Fnac); profanity not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Emotional collapse after divorce and poverty (Fnac); Bullying (AniList, MU), Mental Illness (MU)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Betting and revenge schemes (MU Betting/s, Revenge); Issei's cruel 'game' (Comikey blurb, to verify)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Adapted to a live-action drama (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Feminism", "strength": 4, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Consumerism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Rebuilding a woman's life after divorce; age-gap romance; wealth and cruelty",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Hayame's resilience and dignity after betrayal.", "concerns": "Romance between an adult and a minor; divorce normalized."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Suffering as a path to growth.", "concerns": "Adult-student romance inflames passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Cheating husband's betrayal shown as wrong.", "concerns": "Adult woman and high-schooler as a love story."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Perseverance through hardship.", "concerns": "Student-adult romance; revenge schemes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Hope after loss.", "concerns": "Age-gap romance; gambling-like betting."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Shows sin's damage in a broken marriage.", "concerns": "Adult pursuing a minor romantically."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Vocation regained through work at the ryokan.", "concerns": "Student-adult romance."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Care for the poor and homeless.", "concerns": "Adult-minor relationship."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Dignity of the abandoned wife.", "concerns": "Romance framing with a high-schooler."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humble work after a fall.", "concerns": "Worldly romance with a minor; revenge."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Self-reliance rebuilt.", "concerns": "Law of chastity; adult-minor romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Recovery from domestic abandonment and poverty.", "concerns": "Consent and power in an adult-minor romance."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Patience in hardship.", "concerns": "Unmarried cohabitation and adult-minor romance."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Endurance through misfortune.", "concerns": "Divorce and age-inverted romance against family dharma."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "'Happiness exists because pain does too' (MU blurb).", "concerns": "Harmful romance with a minor (third precept)."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "A woman regains independence after divorce.", "concerns": "Romanticizing an adult-minor relationship."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Personal responsibility and resilience.", "concerns": "Consent and power imbalance with a minor."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Hard work and self-respect.", "concerns": "Adult-student romance; divorce."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Endurance under trial.", "concerns": "Impure romance; betting."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immorality, violence and an adult-minor romance."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Rising above loss.", "concerns": "Impure romance."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Worth of a woman society discards.", "concerns": "Age-appropriateness and consent."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Self-renewal; personal responsibility.", "concerns": "Exploitative age gap."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Ryokan tradition and kimono as settings of renewal (MU).", "concerns": "Romance with a minor."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest work rebuilds life.", "concerns": "Lust and gambling elements."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Equality and dignity of women.", "concerns": "Unchaste adult-minor romance."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Taking control of one's life.", "concerns": "Violence and cruelty."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Self-preservation and pride after betrayal.", "concerns": "Adult involvement with a minor (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Tzniut and adult-minor romance."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Dignity restored.", "concerns": "Romance with a minor."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Justice for a wronged woman.", "concerns": "Consent ethics of the age gap."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Bets, revenge and personal challenges drive conflict (MU Betting/s, Revenge)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hayame remakes her life outside the housewife role (Comikey blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Issei's family ryokan and family business (MU)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Rich boy and poor woman; social gap (MU Rich Male Lead, Poor Female Lead)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Traditional inn setting, modern divorce (MU)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Debt and homelessness first, then personal renewal (MU Debt/s; Fnac)."}
+  },
+  "closest": ["El Norte", "The Far West", "Catholic Europe"],
+  "japan": "Set partly in a traditional Japanese ryokan (inn), where family business and hospitality customs frame the story."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Fnac describes a 'disenchanted' Cinderella shown through harsh situations, not lessons (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes of resilience emerge from Hayame's situation; no character is described as standing for an ideology."
+ },
+ "winners_losers": "Hayame's resilience gets the sympathy; her cheating husband is cast as the wrongdoer (Comikey blurb; MU).",
+ "to_verify": [
+  "How far the Hayame-Issei romance goes and how it resolves; whether anything physical occurs while Issei is a minor.",
+  "Nature of Issei's 'game' and the attempted murder and kidnapping arcs (MU tags only).",
+  "Fnac article is general and not a detailed review."
+ ]
+}

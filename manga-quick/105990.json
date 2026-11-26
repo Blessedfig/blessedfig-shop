@@ -1,0 +1,92 @@
+{
+ "anilist_id": 105990,
+ "title": "Ao-chan Can't Study!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/105990",
+  "https://api.mangaupdates.com/v1/series/47329160845",
+  "https://api.mangadex.org/manga/1d027fcc-e8e3-4a97-a733-26238e02809d",
+  "https://mangabookshelf.com/category/ao-chan-cant-study/"
+ ],
+ "premise": "Ao Horie, a high-school student whose father is a bestselling erotic novelist, studies hard to get into an elite university and escape his influence. When classmate Kijima confesses his love, her mind keeps running to sexual thoughts she blames on her upbringing (Kodansha USA blurb). Reviewer Sean Gaffney calls it an ecchi 'sex comedy' that stays fairly innocent at heart.",
+ "life_message": "Growing up means sorting out your own desires and goals apart from your parents' influence.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Ecchi genre (AniList, MU); review: 'tons of sex talk' among high schoolers, frank talk about anatomy, no sexual progress early on."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Crude, bawdy dialogue (review). Capped (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Embarrassment and study pressure."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Father pushing his daughter toward sex played for comedy (review; MU Perverted Parent/s)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Teen sexual awakening as comedy; independence from a parent; study ambition",
+ "axes": {"economic": 5, "social": 7, "cultural": 7, "community": 4},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Ao's ambition and wish for self-control.", "concerns": "Teen sexual humor; a parent urging sex."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Struggle against impure thoughts is the joke.", "concerns": "Passions fed rather than guarded."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Diligent study.", "concerns": "Sexual talk among high schoolers; ecchi art."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Ao resists her father's agenda.", "concerns": "Purity mocked as repression."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Sexual content central."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest about temptation.", "concerns": "Lascivious books as family business."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Discuss", "aligns": "Vocation of study.", "concerns": "Sixth-commandment concerns."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Self-discipline aimed at a goal.", "concerns": "Sexual humor."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Reviewer says 'clean at heart'.", "concerns": "Crude sex comedy."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty and worldliness."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Education and goals.", "concerns": "Law of chastity; vulgar content."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Teen agency over her body and future.", "concerns": "Sexualized minors; parental boundary issues."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Haya; sexual talk and imagery."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Pursuit of education.", "concerns": "Immodesty; disrespect between parent and child."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Discuss", "aligns": "Mind's craving shown as comic suffering.", "concerns": "Third precept."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Frank sex-positive talk.", "concerns": "Sexualization of high schoolers; father's pressure."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Independence and education.", "concerns": "Parental boundary violations as comedy."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Hard work toward university.", "concerns": "Vulgar content; mocked parental authority."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Passion-exciting fiction."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immorality as humor."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Thought shapes experience, shown comically.", "concerns": "Impure thought dwelled upon."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Honest sexuality talk.", "concerns": "Age-appropriateness."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Sex not treated as shameful.", "concerns": "Minors, not consenting adults."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Little doctrinal objection.", "concerns": "Families weigh crude content."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Diligent work.", "concerns": "Lust as constant theme."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Education.", "concerns": "Chastity; degrading humor."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Personal integrity and goals.", "concerns": "Sexual content."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Indulgence not shamed.", "concerns": "Pressure on a minor."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Nivul peh and tzniut."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Learning valued.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Autonomy.", "concerns": "Consent and age-appropriateness."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Embarrassment comedy, no honor conflicts."},
+   "Order vs freedom": {"pos": 7, "evidence": "Ao seeks independence from her father (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Family tension central but she wants to leave it."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Parental authority resisted; classmates as peers."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Elite university and secular modern life."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Sexual self-discovery played openly."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "The Midlands"],
+  "japan": "A Japanese shonen ecchi comedy; exam pressure toward elite universities reflects Japanese school culture."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewer finds no broader message beyond romantic sex comedy.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Comedy without stated moral framing."
+ },
+ "winners_losers": "Ao and Kijima share the sympathy; the father is a comic obstacle.",
+ "to_verify": [
+  "Nudity and fan-service level across 8 volumes (review covers vols 1-2).",
+  "Kijima's given name as Takumi (review).",
+  "No Wikipedia cache available."
+ ]
+}

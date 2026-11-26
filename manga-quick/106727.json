@@ -1,0 +1,367 @@
+{
+ "anilist_id": 106727,
+ "title": "Beast Complex",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/106727",
+  "https://api.mangaupdates.com/v1/series/56559710476",
+  "https://goodcomicsforkids.slj.com/2021/04/09/beast-complex-volume-1-review/"
+ ],
+ "premise": "An anthology by Paru Itagaki, set in the world of Beastars, where carnivores and herbivores live together uneasily. Stories include a tiger and beaver who defy pressure to end their friendship, a camel journalist's night with a wolf, a crocodile and gazelle on a cooking show, a chameleon protecting a fox from bullies, and a lion checking on a bat who stopped coming to school (Viz blurb; School Library Journal review).",
+ "life_message": "People are more than the roles their nature assigns them; choice and understanding can cross prejudice.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "A character wanted as accessory to murder; bullying with an undertone of possible murder (SLJ)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Predator-prey threat; characters 'under threat because of what they are' (SLJ); Crime tag (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "A one-night stand between a wolf and a camel that addresses one wanting to eat the other (SLJ; Viz blurb)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Bat expects abuse; school avoidance (SLJ)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bullying shown and resisted (SLJ)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Spin-off of the Beastars franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Critical theory",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Naturalism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Prejudice and stereotype; nature versus choice",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 8,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love of neighbor across divides; free will over nature.",
+   "concerns": "A casual one-night stand storyline (SLJ)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Struggle against passions of one's nature.",
+   "concerns": "Sexual encounter outside marriage; predator imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship defying prejudice.",
+   "concerns": "One-night stand story; T+ rating (SLJ)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Choosing kindness over stereotype.",
+   "concerns": "Sexual content in one story."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage to defend the bullied.",
+   "concerns": "Casual sex story."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Natural desires as a fallen-nature parable.",
+   "concerns": "One-night stand depicted."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Neighbor love across groups.",
+   "concerns": "One mature story."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Social holiness across divides.",
+   "concerns": "Casual sex story."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rich metaphor for prejudice (SLJ: 'potent metaphor').",
+   "concerns": "One mature story."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Nonviolent friendships across difference.",
+   "concerns": "Sexual content; predator violence implied."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness and courage.",
+   "concerns": "One-night stand conflicts with the law of chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Explores stereotyping and prejudice (SLJ).",
+   "concerns": "Mature content for older teens."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice and kindness.",
+   "concerns": "Sex outside marriage depicted."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Svabhava (nature) and dharma questions.",
+   "concerns": "Mature sexual story."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion beyond craving and fear.",
+   "concerns": "Sexual misconduct theme in one story."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Prejudice, stereotypes and bullying examined.",
+   "concerns": "Mature content; T+ (SLJ)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choices over biological fate.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility over nature.",
+   "concerns": "One-night stand storyline."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship across divides.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Kindness to others.",
+   "concerns": "Sexual encounter and crime."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming fear.",
+   "concerns": "Little else."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inherent worth across difference.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Animal nature honored, not demonized.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony among different beings.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Equality and defending the bullied.",
+   "concerns": "Lust in one story."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Oneness across groups; prejudice rejected.",
+   "concerns": "Unchaste story."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Affinity and communication across groups.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Individual choice over imposed roles.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness; defending the weak.",
+   "concerns": "Tzniut: one-night stand story."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Dignity across differences.",
+   "concerns": "One mature story."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Prejudice confronted.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Characters choose understanding over retaliation (SLJ)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Characters resist roles their nature imposes (SLJ)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friendship across groups over kin (Viz blurb)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Species hierarchy questioned (SLJ)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern secular animal society (MangaUpdates)."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Self-definition against stereotype (SLJ)."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "Uses Japanese school and workplace settings; group pressure to stay with one's own kind echoes peer-conformity norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 4,
+  "evidence": "SLJ calls the setting 'a potent metaphor' and does not call it preachy.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The prejudice theme is carried by each story's pairing."
+ },
+ "winners_losers": "Cross-species friendships win sympathy; prejudice and peer pressure lose.",
+ "to_verify": [
+  "Only volume 1 reviewed (SLJ).",
+  "Explicitness of the wolf-camel story."
+ ]
+}

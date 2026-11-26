@@ -1,0 +1,93 @@
+{
+ "anilist_id": 30124,
+ "title": "Aqua",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Aria_%28manga%29",
+  "https://anilist.co/manga/30124",
+  "https://www.mangaupdates.com/series/5df3xpo"
+ ],
+ "premise": "In the 24th century, terraformed Mars is an ocean world called Aqua. Akari Mizunashi arrives in Neo-Venezia, a replica of Venice, to train with Aria Company as an apprentice gondolier guide, an Undine. Each chapter is a calm slice-of-life episode of her training, her mentor Alicia and her friends from rival companies; this two-volume prequel leads into Aria.",
+ "life_message": "A good life is found in wonder at ordinary days, patient work at a craft and kindness to everyone you meet.",
+ "overall": 1,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Iyashikei (healing) tone (AniList, Wikipedia)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Light teasing crushes in the wider Aria story (Wikipedia, Akatsuki); none noted for Aqua."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Boating and canal work."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Tourism and guide companies as a setting."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pantheist/New Age", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Environmentalism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Wonder at everyday life; craft and mentorship; gentle community",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 4, "sanctity": 5, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Beauty of creation and work, a path toward gratitude.", "concerns": "No faith presence in the future society."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Quiet, peaceful content that guards the heart.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Clean, kind characters; Philippians 4:8 'lovely' fits.", "concerns": "Little."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Joy, friendship and serving customers well.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Uplifting and gentle.", "concerns": "Small 'moments of magic' (to verify)."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation and delight in ordinary work.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "S", "weight": "Minor", "aligns": "Akari's apprenticeship as daily vocation served well.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Kindness to strangers and community.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Imaginative world of hospitality and beauty.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Minor", "aligns": "Unmotorized gondolas, simplicity and humility.", "concerns": "Little."},
+  {"frame": "Latter-day Saint", "grade": "S", "weight": "Minor", "aligns": "Virtuous, lovely and of good report.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Care for a remade planet and its people.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "A", "weight": "Minor", "aligns": "Modest, kind, honest work.", "concerns": "Little."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Respect for a mentor-teacher (Alicia) and duty to one's craft.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "S", "weight": "Minor", "aligns": "Mindful attention to the present moment.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Women's mentorship and careers.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Terraforming as science-made hope.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Craft traditions handed down through apprenticeship.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Wholesome, restful story.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Peaceful earth-like paradise imagery.", "concerns": "Possible mild magical moments (to verify)."},
+  {"frame": "Christian Science", "grade": "S", "weight": "Minor", "aligns": "Gratitude and harmony, nothing fearful.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence of a city and its workers.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Reverence for water, seasons and place.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony with nature and sincerity in work.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Kirat karni: honest work done gladly.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Work in a spirit of service as worship.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Training step by step toward competence.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Enjoyment of life now.", "concerns": "Little of its own themes."},
+  {"frame": "Orthodox Jewish", "grade": "A", "weight": "Minor", "aligns": "Modest, kind conduct.", "concerns": "Time spent on entertainment."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Kind speech and hospitality.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Repair of a world, literally terraformed.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "No feuds; gentle teasing is the only conflict (Wikipedia)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Structured ranks Pair, Single, Prima, but free exploration of the city."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friendships across rival companies and kindness to strangers like the mailman."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Apprentice ranks and respect for mentor Alicia."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "High-tech terraformed future preserving old Venetian ways."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Quality of life, beauty and calm valued over striving."}
+  },
+  "closest": ["Yankeedom", "Catholic Europe", "The Midlands"],
+  "japan": "The iyashikei healing mood, mono no aware (MangaUpdates) and senpai-kohai mentorship reflect Japanese conventions."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Wikipedia: praised for calm pacing and optimism; an anime reviewer contrasted it with 'moralizing' uplifting stories.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The values come through atmosphere and episodes, not argument."
+ },
+ "winners_losers": "No losers; Akari and her friends progress in their craft and friendships.",
+ "to_verify": [
+  "Wikipedia article covers Aria as a whole; Aqua-specific details are few",
+  "MangaUpdates link matched by exact title (check)",
+  "Tokyopop English editions: 2 volumes (2007-08) and a 2019 one-volume edition"
+ ]
+}

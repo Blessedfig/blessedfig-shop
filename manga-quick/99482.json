@@ -1,0 +1,90 @@
+{
+ "anilist_id": 99482,
+ "title": "Accidentally Summoned (Oops, sorry.)",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/99482",
+  "https://api.mangaupdates.com/v1/series/58828103451"
+ ],
+ "premise": "A god's mistake ends the life of high-school genius Shou, who is reborn with his memories as Will, eldest son of a distinguished noble family (Crunchyroll blurb via AniList). He discovers that magic exists and that he has a cheat skill letting him use every element; in this world magic draws on knowledge of kanji (MangaUpdates). Unloved in his past life, he now has parents who love him deeply.",
+ "life_message": "A second chance with a loving family and great talent lets a person flourish where he once felt unloved.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Action fantasy with assassins listed (MangaUpdates); detail unknown."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Adventure peril."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Harem and Romance genres (MangaUpdates); beast girls and elves; MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Past life of being unloved (MangaUpdates blurb); premature death."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing specific."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"},
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Reincarnation power fantasy; loving family; magic mastery",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Will's loving parents heal a lonely past.", "concerns": "A fallible god who kills by mistake; harem elements."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Family love restored.", "concerns": "Reincarnation and a careless deity."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Parental love.", "concerns": "God portrayed as erring; reincarnation; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Second-chance theme.", "concerns": "Reincarnation and harem."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Family warmth.", "concerns": "Magic mastery and a fallible god."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Gifts used in a new life.", "concerns": "A deity who errs contradicts sovereignty."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Family and vocation.", "concerns": "Reincarnation framing."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love that heals.", "concerns": "Harem content."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Light fantasy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Family closeness.", "concerns": "Power fantasy and combat."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family as source of healing.", "concerns": "Harem elements."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Healing from neglect.", "concerns": "Noble privilege."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Honoring parents.", "concerns": "Erring god, magic, harem."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Rebirth with prior memories.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Rebirth and karma themes.", "concerns": "Craving for power."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Child flourishing with loving parents.", "concerns": "Harem tropes."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Study and intellect rewarded (kanji magic).", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Noble family duty and lineage.", "concerns": "Harem tropes."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Family love.", "concerns": "Reincarnation contradicts soul sleep."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Family warmth.", "concerns": "Reincarnation, magic and gods."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Life continuing after death.", "concerns": "Power fantasy."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Second chances.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Elemental magic.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Gods and household bonds.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Family.", "concerns": "Magic and a fallible deity."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Education valued.", "concerns": "Magic; harem."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Past-life memories as strength.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "A god's authority treated lightly.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honoring parents.", "concerns": "Magic and a fallible deity."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Family love.", "concerns": "Magic."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Healing and growth.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "No honor theme in blurbs."},
+   "Order vs freedom": {"pos": 5, "evidence": "Noble household setting."},
+   "Civic vs kin": {"pos": 7, "evidence": "Loving parents central (MangaUpdates blurb)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Distinguished noble family (blurb)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Magic through study of kanji."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Balanced."}
+  },
+  "closest": ["Latin America", "El Norte", "Orthodox Europe"],
+  "japan": "Magic based on kanji ties the fantasy world to Japanese literacy and study culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Standard isekai power fantasy; no messaging noted."
+ },
+ "winners_losers": "Will and his family are the sympathetic side; antagonists not described.",
+ "to_verify": [
+  "Extent of harem content and assassin violence (MangaUpdates genres and categories).",
+  "MangaUpdates description comes from a scanlation group's page and was not opened; only the API text was read.",
+  "No review or Wikipedia cache available."
+ ]
+}

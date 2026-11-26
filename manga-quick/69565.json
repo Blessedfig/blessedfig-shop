@@ -1,0 +1,91 @@
+{
+ "anilist_id": 69565,
+ "title": "O.B.",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/69565",
+  "https://api.mangaupdates.com/v1/series/55682774875",
+  "https://www.animenewsnetwork.com/news/2021-02-12/seven-seas-licenses-asumiko-nakamura-sora-and-haru-o.b-manga/.169457"
+ ],
+ "premise": "A sequel collection to the BL series Classmates (Doukyusei and Sotsugyousei). After high school, couple Hikaru and Rihito try to keep their relationship strong as they grow into adults, including a long-distance stretch, while friends such as their former teacher Hara deal with their own relationships (Seven Seas blurb via AniList/MU; ANN license news, published in English as Classmates Vol. 5: O.B.).",
+ "life_message": "Love that is committed and patient can last through distance and the changes of adult life.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Relationship drama only."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Adult same-sex romances; AniList Nudity and MU tags for sex scenes (low votes); database tags only, capped (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Committed same-sex love; growing up; friendship circles",
+ "axes": {"economic": 5, "social": 8, "cultural": 6, "community": 4},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Fidelity and patience in Hikaru and Rihito's long-distance bond.", "concerns": "Same-sex relationships affirmed; sexual scenes (MU tags)."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Faithfulness between partners.", "concerns": "Same-sex romance and sexual content."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Commitment over casual dating.", "concerns": "Same-sex romance celebrated; sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Loyal love through hardship.", "concerns": "Same-sex relationships and intimacy shown."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little doctrinally.", "concerns": "Same-sex intimacy affirmed."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Covenant-like fidelity.", "concerns": "Conservative churches object; PC(USA) families may differ."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Faithful partnership (ELCA families may affirm).", "concerns": "LCMS/WELS object to same-sex romance and sex scenes."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Committed love (UMC affirming since 2024).", "concerns": "Holiness churches object; explicitness to check."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Covenant of love (Episcopal affirming).", "concerns": "ACNA objects; sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Gentle, nonviolent story.", "concerns": "Same-sex romance; worldly media."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little doctrinally.", "concerns": "Law of chastity; same-sex relationships."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Faithful, consensual same-sex love; former teacher's relationship humanized.", "concerns": "Sex scenes may suit older readers only."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little doctrinally.", "concerns": "Same-sex relationships; sexual content."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Loyal partnership.", "concerns": "Traditional families object; modesty."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Non-harmful, caring relationships.", "concerns": "Sexual content."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Positive LGBTQ representation (MU Openly Gay Couple).", "concerns": "Adult content level."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Consenting adult love.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Commitment and hard work at careers.", "concerns": "Same-sex romance for young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little doctrinally.", "concerns": "Same-sex romance; sexual content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little doctrinally.", "concerns": "Homosexual relationships; immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love and purity of affection.", "concerns": "Sexual content."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inclusive, loving relationships.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love between consenting adults as sacred.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony and sincerity in relationships.", "concerns": "Little doctrine."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest work, loyalty.", "concerns": "Akal Takht position on same-sex marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Fidelity and no prejudice.", "concerns": "Sex only within man-woman marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Faithfulness to one's partner.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Consenting adults' freedom.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little doctrinally.", "concerns": "Leviticus 18:22; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Committed relationships (CJLS 2006).", "concerns": "Sexual content."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive love affirmed.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Gentle relationship drama, no honor conflicts (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Characters choose their own partners and paths (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friend circle rather than family is central (blurb)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Former teacher now a peer in his own romance (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern careers (MU Fashion Designer, Patissier)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Personal love and identity are the story's focus."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "Part of a long-running Japanese BL franchise in which senpai-kohai and teacher-student ties carry into adult life, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurbs and MU tags describe slice-of-life romance with 'Warm Ambience'; no advocacy noted (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The series portrays relationships without arguing for them."
+ },
+ "winners_losers": "Hikaru and Rihito's relationship and their friends' romances get full sympathy; no opposing view is voiced in sources.",
+ "to_verify": [
+  "How explicit the sex scenes are: MU lists specific acts at 1 vote and AniList Nudity at 20%; score may be understated.",
+  "Characters' ages in each story (all post-high school per blurb; MU also tags High School Student/s at 1 vote).",
+  "Not a Ghost Ship title per opened sources; MU genre is Yaoi, not Adult."
+ ]
+}

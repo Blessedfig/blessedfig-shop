@@ -1,0 +1,90 @@
+{
+ "anilist_id": 125025,
+ "title": "Josee, the Tiger and the Fish",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/125025",
+  "https://api.mangaupdates.com/v1/series/31701241522"
+ ],
+ "premise": "Manga adaptation of the animated film based on Seiko Tanabe's story. College student Tsuneo loves the ocean and dreams of studying abroad; to raise money he takes a part-time job as caretaker for Josee, a prickly young woman who uses a wheelchair. A trip to the beach begins to open both of their worlds, in a romance between young adults that tags list with a love triangle, loss of family and rehabilitation (Yen Press blurb; AniList and MU tags).",
+ "life_message": "Taking the plunge into the wider world, with someone who believes in you, lets both people grow.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Tragedy and Rehabilitation spoiler tags (AniList); death of loved ones (MU). Nature not known, capped (to verify)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romance between college-age adults with a love triangle (AniList)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Josee is 'prickly' (blurb); profanity not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Isolation and grief tied to disability and family loss (MU)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Tie-in to the animated film (MU Based on an Anime)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Disability and independence; pursuing dreams; mutual growth in love",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Dignity of Josee and caregiving that becomes love.", "concerns": "Romance outcomes and any cohabitation (to verify)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Patient care for the disabled.", "concerns": "Little to raise."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Serving a neighbor in need.", "concerns": "Romance norms (to verify)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Encouragement that changes a life.", "concerns": "Little to raise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Restoration through love.", "concerns": "Little to raise."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Vocation of caregiving.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Service to neighbor through ordinary work.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Works of mercy grow into mutual love.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle moral vision of care.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Mutual aid.", "concerns": "Ambition abroad as goal."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Service and self-reliance.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Disabled woman as full protagonist.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Kindness to the vulnerable.", "concerns": "Unmarried romance; beach outing."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Seva-like service.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion and loss accepted.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Disability representation and autonomy.", "concerns": "Check whether disability is framed as needing a male savior."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Science-loving hero and human flourishing.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Hard work toward a dream; responsibility.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Health and wholeness themes.", "concerns": "Little to raise."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Honest work and care.", "concerns": "Romance without marriage focus (to verify)."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Limits overcome by courage.", "concerns": "Focus on physical impairment."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth and inclusion.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love of the sea and nature.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Wonder at the ocean and its creatures.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work and service.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Service and education.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal growth.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Josee asserts her own will.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Chesed toward a disabled person.", "concerns": "Unmarried romance."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Dignity and kindness.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Worth of a disabled woman affirmed (AniList Disability)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Josee breaking out of a confined life (blurb: 'take that first plunge')."},
+   "Civic vs kin": {"pos": 4, "evidence": "Family loss (MU); bonds formed with outsiders."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Caretaker and client become equals (to verify)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Marine biology and study abroad as goals (blurb)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Pursuit of dreams and drawing (AniList Drawing)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "Reflects Japanese social norms around disability and family caretaking, set in a coastal urban Japan; described, not judged."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Message appears to come through the leads' relationship (to verify)."
+ },
+ "winners_losers": "Sympathy rests with Josee and Tsuneo as they grow (outcome to verify).",
+ "to_verify": [
+  "No review or Wikipedia cache opened; database and publisher blurb only.",
+  "Tragedy and Rehabilitation spoiler tags: what happens.",
+  "Based on the 2020 animated film, not the original short story (MU)."
+ ]
+}

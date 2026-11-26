@@ -1,0 +1,353 @@
+{
+ "anilist_id": 43146,
+ "title": "Secrecy of the Shivering Night",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/43146",
+  "https://api.mangaupdates.com/v1/series/73480969155",
+  "https://api.mangadex.org/manga/a12e1176-481b-419f-bfcf-e8eb135f5d35"
+ ],
+ "premise": "In the title story, high-school roommates Furuya and Himi help each other with their fears: Himi is afraid of the dark after a childhood tremor, and Furuya of bright light (AniList blurb). Other short stories follow a stranger who gives his coat to a sleeper, a withdrawn student and a younger schoolmate on a roof, and a substitute teacher helping a distressed student (MU). It is a one-volume Boys' Love anthology.",
+ "life_message": "Helping each other through fear and loneliness creates love.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Phobias and childhood trauma (blurb; MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "High-school Boys' Love; MangaDex rates erotica and MU lists Masturbation and Student-Teacher Relationship. Capped at 3 pending a second kind of source; likely understated (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Fears, trauma, a dead friend and an emotionally distraught student (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "A teacher-student relationship listed (MU); framing to verify."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Mutual comfort; overcoming fear; teen and adult same-sex romance",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mutual care in fear.",
+   "concerns": "Same-sex sexual content between teens; teacher-student story."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Sexual content; same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friends support each other.",
+   "concerns": "Erotic same-sex content involving students."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Comfort in weakness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Healing of fear.",
+   "concerns": "Sexual content involving teens."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "'Lascivious' content (WLC Q139)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Neighbor-love.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gentle stories.",
+   "concerns": "Teen sexual content; teacher-student story."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Sexual content; same-sex."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Same-sex love and care for trauma.",
+   "concerns": "Teacher-student relationship; sexual content with minors."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Sexual and same-sex content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Immodesty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Easing fear and suffering.",
+   "concerns": "Sexual misconduct concerns with minors."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Queer teens supported.",
+   "concerns": "Sexualized minors; teacher power imbalance."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Empathy for trauma.",
+   "concerns": "Teacher-student exploitation risk."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Sexual content involving teens."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Comfort.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Fear overcome.",
+   "concerns": "Sensual focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Worth of each person.",
+   "concerns": "Teacher-student boundary; teen sexual content."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mutual care.",
+   "concerns": "Minors in sexual content."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentle stories.",
+   "concerns": "Impurity concerns."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Lust (kaam)."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Unchaste content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Overcoming fear.",
+   "concerns": "Sexual content with minors."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Personal will.",
+   "concerns": "Rules against harming children."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Compassion.",
+   "concerns": "Sexual and same-sex content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care.",
+   "concerns": "Degrading content risk."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Inclusion.",
+   "concerns": "Teacher-student power imbalance."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor stakes."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Private relationships in a dormitory."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Roommates and strangers."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Peers; one teacher-student story."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Emotional expression central."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "All-boys dormitory schools and senpai-kohai bonds are common Japanese Boys' Love settings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found; blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Comfort and fear are carried by short character arcs."
+ },
+ "winners_losers": "The roommates overcome their fears together; no opposing worldview is shown.",
+ "to_verify": [
+  "Sexual explicitness: MangaDex rates erotica; sexuality score capped and possibly understated.",
+  "Teacher-student story (MU) and whether it is romantic or sexual.",
+  "Characters' ages beyond 'high school'."
+ ]
+}

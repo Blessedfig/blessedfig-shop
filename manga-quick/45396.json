@@ -1,0 +1,92 @@
+{
+ "anilist_id": 45396,
+ "title": "The Severing Crime Edge",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/45396",
+  "https://api.mangaupdates.com/v1/series/59424210146",
+  "https://www.mangaupdates.com/series/rarn202",
+  "https://kotaku.com/the-severing-crime-edge-is-an-anime-with-identity-issue-834732770"
+ ],
+ "premise": "Kiri Haimura, a boy obsessed with cutting hair, meets Iwai Mushanokoji, the cursed 'Hair Queen' whose hair cannot be cut, except by his scissors (AniList; BookWalker blurb via MU). Their meeting starts an old murder game in which descendants of killers, wielding cursed 'Killing Goods', try to kill the Hair Queen; Kiri sets out to protect her. An 11-volume seinen action-romance.",
+ "life_message": "It suggests that an inherited dark urge can be turned toward protecting someone you love.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Death game with heavy blood and gore (Kotaku, anime); MU Attempted Murder, Play or Die."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Serial killers' spirits possessing family members (Kotaku, anime); MU curse and survival categories."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "The hero's hair-cutting fixation is framed as a fetish (MU Fetish/es; Kotaku) in a romance between young teens, middle schoolers per the anime review; MangaDex safe. Non-explicit."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "A sister injected nightly to suppress killing urges (Kotaku, anime)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Compulsions and inherited killer urges; social outcasts (MU)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Cutting others' hair with scissors as an obsession."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Inherited curses; death game; protective love",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Kiri chooses to protect rather than kill.", "concerns": "Fetish framing of young teens; cursed objects; gore."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Resisting an inherited passion.", "concerns": "Fetish imagery and curses."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Protecting the innocent.", "concerns": "Fetish framing; killer spirits; gore."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Choosing good over bloodline evil.", "concerns": "Fetish framing; violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Possession by killers' spirits; curses."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Inherited corruption shown.", "concerns": "Lascivious framing; gore."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Love protects.", "concerns": "Fetish and gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Choice over fate.", "concerns": "Fetish; violence."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Good versus evil framing.", "concerns": "Fetish framing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Killing game."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency over inheritance.", "concerns": "Fetish; violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Outcasts finding connection.", "concerns": "Sexualized gaze on minors (to verify)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Curses; fetish; violence."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Karma of ancestors confronted.", "concerns": "Tamasic content."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Breaking inherited cycles of harm.", "concerns": "Violence; craving."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Outsider protagonists.", "concerns": "Fetishized framing of young teens."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Choice over heredity.", "concerns": "Fetish framing; gore."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Protective courage.", "concerns": "Fetish and gore."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Spirits of the dead possess the living."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Spiritism; violence."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Overcoming compulsion.", "concerns": "Dwelling on violence."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Outcasts valued.", "concerns": "Sexualization of minors."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Curse lore.", "concerns": "Harmful magic; fetish framing."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Cursed tools echo object spirits.", "concerns": "Blood impurity."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Protecting the vulnerable.", "concerns": "Kesh (uncut hair) obsession may offend; violence."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence; fetish."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Past-life-like inheritance.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Dark aesthetic.", "concerns": "Sexualized children (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sorcery; tzniut; violence."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Choosing life.", "concerns": "Violence; fetish."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Protecting others.", "concerns": "Fetish framing; gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Disputes settled by killing game."},
+   "Order vs freedom": {"pos": 6, "evidence": "Hidden game outside law."},
+   "Civic vs kin": {"pos": 8, "evidence": "Killers' bloodlines and descendants drive the plot (MU Descendant/s)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Hair Queen and her guardian."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Curses and inherited spirits real."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Survival game."}
+  },
+  "closest": ["El Norte", "First Nation", "Latin America"],
+  "japan": "Inherited curses and cursed tools echo Japanese folklore about objects carrying grudges."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Anime review notes tonal shifts, no stated message (to verify for manga).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Genre mix of horror, comedy and romance with little stated message."
+ },
+ "winners_losers": "Kiri and Iwai gain sympathy; killers driven by inherited urges are the threat.",
+ "to_verify": [
+  "Kotaku review covers the 2013 anime, not the manga.",
+  "How sexualized the hair-cutting fetish is in the manga; characters' exact ages (middle school per anime review). Possibly understated.",
+  "Gore level in manga."
+ ]
+}

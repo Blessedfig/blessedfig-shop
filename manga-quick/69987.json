@@ -1,0 +1,364 @@
+{
+ "anilist_id": 69987,
+ "title": "Ani-Imo",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/69987",
+  "https://api.mangaupdates.com/v1/series/24187615088",
+  "https://www.animenewsnetwork.com/review/ani-imo/gn-1/.82623"
+ ],
+ "premise": "First-year high school twins Youta and Hikaru Koizumi swap bodies after a traffic accident, just after Hikaru has confessed romantic feelings for her brother; in his body she becomes assertive and presses those feelings, while Youta, who likes a classmate, struggles (ANN review; Yen Press blurb). A seven-volume shoujo romantic comedy by Haruko Kurumatani that Yen Press calls a 'forbidden love comedy'. The ANN reviewer says the sibling romance is central and will make many readers uncomfortable; MangaUpdates tags indicate the twins later prove not to be blood relatives.",
+ "life_message": "It plays a sibling crush for comedy and asks how far affection inside a family should go; its own answer is not clear from the sources.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Traffic accident causes the swap (review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Light comedy."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Romantic pursuit between teen twins is the core, with a kiss and pressure on Youta (ANN review; Yen Press blurb); bathing and dressing gags in swapped bodies; nothing explicit noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not documented."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Emotional confusion (tags)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Hikaru's pushy tactics toward an unwilling sibling played as comedy; reviewer calls some mean (ANN; blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Postmodernism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Taboo sibling romance as comedy; body swap; consent and pressure",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 5,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Youta's affection for his sister as family love.",
+   "concerns": "Romantic pursuit between twin siblings; pressure on an unwilling teen."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond sibling care.",
+   "concerns": "Disordered romantic passion inside a family."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise beyond sibling care.",
+   "concerns": "Sibling romance and pressure played for laughs."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Can prompt talk on boundaries.",
+   "concerns": "Incest theme and consent issues."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Incest theme; immodest body-swap gags."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Forbidden-relation romance (Leviticus 18) treated as comedy."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Sixth-commandment themes inside a family."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Sibling romance; manipulation."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Comedy of identity swap.",
+   "concerns": "Sibling romance; consent."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Immodesty and forbidden romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family bond.",
+   "concerns": "Chastity and family-relationship concerns."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Questions of boundaries could be discussed.",
+   "concerns": "Coercive pursuit framed as funny."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Romance between siblings (forbidden), immodesty, pressure."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Violates family dharma and modesty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Attachment shown as confusing.",
+   "concerns": "Third precept: harmful sexual desire within family."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gender-swap identity explored.",
+   "concerns": "Consent: pressure on an unwilling teen."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Body-swap fiction.",
+   "concerns": "Coercion and consent."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Undermines family norms; sibling romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Impure, passion-exciting themes."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Immorality within family."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Impure thought dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Identity exploration.",
+   "concerns": "Consent and family boundaries."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Unwanted advances."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family closeness.",
+   "concerns": "Disruption of family harmony."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Lust (kaam) inside the family."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Chastity and family relations."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Second-dynamic disorder."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Taboo-breaking as fiction.",
+   "concerns": "Unwanted sexual advances run against its rules."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Arayot (forbidden relations); tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Forbidden relationship as comedy."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Consent and healthy relationships."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor conflict; comedy."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Hikaru pursues desire against norms."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Plot centers inside the family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Siblings as near equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern setting; taboo as comedy."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Personal desire over convention."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "The Midlands"
+  ],
+  "japan": "The 'brocon' and 'siscon' comedy tropes reflect a Japanese manga convention for teasing family taboos, described as genre context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN reviewer describes an earnest romance, not lecturing.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The romance is presented without stating a moral."
+ },
+ "winners_losers": "Hikaru gains power in the swap; Youta's wishes are pushed aside in volume 1 (ANN); later volumes unverified.",
+ "to_verify": [
+  "Later volumes; review covers volume 1.",
+  "Yen Press age rating not found.",
+  "Step-sibling reveal (tags) and how the ending frames it.",
+  "Mature genre on MangaUpdates; check for sexual scenes."
+ ]
+}

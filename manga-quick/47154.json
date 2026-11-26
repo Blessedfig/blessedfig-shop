@@ -1,0 +1,363 @@
+{
+ "anilist_id": 47154,
+ "title": "Screaming Lessons",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/47154",
+  "https://api.mangaupdates.com/v1/series/41036052182",
+  "https://api.mangadex.org/manga?title=Zekkyou%20Gakkyuu"
+ ],
+ "premise": "An award-winning horror anthology from the girls' magazine Ribon, guided by a narrator who presents each tale as a 'lesson' (MANGA MILLION blurb; MangaUpdates). Ordinary schoolchildren meet curses, ghosts and urban legends: a cursed game, a revenge story between two girls, a class doll fed school lunch, and a too-good-to-be-true online 'mother' (blurb).",
+ "life_message": "It warns that envy, hatred, greed and careless choices bring their own punishment, and that kindness and caution protect you.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "'Blood-soaked tale of revenge' (publisher blurb); AniList Body Horror, minor Cannibalism tag."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Horror anthology with curses and a 'ride to hell' (blurb); AniList Body Horror, Tragedy; MU Scary Character/s."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Some romance stories (MU Romance genre)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Bullying central (AniList, MU tags); body-image story tag (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Meeting strangers online and dangerous games shown as punished (blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Moralistic therapeutic deism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Cautionary horror tales, curses, bullying",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 7,
+  "sanctity": 4,
+  "authority": 5,
+  "liberty": 3
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Envy and hatred punished.",
+   "concerns": "Curses and supernatural justice."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Passions lead to ruin.",
+   "concerns": "Demonic and cursed imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sin has consequences.",
+   "concerns": "Curses, ghosts and hellish imagery."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Warnings against wrongdoing.",
+   "concerns": "Occult framing."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Moral warnings.",
+   "concerns": "Curses and demonic games."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Consequences of sin.",
+   "concerns": "Occult justice in place of providence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral fables.",
+   "concerns": "Occult elements."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness over cruelty.",
+   "concerns": "Fear imagery."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Clear moral framing.",
+   "concerns": "Scary for younger readers."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Revenge shown as destructive.",
+   "concerns": "Fear and occult content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty and kindness urged.",
+   "concerns": "Curses and spirits."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Anti-bullying themes.",
+   "concerns": "Body horror."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Bad deeds bring consequences.",
+   "concerns": "Curses (sihr) and spirits."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Karma-like consequences.",
+   "concerns": "Black magic themes."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Karma of hateful acts.",
+   "concerns": "Graphic fear content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Bullying addressed.",
+   "concerns": "Body-image horror (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Caution online.",
+   "concerns": "Supernatural punishments as framing."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Respect for parents (the 'kind mother' tale).",
+   "concerns": "Horror intensity."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Moral lessons.",
+   "concerns": "Ghosts of the dead active."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Wrongdoing punished.",
+   "concerns": "Spiritism, curses and horror throughout."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Fear overcome by right thinking.",
+   "concerns": "Dwelling on fear."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Fear for young readers."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Threefold-law-style return of harm.",
+   "concerns": "Witchcraft-like curses as evil."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Spirits and curses familiar.",
+   "concerns": "Kegare imagery."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ego and envy punished.",
+   "concerns": "Superstition and curses."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness and honesty.",
+   "concerns": "Occult."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Fear."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Questioning harmful authority.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Lashon hara and envy punished.",
+   "concerns": "Sorcery-like curses."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral lessons.",
+   "concerns": "Fear and occult."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Anti-bullying.",
+   "concerns": "Fear."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Wronged characters take revenge through curses (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Rule-breakers are punished."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Family tale about a mother (blurb)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Narrator-teacher frame."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Urban legends and curses."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Safety and caution stressed."
+   }
+  },
+  "closest": [
+   "First Nation",
+   "Tidewater",
+   "Puritan"
+  ],
+  "japan": "Draws on Japanese urban legends (toshi densetsu) and school ghost stories (gakkou no kaidan), familiar to Japanese children."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Each story is framed as a 'lesson' (publisher blurb); no review describes delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A narrator frames each tale as a lesson, so morals may be stated outright; unverified."
+ },
+ "winners_losers": "Characters who act from envy, hatred or greed usually lose; caution and kindness are vindicated.",
+ "to_verify": [
+  "No review found; delivery style inferred from the publisher blurb's 'lesson' framing.",
+  "Intensity of body horror for younger readers (Ribon is a girls' magazine).",
+  "Many volumes; MANGA MILLION may only license part of the run."
+ ]
+}

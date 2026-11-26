@@ -1,0 +1,93 @@
+{
+ "anilist_id": 32139,
+ "title": "Witches",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/32139",
+  "https://api.mangaupdates.com/v1/series/65721731846",
+  "https://animenewsnetwork.com/feature/2022-05-20/the-spring-2022-manga-guide/witches-the-complete-collection/.185468"
+ ],
+ "premise": "An award-winning anthology of stories about witches around the world. In the first, a British girl, Nicola, falls for Mimar, a young man at a bazaar in a small far-western Asian country, and years later returns with wealth and 'the secret of the world' to take deadly revenge. Other tales follow a shaman defending a South American rainforest, a witch in a European mountain country trying to save humans from themselves at a terrible price, a girl in modern Japan who may be tricked out of her name, a child searching for her cat, and a story drawn from Okinawan myth (Seven Seas blurb; ANN Spring 2022 Manga Guide).",
+ "life_message": "Humans have cut themselves off from nature, and witches stand at the threshold between people and the living world.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Nicola's revenge is deadly; body-horror elements (ANN); Body Horror tag (AniList), Revenge (MU)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Abstract, macabre magic (ANN); Mind Break category (MU)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Nonsexual nudity including pubic hair (ANN); Nudity tag (AniList); unrequited love drives one tale."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Shamanic practices (MU Shaman/s); no drug use reported (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Obsession and 'mind break' (MU) (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Witchcraft practices portrayed as real power."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None reported."}
+ ],
+ "lenses": [
+  {"lens": "Environmentalism", "strength": 7, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Pantheist/New Age", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Feminism", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Nature versus modernity; witches as mediators of the natural world; folk cosmologies",
+ "axes": {"economic": 4, "social": 6, "cultural": 3, "community": 6},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 8, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Care for creation and critique of human pride toward nature.", "concerns": "Witchcraft and shamanism presented as truth and power."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Reverence for creation.", "concerns": "Sorcery affirmed; occult imagery."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little beyond creation care.", "concerns": "Witchcraft forbidden (Deut. 18) is the heroes' path."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Stewardship of nature.", "concerns": "Occult and pantheist worldview."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Witches, spirits and shamans as heroes."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Common-grace art of high quality.", "concerns": "Nature worship and sorcery."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Discuss", "aligns": "Critique of human arrogance.", "concerns": "Witchcraft affirmed."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Discuss", "aligns": "Creation care.", "concerns": "Occult affirmed."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Literary imagination and nature theme.", "concerns": "Witchcraft framed positively."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Critique of modern technology and excess.", "concerns": "Occult media; revenge."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Respect for the earth.", "concerns": "Occult practice; nudity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Environmental justice and Indigenous wisdom (rainforest tale).", "concerns": "Revenge violence; exoticized settings (to verify)."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Stewardship of creation.", "concerns": "Sihr (sorcery) shown positively; nudity."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Sacred nature and spirits familiar.", "concerns": "Black magic in the revenge tale."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Interdependence of humans and nature.", "concerns": "Revenge and harm."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Environmentalism and women-centered stories.", "concerns": "Cultural portrayals of 'far west Asia' and South America (to verify)."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Imaginative fiction about nature.", "concerns": "Anti-modern mysticism over science."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Respect for inherited folk wisdom.", "concerns": "Occult themes; anti-progress message."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Creation care.", "concerns": "Spiritualism and witchcraft."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Magic and spiritism central."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Material view of life questioned.", "concerns": "Mesmerism-like magic."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Earth-centered traditions and interdependence.", "concerns": "Revenge violence."},
+  {"frame": "Wiccan / Pagan", "grade": "S", "weight": "Minor", "aligns": "Witches as links between humanity and nature, respectfully drawn.", "concerns": "Nicola's harmful revenge magic."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Nature spirits and Okinawan myth honored.", "concerns": "Death imagery."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Reverence for creation.", "concerns": "Magic and superstition rejected by the Gurus."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Harmony with nature.", "concerns": "Occult practice."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Spiritual beings beyond the physical.", "concerns": "Revenge."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Witchcraft as aesthetic and psychodrama.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Sorcery and nudity."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Discuss", "aligns": "Care for creation.", "concerns": "Sorcery affirmed."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Environmental concern.", "concerns": "Revenge."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Nicola avenges a slight in love with deadly force (Seven Seas blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Witches stand outside society's order (ANN)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Tribal and village communities (MU Tribal)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Wisdom held by witches, not rulers."},
+   "Tradition vs secular-rational": {"pos": 2, "evidence": "Folk magic and myth over modern separation from nature (ANN)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Inner emotions awaken the 'witch in the heart' (MU description)."}
+  },
+  "closest": ["El Norte", "First Nation", "Latin America"],
+  "japan": "One tale draws on Okinawan mythology; the collection reflects a Japanese animist sense of spirit in nature."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "ANN: Silverman finds stories sometimes 'on the nose' and philosophically heavy-handed; another reviewer says it does not overexplain.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Reviewers split on whether the environmental message is overstated; the modern, nature-separated view is not given its own advocate (to verify)."
+ },
+ "winners_losers": "Nature and witches carry the story's sympathy; the rainforest shaman fails and the mountain witch succeeds at a terrible price (ANN).",
+ "to_verify": [
+  "Reviewers disagree on heavy-handedness; style set to Explicit, not Heavy-handed.",
+  "How Nicola's revenge and body horror are drawn.",
+  "Portrayal of non-Japanese cultures (Turkey-like country, South America)."
+ ]
+}

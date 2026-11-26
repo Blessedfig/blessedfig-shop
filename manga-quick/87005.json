@@ -1,0 +1,363 @@
+{
+ "anilist_id": 87005,
+ "title": "Pop Team Epic",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/87005",
+  "https://api.mangaupdates.com/v1/series/58657574203",
+  "https://admin.animenewsnetwork.com/feature/2018-11-30/the-fall-2018-manga-guide/pop-team-epic/.140198"
+ ],
+ "premise": "A four-panel absurdist gag comic about two girls, the short, hot-tempered Popuko and the tall, calm Pipimi. Strips parody pop culture, anime, ads and internet attitudes with surreal non sequiturs, cursing and cartoon violence, without a continuous plot.",
+ "life_message": "Nothing is sacred to a joke; absurdity and irreverence are their own reward.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "'Inappropriate physical violence' and freely threatened violence played for laughs (publisher blurb via MU; ANN guide)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Surreal rather than scary (ANN)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "One joke ends in sexual assault, called bad taste by an ANN reviewer; MU Blue Humor (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "'Bicker and curse', 'nasty, vulgar', strip title with an explicit word (publisher blurb via MU; ANN guide)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Morbid black humor (ANN; MU Black Humor)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Middle-school-age leads model rude, aggressive behavior as comedy (publisher blurb; ANN)."
+  },
+  {
+   "category": "Commercial",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Dense parody of brands, Disney films, ads and other series (ANN)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Absurdism",
+   "strength": 8,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Postmodernism",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Absurdist parody; irreverence toward conventions; meta humor",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 7,
+  "community": 4
+ },
+ "foundations": {
+  "care": 2,
+  "loyalty": 4,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 1,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship between the two leads.",
+   "concerns": "Vulgarity, violence jokes, sexual-assault joke; nothing serves truth."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Mockery and coarse speech feed the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Profanity, crude humor, mockery."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Profane, irreverent humor."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Vulgar speech; irreverence."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire of worldly culture.",
+   "concerns": "Profanity and crude content."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire as adiaphora.",
+   "concerns": "Coarse language."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Not 'in the name of the Lord'; cursing."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satirical tradition.",
+   "concerns": "Vulgarity; assault joke."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Worldly media; violence jokes."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Profanity and vulgarity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satirizes media conventions.",
+   "concerns": "Sexual-assault joke; violence jokes."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Foul language; mockery."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humor.",
+   "concerns": "Tamasic, coarse content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Laughter.",
+   "concerns": "Harsh speech."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critiques conventions.",
+   "concerns": "Sexual-assault joke (ANN)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Free expression and satire.",
+   "concerns": "Cruel jokes."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Vulgarity, disrespect, nihilistic tone."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Excites passions; coarse speech."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Obscene speech."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Laughter.",
+   "concerns": "Violence and crude thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Free expression.",
+   "concerns": "Demeaning jokes."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Irreverent freedom.",
+   "concerns": "Harmful jokes."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Playfulness.",
+   "concerns": "Disrespect to sacred possible (to verify)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Coarse speech."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Backbiting and coarse speech."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humor.",
+   "concerns": "Little substance."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Irreverence toward all authority.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Nivul peh throughout."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire.",
+   "concerns": "Vulgar speech."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire.",
+   "concerns": "Hurtful jokes."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Popuko answers slights with outbursts (AniList blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 9,
+    "evidence": "'No filter. No shame. No logic.' (publisher blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Two-friend focus."
+   },
+   "Equality vs hierarchy": {
+    "pos": 1,
+    "evidence": "Mocks every authority and convention (ANN)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Irreverent, secular parody."
+   },
+   "Survival vs self-expression": {
+    "pos": 9,
+    "evidence": "Pure self-expression (blurb)."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "English-speaking"
+  ],
+  "japan": "Leans on Japanese otaku and internet culture, anime in-jokes and the yonkoma gag format."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 0,
+  "evidence": "ANN reviewers find no clear message; one sees broader commentary on internet attitudes toward convention.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Gag strips with no stated message."
+ },
+ "winners_losers": "No side wins; the two leads mock everything, including the reader (ANN; publisher blurb).",
+ "to_verify": [
+  "Which strip ends in a sexual-assault joke and how it is drawn (ANN, one reviewer).",
+  "Extent of profanity in the English Vertical edition.",
+  "AniList lists the run as ongoing; English volumes cover early seasons."
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "anilist_id": 96842,
+ "title": "The Legend of Zelda: Twilight Princess",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/96842",
+  "https://api.mangaupdates.com/v1/series/34475197474"
+ ],
+ "premise": "Long ago the Spirits of Light sealed conquering wizards in the Twilight Realm. Now a menace seeks Midna, princess of that realm, and the Shadow Crystal fragments to rule both worlds. Link, who trained in swordsmanship but chose a quiet village life, answers the call when the King of Shadows' minions threaten his home (Viz blurb via AniList and MU; adaptation of the 2006 video game).",
+ "life_message": "Courage means stepping up to protect your home and others, even after choosing a quiet life.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "Sword fights against monsters (MU Violence, Swordsman/men; AniList Swordplay). Graphic level not reported (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Shadow monsters, transformations into a wolf (MU)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Link's withdrawn past (blurb, to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Adaptation of a Nintendo video game franchise (MU Based on a Video Game; Viz blurb)."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Heroic courage; light versus shadow; duty to home and realm",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 6, "sanctity": 6, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Link's courage and duty in defending his village.", "concerns": "Spirits of Light as quasi-divine beings; magic."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Light overcoming darkness.", "concerns": "Spirits and wizards."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Good defeats evil.", "concerns": "Magic; spirits."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Tolkien-like heroic fantasy.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Battle of light and shadow.", "concerns": "Spirits and sorcery."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common-grace fantasy.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation to protect neighbors.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Courage for others.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Clear moral framing of good and evil.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Link's preference for peaceful village life.", "concerns": "Sword violence as heroism."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Just cause defended (Alma 43).", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Cooperation across realms (Link and Midna).", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Fighting in a just cause.", "concerns": "Magic and spirits."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Dharmic battle of light and darkness.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Protecting beings.", "concerns": "Fighting."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Teamwork.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Courage and responsibility.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Classic heroism and good defeating evil.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Good versus evil.", "concerns": "Spirits and magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Magic, spirits and violence."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Light over darkness.", "concerns": "Fear imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Shared struggle.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Nature spirits and magic portrayed with respect.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Spirits of light echo kami; purity against corruption.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Courage to defend the oppressed.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity of realms.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Responsibility.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "C", "weight": "Minor", "aligns": "Individual heroism.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Good defeats evil.", "concerns": "Sorcery."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Courage.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Justice.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Swordsman answers threats to home (Viz blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Realms ordered by sealed powers (Viz blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Village home protected (Viz blurb)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Princesses and a King of Shadows (MU Princess/es)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Spirits of Light and sacred realm (Viz blurb)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Defending against invasion (Viz blurb)."}
+  },
+  "closest": ["Tidewater", "South and Southeast Asia", "Cavalier"],
+  "japan": "A Japanese adaptation by the duo Akira Himekawa of a Nintendo game, with spirit and light imagery familiar from Japanese fantasy."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Hero-quest structure (Viz blurb); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values of courage and duty are carried by the quest plot."
+ },
+ "winners_losers": "Link and Midna's side gets the sympathy; the King of Shadows is the threat (Viz blurb).",
+ "to_verify": [
+  "No review opened; violence level.",
+  "Whether villain Zant voices a worldview."
+ ]
+}

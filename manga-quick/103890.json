@@ -1,0 +1,368 @@
+{
+ "anilist_id": 103890,
+ "title": "Under Ninja",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/103890",
+  "https://api.mangaupdates.com/v1/series/6679652490",
+  "https://www.sportskeeda.com/anime/under-ninja-handling-ninja-genre-much-differently-manga"
+ ],
+ "premise": "In a modern Japan where ninja organizations survived in secret after the Allied occupation, Kuro Kumogakure is a young, jobless low-ranking ninja living an aimless life in a run-down apartment. He is finally given a mission to infiltrate a high school, and dry everyday comedy with his neighbors gives way to covert operations and conspiracies.",
+ "life_message": "People drifting without purpose can still find their place, and ordinary lives hide unexpected depths.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "'Gory but campy moments' (Sportskeeda); MU Blood and Gore, Assassination/s; AniList Gore."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Conspiracies and sudden deaths (AniList Conspiracy, Tragedy spoiler tags; MU Body Horror; to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "A minor character 'gives in to his perversions' (Sportskeeda); MU Fetish/es, Pervert/s, Blue Humor."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Not reported (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Alcohol use (MU, to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Aimless NEET life and loss of purpose (Sportskeeda)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Covert surveillance and violence played for dry humor (MU, Sportskeeda)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime and film adaptations (MU)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Absurdism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Purposelessness and self-actualization; deadpan absurdism; hidden state power",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Characters slowly finding purpose and courage.",
+   "concerns": "Gore, sexual humor and amoral covert killing."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Quiet growth out of despondency.",
+   "concerns": "Perversions and gore displayed for comedy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Kawado growing out of his shell.",
+   "concerns": "Crude sexual humor, violence, drinking."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Searching for meaning.",
+   "concerns": "Meaning found without God; crude humor."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Overcoming aimlessness.",
+   "concerns": "Perversion and gore."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest about idleness and depravity.",
+   "concerns": "Lascivious jokes; violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation and place in the world explored.",
+   "concerns": "Crude content; violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Growth in character.",
+   "concerns": "Diversions of crude humor and gore."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions purpose and role.",
+   "concerns": "Moral ambiguity in killing."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ordinary neighbours' simple life.",
+   "concerns": "Assassination as work; gore."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Learning to take responsibility.",
+   "concerns": "Vulgar humor, gore, alcohol."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critique of hidden state power (to verify).",
+   "concerns": "Fetish humor; violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Finding purpose.",
+   "concerns": "Sexual humor, alcohol, killing."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Finding one's duty.",
+   "concerns": "Adharmic killing for the state."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Impermanence and purposelessness examined.",
+   "concerns": "Violence and craving shown casually."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critique of secret state power.",
+   "concerns": "Fetishized humor."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions of meaning without the supernatural.",
+   "concerns": "Gore and cruelty."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service to country by ninja.",
+   "concerns": "NEET drift; crude humor; violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Characters grow.",
+   "concerns": "Alcohol, gore, sexual humor."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Neighborly friendship.",
+   "concerns": "Violence and immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming inertia.",
+   "concerns": "Gore and body horror dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Each person's worth beneath the surface.",
+   "concerns": "Fetish humor; violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Harm in covert operations."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ninja heritage as tradition.",
+   "concerns": "Blood and death."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work sought.",
+   "concerns": "Lust and killing."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Purpose and service.",
+   "concerns": "Alcohol; violence; lewd humor."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-determination.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and dry irreverence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Purpose.",
+   "concerns": "Nivul peh; violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-growth.",
+   "concerns": "Crude humor; violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-growth.",
+   "concerns": "Crude humor; violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Little personal honor; deadpan detachment (Sportskeeda)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Kuro chooses idleness over options (Sportskeeda)."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Ninja clans versus neighbor friendships (MU Clan/s)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Ninja organizations with ranks and elites (AniList blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Self-actualization theme (Sportskeeda)."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "The Midlands"
+  ],
+  "japan": "Plays on postwar Japanese history and on NEET (not in work or school) life, a recognisable Japanese social type."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Sportskeeda describes dry humor and themes readers infer: duality of man, declining relevance, self-actualization.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes emerge from deadpan character arcs, not statements."
+ },
+ "winners_losers": "Quiet minor characters such as Kawado and Eita grow; no worldview is clearly championed (Sportskeeda).",
+ "to_verify": [
+  "MU blurb names the lead 'Kudo' while AniList and the review say Kuro; check translation.",
+  "Child abuse, amputee and body horror tags (MU) not confirmed by a review.",
+  "Extent of sexual and fetish humor; adapted to anime, review may reflect both."
+ ]
+}

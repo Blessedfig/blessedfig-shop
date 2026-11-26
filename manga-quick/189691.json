@@ -1,0 +1,375 @@
+{
+ "anilist_id": 189691,
+ "title": "War of the Adults",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/189691",
+  "https://api.mangaupdates.com/v1/series/6676338470",
+  "https://api.mangadex.org/manga/b85141eb-8051-451a-bf95-608351e2b613"
+ ],
+ "premise": "Inspired by his late father, Yutaro Urashima writes and strictly follows his own 'Articles of Adulthood' to become an upstanding member of society. Those articles go on to change the world, producing a surveillance society where reputation is everything and people fight to survive (MANGA Plus blurb). Tags describe a dystopian political thriller with dictatorship, oppression and class struggle.",
+ "life_message": "Asks what being a 'proper adult' means, and whether rules meant to make people good can become oppressive.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Battle for survival in a dystopia (blurb; MU Survival); level unclear (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Surveillance, oppression and dictatorship (MU, AniList Dystopian)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing specific noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Coma and brainwashing tags (MU, AniList spoiler)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing specific noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 5,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Rules for adulthood turned into a surveillance state; reputation society; class struggle",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 7,
+  "sanctity": 4,
+  "authority": 4,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Questions about virtue and conscience versus coerced rules.",
+   "concerns": "Little; adult political themes."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inner virtue versus outward conformity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal integrity examined.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Warning against legalistic moralism.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clean content.",
+   "concerns": "Brainwashing theme (spoiler tag)."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Limits of law to make hearts good.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Law versus grace dynamic.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Holiness can't be imposed by surveillance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Thoughtful political fiction.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Critique of coercive state power.",
+   "concerns": "Possible resistance violence (to verify)."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring a father's teaching.",
+   "concerns": "Rules turned oppressive."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Critique of surveillance and class oppression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for a father's guidance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dharma of adulthood examined.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clinging to rules shown as suffering.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Critique of reputation-based control and class.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom of conscience against state control.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring the father; adult responsibility.",
+   "concerns": "Possible anti-authority framing."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clean content.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Distrust of human governments.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-government of thought.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Free search for truth against coercion.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal autonomy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity versus outward conformity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Resisting oppression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Questioning blind conformity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Concern with integrity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebellion against arbitrary authority.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring parents.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ethical questions about law.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tikkun olam against injustice.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Reputation is everything in the society (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Strict articles of conduct dominate (blurb), presented as dystopian."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Father's words drive the plot."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Dictatorship and social gap (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Unclear (to verify)."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival in a surveillance society."
+   }
+  },
+  "closest": [
+   "Puritan",
+   "Orthodox Europe",
+   "Tidewater"
+  ],
+  "japan": "Japanese ideas of being a 'shakaijin' (proper member of society) and concern for reputation form the satire's starting point."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb and tags only; no review opened (to verify).",
+  "personified": [
+   {
+    "character": "Yutaro Urashima",
+    "ideology": "Strict self-made rules for 'proper adulthood'",
+    "role": "Hero",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Sources suggest the series questions where Yutaro's own articles lead; how it resolves is unknown."
+ },
+ "winners_losers": "Unclear from sources; the surveillance society built on reputation is set up as oppressive.",
+ "to_verify": [
+  "Whether Yutaro is hero or victim of the system his articles created.",
+  "Violence level in the survival plot.",
+  "Ongoing on MANGA Plus; English availability via MANGA Plus."
+ ]
+}

@@ -1,0 +1,363 @@
+{
+ "anilist_id": 57489,
+ "title": "Mad Cinderella",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/57489",
+  "https://www.mangaupdates.com/series/58kyax5",
+  "https://api.mangadex.org/manga/f4be67a9-7938-4fe9-9c44-08108feb5797"
+ ],
+ "premise": "Sakuichi Teijin, heir to one of Japan's leading conglomerates, and working-class Ryota Kishi grew up as next-door neighbors. In their last year of middle school Sakuichi proposed to Ryota before leaving to study abroad; years later, after no contact, he reappears. A five-volume boys' love comedy that MU tags with an openly gay couple, a live-in lover and university life.",
+ "life_message": "A childhood promise of love can outlast distance and class difference.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Endorsed",
+   "note": "Adult same-sex romance; MU lists Yaoi genre and 'Horny Seme' but MangaDex rates it 'safe'; explicitness to verify."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Ryota's crude manner (MU blurb), to verify."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Pursuing a partner after years of no contact."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Conglomerate wealth as backdrop."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Childhood love fulfilled; same-sex romance; rich-poor contrast",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 7,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness to a childhood promise.",
+   "concerns": "Same-sex romance; sexual content to verify."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Constancy of affection.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance; cohabitation."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithful friendship.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Constancy.",
+   "concerns": "Same-sex romance; possible sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Steadfast love.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lifelong friendship. ELCA families may affirm.",
+   "concerns": "LCMS/WELS teaching on marriage."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex romance for traditional Wesleyans."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithfulness. Episcopal Church affirming.",
+   "concerns": "ACNA traditional view."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Neighborly bonds across class.",
+   "concerns": "Same-sex romance; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty to a promise.",
+   "concerns": "Law of chastity; same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Openly gay couple loved across class.",
+   "concerns": "Possible sexual content for youth."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance; cohabitation."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex romance for traditional families."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loving-kindness and constancy.",
+   "concerns": "Attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Openly gay couple; class crossed.",
+   "concerns": "Explicitness for youth."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freely chosen love.",
+   "concerns": "Explicitness for youth."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lifelong loyalty.",
+   "concerns": "Same-sex romance; cohabitation."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Steadfastness.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love outlasting distance.",
+   "concerns": "Little doctrine; sexuality to verify."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive love.",
+   "concerns": "Explicitness for youth."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love between consenting adults.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere bond (makoto).",
+   "concerns": "Little doctrine."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex romance; cohabitation."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Constancy.",
+   "concerns": "Same-sex romance; chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication and promise-keeping.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Pursuing desire freely.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex romance; cohabitation."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Constancy; CJLS affirms same-sex marriage.",
+   "concerns": "Explicitness for youth."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive love.",
+   "concerns": "Explicitness for youth."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Conflict is distance and social gap, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Personal romance over expectations."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Childhood neighbors rather than family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Rich-poor gap bridged."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern secular setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Romance and self-expression central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "The Midlands"
+  ],
+  "japan": "The contrast between a zaibatsu-style conglomerate heir and a commoner echoes Japanese social-status themes common in comedies."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review opened; blurbs carry the story through the reunion romance (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Summaries present a comedic romance without argument."
+ },
+ "winners_losers": "The childhood couple win the story's sympathy.",
+ "to_verify": [
+  "Explicitness: MU Yaoi genre versus MangaDex 'safe' (possibly understated)",
+  "No review opened",
+  "AniList year 2010 vs MU/MangaDex 2011 (same creator and blurb)"
+ ]
+}

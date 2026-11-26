@@ -1,0 +1,92 @@
+{
+ "anilist_id": 30993,
+ "title": "Ichigenme... The First Class is Civil Law",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": ["https://anilist.co/manga/30993", "https://api.mangaupdates.com/v1/series/78094821576", "https://comicsworthreading.com/2010/03/27/ichigenme-the-first-class-is-civil-law/"],
+ "premise": "At an elite university, studious, not-rich law student Tamiya joins the 'easiest' seminar and is kissed at a welcome party by Tohdou, a showy playboy and son of a powerful politician. Their unlikely friendship becomes a romance as graduation nears. Volume two jumps ahead: Tamiya becomes a professor, and Tohdou's brother has an affair with an insecure law teacher.",
+ "life_message": "Love can grow between people of very different values if each takes the other seriously.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "No violence tags."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Bar-exam and job stress (review)."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Neutral", "note": "Review: volume two is 'mostly about watching them have sex', shown 'graphically and frequently'; MU Adult genre; AniList Nudity. Adult university characters."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Carousing students; level not documented (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Partying and 'dissolute carousing' among students (review)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Insecurity of the law teacher; first-love pain (MU)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Unprompted kiss at a party; teacher-student affair between adults (review, MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Wealthy students' lifestyles."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 1, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Opposites attract across class; university life and privilege; adult sexuality",
+ "axes": {"economic": 5, "social": 8, "cultural": 6, "community": 4},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 4, "sanctity": 1, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Tamiya's diligence amid privileged carousing reflects a virtue of seriousness.", "concerns": "Graphic, frequent same-sex sex scenes; teacher-student affair."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Tamiya's restraint at first.", "concerns": "Graphic sexual content inflames passions."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Studiousness valued.", "concerns": "Explicit sexual content and same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Critique of spoiled elites.", "concerns": "Graphic sex central to volume two."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little beyond diligence.", "concerns": "Explicit content."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Satire of idle elites rings true.", "concerns": "Lascivious pictures (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Vocation: law studies and professorship taken seriously.", "concerns": "Graphic sexual content across confessions."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Critique of dissolute living.", "concerns": "Explicit content."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Character-rich comedy of manners.", "concerns": "Graphic content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit content and worldly elites."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Education valued.", "concerns": "Law of chastity; explicit content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Realistic gay relationship (MU) and class critique.", "concerns": "Teacher-student power imbalance."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Knowledge-seeking.", "concerns": "Explicit same-sex content."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Learning and respect for teachers in principle.", "concerns": "Explicit content; teacher affair."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Privilege shown as empty without connection.", "concerns": "Sensual content feeds craving."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Coming out and realistic gay relationship.", "concerns": "Teacher-student power dynamics."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Rational, studious protagonist; satire of elites.", "concerns": "Power imbalance with a teacher."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Hard work over privilege.", "concerns": "Explicit content; mockery of elites."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Diligence.", "concerns": "Explicit content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Overcoming insecurity.", "concerns": "Sensual content."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Affirming adult gay love; class critique.", "concerns": "Power imbalance."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Adult sexuality positive.", "concerns": "Teacher-student imbalance."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sincerity across difference.", "concerns": "Little doctrine; explicitness for some."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Honest effort.", "concerns": "Lust as central."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Education valued.", "concerns": "Chastity teaching; explicit content."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Study emphasis.", "concerns": "Little stated concern; explicitness."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence and mocking of elites.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Study valued.", "concerns": "Explicit same-sex content."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Learning valued.", "concerns": "Degrading-level sexual content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Inclusion.", "concerns": "Power imbalance; explicitness."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Status games mocked rather than defended (review)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Students' apathy and carousing; romance follows desire (review)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Politician father and brother shape the cast (review)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Rich students versus Tamiya; professors and students."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular law school and science careers."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Pleasure and self-fulfilment among the elite."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "English-speaking"],
+  "japan": "Elite university seminars, bar-exam pressure and political family dynasties reflect real features of Japanese elite education."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comics Worth Reading describes humour and satire of elites, with no moralising.",
+  "personified": [
+   {"character": "Tamiya", "ideology": "Studious diligence amid privilege", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Tohdou", "ideology": "Carefree privileged pleasure-seeking", "role": "Foil", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Fair",
+  "note": "The class contrast is played for comedy, and both men are treated with affection."
+ },
+ "winners_losers": "Tamiya and Tohdou end up together; the story gently mocks idle elites while keeping sympathy for its cast.",
+ "to_verify": [
+  "MU lists the genre 'Adult'; the work is not marked adult on AniList.",
+  "Ages: all main characters are university students or older; confirm.",
+  "801 Media license status (possibly lapsed).",
+  "No Wikipedia cache available; one review opened."
+ ]
+}

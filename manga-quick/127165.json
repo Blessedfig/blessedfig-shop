@@ -1,0 +1,92 @@
+{
+ "anilist_id": 127165,
+ "title": "Noble Reincarnation ~Born Blessed, So I’ll Obtain Ultimate Power~",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/127165",
+  "https://api.mangaupdates.com/v1/series/8703867302",
+  "https://api.mangadex.org/manga/e54c384f-5163-4fdb-9909-968b8d0bd86a"
+ ],
+ "premise": "Noa (Noah in some listings), reincarnated as the thirteenth prince of an empire, uses knowledge and cheat skills to gain power and win servants. When the crown prince dies, the imperial succession is contested among the remaining princes (Manga UP! blurb; MangaDex description; MU Dispute Over Succession).",
+ "life_message": "Talent and privilege, used shrewdly, earn loyalty and rightful power.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Assassination attempts, violence and cruelty (MU). Database only, capped (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Court intrigue and spies (MU)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Harem (MU), arranged marriage; AniList Polyamorous (rank 40)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Slavery category (MU) and collecting servants as goal (blurb). Capped (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Aristocratic power fantasy; succession politics; earning loyal servants",
+ "axes": {"economic": 6, "social": 4, "cultural": 4, "community": 5},
+ "foundations": {"care": 4, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 8, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Good rule could serve the common good.", "concerns": "Slavery and harem; power for its own sake."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Order and authority.", "concerns": "Pride and ambition."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Responsibility with gifts.", "concerns": "Harem; reincarnation."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Stewardship of talents (to verify).", "concerns": "Slavery and polyamorous tags."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Cursed objects and magic."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Lawful authority.", "concerns": "Self-exaltation."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Ruler's vocation.", "concerns": "Harem."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Slavery normalized."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Order in the realm.", "concerns": "Cruelty and slavery."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Power and violence."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Plural romance outside covenant."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Aristocratic privilege and slavery."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Just ruler ideal (to verify).", "concerns": "Magic and harem."},
+  {"frame": "Hindu", "grade": "C", "weight": "Minor", "aligns": "Raja-dharma and rebirth.", "concerns": "Ambition over duty."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Minor", "aligns": "Rebirth premise.", "concerns": "Craving for power."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Birth privilege celebrated; slavery."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Knowledge as power.", "concerns": "Inequality and cruelty."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Order, rank and loyalty.", "concerns": "Harem."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Reincarnation; magic."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Magic, curses, violence."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Little to note.", "concerns": "Cruelty."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Inequality and slavery."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Minor", "aligns": "Magic as power.", "concerns": "Cursed objects used to harm (to verify)."},
+  {"frame": "Shinto", "grade": "C", "weight": "Minor", "aligns": "Household order.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Ego and hierarchy over equality."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Inequality, harem."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Minor", "aligns": "Competence.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-advancement.", "concerns": "Slavery limits freedom of others."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Sorcery; harem."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Slavery."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Inequality and slavery."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Rivalry among princes; assassination attempts (MU)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Imperial order and succession law."},
+   "Civic vs kin": {"pos": 6, "evidence": "Imperial family and personal servants come first."},
+   "Equality vs hierarchy": {"pos": 9, "evidence": "Prince, emperor, servants and slaves (MU)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Game-like skills beside dynastic tradition."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Securing position amid succession conflict."}
+  },
+  "closest": ["Orthodox Europe", "Tidewater", "Cavalier"],
+  "japan": "A Japanese reincarnation power fantasy set in a European-style empire; loyalty of retainers echoes Japanese lord-retainer ideals."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Power-fantasy values set by premise (to verify)."
+ },
+ "winners_losers": "Noa is set up to rise; rival princes are obstacles (to verify).",
+ "to_verify": [
+  "Treatment of slavery and cruelty (MU categories only).",
+  "Harem and polyamorous elements.",
+  "No review or Wikipedia cache opened."
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "anilist_id": 30257,
+ "title": "Hybrid Child",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30257",
+  "https://api.mangaupdates.com/v1/series/56784875391",
+  "https://www.previewsworld.com/Catalog/JUN063065"
+ ],
+ "premise": "A single volume of linked short stories set in an alternate Taisho-era Japan about Hybrid Children, doll-like androids that grow when their owners give them love. Kotaro learns responsibility when his Hybrid Child's lifespan runs out; the swordsman Seya learns to love again through his Hybrid Child Yuzu; and the creator Kuroda's lost love inspired the designs. A boys' love tragedy (DMP blurb via AniList and MangaUpdates; Previews catalog lists it as MR).",
+ "life_message": "A good life means loving faithfully and taking responsibility for those who depend on you, even through loss.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "War backdrop for one story (AniList spoiler tag, MangaUpdates)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Loss and tragedy across stories (AniList Tragedy, DMP blurb)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Male-male romance with age gap; distributor marks it MR; MangaUpdates lists a 'Shotacon' genre label (capped, to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Suicide listed by MangaUpdates; grief (capped, to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime OVA adaptation exists."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism; Transhumanism; Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 3,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love and responsibility for dependents.",
+   "concerns": "Same-sex romance; suicide; MR rating."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful love through loss.",
+   "concerns": "Same-sex romance; despair."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Responsibility learned by Kotaro.",
+   "concerns": "Same-sex romance, suicide, age gap."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sacrificial love themes.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Grief faced.",
+   "concerns": "Same-sex romance; age gap; MR."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows loss truthfully.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for what one is given.",
+   "concerns": "Same-sex romance (LCMS)."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love that sacrifices.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Literary tragedy.",
+   "concerns": "Age gap and MR content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Self-giving love.",
+   "concerns": "Same-sex romance; swordsman violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Responsibility for others.",
+   "concerns": "Same-sex romance; mature content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Tender same-sex love.",
+   "concerns": "Age-gap dynamics and 'Shotacon' label (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Responsibility and grief.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Duty to those in one's care.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Impermanence of all things.",
+   "concerns": "Attachment; suicide; sexual content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love across difference.",
+   "concerns": "Possible sexualization of youthful characters; consent (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Questions about artificial persons.",
+   "concerns": "Age-gap and MR content."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Duty and sacrifice.",
+   "concerns": "Same-sex romance; mature content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Love and loss.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Responsibility.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love as life-giving.",
+   "concerns": "Death and grief dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Inclusive love.",
+   "concerns": "Age gap and possible sexualization."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love sustains life.",
+   "concerns": "Consent and age questions."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirit in made things.",
+   "concerns": "Death and suicide (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Care for dependents.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Love and service.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Responsibility.",
+   "concerns": "Suicide."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Indulgent love.",
+   "concerns": "Harm to children concern if youthful (to verify)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Responsibility.",
+   "concerns": "Same-sex romance; suicide."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care and grief.",
+   "concerns": "Age gap; mature content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Inclusive love.",
+   "concerns": "Possible sexualization of youth (to verify)."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "Swordsman's honor (DMP blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Owners shape their dolls' lives."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Household bonds."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Social hierarchy (MangaUpdates)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Taisho-era setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Love and survival intertwined."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Latin America",
+   "Cavalier"
+  ],
+  "japan": "A Taisho-era aristocratic setting with household servants reflects period Japanese hierarchy, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Tragedy carries the message of love and responsibility."
+ },
+ "winners_losers": "Loss falls on several pairs; sympathy rests with devoted lovers and their dolls.",
+ "to_verify": [
+  "MangaUpdates lists a 'Shotacon' genre label (sexualized depiction of young-looking boys); MangaDex rates it safe and AniList is not adult; confirm whether any sexual content involves minors before publishing",
+  "Suicide from MangaUpdates category only",
+  "Previews 'MR' rating seen; sexual content level not confirmed",
+  "No review opened"
+ ]
+}

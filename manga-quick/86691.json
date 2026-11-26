@@ -1,0 +1,92 @@
+{
+ "anilist_id": 86691,
+ "title": "Fruits Basket: Another",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/86691",
+  "https://api.mangaupdates.com/v1/series/5699177563"
+ ],
+ "premise": "A sequel set at Kaibara High School, the school of the original Fruits Basket. Sawa Mitoma, a nervous girl who avoids people, starts high school badly until she meets two popular boys, Mutsuki and Hajime, who turn out to belong to the Souma family. The four-volume story follows her friendships and growing confidence (Yen Press blurb via AniList).",
+ "life_message": "Being accepted by friends lets a frightened person find her own voice.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Condemned", "note": "Bullying and abuse listed (MU categories); no fighting reported (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Emotional drama of a shy girl; no horror reported."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Shoujo romance genre among high-school classmates; Heterosexual and Age Gap tags at low rank (AniList)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Hajime described as sharp-tongued (Yen Press blurb); profanity not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Social anxiety, abuse and bullying (MU); Rehabilitation tag (AniList). Database only, capped (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None reported."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Sequel within the Fruits Basket franchise with crossover and anime-bundle extras (AniList notes)."}
+ ],
+ "lenses": [
+  {"lens": "Moralistic therapeutic deism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Overcoming anxiety; friendship; family ties of the Souma",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Friends patiently draw the bullied Sawa out of isolation, an act of charity.", "concerns": "Abuse and bullying themes need context for younger readers (to verify)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humility and gentle care shown to a fearful classmate.", "concerns": "Souma family secrets carry supernatural undertones from the original series (to verify)."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Kindness to a lonely girl and loyal friendship.", "concerns": "Teen romance focus; supernatural Souma background unverified here."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Sawa's growth through being welcomed echoes grace received.", "concerns": "Abuse in her past may need a parent's discussion (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Restoration of a wounded girl through love.", "concerns": "Any curse element inherited from Fruits Basket may concern cautious families (to verify)."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Truthful portrayal of bullying and its harm.", "concerns": "Healing framed by human acceptance alone."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Ordinary school life as a place to serve neighbors like Sawa.", "concerns": "Little beyond mild romance."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Works of mercy toward a shy outsider.", "concerns": "Bullying scenes could distress sensitive readers."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Hospitality of Mutsuki and Hajime toward a newcomer.", "concerns": "Family abuse backstory (to verify)."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Community gently restores a hurting member.", "concerns": "Popular-boy romance fantasy feeds worldly attractions."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Friendship and family repair suit uplifting media counsel.", "concerns": "Romance among teens kept mild per genre (to verify)."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Attention to anxiety and bullying victims.", "concerns": "Little to raise beyond abuse themes."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Kindness and patience toward the vulnerable.", "concerns": "Mixed-gender teen romance and dating culture."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Family duty and friendship within the Souma circle.", "concerns": "Little to raise beyond school romance."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion easing Sawa's suffering and fear.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Takes social anxiety and bullying seriously.", "concerns": "Prince-like boys as rescuers is a familiar trope."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Growth through empathy and human connection.", "concerns": "Supernatural family premise inherited from the original."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Friendship and family loyalty steady a struggling girl.", "concerns": "Abusive adults in background (to verify)."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Gentle restoration of a hurting student.", "concerns": "Supernatural Souma family elements (to verify)."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Kind associations help Sawa.", "concerns": "Zodiac-linked family lore of the franchise may be avoided (to verify)."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Fear yields to love and companionship.", "concerns": "Dwelling on anxiety and abuse."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of a shy, bullied girl affirmed.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Bonds of chosen friendship.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony restored in a school and family community.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Standing by someone who is mistreated.", "concerns": "Teen romance focus."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity and kindness overcome isolation.", "concerns": "Teen romance focus."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and affinity help Sawa grow.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Sawa learns to assert herself.", "concerns": "Abuse of a young person in backstory (to verify)."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Chesed shown to a lonely classmate.", "concerns": "Teen romance and mixed socializing."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kind speech replacing bullying.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion of an outsider.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Sawa's worth is affirmed by acceptance, not defended by confrontation (Yen Press blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "School and family settings with no strong stance on rules."},
+   "Civic vs kin": {"pos": 6, "evidence": "Souma family ties are central to the cast (AniList, MU Family, Cousin/s)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Student council and popular 'it' boys suggest school status (MU Student Council, Fan Club)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school life; inherited family secrets in background (to verify)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Coming-of-age focus on a shy girl finding confidence (AniList Coming of Age)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "Yankeedom"],
+  "japan": "Japanese high-school status culture (popular boys with fan clubs, student council) frames the story; described, not judged."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Only blurbs and database tags available; no review on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The message appears to come through Sawa's friendships rather than speeches; unverified."
+ },
+ "winners_losers": "Sawa gains friends and confidence; bullies are the implied losers (to verify).",
+ "to_verify": [
+  "No Wikipedia cache and no review opened; all facts from AniList and MangaUpdates.",
+  "Nature of the abuse listed by MangaUpdates (who, how shown).",
+  "Whether the original series' Souma family curse plays a role in this sequel.",
+  "Age gap tag (AniList rank 20) context."
+ ]
+}

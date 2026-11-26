@@ -1,0 +1,91 @@
+{
+ "anilist_id": 107365,
+ "title": "Days of Love at Seagull Villa",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/107365",
+  "https://api.mangaupdates.com/v1/series/10072794922",
+  "https://www.animenewsnetwork.com/review/days-of-love-at-seagull-villa/gn-1/.167872"
+ ],
+ "premise": "After her fiancé leaves her for her former best friend, Mayumi takes a middle-school teaching job on a remote island and moves into Seagull Villa, run by brash landlady Rin, who is raising her young niece Hinata. The two women grow close (Seven Seas blurb via AniList/MU; ANN review of vol. 1).",
+ "life_message": "People heal by letting go of assumptions about each other and forming a family of their own choosing.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Family members died in an accident (backstory, ANN)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Grief and heartbreak; mostly gentle tone (ANN)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Same-sex adult romance; infidelity backstory; an older man gropes Mayumi; a middle-school girl's attraction to her half-sister (MU 'Incest as a Subplot', AniList Incest; ANN). ANN calls it fairly tame overall."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Brash landlady; not reported in detail."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Rin stops Mayumi on a bridge thinking she may jump, a misunderstanding (ANN). Single source (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "MU lists Bullying and Manipulation."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "No adaptation listed."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Starting over; found family in a rural community; same-sex romance",
+ "axes": {"economic": 5, "social": 7, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Rin's devotion to orphaned niece Hinata; care for a heartbroken newcomer.", "concerns": "Same-sex romance; half-sister attraction subplot; groping scene."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Hospitality of the boardinghouse.", "concerns": "Same-sex romance; incest-themed subplot involving a minor."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Caring for an orphan.", "concerns": "Same-sex romance; infidelity; incest subplot."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Rebuilding life after betrayal.", "concerns": "Same-sex romance affirmed; minor's incest-themed feelings."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Compassion for the hurting.", "concerns": "Sexual content and same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest portrayal of betrayal's damage.", "concerns": "Same-sex romance (conservative bodies); incest subplot."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Vocation of teaching and caregiving.", "concerns": "Branches split on same-sex romance; incest subplot."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Community welcome on the island.", "concerns": "Half-sister subplot; groping played lightly."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Healing through community.", "concerns": "Incest-themed subplot; views split on same-sex romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Simple rural community life.", "concerns": "Same-sex romance; sexual subplots."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family duty to Hinata.", "concerns": "Same-sex romance; incest subplot."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Affirming adult same-sex love; chosen family.", "concerns": "Minor's sexualized subplot and groping need discussion."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Care for an orphaned child.", "concerns": "Same-sex romance; incest subplot; immodesty."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Duty to family after loss.", "concerns": "Incest-themed subplot; same-sex views vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Letting go of past attachment to a former fiancé.", "concerns": "Harmful sexual conduct shown (groping, minor's subplot)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Queer women and a non-traditional family.", "concerns": "Sexualization involving a minor (ANN found it off-putting)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Questioning assumptions about others.", "concerns": "Minor's subplot handling."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Responsible guardian; teacher role.", "concerns": "Same-sex romance; incest subplot."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Caring household.", "concerns": "Same-sex romance; sexual subplots."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance; immorality themes."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcoming grief.", "concerns": "Purity concerns."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth and dignity of a queer couple and their household.", "concerns": "Minor's subplot."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Seaside life, renewal and affirming love.", "concerns": "Exploitative moments (groping)."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Close-knit coastal community.", "concerns": "Family-order disruption in the half-sister subplot."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Seva in caring for Hinata.", "concerns": "Romance outside marriage; incest subplot."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Unity across differences.", "concerns": "Same-sex romance; incest subplot."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Second dynamic: family rebuilt.", "concerns": "Infidelity backstory."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Adults free to love as they choose.", "concerns": "Minor involved in sexualized subplot."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Chesed toward a newcomer.", "concerns": "Same-sex romance; incest subplot; immodesty."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Compassion and community.", "concerns": "Incest subplot; groping."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Inclusive view of family and love.", "concerns": "Minor's subplot."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Rin shuts down a groper firmly but without feuding (ANN)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Mayumi impulsively leaves the city to start over (blurb)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Makeshift and complicated families at the centre (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Landlady and tenant meet as equals."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Rural island life, but no religious framing."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Personal healing and love pursued (blurb, ANN)."}
+  },
+  "closest": ["Catholic Europe", "New France", "New Netherland"],
+  "japan": "City-dweller-to-countryside stories and small-community gossip are common in Japanese fiction, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "ANN: themes of assumptions and understanding come as an undercurrent, not stated outright.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story shows relationships forming rather than debating them."
+ },
+ "winners_losers": "Mayumi and Rin find each other; the cheating ex-fiancé is the cause of Mayumi's pain.",
+ "to_verify": [
+  "How the half-sister subplot develops and resolves across 3 volumes.",
+  "MU-listed bullying: who and how.",
+  "ANN review covers volume 1 only."
+ ]
+}

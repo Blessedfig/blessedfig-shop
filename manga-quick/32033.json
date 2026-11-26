@@ -1,0 +1,91 @@
+{
+ "anilist_id": 32033,
+ "title": "HERO TALES",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32033",
+  "https://api.mangaupdates.com/v1/series/56052411557",
+  "https://www.mangaupdates.com/series/pr05pk5"
+ ],
+ "premise": "Legend says seven heroes carry the power of the Big Dipper's stars, two of them destined to clash and plunge the world into chaos (Yen Press blurb via AniList and MU). Headstrong Taitou, teased by his sister Laila, finally earns the Kenkaranbu sword in his coming-of-age ceremony, only for a thief to steal it, setting him on the path of his destiny. A 5-volume martial-arts fantasy drawn by Hiromu Arakawa with story by Huang Jinzhou.",
+ "life_message": "It holds up courage, friendship and facing one's destiny.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Swordplay and martial arts (AniList; MU genres); level to verify."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Prophecy of chaos."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None noted; MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Sword and martial-arts fighting."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Destiny and star legend; heroism; siblings",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 5, "sanctity": 4, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Courage and responsibility in Taitou's coming of age.", "concerns": "Star-destiny and reincarnation themes."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Maturity through trial.", "concerns": "Astral fate and reincarnation."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Brave hero.", "concerns": "Star-based destiny is astrology-like."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Growth and loyalty.", "concerns": "Fate by the stars."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Fighting chaos.", "concerns": "Star powers and reincarnated heroes."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Providence-like calling.", "concerns": "Fate tied to stars, not God."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Fantasy heroism.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Combat as solution."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Quest tale.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Village community.", "concerns": "Sword heroism."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Family bond with Laila.", "concerns": "Reincarnation."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Courage and siblings.", "concerns": "Astrology-like destiny."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Dharma, rebirth and cosmic heroes.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Rebirth themes.", "concerns": "Fighting central."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Coming of age.", "concerns": "Fate over choice."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Rites of passage and duty.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Courage.", "concerns": "Reincarnation; star powers."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Astral magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Overcoming.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Pluralist myth.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Star lore and myth honored.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Ceremony and ancestral legend.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "The sword against chaos.", "concerns": "Astrology rejected by the Gurus."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity against chaos.", "concerns": "Combat."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Past lives.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "A defiant hero.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Courage.", "concerns": "Astrological destiny."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Family and courage.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Hero must recover a stolen sword; martial honor."},
+   "Order vs freedom": {"pos": 6, "evidence": "Headstrong, defiant hero."},
+   "Civic vs kin": {"pos": 6, "evidence": "Village and sister Laila."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Coming-of-age ceremony grants status."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Legend and destiny drive the plot."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Adventure, duty."}
+  },
+  "closest": ["Tidewater", "El Norte", "Latin America"],
+  "japan": "A Chinese-styled wuxia setting drawn by a Japanese artist, mixing Big Dipper star lore with shounen hero conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Adventure with destiny themes; no stated message in summaries."
+ },
+ "winners_losers": "Taitou and his friends (to verify).",
+ "to_verify": [
+  "MU lists the series as possibly axed (2 votes).",
+  "Violence level.",
+  "Story credits: MU also lists Ryo Yashiro."
+ ]
+}

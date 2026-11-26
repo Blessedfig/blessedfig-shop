@@ -1,0 +1,94 @@
+{
+ "anilist_id": 39152,
+ "title": "The Heart of Thomas",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/39152",
+  "https://api.mangaupdates.com/v1/series/28579741379",
+  "https://animenewsnetwork.com/review/the-heart-of-thomas/gn"
+ ],
+ "premise": "At a German boys' boarding school in the mid-20th century, fourteen-year-old Thomas Werner dies in a fall from an overpass after mailing a love letter to fellow student Juli (Fantagraphics blurb). Juli, scholarly and burdened by guilt and a hidden past, sinks into despair while his roommate Oscar watches over him; then a new boy, Erich, who looks just like Thomas, arrives. A 1974 classic of shojo manga steeped in Christian imagery (MangaUpdates; ANN).",
+ "life_message": "Love that gives itself can break through guilt and self-hatred, letting a wounded person accept being loved and forgiven.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Condemned", "note": "Juli's 'fairly horrific' past, mostly told not shown (ANN); bullying and a rape spoiler tag (AniList)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Tragedy, despair and angst throughout (AniList, MangaUpdates); melodramatic (ANN)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Romantic feelings among boys aged around 14; kissing kept 'fairly coy' (ANN); shounen-ai genre (MangaUpdates)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 7, "framing": "Shown with consequences", "note": "Thomas's death is a suicide (ANN); depression and suicide categories (MangaUpdates, AniList)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Suicide framed as a gift of love; parents may want to discuss."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Christian", "strength": 7, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Sacrificial love and forgiveness; guilt and grace; adolescent same-sex longing",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 5},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 4, "sanctity": 8, "authority": 4, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Grace, self-giving love and Juli's sense of standing before God (ANN).", "concerns": "Thomas's suicide cast as redemptive love; romance between boys."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Repentance and healing of a wounded soul; angel imagery.", "concerns": "Suicide as sacrifice; same-sex romantic longing."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Sin, guilt and the need for grace are taken seriously.", "concerns": "Suicide romanticized; same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Christ-like substitutionary love as a theme.", "concerns": "Suicide as an act of love; boys' romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Spiritual struggle with guilt.", "concerns": "Suicide and same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Depth of sin and unmerited love.", "concerns": "Suicide is self-murder (WLC Q136); same-sex longing."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Justification by love not earned; Juli's guilt answered by grace.", "concerns": "LCMS would raise the romance and suicide framing."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Perfect love and assurance against despair.", "concerns": "Suicide framing; traditional bodies raise the romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary Christian allegory of grace.", "concerns": "Suicide; ACNA would raise romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Sacrificial love and humility.", "concerns": "Suicide; same-sex romance; worldly media."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Atonement-like love; repentance.", "concerns": "Same-sex romance and suicide."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Grace, healing from abuse and queer love treated tenderly.", "concerns": "Suicide messaging for young readers."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Repentance and mercy.", "concerns": "Suicide forbidden; same-sex romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Self-sacrifice and inner purification.", "concerns": "Suicide discouraged."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion releasing a mind trapped in suffering.", "concerns": "Suicide."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Pioneering queer story; trauma treated with care.", "concerns": "Suicide shown as romantic gesture (safe-messaging concern)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Psychological depth about guilt and self-worth.", "concerns": "Suicide framing; religious guilt."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Classic literature, faith and duty in a strict school.", "concerns": "Suicide portrayal; same-sex romance among minors."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Grace for the guilty.", "concerns": "Suicide; same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Love among companions.", "concerns": "Same-sex romance; suicide; angelic imagery."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Love overcoming the belief in sin.", "concerns": "Dwelling on death and despair."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Worth of every person; love beyond rules.", "concerns": "Suicide messaging."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Love affirmed; healing.", "concerns": "Suicide."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity of feeling (makoto).", "concerns": "Death as impurity, suicide."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Overcoming ego and accepting grace.", "concerns": "Suicide; romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Spiritual progress of the soul.", "concerns": "Suicide forbidden; same-sex romance."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Confronting past incidents.", "concerns": "Depression and suicide themes."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Questioning religious guilt.", "concerns": "Harm to a child in Juli's past."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Teshuvah-like struggle with guilt.", "concerns": "Christian theology, suicide, same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Compassion for the suffering.", "concerns": "Christological framing; suicide."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Inclusion and healing.", "concerns": "Suicide; Christian sacrifice theme."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Inner guilt rather than public honor (ANN)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Strict boarding school life."},
+   "Civic vs kin": {"pos": 4, "evidence": "School community; estranged families (AniList)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Prefects and model students in a prestigious school (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Catholic school; Biblical references (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Feelings and longing balanced by duty."}
+  },
+  "closest": ["Puritan", "Yankeedom", "The Midlands"],
+  "japan": "A 1970s shojo classic that sets Japanese readers' romantic ideals in an imagined European Christian boarding school."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Thomas's verse states his meaning to Juli; ANN calls it melodramatic but heartfelt.",
+  "personified": [
+   {"character": "Thomas Werner", "ideology": "Self-giving love that dies for another", "role": "Other", "treatment": "Sympathetic"},
+   {"character": "Juli", "ideology": "Belief that he is unworthy of love before God", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Fair",
+  "note": "The theme of sacrificial love is spoken in Thomas's verse and in imagery, within a melodramatic but organic story (ANN)."
+ },
+ "winners_losers": "By the end each boy learns what he needs to be happy (ANN); Juli's despair yields to accepting love.",
+ "to_verify": [
+  "Exact nature of Juli's past trauma (AniList rape spoiler tag; ANN says horrific, told more than shown).",
+  "How much the ending endorses Thomas's death versus mourning it.",
+  "AniList chapter count includes seven unrelated one-shots; the Fantagraphics edition is the main story."
+ ]
+}

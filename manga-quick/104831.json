@@ -1,0 +1,94 @@
+{
+ "anilist_id": 104831,
+ "title": "Sensor",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/104831",
+  "https://api.mangaupdates.com/v1/series/54386027991",
+  "https://api.mangadex.org/manga/f74bda04-6923-4c35-a2b7-eea5a7f8cb4a",
+  "https://animeuknews.net/2021/09/sensor-review"
+ ],
+ "premise": "A single-volume Junji Ito horror story. Kyoko Byakuya, who has lost her memory, is led to a village near Mount Sengoku covered in golden volcanic glass fibres that heighten the senses; villagers gaze at the stars, objects rain from the sky, and a cult called Indigo Shadow, led by Kagero Aido, seeks to use her to reach the Akashic Records. Journalist Wataru Tsuchiyado investigates, and a local legend tells of villagers executed for sheltering a Christian missionary (Viz blurb; Anime UK News).",
+ "life_message": "The hunger for ultimate knowledge or transcendence can consume those who chase it.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Historic execution of villagers thrown into a volcano; MangaDex Gore; AniList Body Horror (review; databases)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Cosmic and body horror, grossly elongated sense organs; review calls it nightmarish (AniList Cosmic Horror 100)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None mentioned in review; AniList low-rank Succubus tag (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Amnesia, cult obsession, tragedy (AniList). Capped (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Condemned", "note": "Cult devotion framed as horror."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Pantheist/New Age", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Christian", "strength": 3, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 3, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Cosmic horror; religious persecution history; cult pursuit of hidden knowledge",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 5},
+ "foundations": {"care": 3, "loyalty": 4, "fairness": 3, "sanctity": 7, "authority": 4, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Martyrdom of villagers who sheltered a missionary recalls Japan's hidden Christians.", "concerns": "Kyoko bound to a cross in horror; occult cult; body horror."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Pride in grasping divine knowledge punished.", "concerns": "Cross imagery used in horror; disturbing images."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Persecuted believers shown sympathetically (to verify).", "concerns": "Cult, Akashic Records occultism, body horror."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Cult seeking hidden knowledge shown as destructive.", "concerns": "Christian legend mixed with cosmic horror."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Cult danger exposed.", "concerns": "Spiritual and demonic horror imagery."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Folly of seeking forbidden knowledge.", "concerns": "Cross and missionary used as horror material."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Truthful about persecution and idolatry.", "concerns": "Grotesque imagery."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Sympathy for martyrs.", "concerns": "Horror does not tend to the love of God."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Evil framed as horrific, not attractive.", "concerns": "Graphic body horror."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Martyr history resonates with Martyrs Mirror.", "concerns": "Horror media generally avoided."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Persecution for faith remembered.", "concerns": "Disturbing images; not uplifting."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Religious persecution and cult manipulation critiqued.", "concerns": "Grotesque content."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Cultic idolatry shown as ruinous.", "concerns": "Star-gazing worship and occult knowledge."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Akashic and cosmic ideas engaged.", "concerns": "Tamasic horror."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Craving for transcendence brings suffering.", "concerns": "Gore and dread."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Critique of cult control.", "concerns": "Female lead as object of cult use."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Investigative journalist seeks truth.", "concerns": "Pseudoscience (Akashic Records) as story premise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Cults shown as dangerous.", "concerns": "Gratuitous gore; faith imagery in horror."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "False religion exposed.", "concerns": "Afterlife and spiritism elements; horror."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Spiritism, cult religion and gore."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Mind and senses as theme.", "concerns": "Fear-inducing imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Freedom of conscience: persecution condemned.", "concerns": "Graphic horror."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Nature and cosmos as sacred.", "concerns": "Mystical seeking cast as monstrous."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sacred mountain and village rites.", "concerns": "Kegare of death and volcano executions."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Superstition and cultism exposed.", "concerns": "Graphic horror."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Persecution for faith condemned.", "concerns": "Occult knowledge-seeking."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Heightened perception as theme.", "concerns": "Hypnotherapist horror (to verify)."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Aesthetic horror valued.", "concerns": "Cult coercion."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Idolatry's ruin shown.", "concerns": "Avodah zarah-like star worship; gore."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Persecution remembered.", "concerns": "Graphic horror."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Religious persecution condemned.", "concerns": "Graphic horror."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "No personal honor contests; cosmic forces dominate."},
+   "Order vs freedom": {"pos": 3, "evidence": "Village customs and cult control (review)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Village community bonds, history of collective punishment."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Cult leader directs followers (review)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Local religion, legends and star-gazing rite (blurb)."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Survival against cosmic horror and disaster."}
+  },
+  "closest": ["Puritan", "Orthodox Europe", "South and Southeast Asia"],
+  "japan": "Draws on Japanese volcanic landscapes, village custom and the history of persecuted Christians in Japan, described as backdrop for Ito's horror."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Anime UK News describes grim horror, finding religious elements less interesting; no moralizing noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Ideas about knowledge and faith appear as horror imagery rather than argument."
+ },
+ "winners_losers": "No clear winners; seekers of cosmic knowledge meet horror (to verify ending).",
+ "to_verify": [
+  "Ending and fate of characters.",
+  "How Christian imagery (missionary legend, Kyoko on a cross) is framed.",
+  "Gore level (MangaDex Gore tag; review stresses body horror).",
+  "ANN review link failed; no Wikipedia cache available."
+ ]
+}

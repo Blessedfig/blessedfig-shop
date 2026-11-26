@@ -1,0 +1,89 @@
+{
+ "anilist_id": 30263,
+ "title": "Our Everlasting",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/30263", "https://api.mangaupdates.com/v1/series/34742866510"],
+ "premise": "Horyuu is a dazzling surfer idol; Shouin, calm and reserved, is drawn to him, and the two cannot forget a secret confession they once shared. The two-volume collection also includes one-shots, one about a 35-year-old art teacher who refuses a risky heart operation and chooses to live out a few more years, and a prequel to the author's Kurumi no Naka.",
+ "life_message": "Love and a life fully lived matter more than safety or appearances.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "MU lists Rape by Lover; context unknown (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Terminal heart condition in a one-shot (MU blurb)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Boys' love (AniList, MU Yaoi); MU lists Fellatio/Blowjob; MangaDex safe; capped without a review (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "A man refuses life-saving surgery and lives 'a kind of half-life' (MU); fear of abandonment."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Surfing; refusal of treatment; possessive lover (MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Surfer idol and modelling."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Environmentalism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Opposites in love; mortality and choosing how to live; surf culture",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 3, "sanctity": 2, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "The art teacher's acceptance of mortality invites reflection on death and hope.", "concerns": "Same-sex sexual relationships; teacher-student romance tag; MU rape-by-lover tag."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Remembrance of death is a spiritual theme here.", "concerns": "Passions and sexuality teaching."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Facing death honestly.", "concerns": "Same-sex romance and sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Mortality prompts questions of meaning.", "concerns": "Romance outside sexual ethic; no hope beyond death shown."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond facing illness.", "concerns": "Sexual content."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest look at mortality.", "concerns": "Same-sex desire affirmed."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation and love in the face of death; ELCA families may accept.", "concerns": "LCMS objection; teacher-student tag."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Living love fully.", "concerns": "Holiness objection."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Meditative treatment of mortality.", "concerns": "ACNA objection."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Simple seaside life.", "concerns": "Sexual content and celebrity culture."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency in choosing how to live.", "concerns": "Law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Gay love and dignity in illness.", "concerns": "Teacher-student and rape-by-lover tags need context."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Patience in illness.", "concerns": "Same-sex relations."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Acceptance of life's span.", "concerns": "Traditional families object."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Impermanence faced directly in the art teacher's story.", "concerns": "Sensual content."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Gay characters; bodily autonomy in medical choice.", "concerns": "Rape-by-lover tag."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Autonomy in choosing how to live with illness.", "concerns": "Consent questions."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Little beyond facing death with courage.", "concerns": "Same-sex romance; teacher-student theme."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Health choices taken seriously.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Declining surgery echoes reliance on non-medical choice.", "concerns": "Dwelling on disease and fear."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth and autonomy; LGBTQ affirming.", "concerns": "Context of coercion tag."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Sea and surf as natural joy.", "concerns": "Little concern."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony with the sea and nature.", "concerns": "Little concern."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Acceptance of God's will in death.", "concerns": "Relationships outside marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Detachment in the face of death.", "concerns": "Chastity teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-determination.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Living fully on one's own terms.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex relations forbidden; pikuach nefesh favours surgery."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment recognised.", "concerns": "Refusing treatment raises halakhic questions."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion and autonomy.", "concerns": "Little concern."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Personal, inward conflicts; no honour code."},
+   "Order vs freedom": {"pos": 7, "evidence": "Choices about love and medical treatment made individually."},
+   "Civic vs kin": {"pos": 4, "evidence": "Couples and friends, not families."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Idol versus quiet admirer; teacher-student pairing."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern art-school and surf culture."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Art, surfing and love over safety; teacher refuses surgery."}
+  },
+  "closest": ["New Netherland", "English-speaking", "Catholic Europe"],
+  "japan": "The quiet, restrained Shouin reflects Japanese ideals of reserve, contrasted with the flashy idol culture around Horyuu."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Blurbs suggest mood-driven, reflective stories (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes of mortality and love are left for the reader to weigh."
+ },
+ "winners_losers": "Not documented; the blurbs sympathise with characters who choose love and a fuller life.",
+ "to_verify": [
+  "Ages in the art-teacher one-shot (MU Student-Teacher Relationship): confirm no sexual content involves anyone under 18.",
+  "Context of MU Rape by Lover.",
+  "Explicitness; capped at 3.",
+  "Juné license status (possibly lapsed).",
+  "No Wikipedia cache or reviews opened."
+ ]
+}

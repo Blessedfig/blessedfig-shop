@@ -1,0 +1,90 @@
+{
+ "anilist_id": 33780,
+ "title": "Forget-me-not",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/33780",
+  "https://api.mangaupdates.com/v1/series/15941481369"
+ ],
+ "premise": "In Venice, Mariel Imari, of Italian and Japanese descent and heir to a dynasty of detectives, lounges by the canals and is a master of disguise. To inherit her grandfather's estate she must recover Forget-me-not, a painting stolen from his mansion 22 years ago, and her sisters arrive from Japan believing she is already rich (Dark Horse blurb via AniList and MU). One volume, left unfinished (MU).",
+ "life_message": "Talent matters less than effort; family ties pull even a lazy genius back to her task.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Art theft mystery (blurb)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light mystery."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Nudity and ecchi elements; romantic subplot (MU Ecchi, Mature, Nudity; AniList Nudity; MangaDex suggestive); capped without review (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Alcohol; one disguise is a 'drunken streetwalker' (blurb; MU Alcohol)."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Disguise and deception as a detective tool (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Relaxed bohemian life; family inheritance; detective craft",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Family duty to a grandfather's will; sisters reunited.", "concerns": "Nudity and drinking; sloth played lightly."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Family bonds.", "concerns": "Immodest images."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Recovering stolen property.", "concerns": "Nudity, alcohol, deception."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Justice for a theft.", "concerns": "Nudity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Family.", "concerns": "Immodesty; drinking."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Eighth commandment: theft pursued.", "concerns": "Idleness; nudity."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Family and vocation.", "concerns": "Nudity."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Family.", "concerns": "Alcohol; nudity."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Charming caper.", "concerns": "Nudity."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Sisterly bonds.", "concerns": "Worldly, immodest."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Family heritage.", "concerns": "Alcohol; nudity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Capable bicultural heroine.", "concerns": "Male-gaze art (to verify)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Alcohol and nudity."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty to family lineage.", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Unhurried life.", "concerns": "Intoxicants."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Smart, independent female detective.", "concerns": "Sexualized depiction."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Deductive reasoning.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Inheritance and lineage honored.", "concerns": "Nudity; idleness."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Family.", "concerns": "Alcohol; impure images."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Honesty about theft.", "concerns": "Immodesty."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Family.", "concerns": "Alcohol."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Bicultural identity.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Free spirit.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Ancestral lineage.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Family.", "concerns": "Alcohol; immodesty."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Family unity.", "concerns": "Alcohol."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Family dynamic.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgent life.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honor of family.", "concerns": "Tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Family heritage.", "concerns": "Immodesty."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Theft pursued by detection (blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Slacker lifestyle by the canals (blurb)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Inheritance and sisters (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Aristocratic aspirations treated lightly (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Detective lineage, secular life."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Music, books and leisure (blurb)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "The Midlands"],
+  "japan": "A Japanese-Italian heroine in Venice; obligations to a family line reflect Japanese ie (household) ideals."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "Mariel is the charming center; the master thief is her opponent.",
+ "to_verify": [
+  "No review opened; nudity level capped.",
+  "Series left unfinished (MU Axed/Discontinued); case may stay unresolved.",
+  "Dark Horse edition availability."
+ ]
+}

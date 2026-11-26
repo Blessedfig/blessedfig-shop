@@ -1,0 +1,362 @@
+{
+ "anilist_id": 107998,
+ "title": "The Wolf Never Sleeps",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/107998",
+  "https://api.mangaupdates.com/v1/series/8361861944"
+ ],
+ "premise": "Lecan, the 'One-Eyed Wolf', an adventurer seeking strength, jumps into a black hole in a labyrinth and falls into another world (Yen Press blurb; MU). Tags add medicine, magic, demons, assassins and nobility. The manga was cancelled after 3 volumes (MU).",
+ "life_message": "Strength and self-reliance carry a person through any world, and new skills such as healing widen what strength means.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU Violence, Mature genre, Assassins; AniList Swordplay (database only; capped, to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Demons, labyrinths (tags; to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MU Adult-Teenager Relationship, Age Gap; AniList Age Gap as spoiler (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted; Medicine tag concerns healing."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Lone fighter ethic."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Self-reliant strength; learning healing; survival in a new world",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 3
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 3,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lecan learns healing arts (Medicine tag).",
+   "concerns": "Violence; magic; age-gap tag to verify."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Perseverance.",
+   "concerns": "Fighting for strength and glory as passion."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Violence; adult-teen relationship tag."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Learning to heal others.",
+   "concerns": "Glory-seeking hero."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Facing demons.",
+   "concerns": "Magic and demons."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Pride in strength."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Skill as vocation.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing as service.",
+   "concerns": "Violence; age gap."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adventure story.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little; healing.",
+   "concerns": "Heroic swordplay and assassins."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-reliance.",
+   "concerns": "Violence; possible adult-teen relationship."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing.",
+   "concerns": "Power ethic; age-gap tag."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Perseverance; healing.",
+   "concerns": "Magic; violence."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Warrior dharma.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing knowledge.",
+   "concerns": "Killing; craving for strength."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gains medical skills.",
+   "concerns": "Adult-teen relationship tag (MU)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Learning and skill.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-reliance, courage.",
+   "concerns": "Mature content (MU genre)."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing knowledge.",
+   "concerns": "Violence; magic."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence, magic, demons."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing interest.",
+   "concerns": "Healing by magic and medicine; violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Growth through learning.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Magic as skill.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincere pursuit of mastery.",
+   "concerns": "Blood (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Ego in seeking glory."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Learning.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "First dynamic: survival.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-made strength.",
+   "concerns": "Age-gap tag."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing.",
+   "concerns": "Sorcery; violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Learning.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "\"One-Eyed Wolf\" seeks strength and glory."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Lone adventurer answering to no one."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Traveler without clan."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Nobility appears (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Magic and medicine mixed."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival through strength."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "El Norte",
+   "Greater Appalachia"
+  ],
+  "japan": "A lone adventurer chasing strength follows Japanese isekai light-novel conventions, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No reviews read; inferred from blurbs (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values carried by Lecan's choices in fights and training."
+ },
+ "winners_losers": "Lecan's self-reliant strength gets sympathy; story cut short.",
+ "to_verify": [
+  "MU Adult-Teenager Relationship and AniList Age Gap (spoiler): check.",
+  "Violence level (MU Mature, Violence) unverified by a review.",
+  "Axed at 3 volumes: incomplete story."
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "anilist_id": 37141,
+ "title": "BOYS LOVE",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/37141",
+  "https://api.mangaupdates.com/v1/series/46546275121",
+  "https://www.comicbookbin.com/boyslove001.html"
+ ],
+ "premise": "Magazine editor Taishin Mamiya interviews Noeru Kisaragi, a popular teen model still in high school. Noeru makes a sexual advance that Mamiya refuses, but Mamiya's loneliness draws him back, and the two form a deep bond that Noeru's childhood friend Chidori complicates. The manga adapts a Japanese film of the same title and is labelled a tragedy (AniList, MU, Comic Book Bin).",
+ "life_message": "Love and loneliness are shown as powerful enough to override social limits, at a tragic cost.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "MU lists Murder/s, Rape and Sexual Assault; single source (to verify)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Tragedy and psychological drama (AniList genres and tags; MU Tragedy); grief and broken promises (Comic Book Bin)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Noeru, a high school student, attempts oral sex on an adult (AniList blurb); MU Yaoi, Obsessive Love, Sexual Assault; publisher rating 16+ (Comic Book Bin)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Loneliness and a troubled teen (AniList blurb; Comic Book Bin); MU Tragic Past, Dead Friend/s, Loneliness."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Adult editor and high school model romance (AniList blurb and Age Gap tag; Comic Book Bin calls Noeru a teen high schooler)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Modeling and magazine world as setting."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Expressive individualism; Existentialism",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 3},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 3, "sanctity": 2, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Mamiya first refuses Noeru's advance; the tragedy shows sin's cost.", "concerns": "Adult pursuing a minor; same-sex romance; scandal toward the young (CCC 2285)."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Mamiya's loneliness portrayed honestly as a wound.", "concerns": "Passions of an adult for a teenager given way; sexual imagery."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Mamiya's initial refusal.", "concerns": "Romance between a man and a high schooler; same-sex sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Story shows grief and brokenness as real.", "concerns": "Adult-teen relationship framed as deep love; same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little beyond Mamiya's first refusal.", "concerns": "Sexual advance by a minor to an adult; assault and murder tags."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Common grace: a serious tragedy praised for craft by reviewers.", "concerns": "Seventh commandment and protection of the young; sin portrayed sympathetically."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Honest portrait of loneliness and need.", "concerns": "Love of neighbour includes protecting a minor from an adult's attachment."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Mamiya as a would-be mentor to a troubled teen.", "concerns": "Do no harm: an adult crossing into romance with a student."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Reviewer reads it as challenging rather than pleasurable; moral seriousness.", "concerns": "How the adult-teen bond is framed; sexual assault tags."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little; the cost of worldly fame.", "concerns": "Sexual content with a minor; violence; worldly modeling scene."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Mamiya's first refusal.", "concerns": "Law of chastity; an adult and a teenager; tragedy and assault."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Takes loneliness and grief seriously.", "concerns": "Power gap between an adult editor and a minor model; consent."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little; Mamiya's first refusal.", "concerns": "Same-sex relations and an adult with a minor; immodest modeling world."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Karma: the attachment leads to suffering.", "concerns": "An elder's duty to guide a youth broken by desire."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Attachment and loneliness shown producing dukkha.", "concerns": "Third precept: sexual misconduct with a minor; harm."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Gay characters given emotional depth.", "concerns": "Sexualisation of a minor; adult-minor relationship romanticised."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Psychological realism about grief.", "concerns": "Exploitation risk in an adult-minor relationship."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Little; the tragedy as warning.", "concerns": "Adult-teen romance; sexual content presented to young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Consequences of passion shown.", "concerns": "Impure passions; an adult with a minor; same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality with a youth; violence and murder tags."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Loneliness as an error to be healed.", "concerns": "Dwelling on sin, fear and death; impurity."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Inherent worth of a troubled young person.", "concerns": "Adult-minor relationship conflicts with consent education (OWL)."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Emotional honesty about need.", "concerns": "'Harm none' and consenting adults only; Noeru is a minor."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Sincerity of feeling; seaside setting (MU Ocean).", "concerns": "Kegare of death and wrongdoing; harmony broken."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little; attachment (moh) shown as destructive.", "concerns": "Kaam and moh in an adult toward a youth."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Chastity; protection of youth; violence."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Communication slowly opens Noeru up.", "concerns": "Harm to a young person; the second dynamic misused."},
+  {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Refusal of conventional restraints explored.", "concerns": "Eleven Rules: harming children; adult-minor sexual contact."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex relations; an adult with a youth; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Takes grief seriously.", "concerns": "Degrading sexual content involving a minor."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Compassion for lonely people.", "concerns": "Exploitation of a minor by an adult."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Jealousy and obsession rather than public honor drive conflict (MU Jealousy, Obsessive Love)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Love called 'forbidden' yet pursued (MU blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Childhood friend Chidori matters more than family (Comic Book Bin)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Adult editor and teen model; Mamiya tries to meet him 'on equal footing' (AniList blurb)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Secular media-world setting."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Emotional connection prized over security."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "Yankeedom"],
+  "japan": "The magazine and teen-model industry and a reticent adult who hides loneliness reflect Japanese media settings and norms of emotional restraint."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Comic Book Bin says it invites readers to question whether the relationship is romantic at all and calls it challenging.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "A tragedy that leaves judgment to the reader, according to the one review found."
+ },
+ "winners_losers": "Tragedy genre suggests no one wins cleanly; sympathy goes to the lonely pair (to verify ending).",
+ "to_verify": [
+  "Noeru's exact age and whether sexual content involving him is shown",
+  "Who commits the rape, sexual assault and murder MU lists, and how framed",
+  "Ending",
+  "English edition out of print (MU); DokiDoki license status"
+ ]
+}

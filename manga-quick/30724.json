@@ -1,0 +1,91 @@
+{
+ "anilist_id": 30724,
+ "title": "Sand Land",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30724",
+  "https://api.mangaupdates.com/v1/series/2008382881"
+ ],
+ "premise": "In a far future where war has left Earth a desert and a greedy king controls the water supply, Sheriff Rao asks the demons for help finding a lost lake. He gets the demon king's son Beelzebub and his assistant Thief, and the trio crosses the desert facing dragons, bandits and the King's army, with tank battles along the way (Viz blurb via AniList and MU).",
+ "life_message": "Ordinary people, even 'demons', can do right together against those who hoard what everyone needs.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "War, tank battles and fights with the King's army (AniList War, Military, Tanks; Viz blurb). Comic shounen style (MU Comedy)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Post-apocalyptic desert; conspiracy (AniList)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Adapted to anime, film and game (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Environmentalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Libertarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Resisting a ruler who hoards water; teamwork across prejudice; desert adventure",
+ "axes": {"economic": 4, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 7, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Common good: water for all against a greedy king.", "concerns": "Demons as heroes; war violence."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Greed condemned.", "concerns": "Demons (Beelzebub) shown as friendly heroes."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Justice for the thirsty.", "concerns": "A hero named Beelzebub, prince of demons."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Selfless quest for others.", "concerns": "Demons portrayed sympathetically."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Oppression resisted.", "concerns": "Demons as heroes is a spiritual concern."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Unjust rulers exposed.", "concerns": "Demon imagery; framing matters."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Bad rulers judged; serving neighbors.", "concerns": "Demon heroes."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Justice for the poor.", "concerns": "Demon heroes."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Whimsical fable of good versus greed.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Sharing of resources.", "concerns": "Tank warfare as adventure."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Service and courage.", "concerns": "Demons."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Water justice; prejudice overcome.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Justice and sharing water.", "concerns": "Demons/jinn as heroes."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Asuras with good hearts, as in some tales.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Greed shown as the root of suffering.", "concerns": "Fighting."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Resource justice; anti-militarist satire.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Cooperation and fairness.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Courage; distrust of tyranny.", "concerns": "Demon heroes."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Greed judged.", "concerns": "Demons as friends."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Demons and war violence."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Supply for all.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Overcoming prejudice; justice.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Supernatural beings not demonized; land and water.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Water as sacred life.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Sharing (vand chakna); defending the oppressed.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Justice and unity.", "concerns": "War."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Survival of the group.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Demon prince as rebel hero against authority.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice.", "concerns": "Demons."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Tikkun olam theme.", "concerns": "Demons."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice and repair of the world.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Battles with bandits and army (Viz blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Heroes defy the King's army (Viz blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Mixed trio, not family (AniList characters)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "King's control challenged (Viz blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Technology and demons mixed comically (MU)."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Search for water in a wasteland (Viz blurb)."}
+  },
+  "closest": ["The Far West", "Orthodox Europe", "El Norte"],
+  "japan": "Toriyama's demons draw on Japanese playful oni and yokai traditions rather than Christian demonology."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Travel adventure framing (Viz blurb); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The case against a hoarding ruler rides on the adventure plot."
+ },
+ "winners_losers": "The trio's quest gets sympathy; the greedy king and his army are the obstacle (Viz blurb).",
+ "to_verify": [
+  "No review opened.",
+  "Whether the story makes a point about prejudice against demons.",
+  "MU match was by exact title; record content matches the Viz blurb."
+ ]
+}

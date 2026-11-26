@@ -1,0 +1,90 @@
+{
+ "anilist_id": 127886,
+ "title": "The Other World's Books Depend on the Bean Counter",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/127886",
+  "https://api.mangaupdates.com/v1/series/20733259736"
+ ],
+ "premise": "When a holy maiden from modern Japan is summoned to another world, the accountant Kondou is pulled along with her; the story follows him as he works himself to exhaustion fixing the kingdom's finances, and the knight captain Aresh, who tries to save him from overwork (Yen Press blurb). A Boys' Love fantasy with economics and court politics (AniList Economics, Politics; MU Overwork, Assassination Attempts). Ongoing manga of a novel.",
+ "life_message": "Diligent, honest work matters, but a person also needs to be cared for and loved beyond their job.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Assassination attempts and conspiracy (MU; AniList spoiler); detail not checked."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Court intrigue."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Adult same-sex romance between Kondou and Aresh (blurb; MU Shounen Ai); MangaDex suggestive; level not checked (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "AniList Drugs (spoiler, 63); context not checked (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Overwork, malnutrition and sickliness (MU Workaholic, Malnutrition, Sickly Protagonist)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Shown with consequences", "note": "Workaholism shown as harmful (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Novel/anime franchise."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Competence and honest administration; critique of overwork; adult BL romance",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 7, "sanctity": 2, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Honest stewardship of public money; Aresh's care for Kondou.", "concerns": "Same-sex romance is central."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Diligence and service.", "concerns": "Same-sex romance."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Integrity in accounts.", "concerns": "Same-sex romance as the love story."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Faithful work.", "concerns": "Same-sex relationship."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Honesty.", "concerns": "Same-sex romance; magic."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Vocation and honest stewardship.", "concerns": "Same-sex romance (PC(USA) would differ)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation; rest from overwork.", "concerns": "LCMS: same-sex romance; ELCA: little."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care for the overworked.", "concerns": "Varies by body on same-sex romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Service and care for the vulnerable.", "concerns": "ACNA would raise the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humble service.", "concerns": "Worldly romance; same-sex relationship."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Self-reliance and integrity.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Caring adult same-sex relationship; critique of overwork.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Honest dealings.", "concerns": "Same-sex romance; drugs tag."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Dharma of honest duty.", "concerns": "Views on same-sex romance vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Right livelihood; balance.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer romance; anti-'corporate slave' theme.", "concerns": "Age-gap tag."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Competence, reason and wellbeing.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Hard work and fiscal prudence.", "concerns": "Same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Health and rest.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Honesty.", "concerns": "Same-sex romance; magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Healing from exhaustion through love.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Affirming love; worth beyond productivity.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Consensual adult love; balance.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity in work.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Kirat karni: honest work.", "concerns": "Same-sex romance (Akal Takht)."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service and integrity.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence and integrity.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-care over blind duty.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honest weights and measures.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Integrity; care.", "concerns": "Views vary."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive romance; just administration.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflicts settled by accounts and administration (AniList Economics)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Kondou imposes fiscal order on a kingdom (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Serves the realm as an official (MU Civil Servant)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Royal court, nobles and knights (MU Royalty, Nobility)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern accounting reasoning applied to a fantasy court."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Overwork vs care and rest is the core tension (blurb)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Confucian"],
+  "japan": "Satirizes Japan's 'shachiku' (corporate-slave) overwork culture through a salaryman who keeps working himself to exhaustion even in another world."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The critique of overwork appears to come through Kondou's situation rather than speeches (to verify)."
+ },
+ "winners_losers": "Kondou's competence and Aresh's care are sympathetic; corrupt or scheming court figures (MU Assassination Attempts) are implied opponents (to verify).",
+ "to_verify": [
+  "Level of sexual content (MangaDex suggestive).",
+  "Context of AniList Drugs and Conspiracy spoiler tags.",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

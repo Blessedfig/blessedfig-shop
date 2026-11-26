@@ -1,0 +1,94 @@
+{
+ "anilist_id": 66595,
+ "title": "cocoon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/66595",
+  "https://api.mangaupdates.com/v1/series/48099124311",
+  "https://www.comicsbeat.com/manga-review-cocoon/"
+ ],
+ "premise": "A single-volume war drama based on the true story of the Himeyuri corps of student nurses in Okinawa in the Second World War. Schoolgirls San and Mayu are drafted as assistant nurses and sent to work in cave field hospitals, where classmates die from bombing, starvation and disease. When the girls are told to make their own way home across the battlefield, they flee along the shoreline with no food, medicine or defense (VIZ blurb via AniList; Comics Beat).",
+ "life_message": "Friendship and the will to live are precious, and war cannot justify what it does to the young.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Condemned", "note": "Exploded girls, blood, maggots, burning, body fragments, amputation and a mass grave (Comics Beat); Gore and Brutality tags (AniList, MU)."},
+  {"category": "Fear and intensity", "score": 7, "framing": "Condemned", "note": "Starvation, constant death of classmates and flight through combat zones (VIZ blurb, Comics Beat; AniList Tragedy, Survival)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "Rape listed as a spoiler tag (AniList) and category (MU); not described in the review opened, capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Suicide tagged (AniList spoiler, MU Suicide/s) and hallucinations (MU); not covered in the review, capped (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Single volume; adapted to anime (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Critical theory", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Feminism", "strength": 2, "stance": "Explored"},
+  {"lens": "Collectivism/authoritarianism", "strength": 4, "stance": "Critiqued"}
+ ],
+ "dominant": "Anti-war witness; the cost of mobilizing children; friendship under extremity",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 9, "loyalty": 6, "fairness": 6, "sanctity": 4, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Significant", "aligns": "Dignity of each girl's life; war's atrocities named as evil, not glamorized.", "concerns": "Graphic wartime gore; sexual violence and suicide tagged."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Significant", "aligns": "Lament over killing and the innocent dead fits the tradition's grief over war.", "concerns": "Graphic remains and maggot-ridden wounds shown."},
+  {"frame": "Baptist", "grade": "B", "weight": "Significant", "aligns": "Truthful witness to suffering in the Okinawa caves.", "concerns": "Gore, rape and suicide content; no hope beyond this life voiced (to verify)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Shows sin's devastation through history rather than fantasy.", "concerns": "Intense gore and sexual violence for teen readers."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Significant", "aligns": "Compassion for the girls amid starvation and bombing.", "concerns": "Despair and suicide without spiritual comfort (to verify)."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Significant", "aligns": "Unflinching truth about human depravity in total war.", "concerns": "Graphic remains and sexual violence."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Significant", "aligns": "Exposes the abuse of authority that sent schoolgirls to the front.", "concerns": "Graphic content suits older teens."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Significant", "aligns": "Works of mercy by student nurses; peace emphasis.", "concerns": "Gore, rape and suicide."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Significant", "aligns": "Clear moral framing of war's evil.", "concerns": "Graphic scenes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Significant", "aligns": "War shown as wholly unheroic, supporting nonresistance.", "concerns": "Graphic depictions conservative families would avoid."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Courage and friendship of the young nurses.", "concerns": "Violent and sexual content conflicts with media counsel."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Significant", "aligns": "Centers the vulnerable victims of militarism.", "concerns": "Sexual violence and suicide need care."},
+  {"frame": "Muslim", "grade": "B", "weight": "Significant", "aligns": "Mercy toward the wounded; injustice of war on civilians.", "concerns": "Suicide shown; graphic bodies; sexual violence."},
+  {"frame": "Hindu", "grade": "B", "weight": "Significant", "aligns": "Ahimsa and grief over needless killing.", "concerns": "Graphic gore and suicide."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Significant", "aligns": "Suffering and impermanence seen with compassion.", "concerns": "Graphic violence."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Significant", "aligns": "Anti-militarist history centered on girls' experience.", "concerns": "Suicide portrayal and sexual violence need safe-messaging context."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Significant", "aligns": "Historical witness and human dignity.", "concerns": "Graphic content for younger readers."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Honors the sacrifice of real students.", "concerns": "Critique of wartime authority; graphic content."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Significant", "aligns": "Noncombatant medical service at the center; war not glorified.", "concerns": "Graphic death and sexual violence."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Significant", "aligns": "Shows the misery of nations at war, consistent with neutrality.", "concerns": "Violent imagery the organization counsels against."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Affection sustaining San and her friends.", "concerns": "Dwelling on disease, wounds and death."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Significant", "aligns": "Worth of every life; justice and peace.", "concerns": "Graphic content."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Harm none, shown by its violation.", "concerns": "Graphic content."},
+  {"frame": "Shinto", "grade": "B", "weight": "Significant", "aligns": "Remembrance of the dead of Okinawa.", "concerns": "Pervasive death and blood (kegare)."},
+  {"frame": "Sikh", "grade": "A", "weight": "Significant", "aligns": "Service to the wounded; defends the oppressed by witness.", "concerns": "Suicide and sexual violence."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Significant", "aligns": "Call for peace and the oneness of humanity.", "concerns": "Graphic content and suicide."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Significant", "aligns": "Helping others amid destruction.", "concerns": "Graphic content."},
+  {"frame": "Satanist", "grade": "B", "weight": "Significant", "aligns": "Exposes authority that sacrificed children.", "concerns": "Harm to children shown at length."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Significant", "aligns": "Value of life (pikuach nefesh) affirmed by its loss.", "concerns": "Immodest and violent imagery; sexual violence."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Significant", "aligns": "Remembering historical atrocity.", "concerns": "Graphic content."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Significant", "aligns": "Tikkun olam through bearing witness.", "concerns": "Graphic content."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Girls' lives valued in themselves; no honor code celebrated (Comics Beat)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Wartime orders shown as harmful, but no freedom ideal stated."},
+   "Civic vs kin": {"pos": 4, "evidence": "Bonds among classmates rather than family (VIZ blurb: San and best friend Mayu)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Military authority that recruits and abandons the girls is critiqued (review: atrocities unjustified)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Historical, non-religious framing of the Himeyuri story."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Starvation and flight make survival the overriding concern (VIZ blurb)."}
+  },
+  "closest": ["Catholic Europe", "Puritan", "The Midlands"],
+  "japan": "Draws on Okinawa's memory of the Battle of Okinawa and the Himeyuri students, a major subject of Japanese and Okinawan war remembrance."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 4,
+  "evidence": "Comics Beat reads it as anti-war, strongest on personal experience, with some passages 'hamfisted'; one review only.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The anti-war view is carried mainly by what happens to the girls; the militarist view is not argued on its own terms (to verify)."
+ },
+ "winners_losers": "No side wins; the girls lose classmates and childhood, and sympathy rests entirely with them against the war that used them.",
+ "to_verify": [
+  "Rape and suicide (spoiler tags on AniList and MU): who, how shown and how explicit; scores capped at 3 and may be understated.",
+  "LGBTQ+ Themes and Crossdressing spoiler tags (AniList): context not in any source opened.",
+  "Whether the ending is hopeful; not covered in the review.",
+  "Only one review (Comics Beat) on delivery; 'hamfisted' remark applies to parts of the storytelling."
+ ]
+}

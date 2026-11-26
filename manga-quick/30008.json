@@ -1,0 +1,97 @@
+{
+ "anilist_id": 30008,
+ "title": "Full Moon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30008",
+  "https://www.mangaupdates.com/series/otf3gi6",
+  "https://en.wikipedia.org/wiki/Full_Moon_o_Sagashite"
+ ],
+ "premise": "Twelve-year-old Mitsuki dreams of singing to reach her first love, Eichi, but a throat tumor threatens her voice and her grandmother forbids music. Two shinigami, Takuto and Meroko, tell her she has a year to live; Takuto lets her transform into a healthy sixteen-year-old so she can debut as the singer Full Moon. Mitsuki learns the shinigami were once people who died by suicide, faces Eichi's death, and chooses surgery and life.",
+ "life_message": "Life is precious and worth fighting for; grief and love can coexist, and dreams are pursued by choosing to live.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Condemned", "note": "An abusive mother and an attempted rape in backstories (Wikipedia)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Terminal illness, death gods and an underworld confrontation."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance between Mitsuki (12, often in a 16-year-old form) and Takuto (AniList spoiler Age Gap); an adult affair with a married boss; attempted rape in backstory (Wikipedia)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Manager Oshige drinks heavily to cope (Wikipedia)."},
+  {"category": "Mental health and self-harm", "score": 6, "framing": "Shown with consequences", "note": "Shinigami are people who died by suicide; Takuto's attempt and two other suicides in backstories (Wikipedia; AniList Suicide; MU Suicide/s)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Runs away from home to pursue her career; plastic surgery subplot."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Idol and music industry setting."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 3, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Choosing life; grief and love; pursuing a dream; afterlife fantasy",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 9, "loyalty": 7, "fairness": 5, "sanctity": 6, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Life is a gift; suicide shown as a tragic loss and Mitsuki chooses to live.", "concerns": "Death gods and an invented afterlife; romance between a child and an older youth."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Repentance-like healing of grudges among the dead and living.", "concerns": "Shinigami cosmology; suicide central."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Strong pro-life message; forgiveness within family.", "concerns": "Death spirits; age-gap romance; drinking."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Hope over despair; reconciliation with her grandmother.", "concerns": "Non-Christian afterlife system."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Healing and new life.", "concerns": "Spirits of the dead and death beings guiding a child."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Self-murder shown as tragic (WLC Q136).", "concerns": "Fate overturned by love, not providence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Grace-like second chances; family reconciled.", "concerns": "Afterlife fantasy."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Healing of hearts and care for the hurting.", "concerns": "Drinking; age gap."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Moral vision of hope and grief.", "concerns": "Romance of a 12-year-old."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Forgiveness among families.", "concerns": "Celebrity culture; afterlife spirits."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Life after death and family reunions resonate.", "concerns": "Affair and drinking subplots."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Compassionate view of those who died by suicide.", "concerns": "Safe-messaging of suicide; age-gap romance."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Suicide shown as wrong and regretted.", "concerns": "Angels of death as cute characters; music central; age-gap romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Karma of suicide worked out; life fulfilled.", "concerns": "Romance of a child."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Attachment and grief released; Eichi's soul moves on.", "concerns": "Drinking subplot."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Young girl's voice and agency; mental-health themes.", "concerns": "Suicide portrayal vs safe-messaging; child in romance with older youth."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Living fully now; medical surgery chosen.", "concerns": "Supernatural afterlife system."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Family reconciles; suicide not glamorized.", "concerns": "Runaway child; age-gap romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Life and health chosen.", "concerns": "Conscious dead and ghosts (Eichi) shown as real."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Suicide treated with compassion and regret.", "concerns": "Spirits of the dead active."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcoming fear of death.", "concerns": "Dwells on disease; surgery as cure."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of every person; healing of old wounds.", "concerns": "Age gap."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Death as passage; spirits treated gently.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Spirits of the dead comforted and released.", "concerns": "Death impurity woven throughout."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Accepting God's will and living truthfully.", "concerns": "Spirits and age-gap romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Soul progresses after death; suicide forbidden.", "concerns": "Affair and drinking subplots."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Being continues and can return.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Live life now; pursue your desire.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Life is sacred; suicide grave.", "concerns": "Necromantic-style spirits; romance of a minor."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Choosing life (Deuteronomy 30:19 theme).", "concerns": "Age gap; suicide themes."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Compassion and hope.", "concerns": "Suicide portrayal."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Wrongs healed by understanding: Izumi and his mother, Meroko and Fuzuki."},
+   "Order vs freedom": {"pos": 6, "evidence": "Mitsuki defies her grandmother and runs away to sing."},
+   "Civic vs kin": {"pos": 6, "evidence": "Family reconciliation central; bandmates as found family."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Grandmother's authority yields to Mitsuki's choice."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Spiritual afterlife alongside modern medicine and surgery."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Singing and following one's dream are the heart of the story."}
+  },
+  "closest": ["The Midlands", "Catholic Europe", "English-speaking"],
+  "japan": "Shinigami (death gods) and souls lingering through attachment draw on Japanese Buddhist and folk ideas of the dead."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Wikipedia plot: Takuto helps Mitsuki realize she must live fully; suicide's regret is told through each shinigami's backstory.",
+  "personified": [
+   {"character": "Mitsuki Koyama", "ideology": "choosing life and one's dream", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Fuzuki (grandmother)", "ideology": "music as the thing that takes loved ones", "role": "Foil", "treatment": "Fair"},
+   {"character": "Izumi", "ideology": "cold enforcement of fated death", "role": "Villain", "treatment": "Fair"}
+  ],
+  "opposing_views": "Fair",
+  "note": "Characters who oppose Mitsuki are given painful backstories and reconcile, rather than being cast as simply wrong."
+ },
+ "winners_losers": "Mitsuki lives, sings and reunites with Takuto; despair and suicide are shown as losses, and even antagonists find peace.",
+ "to_verify": [
+  "How the romance between Mitsuki and Takuto is drawn while she is 12 to 16",
+  "Whether suicide depictions follow safe-messaging norms",
+  "Reception: no critic review of the manga opened"
+ ]
+}

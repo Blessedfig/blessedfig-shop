@@ -1,0 +1,85 @@
+{
+"anilist_id": 109122,
+"title": "TenPuru -No One Can Live on Loneliness-",
+"label": "Quick read (from summaries)",
+"confidence": "low to medium",
+"sources": ["https://en.wikipedia.org/wiki/TenPuru", "https://anilist.co/manga/109122"],
+"premise": "Akemitsu Akagami, abandoned by his womanizing father and afraid he has inherited his lust, tries to become a Buddhist monk at Mikazuki Temple. The temple turns out to be run by the three Aoba sisters, and his father owes it 20 million yen, so Akemitsu stays on as a helper while resisting temptation. A harem ecchi comedy that plays monastic ideals against desire.",
+"life_message": "No one can live alone; desire is human, and connection matters more than solitary purity.",
+"overall": 7,
+"content": [
+{"category": "Violence", "score": 1, "framing": "Neutral", "note": "Slapstick (AniList Slapstick tag)."},
+{"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+{"category": "Sexuality and romance", "score": 7, "framing": "Endorsed", "note": "Frequent nudity, bath scenes, love hotel scenes and sexual manipulation plots (Wikipedia); AniList Nudity tag; MangaDex suggestive."},
+{"category": "Language", "score": 2, "framing": "Neutral", "note": "Crude sexual jokes (to verify)."},
+{"category": "Substances", "score": 1, "framing": "Neutral", "note": "Possible drinking scenes (to verify)."},
+{"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Akemitsu's fear of becoming like his father."},
+{"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Sexual manipulation played for laughs (Wikipedia)."},
+{"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Temple finances and donations (Wikipedia)."}
+],
+"lenses": [
+{"lens": "Hedonism", "strength": 4, "stance": "Affirmed"},
+{"lens": "Dharmic (Hindu/Buddhist)", "strength": 2, "stance": "Critiqued"},
+{"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+],
+"dominant": "Desire versus renunciation; harem comedy; belonging",
+"axes": {"economic": 5, "social": 6, "cultural": 6, "community": 6},
+"foundations": {"care": 4, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 3, "liberty": 6},
+"frames": [
+{"frame": "Catholic", "grade": "F", "weight": "Significant", "aligns": "Akemitsu's wish to master lust echoes the virtue of chastity.", "concerns": "Ascetic vocation mocked; nudity and sexual manipulation central."},
+{"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Struggle with the passions is acknowledged.", "concerns": "Monastic life parodied; passions fed."},
+{"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Nudity, love hotels and sexual humor."},
+{"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Lust celebrated as comedy."},
+{"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Sexual content and another religion's temple setting."},
+{"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Lascivious pictures throughout."},
+{"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Satire of self-made holiness.", "concerns": "Sixth commandment concerns."},
+{"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Does not tend to holiness."},
+{"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Gentle community among the sisters.", "concerns": "Sexual content."},
+{"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Immodesty throughout."},
+{"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Law of chastity and modesty."},
+{"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Loneliness and abandonment addressed.", "concerns": "Exploitative fan service."},
+{"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Nudity and sexual content."},
+{"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Brahmacharya ideal named.", "concerns": "Renunciation mocked; immodesty."},
+{"frame": "Buddhist", "grade": "F", "weight": "Significant", "aligns": "Buddhist concepts of desire are named.", "concerns": "Temple and monastic vows used as sexual comedy."},
+{"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Abandoned son's fears addressed.", "concerns": "Objectification and manipulation."},
+{"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Human connection over isolation.", "concerns": "Exploitative content."},
+{"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Paying a family debt.", "concerns": "Sexual content and mocked religion."},
+{"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Excites the passions."},
+{"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Sexual immorality and false worship setting."},
+{"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Dwelling on sensual thought."},
+{"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "No one lives alone: interdependence.", "concerns": "Exploitation in fan service."},
+{"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Desire as natural.", "concerns": "Manipulation and mockery of a faith."},
+{"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Shrine-maiden imagery and community donations.", "concerns": "Disrespect to sacred spaces."},
+{"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Lust celebrated."},
+{"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Mockery of religion and unchastity."},
+{"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Affinity among residents.", "concerns": "Sexual content."},
+{"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence over abstinence; mocking asceticism.", "concerns": "Manipulation without consent."},
+{"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Tzniut violated; idolatrous setting."},
+{"frame": "Conservative Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in its frame.", "concerns": "Degrading sexual content."},
+{"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Community over loneliness.", "concerns": "Exploitation."}
+],
+"folkways": {
+"dims": {
+"Dignity vs honor": {"pos": 4, "evidence": "Pride bruised comically; no vendettas."},
+"Order vs freedom": {"pos": 6, "evidence": "Temple rules repeatedly broken for comedy."},
+"Civic vs kin": {"pos": 5, "evidence": "The Aoba family temple and Akemitsu's father's debt."},
+"Equality vs hierarchy": {"pos": 5, "evidence": "Head priestess succession matters but residents are informal."},
+"Tradition vs secular-rational": {"pos": 6, "evidence": "Religious tradition treated lightly."},
+"Survival vs self-expression": {"pos": 7, "evidence": "Desire and companionship win over discipline."}
+},
+"closest": ["Catholic Europe", "New Netherland", "Yankeedom"],
+"japan": "Family-run temples with hereditary succession and community donations reflect Japanese temple Buddhism, where married clergy are common."
+},
+"delivery": {
+"style": "Woven in",
+"preachiness": 3,
+"evidence": "No review or summary in sources describes delivery; style inferred from premise and tags (to verify).",
+"personified": [
+{"character": "Akemitsu Akagami", "ideology": "Monastic renunciation of desire", "role": "Hero", "treatment": "Mixed"}
+],
+"opposing_views": "Mixed",
+"note": "Desire versus renunciation is played through harem comedy rather than argued."
+},
+"winners_losers": "Akemitsu gains a community and romance; renunciation loses. Sympathy goes to companionship and desire.",
+"to_verify": ["Kodansha USA age rating", "Explicitness of love hotel and dream scenes", "Ages of the Aoba sisters", "Delivery style, preachiness and treatment of opposing views (no source on delivery); whether the monastic ideal is only mocked or also given a fair hearing"]
+}

@@ -1,0 +1,92 @@
+{
+ "anilist_id": 106770,
+ "title": "The Frontier Lord Begins with Zero Subjects: Tales of Blue Dias and the Onikin Alna",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/106770",
+  "https://api.mangaupdates.com/v1/series/17528439054"
+ ],
+ "premise": "Manga adaptation of a light novel. After decades of war, the soldier Dias returns home a hero and is granted a domain that turns out to be empty grassland with no subjects. Unsure how to live as anything but a soldier, he meets Alna, a horned Onikin girl, and begins building a frontier community; database tags list marriage, adoption and a found family (J-Novel Club blurb; MU and AniList tags).",
+ "life_message": "A kind, hard-working life of building a home and community matters more than military glory.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Action genre; veteran soldier protagonist (blurb, MU). Fights not described (to verify)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Slice-of-life and comedy genres (AniList)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Married couple with an age gap, older man and younger woman (MU); MU also lists a Rape category, context unknown, capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Veteran's adjustment to peace (blurb)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Light-novel adaptation (MU Based on a Novel)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Building community from nothing; found family; a soldier's turn to peace",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 7},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Marriage, adoption and building a community around the common good.", "concerns": "Age-gap marriage and a Rape category in MU need checking."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "A warrior turning to peaceful stewardship.", "concerns": "Demon and oni beings among the cast (AniList Demons tag)."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Husband who is kind and hard-working (MU Kind Male Lead).", "concerns": "Magic and fantasy races; unverified sexual-violence category."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Found family and hospitality to outsiders.", "concerns": "Fantasy magic."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Generous frontier life.", "concerns": "Magic and demons in the setting."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Vocation and stewardship of land.", "concerns": "Magic framing (to verify)."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Lawful lord serving his people.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Service to the needy who settle the land.", "concerns": "Slavery category context (to verify)."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Orderly, hospitable community.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Agrarian simplicity and mutual aid.", "concerns": "Hero defined first by war."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Family-building and self-reliance.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Welcomes different peoples to the domain.", "concerns": "Older-man, younger-woman pairing; slavery context."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Married couple and hospitality.", "concerns": "Magic and demons."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Householder dharma of a lord.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Turning from war to peaceful work.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Diverse races building together.", "concerns": "Age-gap marriage dynamics; a Transgender spoiler tag needs checking for respectful handling."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Practical problem-solving on the frontier.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Veteran, husband and lord building a home from scratch.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Simple rural life.", "concerns": "Magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Married life and peace.", "concerns": "Magic and demons in fantasy setting."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Abundance grows from empty land.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Pluralist community.", "concerns": "Age-gap marriage."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Living close to land and animals.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony with land; oni portrayed sympathetically.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work and sharing with newcomers.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity of different peoples.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Building a functioning group.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-made life outside the capital.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Marriage and household building.", "concerns": "Magic."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Community and hospitality.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Welcoming the stranger.", "concerns": "Slavery context (to verify)."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "War hero's standing balanced against plain living (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Lord sets up order on open frontier."},
+   "Civic vs kin": {"pos": 6, "evidence": "Married couple, adoption and found family (MU, AniList)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Lord and subjects structure (MU Lord/s, Kingdom Building)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Agrarian, customary frontier life with Onikin culture (MU Different Culture/s)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Starting from empty grassland; agriculture and subsistence (MU Agriculture)."}
+  },
+  "closest": ["Orthodox Europe", "Tidewater", "El Norte"],
+  "japan": "Follows the Japanese light-novel 'slow life' and kingdom-building pattern, with oni drawn from Japanese folklore."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; values carried by kingdom-building premise (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values appear to come through Dias's choices as a lord (to verify)."
+ },
+ "winners_losers": "Dias and Alna build a growing domain; sympathy rests with peaceful community-building (to verify).",
+ "to_verify": [
+  "No review or Wikipedia cache opened; database and publisher blurb only.",
+  "MU lists Rape and Slavery categories: context and how shown unknown; sexuality score capped and may be understated.",
+  "Alna's age relative to Dias (Age Gap; Older Male Younger Female).",
+  "Transgender spoiler tag (AniList, rank 20): character and treatment."
+ ]
+}

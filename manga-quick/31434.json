@@ -1,0 +1,365 @@
+{
+ "anilist_id": 31434,
+ "title": "Dry Heat",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31434",
+  "https://api.mangaupdates.com/v1/series/23380077159",
+  "https://www.comicbookbin.com/dryheat001.html"
+ ],
+ "premise": "As a small boy, Tatsuhiko asked his family's young servant Itaru to marry him once he became a politician and changed the law so two men could wed. Years later Tatsuhiko vanishes from his elite boarding school, and Itaru, sent to find him, discovers how much he has changed (AniList, MU, Comic Book Bin).",
+ "life_message": "Childhood promises are tested by time, and longing has to meet the person as he is now.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Kidnapping and injury listed (MU; to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mystery of the disappearance (Comic Book Bin)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Sex plays a lesser part than longing (Comic Book Bin, which lists the book as 18+ Mature); MU Anilingus; age gap with the family servant (AniList, MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Tragic past (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Running away from school (MU Runaway/s)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 7,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Itaru's faithful duty to the family.",
+   "concerns": "Same-sex sex; servant and young charge romance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Faithfulness across years.",
+   "concerns": "Same-sex intimacy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex sex; possible minor."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Keeping one's word.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Promise and change examined.",
+   "concerns": "Lascivious content."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Service to the household.",
+   "concerns": "LCMS: same-sex sex."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Caring duty.",
+   "concerns": "Age gap and sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Memory-driven story.",
+   "concerns": "Views differ; age gap."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful service.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Keeping promises.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "A child's hope to legalize same-sex marriage.",
+   "concerns": "Caretaker and charge power gap."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty to a household.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "A servant's dharma to a family.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Impermanence of childhood bonds.",
+   "concerns": "Attachment; age gap."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage-equality hope voiced.",
+   "concerns": "Caretaker and charge dynamic."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Change and memory.",
+   "concerns": "Power imbalance."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty in family service.",
+   "concerns": "Same-sex romance; political aim."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love enduring change.",
+   "concerns": "Sensual images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Worth of same-sex love.",
+   "concerns": "Power imbalance."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Desire honored.",
+   "concerns": "Power imbalance."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Household loyalty.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal service.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Chastity; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication resolves the mystery.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tatsuhiko chooses his own path.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex acts."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Marriage-equality hope.",
+   "concerns": "Power gap."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Family firm's standing (Comic Book Bin)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "A boarding-school runaway (MU)."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Servant bound to the Sendou family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Master-servant relationship (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Wish to change the marriage law (AniList)."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Personal love versus family role."
+   }
+  },
+  "closest": [
+   "Latin America",
+   "El Norte",
+   "Catholic Europe"
+  ],
+  "japan": "A retainer serving a wealthy house's heir reflects Japanese household-service traditions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Comic Book Bin notes memory and change carried by the plot.",
+  "personified": [
+   {
+    "character": "young Tatsuhiko",
+    "ideology": "two men should be able to marry",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "The marriage hope is a character's wish, not narration."
+ },
+ "winners_losers": "Itaru finds the changed Tatsuhiko (Comic Book Bin); how their bond ends is to verify.",
+ "to_verify": [
+  "Tatsuhiko's age when the romance begins",
+  "Explicitness (Comic Book Bin lists 18+ Mature)",
+  "Old Juné print license (MU)"
+ ]
+}

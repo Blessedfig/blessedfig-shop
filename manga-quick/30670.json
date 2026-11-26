@@ -1,0 +1,92 @@
+{
+  "anilist_id": 30670,
+  "title": "Bokurano: Ours",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/30670",
+    "https://www.mangaupdates.com/series/a9q15my"
+  ],
+  "premise": "Fifteen children exploring a seaside cave meet a stranger who invites them to 'play a game' piloting a giant robot against alien invaders, and they sign his contract. They learn that each battle is piloted by one child, who dies after it, and that losing means the destruction of their entire world. Mohiro Kitoh's seinen tragedy gives each child a chapter arc confronting death, family secrets, abuse and what their life has meant.",
+  "life_message": "Facing a death you cannot escape, a life gains meaning through what you choose to protect and how you treat others in the time left.",
+  "overall": 8,
+  "content": [
+    {"category": "Violence", "score": 7, "framing": "Shown with consequences", "note": "Robot battles destroy cities and kill thousands; every pilot dies (AniList Death Game, Gore 70; MU Play or Die Situation, Violence)."},
+    {"category": "Fear and intensity", "score": 8, "framing": "Shown with consequences", "note": "Children facing certain death; cosmic horror premise (AniList Cosmic Horror 100, Tragedy 98; MU Despair, Mind Break)."},
+    {"category": "Sexuality and romance", "score": 7, "framing": "Condemned", "note": "Sexual abuse of a child character, including rape and resulting pregnancy (AniList Rape 60 spoiler; MU Sexual Abuse 22 votes, Rape, Teen Pregnancy). MU also lists gang rape (7 votes; to verify)."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Harsh speech between children (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 7, "framing": "Shown with consequences", "note": "Despair, revenge and bullying among doomed children (AniList Bullying 56; MU Mind Break, Psychological Trauma, Child Abuse)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "A child uses the robot for revenge (to verify)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 8, "stance": "Explored"},
+    {"lens": "Utilitarianism", "strength": 6, "stance": "Critiqued"},
+    {"lens": "Nihilism", "strength": 5, "stance": "Critiqued"},
+    {"lens": "Absurdism", "strength": 4, "stance": "Explored"},
+    {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"}
+  ],
+  "dominant": "Existential meaning before death; critique of sacrificing the few for the many",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Children choosing to protect others in their last days; dignity of each life.", "concerns": "Sexual abuse of a minor and despair; meaning without God."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Remembrance of death as a teacher.", "concerns": "Abuse and revenge shown at length."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Sacrifice for others.", "concerns": "Sexual abuse, killing and no hope of salvation."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Laying down one's life for friends.", "concerns": "Rape of a child character; bleak worldview."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Choosing love when facing death.", "concerns": "Abuse and a demonic-seeming contract."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Unflinching picture of a fallen world and mortality.", "concerns": "Sexual abuse depiction; absence of providence."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Vocation to protect neighbors with one's last act.", "concerns": "Abuse content."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Children doing good in their last days.", "concerns": "Abuse and despair."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Serious moral vision on death and duty.", "concerns": "Sexual violence."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Questions whether killing others' worlds can be right.", "concerns": "Warfare of worlds; abuse."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Life's purpose and agency examined.", "concerns": "Sexual abuse; violence."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Critiques adults and systems that sacrifice children.", "concerns": "Graphic abuse."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Accountability for how one lives.", "concerns": "Sexual abuse; despair."},
+    {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Duty and acceptance of death (Gita-like).", "concerns": "Adharma of abusers shown graphically."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Significant", "aligns": "Impermanence and right action before death.", "concerns": "Violence and abuse."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Exposes child abuse and institutional exploitation of children.", "concerns": "Sexual violence against a minor."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Meaning made in this life only; ethics of sacrifice debated.", "concerns": "Abuse depiction."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Duty and sacrifice for one's people.", "concerns": "Abuse and nihilistic tone."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Death as real end.", "concerns": "Violence and abuse."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Human governments fail children.", "concerns": "Violence; immorality."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Courage in facing fear.", "concerns": "Death and abuse dominate thought."},
+    {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Worth of each child explored in turn.", "concerns": "Abuse."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Death part of the cycle.", "concerns": "Non-consensual harm."},
+    {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Honoring the dead children.", "concerns": "Kegare of death everywhere."},
+    {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Acceptance of hukam and selfless action.", "concerns": "Lust and anger shown."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Soul's purpose questioned.", "concerns": "Violence and abuse."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Survival across dynamics.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Living fully now without afterlife.", "concerns": "Harm to children condemned."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Value of each life.", "concerns": "Sexual abuse; bloodshed."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Ethical weight of every choice.", "concerns": "Abuse."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Justice for exploited children.", "concerns": "Abuse."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 5, "evidence": "Some children use the robot for personal revenge; others refuse (to verify)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Contract binds; government and military step in (AniList Politics, Military)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Children weigh family against saving everyone."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Children as peers; adults in power exploit."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular, philosophical framing (AniList Philosophy)."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "World survival versus individual life."}
+    },
+    "closest": ["Catholic Europe", "Confucian", "Orthodox Europe"],
+    "japan": "Acceptance of fate (shikata ga nai) and self-sacrifice for the group reflect Japanese cultural themes explored rather than endorsed."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Meaning before death carried by each child's arc; no review on delivery found (to verify).",
+    "personified": [],
+    "opposing_views": "Mixed",
+    "note": "Its critique of sacrificing the few is carried by the children's stories rather than stated, per summaries."
+  },
+  "winners_losers": "No one survives the contract; abusers and exploitative adults lose sympathy, and the children who protect others in their last act get it.",
+  "to_verify": [
+    "Wikipedia article not fetched (rate-limited)",
+    "Details and framing of the rape/abuse arc; MU 'Gang Rape' category (7 votes)",
+    "Viz age rating (likely Mature)"
+  ]
+}

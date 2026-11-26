@@ -1,0 +1,367 @@
+{
+ "anilist_id": 31126,
+ "title": "Ohikkoshi",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31126",
+  "https://api.mangaupdates.com/v1/series/47078727831",
+  "https://mangablog.mangabookshelf.com/2007/04/17/review-ohikkoshi/"
+ ],
+ "premise": "A one-volume collection by Hiroaki Samura: the title story follows twenty-something art students in Kyoto who fall in love and lust, play in bands, drink and avoid decisions, centered on a love triangle; 'Luncheon of Tears Diary' follows a would-be manga artist through men, gang trouble and a mahjong habit (Dark Horse blurb via AniList; Manga Bookshelf review). The reviewer calls it messy, realistic 'manga for grown-ups' with lots of time in bars but little nudity or sexual imagery.",
+ "life_message": "It treats young adulthood as messy and uncertain, valuing honesty about desire and indecision over tidy morals.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Gang warfare mention (blurb); a café fire and death (review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dramatic revelations; a death (review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Students 'sleep together' and 'fall in lust' (blurb); adult-oriented but little imagery (review)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult slacker cast; not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Much time drinking in bars (review); drunk decisions (blurb); mahjong habit."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romantic confusion and loss."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Drinking, gambling and drifting shown as normal student life."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Absurdism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Young-adult drift; love triangles; art-school bohemia",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 7,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest look at youthful confusion.",
+   "concerns": "Casual sex and heavy drinking without consequences noted."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond honest portrayal.",
+   "concerns": "Lust and drunkenness indulged."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Premarital sex; drinking; gambling."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Realistic picture of drifting youth.",
+   "concerns": "Sex outside marriage; drunkenness."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Worldliness, drink, sexual immorality."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful about human folly.",
+   "concerns": "Sexual sin and drunkenness unexamined."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation questions of young artists.",
+   "concerns": "Drunkenness; sex outside marriage."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Alcohol and gambling run against holiness rules."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wry literary realism.",
+   "concerns": "Drinking; casual sex."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Simplicity absent; little to raise.",
+   "concerns": "Worldliness, drink and sex."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Alcohol central; chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Complex adults treated with empathy.",
+   "concerns": "Heavy drinking."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Alcohol, gambling, sex outside marriage."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Artha and kama explored in youth.",
+   "concerns": "Intoxicants."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Craving and drift shown honestly.",
+   "concerns": "Fifth precept: intoxicants."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Messy, realistic relationships (review).",
+   "concerns": "Drinking glamor for young readers."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ambiguity treated maturely (review).",
+   "concerns": "Drinking."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Promiscuity and drifting idleness."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Alcohol, sex, gambling."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Drunkenness, immorality, gambling."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Alcohol; sensual life dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Varied adult lives.",
+   "concerns": "Addiction risks."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freedom of adults.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kyoto life and festivals.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Alcohol; lust."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Arts as calling.",
+   "concerns": "Alcohol, gambling, unchastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little to raise.",
+   "concerns": "Drink and drift."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and freedom of adults.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Sex outside marriage; drunkenness."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest adult portrait.",
+   "concerns": "Drinking; sexual ethics."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Realistic adult relationships.",
+   "concerns": "Drinking."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Comedic, no honor duels."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Students left to drift and choose."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friend groups over family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Peers as equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular bohemian life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Art, music and pleasure over security."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "The Left Coast"
+  ],
+  "japan": "Kyoto art-school life and its drinking culture reflect Japanese university norms, shown without judgment."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewer notes no tidy moral endings and that Samura doesn't talk down.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The book avoids stating lessons."
+ },
+ "winners_losers": "No clear winners; the love triangle and drifting lives resolve ambiguously (review).",
+ "to_verify": [
+  "Sexual imagery level (review says little).",
+  "Language not documented."
+ ]
+}

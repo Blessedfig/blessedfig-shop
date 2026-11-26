@@ -1,0 +1,363 @@
+{
+ "anilist_id": 118062,
+ "title": "The Cat Proposed",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/118062",
+  "https://api.mangaupdates.com/v1/series/32932843362",
+  "https://butwhytho.net/2021/02/12/review-the-cat-proposed/"
+ ],
+ "premise": "Exhausted office worker Souta, who has gone weeks without a break and is near the end of his rope, wanders into a traditional storytelling performance and notices the performer Kihachi has cat ears. Kihachi is a bakeneko, a shapeshifting cat of Japanese folklore, and having learned his secret Souta must either die or become his spouse; their quick bond pulls Souta out of his depression (TOKYOPOP blurb, But Why Tho review). One volume.",
+ "life_message": "Being needed and loved can give an exhausted person a reason to keep living.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Threat of death for knowing the secret (review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Supernatural ultimatum (review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "'Steamy moments' and uncomfortable advances, with Kihachi backing off at boundaries (review); MangaDex 'safe'; capped at 3 (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Suicidal ideation and depression from overwork (review content warning; MU Suicidal Character, Depression; AniList Suicide)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Accepting a bond under threat framed as romance; reviewer calls it a trauma bond."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pantheist/New Age",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Existentialism, Pantheist/New Age",
+ "axes": {
+  "economic": 4,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Life chosen over despair.",
+   "concerns": "Same-sex union with a spirit; marriage under threat."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Despair overcome.",
+   "concerns": "Spirits and passions; same-sex union."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Hope after despair.",
+   "concerns": "Supernatural spirit marriage; same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Finding reason to live.",
+   "concerns": "Spirit being and same-sex union."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescue from despair.",
+   "concerns": "A yokai spirit as spouse is spiritually concerning."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Critique of overwork's toll.",
+   "concerns": "Teaching on marriage and spirits."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rest from crushing labor.",
+   "concerns": "Same-sex romance; spirit lore."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Care for the despairing.",
+   "concerns": "Spirits and sexuality."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope and companionship.",
+   "concerns": "ACNA traditional; consent."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Turning from worldly toil.",
+   "concerns": "Spirits and romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Life valued.",
+   "concerns": "Spirit marriage and same-sex union."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mental health and overwork addressed.",
+   "concerns": "Coercive premise; trauma bond."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Life preserved.",
+   "concerns": "Shapeshifting spirit as spouse; same-sex union."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Life over suicide.",
+   "concerns": "Coercion; traditional views."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Relief of suffering.",
+   "concerns": "Attachment as cure."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Depression and burnout taken seriously.",
+   "concerns": "Coercive 'mate or die' premise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critique of overwork.",
+   "concerns": "Supernatural coercion; consent."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Life chosen.",
+   "concerns": "Same-sex union and spirits."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rest from toil.",
+   "concerns": "Spiritism and same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Life over despair.",
+   "concerns": "Spirits and immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Despair overcome.",
+   "concerns": "Fear-based ultimatum."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of a burnt-out worker.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Animal spirits honored.",
+   "concerns": "Coercion violates 'harm none'."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Bakeneko and traditional storytelling (koudan) shown respectfully.",
+   "concerns": "Death theme (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Life valued.",
+   "concerns": "Lust; spirit beliefs."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Hope.",
+   "concerns": "Chastity; spirits."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Survival dynamic restored.",
+   "concerns": "Psychiatry not addressed."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choosing life and pleasure.",
+   "concerns": "Coercive advances."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Life preserved.",
+   "concerns": "Spirits and same-sex union."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Life chosen.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mental health.",
+   "concerns": "Coercion."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Secret enforced by threat."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Company control vs freedom."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "New household with the cat."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Overwork hierarchy."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Folklore and traditional performance."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival from burnout."
+   }
+  },
+  "closest": [
+   "Puritan",
+   "First Nation",
+   "Tidewater"
+  ],
+  "japan": "Bakeneko lore and koudan storytelling are Japanese traditions, and overwork (karoshi culture) is a recognized Japanese issue, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Review notes depression lifted through the relationship, without commentary.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Recovery is shown through romance rather than stated."
+ },
+ "winners_losers": "Souta finds a reason to live with Kihachi; the reviewer describes it as a trauma bond.",
+ "to_verify": [
+  "How suicide is depicted",
+  "Sexual content level",
+  "Ending"
+ ]
+}

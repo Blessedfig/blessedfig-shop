@@ -1,0 +1,362 @@
+{
+ "anilist_id": 122817,
+ "title": "Hello, Green Days",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/122817",
+  "https://api.mangaupdates.com/v1/series/16555426422"
+ ],
+ "premise": "Tomo, a shy botany graduate student who is afraid of love, invites Yoji, an intimidating but kind new lab member who is barely getting by, to move in. When Yoji confesses, Tomo accepts and must learn, for the first time, how to be someone's boyfriend while facing past trauma and homophobia (MangaPlaza blurb, MangaUpdates). One volume.",
+ "life_message": "Patient, kind love can teach a fearful person that he is worth loving.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Karate appears (MU) (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Low-stakes romance."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult graduate students; MU lists first-time intercourse; MangaDex 'safe'; capped at 3 (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Trauma and insecurity; homophobia faced (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Moving in quickly with a new acquaintance."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Naturalism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Secular humanism, Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Yoji's patient kindness and Tomo's hospitality.",
+   "concerns": "Same-sex sexual relationship and cohabitation."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentle, humble love.",
+   "concerns": "Same-sex passions affirmed."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Hospitality to a struggling peer.",
+   "concerns": "Same-sex romance with sexual content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kindness over appearances.",
+   "concerns": "Same-sex relationship and cohabitation."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Care for the needy.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Common grace in study of creation (botany).",
+   "concerns": "Teaching on sexuality."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Vocation in research; neighbor-love.",
+   "concerns": "LCMS/WELS teaching."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Hospitality and kindness.",
+   "concerns": "Holiness teaching on sexuality."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle love and hospitality.",
+   "concerns": "ACNA families traditional."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Simple life of study and sharing.",
+   "concerns": "Worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness and education.",
+   "concerns": "Law of chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Affirming story facing homophobia.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Generosity to a struggling student.",
+   "concerns": "Same-sex sexual relationship."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Study and kindness.",
+   "concerns": "Traditional views."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentleness and patience.",
+   "concerns": "Attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "LGBTQ love and recovery from homophobia.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Science and kindness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work in study.",
+   "concerns": "Same-sex cohabitation."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for plants and health.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love overcoming fear.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inherent worth affirmed.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Plants and green growth as love's image.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Nature and sincerity.",
+   "concerns": "Little doctrine at stake."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Sharing with the needy (vand chakna).",
+   "concerns": "Same-sex union."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Science and service.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication in first relationship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Overcoming fear to pursue desire.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hospitality (hachnasat orchim).",
+   "concerns": "Same-sex relationship."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dignity and kindness.",
+   "concerns": "Varies."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inclusive love.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Conflict is inner fear."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Personal choices in love."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Lab peers, not family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Senpai-kohai lab roles (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Academic science setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Emotional growth central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Protestant Europe"
+  ],
+  "japan": "The senpai-kohai lab relationship reflects Japanese academic norms, shown as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb and tags only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No explicit message delivery in sources."
+ },
+ "winners_losers": "Tomo learns to accept love from Yoji; homophobia appears as past harm (to verify).",
+ "to_verify": [
+  "Homophobia subplot",
+  "Sexual content level",
+  "License status (MangaPlaza)"
+ ]
+}

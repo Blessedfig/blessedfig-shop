@@ -1,0 +1,80 @@
+{
+ "anilist_id": 150440,
+ "title": "RuriDragon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/RuriDragon",
+  "https://www.slj.com/review/ruridragon-vol-1-100008038",
+  "https://www.animenewsnetwork.com/review/ruridragon/volume-1/.219721",
+  "https://anilist.co/manga/150440",
+  "https://www.mangaupdates.com/series/rymwscf"
+ ],
+ "premise": "High schooler Ruri Aoki wakes up with horns and learns from her mother that her never-mentioned father is a dragon, making her half-dragon. She keeps going to school while sneezing fire and sparking electricity, and the sudden attention pulls the somewhat unsocial girl into new friendships. The tone is mundane, dry slice-of-life comedy.",
+ "life_message": "It holds up accepting yourself and others as you are, and letting ordinary kindness connect you.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Accidental fire breath and electric sparks; no fights noted (ANN; SLJ)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Mild worry about being stared at (ANN)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted (ANN; SLJ)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not flagged (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Social anxiety and fear of judgment, handled gently (ANN)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Expressive individualism, Communitarianism",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 5, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Ruri's mother cares for her faithfully; classmates learn to accept difference.", "concerns": "Father's absence and secrecy may prompt talk about family."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Gentle humility and patience in Ruri's daily life.", "concerns": "Little to raise."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Kindness to the one who is different (Romans 15:7).", "concerns": "Little to raise beyond a dragon parent."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Identity and belonging handled warmly.", "concerns": "Little to raise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Community welcoming Ruri.", "concerns": "Dragon heritage is fantasy, not occult; minor."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Common-grace comedy about ordinary life.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "S", "weight": "Minor", "aligns": "Ordinary daily life of school and meals with mother honored.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "S", "weight": "Minor", "aligns": "Inclusion of a classmate who is visibly different.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "S", "weight": "Minor", "aligns": "Gentle fantasy with warmth and humor.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Minor", "aligns": "Peaceable, simple story; community care.", "concerns": "Worldly school setting only."},
+  {"frame": "Latter-day Saint", "grade": "S", "weight": "Minor", "aligns": "Clean, kind story centered on mother and daughter.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "S", "weight": "Minor", "aligns": "Bookstore staff praised it as a story that accepts diversity without hesitation (Wikipedia).", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "A", "weight": "Minor", "aligns": "Kindness to neighbors and classmates (ihsan); mother's devotion.", "concerns": "Little to raise."},
+  {"frame": "Hindu", "grade": "S", "weight": "Minor", "aligns": "Respect between mother and daughter; mythic beings as natural.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "S", "weight": "Minor", "aligns": "Equanimity in the face of sudden change.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Acceptance of difference; social anxiety treated kindly.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Empathy and humor in everyday life.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Close mother-daughter bond; ordinary school duties.", "concerns": "Absent father unexplained."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Kindness and simple daily life.", "concerns": "Little to raise."},
+  {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Peaceful, kind classmates.", "concerns": "Fantasy powers (mild)."},
+  {"frame": "Christian Science", "grade": "S", "weight": "Minor", "aligns": "Calm response to strange events; fear replaced by acceptance.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Worth and dignity of someone different.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "S", "weight": "Minor", "aligns": "Mythic heritage embraced.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Dragon (ryu) heritage in everyday Japanese life, at home with kami traditions.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Equality and kindness toward all classmates.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "S", "weight": "Minor", "aligns": "Unity and acceptance of difference.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Honoring one's parent; competence in coping.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Outsider owning her difference.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "A", "weight": "Minor", "aligns": "Kibbud em and kind speech.", "concerns": "Haredi families may avoid fantasy elements."},
+  {"frame": "Conservative Jewish", "grade": "S", "weight": "Minor", "aligns": "Dignity and kindness.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "S", "weight": "Minor", "aligns": "Acceptance of difference.", "concerns": "Little to raise."}
+ ],
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "SLJ and ANN volume reviews cited in the entry; acceptance is shown through classmates adjusting, no lecture noted (to verify)",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Acceptance of difference is carried by everyday school scenes rather than speeches."
+ },
+ "winners_losers": "Acceptance and everyday kindness win; snap judgments lose. Sympathy goes to the girl who is different and the classmates who adjust.",
+ "to_verify": [
+  "Viz age rating (SLJ recommends grade 8 and up)",
+  "Content of later chapters after the series' return"
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "anilist_id": 118960,
+ "title": "Great Pretender",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/118960",
+  "https://api.mangaupdates.com/v1/series/67881830356",
+  "https://api.mangadex.org/manga/3c3d1cd2-a609-4450-bf30-76b8d4a503af"
+ ],
+ "premise": "Makoto Edamura, supposedly Japan's greatest swindler, tries to con Frenchman Laurent Thierry and is conned himself (MU; MangaDex). Laurent pulls him into a scheme in Los Angeles to swindle a movie producer who deals drugs (Seven Seas blurb). A manga adaptation of the anime that stopped after one volume.",
+ "life_message": "Clever deception aimed at bigger criminals is presented as thrilling; trust is the open question.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mafia milieu (AniList, MU); action genre."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Crime thriller tension."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Heterosexual spoiler tag only."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Crime setting; not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Target is a drug dealer (blurb; AniList Drugs)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Con artistry is the heroes' trade (blurbs; AniList Crime, Anti-Hero)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Hollywood setting."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Con artists swindling worse criminals; trust and betrayal",
+ "axes": {
+  "economic": 6,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Exposes powerful wrongdoers.",
+   "concerns": "Lying and theft glamorised."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Deception as heroism."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Drug dealer as villain.",
+   "concerns": "Lying and swindling."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Evil exposed.",
+   "concerns": "Deceptive heroes."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Crime glamour."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wicked are caught in their own snare.",
+   "concerns": "Ninth commandment issues."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Wrongdoers punished.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Lying."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Caper fun.",
+   "concerns": "Lying."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Crime milieu."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Anti-drug villain.",
+   "concerns": "Dishonesty."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Targets the powerful and corrupt.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Drug dealer opposed.",
+   "concerns": "Lying."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Asatya (untruth)."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "False speech precept."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Punching up at the powerful.",
+   "concerns": "Crime glamour."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Clever reasoning.",
+   "concerns": "Deceit."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Glamorised crime."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Lying."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Deception; crime."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Little.",
+   "concerns": "Dishonesty."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Questions trust.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Wit.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Little.",
+   "concerns": "Insincerity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work contrasted.",
+   "concerns": "Lying."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Dishonesty."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Anti-drug.",
+   "concerns": "Untrustworthy heroes."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Outwitting authority.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Falsehood."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Deception."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Targeting exploiters.",
+   "concerns": "Deception."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Rivalry by wits."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Outlaws."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Crew loyalty."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Loose crew."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Cynical modern world."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Thrills and wealth."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Far West",
+   "Catholic Europe"
+  ],
+  "japan": "A Japanese con man abroad, with contrasts between Japanese reserve and a flamboyant French mentor."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Caper blurbs; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Morality is ambiguous."
+ },
+ "winners_losers": "Clever con artists outwit a drug-dealing producer (per blurb).",
+ "to_verify": [
+  "Only one volume published; series stopped (MU hiatus, MangaDex cancelled).",
+  "Content mirrors the anime; check drug depiction."
+ ]
+}

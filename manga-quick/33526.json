@@ -1,0 +1,93 @@
+{
+ "anilist_id": 33526,
+ "title": "Fate/Kaleid Liner Prisma Illya",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/33526",
+  "https://api.mangaupdates.com/v1/series/16677431220",
+  "https://www.penguin.co.nz/books/fate-kaleid-liner-prisma-illya-the-complete-manga-collection-9798891608801",
+  "https://animenewsnetwork.com/press-release/2024-09-19/seven-seas-licenses-fate-kaleid-liner-prisma-illya-the-complete-manga-collection/.215744"
+ ],
+ "premise": "An alternate-universe spin-off of Fate/stay night: Illya, a wealthy elementary-school girl with a secret crush who loves magical-girl anime, is tricked by a talking 'Kaleidostick' wand named Ruby into a contract and becomes a magical girl who must fight to save the world (Seven Seas blurb; Penguin; ANN press release). A short two-volume manga, collected by Seven Seas as a 410-page complete edition (Penguin; MU), and the start of a large anime franchise.",
+ "life_message": "Courage and friendship let an ordinary girl rise to an extraordinary task.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Magical battles with swords, spears and arrows (AniList Swordplay, Spearplay, Archery); not described by sources."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Save-the-world fights in a comedic parody frame (AniList Parody)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Ecchi genre on AniList and MU, MU Partial Nudity, MangaDex 'suggestive', with a primarily child cast (AniList); capped for lack of a review, possibly higher (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not checked (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Dissociative identities tag (AniList, spoiler) (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Signing a contract under trickery; MU Brother Complex."},
+  {"category": "Commercial", "score": 4, "framing": "Neutral", "note": "Spin-off of Fate franchise with fan-favorite characters (Seven Seas blurb) and long anime franchise (MU Adapted to Anime)."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Magical-girl parody; franchise fan service; friendship",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Illya's courage to protect others.", "concerns": "Ecchi framing of elementary-age girls; magic contracts."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Childlike bravery.", "concerns": "Sexualized imagery of children; occult-style magic."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Friendship and sacrifice.", "concerns": "Fan service involving children; magic and witch elements."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "An ordinary child stepping up.", "concerns": "Ecchi content with child cast."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Fighting evil forces.", "concerns": "Magical contracts and witch imagery; child fan service."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Good versus evil.", "concerns": "Lascivious imagery (WLC Q139) involving children."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Courage and friendship.", "concerns": "Ecchi with young characters."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Protecting others.", "concerns": "Fan service of children."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Fantasy heroism.", "concerns": "Sexualized framing of a child cast."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little in its framing.", "concerns": "Fantasy combat, magic, fan service."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Bravery.", "concerns": "Immodest content involving children."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Girl hero.", "concerns": "Sexualization of children."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little in its framing.", "concerns": "Immodesty with children; sihr-like magic."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Protecting the world as duty.", "concerns": "Immodesty with children."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Friendship and courage.", "concerns": "Sexual misconduct framing of minors."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Girl-led action.", "concerns": "Sexualization of minors is a core concern."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Playful fantasy.", "concerns": "Exploitative imagery of children."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Heroism.", "concerns": "Fan service involving children."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Good versus evil.", "concerns": "Magic and immodest content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in its framing.", "concerns": "Magic, witches and immodest content."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Childlike confidence.", "concerns": "Degrading imagery; mesmerism-like contracts."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Sexualized children."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Magic and witches not shown as evil.", "concerns": "Exploitative imagery of children."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Playful magic in everyday life.", "concerns": "Fan service of children."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Courage.", "concerns": "Immodesty; magic."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Unchaste imagery."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Personal power realized.", "concerns": "Sexualized children."},
+  {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Playful rebellion.", "concerns": "Eleven Rules: harm to children; sexualized minors."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in its framing.", "concerns": "Tzniut and sorcery themes."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Degrading content involving children."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Girl hero.", "concerns": "Exploitative imagery of children."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Fights against threats, not personal honor (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Illya's ordinary school life upended by a trickster wand (blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Family and brother focus (MU Brother Complex)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Wealthy household with servants (AniList Ojou-sama)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern urban fantasy."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Otaku fandom and play (AniList Otaku Culture)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "El Norte"],
+  "japan": "Magical-girl parody and otaku in-jokes reflect Japanese franchise culture, where spin-offs reuse beloved characters in new genres."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "No source discusses message delivery; a comedic spin-off (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "An entertainment-first franchise parody with little argued worldview."
+ },
+ "winners_losers": "Illya and her friends win sympathy as reluctant heroes; no source describes the antagonists.",
+ "to_verify": [
+  "Extent and nature of ecchi content involving elementary-age characters; sexuality score capped at 3 and possibly understated",
+  "English license partial or lapsed per MangaUpdates (JManga closed), though Seven Seas released a complete collection",
+  "Seven Seas age rating and imprint (not stated on pages opened)",
+  "Violence level in battles"
+ ]
+}

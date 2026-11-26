@@ -1,0 +1,368 @@
+{
+ "anilist_id": 103144,
+ "title": "Blissful Land",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/103144",
+  "https://api.mangaupdates.com/v1/series/72283967726"
+ ],
+ "premise": "In an 18th-century Tibetan mountain village, 13-year-old doctor's apprentice Khang Zhipa returns from gathering herbs to find a wedding party at his home: the bride, Moshi Rati, is his fiancee from another land, come to stay. The slice-of-life story follows village life, medicine, food and the couple's arranged marriage.",
+ "life_message": "Kindness, learning a healing craft and caring for family and village make a blessed life.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Arranged marriage of a 13-year-old boy to his bride; brief nudity tagged (Kodansha USA blurb; AniList; to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Herbal medicine practice (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Traditionalism",
+   "strength": 6,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Confucian ethics",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Arranged marriage and family life; village community; healing vocation",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 3,
+  "community": 8
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 5,
+  "authority": 6,
+  "liberty": 3
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage, family, care for the sick.",
+   "concerns": "Very young marriage; non-Christian setting."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family and humility.",
+   "concerns": "Young marriage; other religion's setting."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family and kindness.",
+   "concerns": "Young groom; other religion's practices (to verify)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Warm family life.",
+   "concerns": "Young marriage."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing and community.",
+   "concerns": "Folk religion and spirits (to verify)."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation of healing.",
+   "concerns": "Young marriage."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation and family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Works of mercy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love and hospitality.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Simple rural community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family and marriage.",
+   "concerns": "Age of marriage."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Cultural respect for Tibet.",
+   "concerns": "Arranged child marriage; exoticism (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family and marriage.",
+   "concerns": "Nudity tag (to verify)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family dharma; healing.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion and healing.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Indigenous culture represented.",
+   "concerns": "Arranged marriage of a minor; gender roles."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Medicine and learning.",
+   "concerns": "Folk medicine as fact (to verify)."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Family, marriage, tradition, community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Health and family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family life.",
+   "concerns": "Religious rites (to verify)."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentleness.",
+   "concerns": "Medical reliance."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Cultural pluralism.",
+   "concerns": "Age of marriage."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Nature and seasons.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony with nature.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest work, community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family and education.",
+   "concerns": "Parental consent (to verify)."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family dynamic.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little.",
+   "concerns": "Young marriage."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage and family.",
+   "concerns": "Young marriage."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Cultural learning.",
+   "concerns": "Young marriage."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Hospitality and family respect (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Village customs guide life (MU)."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "Arranged marriage and family (blurb)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Elders and teachers (MU Apprentice/s)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 2,
+    "evidence": "18th-century traditional life (blurb)."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Mountain village work (MU)."
+   }
+  },
+  "closest": [
+   "South and Southeast Asia",
+   "Sub-Saharan Africa",
+   "First Nation"
+  ],
+  "japan": "A Japanese iyashikei (healing) tale set in Tibet, valuing gentle daily life and seasonal detail."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Publisher calls it a 'heartwarming slice-of-life tale'; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values of family and village are carried by everyday scenes."
+ },
+ "winners_losers": "Khang Zhipa, Moshi Rati and their village community get the sympathy (Kodansha USA blurb).",
+ "to_verify": [
+  "Arranged marriage involving a 13-year-old groom; how the manga frames their ages and relationship.",
+  "AniList spoiler-tagged Nudity (low rank).",
+  "Depiction of Tibetan Buddhist practice not confirmed by a source.",
+  "No review opened."
+ ]
+}

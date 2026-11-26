@@ -1,0 +1,358 @@
+{
+ "anilist_id": 30245,
+ "title": "Fake Fur",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30245",
+  "https://api.mangaupdates.com/v1/series/77936266094",
+  "https://myanimelist.net/manga/245/Fake_Fur/reviews"
+ ],
+ "premise": "Short-story collection by Satomi Yamagata. In the title story, 17-year-old Yamashita thinks same-sex attraction is a phase boys outgrow, until a boy gives him Valentine's chocolate and he starts questioning himself and his growing feelings for friend Kubo (DMP blurb). Reviewers describe sweet, poignant stories of first love, isolation and heartbreak (MyAnimeList reviews).",
+ "life_message": "First love, even when painful, is part of learning who you are.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Heartbreak (reviews)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Teen boys' first love (DMP blurb); MU First-Time Intercourse, Virgins; AniList Virginity tag; MAL genre Erotica (who, to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Isolation and painful first love (reviews, MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Teen sexual activity (MU tags) (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest friendship.",
+   "concerns": "Same-sex romance and sexual content among teens."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sincerity.",
+   "concerns": "Passions; same-sex."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty.",
+   "concerns": "Sexual content with teens."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest feelings.",
+   "concerns": "Same-sex; teen sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest self-examination.",
+   "concerns": "WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Views vary; teen content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Sincerity.",
+   "concerns": "Teen sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Literary first-love stories.",
+   "concerns": "Teens and sex."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questioning youth affirmed.",
+   "concerns": "Teen sexual content."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex; teens."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Self-knowledge.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Insight into longing.",
+   "concerns": "Craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Queer coming of age.",
+   "concerns": "Teen sex (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-understanding.",
+   "concerns": "Teen sex."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Impure media."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "True identity.",
+   "concerns": "Sensual focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Self-acceptance.",
+   "concerns": "Age-appropriateness."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love honored.",
+   "concerns": "Ages."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Sincerity.",
+   "concerns": "Families raise ages."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Lust."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-acceptance.",
+   "concerns": "Ages (Eleven Rules)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Tzniut; same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honesty.",
+   "concerns": "Teen sex."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Teen sex."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Class gossip, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal discovery over norms."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Classmates."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Age gap in one story (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular school life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-discovery."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "Valentine's Day chocolate as a confession custom and the class 'uproar' reflect Japanese school culture."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Reviewers call it sweet, not saccharine, portraying first love with distance (MAL reviews).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Gentle coming-of-age stories."
+ },
+ "winners_losers": "Bittersweet; reviews mention heartbreak alongside sweetness.",
+ "to_verify": [
+  "Whether the 'First-Time Intercourse' tag (MU) involves Yamashita or another under-18 character",
+  "Ages in each story",
+  "Juné age rating"
+ ]
+}

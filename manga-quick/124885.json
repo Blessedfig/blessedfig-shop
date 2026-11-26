@@ -1,0 +1,92 @@
+{
+ "anilist_id": 124885,
+ "title": "Sheep Princess in Wolf’s Clothing",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/124885",
+  "https://api.mangaupdates.com/v1/series/46573430236",
+  "https://okazu.yuricon.com/2023/11/15/sheep-princess-in-wolfs-clothing-volume-1-guest-review-by-luce"
+ ],
+ "premise": "Aki Rikujo, a wolf-eared woman, works as a butler in the kingdom of the sheep folk. After she saves the shy Princess Momo, she becomes Momo's private tutor, and the princess boldly pursues her, even sneaking into her bedroom to seduce her (Seven Seas blurb via AniList; Okazu review).",
+ "life_message": "Love can cross lines of class and kind when one person is brave enough to pursue it.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Aki saves Momo's life (blurb); no violence described."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light, cute tone (Okazu)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Endorsed", "note": "Bedroom scene with kissing and both naked; underwear service (Okazu); MU Sex, Nudity; Seven Seas blurb mentions seduction. Adult ages not stated."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Momo's shyness, rarely leaves rooms (Okazu)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Princess pursues an employee who is hesitant due to rank (Okazu)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Same-sex romance across class; princess-servant pursuit; animal-folk fantasy",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Aki's protective care and restraint.", "concerns": "Same-sex romance affirmed; seduction and nudity."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Aki's modest reserve.", "concerns": "Passions stirred; same-sex romance."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Loyal service.", "concerns": "Same-sex romance; nudity and seduction."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Kindness across social ranks.", "concerns": "Same-sex sexual pursuit."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sexual content, same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Faithful service.", "concerns": "Lascivious images; conservative teaching on sexuality."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Vocation as tutor and butler.", "concerns": "LCMS: relationship; ELCA: nudity."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Love across class.", "concerns": "Nudity; holiness churches object to the relationship."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Covenant of love crossing barriers.", "concerns": "Nudity; ACNA objects."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Humility of Aki.", "concerns": "Sexual content and romance."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Law of chastity; same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "LGBTQ love and crossing class lines.", "concerns": "Power imbalance between princess and employee."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance; nudity; seduction."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Duty of service.", "concerns": "Modesty; traditional views."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Non-harmful affection.", "concerns": "Sensual craving."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Positive lesbian romance.", "concerns": "Consent and power gap of employer's daughter and employee."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Personal choice in love.", "concerns": "Power imbalance."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyal service to the crown.", "concerns": "Same-sex romance and seduction."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sexuality and same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality and same-sex romance."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Love.", "concerns": "Sensual imagery."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "LGBTQ love; crossing prejudice.", "concerns": "Power dynamics."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Sexuality as positive between consenting partners.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "No doctrine against the romance.", "concerns": "Sexual scenes for minors."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Equality across class.", "concerns": "Sex outside marriage."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Equality across species/class.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Affinity and communication.", "concerns": "Sexual content."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence and choice.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Tzniut; same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Committed love.", "concerns": "Modesty."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Inclusion.", "concerns": "Sexual scene for younger readers."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor conflicts in sources."},
+   "Order vs freedom": {"pos": 6, "evidence": "Momo defies royal expectations to pursue Aki (Okazu)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Neither theme stressed."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Aki holds back 'since she is a commoner' (Okazu); MU Social Hierarchy."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Royal fantasy setting with modern romance."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Personal love as driving value (blurb)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Butler-princess and class reserve reflect Japanese yuri and ojou-sama conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Okazu: 'more about cuteness than plot'; class issue 'isn't touched upon much'.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Class difference is a barrier only through Aki's own hesitation in volume 1."
+ },
+ "winners_losers": "Momo and Aki's love is favored; no opposing view is personified.",
+ "to_verify": [
+  "Characters' ages are not stated in sources.",
+  "MU tag Sex: extent in later volumes; Okazu covers volume 1.",
+  "MU tag Age Gap."
+ ]
+}

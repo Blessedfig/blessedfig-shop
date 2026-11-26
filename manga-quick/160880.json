@@ -1,0 +1,95 @@
+{
+  "anilist_id": 160880,
+  "title": "Beat & Motion",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Beat_%26_Motion",
+    "https://anilist.co/manga/160880",
+    "https://api.mangaupdates.com/v1/series/62236200826"
+  ],
+  "premise": "Tatsuhiko gave up his childhood dream of animation after being teased, then lost his music too when his band broke up, and became cynical about all dreams. A drunk stranger yells at him for mocking a friend's dream, and he starts animating again; his idol, independent musician Nico, then asks him to make her music video, and she turns out to be that stranger. The two encourage each other while facing record-label setbacks and old friendships (Wikipedia; Viz blurb via AniList and MU).",
+  "life_message": "Dreams are worth pursuing even after failure, and people who believe in each other can restart their creative lives.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional drama only."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Hinted mutual feelings, unconfessed (Wikipedia; MU Friends Become Lovers)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Nico angry and belligerent when drunk (Wikipedia); wording not sourced."},
+    {"category": "Substances", "score": 4, "framing": "Shown with consequences", "note": "Nico's alcoholism, often very drunk, tied to hidden pain (Wikipedia; MU Alcohol)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Burnout and cynicism (Viz blurb); Nico's loss and pain (Wikipedia)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Heavy drinking by a likable lead (Wikipedia)."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Record labels and social-media virality as plot (Wikipedia; MU Social Media); Netflix anime announced."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 7, "stance": "Affirmed"},
+    {"lens": "Existentialism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Consumerism", "strength": 2, "stance": "Critiqued"}
+  ],
+  "dominant": "Pursuit of creative dreams; mutual encouragement; recovery from cynicism",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 8},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Using one's talents (parable sense) and encouraging others' gifts.", "concerns": "Nico's frequent drunkenness shown with little rebuke (Wikipedia)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Repentance of Tatsuhiko's mockery of a friend's dream.", "concerns": "Drunkenness; passions around fame."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Encouragement and kindness between collaborators.", "concerns": "Heavy drinking by a sympathetic lead; many families abstain."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Recovering hope after discouragement.", "concerns": "Alcohol as coping; self-fulfilment as the goal."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Renewed purpose and testimony-like turnaround.", "concerns": "Drunkenness."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Art and vocation as good gifts.", "concerns": "Drunkenness (WLC Q139)."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation: animator and musician serving through craft.", "concerns": "Drinking beyond moderation."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Mutual accountability and encouragement.", "concerns": "Alcohol misuse in a likable character."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Imagination and art as gifts.", "concerns": "Drinking."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humble craft and friendship.", "concerns": "Fame, worldliness and drinking."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Developing talents; encouraging others.", "concerns": "Alcohol (Word of Wisdom) central to Nico's character."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Care for people's dreams and hidden pain.", "concerns": "Addiction not framed as needing help (to verify)."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Perseverance and kindness.", "concerns": "Alcohol use is a defining trait; music industry setting."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Following one's svadharma in art.", "concerns": "Intoxication."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Letting go of cynicism; compassion for others' struggles.", "concerns": "Fifth precept: drinking to escape pain."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Creative self-expression and mental-health honesty.", "concerns": "Alcohol misuse."},
+    {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Meaning made in this life through art and friendship.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Hard work toward goals; second chances.", "concerns": "Leaving a steady job for art (Viz blurb); drinking."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Purpose and diligence.", "concerns": "Alcohol shown as normal."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Encouragement among friends.", "concerns": "Drunkenness a serious sin; worldly ambition."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Changed thinking transforms a life.", "concerns": "Alcohol use."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Respect for each person's creative search.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Will and creativity as personal power.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity (makoto) in craft.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work (kirat karni) in art.", "concerns": "Intoxicants forbidden."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Art as service; friendship.", "concerns": "Alcohol forbidden."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Overcoming past failures and pursuing goals.", "concerns": "Excess drinking."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-realization and indulgence without guilt.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Kindness and not shaming others' hopes.", "concerns": "Drunkenness; unchaperoned romance; bittul Torah."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Encouragement and lifelong learning.", "concerns": "Drinking."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Repairing hurt done by mocking others' dreams.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Conflicts are emotional, e.g. Miyu demanding answers from Nico (Wikipedia)."},
+      "Order vs freedom": {"pos": 8, "evidence": "Leaving set paths to chase art (Viz blurb; Wikipedia)."},
+      "Civic vs kin": {"pos": 3, "evidence": "Friends and collaborators, not family, are the support (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Fan and idol become equal partners (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern media careers; no religion or custom (MU)."},
+      "Survival vs self-expression": {"pos": 9, "evidence": "Self-expression over a stable job is the core theme (Viz; Wikipedia)."}
+    },
+    "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+    "japan": "Teasing that crushes a child's dream and the weight of a steady corporate path reflect Japanese conformity pressures the story pushes against."
+  },
+  "delivery": {
+    "style": "Explicit",
+    "preachiness": 4,
+    "evidence": "The turning point is Nico yelling at Tatsuhiko about dreams (Wikipedia); reviewer calls it 'hard-hitting' (Multiversity, via Wikipedia).",
+    "personified": [
+      {"character": "Tatsuhiko (early)", "ideology": "cynicism: dreams are pointless", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Nico", "ideology": "pursue your dreams", "role": "Mentor", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Fair",
+    "note": "The cynical view belongs to the hero himself and is treated with sympathy before he outgrows it."
+  },
+  "winners_losers": "Tatsuhiko and Nico both gain from believing in each other; cynicism loses. Sympathy goes to dream-chasers.",
+  "to_verify": [
+    "Wikipedia says Tatsuhiko is in college; Viz blurb says he grinds at a corporate job",
+    "Whether Nico's drinking is ever addressed as a problem",
+    "Creator: Wikipedia names Naoki Fujita; batch list shows assistants only"
+  ]
+}

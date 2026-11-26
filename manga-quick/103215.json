@@ -1,0 +1,91 @@
+{
+ "anilist_id": 103215,
+ "title": "Sachi's Monstrous Appetite",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/103215",
+  "https://api.mangaupdates.com/v1/series/7880789957",
+  "https://www.animenewsnetwork.com/review/sachi-monstrous-appetite/gn-1/.172231"
+ ],
+ "premise": "Makie, a small boy, makes a lunch every day for Sachi, the tall older schoolmate he loves. Sachi is secretly a shapeshifting monster called a watari who was drawn to him because he smells delicious; she eats the other monsters hunting him and promises to protect him, while the two move in together (Kodansha blurb via AniList and MU; ANN review of volume 1).",
+ "life_message": "Love means protecting and feeding each other, even when what one is seems frightening.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Sachi swallows monsters 'in one gulp' and clears a monster nest (ANN); Body Horror and Vore tags (AniList)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Monsters 'pretty creepy', 'a dash of body horror' (ANN); Lovecraftian (MU)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "ANN notes a 'fetishistic element' (Makie's face pressed into Sachi's chest; she walks in on him naked); MU tags Shota, Middle School Student/s, Live-in Lover; MangaDex rating suggestive."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Young students living together (ANN; MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Not reported."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Monster-girl romance; protection and appetite; gender-role reversal",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Makie's daily care and Sachi's protective loyalty.", "concerns": "Fetishistic scenes with young students; underage cohabitation."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Self-giving protection.", "concerns": "Demonic creatures and sensual imagery."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Fan service with minors; demons; cohabitation."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Sacrificial protection.", "concerns": "Sexualized gags; monsters."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Protection from evil spirits.", "concerns": "Demons (AniList) treated lightly; fan service."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Faithful love.", "concerns": "Lascivious imagery (WLC Q139); cohabitation."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Serving the beloved.", "concerns": "Fetish content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Care and hospitality via food.", "concerns": "Sexualized minors."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Monster as protector, not villain.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Simple acts of care.", "concerns": "Violence and worldly content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Devotion and service.", "concerns": "Immodesty; young couple living together."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Gender-role reversal; tall girl protects small boy.", "concerns": "Fetishization of young characters."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty, unmarried cohabitation and demons."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Feeding others as love.", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Appetite (craving) restrained by love.", "concerns": "Killing of creatures; sensual content."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Challenges gender stereotypes.", "concerns": "Sexualized minors (MU Shota)."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Trust across difference.", "concerns": "Fetish framing of a young boy."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyalty and protection.", "concerns": "Fan service; cohabitation."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Faithfulness.", "concerns": "Demons and impure content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Demons, violence and immodesty."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Love over fear.", "concerns": "Body horror."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Acceptance of the 'other'.", "concerns": "Sexualization of young characters."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Nonhuman beings shown as loving.", "concerns": "Fetish framing."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Yokai-like being lives alongside humans.", "concerns": "Crude gags."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Protecting the weak.", "concerns": "Lust as humor."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Devotion.", "concerns": "Unchaste humor."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Loyal partnership.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Embraces the monstrous self.", "concerns": "Sexualized children (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty; demons."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Care.", "concerns": "Degrading content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Acceptance of difference.", "concerns": "Sexualization."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Sachi fights monsters to protect, not for honor (Kodansha blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Couple sets up house independently (ANN)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Couple-centred; monster employers (ANN)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Senpai-kouhai bond (MU) but roles reversed (ANN)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Supernatural monsters in a modern city (MU Urban Fantasy)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Romance and food as pleasures (AniList Food)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "Yankeedom"],
+  "japan": "Uses the Japanese bento lunch as a love token and a senpai-kouhai school bond."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN calls the bento motif 'not in the least bit subtle' but describes no lecturing.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A romcom with horror; themes ride on symbolism like the daily lunch."
+ },
+ "winners_losers": "Makie and Sachi's bond is the centre of sympathy; hostile monsters are threats.",
+ "to_verify": [
+  "Characters' school level: MU says middle school; ANN says Makie could pass as a middle-schooler.",
+  "Frequency of fan-service scenes beyond volume 1.",
+  "AniList Crossdressing spoiler tag context."
+ ]
+}

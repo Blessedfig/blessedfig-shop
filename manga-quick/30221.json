@@ -1,0 +1,95 @@
+{
+ "anilist_id": 30221,
+ "title": "Basilisk: The Kouga Ninja Scrolls",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30221",
+  "https://api.mangaupdates.com/v1/series/53565419866",
+  "https://api.mangadex.org/manga?title=Basilisk: Kouga Ninpouchou (record 0d7a2488-9b2e-460a-910e-4476b952cd1b)",
+  "https://www.animenewsnetwork.com/review/basilisk-gn-2"
+ ],
+ "premise": "When Shogun Ieyasu Tokugawa dissolves a centuries-old truce, ten ninja each from the feuding Iga and Kouga clans must fight to the death to decide the next shogun's heir, with the surviving clan to rule for a thousand years. Oboro of Iga and Gennosuke of Kouga are in love and are forced onto opposite sides. Adapted from Futaro Yamada's novel.",
+ "life_message": "Inherited hatred and blind obedience to authority destroy love and life; the story is a tragedy of loyalty misused.",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 8, "framing": "Shown with consequences", "note": "ANN calls the violence 'graphic' and action 'brutal', including blood-draining powers; MU Blood and Gore, Torture, Murder/s."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Shown with consequences", "note": "Death match with names crossed off a scroll (ANN); MU Death of Leading Character/s; AniList Tragedy."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Star-crossed romance; MU lists Nudity, Attempted Rape and Rape (2-4 votes), MangaDex suggestive; ANN vol 2 mentions none (to verify; capped, possibly understated)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "ANN notes formal, archaic dialogue."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "MU Suicide/s (3 votes) and tragic protagonists (to verify; capped)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Ninja combat; fantasy powers limit imitation."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation exists; not commercial in content."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Collectivism/authoritarianism", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 5, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Traditionalism and Collectivism/authoritarianism (critiqued through tragedy), Might makes right (explored)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 5, "loyalty": 9, "fairness": 3, "sanctity": 4, "authority": 8, "liberty": 3},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Love between Oboro and Gennosuke set against senseless hatred, shown as tragic.", "concerns": "Graphic killing as spectacle; reported sexual violence and nudity (MU)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows the ruin that comes from the passion of vengeance.", "concerns": "Brutal deaths and occult-like ninja powers."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Vengeance between clans shown to destroy everyone.", "concerns": "Graphic gore, nudity and sexual assault themes."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Talking point on loving one's enemy.", "concerns": "Violence is the entertainment; sexual content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond love versus hatred.", "concerns": "Supernatural killing powers, gore, sexual violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Depravity of inherited hatred exposed.", "concerns": "Gore and immodest images."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Unjust authority's command exposed as deadly.", "concerns": "Graphic violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Cost of hatred shown.", "concerns": "Brutality and sexual content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Tragic moral vision akin to Romeo and Juliet.", "concerns": "Gore and sexual violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Violence shown as futile.", "concerns": "Combat central and graphic."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Hatred's fruit shown.", "concerns": "Violent and immoral content as youth guidance warns."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Critique of hereditary feud and power politics.", "concerns": "Sexual violence (MU, to verify); gore."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Shows injustice of killing by decree.", "concerns": "Nudity, sexual violence, suicide (MU)."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Duty versus love, a Gita-like dilemma.", "concerns": "Tamasic violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Cycles of hatred produce only suffering.", "concerns": "Graphic killing."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Critique of authority using people as pawns.", "concerns": "Sexual violence and muscular-female fan imagery (to verify)."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Senseless tribal conflict exposed.", "concerns": "Cruelty and torture (MU)."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Loyalty and duty taken seriously, if tragically.", "concerns": "Gore, nudity."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Hatred's consequences.", "concerns": "Graphic violence and impurity."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence is the core; supernatural powers; sexual content."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Love opposed to hatred.", "concerns": "Death and fear dwelt on throughout."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Worth of individuals against clan identity.", "concerns": "Cruelty and sexual violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Supernatural gifts not demonized.", "concerns": "Harm and cruelty."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Japanese history, clan and ancestor ties.", "concerns": "Pervasive blood and death (kegare)."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Exposes tyranny's misuse of loyal warriors.", "concerns": "Anger and revenge as engine; sexual content."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Unity and love over enmity.", "concerns": "Violence and unchaste content."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Survival of groups versus individuals.", "concerns": "Murder."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Rebellion against arbitrary authority.", "concerns": "Sexual violence."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Revenge shown as destructive.", "concerns": "Immodesty and bloodshed."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Hatred's cost.", "concerns": "Graphic violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Justice against tyranny.", "concerns": "Glorified-seeming combat."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 9, "evidence": "400-year clan feud settled by death match (Del Rey blurb; MU Clan/s, Rivalry)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Shogun's order binds both clans (AniList synopsis)."},
+   "Civic vs kin": {"pos": 9, "evidence": "Clan loyalty over the lovers' bond (ANN on Iga pressuring Oboro)."},
+   "Equality vs hierarchy": {"pos": 9, "evidence": "Shogun decides; clans obey (Del Rey blurb)."},
+   "Tradition vs secular-rational": {"pos": 2, "evidence": "Edo-period custom, ancient feud."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Survival of the clan is the stake."}
+  },
+  "closest": ["Middle East and North Africa", "Deep South", "Cavalier"],
+  "japan": "Set in early Tokugawa Japan, it reflects historic clan (ie) loyalty and obedience to the shogun, which the story treats as tragic."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN finds no stated message; the focus is battles and the couple's conflict.",
+  "personified": [
+   {"character": "Oboro and Gennosuke", "ideology": "Love and peace over inherited clan hatred", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The clan-loyalty view is carried by clan members who pressure Oboro (ANN), but how fairly they are drawn is unverified."
+ },
+ "winners_losers": "Sympathy lies with the lovers; the clan feud and the shogun's decree are framed as the source of tragedy.",
+ "to_verify": [
+  "Sexual violence (MU Attempted Rape, Rape) and nudity are database-only; a full read should confirm. Score capped at 3 and may be understated.",
+  "Suicide (MU, 3 votes) unconfirmed by a review.",
+  "Only the volume 2 review opened; the ending is not described here."
+ ]
+}

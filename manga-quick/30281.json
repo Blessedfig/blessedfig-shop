@@ -1,0 +1,370 @@
+{
+ "anilist_id": 30281,
+ "title": "La Esperança",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30281",
+  "https://api.mangaupdates.com/v1/series/32207971671"
+ ],
+ "premise": "At a boys' boarding school in Europe, admired model student Georges Saphir keeps everyone at a distance out of fear of being hurt. Misfit Robert sees through him without effort, and Georges fears that letting him close will bring a tragedy that proves those fears right (DMP blurb). Seven volumes, shoujo with a quiet boys' love thread.",
+ "life_message": "A guarded heart has to risk being known to find real friendship and love.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No violence tagged; possible past tragedy (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Psychological drama with a dead friend in the past (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Shounen-ai romance between dorm students (MU, AniList); no explicit tags."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Fear of being hated, hidden past, dead friend (MU) (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism, Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Catholic school setting; friendship drawing a fearful boy out of isolation.",
+   "concerns": "Same-sex romance between students conflicts with Catechism teaching."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humility and honesty breaking down Georges' guarded pride.",
+   "concerns": "Romantic passion between boys; Orthodox teaching on marriage."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Robert's honesty reaching a lonely, admired student.",
+   "concerns": "Same-sex romance; Baptist Faith and Message on marriage."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Genuine friendship overcoming fear of being hurt.",
+   "concerns": "Same-sex romantic thread between schoolmates."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Freedom from fear through love and openness.",
+   "concerns": "Same-sex romance; holiness standards."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful look at a heart that hides behind reputation.",
+   "concerns": "Same-sex romance; WLC on the seventh commandment."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Grace-like acceptance of Georges despite his mask.",
+   "concerns": "Same-sex romance for LCMS and WELS families; ELCA more open."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Love that seeks the other's good in a lonely dorm.",
+   "concerns": "Same-sex romance for traditional Wesleyan bodies; UMC affirming."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Literary boarding-school drama about trust and fear.",
+   "concerns": "Same-sex romance divides Episcopal and ACNA readers."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Quiet humility and honesty over popularity.",
+   "concerns": "Romance and worldly drama; conservative groups avoid such media."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness and honesty toward a struggling peer.",
+   "concerns": "Same-sex romance; Proclamation on the Family."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion of gay youth and healing from isolation.",
+   "concerns": "Possible tragedy; little else to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincere friendship and honesty.",
+   "concerns": "Same-sex romance between students."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-knowledge and letting go of ego and fear.",
+   "concerns": "Same-sex romance; family views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Seeing through the ego's mask to suffering beneath.",
+   "concerns": "Attachment and fear as drivers of the plot."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Queer youth romance treated with seriousness.",
+   "concerns": "Little; possible tragic trope (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest relationships over reputation.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Discipline and schooling in a traditional institution.",
+   "concerns": "Same-sex romance shown to a young audience."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthfulness and inner healing.",
+   "concerns": "Same-sex romance; Fundamental Belief 22 on entertainment."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty valued over popularity.",
+   "concerns": "Same-sex romance considered contrary to Bible standards."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fear overcome by love and truth.",
+   "concerns": "Dwelling on fear and tragedy."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every person and authentic connection.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal truth and emotional honesty.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Makoto: sincerity breaking through a polished surface.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest living over ego and image.",
+   "concerns": "Same-sex romance; Akal Takht position."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthfulness and friendship across difference.",
+   "concerns": "Chastity standard and same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication (ARC) dissolving a fear-driven pattern.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Robert's indifference to social rules; individual honesty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to a lonely companion.",
+   "concerns": "Same-sex romance; Leviticus 18:22."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship and honest speech.",
+   "concerns": "Little; romance between minors."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and honest relationships.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Georges' standing rests on admiration, not on defending honor."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Strict dorm life with room for personal choice (MU Dormitory)."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Bonds form among schoolmates, not family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Model-student status and school hierarchy matter (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Catholic school as setting; no religious argument (MU)."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Inner feeling and honesty are the story's focus."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "The Midlands",
+   "Catholic Europe"
+  ],
+  "japan": "A Japanese shoujo imagining of a European Catholic boarding school, a common setting in shoujo and early boys' love, used as atmosphere rather than doctrine."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Blurb frames an inward psychological drama of trust and fear; no message stated (to verify).",
+  "personified": [
+   {
+    "character": "Robert",
+    "ideology": "Honest openness that cuts through pretense",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "The story works through Georges' fear rather than through argument."
+ },
+ "winners_losers": "Not confirmed by sources; the blurb hints that closeness may bring tragedy before trust is earned (to verify).",
+ "to_verify": [
+  "Ending and the 'tragedy' the blurb hints at",
+  "How far the romance goes (MU Shounen Ai, no explicit tags)",
+  "Out of print in English (MU); license status",
+  "Role of the Catholic school setting"
+ ]
+}

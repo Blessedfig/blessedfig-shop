@@ -1,0 +1,90 @@
+{
+ "anilist_id": 107112,
+ "title": "Saint Cecilia and Pastor Lawrence",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/107112",
+  "https://api.mangaupdates.com/v1/series/25415234047"
+ ],
+ "premise": "Saint Cecilia is admired by the townspeople as elegant and wise, but once visitors leave she is hopelessly clumsy at home. Pastor Lawrence, who lives with and looks after her, keeps her together enough to do her duties in this gentle four-panel comedy (Kodansha blurb via AniList/MU).",
+ "life_message": "Patient, faithful care for another person, flaws and all, is a quiet form of love and service.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None in sources."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Iyashikei, warm ambience (AniList, MU)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Cohabitation and her one-sided crush on a dense pastor (MU); AniList Age Gap (rank 20); MangaDex safe."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Public facade versus private self (MU Facade)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Christian", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Gentle domestic comedy; service and care; church-themed fantasy setting",
+ "axes": {"economic": 5, "social": 4, "cultural": 3, "community": 7},
+ "foundations": {"care": 9, "loyalty": 7, "fairness": 5, "sanctity": 6, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Service to the community and patient care.", "concerns": "A saint and pastor as comic romantic pair; how church life is portrayed."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility of a servant-pastor.", "concerns": "Holy figures in comedy; possible irreverence."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "A pastor modeling servant leadership.", "concerns": "Saint veneration framing; cohabitation of unmarried pair."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Kindness and service.", "concerns": "Unmarried cohabitation; Christian-looking imagery in fantasy."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Saint who ministers to townspeople.", "concerns": "Angels, demons and powers (AniList) to check."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Diligent ministry.", "concerns": "Saint cult imagery; pastor-saint romance."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation in ordinary chores.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Works of mercy and pastoral care.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Affectionate, gentle look at clergy life.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Simple living and service.", "concerns": "Romance; media."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Service and household care.", "concerns": "Cohabitation."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Warm picture of ministry and community.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Service to people.", "concerns": "Unmarried man and woman living together; saint figure."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Seva and respect for holy persons.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Patience and kindness.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Gentle comedy.", "concerns": "Female lead as helpless; age gap tag."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Saintly powers framed as real."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Respect for faith communities and duty.", "concerns": "Cohabitation."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Service.", "concerns": "Saint and spirit elements."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Saint veneration and church imagery; angels/demons."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Gentle, uplifting tone.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Care in community.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Warmth.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Purity and sincerity of service.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Seva and humility.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Service in spirit of worship.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping others.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "C", "weight": "Minor", "aligns": "Pokes at saintly image (facade).", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Chesed.", "concerns": "Christian saint imagery; yichud (cohabitation)."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Christian imagery."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Gentle humor.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "No conflicts; gentle comedy (AniList Iyashikei)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Duties of a saint maintained by the pastor (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Serves all townspeople (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Saint revered by town (blurb)."},
+   "Tradition vs secular-rational": {"pos": 2, "evidence": "Church and saint at center (MU Church, Saint)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Relaxed domestic quality of life."}
+  },
+  "closest": ["Puritan", "The Midlands", "Yankeedom"],
+  "japan": "A Japanese yonkoma using European church imagery as a fantasy backdrop; the public-face and private-self gag reflects tatemae and honne."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Four-panel gag comedy (AniList 4-koma; MU Warm Ambience); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Religion is a setting for gentle humor rather than an argument."
+ },
+ "winners_losers": "Cecilia and Lawrence are both treated warmly.",
+ "to_verify": [
+  "How the church and saint figure are portrayed (respectful or parodic).",
+  "AniList Angels, Demons and Super Power tags (low rank).",
+  "No review opened."
+ ]
+}

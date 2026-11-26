@@ -1,0 +1,355 @@
+{
+ "anilist_id": 98074,
+ "title": "From Maid to Mother",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/98074",
+  "https://api.mangaupdates.com/v1/series/52215111009"
+ ],
+ "premise": "A high-school girl reincarnated in another world as Lily is known as 'the Maid of the Royal Family' after helping raise the lady who married the crown prince (Alpha Manga blurb). The court magician Leonard asks her to act as mother to his adopted daughter Jill, and a makeshift family forms (blurb; MangaUpdates). A 13-volume shoujo family story from a web novel.",
+ "life_message": "It holds up caring work and building a family through love rather than blood.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None described."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None described."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romance with Leonard (to verify); MangaDex safe."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing notable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Adoptive family; caring work",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 7
+ },
+ "foundations": {
+  "care": 9,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Motherhood and adoption honored.",
+   "concerns": "Reincarnation; magic."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Motherly care.",
+   "concerns": "Reincarnation."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family love.",
+   "concerns": "Reincarnation; magic."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Covenant care of children.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation of motherhood.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love in service.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Service and family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family central.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Chosen family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Caring for an orphan.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family duty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Loving-kindness.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Adoptive family.",
+   "concerns": "Traditional care roles."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Care.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family and hard work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Familiars and magic.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Household.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Seva.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Second dynamic.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little at odds.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Caring for an orphan.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Nothing on honor."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Royal household duties."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "Family-making central."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Royal court."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Domestic."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Work and care."
+   }
+  },
+  "closest": [
+   "South and Southeast Asia",
+   "First Nation",
+   "Orthodox Europe"
+  ],
+  "japan": "A diligent, self-effacing caretaker heroine reflects Japanese ideals of service."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No stated message."
+ },
+ "winners_losers": "The makeshift family (to verify).",
+ "to_verify": [
+  "Romance outcome."
+ ]
+}

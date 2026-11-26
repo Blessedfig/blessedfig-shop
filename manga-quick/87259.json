@@ -1,0 +1,93 @@
+{
+ "anilist_id": 87259,
+ "title": "Re:ZERO -Starting Life in Another World- Chapter 3: Truth of Zero",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/87259",
+  "https://api.mangaupdates.com/v1/series/42146648530",
+  "https://api.mangadex.org/manga/8e67e13e-fdeb-44f5-8ecb-c4609df6b02c",
+  "https://animenewsnetwork.com/feature/2017-11-07/the-fall-2017-manga-guide/re-zero-truth-of-zero/.123730"
+ ],
+ "premise": "The third-arc manga adaptation of Re:Zero. Subaru, a teenager transported to another world who carries memories of lives that ended and reset, returns with Emilia and Rem to the capital of Lugunica, where Emilia competes with other candidates, including Priscilla, to become queen (Yen Press blurb; ANN Manga Guide). Database tags list a cult, a witch and demons in the arc.",
+ "life_message": "Devotion to someone you love means persisting through failure, though good intentions without honesty or humility can hurt them.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "Fantasy combat; ANN says volume 1 'hasn't gone to dark places yet'; MangaDex tags Horror. Later volumes capped (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "MangaDex Horror and Psychological; AniList Cult, Witch. Capped (to verify)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romantic devotion to Emilia; ANN notes the girls drawn 'sexier' than the novel art, content restrained."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Strain of memories of 'failed lives' and helplessness (ANN). Capped (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Critiqued", "note": "Reviewers call Subaru self-absorbed; the story seems aware (ANN)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Franchise adaptation; reviewers say best read by anime fans."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Persistence through repeated failure; pride and humility; royal succession politics",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Subaru's pride shown as a fault needing humility.", "concerns": "Witch cult and resetting deaths; later violence (to verify)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Pride exposed; repentance-like growth.", "concerns": "Cult and demonic imagery."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Perseverance and loyalty to Emilia.", "concerns": "Witch and cult content; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Self-centered hero confronted with his limits.", "concerns": "Occult-tinged cult; repeated death."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Endurance through trials.", "concerns": "Cult, witch and demons as story forces."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Human weakness portrayed truthfully.", "concerns": "Magic and witch framing."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Helplessness and failure faced honestly.", "concerns": "Cult and magic."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Character growth through failure.", "concerns": "Dark psychological content later (to verify)."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Good and evil framed with moral weight.", "concerns": "Cult violence (to verify)."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Self-sacrifice for others.", "concerns": "Combat as resolution."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Persistence and accountability.", "concerns": "Horror and violence later (to verify)."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Critiques entitled behavior in a hero.", "concerns": "Violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience (sabr) through trials.", "concerns": "Sorcery and witch cult; fan service."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Cycles of death and return; duty to a queen-candidate.", "concerns": "Adharmic cult."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Suffering from attachment and ego examined.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Male entitlement questioned (ANN reviewers).", "concerns": "Fan-service art noted by a reviewer."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Learning from mistakes.", "concerns": "Violence and distress."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Loyalty, persistence and royal order.", "concerns": "Weak, self-absorbed lead early."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Endurance.", "concerns": "Resurrection-by-reset; witch cult."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Witch, demons, magic and violence."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Refusal to accept defeat.", "concerns": "Fear-inducing horror."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Ethical growth.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Minor", "aligns": "Magic as part of the world.", "concerns": "Witch framed as evil figure (to verify)."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity of devotion.", "concerns": "Death imagery."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Ego (haumai) shown as Subaru's flaw.", "concerns": "Attachment."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Consultation and humility lessons.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Memories of past lives carried forward.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility for choices.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Teshuvah-like correction of failures.", "concerns": "Sorcery and witch cult; immodest art."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Learning from failure.", "concerns": "Sorcery themes."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical growth.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Subaru's pride and need to prove himself (ANN)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Royal selection process versus Subaru's self-directed actions."},
+   "Civic vs kin": {"pos": 5, "evidence": "Loyalty to Emilia's household."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Royal candidates, knights and nobles (blurb; ANN)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Magic, witches and royal custom in a game-like world."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Survival through resets balanced with personal devotion."}
+  },
+  "closest": ["Tidewater", "Orthodox Europe", "Latin America"],
+  "japan": "Japanese isekai light-novel adaptation; Subaru's social awkwardness and the maid-and-manor setting reflect Japanese otaku genre conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN reviewers say the creators seem aware Subaru is a 'tool' (to verify across volumes).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Subaru's flaws are shown rather than lectured about, per volume 1 reviews."
+ },
+ "winners_losers": "Subaru is set up to learn through failure; sympathy stays with Emilia and Rem (to verify).",
+ "to_verify": [
+  "Possibly understated: ANN reviews cover volume 1 only, which reviewers call low-key; later volumes of the arc (cult, witch tags) likely more violent and distressing.",
+  "Mental-health intensity of repeated deaths across 11 volumes.",
+  "No Wikipedia cache available."
+ ]
+}

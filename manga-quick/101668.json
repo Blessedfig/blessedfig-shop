@@ -1,0 +1,356 @@
+{
+ "anilist_id": 101668,
+ "title": "Fiancée of the Wizard",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101668",
+  "https://api.mangaupdates.com/v1/series/44353918474"
+ ],
+ "premise": "Noble daughter Filimena via Adina realizes she has been reborn into a world of sorcery and expects to be a chosen hero, but instead becomes the fiancée of the powerful, surly stepson of a wizard (Yen Press blurb). MangaUpdates tags describe childhood friends, a magic school, curses and a male lead who falls in love first. A four-volume shoujo isekai adapted from a novel.",
+ "life_message": "It suggests that love and partnership can be the real adventure.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Magic, curses, summoned creatures (MangaUpdates; AniList Demons tag)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Curses and demons."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Engagement to marriage; MangaDex safe."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "AniList tags bullying (low rank)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing notable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Engagement romance; reincarnation; magic",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Romance leading to marriage.",
+   "concerns": "Reincarnation; wizardry."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithful engagement.",
+   "concerns": "Reincarnation and sorcery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Marriage valued.",
+   "concerns": "Magic and reincarnation."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage.",
+   "concerns": "Reincarnation."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithful love.",
+   "concerns": "Sorcery and demons."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage.",
+   "concerns": "Reincarnation."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Married love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithful love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fairy-tale romance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage and family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kind heroine.",
+   "concerns": "Arranged engagement."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Marriage.",
+   "concerns": "Sorcery."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebirth and duty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebirth.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Female lead.",
+   "concerns": "Arranged noble engagement."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little to raise.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage and family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Marriage.",
+   "concerns": "Magic; reincarnation."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Marriage.",
+   "concerns": "Magic and demons."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Magic heroic.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little at odds.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Past lives.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little at odds.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Marriage.",
+   "concerns": "Sorcery."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Noble status, no duels noted."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Noble engagement."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family arrangement."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Nobility."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Magic world."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Adventure."
+   }
+  },
+  "closest": [
+   "South and Southeast Asia",
+   "Tidewater",
+   "Orthodox Europe"
+  ],
+  "japan": "Arranged noble engagements in a European setting reflect Japanese isekai romance conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe no stated message."
+ },
+ "winners_losers": "Not described in sources (to verify).",
+ "to_verify": [
+  "Plot details beyond setup.",
+  "Demons tag context."
+ ]
+}

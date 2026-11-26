@@ -1,0 +1,379 @@
+{
+ "anilist_id": 30081,
+ "title": "Aria",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30081",
+  "https://en.wikipedia.org/wiki/Aria_(manga)"
+ ],
+ "premise": "In the 24th century, Mars has been terraformed into the ocean planet Aqua, and its city Neo-Venezia recreates Venice. Akari Mizunashi moves from Earth to train as an Undine, a gondolier guide, at the small Aria Company under her mentor Alicia. Each chapter is a gentle episode of friendship, seasons and small wonders, including the mysterious cat Cait Sith, until Akari becomes a full Prima.",
+ "life_message": "Happiness is found by noticing the small, beautiful things of each day and sharing them with others.",
+ "overall": 1,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Little conflict or villainy (Wikipedia)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild mysterious episodes with Cait Sith and the city's 'Seven Mysteries'."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Almost none; MangaDex 'safe'."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Possible adult drinking at festivals (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Gentle sadness at partings, such as Alicia's retirement."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime and merchandise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pantheist/New Age",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Environmentalism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Mindful wonder at daily life; mentorship; craft and community",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 7
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 6,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Beauty as a path to wonder; Alicia's patient mentorship of Akari.",
+   "concerns": "Folkloric mysteries (Cait Sith) with a vaguely spiritual tone."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle humility and gratitude for creation.",
+   "concerns": "Spiritual mysteries outside the Church's frame."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Whatever is lovely and pure; kind friendships.",
+   "concerns": "Supernatural folklore episodes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Joy, service to tourists and encouragement.",
+   "concerns": "No Christian worldview; mild spiritual mysteries."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Uplifting, faith-neutral media.",
+   "concerns": "Cait Sith as a mysterious spirit guide."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Common-grace delight in vocation and beauty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Vocation honored: Akari's gondolier craft as service.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kindness and mutual encouragement as daily habits.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Imaginative world full of grace and gratitude.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Simple, unmotorized, nonviolent life of craft.",
+   "concerns": "Worldly media in general."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Virtuous, lovely, of good report; hard work toward a goal.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Care for others and for a reshaped planet.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gratitude (shukr) and good character.",
+   "concerns": "Spirit folklore; images of living beings for some."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Sattvic calm, respect for teachers and seasons.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Mindfulness of the present and impermanence of partings.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Female-led workplace, community and environment.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Meaning in this life and terraforming science.",
+   "concerns": "Mysteries left unexplained."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Apprenticeship, tradition and respect for elders.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Peaceful, uplifting fiction.",
+   "concerns": "Spirit-like mysteries; fiction caution for some."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness and simplicity.",
+   "concerns": "Festivals and spirit folklore."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Gratitude and harmony rather than fear.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Interdependence and wonder.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Nature and the Wheel of seasons honored; Cait Sith from Celtic lore.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Reverence for seasons, water and mysterious presences.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest work and sharing joy.",
+   "concerns": "Folklore and superstition."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Work done in a spirit of service as worship.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Study and skill development toward mastery.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Pleasure in life now.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gratitude (hakarat hatov) and kind speech.",
+   "concerns": "Time away from Torah for some."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kind speech and joy in creation.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Community and wonder.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 1,
+    "evidence": "Rival companies cooperate; no disputes of honor."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Undine ranks and rules balance with personal wandering."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Akari treats every resident and tourist with equal warmth."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Pair, Single and Prima ranks with mentors respected but warm."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Venetian customs, festivals and mysteries honored in a sci-fi setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Quality of life and joy in small things above all."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "English-speaking",
+   "Yankeedom"
+  ],
+  "japan": "Apprenticeship toward mastery, mentorship and seasonal appreciation (mono no aware) reflect Japanese iyashikei and workplace norms."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Episodic slice of life about noticing small wonders; no review on delivery found (to verify).",
+  "personified": [
+   {
+    "character": "Alicia",
+    "ideology": "patient mentorship and wonder at daily life",
+    "role": "Mentor",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "Its outlook is conveyed through gentle episodes, with no opposing worldview set up."
+ },
+ "winners_losers": "Everyone wins; nobody loses. Sympathy goes to wonder, patience and friendship.",
+ "to_verify": [
+  "English licenses (ADV, Tokyopop) are out of print; current availability",
+  "Any adult drinking scenes",
+  "Tokyopop age rating"
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "anilist_id": 31249,
+ "title": "Claudine",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31249",
+  "https://api.mangaupdates.com/v1/series/73305114521",
+  "https://www.animenewsnetwork.com/feature/2018-06-01/the-spring-2018-manga-guide/claudine/.132354"
+ ],
+ "premise": "In early twentieth-century France, Claudine, an aristocrat assigned female at birth, insists he is a man; a psychiatrist narrates his loves for three women, the servant Maura, the older Cécilia and Sirène, each of whom shapes him, and the story ends in tragedy (Seven Seas blurb; ANN). A 1978 shoujo classic by Riyoko Ikeda, one volume.",
+ "life_message": "A person's inner identity is real and deserves recognition; its denial by others causes deep suffering.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Shown with consequences", "note": "MU lists fire, burns and a character burned alive (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Tragic, melodramatic story (ANN 'soap opera fare')."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Love affairs with three women; adultery and a cheating husband among other characters (MU); explicitness not described (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Outdated terms for gender identity (ANN)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Suicide at the tragic ending (AniList Suicide spoiler 85; MU); depression and despair; ANN warns it may trigger readers with depression or dysphoria."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Shown with consequences", "note": "Suicide as an outcome of rejection; ANN reviewer criticizes the ending."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 6, "stance": "Explored"},
+  {"lens": "Progressivism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Transgender identity and rejection; tragic romance",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 7, "loyalty": 4, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Compassion for Claudine's suffering and loneliness.", "concerns": "Gender identity taught as given; suicide at the end."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Grief for a soul in despair.", "concerns": "Gender seen as given; affairs; suicide."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Shows pain of a life without hope.", "concerns": "Gender transition as theme; suicide."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Empathy for the hurting.", "concerns": "Gender identity; adultery; suicide."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Need for love and healing.", "concerns": "Gender identity; despair."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Truthful picture of brokenness.", "concerns": "Self-murder; gender teaching (PC(USA) differs)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Need for grace amid suffering.", "concerns": "LCMS: gender; ELCA: suicide portrayal."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Love for the marginalized.", "concerns": "Suicide; views on gender vary."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Dignity of every human being.", "concerns": "Suicide; ACNA on gender."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Care for the outsider.", "concerns": "Gender identity; affairs; suicide."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Compassion.", "concerns": "Gender is eternal (Proclamation); suicide."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Early trans representation; father's acceptance (ANN).", "concerns": "Tragic-trans trope; misgendering."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Compassion for suffering.", "concerns": "Gender change; affairs; suicide forbidden."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Recognizes third-gender-like experience.", "concerns": "Suicide; views vary."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Suffering from craving and rejection.", "concerns": "Suicide."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Trans man at the center; social commentary.", "concerns": "Misgendering; tragic ending (ANN critique)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Empathy for identity; historical document.", "concerns": "Safe-messaging on suicide."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "A loving father.", "concerns": "Gender identity theme; suicide."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Compassion.", "concerns": "Gender identity; affairs; suicide."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Gender identity; immorality; suicide."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Identity as more than the body.", "concerns": "Despair and death."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Worth and dignity of a trans person.", "concerns": "Tragic portrayal."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Significant", "aligns": "Affirms self-knowledge.", "concerns": "Suicide."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sincerity (makoto) of feeling.", "concerns": "Death."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Equality of persons.", "concerns": "Adultery; suicide."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Rejects prejudice.", "concerns": "Suicide forbidden; affairs."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "The spirit beyond the body.", "concerns": "Psychiatrist narrator; suicide."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Bodily autonomy and self-definition.", "concerns": "Little beyond tragedy."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Compassion.", "concerns": "Gender change; affairs; suicide."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Dignity of persons.", "concerns": "Suicide; views vary."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Inclusion; human dignity.", "concerns": "Suicide; tragic trope."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Claudine's worth is tied to others' recognition; betrayal cuts deepest (ANN)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Claudine insists on living as a man against convention (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Distinguished family; father's acceptance (ANN, MU)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Class barriers between aristocrat and servant Maura (ANN)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Psychiatrist narrator frames the story (ANN)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Identity and self-acceptance are the core (blurb)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "Catholic Europe"],
+  "japan": "Riyoko Ikeda's 1970s shoujo often set gender-crossing stories in European aristocratic settings, as in The Rose of Versailles."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN reviewers call it melodramatic 'soap opera fare'; none call it preachy.",
+  "personified": [
+   {"character": "Claudine", "ideology": "Inner gender identity as one's true self", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Reviewers note sympathetic framing for 1978 alongside dated terms and characters who see Claudine as a masculine woman."
+ },
+ "winners_losers": "Claudine receives the story's sympathy but loses in the end; lovers who reject him, especially Sirène, inflict the cruelest blow (ANN).",
+ "to_verify": [
+  "Ending involves suicide (AniList spoiler tag, MU, ANN 'tragic'); exact presentation not checked.",
+  "MU 'Burned Alive' and burns categories not checked.",
+  "No Wikipedia cache available in this run."
+ ]
+}

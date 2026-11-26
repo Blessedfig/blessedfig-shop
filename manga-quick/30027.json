@@ -1,0 +1,98 @@
+{
+ "anilist_id": 30027,
+ "title": "X",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/X_%28manga%29",
+  "https://anilist.co/manga/30027",
+  "https://www.mangaupdates.com/series/3b0m3cw"
+ ],
+ "premise": "In 1999, the young esper Kamui Shiro returns to Tokyo to face his destiny as the one who will decide humanity's fate. The Dragons of Heaven protect spiritual barriers that hold back the apocalypse, while the Dragons of Earth seek to destroy them so earthquakes can cleanse the planet of humanity. When Kamui chooses Heaven to protect his childhood friends, his friend Fuma becomes his opposite and murders his sister Kotori; the war devastates Tokyo, and the manga remains unfinished.",
+ "life_message": "People choose their own destiny between good and evil, and what one wishes for most decides the fate of those one loves.",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 8, "framing": "Shown with consequences", "note": "Gruesome murders, deaths of many characters and earthquakes destroying Tokyo (Wikipedia); AniList tags Gore; ANN reportedly found the imagery too disturbing for its magazine."},
+  {"category": "Fear and intensity", "score": 8, "framing": "Neutral", "note": "Apocalyptic tragedy, horror-based spells, fatalism (Wikipedia; AniList Tragedy, Post-Apocalyptic)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Boys' love subplot between Subaru and Seishiro, homoerotic tones (Wikipedia; MangaUpdates Boys' Love as a Subplot); a heroine loses powers after a sexual relationship (Wikipedia)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Trauma, a dreamer in a permanent coma, split personality (Wikipedia; AniList Dissociative Identities, MangaUpdates Split Personality)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Supernatural combat; not realistically imitable."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Environmentalism", "strength": 6, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 6, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 5, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 4, "stance": "Explored"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Fate versus choice; humanity versus the Earth; dualism; tragedy",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 5},
+ "foundations": {"care": 6, "loyalty": 8, "fairness": 4, "sanctity": 6, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Free will against fatalism; self-sacrifice of Sorata for Arashi.", "concerns": "Apocalypse mythology mixing faiths; gore; same-sex subplot."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Repentance and love for a fallen friend (Kamui and Fuma).", "concerns": "Syncretic spiritual powers and grisly deaths."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Good fights to protect humanity.", "concerns": "Armageddon reworked outside Scripture; occult spells; gore."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Choice between good and evil matters.", "concerns": "Spiritual warfare by sorcerers and seals; violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little in line.", "concerns": "Occult powers, shikigami and spells at the core."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Human depravity portrayed truthfully.", "concerns": "Fate without providence; occult imagery."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Vocation to protect neighbors.", "concerns": "Occult and gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Self-giving love.", "concerns": "Violence and spiritism."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Serious moral fantasy about the end of the world.", "concerns": "Gore; syncretism."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Shows war's ruin.", "concerns": "Heroic battle violence and occult."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency decides destiny.", "concerns": "Graphic violence; sexual subplots."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Care for creation debated; LGBTQ relationship present.", "concerns": "Graphic, despairing violence."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Judgment Day themes.", "concerns": "Sorcery as heroism; same-sex romance; gore."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Dharmic cosmic war and duality.", "concerns": "Gore."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Attachment and wishes drive suffering.", "concerns": "Killing throughout."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Environmental and queer themes.", "concerns": "Graphic violence for a teen magazine."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Individuals choose right and wrong despite fate (Ohkawa).", "concerns": "Supernatural fatalism."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Familial dignity, loyalty and sacrifice.", "concerns": "Nihilistic apocalypse; gore; same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "End-times seriousness.", "concerns": "Spirits, spells and an unbiblical Armageddon."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritism, violence and a rival Armageddon story."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Fear, death and destruction dominate."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Pluralist mythic blend; interdependence of humans and Earth.", "concerns": "Graphic violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Earth as living; magic taken seriously.", "concerns": "Magic used to kill."},
+  {"frame": "Shinto", "grade": "B", "weight": "Significant", "aligns": "Shrine maidens, sacred swords and kekkai barriers.", "concerns": "Massive kegare from death and blood."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Fighting to protect the innocent.", "concerns": "Magic and gore."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Unity of humankind at stake.", "concerns": "Violence and occult."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Fourth and fifth dynamics: mankind and all life.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Heroes capable of evil; rejection of fixed destiny.", "concerns": "Harm to innocents."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Sorcery, same-sex romance and gore."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Tikkun olam versus destruction.", "concerns": "Sorcery and gore."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Ethical choice over fate.", "concerns": "Graphic violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Personal vendettas (Subaru and Seishiro) and duels of destiny (Wikipedia)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Fate imposes order; Kamui seeks his own wish."},
+   "Civic vs kin": {"pos": 7, "evidence": "Kamui fights to protect Kotori and Fuma, not humanity in general (Wikipedia)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Dreamgazer sisters lead the two sides."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Shinto, Taoist and mystic traditions govern the world."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Survival of humanity itself at stake."}
+  },
+  "closest": ["Orthodox Europe", "Tidewater", "Cavalier"],
+  "japan": "Tokyo landmarks as spiritual barriers, onmyoji and shrine-maiden traditions and 1990s millennium anxiety reflect Japanese religion and society."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Wikipedia: unlike Tokyo Babylon, X's social topics 'go unspoken and are implied'; dualism gives both sides equal power.",
+  "personified": [
+   {"character": "Dragons of Earth (led by Kanoe, with Fuma)", "ideology": "Cleanse the Earth of humanity to save the planet", "role": "Villain", "treatment": "Fair"},
+   {"character": "Dragons of Heaven (Kamui, Subaru, Sorata)", "ideology": "Protect humanity and those one loves", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Fuma Monou", "ideology": "Kamui's destructive twin potential", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Fair",
+  "note": "An eco-apocalyptic ideology is personified by an entire faction drawn as equal in power and sincerity to the heroes, in line with Ohkawa's stated dualism."
+ },
+ "winners_losers": "Unresolved: the manga is on hiatus; the Dragons of Earth are winning ground and many heroes die.",
+ "to_verify": [
+  "Manga unfinished; English edition lacks volume 18.5",
+  "MangaUpdates link matched by exact title (check)",
+  "Reception claims about ANN and cancellation are from Wikipedia's summary",
+  "Explicitness of the Subaru/Seishiro relationship"
+ ]
+}

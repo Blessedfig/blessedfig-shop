@@ -1,0 +1,372 @@
+{
+ "anilist_id": 30067,
+ "title": "2001 Nights",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30067",
+  "https://api.mangaupdates.com/v1/series/36848726236"
+ ],
+ "premise": "Yukinobu Hoshino's 1984 collection of interlinked hard science-fiction stories about humanity's exploration of space and what it may face on taking those first steps into the unknown (AniList, MangaUpdates). Tags list philosophy, astronomy, artificial intelligence, environmental themes, and spoiler-tagged politics, terrorism and religion. Three volumes in English from Viz.",
+ "life_message": "It holds up human curiosity, sacrifice and endurance in reaching for the stars.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Terrorism and politics tags (AniList, spoiler); level unverified."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Tragedy and existential danger in space (AniList, MangaUpdates)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Nudity tag (AniList, low rank); romantic subplot (MangaUpdates)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Existential reflection on human existence (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Naturalism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Environmentalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Human exploration and sacrifice; cosmic perspective; science and existence",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 7,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Wonder at creation; sacrifice for others.",
+   "concerns": "Naturalistic frame; brief nudity."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Awe before the cosmos.",
+   "concerns": "Secular cosmology."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage and self-giving.",
+   "concerns": "No God in the cosmos; nudity."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wonder at the universe.",
+   "concerns": "Naturalistic worldview."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Secular view; religion tag (to verify)."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Cosmos as theatre of glory (common grace).",
+   "concerns": "Naturalism."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation of scientists.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sacrifice for humanity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Imaginative science fiction with moral weight.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Peaceful exploration.",
+   "concerns": "Terrorism and conflict."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Eternal progress echoes.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Environmental care; human unity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Contemplation of creation.",
+   "concerns": "Nudity; secular cosmology."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vast cosmic time echoes yugas.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Impermanence and vast time.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Science and environmental concern.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Science, reason and human endeavor.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage and sacrifice.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wonder.",
+   "concerns": "Secular origins; nudity."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little beyond wonder.",
+   "concerns": "Evolution and secular cosmology."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirit over matter questions.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Interdependence.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Cosmos as sacred.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Awe at nature.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Creation's vastness.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony of science and progress.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Human potential.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Human striving.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wonder at creation.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Wonder at creation.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Human responsibility.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Rules and missions, no honor feuds."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Space agencies and missions."
+   },
+   "Civic vs kin": {
+    "pos": 2,
+    "evidence": "Humanity as a whole."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Mission chains of command."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 9,
+    "evidence": "Science and reason guide life."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Survival in space versus inquiry."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "Catholic Europe",
+   "New Netherland"
+  ],
+  "japan": "Hoshino's realistic style and devotion to duty in long missions reflect Japanese seinen science fiction, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Database tags list philosophical and educational themes; no review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Ideas arise through each story's events."
+ },
+ "winners_losers": "Humanity's endurance across generations is honored (to verify).",
+ "to_verify": [
+  "Nudity extent.",
+  "Terrorism and religion story content.",
+  "Whether any story is graphic."
+ ]
+}

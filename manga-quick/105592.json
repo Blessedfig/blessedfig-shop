@@ -1,0 +1,92 @@
+{
+ "anilist_id": 105592,
+ "title": "Phantom Tales of the Night",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/105592",
+  "https://api.mangaupdates.com/v1/series/11685627803",
+  "https://admin.animenewsnetwork.com/feature/2019-10-31/the-fall-2019-manga-guide/phantom-tales-of-the-night/.152837"
+ ],
+ "premise": "An episodic supernatural series set at an inn (the Thundercloud or Murakumo Inn) that shelters troubled spirits and humans, run by an innkeeper of no fixed gender who takes payment in guests' deepest secrets. The first guest, a boy called Sasaki-kun, learns he has never been alive; the Innkeeper restores just enough flesh and bone for him to pass as human. Tales of yokai, ghosts and the Innkeeper's servant Butterfly explore secrets, shame and the wish to be seen (Yen Press blurb; ANN Fall 2019 Manga Guide).",
+ "life_message": "Everyone carries secrets and longs to be seen; what we hide shapes what we become.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "'Dark, horrific ends' for many characters (ANN); Body Horror tag and Cannibalism spoiler tag (AniList)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Chewed-away flesh and bone, 'gross and chilling' images (ANN); Horror genre (MU), Body Horror (AniList)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Shame, envy of a sibling and identity (ANN on Butterfly)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Bargaining secrets with spirits (premise)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Audio drama adaptation (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 3, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Postmodernism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Secrets and shame; yokai folklore; identity and being seen",
+ "axes": {"economic": 5, "social": 6, "cultural": 4, "community": 5},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 5, "sanctity": 6, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Examines shame and hidden sin, as confession does.", "concerns": "Spirit bargains with the Innkeeper; body horror."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Shows envy and pride consuming Butterfly.", "concerns": "Spirits and soul absorption; disturbing imagery."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Hidden secrets brought to light.", "concerns": "Ghosts, yokai and soul trading."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Longing to be truly known.", "concerns": "Occult world as the frame."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Spirits, soul absorption and bargains as spiritual danger."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest about human envy.", "concerns": "Spirit dealings."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Exposes shame and longing.", "concerns": "Occult elements; body horror."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Compassion for wayward souls.", "concerns": "Occult and horror."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Literary folklore with moral weight.", "concerns": "Horror content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Occult media."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Honesty about secrets.", "concerns": "Spirit contact; horror."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Gender-fluid Innkeeper treated without stigma (ANN).", "concerns": "Body horror."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Secrets and moral consequences.", "concerns": "Spirit bargains akin to sihr; jinn-like beings."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Spirits and karmic consequence familiar.", "concerns": "Gore."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Attachment and envy cause suffering.", "concerns": "Gore."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Non-binary-presenting lead character (ANN).", "concerns": "Reviewers question pronoun handling."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Folklore as psychology of shame.", "concerns": "Horror."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Consequences for envy and deceit.", "concerns": "Occult themes; gender ambiguity."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Dead boy walking and spirits contradict teaching."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Spiritism central."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Truth uncovered.", "concerns": "Fear and decay imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of outcasts; gender diversity.", "concerns": "Horror."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Spirits honored as real; balanced exchange.", "concerns": "Harmful bargains."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Yokai, kimono and Japanese folklore respectfully used (MU).", "concerns": "Death and impurity."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Ego exposed.", "concerns": "Superstition."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Soul's progress themes.", "concerns": "Occult."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Spirit identity explored.", "concerns": "Horror."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Morally gray world with no clear heroes (ANN).", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Necromantic and spirit themes."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Honesty themes.", "concerns": "Sorcery-like bargains."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Moral reflection.", "concerns": "Horror."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Shame and secrets weigh on characters (ANN)."},
+   "Order vs freedom": {"pos": 5, "evidence": "The inn's rules of payment in secrets (Yen blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Inn as shelter for strangers; twin envy (ANN)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Innkeeper as master, Butterfly as servant (ANN)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Japanese folklore and spirits central (MU Japanese Folklore)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Desire to be seen and appreciated (ANN)."}
+  },
+  "closest": ["Tidewater", "Latin America", "Puritan"],
+  "japan": "Draws on Japanese yokai folklore, inn hospitality and kimono culture as setting and moral frame."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "ANN: themes come through story and character; one reviewer wishes more were spelled out.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Morally gray anthology tales leave judgment to readers, per volume-1 reviews."
+ },
+ "winners_losers": "No clear heroes; many characters meet dark ends while the Innkeeper collects secrets (ANN).",
+ "to_verify": [
+  "Reviews cover volume 1 only of 12.",
+  "Cannibalism and Gender Bending spoiler tags (AniList) not in reviews.",
+  "Inn name differs: Thundercloud Inn (Yen Press) vs Murakumo Inn (ANN)."
+ ]
+}

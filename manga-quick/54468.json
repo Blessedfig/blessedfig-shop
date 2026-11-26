@@ -1,0 +1,362 @@
+{
+ "anilist_id": 54468,
+ "title": "The Cinderella Solution",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/54468",
+  "https://api.mangaupdates.com/v1/series/8036307179"
+ ],
+ "premise": "Graphic designer Charlotte spends her days in baggy jeans; when her best friend Gabe bets her a thousand dollars that she cannot get a marriage proposal within a month, she sets out to transform herself (Harlequin blurb via AniList and MangaUpdates). A one-volume manga adaptation of Cathy Yardley's Harlequin novel, tagged friends-become-lovers and a playboy who becomes monogamous.",
+ "life_message": "True love is found with someone who already knows you, not by remaking yourself (to verify).",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult romance from a Harlequin novel; playboy love interest; explicitness unverified."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Adult social settings possible (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Tragic past tag."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Betting on a marriage proposal."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Makeover and appearance focus."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Consumerism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Friends-to-lovers romance; makeover; marriage as goal",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Romance aimed at marriage and faithfulness.",
+   "concerns": "A playboy hero; marriage proposal as a bet."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship growing into commitment.",
+   "concerns": "Vanity of the makeover."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Monogamy wins out over playboy habits.",
+   "concerns": "Adult romance content unverified."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Commitment over casual dating.",
+   "concerns": "Betting and appearance focus."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Possible sexual content (to verify)."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship before romance.",
+   "concerns": "Proposal treated as a wager."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Charlotte's vocation as designer.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful love.",
+   "concerns": "Gambling-style bet."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle comedy of manners.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Nonviolent.",
+   "concerns": "Worldly makeover and romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage as the goal.",
+   "concerns": "Romance explicitness (to verify)."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Career woman lead.",
+   "concerns": "Makeover implies worth from looks."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Marriage as goal.",
+   "concerns": "Gambling bet; possible intimacy outside marriage."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage valued.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-image explored.",
+   "concerns": "Attachment to appearance."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Independent career woman.",
+   "concerns": "Beauty-standard makeover trope."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Adult choices.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage and commitment.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful love.",
+   "concerns": "Wager; adult content unverified."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Gambling; romance content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love beyond appearance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth beyond looks.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adult love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sincere feeling.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work and marriage.",
+   "concerns": "Bet; vanity."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage aimed.",
+   "concerns": "Gambling is forbidden."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little to raise.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-determination.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Marriage valued.",
+   "concerns": "Possible immodesty; bet."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Committed love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Healthy friendship to romance.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Pride stung by a bet."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal choices."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friendship more than family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Equal friends."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern career setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Self-presentation and fulfillment."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "An American Harlequin novel adapted by a Japanese artist; the source culture is Western, with Japanese josei visual style."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Its view of love is carried by the friends-to-lovers plot."
+ },
+ "winners_losers": "Charlotte and Gabe likely end together (tags: friends become lovers; to verify).",
+ "to_verify": [
+  "No review found; outcome inferred from MangaUpdates tags.",
+  "Level of sexual content (Harlequin adaptations vary).",
+  "Current English digital availability."
+ ]
+}

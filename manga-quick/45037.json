@@ -1,0 +1,372 @@
+{
+ "anilist_id": 45037,
+ "title": "Saturn Apartments",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/45037",
+  "https://api.mangaupdates.com/v1/series/58151135764",
+  "https://mangabookshelf.com/2010/05/16/saturn-apartments-vol-1/"
+ ],
+ "premise": "Far in the future, humanity lives in a vast ring above an Earth left to recover, stratified so that the higher the floor, the higher the status (VIZ blurb). Mitsu, a 14-year-old from the lowest level, takes up his late father's job as an exterior window washer, working with his father's colleagues and glimpsing the lives of upper-floor clients (Manga Bookshelf review). Won the Japan Media Arts Festival Grand Prize (MangaUpdates).",
+ "life_message": "It holds up honest, skilled work, solidarity among coworkers and quiet dignity across class lines.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Workplace accidents; no fighting noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Dangerous work at great height; a near-fatal dangling incident (review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Minimal romance."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Worker banter; not raised."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Grief for a father who died in a fall, possibly suicide; a character briefly contemplates falling (review); MangaUpdates lists dead family members."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "A 14-year-old doing hazardous labor (review)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Environmentalism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Stoicism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Dignity of work; class stratification; grief and found family",
+ "axes": {
+  "economic": 4,
+  "social": 5,
+  "cultural": 5,
+  "community": 7
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Dignity of labor and care for the poor echo Catholic social teaching.",
+   "concerns": "Possible suicide of a parent handled with grief."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Patient endurance and humility in daily work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hard work, honoring a father's legacy.",
+   "concerns": "No faith element; grief themes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Serving others through humble work.",
+   "concerns": "Secular frame."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Perseverance and community.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation as calling in ordinary work.",
+   "concerns": "Possible suicide handled pastorally."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation: serving neighbors through daily labor.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Social holiness; concern for the poor below.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Quiet moral vision of work and community.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Simplicity, mutual aid and nonviolent community.",
+   "concerns": "Technological setting only."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-reliance, family legacy and work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Critique of inequality; solidarity.",
+   "concerns": "Child labor normalized."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work and care for family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Fulfilling one's duty (svadharma) in work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Right livelihood, impermanence and grief.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Class inequality made visible.",
+   "concerns": "Child labor."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Human solidarity and environmental care.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work and filial duty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligent work and community.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest labor.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Calm in danger.",
+   "concerns": "Grief and death themes."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every person regardless of floor.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Reverence for Earth left to heal.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gratitude, harmony with community and nature.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kirat karni: honest work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Work as service; critique of extreme inequality.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal integrity in work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reliance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring a father; dignity of labor.",
+   "concerns": "Secular time-use."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Dignity of labor; tikkun olam on Earth.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Justice for workers.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Dignity of workers, no honor disputes."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Rigid floor hierarchy and work rules."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Coworkers become family; civic bonds."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Society stratified by floor; story questions it."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular, technological future."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Work and security over self-expression."
+   }
+  },
+  "closest": [
+   "Confucian",
+   "Catholic Europe",
+   "Orthodox Europe"
+  ],
+  "japan": "Craft pride, apprenticeship to senior workers and quiet perseverance reflect Japanese work culture, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Reviewer says themes emerge from observing characters at work rather than direct statements.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Class and grief themes are shown through daily work, not stated."
+ },
+ "winners_losers": "Mitsu finds his place among coworkers; sympathy rests with the workers of the lower levels.",
+ "to_verify": [
+  "Whether the father's death is confirmed as suicide.",
+  "How the class system resolves in later volumes."
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "anilist_id": 103120,
+ "title": "Iori and the Beast",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/103120", "https://api.mangaupdates.com/v1/series/61178989943"],
+ "premise": "In a world where half-beasts live alongside humans but rarely love across species, social worker Iori is introducing orphaned wolf boy Riku to wolf writer Tsuneaki Gora (Renta! blurb via AniList and MangaUpdates). Iori, kind but afraid of love, is drawn to Tsuneaki, and the three form a family. MangaUpdates lists adoption, discrimination, LGBT parents and a wedding.",
+ "life_message": "Family is made by choosing to care for one another, across differences (to verify).",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Orphan backstory; dead parents (MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Adult same-sex romance; MangaDex 'safe'; Yaoi genre and sex-friend category on MangaUpdates (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grief of an orphaned child; Iori's fear of love (blurb)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Found family; adoption; love across prejudice",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 7},
+ "foundations": {"care": 9, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Care for the orphan Riku is a work of mercy at the story's heart.", "concerns": "Same-sex couple as the adoptive family and a wedding."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Taking in an orphan; patient love.", "concerns": "Same-sex marriage as the goal."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Compassion for a fatherless child.", "concerns": "Gay parenting and marriage affirmed."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Adoption and caring for the vulnerable.", "concerns": "Same-sex family model."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Kindness to the orphan.", "concerns": "Same-sex marriage."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Covenant-like care for a child.", "concerns": "Same-sex household."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Iori's social work as vocation.", "concerns": "Confessional synods object to the marriage; ELCA affirming."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Works of mercy toward an orphan.", "concerns": "Traditional bodies object to the marriage."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Hospitality and family-making across difference.", "concerns": "ACNA families would raise the marriage."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Mutual aid and caring for the orphan.", "concerns": "Same-sex family."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Family is central; a child gains a home.", "concerns": "Same-sex marriage conflicts with the Proclamation."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion, adoption and challenge to discrimination.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Caring for the orphan is highly honored.", "concerns": "Same-sex marriage."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty of care to a child; harmony of beings.", "concerns": "Same-sex marriage (views vary)."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion across species and difference.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "LGBT parents and anti-discrimination themes.", "concerns": "Species allegory for prejudice may oversimplify."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Family built on care, not biology.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Stable family for a child.", "concerns": "Same-sex marriage presented to readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Care for the vulnerable.", "concerns": "Same-sex marriage."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Love for a child.", "concerns": "Homosexual marriage approved."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love overcoming fear.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence and worth of all beings.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Kinship with animal natures; family by choice.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Rural harmony of humans and beast-folk; household continuity.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Seva toward an orphan; equality of beings.", "concerns": "Same-sex marriage."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Oneness and rejection of prejudice.", "concerns": "Marriage outside man-woman."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Family dynamic strengthened.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Free choice of partner and family.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Caring for the orphan (Exodus 22).", "concerns": "Same-sex marriage."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Chesed toward an orphan; committed partnership.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and tikkun olam against prejudice.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Prejudice addressed through social work, not confrontation (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Social norms against cross-species love are gently challenged."},
+   "Civic vs kin": {"pos": 6, "evidence": "Building a family household is the goal (Family Life tag)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Equality of humans and half-beasts."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Rural setting; modern adoption and same-sex wedding."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Tolerance across difference is central."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "New France"],
+  "japan": "The rural setting and a wedding as the family's culmination reflect Japanese norms of household (ie) and community."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb calls it heartwarming; discrimination category on MangaUpdates (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Its message of acceptance is carried by the family's story."
+ },
+ "winners_losers": "Iori, Tsuneaki and Riku become a family; species prejudice is the obstacle.",
+ "to_verify": [
+  "How explicit the adult romance is (Yaoi genre vs MangaDex 'safe').",
+  "How discrimination against half-beasts is depicted."
+ ]
+}

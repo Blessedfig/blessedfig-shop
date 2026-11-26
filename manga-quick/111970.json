@@ -1,0 +1,106 @@
+{
+  "anilist_id": 111970,
+  "title": "Goodbye, My Rose Garden",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Goodbye%2C_My_Rose_Garden",
+    "https://anilist.co/manga/111970",
+    "https://www.mangaupdates.com/series/theztgh",
+    "https://www.animenewsnetwork.com/feature/2020-06-11/the-spring-2020-manga-guide/goodbye-my-rose-garden/.159718"
+  ],
+  "premise": "In early-1900s England, aspiring Japanese novelist Hanako Kujo hopes to meet her favorite author and instead becomes lady's maid to the noblewoman Alice Douglas. Alice, pressured into an arranged marriage and haunted by rumors of an affair with her former governess, promises Hanako an introduction on one condition: that Hanako kill her. Trying to understand why, Hanako grows close to Alice, and the story ends with the two leaving the confines of their 'rose garden' together (Wikipedia; ANN Manga Guide; Seven Seas blurb).",
+  "life_message": "Love that society forbids can still be lived honestly, and despair can give way to a life chosen together.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Request to be killed is talk, not act, per summaries."},
+    {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Social threat of disgrace; reference to Oscar Wilde's imprisonment (ANN)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Romance between two women; rumored past affair with a governess; no explicit content noted (Wikipedia; ANN; MU Lesbian Protagonist)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Period dialogue; nothing noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Alice's wish to die drives the plot; internalized self-hatred and despair, resolved hopefully (Wikipedia; ANN; MU Suicidal Character/s, Homophobia)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Asking another to kill oneself; not acted on."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+  ],
+  "lenses": [
+    {"lens": "Progressivism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Feminism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Traditionalism", "strength": 4, "stance": "Critiqued"}
+  ],
+  "dominant": "LGBTQ love against Victorian norms; women's autonomy; authenticity",
+  "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 3},
+  "foundations": {"care": 8, "loyalty": 5, "fairness": 7, "sanctity": 3, "authority": 2, "liberty": 8},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Compassion for Alice's despair and refusal to help her die affirm the worth of her life.", "concerns": "Same-sex romance affirmed as the happy resolution; arranged marriage rejected."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Care for a soul tempted to despair.", "concerns": "Same-sex love presented as good; little sexual content."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Hanako's steadfast kindness toward Alice.", "concerns": "Same-sex romance affirmed; suicide theme."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Despair answered by companionship.", "concerns": "Affirmation of a lesbian relationship (some affirming churches differ)."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Rescue from hopelessness.", "concerns": "Same-sex romance affirmed."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Sixth commandment: Hanako will not kill.", "concerns": "Conservative churches differ on the relationship; PC(USA) affirming."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Gentle treatment of a person carrying shame.", "concerns": "LCMS/WELS concerns on same-sex romance; ELCA affirming."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love that heals shame.", "concerns": "UMC affirming; Global Methodist and holiness bodies would object."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Literary period piece rich in Victorian allusion.", "concerns": "ACNA families would differ on the romance."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Nonviolence: the request to kill is refused.", "concerns": "Same-sex romance in conservative groups; MC USA more open."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Worth of a soul in despair.", "concerns": "Same-sex romance contrary to the Proclamation on the Family."},
+    {"frame": "Mainline progressive Protestant", "grade": "S", "weight": "Minor", "aligns": "Inclusion, dignity and justice for a marginalized woman.", "concerns": "Suicide theme needs care with young readers."},
+    {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Hanako refuses to take a life.", "concerns": "Same-sex love affirmed against traditional teaching."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Compassion and loyalty.", "concerns": "Rejection of family duty in marriage; views on same-sex love vary."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion toward suffering; no harm done.", "concerns": "Views on same-sex relationships vary by teacher."},
+    {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Queer historical romance with a hopeful ending; critiques homophobia.", "concerns": "Suicide safe-messaging."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Freedom of conscience and love; reason against prejudice.", "concerns": "Suicide theme."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Period setting and literary craft.", "concerns": "Same-sex romance presented to younger readers; rejection of family duty."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Hope over despair.", "concerns": "Same-sex romance."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Refusal to kill.", "concerns": "Same-sex romance affirmed."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love dispelling despair.", "concerns": "Family views vary on the romance."},
+    {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Inherent worth; Welcoming Congregation values.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love between consenting adults honored.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity (makoto) between the women.", "concerns": "Little doctrine engaged."},
+    {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Truthful living (sach).", "concerns": "Akal Takht position on same-sex relationships; diaspora views vary."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Prejudice against persons opposed.", "concerns": "Sexual relations reserved to man-woman marriage."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal integrity and communication.", "concerns": "Little stated."},
+    {"frame": "Satanist", "grade": "S", "weight": "Minor", "aligns": "Rebellion against imposed social morality; autonomy.", "concerns": "None significant."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Pikuach nefesh: Alice's life preserved.", "concerns": "Same-sex romance affirmed."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Dignity of persons; CJLS openness.", "concerns": "Views vary by congregation."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Affirming, justice-minded; tikkun olam against prejudice.", "concerns": "Suicide theme."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Family reputation and disgrace drive Alice's fear, but the story sides with inner worth."},
+      "Order vs freedom": {"pos": 7, "evidence": "Alice and Hanako leave Victorian social constraints."},
+      "Civic vs kin": {"pos": 4, "evidence": "Escaping family-arranged marriage; a chosen partnership."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Mistress-maid gap is dissolved; they become equals (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Hanako as a 'New Woman'; inherited norms rejected."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Authentic love and self-expression are the goal."}
+    },
+    "closest": ["New Netherland", "English-speaking", "Catholic Europe"],
+    "japan": "The story draws on the Japanese Class S tradition of intense girls' friendships while setting a Japanese heroine abroad in England."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 4,
+    "evidence": "Rose-garden metaphor and Wilde reference carry the anti-homophobia theme (Wikipedia; ANN reviewers).",
+    "personified": [
+      {
+        "character": "Hanako Kujo",
+        "ideology": "the world, not Alice, needs fixing",
+        "role": "Hero",
+        "treatment": "Sympathetic"
+      },
+      {
+        "character": "Edward",
+        "ideology": "marriage to restore reputation",
+        "role": "Foil",
+        "treatment": "Mixed"
+      }
+    ],
+    "opposing_views": "Mixed",
+    "note": "Victorian norms are shown as the source of Alice's despair; how sympathetically Edward is drawn is unclear (to verify)."
+  },
+  "winners_losers": "Alice and Hanako win a life together; the rigid society of the 'rose garden' loses. Sympathy goes to the lovers against Victorian prejudice.",
+  "to_verify": [
+    "Any physical intimacy shown",
+    "How Alice's suicidal wish is depicted",
+    "Seven Seas age rating"
+  ]
+}

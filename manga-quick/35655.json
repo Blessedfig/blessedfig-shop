@@ -1,0 +1,92 @@
+{
+  "anilist_id": 35655,
+  "title": "Children of the Sea",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/35655",
+    "https://api.mangaupdates.com/v1/series/22206919725",
+    "https://www.animenewsnetwork.com/review/children-of-the-sea/gn-1"
+  ],
+  "premise": "Ruka, a girl at odds with her school team and her parents, is drawn to the aquarium where her father works and to two mysterious boys, Umi and Sora, said to have been raised by dugongs. While the adults puzzle over fish vanishing from the oceans worldwide, the children are pulled into a mystery tied to the sea, myth and the cosmos (Viz blurb via AniList; ANN review).",
+  "life_message": "Humans are part of a vast, living sea and cosmos, and wonder before nature matters more than control of it.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Little noted; ANN finds no violence in volume 1."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Mystery and cosmic-horror tones (AniList Cosmic Horror 75%); character deaths (MU)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "AniList Nudity at low rank (20%); MangaDex safe."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Ruka's isolation and family tension (ANN)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Children swimming and diving in open sea (MU Diving; to verify)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (MU)."}
+  ],
+  "lenses": [
+    {"lens": "Pantheist/New Age", "strength": 6, "stance": "Explored"},
+    {"lens": "Environmentalism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Naturalism", "strength": 4, "stance": "Explored"},
+    {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Oceanic mysticism and cosmic wonder; environmental awe; philosophy (AniList Philosophy 98%)",
+  "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 5},
+  "foundations": {"care": 6, "loyalty": 5, "fairness": 4, "sanctity": 7, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Reverence for the beauty of creation (Laudato Si' spirit).", "concerns": "Pantheistic myth of sea and cosmos may blur Creator and creation."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Creation as mystery to contemplate.", "concerns": "Nature-mysticism without God."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Awe at the ocean's wonders (ANN).", "concerns": "Mythological and cosmic spirituality outside Christ."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Opens talk on wonder in creation.", "concerns": "Pantheist themes."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Sense of the unseen behind the visible.", "concerns": "Ghost in the water and mythic spirits (AniList)."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Creation declares glory; fine art (common grace).", "concerns": "Worldview treats cosmos as ultimate."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Beauty of creation and a girl finding her place.", "concerns": "Mythic spirituality."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Care for creation.", "concerns": "Nature religion themes."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Literary, poetic art about wonder (MU Poetic).", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Simplicity and harmony with nature.", "concerns": "Popular media; mythic themes."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Wholesome wonder and family reconciliation (to verify).", "concerns": "Spirits in the water."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Care for creation and the ocean's crisis.", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Signs (ayat) of God in sea and sky.", "concerns": "Mythology presented as cosmic truth."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Cosmic cycles and oneness of life resonate.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Interdependence of all beings; impermanence.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Environmental concern; girl protagonist with agency.", "concerns": "Little to raise."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Scientific curiosity of aquarium researchers.", "concerns": "Mysticism presented as answer (to verify)."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Family repair and respect for nature.", "concerns": "Vague spirituality."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Creation as wonder.", "concerns": "Ghost in the water shown as real."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Awe at creation's design.", "concerns": "Spirits and myth."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Reality beyond the material.", "concerns": "Cosmic-horror tones."},
+    {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Interdependent web of existence made vivid.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "S", "weight": "Minor", "aligns": "Sacred sea, myth and kinship with animals (dugongs).", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Sea as living, sacred presence; harmony with nature.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "One creation, God in all things.", "concerns": "Mythic superstition."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Harmony of science and spiritual wonder.", "concerns": "Little to raise."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Dynamics of all life and the physical universe.", "concerns": "Little stated concern."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Art valued; natural world.", "concerns": "Little of interest."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Wonder at God's works in the sea (Psalm 104 spirit).", "concerns": "Pantheist myth; ghosts."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Care for creation.", "concerns": "Mythic framing."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Tikkun olam for the ocean.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Gentle, slow-paced story; conflicts are everyday (ANN)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Ruka drifts free of school and parents over summer (ANN)."},
+      "Civic vs kin": {"pos": 5, "evidence": "Family tension and new bonds with Umi and Sora (ANN)."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Adults only distantly aware; children lead the discovery (Viz blurb)."},
+      "Tradition vs secular-rational": {"pos": 3, "evidence": "Myth and mysticism over scientific explanation (AniList Mythology 94%)."},
+      "Survival vs self-expression": {"pos": 7, "evidence": "Wonder and experience over security (ANN)."}
+    },
+    "closest": ["The Midlands", "English-speaking", "Catholic Europe"],
+    "japan": "Summer by the coast, an aquarium and sea myths reflect Japanese coastal culture and a Shinto-like sense of a living ocean."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "ANN calls the storytelling 'understated', with mysteries that unfold subtly.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Environmental and spiritual themes are left for readers to draw from images and mystery."
+  },
+  "winners_losers": "Ruka gains understanding and connection; no villains are noted. Sympathy goes to wonder before nature.",
+  "to_verify": [
+    "No Wikipedia cache; only the ANN review of volume 1 was opened",
+    "Later-volume content (AniList Cannibalism spoiler tag, character deaths)",
+    "Viz age rating"
+  ]
+}

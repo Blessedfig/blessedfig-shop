@@ -1,0 +1,90 @@
+{
+ "anilist_id": 85434,
+ "title": "Tale of Fairy Tail: Ice Trail",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85434",
+  "https://api.mangaupdates.com/v1/series/55317657793"
+ ],
+ "premise": "After a battle with an evil demon lays waste to his village and everyone dies but him, the boy Gray Fullbuster sets out west, keeping his master's teachings close, in search of new sights and power (Kodansha USA blurb via AniList and MangaUpdates). It shows his childhood travels before he joins the Fairy Tail guild (blurb). A two-volume episodic spin-off drawn by Yuusuke Shirato from Hiro Mashima's Fairy Tail.",
+ "life_message": "It suggests a grieving child can find a path forward by honoring a teacher's lessons and seeking companions.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "A demon destroys a village, leaving one survivor (Kodansha blurb); magic battles; MangaUpdates Child Abuse (context to verify)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Total loss of a child's village (blurb); AniList Tragedy (spoiler)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Nothing noted; MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Grief of a sole survivor (blurb); Child Abuse tag (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "A child traveling alone (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Franchise spin-off."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Grief and growth, a master's teaching, magic and travel",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Gray honors his master's teaching through grief.", "concerns": "Magic as power; child abuse tag."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Obedience to a spiritual teacher.", "concerns": "Demons and magic."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Perseverance after loss.", "concerns": "Magic and demons."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Finding belonging after loss.", "concerns": "Magic seeking power."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Courage.", "concerns": "Demon and magic-centered story."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Teacher's discipline.", "concerns": "Magic framing."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Fantasy adventure.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Growth and companions.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Classic orphan quest story.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Teacher's way followed.", "concerns": "Seeking 'unimaginable power' through fighting."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Resilience.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Healing from trauma.", "concerns": "Child abuse tag."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience in grief.", "concerns": "Sorcery as power."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Guru's teachings honored.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Teacher-student bond; impermanence.", "concerns": "Seeking power."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Trauma and resilience.", "concerns": "Child abuse tag (to verify)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Growth through experience.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Respect for a master; courage.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Perseverance.", "concerns": "Demons and magic."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Courage.", "concerns": "Magic and demons central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming loss.", "concerns": "Dwelling on destruction."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Search for meaning.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Elemental ice magic and guild community.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Gratitude to a teacher.", "concerns": "Death imagery."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Teacher's way followed.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Learning and fellowship.", "concerns": "Fighting."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-improvement.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-made power.", "concerns": "Little at odds."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Teacher honored.", "concerns": "Magic and demons."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Resilience.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Growth after loss.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Seeks power after a demon's attack (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Child travels alone westward (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Village lost; guild ahead (blurb; MangaUpdates Guild/s)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Master's teachings kept close (blurb)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Magic world with mentor traditions."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Sole survivor making his way (blurb)."}
+  },
+  "closest": ["El Norte", "The Far West", "Orthodox Europe"],
+  "japan": "The master-disciple (shitei) bond and an orphan's journey of self-training are common Japanese shounen motifs."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; delivery not described (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources do not describe how the story delivers its themes."
+ },
+ "winners_losers": "Gray survives and moves toward the Fairy Tail guild; episode outcomes not described (to verify).",
+ "to_verify": [
+  "Child Abuse tag (MangaUpdates): what is shown.",
+  "Violence level in episodes.",
+  "Whether it assumes knowledge of the main Fairy Tail series."
+ ]
+}

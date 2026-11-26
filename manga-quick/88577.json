@@ -1,0 +1,93 @@
+{
+  "anilist_id": 88577,
+  "title": "Dissolving Classroom",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/88577",
+    "https://api.mangaupdates.com/v1/series/34167053611",
+    "https://en.wikipedia.org/wiki/Dissolving_Classroom"
+  ],
+  "premise": "A one-volume horror cycle by Junji Ito about Yuuma Azawa, a teen devoted to the Devil, and his cruel younger sister Chizumi. Yuuma's constant apologies, really offerings to the Devil, melt people's brains, and his compliments disfigure them, until a televised apology melts Tokyo (Wikipedia; AniList; MangaUpdates).",
+  "life_message": "Empty apologies and performed contrition can be a kind of evil in themselves; the story offers horror and satire rather than a model life.",
+  "overall": 7,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "People melt and are disfigured (Wikipedia); AniList Body Horror 93%, Gore; MU Human Sacrifice, Animal Cruelty."},
+    {"category": "Fear and intensity", "score": 7, "framing": "Neutral", "note": "Grotesque body horror and an apocalyptic ending (Wikipedia; AniList)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Dating and first-love chapters (Wikipedia); nothing explicit noted."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Abusive sibling behavior; dead parents (MU)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Devil worship and cruelty by Chizumi, framed as horrifying (Wikipedia)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Pagan/occult", "strength": 6, "stance": "Critiqued"},
+    {"lens": "Absurdism", "strength": 5, "stance": "Explored"},
+    {"lens": "Nihilism", "strength": 4, "stance": "Explored"}
+  ],
+  "dominant": "Satanic horror; satire of hollow public apology; absurd cruelty",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 3, "loyalty": 3, "fairness": 4, "sanctity": 7, "authority": 4, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Shows Devil worship as destructive; critique of false contrition.", "concerns": "Satanic imagery central; grotesque gore; no redemption."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "True repentance versus empty words.", "concerns": "Demonic Baphomet imagery throughout (Wikipedia)."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Devil-worship ends in ruin.", "concerns": "Occult and demonic focus; horror gore."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Satire on insincere apologies can open discussion.", "concerns": "Devil as recurring presence; no hope."},
+    {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Ongoing contact with the Devil; open-door concern."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Evil's reality and spread depicted.", "concerns": "Demonic content; despair."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Exposes false repentance.", "concerns": "Occult and gore."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Shows harm of cruelty.", "concerns": "Does not tend to love of God."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Satire with a moral edge (Wikipedia).", "concerns": "Demonic gore."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Horror media; occult."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Little to uplift.", "concerns": "Satanic content and gore."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Social critique of performative apology culture.", "concerns": "Cruelty, animal cruelty (MU)."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Shaytan's path brings ruin.", "concerns": "Devil worship and grotesque imagery."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Adharma brings destruction.", "concerns": "Tamasic horror."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "False speech harms; karma of cruelty.", "concerns": "Violence and fear."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Satire of hollow public apologies (Wikipedia).", "concerns": "Animal cruelty and gore."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Imaginative horror as social commentary.", "concerns": "Cruelty."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Mockery of insincere contrition.", "concerns": "Occult and gratuitous gore."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Satanic power shown as real."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Demon worship central."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Fear and bodily dissolution."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Questions social rituals.", "concerns": "Cruelty."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Occult shown only as evil."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sincerity (makoto) versus false apology.", "concerns": "Kegare of death and decay."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Ego and false words condemned.", "concerns": "Superstition and gore."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness as foundation.", "concerns": "Occult horror."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Gore."},
+    {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Horror aesthetics.", "concerns": "Stereotypes Satan worship as monstrous; harm to animals."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Idolatry and grotesque imagery."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Critique of empty teshuva.", "concerns": "Gore."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Social satire.", "concerns": "Cruelty."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Apology and face are the target of satire (Wikipedia)."},
+      "Order vs freedom": {"pos": 5, "evidence": "Siblings defy every social rule."},
+      "Civic vs kin": {"pos": 6, "evidence": "Twisted sibling loyalty drives the chapters (MU Sibling/s)."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "No clear hierarchy."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Devil worship in a modern secular Japan (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "Victims struggle to survive."}
+    },
+    "closest": ["Catholic Europe", "Orthodox Europe", "Latin America"],
+    "japan": "Ritual public apology (shazai), including televised bows, is a recognizable Japanese social practice that the story exaggerates, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Wikipedia notes commentary on public apologies; publisher calls it a literal take on society's ills.",
+    "personified": [
+      {"character": "Yuuma Azawa", "ideology": "Hollow apology as devil worship", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "None shown",
+    "note": "The satire comes through grotesque exaggeration rather than stated lessons."
+  },
+  "winners_losers": "The Devil and the siblings prevail; ordinary people melt. No worldview is rewarded; insincerity is shown as monstrous.",
+  "to_verify": [
+    "Animal cruelty scenes (MU tag)",
+    "Content of the two bonus short stories",
+    "Vertical age rating"
+  ]
+}

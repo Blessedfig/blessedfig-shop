@@ -1,0 +1,91 @@
+{
+ "anilist_id": 137042,
+ "title": "Hiragi-san's House of Vampires",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/137042",
+  "https://api.mangaupdates.com/v1/series/60442404426",
+  "https://kmanga.kodansha.com/title/10015"
+ ],
+ "premise": "Shota Minamoto, an orphaned junior-high student living in a children's home, is adopted by a warm, wealthy family in a Japanese-style estate (K Manga blurb). The family hides a secret: they are vampires (AniList and MangaUpdates tags). K Manga calls it a cozy, bloody love comedy from the creator of The Cuckoo's Fiancé.",
+ "life_message": "A family is made by welcome and acceptance, even when the people who take you in are not what they seem.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "MangaUpdates lists attempted murder and murderers; K Manga says 'bloody'. Detail unknown (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Vampire secret and blood-drinking played mainly for comedy (blurb, tags)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romantic comedy with a female-harem setup (AniList tag); MangaDex rates it suggestive."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described in sources."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Orphan background; nothing more noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing specific noted."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation exists (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Adoption and found family; supernatural household secret; harem romcom",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 3, "sanctity": 2, "authority": 4, "liberty": 3},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Adopting and welcoming an orphan like Shota echoes the works of mercy.", "concerns": "Vampire blood-drinking and harem fan service in a junior-high setting."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "The Hiragi family's hospitality toward an orphan.", "concerns": "Vampires as sympathetic beings sit near demonic imagery; harem romance stirs passions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Shota gains a loving home after the children's home.", "concerns": "Suggestive harem comedy around a middle schooler; vampires made attractive."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Adoption as a picture of being welcomed into a family.", "concerns": "Suggestive scenes and the 'bloody' vampire secret need a talk."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Care for the fatherless shown in Shota's adoption.", "concerns": "Vampirism and blood themes treated lightly may feel spiritually unsafe."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Covenant-like adoption into the Hiragi household.", "concerns": "Romance played for fan service rather than modesty."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Family vocation of caring for an orphaned boy.", "concerns": "Harem jokes around a junior-high protagonist."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Hospitality and belonging for Shota.", "concerns": "Light treatment of attempted murder (MangaUpdates) and suggestive humor."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gothic fantasy framed around love of family.", "concerns": "Fan service in a story about a child."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Mutual care in a close household.", "concerns": "Worldly harem comedy and bloodshed played as entertainment."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family as the centre of belonging for Shota.", "concerns": "Suggestive content falls short of uplifting-media guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Inclusion of an outsider into a loving family.", "concerns": "Sexualized humor around a minor."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Kindness to an orphan, a strongly honored deed.", "concerns": "Blood-drinking and immodest harem scenes."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Family duty extended to an adopted son.", "concerns": "Blood-centred humor and suggestive romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Compassion toward a lonely orphan.", "concerns": "Harm and craving (blood thirst, attempted murder) played lightly."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Adoption and chosen family shown warmly.", "concerns": "Sexualization of a junior-high protagonist in harem gags."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Belonging and empathy across difference.", "concerns": "Little beyond fan service."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "A traditional household estate that takes in a child.", "concerns": "Suggestive content aimed at teens."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Shota's new home and family warmth.", "concerns": "Undead vampires as sympathetic family; suggestive humor."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Care for an orphan.", "concerns": "Supernatural blood-drinking beings central; blood treated casually."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love that makes a stranger family.", "concerns": "Dwelling on blood, thirst and danger."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of an outsider recognized by the Hiragis.", "concerns": "Fan service involving a minor."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Supernatural beings shown as loving neighbors, not monsters.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Household continuity in a traditional Japanese estate.", "concerns": "Blood as impurity treated comically."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Seva-like care for a child without family.", "concerns": "Lust-tinged harem humor."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity of a family across difference.", "concerns": "Chastity concerns with harem gags."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Family (second dynamic) strengthened by adoption.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Outsider monsters as the sympathetic side.", "concerns": "Fan service around a minor conflicts with rules on children."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Caring for the orphan, a repeated Torah command.", "concerns": "Tzniut issues in harem scenes; blood consumption themes."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Welcoming the orphan into a home.", "concerns": "Immodest humor; blood themes."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion and care for the vulnerable child.", "concerns": "Sexualized gags around a minor."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Comedy of manners; no honor-revenge theme noted in sources."},
+   "Order vs freedom": {"pos": 4, "evidence": "A household keeping a strict secret from the world (blurb)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Story centres on the adoptive family and its secret."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Wealthy traditional estate household (blurb)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Japanese-style estate; supernatural lineage."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Comfort and belonging after an orphanage; no strong pull either way."}
+  },
+  "closest": ["Latin America", "First Nation", "El Norte"],
+  "japan": "Draws on the Japanese rom-com and harem tradition and on the large traditional household (ie) estate as a setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Only blurbs and tags read; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The found-family message appears to come through the comedy and the adoption plot rather than speeches (to verify)."
+ },
+ "winners_losers": "Shota gains a family; the vampire household is the sympathetic side. Details of conflicts are not in the sources.",
+ "to_verify": [
+  "Who attempts murder and how violent the 'bloody' scenes are (MangaUpdates tags only).",
+  "Degree of fan service in the harem setup; MangaDex rates it suggestive.",
+  "No review, Wikipedia cache or parent guide was available; ongoing series."
+ ]
+}

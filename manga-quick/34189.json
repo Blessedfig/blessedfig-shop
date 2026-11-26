@@ -1,0 +1,356 @@
+{
+ "anilist_id": 34189,
+ "title": "Hard Rock",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/34189",
+  "https://api.mangaupdates.com/v1/series/13175355023"
+ ],
+ "premise": "Four high-school bandmates face breaking up before university entrance exams: vocalist Shori and guitarist Nozomu are in a passionate affair, bassist Ai plans to go to America alone, and drummer Yumeji is caught up in a mysterious incident (AniList, MU). Tangled crushes run through the band (MU).",
+ "life_message": "Friends must face growing up and parting ways while being honest about their feelings.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "A 'mysterious incident' (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "High-school band romance, 'passionate love affair' (AniList; MU Yaoi); MangaDex safe; explicitness to verify."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "MU blurb says this band is not about drugs."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Angst and confusion (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship through a band's ending.",
+   "concerns": "Same-sex teen affair."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Bonds of friendship.",
+   "concerns": "Same-sex romance; passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Loyalty among bandmates.",
+   "concerns": "Teen same-sex affair."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Facing the future honestly.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Same-sex romance; rock culture."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation choices before exams.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation and friendship.",
+   "concerns": "LCMS: same-sex romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Care among friends.",
+   "concerns": "Traditional bodies: same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Coming-of-age ensemble.",
+   "concerns": "Views differ by province."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Community of friends.",
+   "concerns": "Worldly music life; romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Study and planning the future.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gay teens with full inner lives.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship; duty to study.",
+   "concerns": "Same-sex romance; music."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty to study and the future.",
+   "concerns": "Same-sex romance; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Impermanence of youth and the band.",
+   "concerns": "Attachment and craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Queer teen ensemble.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Young people choosing their futures.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work toward exams.",
+   "concerns": "Same-sex teen romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Education valued.",
+   "concerns": "Same-sex romance; rock music."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love among friends.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Each bandmate's path respected.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Following one's calling.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Group bond of the band.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest effort toward goals.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Education and friendship.",
+   "concerns": "Chastity; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication among friends.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ai pursues his own dream.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship; study.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Choosing a future.",
+   "concerns": "Teen romance."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive coming-of-age.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Arguments, not honor fights."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Exams versus band freedom (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "The band as chosen family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Bandmates as equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Music and dreams of going abroad (AniList)."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "New France",
+   "English-speaking"
+  ],
+  "japan": "University entrance-exam pressure (juken) ending school-club life reflects Japanese school norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "(to verify) Each bandmate's choices carry the theme.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Coming-of-age told through choices, not speeches."
+ },
+ "winners_losers": "The band breaks up as members choose their futures (AniList); romance outcomes to verify.",
+ "to_verify": [
+  "Explicitness of the Shori and Nozomu affair",
+  "Juné English license lapsed, retracted by Libre (MU)"
+ ]
+}

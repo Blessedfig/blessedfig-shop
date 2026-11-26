@@ -1,0 +1,102 @@
+{
+  "anilist_id": 31325,
+  "title": "Phoenix",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/31325",
+    "https://api.mangaupdates.com/v1/series/19676188564",
+    "https://en.wikipedia.org/wiki/Phoenix_%28manga%29",
+    "https://www.animenewsnetwork.com/house-of-1000-manga/2013-11-21",
+    "https://www.japantimes.co.jp/culture/2016/06/11/books/book-reviews/phoenix-osamu-tezukas-epoch-spanning-manga-masterpiece"
+  ],
+  "premise": "Osamu Tezuka's unfinished 'life's work': twelve self-contained stories ranging from third-century Japan to the far future, linked by the Phoenix, an immortal firebird whose blood is said to grant eternal life. Rulers, soldiers, artists and scientists chase or meet her across eras, and characters recur through reincarnation as their deeds in one life shape suffering in another (Wikipedia; ANN House of 1000 Manga; AniList).",
+  "life_message": "Life is precious because it passes; chasing immortality and power brings suffering, while compassion breaks the cycle of karma.",
+  "overall": 7,
+  "content": [
+    {"category": "Violence", "score": 7, "framing": "Shown with consequences", "note": "A tribe wiped out, bloody battles, mass burial, a face skinned, apocalypse (ANN); AniList War 80%; MU Blood and Gore."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Destruction of all life in 'Future'; bleak 'Life' (ANN); AniList Tragedy, Dystopian."},
+    {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Incest plot in 'Nostalgia' and 'psychedelic' love scenes (ANN); AniList and MU Incest tags. Nudity level to verify."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Despair, loneliness and cruelty across stories (ANN)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Little."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Dharmic (Hindu/Buddhist)", "strength": 8, "stance": "Affirmed"},
+    {"lens": "Environmentalism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Might makes right", "strength": 5, "stance": "Critiqued"},
+    {"lens": "Secular humanism", "strength": 4, "stance": "Explored"},
+    {"lens": "Transhumanism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+    {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Buddhist karma and rebirth; critique of power, war and the craving for immortality; humanity and nature",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 8, "loyalty": 5, "fairness": 7, "sanctity": 6, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Dignity of life; critique of war and of power seeking immortality.", "concerns": "Reincarnation cosmology; incest plot; religion shown corrupted."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Vanity of earthly glory; repentance of the bandit Gao.", "concerns": "Rebirth replaces resurrection; sexual content."},
+    {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Sin has consequences across generations.", "concerns": "Karma and rebirth taught as truth; incest; gore."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Opens deep talk on life, death and meaning (Japan Times).", "concerns": "Buddhist worldview presented as answer."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Pride and power judged.", "concerns": "Spirit beings, gods and reincarnation as real."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common-grace masterpiece on human folly.", "concerns": "False worship; incest."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Honest about sin and mortality.", "concerns": "Karma instead of grace."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Compassion and peace over war (Yamato).", "concerns": "Violence and sexual content."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary epic compared to Shakespeare and Wagner (Wikipedia).", "concerns": "Gore; incest."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Significant", "aligns": "Pacifist prince; war shown as ruin (ANN).", "concerns": "Graphic battles; non-Christian cosmology."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Eternal perspective on life's purpose.", "concerns": "Violence and sexual content."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Anti-war, environmental care, critique of tyranny.", "concerns": "Incest; violence."},
+    {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Folly of seeking immortality apart from the Creator.", "concerns": "Multiple gods, rebirth, incest."},
+    {"frame": "Hindu", "grade": "A", "weight": "Discuss", "aligns": "Karma and samsara drive every story.", "concerns": "Graphic violence."},
+    {"frame": "Buddhist", "grade": "S", "weight": "Discuss", "aligns": "Karma, rebirth, impermanence; Akanemaru and Gao in 'Karma' (ANN).", "concerns": "Graphic violence."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Critique of imperial power, war and ecological collapse.", "concerns": "Incest content."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Meditations on life and science (Life, Future).", "concerns": "Rebirth presented as cosmic law."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "A recognized classic on human nature.", "concerns": "Mature content; religion shown corrupt."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "End-of-humanity story invites reflection.", "concerns": "Immortal soul and rebirth."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Human rule fails.", "concerns": "Spiritism, rebirth, violence."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Life as spiritual and continuing.", "concerns": "Death and suffering dwelt on."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Interdependence of all life; pluralism.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Cycle of life and death; sacred firebird.", "concerns": "Violence."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Japanese myth (Himiko, Sarutahiko, Susanoo) honored (Wikipedia).", "concerns": "Kami tribe fights Buddhists in 'Sun' (ANN)."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Ego (haumai) and craving lead to suffering.", "concerns": "Violence; incest."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Oneness of humanity; folly of war.", "concerns": "Incest; violence."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Immortal beings living many lives.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Questions religious and political authority.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Humility before mortality.", "concerns": "Idolatry and incest."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical depth on power and life.", "concerns": "Incest; gore."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Tikkun olam themes: peace and creation care.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Warriors and revenge appear but are shown as cycles of suffering (ANN; AniList Revenge)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Tyrants and dystopias resisted (ANN; AniList Dystopian)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Humanity and all life, not clan, is the frame."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Rulers' obsessions condemned (Himiko, Yamato king) (ANN)."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Buddhist karma beside science fiction (ANN)."},
+      "Survival vs self-expression": {"pos": 5, "evidence": "Artists' growth in 'Karma'; survival in 'Future' (ANN)."}
+    },
+    "closest": ["Catholic Europe", "The Midlands", "Confucian"],
+    "japan": "Buddhist karma, Shinto myth from the Kojiki era and postwar Japanese pacifism inform Tezuka's epic, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 4,
+    "evidence": "ANN says ideas come through adventure and romance, 'sometimes profoundly, sometimes goofily'; Time called it enlightening (Wikipedia).",
+    "personified": [
+      {"character": "Queen Himiko", "ideology": "Ruler seeking eternal life", "role": "Villain", "treatment": "Mixed"},
+      {"character": "Gao", "ideology": "Bitter bandit transformed by karma and art", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Yamato's king", "ideology": "Militarism and conquest", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Each story embodies the craving for immortality or power in characters who are given human motives before their fall."
+  },
+  "winners_losers": "No one owns the Phoenix; tyrants and immortality-seekers fall, while those who accept mortality and show compassion are favored. The Buddhist view of karma receives sympathy.",
+  "to_verify": [
+    "Nudity and sexual content per story",
+    "Exact content of the incest plot in 'Nostalgia'",
+    "Viz edition age rating; out-of-print status of English volumes",
+    "Japan Times page is largely promotional"
+  ]
+}

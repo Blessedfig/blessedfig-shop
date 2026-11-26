@@ -1,0 +1,92 @@
+{
+ "anilist_id": 105913,
+ "title": "Wandering Witch: The Journey of Elaina",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/105913",
+  "https://api.mangaupdates.com/v1/series/22975582531",
+  "https://animeuknews.net/2020/07/wandering-witch-the-journey-of-elaina-volume-1-manga-review"
+ ],
+ "premise": "Elaina, a young witch inspired by childhood adventure books, travels without a destination, visiting one country after another and meeting good and bad people along the way. Volume 1 includes a novice witch seeking a mentor, a man-eating flower field, a town with fake currency, and Elaina's own backstory (Square Enix blurb via AniList/MU; Anime UK News review).",
+ "life_message": "Seeing the wider world, and its kindness and cruelty, enriches a life, but a traveler cannot fix every place she visits.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "AniList Gore (spoiler); review calls the man-eating flower story 'not for the faint-hearted'."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Episodic tragedies (AniList Tragedy); darker moments conveyed through art (review)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU lists a Rape category; not described in the review opened (to verify). AniList low-rank Yuri."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Amnesia (AniList spoiler tag); not otherwise reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Teen traveling alone; fake-currency town shows fraud."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Manga of a light novel with an anime (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Travel and curiosity; moral fables of each country; independent female protagonist",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 3},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Fable-like episodes exposing greed and fraud (fake-currency town).", "concerns": "Witch heroine; gore and an MU-listed rape category to check."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Pilgrim-like journey teaching about the world.", "concerns": "Witchcraft is the heroine's identity; dark episodes."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Honest look at human sin in each town.", "concerns": "Witches, spells and a witches' exam."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Stories invite talk on right and wrong.", "concerns": "Magic framed as a career path."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Evil shown as real in places.", "concerns": "Witch heroine and magic throughout."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Realistic picture of fallen human societies.", "concerns": "Magic framing; gore."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Neighbor love tested in short encounters.", "concerns": "Dark episodes."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Kindness to strangers on the road.", "concerns": "Witchcraft; violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Fairy-tale moral imagination in the Lewis tradition.", "concerns": "Tragic episodes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simplicity of a wandering life.", "concerns": "Magic; gore."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Learning through experience.", "concerns": "Gore; possible sexual violence (to verify)."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Exposes injustice in various societies.", "concerns": "How victims are treated in dark episodes."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Moral lessons from travel.", "concerns": "Sorcery (sihr) celebrated in a witch heroine."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Karma-like consequences in each town.", "concerns": "Gore."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Observing suffering with some detachment.", "concerns": "Detachment can tip into indifference (to verify)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Confident, independent female lead.", "concerns": "Possible sexual violence episode (MU)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Curiosity and learning from experience.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Fables warning against greed and folly.", "concerns": "Teen alone; magic; dark content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Moral episodes.", "concerns": "Witches and magic central."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Witchcraft as the heroine's life and goal."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Growth through experience.", "concerns": "Fear-inducing episodes."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free search for meaning across cultures.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Witches shown as skilled and sympathetic.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Encounters with strange places and beings.", "concerns": "Blood and death in some tales."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest living contrasted with fraud.", "concerns": "Magic central."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Learning from many peoples.", "concerns": "Magic; violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Self-reliance and observation.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-directed individual living by her own lights.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Moral fables.", "concerns": "Witchcraft forbidden; time-wasting media."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical reflection in each episode.", "concerns": "Gore; sexual violence (to verify)."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Encounters raising justice questions.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Elaina usually observes rather than avenging insults (blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "A life of wandering without destination (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Leaves hometown; brief ties along the way (review)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Witch ranks and mentorship (review: novice seeks mentor)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Magic treated as a learned skill and exam."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Travel for curiosity and enrichment (blurb)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "The episodic travelogue echoes Japanese light-novel fable traditions such as Kino's Journey, noted as context only."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review does not discuss lessons; episodic fable form (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Each country's story carries its own point without a running argument."
+ },
+ "winners_losers": "Elaina moves on from each place; townsfolk who deceive or harm others often face consequences (to verify).",
+ "to_verify": [
+  "MU 'Rape' category: which episode and how it is shown.",
+  "Gore level beyond volume 1.",
+  "Whether Elaina is framed as detached or self-interested in later volumes."
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "anilist_id": 30173,
+ "title": "Cowboy Bebop",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30173",
+  "https://api.mangaupdates.com/v1/series/5969845681"
+ ],
+ "premise": "A three-volume manga based on the anime: Spike, Jet, Faye and Ed are bounty hunters on the spaceship Bebop who take the jobs no one else will on the new frontier of space.",
+ "life_message": "Drifters bound by the past still find a kind of family in each other.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Gunfights while hunting criminals (AniList Guns, Crime; to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Noir and tragedy elements (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Femme fatale character (MU, to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not reported (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Characters haunted by the past (MU Past Plays a Big Role)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Gambling (AniList tag, to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Tie-in to the anime (MU Based on an Anime)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Noir drifters; freedom on the frontier; a found crew",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyalty within a crew of misfits.",
+   "concerns": "Violence and gambling; moral ambiguity."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Burdens of the past.",
+   "concerns": "Passions; noir violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Gunfights, gambling, possible smoking."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Redemption themes possible.",
+   "concerns": "Violence; vice."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Cult and violence."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honest about human brokenness.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation of work.",
+   "concerns": "Gambling."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Gambling; vice."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Moral complexity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Crew bonds.",
+   "concerns": "Gun violence as livelihood."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Violence; possible substances."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diverse found family.",
+   "concerns": "Femme fatale stereotype."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Gambling; violence."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Karma of the past.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Attachment to the past examined.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Outsiders bond.",
+   "concerns": "Gun violence."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reliance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-reliance and work.",
+   "concerns": "Drifters without family or faith."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Teamwork.",
+   "concerns": "Violence; cult."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Found family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freedom.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Gambling; violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Gambling."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Survival.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Independence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Found family.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Bounty hunters settle scores (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 9,
+    "evidence": "Frontier drifters (blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Found crew, no kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Equal crew."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular space future."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Living job to job (blurb)."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "New Netherland",
+   "English-speaking"
+  ],
+  "japan": "A Japanese take on American westerns, noir and jazz, published in a shoujo magazine (AniList)."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic bounty-hunter blurb; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Mood and character carry any message."
+ },
+ "winners_losers": "The Bebop crew gets the sympathy; criminals they hunt are the antagonists (Tokyopop blurb).",
+ "to_verify": [
+  "English license lapsed (MU: not licensed); keep and note.",
+  "AniList Cult and Gambling tags; smoking and drinking level unknown.",
+  "Manga is a side story to the anime; anime content not assumed."
+ ]
+}

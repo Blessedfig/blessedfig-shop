@@ -1,0 +1,93 @@
+{
+ "anilist_id": 117073,
+ "title": "My Wandering Warrior Existence",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/117073",
+  "https://api.mangaupdates.com/v1/series/76332725875",
+  "https://okazu.yuricon.com/2022/03/21/my-wandering-warrior-existence"
+ ],
+ "premise": "An autobiographical comic by Nagata Kabi: after a friend's wedding she decides she wants to marry and to love and be loved, though she has no partner, no dating experience and her only sexual encounters have been with a lesbian escort service; she tries a photoshoot, a dating app and more (Seven Seas blurb via MU). The Okazu review says the book also recounts childhood sexual assault and its retraumatizing effects, and explores her body, sexuality and gender, self-care and self-love. One volume.",
+ "life_message": "Learning to care for and accept oneself is the ground for seeking love.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Condemned", "note": "Childhood sexual assault recounted as past trauma (Okazu)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Okazu: assault material 'rough to read', 'not sugarcoated'."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Escort-service encounters (blurb), sexuality and gender exploration (Okazu); AniList Nudity low rank; explicitness not confirmed (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Alcohol is the subject of a separate memoir; not noted here (to verify)."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Trauma and recovery (Okazu); MU Anxiety; AniList Rehabilitation."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Dating apps and paid escort services as adult choices."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Feminism", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Self-acceptance after trauma; search for love and marriage; sexuality and gender identity",
+ "axes": {"economic": 5, "social": 3, "cultural": 4, "community": 3},
+ "foundations": {"care": 8, "loyalty": 4, "fairness": 5, "sanctity": 2, "authority": 2, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Longing for marriage and the healing of a wounded person.", "concerns": "Paid sexual encounters and same-sex relations presented without moral question."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Honest confession of inner struggle.", "concerns": "Sexual content and identity themes."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Desire for a committed marriage.", "concerns": "Escort service, same-sex sexuality, sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Compassion for an abuse survivor.", "concerns": "Sexual content and LGBTQ themes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Search for healing from trauma.", "concerns": "Sexual immorality as framed."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Frank about brokenness.", "concerns": "Seventh-commandment issues depicted."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "ELCA families may value the honest portrait of a neighbor in pain.", "concerns": "LCMS/WELS: sexual content and same-sex themes."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Care for a wounded person; UMC affirming wing.", "concerns": "Traditional bodies: sexual content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Dignity of a survivor.", "concerns": "Range: ACNA objects to sexual themes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Longing for belonging.", "concerns": "Sexual content and worldliness."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Desire for marriage and family.", "concerns": "Law of chastity; same-sex themes."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Affirming portrait of a queer survivor's healing.", "concerns": "Adult sexual content for teens."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Valuing marriage.", "concerns": "Zina, same-sex relations, immodest images."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Marriage as a life aim; family ties.", "concerns": "Sexual content."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Mindful self-compassion through suffering.", "concerns": "Craving and sexual misconduct questions."},
+  {"frame": "Secular progressive", "grade": "S", "weight": "Discuss", "aligns": "Queer, survivor-centered, mental-health honest.", "concerns": "Adult content; trauma material."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Meaning made through self-understanding.", "concerns": "Age fit."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Wanting marriage.", "concerns": "Sexual and gender themes."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Pursuit of wholeness.", "concerns": "Sexual content; same-sex themes."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Wish for a committed partner.", "concerns": "Immorality and same-sex themes."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Healing of thought and self-image.", "concerns": "Purity standards."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Discuss", "aligns": "Worth and dignity of a queer survivor.", "concerns": "Age-appropriateness."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Sexuality and self-love as sacred and personal.", "concerns": "Little beyond trauma content."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity (makoto) of the diary voice.", "concerns": "Sexual content."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Marriage as spiritual union sought.", "concerns": "Sex outside marriage; lust."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Truthfulness about oneself.", "concerns": "Chastity standards."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Facing past incidents to be free of them.", "concerns": "Mental-health framing (to verify)."},
+  {"frame": "Satanist", "grade": "S", "weight": "Minor", "aligns": "Bodily autonomy and self-determination.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Longing for marriage.", "concerns": "Tzniut and sexual content."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Compassion and honest speech.", "concerns": "Sexual content."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Inclusion and healing.", "concerns": "Adult content."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 1, "evidence": "Inner work and self-love, not face (Okazu)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Pursues her own path in love and identity (blurb; Okazu)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friends' wedding prompts her search; family role not described (blurb)."},
+   "Equality vs hierarchy": {"pos": 2, "evidence": "Individual-scale memoir; no hierarchy themes noted."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Modern dating apps and personal choice (blurb)."},
+   "Survival vs self-expression": {"pos": 10, "evidence": "Self-expression of body, sexuality and gender (Okazu)."}
+  },
+  "closest": ["The Left Coast", "Protestant Europe", "New Netherland"],
+  "japan": "Her wish to marry after a friend's wedding reflects Japanese social expectations about marriage age, which the memoir examines from a personal angle."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 3,
+  "evidence": "First-person diary narration states her conclusions; Okazu praises humor and confidence, not preachiness.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A memoir voices one person's experience rather than arguing against other views."
+ },
+ "winners_losers": "Sympathy rests wholly with the author as she works toward self-acceptance; no opposing figures are described in the sources.",
+ "to_verify": [
+  "How explicit the escort-service and sexual scenes are",
+  "Depiction of the childhood assault",
+  "Whether alcohol or self-harm appears in this volume",
+  "Seven Seas age rating (mature line?)"
+ ]
+}

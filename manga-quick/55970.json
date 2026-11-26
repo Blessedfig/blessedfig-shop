@@ -1,0 +1,361 @@
+{
+ "anilist_id": 55970,
+ "title": "Tokyo Lastochika",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/55970",
+  "https://api.mangaupdates.com/v1/series/22032712520"
+ ],
+ "premise": "In 1910, at the end of the Meiji era, Hana Tsumura, who has lost her mother and cares for her little brother, goes into service at the viscount Arima household and meets the young master, Mitsuyuki (Renta! blurb via AniList; MangaUpdates). A two-volume shoujo tragedy tagged for a cross-class romance, star-crossed lovers, illness, a natural disaster, the death of the love interest and mono no aware.",
+ "life_message": "It honors steadfast love, hard work and grace in the face of loss and social barriers (to verify).",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Natural disaster and illness (MangaUpdates); tragedy (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Cross-class romance between a maid and a young noble (blurbs)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Death of the love interest and grief (MangaUpdates tags)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Love across class lines; impermanence and grief; duty and hard work",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 5,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful love and care for a younger brother.",
+   "concerns": "Grief and death; romance across household roles."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Patient endurance of suffering.",
+   "concerns": "Little to raise beyond grief."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hard work and faithfulness.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love that endures loss.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Endurance in trial.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Providence in hardship themes.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation of service and family care.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Humble service.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Literary tragedy with grace.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Humble service; nonviolent story.",
+   "concerns": "Romance focus."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family care and hard work.",
+   "concerns": "Grief."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Class barriers questioned.",
+   "concerns": "Status hierarchy accepted (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Patience and caring for family.",
+   "concerns": "Unmarried romance (mild)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty and devotion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Impermanence (mono no aware) at the center.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Class inequality explored.",
+   "concerns": "Servant-master power gap."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Human dignity across classes.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work, family duty and loyalty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence and simplicity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithful conduct.",
+   "concerns": "Romance focus."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love beyond material loss.",
+   "concerns": "Illness and death."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Worth of every person.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Cycle of seasons and life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Seasonal beauty and sincere feeling.",
+   "concerns": "Death impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest work and equality across status.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Service and equality.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Integrity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defying class constraints.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Chesed and honoring family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Care for family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Social justice themes.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "No honor conflict noted."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Strict household and class order (tags)."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Hana's duty to her brother."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Viscount family and servant ranks."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Meiji-era custom amid westernization."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Money problems and hard work (tags)."
+   }
+  },
+  "closest": [
+   "South and Southeast Asia",
+   "Tidewater",
+   "Orthodox Europe"
+  ],
+  "japan": "Meiji-era aristocratic households, servant ranks and mono no aware aesthetics frame the story, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Tragic romance summaries only; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Its view of class and loss is carried through the lovers' fate."
+ },
+ "winners_losers": "Hana and Mitsuyuki get sympathy; MangaUpdates tags indicate the love interest dies (to verify).",
+ "to_verify": [
+  "No review found; ending inferred from MangaUpdates tags only.",
+  "Jmanga English edition defunct; Mag Garden English availability."
+ ]
+}

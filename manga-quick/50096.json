@@ -1,0 +1,93 @@
+{
+ "anilist_id": 50096,
+ "title": "Utsubora - The Story of a Novelist",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/50096",
+  "https://api.mangaupdates.com/v1/series/9911225815",
+  "https://otakuusamagazine.com/utsubora-the-story-of-a-novelist/"
+ ],
+ "premise": "A two-volume literary mystery for adults. A young woman, Aki Fujino, dies in a fall after calling the novelist Shun Mizorogi; a girl who looks exactly like her appears, introducing herself as Aki's twin Sakura. As Mizorogi's past ties to Aki come out, his latest book 'Utsubora' draws plagiarism suspicion, and the story turns on who really wrote it (Otaku USA review; MU and AniList descriptions).",
+ "life_message": "Lies about authorship and love unravel those who build their lives on them.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "A mangled corpse identified by Mizorogi (MU description); mysterious death. Capped (to verify)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Suspenseful, dark mystery (Otaku USA); Dark Ambience, Stalker/s, Blackmail (MU)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU lists the Adult genre and Seduction; AniList Nudity tag (rank 75) and Rape spoiler tag; review silent. Capped (to verify), likely understated."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 6, "framing": "Shown with consequences", "note": "A young woman's suicide drives the plot (Otaku USA; AniList Suicide 100, MU Suicide/s)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Condemned", "note": "Plagiarism, deception and blackmail (MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adapted to live-action drama (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Postmodernism", "strength": 5, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 2, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Authorship and identity; deception and guilt; obsession",
+ "axes": {"economic": 5, "social": 6, "cultural": 7, "community": 3},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Lies and plagiarism exposed; truth matters (CCC on lying).", "concerns": "Suicide at the center; adult sexual content listed by MU."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Passions shown leading to ruin.", "concerns": "Sexual content and suicide."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Deceit brings consequences.", "concerns": "Nudity, seduction and suicide."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Sin's consequences unfold.", "concerns": "Adult sexual content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Exposure of hidden sin.", "concerns": "Sexual content; despair."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Ninth commandment theme of false witness.", "concerns": "Lascivious content (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Truth about a writer's guilt.", "concerns": "Explicit content (to verify)."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Moral accounting.", "concerns": "Sexual content and suicide."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Literary moral seriousness.", "concerns": "Sexual content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Sexual content and worldly obsession."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Honesty valued.", "concerns": "Sexual content; immoral media."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Exploitation of a young woman examined (to verify).", "concerns": "Age gap and rape tag; suicide."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Lying punished.", "concerns": "Nudity, seduction, suicide."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Satya and karma of deceit.", "concerns": "Sexual content and suicide."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Craving and false speech cause suffering.", "concerns": "Sexual misconduct shown."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Critiques an older man's use of a young woman (to verify).", "concerns": "Suicide safe-messaging; rape tag."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Questions of authorship and identity explored thoughtfully.", "concerns": "Exploitation themes."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Integrity's collapse shown.", "concerns": "Sexual content and suicide."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Deceit exposed.", "concerns": "Passions excited."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Truth over error.", "concerns": "Dark, degrading themes."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Search for truth.", "concerns": "Exploitation."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "What is sent out returns.", "concerns": "Harm to a young woman."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Insincerity exposed.", "concerns": "Death and impurity."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Truthful living.", "concerns": "Lust and suicide."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Truthfulness.", "concerns": "Unchaste content; suicide."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Integrity questions.", "concerns": "Suicide."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Adult indulgence explored.", "concerns": "Possible non-consent (rape tag)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty and sexual content."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Honesty.", "concerns": "Sexual content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Ethics of deceit.", "concerns": "Exploitation."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Reputation scandal over plagiarism (MU description)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Private, transgressive lives (MU Seduction)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Twin sisters and personal ties (MU Twin/s)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Famous older author and young woman (MU Older Male Younger Female)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Modern literary world; police inquiry (MU Police)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Authorship and artistic identity at the core (Otaku USA)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "English-speaking"],
+  "japan": "Set in Japan's literary-serialization world, where an author's public reputation and editor relationships are central; described, not judged."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Otaku USA: esoteric, carefully paced, keeps some mystery intact rather than explaining.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Meaning is left for readers to infer, per one review."
+ },
+ "winners_losers": "No clear winners; deception and obsession bring ruin (to verify).",
+ "to_verify": [
+  "Skip check: MU lists the Adult genre, but AniList adult is false, MangaDex rates it suggestive, and it is a Vertical title (not Ghost Ship); kept. Confirm explicitness.",
+  "Sexual content capped at 3 for lack of a second source of a different kind; likely understated given MU Adult genre and AniList Nudity rank 75.",
+  "Rape (AniList spoiler) and Age Gap tags: context.",
+  "How the suicide is depicted."
+ ]
+}

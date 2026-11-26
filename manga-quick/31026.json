@@ -1,0 +1,381 @@
+{
+ "anilist_id": 31026,
+ "title": "The Ghost in the Shell 2: Man-Machine Interface",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31026",
+  "https://api.mangaupdates.com/v1/series/63718459621",
+  "https://www.comicsreview.co.uk/nowreadthis/2007/10/02/ghost-in-the-shell-2-man-machine-interface/"
+ ],
+ "premise": "In 2035, Motoko Aramaki, a cyborg fused from several entities, leads investigations for a multinational and runs remote bodies around the world (Kodansha blurb via MangaUpdates). A psychic detective is hired to study changes in the world driven by two forces: a professor's teachings and the evolving Motoko entity. A reviewer calls the plot meandering, with heavy footnotes and a lot of nude, sexualised imagery.",
+ "life_message": "It suggests a mind that keeps merging and evolving beyond the body may be the next step for humanity, and it leaves the question open.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Murder, guns and violence (MU, AniList Guns/Crime); intensity unclear (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Bizarre incidents and identity confusion; not horror-focused (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Reviewer tired of 'the preponderance' of nude, sexualised shots, calling them prurient; MU Nudity, Borderline H; MangaDex erotica; adult characters."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Nothing specific noted."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fractured identity across bodies (blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Hacking and remote bodies; far from daily life."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Part of a major franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 8,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pantheist/New Age",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Naturalism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Transhumanism, post-human identity, network spirituality",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 8,
+  "community": 4
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Asks what a soul is.",
+   "concerns": "Sexualised nudity; humanity remade by technology."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Questions of personhood and spirit.",
+   "concerns": "Passions inflamed by imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Raises questions about the soul.",
+   "concerns": "Nudity and erotica-level imagery."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Worldview discussion of identity.",
+   "concerns": "Sexual imagery; post-human salvation."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Spiritual questions present.",
+   "concerns": "Channeling psychic; sexual imagery."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Engages ideas seriously.",
+   "concerns": "Lascivious pictures; human self-making."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Thoughtful science fiction for adults.",
+   "concerns": "Sexualised art."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ethical questions about technology.",
+   "concerns": "Sexual imagery."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Imaginative inquiry into personhood.",
+   "concerns": "Prurient imagery noted by reviewers."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence, sexual content, technology worship."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Eternal identity as a theme.",
+   "concerns": "Nudity and sexualised content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions about corporations and technology.",
+   "concerns": "Exploitative depiction of women."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions about the soul.",
+   "concerns": "Immodest images; spiritual claims outside tawhid."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self beyond the body echoes atman questions.",
+   "concerns": "Sexualised imagery."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Non-self and fluid identity themes.",
+   "concerns": "Sexual imagery feeds craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions about bodies and power.",
+   "concerns": "Sexualised women in combat (review)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Speculative inquiry into mind and technology.",
+   "concerns": "Psychic 'channeling' treated as real."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Serious ideas.",
+   "concerns": "Sexual content; relativism about identity."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions about life after the body.",
+   "concerns": "Content that excites the passions; spiritism."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Immorality and psychic phenomena."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mind over matter echoes its views.",
+   "concerns": "Sensual imagery; material focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Free search for meaning.",
+   "concerns": "Exploitative depiction."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirit in networks and nature.",
+   "concerns": "Sexualised imagery."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirits in all things echoed in networks.",
+   "concerns": "Little ritual concern; nudity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions of ego and self.",
+   "concerns": "Lust in imagery."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Science and spirit together.",
+   "concerns": "Immodest imagery."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spirit beyond the body echoes thetan ideas.",
+   "concerns": "Sexual imagery."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-made evolution.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Immodest images throughout."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethics of technology.",
+   "concerns": "Sexual imagery."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions for discussion.",
+   "concerns": "Sexualised art."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Investigation and corporate security, not personal honor."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Motoko acts across networks beyond any single authority."
+   },
+   "Civic vs kin": {
+    "pos": 2,
+    "evidence": "Identity spread across networks, not kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Corporate and agency structures but little rank theme."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 9,
+    "evidence": "Technology, AI and evolution of mind dominate."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-transformation and identity exploration."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Protestant Europe"
+  ],
+  "japan": "Written in late-1990s Japan's cyberpunk boom, its corporate settings and Shinto-like spirits in machines reflect Japanese techno-animist ideas, described here as context."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Review: heavy dependence on detailed footnotes and authorial asides that hinder the flow; not called preachy.",
+  "personified": [
+   {
+    "character": "Motoko Aramaki entity",
+    "ideology": "post-human evolution through networked mind",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Professor Rahampol's teachings",
+    "ideology": "a rival force shaping the world (details to verify)",
+    "role": "Other",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Ideas are explained in the author's own footnotes more than argued by characters (to verify)."
+ },
+ "winners_losers": "The evolving Motoko entity is at the center and the ending is ambiguous (MU); ordinary human institutions are left behind.",
+ "to_verify": [
+  "Violence intensity from database tags only.",
+  "Rahampol's role and how it is framed.",
+  "MU notes a 'Short-cut' edition with more sexual content; check which edition is licensed."
+ ]
+}

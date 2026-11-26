@@ -1,0 +1,367 @@
+{
+ "anilist_id": 33274,
+ "title": "Shuna's Journey",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/33274",
+  "https://api.mangaupdates.com/v1/series/18049293276",
+  "https://www.tcj.com/reviews/shunas-journey/"
+ ],
+ "premise": "Hayao Miyazaki's 1983 watercolor story: Shuna, prince of a poor land where people work themselves to death for little grain, sets out west to find a golden grain (First Second blurb). On the way he frees a girl named Thea from captivity, is pursued by her captors, and reaches the Land of the God-Folk (blurb). The Comics Journal notes a possible source in a Tibetan folktale and a long, grueling recovery in the final third.",
+ "life_message": "It honours a ruler who risks himself to feed his people and who is moved by injustice to free the enslaved.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Condemned",
+   "note": "Slave traders and armed conflict (TCJ; AniList and MU Slavery); not graphic per review."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Mythic dread, 'Lovecraftian' god-folk (MU); a grueling ordeal (TCJ)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Gentle romance with Thea (blurb; AniList Heterosexual)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Trauma-like recovery (TCJ); AniList Amnesia spoiler tag."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Carries a rifle on a lone quest (TCJ)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Environmentalism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Self-sacrifice for one's people, freedom from slavery, mythic nature",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 7
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 7,
+  "fairness": 7,
+  "sanctity": 5,
+  "authority": 5,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Prince serves the common good; frees the enslaved.",
+   "concerns": "'God-folk' as mysterious beings."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Self-sacrificing ruler; humility through suffering.",
+   "concerns": "Pagan god-folk imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion for the oppressed.",
+   "concerns": "Other gods implied."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Servant leadership.",
+   "concerns": "Mythic deities."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Courage and compassion.",
+   "concerns": "God-folk as spiritual beings."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Calling to serve one's people.",
+   "concerns": "Pagan cosmology."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation of a ruler for his people.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mercy toward the enslaved.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Classic quest with moral vision.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Mutual aid; freeing captives.",
+   "concerns": "Rifle carried; some conflict."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Service and sacrifice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Justice for laborers and the enslaved.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for the poor; justice.",
+   "concerns": "God-folk as other powers."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Dharma of a ruler.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion and suffering's end.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Anti-slavery; ecological hardship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Moral outrage at injustice.",
+   "concerns": "Mythic powers as real."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Duty to one's people; courage.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Selflessness.",
+   "concerns": "Supernatural beings."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Kindness to the oppressed.",
+   "concerns": "Gods and spirits in the land."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing after ordeal.",
+   "concerns": "Dwelling on trauma."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Liberation and interdependence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Reverence for land and grain.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony with nature; harvest.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Defending the oppressed; honest work.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Service to humanity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Helping others survive.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defiance of slavers.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Freeing captives; caring for the poor.",
+   "concerns": "Idol-like god-folk."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tikkun olam themes.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Justice for the oppressed.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Shuna acts from conscience, not insult."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "A lone quest beyond his land's rules."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Serves his own people but frees a stranger."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "A prince's duty to subjects."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Folktale and mythic world."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "Food and survival drive the quest."
+   }
+  },
+  "closest": [
+   "Puritan",
+   "First Nation",
+   "Tidewater"
+  ],
+  "japan": "Miyazaki draws on what TCJ suggests may be a Tibetan folktale; the hardship of growing grain and reverence for the land also fit agrarian values long familiar in Japan."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "TCJ: 'keeps things more obscure'; Shuna is a passive protagonist reacting to events.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Ideas are left for readers to infer from the journey."
+ },
+ "winners_losers": "Shuna's compassion and endurance carry him through; slave traders are opposed but not given a worldview.",
+ "to_verify": [
+  "Nature of the God-Folk and the ending not verified.",
+  "Whether the god-folk are portrayed as divine or as an alien power."
+ ]
+}

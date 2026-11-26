@@ -1,0 +1,92 @@
+{
+ "anilist_id": 108070,
+ "title": "Assorted Entanglements",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/108070",
+  "https://api.mangaupdates.com/v1/series/58750931308",
+  "https://okazu.yuricon.com/2023/05/29/assorted-entanglements-volume-1/"
+ ],
+ "premise": "Iori Tanaka, a 28-year-old office worker with a habit of dating married men, drinks too much and wakes up naked beside Minami, a tattooed, pierced bar worker who does not want to forget their night. The series follows their mismatched relationship and several other women's love stories, including Minami's foster sister and Iori's younger sister (AniList; MU; Okazu review).",
+ "life_message": "Love can grow between unlikely people, and found family can steady those who have had rough starts.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Slapstick, e.g. Minami's foster sister greets her with a physical attack (Okazu; MU Slapstick Comedy)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light comedy-drama (Okazu)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Endorsed", "note": "Adult women's same-sex relationships; opens with a drunken one-night stand implied, 'light nudity, nothing salacious' (Okazu; AniList; MU). Affairs with married men (AniList; MU Affair/s)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Blunt characters (MU); profanity not reported."},
+  {"category": "Substances", "score": 4, "framing": "Neutral", "note": "Iori is a 'sloppy drunk' (Okazu); MU Alcoholic, Bar/s."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "MU lists Abusive Parent/s and Domestic Abuse in backstories; Minami had 'rough spots' (Okazu)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Heavy drinking and affairs with married men shown as part of Iori's life (AniList; Okazu)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Began as a web manga on Twitter and Pixiv (AniList)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Adult yuri romance; unlikely couples; found family",
+ "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 5},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 1, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Care between Minami and her foster family.", "concerns": "Same-sex relationships, a one-night stand and affairs with married men."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Little alignment beyond mutual care.", "concerns": "Same-sex romance, drunkenness and adultery."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex romance, drunkenness and affairs."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Recovery from rough pasts.", "concerns": "Same-sex romance as the core; alcohol."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex romance and drunkenness."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest picture of brokenness (common grace).", "concerns": "Same-sex romance; adultery."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Neighborly care among sisters.", "concerns": "LCMS/WELS: same-sex romance; ELCA less concerned."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Hospitality to people with hard histories.", "concerns": "Drunkenness; affairs; traditional bodies object to same-sex romance."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Affirming provinces welcome loving same-sex couples.", "concerns": "Alcohol and adultery; ACNA would object."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Mutual aid in families.", "concerns": "Worldliness, drink and same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Family support.", "concerns": "Word of Wisdom and law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Affirming portrayal of women loving women.", "concerns": "Alcohol misuse and affairs with married men."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Alcohol, same-sex romance and zina."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Sisterly bonds.", "concerns": "Intoxication; romance outside family norms."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Kindness to the hurt.", "concerns": "Intoxicants (fifth precept); affairs."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer women's love stories, diverse family forms.", "concerns": "Alcohol use and consent around drunkenness."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Consenting adult relationships affirmed.", "concerns": "Drinking and affairs."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Responsibility grows in characters.", "concerns": "Same-sex romance, drink and adultery."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Alcohol and same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immorality and same-sex romance."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Love as healing.", "concerns": "Alcohol."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Welcoming portrayal of women loving women.", "concerns": "Alcohol misuse."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Consenting adult love affirmed.", "concerns": "Affairs harm others."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Everyday harmony among found family.", "concerns": "Little doctrine; drinking normal."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest work and care.", "concerns": "Alcohol and adultery."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Alcohol and relations outside marriage."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Growth from past trauma.", "concerns": "Unfaithfulness (affairs)."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Consenting adults free; indulgence.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex relations and adultery."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Committed relationships may be affirmed (CJLS 2006).", "concerns": "Affairs and drinking."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "LGBTQ inclusion.", "concerns": "Affairs; alcohol."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Quarrels handled with slapstick (Okazu)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Characters follow their own romantic choices (AniList; MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Foster sister and younger sister as found and chosen family (Okazu)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Office worker and bar server as equals (Okazu)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Modern urban life, no faith elements (MU)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Love and identity as core themes (MU Yuri)."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "English-speaking"],
+  "japan": "Reflects Japanese office-worker (OL) life and izakaya drinking culture, described as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Okazu calls it 'a goofy manga that requires no deep emotional investment'.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values arrive through slice-of-life comedy rather than statements."
+ },
+ "winners_losers": "The unlikely couples get the sympathy; 'a terrible couple that kind of works anyway' (Okazu).",
+ "to_verify": [
+  "Ages of all characters; AniList School tag (60) and MU Delinquent/s suggest a younger character, possibly a minor, in a later arc.",
+  "Level of sexual content in later volumes (review covers volume 1 only).",
+  "Abuse backstories (MU tags only)."
+ ]
+}

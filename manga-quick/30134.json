@@ -1,0 +1,90 @@
+{
+ "anilist_id": 30134,
+ "title": "MÄR",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30134",
+  "https://api.mangaupdates.com/v1/series/34121321511"
+ ],
+ "premise": "Ginta Toramizu, a short, near-sighted 14-year-old who struggles at school, is summoned into the fantasy world he has dreamed of 102 times, where he is strong and agile (Viz blurb via AniList and MangaUpdates). With his companion Jack and Babbo, a talking iron-ball weapon, he searches for magic items called ÄRMs, one of which may send him home. The 15-volume shonen series features tournaments, teamwork and war (MangaUpdates; AniList tags).",
+ "life_message": "Courage and friendship can let an ordinary kid become a hero.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Endorsed", "note": "Tournament battles and war (MangaUpdates Tournament/s; AniList War spoiler, Military). Capped: database only (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Zombies, curses (AniList, MangaUpdates). Capped (to verify)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Dead father; low self-esteem at start (blurb; MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Thieves among characters (MangaUpdates)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Collectible magic items (ÄRMs) and an anime adaptation (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Wish-fulfilment isekai; teamwork; courage",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Ginta's courage and friendship with Jack and Babbo.", "concerns": "Magic items central; battles."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humble boy grows in virtue.", "concerns": "Witches and curses."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Friendship and perseverance.", "concerns": "Witch characters and magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Teamwork against evil.", "concerns": "Magic system."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Courage.", "concerns": "Witches, curses and zombies."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common-grace adventure.", "concerns": "Magic."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Ordinary boy given a calling.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Helping friends.", "concerns": "Battles."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Fairy-tale portal fantasy in a Narnia-like mode.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "War and fighting as heroism."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Growth through trial.", "concerns": "Battles."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Underdog empowered.", "concerns": "War."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Courage and loyalty.", "concerns": "Witches and magic."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Hero's duty.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Fighting."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Underdog story.", "concerns": "Militarism tag."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Self-improvement.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Heroism and good versus evil.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Magic and zombies."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Magic, witches and war."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Limits overcome.", "concerns": "Curses."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Teamwork.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic world.", "concerns": "Witch characters may be villains (to verify)."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Fairy-tale spirits.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Courage.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity.", "concerns": "War."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Ability increased.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal power.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Magic and witches."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Courage.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Justice.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Tournament duels (MangaUpdates)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Travel and adventure freely (MangaUpdates World Travel)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Team of friends; father-son subplot (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Chess Roles tag suggests ranked enemies (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Magic and fairy-tale world (AniList)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "War against enemies (AniList)."}
+  },
+  "closest": ["El Norte", "The Far West", "Tidewater"],
+  "japan": "Reflects Japanese shonen ideals of friendship, effort and victory."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about delivery."
+ },
+ "winners_losers": "Ginta and friends are sympathetic; outcomes not in opened sources.",
+ "to_verify": [
+  "Batch MangaUpdates match was by title only; the record's Viz blurb matches AniList.",
+  "Violence and war intensity; database only.",
+  "Viz age rating not checked."
+ ]
+}

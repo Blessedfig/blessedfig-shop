@@ -1,0 +1,92 @@
+{
+ "anilist_id": 108000,
+ "title": "Otherworldly Munchkin: Let’s Speedrun the Dungeon with Only 1 HP!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/108000",
+  "https://api.mangaupdates.com/v1/series/48408533583",
+  "https://api.mangadex.org/manga?title=Isekai Munchkin (record 39741b91-7782-452d-984b-70b3df834976)",
+  "https://kodansha.us/series/otherworldly-munchkin-lets-speedrun-the-dungeon-with-only-1-hp"
+ ],
+ "premise": "Sixteen-year-old Yukito Kirihara is killed while protecting his 14-year-old sister Sana from an ogre. Reincarnated with a character sheet and only 1 HP, he finds Sana's name in the same book and sets out through dungeons to find and save her.",
+ "life_message": "Devotion to family is worth any risk, and clever planning can beat overwhelming odds.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Neutral", "note": "Protagonist killed by an ogre, dungeon combat (Kodansha description); MangaDex Gore tag (to verify extent)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Death and a missing sister; MU Dark Ambience, Cult; Kodansha description."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU Ecchi genre, Big Breasts, Bikini; MangaDex Sexual Violence tag unconfirmed (to verify; capped)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described; Kodansha rates 13+ (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "MU Hikikomori tag (1 vote); grief over death."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Risk-taking game strategy in fantasy."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Video-game mechanics framing (AniList Video Games; MU Level System)."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Pragmatism (game-optimizing), family devotion, Might makes right (explored)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 8, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Yukito dies protecting his sister: self-giving family love.", "concerns": "Ecchi elements and possible gore; magic framing."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Sacrificial love for a sibling.", "concerns": "Fan service and gore-tagged violence; cult elements."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Brother's protective duty to his sister.", "concerns": "Ecchi content and spells; gore."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Sacrifice for family as a talking point.", "concerns": "Fan service; reincarnation presented as given."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Courage against monsters.", "concerns": "Reincarnation by a mysterious being, spells and cult elements."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Brotherly duty under fifth-commandment family bonds.", "concerns": "Reincarnation worldview; immodest images."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Love of neighbor beginning with family.", "concerns": "Ecchi content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Selfless care for Sana.", "concerns": "Ecchi and violence as entertainment."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Clear good aim: rescuing his sister.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Family devotion.", "concerns": "Dungeon combat as the method; immodest imagery."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Family loyalty is central.", "concerns": "Ecchi content conflicts with modesty guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Protecting the vulnerable.", "concerns": "Female characters as fan service (MU tags)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Duty to protect family.", "concerns": "Immodesty; sorcery shown positively."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Rebirth and duty to kin are familiar themes.", "concerns": "Modesty in ecchi scenes."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Rebirth and compassion for a sibling.", "concerns": "Violence and craving for power."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Sibling care.", "concerns": "Sexualized female characters; a 14-year-old sister in peril."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Problem-solving and reason under limits.", "concerns": "Violence and fan service."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Older brother as protector.", "concerns": "Fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Family love.", "concerns": "Reincarnation and magic; immodest images."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Magic, reincarnation and violent entertainment."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Not limited by apparent weakness (1 HP).", "concerns": "Death and fear dwelt on."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of the vulnerable sister.", "concerns": "Fan service."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic used to protect kin.", "concerns": "Little beyond fan service."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Family bonds and courage.", "concerns": "Death and blood."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Courage to protect the weak.", "concerns": "Lust in fan service."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Selfless love.", "concerns": "Violence and immodesty."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Survival along the family dynamic.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-reliance and cunning.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Protecting family.", "concerns": "Immodest images; sorcery."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Family duty.", "concerns": "Fan service and violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Protecting the vulnerable.", "concerns": "Glorified violence; objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "No honor code stated; goal is rescue (Kodansha description)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Lone 'munchkin' bending game rules (title; AniList Anti-Hero)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Treasures his sister 'more than anyone else' (Kodansha description)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Little hierarchy noted in sources."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Game-logic approach to a fantasy world."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Survival with 1 HP is the premise."}
+  },
+  "closest": ["El Norte", "The Far West", "First Nation"],
+  "japan": "The devoted older-brother role reflects Japanese expectations of an elder sibling's responsibility for younger ones."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Only publisher description and tags; message carried by the rescue plot (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe an adventure driven by family devotion without a stated ideology."
+ },
+ "winners_losers": "Yukito and Sana are the sympathetic center; nothing in sources describes a rival worldview.",
+ "to_verify": [
+  "MangaDex tags Sexual Violence and Gore, and MU lists Cult; not confirmed by any review.",
+  "Ecchi level against Kodansha's 13+ rating.",
+  "No review found; scores rely on the Kodansha page and database tags."
+ ]
+}

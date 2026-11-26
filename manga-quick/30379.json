@@ -1,0 +1,93 @@
+{
+ "anilist_id": 30379,
+ "title": "Ice Blade",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30379",
+  "https://api.mangaupdates.com/v1/series/34711139334"
+ ],
+ "premise": "Kyoya Ida is a hard-nosed Shinjuku police detective known for using lethal force to solve cases when legal means reach a dead end; this makes him unpopular with officers and the National Police Agency, though some admire him (AniList/MU description). An episodic seinen crime and psychological series (MU genres Mature, Psychological), 19 volumes complete in Japan; Tokyopop released only 3 volumes in English (MU).",
+ "life_message": "Justice sometimes requires a hard, solitary man willing to go past the rules (presented ambiguously).",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Neutral", "note": "Detective uses lethal force (description); MU Murders, Serial Killers, Blood and Gore, Mutilation; AniList Guns. Graphic level (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "MU Dark Ambience, Heavy Atmosphere, Psychopaths; capped, database only (to verify)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "MU lists sexual assault including gang rape, forced prostitution and incest as crime-plot elements; AniList Nudity (40). Database only, capped at 3 (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Crime setting; not checked (to verify)."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "MU Drug Abuse/Addiction, Drugs, Smoking (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "MU Suicides, Attempted Suicide, Depression, Psychological Trauma; capped, database only (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Extra-legal police violence framed with admiration by some colleagues (description)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 5, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 5, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 3, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Noir anti-hero justice; ends versus means in policing",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 3},
+ "foundations": {"care": 3, "loyalty": 4, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Pursuit of justice for victims of grave crimes.", "concerns": "Ida's lethal force beyond law; sexual violence among the crimes."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Evil shown as truly evil.", "concerns": "Violence and dark passions throughout."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Crime punished.", "concerns": "Vigilante killing; sexual crimes; drugs."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Justice sought.", "concerns": "Gratuitous darkness (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Wickedness exposed.", "concerns": "Cult and gore; despairing tone."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Magistrate bears the sword; sin depicted truthfully.", "concerns": "Ida acts outside lawful order."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Two kingdoms: police restrain evil.", "concerns": "Unlawful force romanticized."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Victims of abuse taken seriously.", "concerns": "Do-no-harm ethic broken by the hero."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Moral complexity in noir form.", "concerns": "Graphic crime."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence as the answer to violence."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Evil confronted.", "concerns": "Violent, immoral content."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Exposes corruption and abuse.", "concerns": "Police brutality treated as effective."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Justice for the wronged.", "concerns": "Exceeds just limits; nudity; intoxicants."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Duty to punish adharma.", "concerns": "Cruelty."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Shows cycles of violence.", "concerns": "Killing as solution."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Shows institutional corruption.", "concerns": "Glorified police violence; sexual violence as plot."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Questions how justice should work.", "concerns": "Due process bypassed."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Tough lawman against criminals.", "concerns": "Gratuitous gore and sexual crime."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Evil exposed.", "concerns": "Violence; drugs."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violent entertainment (Psalm 11:5)."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Fear-inducing, degrading images."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Critique of corrupt institutions.", "concerns": "Cruelty."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Consequences of harm.", "concerns": "Harm-none ethic broken."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Order restored.", "concerns": "Death and blood (kegare)."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Defending the oppressed.", "concerns": "Vengeance and cruelty."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Justice.", "concerns": "Violence; drugs."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Opposes crime and drugs.", "concerns": "Lawless force."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Proportionate retaliation; distrust of bureaucracy.", "concerns": "Harm to children (MU Child Death)."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Justice pursued.", "concerns": "Immodest images; violence."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Pursuit of justice.", "concerns": "Degrading content."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Exposes corruption.", "concerns": "Cruelty."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Ida settles cases personally by lethal force rather than through legal process (description)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Ida defies police hierarchy and rules (description)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Partners and personal loyalties (MU Partners)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Unpopular with high-ranking officers (description)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Secular crime noir."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Bleak, violent world (MU Dark Ambience)."}
+  },
+  "closest": ["The Far West", "Borderer", "Greater Appalachia"],
+  "japan": "A 1990s Japanese police noir; the lone detective at odds with the National Police Agency hierarchy reflects tension with Japan's rule-bound institutions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Description presents Ida as polarizing (admired by some, disliked by others); no review opened (to verify).",
+  "personified": [
+   {"character": "Kyoya Ida", "ideology": "Lethal force is justified when the law fails", "role": "Hero", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The series description shows colleagues both resenting and admiring Ida's methods."
+ },
+ "winners_losers": "Ida's methods appear to get results while costing him standing in the force; sympathy for his worldview is mixed (description).",
+ "to_verify": [
+  "Possibly understated: MU lists sexual assault, forced prostitution, incest, mutilation, child death and suicide; scores capped at 3 for lack of a second source of a different kind.",
+  "English license partial: Tokyopop cancelled after 3 of 19 volumes (MU).",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

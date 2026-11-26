@@ -1,0 +1,91 @@
+{
+ "anilist_id": 141613,
+ "title": "I'll Raise You Well in This Life, Your Majesty!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/141613",
+  "https://api.mangaupdates.com/v1/series/15953612815"
+ ],
+ "premise": "Ellisa, an imperial consort, wakes to find herself back in the past with her young son Leon. In her first life she fought to make him emperor, but the bloody path to the throne ended with Leon taking his own life before her eyes; now she resolves to secure his survival and happiness another way (Tappytoon blurb via AniList/MU). A full-color webtoon from a Korean novel, first released in English.",
+ "life_message": "A parent's love should seek a child's happiness, not the power the parent thinks will protect him.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "First life's throne 'soaked with the blood of his enemies and beloved ones' (blurb); MU Tyrant/s, Intrigue/s."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Court intrigue and a child in danger (blurb, MU)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Married protagonist; MU Polygamy (1 vote) in an imperial harem setting (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Son's suicide in the first timeline drives the plot (publisher blurb); one source kind, capped (to verify how it is shown)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Mother-son love; regret and second chances; the cost of seeking power",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 7},
+ "foundations": {"care": 9, "loyalty": 8, "fairness": 5, "sanctity": 4, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Ellisa's repentance of ambition for her son's true good.", "concerns": "Suicide in backstory; magic time reset."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Repentance and turning from pride.", "concerns": "Suicide shown; polygamous court."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Parental love and changed priorities.", "concerns": "Magic; suicide in backstory."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Second chance as a picture of grace.", "concerns": "Rewind magic; possible devil deal (MU tag)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Restoration of a family.", "concerns": "'Deal with the Devil' tag (MU, 1 vote) to check."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Folly of grasping at power.", "concerns": "Self-murder in backstory."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation of motherhood.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Love over ambition.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Moral reckoning with past wrongs.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Rejects the bloody path to power.", "concerns": "Court violence."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Family and child's happiness central.", "concerns": "Suicide portrayal to check."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Listening to the child's own wishes.", "concerns": "Suicide safe-messaging."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Mother's devotion.", "concerns": "Suicide forbidden; magic."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Karma of past choices and a new chance.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Attachment to power caused suffering; she lets go.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Child's autonomy respected.", "concerns": "Suicide depiction."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Learning from mistakes.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Devoted mother; duty and family.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Family focus.", "concerns": "Magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Family love.", "concerns": "Magic and court politics."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love overcoming past error.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Child's own voice matters.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Cycles and second chances.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Household continuity.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Humility over ego.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Spiritual growth and nonviolence.", "concerns": "Suicide."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Second-dynamic family focus.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "C", "weight": "Minor", "aligns": "Self-determination of the son.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Teshuva-like turning.", "concerns": "Magic; suicide."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Repentance and family.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Repair of relationships.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Court rivalries and enemies (blurb, MU Intrigue/s)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Imperial court rules and succession (MU Royal Court)."},
+   "Civic vs kin": {"pos": 9, "evidence": "Everything centers on her son (blurb)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Emperor, consorts and princes (MU Monarchy, Emperor/s)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Magic and monarchy (AniList Magic, Historical)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Survival first, then happiness (blurb)."}
+  },
+  "closest": ["South and Southeast Asia", "Tidewater", "Latin America"],
+  "japan": "Originally a Korean novel and webtoon, not Japanese; AniList counts it as manga because of its first eligible release, and it uses the regression-romance-fantasy conventions of Korean webtoons."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; message carried by Ellisa's changed choices per blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The contrast is between Ellisa's first-life ambition and her second-life aims."
+ },
+ "winners_losers": "Ellisa and Leon are sympathetic; the ruthless path to the throne is shown as ruinous.",
+ "to_verify": [
+  "No review fetched: plot after the setup, rivals and whether a 'Deal with the Devil' (MU, 1 vote) occurs.",
+  "How the son's suicide in the first timeline is depicted.",
+  "Korean original (MU type Manhwa); confirm it belongs in a manga guide."
+ ]
+}

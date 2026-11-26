@@ -1,0 +1,375 @@
+{
+ "anilist_id": 39880,
+ "title": "Clear Skies!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/39880",
+  "https://api.mangaupdates.com/v1/series/41507075679"
+ ],
+ "premise": "Magazine editor Taiga Obinata runs a crowded household of orphaned siblings. One night novelist Shuu Asuou, Taiga's old classmate and one of his own writers, turns up announcing he has married the family's eldest sister Shima, who then goes missing, so he stays. Two volumes of family comedy and drama adapted from Akira Sugano's novel series, with a slow boys' love thread (MU).",
+ "life_message": "A chosen and inherited family that keeps its door open, even to someone it resents, is where people heal.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MU lists a Violent Character; likely sibling scuffles and comic violence (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Missing sister and hidden past drive tension (MU Missing Person, Hidden Past)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Slow shounen-ai romance (MU Shounen Ai, Slow Romance); no explicit tags; MangaDex safe."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "MU lists Attempted Suicide and Difficult Childhood in the backstory (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Confucian ethics",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Communitarianism, Confucian ethics, Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 7
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Siblings caring for one another after losing parents; adoption and hospitality to a stranger.",
+   "concerns": "A same-sex romance in the household, which the Catechism does not approve."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Household life of mutual service and forgiveness of an unwelcome in-law.",
+   "concerns": "Romantic love between men conflicts with Orthodox teaching on marriage."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Older siblings sacrificing to raise younger ones.",
+   "concerns": "Same-sex romance; BF&M 2000 defines marriage as one man and one woman."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "A family learning to accept an outsider who arrives uninvited.",
+   "concerns": "Same-sex romance is outside traditional evangelical sexual ethics."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Endurance of a family through loss and a past suicide attempt.",
+   "concerns": "Same-sex romance runs against holiness standards in AG position papers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest look at a fractured family and its hidden wounds.",
+   "concerns": "Same-sex romance; conservative Reformed families would flag it."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation in daily work and family: an editor caring for his siblings.",
+   "concerns": "LCMS and WELS families would raise the romance; ELCA would not."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Works of mercy inside a home: feeding, sheltering, forgiving.",
+   "concerns": "Traditional Wesleyan bodies object to the romance; UMC does not."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle domestic comedy about hospitality and belonging.",
+   "concerns": "ACNA readers would raise the romance; Episcopal readers less so."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Simple shared household and mutual aid among siblings.",
+   "concerns": "Worldly romance plot; conservative groups avoid such media."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Strong focus on family responsibility and caring for younger children.",
+   "concerns": "Same-sex romance conflicts with The Family: A Proclamation."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "An adoptive, nontraditional family and same-sex love shown with warmth.",
+   "concerns": "Past suicide attempt needs a talk-through with younger readers."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Kindness to orphans and keeping family together.",
+   "concerns": "Same-sex romance contrary to traditional Islamic teaching."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty to siblings and elders as household dharma.",
+   "concerns": "Same-sex romance; family views vary widely."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion for a wounded outsider; letting go of resentment.",
+   "concerns": "Attachment and grief drive the drama."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Chosen family and an unforced same-sex romance.",
+   "concerns": "Little to raise; check how the suicide backstory is handled."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Reasonable people working through conflict in a shared home.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Older siblings shouldering responsibility; a close-knit household.",
+   "concerns": "Same-sex romance presented in a family story."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Hard work and care for the family.",
+   "concerns": "Same-sex romance; Fundamental Belief 22 on entertainment."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Love among siblings and bearing with one another.",
+   "concerns": "Same-sex romance contrary to Witness standards."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love overcoming grief and resentment in the home.",
+   "concerns": "Dwelling on past trauma and the missing sister."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inherent worth of every household member, chosen or born.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hearth and kin bonds; harm-none living together.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Household continuity and gratitude among siblings.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Seva within the family; honest work supporting siblings.",
+   "concerns": "Same-sex romance; Akal Takht position on marriage."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Unity of a family that consults and forgives.",
+   "concerns": "Same-sex romance and Bahá'í chastity teaching."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Second dynamic: family and raising children.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Shuu ignoring family objections to live as he chooses.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Chesed toward orphans and a stranger at the door.",
+   "concerns": "Same-sex romance; Leviticus 18:22."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family bonds and hospitality as Jewish values.",
+   "concerns": "Little; romance shown openly."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and a family that makes room.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Disputes over Shuu are argued out at home, not settled by honor (MU Family Drama)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Household rules set by a dominant elder sister, yet members choose their own paths."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "Siblings and in-laws come first; story stays inside the family (MU Big Family, Protective Family)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Eldest sister described as the family dictator; older siblings lead (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern working lives; no religious frame."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Feelings, belonging and personal ties are the focus."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Latin America",
+   "El Norte"
+  ],
+  "japan": "Reflects Japanese norms of the eldest sibling standing in for absent parents and of in-laws joining the household (inseki), shown as family duty rather than argued."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Comedy-drama blurbs; message carried by household events (to verify).",
+  "personified": [
+   {
+    "character": "Shuu Asuou",
+    "ideology": "Persistent belonging in a family that rejects him",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The family's objections to Shuu are played for comedy and drama rather than argued."
+ },
+ "winners_losers": "The household and its willingness to make room for Shuu draw sympathy; the outcome of the sister's disappearance is not confirmed (to verify).",
+ "to_verify": [
+  "Who the romantic pair is and how far it goes",
+  "How the attempted suicide in the backstory is handled (MU)",
+  "Out of print status of the Juné edition",
+  "Ending"
+ ]
+}

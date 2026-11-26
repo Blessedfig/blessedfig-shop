@@ -1,0 +1,362 @@
+{
+ "anilist_id": 66407,
+ "title": "His Rose Colored Life",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/66407",
+  "https://api.mangaupdates.com/v1/series/69627635302"
+ ],
+ "premise": "A sequel to the first stories of 'Apple and Honey': Natsuki Matsuda, a 20-year-old university student openly gay since 15, dates 19-year-old Komano, a free spirit popular with women. Natsuki struggles with insecurity, jealousy and possessiveness as the relationship deepens.",
+ "life_message": "Love lasts when partners face insecurity and jealousy honestly.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult same-sex relationship; MU lists explicit sexual acts and MangaDex rates erotica (to verify; likely higher)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Anxiety, insecurity, inferiority complex (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Jealousy and possessiveness (Juné blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism; Progressivism",
+ "axes": {
+  "economic": 5,
+  "social": 2,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Fidelity sought in love.",
+   "concerns": "Same-sex sexual relationship affirmed; sexual scenes."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Struggle with passions of jealousy.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Commitment valued.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty between partners.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest struggle with sin of envy.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Bearing with each other.",
+   "concerns": "Sexual content; synods differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love growing past jealousy.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Realistic relationship drama.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Humility in love.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Commitment.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Realistic gay relationship (MU).",
+   "concerns": "Sexual explicitness."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming insecurity.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Facing jealousy and attachment.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Proud gay protagonist.",
+   "concerns": "Sexual explicitness for teens."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Emotional honesty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Commitment.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Fidelity.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming fear.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Affirming gay identity.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Love between consenting adults.",
+   "concerns": "Possessiveness."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity in love.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Overcoming ego.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truthfulness.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithfulness to partner.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adults' sexual freedom.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honesty.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Committed relationship.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Sexual content."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Jealousy handled through talk."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Free-spirited partner; personal freedom."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Couple over family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Senpai-kohai, near equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular university life."
+   },
+   "Survival vs self-expression": {
+    "pos": 9,
+    "evidence": "Identity and self-expression central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Protestant Europe"
+  ],
+  "japan": "Senpai-kohai roles at university shape the couple's dynamic (MU Senpai-Kouhai)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; from Juné blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Acceptance is carried by Natsuki's relationship struggles."
+ },
+ "winners_losers": "Natsuki and Komano's relationship is central; sympathy rests with the couple.",
+ "to_verify": [
+  "Explicitness of sexual content (MangaDex erotica; MU explicit acts) - likely understated at 3",
+  "Juné edition availability",
+  "MU lists 2012 start, AniList 2011"
+ ]
+}

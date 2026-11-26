@@ -1,0 +1,92 @@
+{
+ "anilist_id": 87380,
+ "title": "23:45",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/87380",
+  "https://api.mangaupdates.com/v1/series/34282599178",
+  "https://www.mangaupdates.com/series/fqyz2tm",
+  "https://kodansha.us/series/2345/volume-1/"
+ ],
+ "premise": "Iku, a college freshman in Tokyo who has started seeing ghosts, takes in Mimori, a friendly spirit who haunts a pedestrian bridge (Kodansha USA). Every night at 23:45 Mimori is pulled back to the bridge to relive his death, and Iku searches for a way to free him (Kodansha; MU). A one-volume BL supernatural drama rated 16+ by Kodansha, with a sequel, '23:45 Re;'.",
+ "life_message": "It suggests that love and attention can help free a person from a past tragedy.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Shown with consequences", "note": "A death replayed nightly (Kodansha)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Ghosts and a recurring death loop."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "BL romance between Iku and a ghost; Kodansha 16+; MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Suicide is tagged as a spoiler on AniList and listed on MU; the 'downfall' is replayed nightly. Capped at 3: no non-database source confirms suicide (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Otaku culture backdrop."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Grief and release; ghost romance",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Compassion for a soul in torment.", "concerns": "Same-sex romance; suicide theme; wandering ghost."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Mercy toward the dead.", "concerns": "Same-sex romance with a spirit."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Care for the hurting.", "concerns": "Same-sex romance; ghost contact."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Kindness to a lonely figure.", "concerns": "Same-sex romance; spirits."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Living with a spirit; same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest about grief.", "concerns": "Same-sex romance; suicide."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Compassion.", "concerns": "Varies by synod on BL."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love for the suffering.", "concerns": "Varies by body; suicide theme."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Mercy.", "concerns": "Varies on BL."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Care.", "concerns": "Same-sex romance; spirits."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Compassion around suicide.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Love and healing.", "concerns": "Suicide safe-messaging."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex romance; suicide."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Release of a restless soul.", "concerns": "Suicide; varied views on BL."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Freeing a being from a cycle of suffering.", "concerns": "Suicide."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Queer romance.", "concerns": "Suicide portrayal guidelines."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Care.", "concerns": "Suicide framing; ghosts as fiction only."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Compassion.", "concerns": "Same-sex romance; suicide."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Spirits of the dead as real."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Spiritism; same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming a fixed past.", "concerns": "Dwelling on death."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Love's healing.", "concerns": "Suicide."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Helping a spirit move on.", "concerns": "Suicide."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Pacifying a restless spirit.", "concerns": "Death impurity."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Compassion.", "concerns": "Suicide; same-sex romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Soul progresses after death.", "concerns": "Suicide; same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spirit continues.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Affirming romance.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Necromancy-like contact; same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Compassion.", "concerns": "Suicide."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Love and healing.", "concerns": "Suicide."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Quiet, private drama."},
+   "Order vs freedom": {"pos": 6, "evidence": "A student living on his own terms."},
+   "Civic vs kin": {"pos": 4, "evidence": "Two individuals, no family focus."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peers."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Ghosts in a modern city."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Otaku life; romance."}
+  },
+  "closest": ["The Midlands", "English-speaking", "Yankeedom"],
+  "japan": "Restless spirits bound to the place of death reflect Japanese ghost-story traditions (yurei)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No stated message in summaries."
+ },
+ "winners_losers": "Iku and Mimori (to verify ending); sympathy goes to compassion.",
+ "to_verify": [
+  "Whether Mimori's death is a suicide and how it is shown (AniList spoiler tag; MU category).",
+  "Possibly understated: Mental health score capped by sourcing rule.",
+  "Ending; MU notes a bittersweet ending."
+ ]
+}

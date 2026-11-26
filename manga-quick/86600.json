@@ -1,0 +1,89 @@
+{
+ "anilist_id": 86600,
+ "title": "DAYS",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/86600",
+  "https://api.mangaupdates.com/v1/series/37272803153"
+ ],
+ "premise": "Just before high school, timid, kind-hearted Tsukushi Tsukamoto meets Jin Kazama, who invites him to a pick-up soccer game. Inspired, Tsukushi joins his new school's soccer club, one of Japan's strongest, and grows through hard training and tournaments despite having no experience (Kodansha blurb via AniList/MU). 42 volumes; won the 40th Kodansha Manga Award.",
+ "life_message": "Hard work, heart and teammates can make even an unskilled beginner valuable.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Sports contact only (AniList Football)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Match pressure (MU Tournament/s)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None noted; primarily male cast (AniList)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Sports-club banter (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Lack of self-confidence (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Intense training (MU Training)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Effort and perseverance; teamwork; friendship",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 7},
+ "foundations": {"care": 6, "loyalty": 8, "fairness": 7, "sanctity": 3, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Humility and perseverance of Tsukushi; friendship with Jin.", "concerns": "Little."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Humble effort.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Hard work and kindness.", "concerns": "Sports-club language to verify."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Weak made strong through perseverance.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Heart and endurance.", "concerns": "Little."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Diligence in vocation.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Serving the team.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Discipline and fellowship.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Character formation.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Humility and teamwork.", "concerns": "Competitive spirit."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Effort and wholesome friendship.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion of the unskilled.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "A", "weight": "Minor", "aligns": "Patience and effort.", "concerns": "Little."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Duty and discipline.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Right effort.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Encourages the underdog.", "concerns": "Almost all-male cast."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Growth through effort.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "S", "weight": "Minor", "aligns": "Hard work, loyalty, respect for team and coaches.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Health and discipline.", "concerns": "Sabbath tournaments not addressed."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Clean content.", "concerns": "Competitive focus."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Overcoming limits.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of each member.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal growth.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincere effort and group harmony.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest effort.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Unity and service.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Improving ability.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-improvement.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "A", "weight": "Minor", "aligns": "Diligence.", "concerns": "Time spent on entertainment."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Effort.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Community.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflict settled on the field by rules (AniList Sports)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Disciplined club training (MU Training)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Loyalty to team and school."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "High-school club seniority norms (to verify)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Modern sport."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Hard work over self-expression."}
+  },
+  "closest": ["Puritan", "Yankeedom", "Catholic Europe"],
+  "japan": "High-school club culture, effort (ganbaru) and team harmony reflect Japanese school-sports norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Rivals are teams to beat rather than holders of opposing views."
+ },
+ "winners_losers": "Effort and teamwork are rewarded; Tsukushi earns his place.",
+ "to_verify": [
+  "No review opened; batch license note flags the MU match as exact-title (confirmed: MU record shows the Kodansha USA 42-volume release with the same blurb).",
+  "Language in club banter."
+ ]
+}

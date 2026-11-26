@@ -1,0 +1,386 @@
+{
+ "anilist_id": 30344,
+ "title": "ES: Eternal Sabbath",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30344",
+  "https://api.mangaupdates.com/v1/series/59362728692",
+  "https://www.animenewsnetwork.com/house-of-1000-manga/2012-01-12"
+ ],
+ "premise": "A genetically engineered man calling himself Ryousuke Akiba (ES) can enter and rewrite people's minds; neurologist Mine Kujou, one of the few immune to him, uncovers his laboratory origins (Del Rey blurb; ANN). Together with a surviving scientist they hunt his cloned 'brother' Isaac, who looks about ten, lacks empathy, and drives people to murder and suicide (ANN). Eight volumes; the English edition was not completed per MU.",
+ "life_message": "Understanding why people do evil, and how upbringing shapes them, matters more than raw power; power without empathy destroys.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Condemned",
+   "note": "Killings, vivisection, scientists driven to 'an orgy of violence' (ANN; MU Murder, Violence)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "'Dark and disturbing' psychic imagery, monsters bursting from skin (ANN); psychological genre."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "MU lists Rape, Sexual Assault, Pregnancy, Abortion; not mentioned in ANN (to verify; capped at 3)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "Suicide (AniList tag; ANN: Isaac frees people's restraints against suicide); child abuse (ANN, MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Mind manipulation."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Power and responsibility; nature vs. upbringing; science ethics",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 7,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 4,
+  "fairness": 6,
+  "sanctity": 4,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Human dignity against experimentation; evil confronted with reason and mercy.",
+   "concerns": "Suicide, abuse, sexual assault and abortion (MU) to check."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Shows the passions of power destroying souls.",
+   "concerns": "Disturbing violence and suicide."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Evil exposed as real.",
+   "concerns": "Graphic darkness; sexual assault, abortion (MU)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Questions playing God with genetics.",
+   "concerns": "Suicide; abuse; violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Good against a destroyer.",
+   "concerns": "Mind invasion; dark content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Depravity of man without restraint.",
+   "concerns": "Violence and sexual content."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kujou's vocation as healer and scientist.",
+   "concerns": "Darkness; suicide."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Compassion for abused children.",
+   "concerns": "Violence; suicide."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Serious moral inquiry (ANN).",
+   "concerns": "Disturbing content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rejects power over others.",
+   "concerns": "Violence and darkness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Agency and accountability.",
+   "concerns": "Violence, suicide, abortion."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Childhood trauma taken seriously.",
+   "concerns": "Suicide and abuse content."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Life is sacred; suicide shown as harm.",
+   "concerns": "Violence, abortion, sexual assault."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Karma of upbringing and actions.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Suffering and its causes examined.",
+   "concerns": "Killing; suicide."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Woman scientist lead; trauma-aware.",
+   "concerns": "Suicide depiction vs. safe messaging."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Science and empathy as answer to evil (ANN).",
+   "concerns": "Disturbing violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Responsibility.",
+   "concerns": "Graphic darkness."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting life.",
+   "concerns": "Violence; abortion."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence; mind control."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mind as the arena of healing.",
+   "concerns": "Fear-inducing images; mental manipulation."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inherent worth; understanding evil.",
+   "concerns": "Violence; abuse."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity.",
+   "concerns": "Death and blood (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Science and ethics in harmony.",
+   "concerns": "Violence; suicide."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mind and spirit themes.",
+   "concerns": "Human experimentation on minds may echo psychiatry concerns."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Power and individual will explored.",
+   "concerns": "Harm to children."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence; abortion; sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethics of science.",
+   "concerns": "Violence; suicide."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethical questions on power.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Evil confronted by reason, not vendetta."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Power without restraint shown as danger."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Bond of the clone 'brothers'."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Scientists and subjects."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Neuroscience and genetics frame."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Inner life and understanding."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New France",
+   "New Netherland"
+  ],
+  "japan": "Reflects Japanese seinen interest in psychology and science ethics, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN: Kujou reasons with evil characters rather than lecturing; a Freudian approach.",
+  "personified": [
+   {
+    "character": "Mine Kujou",
+    "ideology": "Reason and empathy to understand evil",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Isaac",
+    "ideology": "Power without empathy; humans as test subjects",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Isaac is shaped by his upbringing, so his outlook is explained rather than simply condemned (ANN)."
+ },
+ "winners_losers": "Kujou's humane reason is given sympathy; Isaac's unchecked power is the threat.",
+ "to_verify": [
+  "MU lists Rape, Sexual Assault and Abortion: check depiction; sexuality possibly understated at 3.",
+  "English license partial or lapsed (MU: not licensed now).",
+  "Ending of the series."
+ ]
+}

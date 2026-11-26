@@ -1,0 +1,89 @@
+{
+ "anilist_id": 30933,
+ "title": "Elfen Lied",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": ["https://en.wikipedia.org/wiki/Elfen_Lied", "https://anilist.co/manga/30933", "https://www.mangaupdates.com/series/lwabzto"],
+ "premise": "Lucy, a horned mutant 'Diclonius' with invisible telekinetic arms, escapes a research lab in a massacre, is injured, and develops a childlike second personality called Nyu. Student Kouta and his cousin Yuka take her in, unaware of her past or their own buried connection to her, while government squads and other Diclonius hunt her. The story pairs harem romance and comedy with torture, experimentation, abuse and mass killing.",
+ "life_message": "It holds up love and acceptance as the only answer to cycles of cruelty, while showing how abuse breeds monsters.",
+ "overall": 9,
+ "content": [
+  {"category": "Violence", "score": 9, "framing": "Shown with consequences", "note": "Dismemberment, decapitations, torture, cruel experiments on children, a puppy beaten to death (Wikipedia; AniList Gore, Body Horror)."},
+  {"category": "Fear and intensity", "score": 8, "framing": "Shown with consequences", "note": "Sustained horror, child victims and tragedy (Wikipedia; AniList Tragedy, Body Horror; Horror genre)."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Neutral", "note": "Frequent female nudity and harem fan service; a child's rape by a stepfather and its aftermath (Wikipedia; AniList Nudity, Female Harem)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Strong language noted for the anime dub; manga capped (Wikipedia; to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Little noted (to verify)."},
+  {"category": "Mental health and self-harm", "score": 7, "framing": "Shown with consequences", "note": "Split personality from trauma, abused and abandoned children, revenge psychology (Wikipedia; Psychological genre)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Bullying and animal cruelty shown as roots of horror (Wikipedia)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Critical theory", "strength": 6, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+  {"lens": "Naturalism", "strength": 4, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"}
+ ],
+ "dominant": "Prejudice and abuse breed violence; love and forgiveness as rescue",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 5},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 7, "sanctity": 3, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Kouta's forgiveness and the dignity of abused children like Mayu and Nana.", "concerns": "Extreme gore, sexualized nudity of young-looking girls, and child abuse imagery."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Repentance and forgiveness hinted in Lucy's arc.", "concerns": "Graphic violence and nudity assault the senses."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Cruelty is shown as evil.", "concerns": "Gore, nudity and sexual abuse content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Grace toward an enemy who wronged Kouta.", "concerns": "Gratuitous violence and fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Horror, gore and sexual content throughout."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Human cruelty as root of evil laid bare.", "concerns": "Lascivious images alongside atrocities."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Sin and forgiveness at the story's core.", "concerns": "Graphic content."},
+  {"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Compassion for abused children.", "concerns": "Content opposes holiness."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Moral tragedy about prejudice and mercy.", "concerns": "Gore and nudity."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and nudity."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violent, sexual imagery."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Critique of discrimination and institutional abuse.", "concerns": "Sexualized victims; extreme gore."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Nudity, gore and abuse."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Karma of cruelty returning.", "concerns": "Tamasic content."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Hatred begets hatred; compassion breaks the cycle.", "concerns": "Killing and sexual exploitation."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Strong critique of bigotry, bullying and abuse.", "concerns": "Sexualization of minors and gore."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Questions nature versus nurture in violence.", "concerns": "Exploitative nudity."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Gore and nudity."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Horror and impurity."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and immorality."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Fear and bodily horror."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Inherent worth of the despised other.", "concerns": "Exploitation imagery."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Harm returns on those who cause it.", "concerns": "Gore and sexualized victims."},
+  {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Kamakura shrine and setting.", "concerns": "Blood and death (kegare)."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Defending the oppressed.", "concerns": "Violence and lust imagery."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and nudity."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Murder and harm."},
+  {"frame": "Satanist", "grade": "C", "weight": "Significant", "aligns": "Revenge on tormentors as a theme.", "concerns": "Harm to children and animals (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Gore and immodesty."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Dignity of the persecuted.", "concerns": "Degrading content."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Anti-discrimination themes.", "concerns": "Exploitative gore and nudity."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Lucy answers bullying and betrayal with personal vengeance."},
+   "Order vs freedom": {"pos": 6, "evidence": "Institutions are oppressive; characters seek escape and their own lives."},
+   "Civic vs kin": {"pos": 6, "evidence": "Kouta's household of strays becomes a family; strangers are threats."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Lab directors abuse rank; the story sides with the powerless."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Science and genetics frame the world; little religious frame."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Fugitives fight to survive, yet longing for acceptance runs through."}
+  },
+  "closest": ["The Far West", "El Norte", "Orthodox Europe"],
+  "japan": "School bullying (ijime), orphanage settings and Kamakura's shrines and temples reflect Japanese social settings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No source checked comments on how the message is delivered; carried by plot per entry summary (to verify)",
+  "personified": [
+   {"character": "Kouta", "ideology": "love and forgiveness", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Lucy", "ideology": "vengeance born of abuse", "role": "Other", "treatment": "Mixed"},
+   {"character": "Lab authorities", "ideology": "cruelty and experimentation", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Love against cycles of cruelty is carried by Lucy's and Kouta's story rather than stated."
+ },
+ "winners_losers": "Few win; the cruel lab authorities lose, and mercy offers fragile redemption. Sympathy goes to the abused, including Lucy.",
+ "to_verify": ["How the manga ending differs from the anime", "Explicitness of abuse scenes", "Dark Horse age rating", "Language in the Dark Horse translation", "No review of the manga found in one search (only forum and reader-review results); delivery unverified"]
+}

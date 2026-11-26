@@ -1,0 +1,362 @@
+{
+ "anilist_id": 109978,
+ "title": "The Necromancer Maid",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/109978",
+  "https://api.mangaupdates.com/v1/series/42703769241"
+ ],
+ "premise": "A young girl, Chloe La Forêt, is found unconscious in the Corpse Forest and rescued by alchemist Kurakazu Rintarou, who makes her his housekeeper (Comikey blurb). She turns out to have a knack for cleaning and a hidden talent for necromancy, which she uses around the house. A three-volume slice-of-life fantasy comedy; tags list skeletons, zombies, food, discrimination and spoiler-tagged amnesia and revenge.",
+ "life_message": "It holds up kindness to an outsider and finding a home and useful work.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Monsters in the forest (blurb); revenge spoiler tag; level unverified."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Skeletons and zombies played for comedy (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Romance genre on MangaUpdates; no content noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Amnesia (spoiler tag)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little imitable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Necromancy as a household skill; found home; acceptance of an outsider",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rescue and hospitality to a lost girl.",
+   "concerns": "Necromancy shown positively."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Mercy to the stranger.",
+   "concerns": "Raising the dead as comedy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Necromancy (Deut 18) normalized."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hospitality.",
+   "concerns": "Necromancy."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescue.",
+   "concerns": "Necromancy and undead."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligent work.",
+   "concerns": "Necromancy."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation of housework.",
+   "concerns": "Necromancy."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hospitality.",
+   "concerns": "Occult practice."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentle fantasy.",
+   "concerns": "Necromancy."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Simple domestic work.",
+   "concerns": "Occult themes."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Work and kindness.",
+   "concerns": "Necromancy."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Discrimination against an outsider shown (MangaUpdates).",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hospitality.",
+   "concerns": "Sihr and raising the dead."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Handling the dead."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Acceptance of a marginalized girl.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Alchemist's science alongside fantasy.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Occult themes."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hospitality.",
+   "concerns": "Spirits of the dead active."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Necromancy central."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Mesmerism-like powers."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Magic as skill.",
+   "concerns": "Death magic."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cleanliness valued.",
+   "concerns": "Corpses bring kegare."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seva in housework.",
+   "concerns": "Superstition."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service.",
+   "concerns": "Occult practice."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Competence.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Outsider gifts embraced.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise within halakhic terms.",
+   "concerns": "Necromancy forbidden (Deut 18:11)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hospitality.",
+   "concerns": "Sorcery."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Welcoming the stranger.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Calm household life."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Unusual talents allowed."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Small household."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Master and housekeeper."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Alchemy and magic."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Slow-life comfort."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "Yankeedom"
+  ],
+  "japan": "The maid-and-master slow-life comedy follows Japanese genre conventions, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Acceptance of Chloe comes through daily life."
+ },
+ "winners_losers": "Chloe finds a home (to verify); the series was cancelled (MangaUpdates).",
+ "to_verify": [
+  "Chloe's age and nature of the relationship.",
+  "How undead are portrayed.",
+  "Discrimination subplot."
+ ]
+}

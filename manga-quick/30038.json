@@ -1,0 +1,362 @@
+{
+ "anilist_id": 30038,
+ "title": "+Anima",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30038",
+  "https://api.mangaupdates.com/v1/series/27904635619"
+ ],
+ "premise": "A ten-volume shounen fantasy by Natsumi Mukai. In an alternate world, +Anima are people with animal-like powers who are shunned by society; four young outcasts, crow-boy Cooro, fish-boy Husky, bear +Anima Senri and bat-girl Nana, travel together searching for others like themselves and for acceptance (Tokyopop blurb via AniList and MangaUpdates). Database tags include slavery, child abuse and discrimination.",
+ "life_message": "Outcasts can form a found family, and difference deserves acceptance rather than fear.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Action genre; serial killer and slavery tags (MangaUpdates; AniList) (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Child abuse, trauma (MangaUpdates)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Crossdressing spoiler tag (AniList); no romance focus."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None indicated."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Attempted suicide and traumatic pasts listed (MangaUpdates) (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing notable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Found family of outcasts; prejudice and acceptance",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 7,
+  "fairness": 7,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Welcome of the outcast; dignity of every person.",
+   "concerns": "Dark tags (abuse, slavery) need context."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy toward the rejected.",
+   "concerns": "Animal-hybrid powers; trauma content."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Care for orphans and outcasts.",
+   "concerns": "Abuse and slavery themes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Love for the marginalized.",
+   "concerns": "Dark backstories."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Found family and compassion.",
+   "concerns": "Unexplained source of powers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Common grace in human dignity.",
+   "concerns": "Abuse and violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Neighbor love to outcasts.",
+   "concerns": "Little else."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Social holiness toward the shunned.",
+   "concerns": "Dark tags."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Classic outsider journey.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mutual aid among travelers.",
+   "concerns": "Action violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Family-like care.",
+   "concerns": "Dark tags."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Against discrimination of the 'different'.",
+   "concerns": "Abuse content to discuss."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Care for orphans.",
+   "concerns": "Crossdressing tag; violence."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion for all beings, human and animal.",
+   "concerns": "Little else."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion and non-harm.",
+   "concerns": "Violence tags."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Outsiders and discrimination critique.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Tolerance and reason.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loyalty and courage.",
+   "concerns": "Questions social outcasting by authority."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Violence tags."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love among companions.",
+   "concerns": "Supernatural animal powers; violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love overcoming fear.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inherent worth of all.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kinship with animals.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony with animal spirits.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Equality and protecting the oppressed.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Oneness of humanity; prejudice rejected.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Affinity among outcasts.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Outsiders choosing their own way.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness to strangers.",
+   "concerns": "Crossdressing; violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Dignity of the different.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and justice.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Seek acceptance rather than revenge (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Wandering travelers outside society (blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Found family of four outcasts (AniList Found Family)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 2,
+    "evidence": "Outcasts against social hierarchy (MangaUpdates)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Fantasy world; nun character tag (AniList)."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Survival and acceptance both at stake (blurb)."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Catholic Europe",
+   "The Far West"
+  ],
+  "japan": "Reflects Japanese shounen found-family adventure and concern with social exclusion of those who are different."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb frames a 'world cruel to anyone... different'; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The acceptance theme is built into the premise."
+ },
+ "winners_losers": "The outcast children win sympathy; prejudice is the antagonist.",
+ "to_verify": [
+  "English license lapsed (out of print per MangaUpdates; series axed).",
+  "Serial killer, attempted suicide and child-abuse tags: context unknown.",
+  "MangaUpdates match was by exact title; description matches the Tokyopop blurb."
+ ]
+}

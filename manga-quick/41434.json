@@ -1,0 +1,98 @@
+{
+  "anilist_id": 41434,
+  "title": "Suicide Island",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/41434",
+    "https://api.mangaupdates.com/v1/series/66307710195",
+    "https://en.wikipedia.org/wiki/Suicide_Island",
+    "https://www.darkhorse.com/books/3016-759/suicide-island-volume-1-tpb/"
+  ],
+  "premise": "After repeated suicide attempts, Sei is declared legally dead and exiled to a remote island with other suicide survivors, where there are no rules except that escape is forbidden. After seeing the brutal results of suicide attempts there, Sei and others decide that if they cannot die they must learn to live: hunting, fishing, building shelter and community, while other groups descend into violence (Wikipedia; Dark Horse).",
+  "life_message": "Life is worth choosing: purpose comes from hard work, mutual care and the daily labor of staying alive together.",
+  "overall": 8,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Rival groups turn violent (Wikipedia); hunting and killing animals, cannibalism listed (MU); compared to Battle Royale (Dark Horse)."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Shown with consequences", "note": "Characters 'barely holding onto sanity' (Dark Horse); tragedy and survival (AniList)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "MU lists Rape, Attempted Rape, Child Rape; AniList Rape 60 (spoiler). Capped at 3 pending a non-database source (to verify); likely understated."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Seinen, delinquents (AniList); not documented (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted (to verify)."},
+    {"category": "Mental health and self-harm", "score": 8, "framing": "Shown with consequences", "note": "Suicide and attempts are the premise (Wikipedia; Dark Horse 18+; AniList Suicide 92; MU Depression)."},
+    {"category": "Imitable behavior", "score": 5, "framing": "Shown with consequences", "note": "Suicide attempts depicted with brutal consequences (Wikipedia); also practical survival skills (AniList Educational)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 8, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Naturalism", "strength": 5, "stance": "Explored"},
+    {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Collectivism/authoritarianism", "strength": 3, "stance": "Critiqued"}
+  ],
+  "dominant": "choosing to live; building community from nothing; survival in nature; critique of a society that abandons the suicidal",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+  "foundations": {"care": 8, "loyalty": 6, "fairness": 6, "sanctity": 5, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Life chosen as worth living; mutual aid among the despairing.", "concerns": "Graphic suicide attempts and sexual violence (MU)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "Despair answered by labor and communion with others.", "concerns": "No faith horizon; graphic violence."},
+    {"frame": "Baptist", "grade": "B", "weight": "Significant", "aligns": "Value of life over despair; work and community.", "concerns": "Suicide depictions and rape listed (MU)."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Strong redemption-from-despair arc for discussion.", "concerns": "Mature content; secular hope only."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Choosing life over death.", "concerns": "Cult element (AniList Cult, spoiler); graphic darkness."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Shows human depravity when law is absent.", "concerns": "Self-murder depicted (WLC Q136 concern)."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Vocation and daily work give life meaning.", "concerns": "Intensity; read with pastoral care."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Significant", "aligns": "Social holiness: community saves lives.", "concerns": "Violence and despair heavy."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Lord of the Flies-style moral vision (Dark Horse).", "concerns": "Mature themes."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Mutual aid and simple self-sufficient living.", "concerns": "Violence between groups; hunting with weapons."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Self-reliance and life's worth.", "concerns": "Graphic and sexual violence listed (MU)."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Critiques a society that abandons suicidal people (Dark Horse).", "concerns": "Safe-messaging around suicide."},
+    {"frame": "Muslim", "grade": "B", "weight": "Significant", "aligns": "Suicide forbidden; life preserved through effort.", "concerns": "Sexual violence and nudity (AniList Nudity 30)."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Dharma of daily work; ending one's life discouraged.", "concerns": "Killing animals; violence."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Suffering faced; craving for death released.", "concerns": "Hunting and killing (first precept)."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Mental health and social neglect examined.", "concerns": "Suicide safe-messaging; sexual violence."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Meaning built by human effort and reason.", "concerns": "Graphic violence."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Hard work, self-reliance and order rebuilt.", "concerns": "Suicide portrayals; mature content."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Life is precious; health and labor.", "concerns": "Graphic violence excites fear."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Life valued.", "concerns": "Violent and immoral content."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Overcoming the belief that life is hopeless.", "concerns": "Dwelling on death and injury."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of each person, even the despairing.", "concerns": "Intensity for younger readers."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Living with the land and its cycles (AniList Environmental).", "concerns": "Violence among islanders."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Gratitude for nature's food; renewed life.", "concerns": "Kegare of death; suicide."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Honest labor (kirat karni) and service.", "concerns": "Violence and rape listed."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Significant", "aligns": "Suicide forbidden; unity in community.", "concerns": "Violence between groups."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Personal responsibility for survival.", "concerns": "Depression framed alongside medical care unclear (to verify)."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Life lived now by one's own will.", "concerns": "Harm to the vulnerable."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Pikuach nefesh: preserving life above all.", "concerns": "Nudity and sexual violence."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Choosing life (Deut 30:19 echo).", "concerns": "Mature content."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Repairing lives through community.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "No courts, yet Sei's group builds rules rather than feuds (Wikipedia)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Lawless island; group creates its own order (Wikipedia)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Strangers form a community, not a clan (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Cooperative group-building (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Practical skills of hunting, fishing, archery (AniList, MU)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Food, shelter and survival dominate (Wikipedia; AniList Survival)."}
+    },
+    "closest": ["Puritan", "First Nation", "The Midlands"],
+    "japan": "Japan's high public concern over suicide and social isolation frames the premise of a state that writes off suicidal citizens, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Wikipedia shows the 'learn to live' choice made in plot; no review of tone opened (to verify).",
+    "personified": [
+      {"character": "Sei", "ideology": "If we cannot die, we must learn to live", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Violent island groups", "ideology": "Lawless might without community", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "The pro-life choice is carried by survival work and community-building."
+  },
+  "winners_losers": "Sei's cooperative group gains a reason to live; groups that turn to violence are shown spiraling. Sympathy goes to community and labor.",
+  "to_verify": [
+    "Sexual violence scenes (MU Rape, Child Rape; AniList spoiler) and their framing",
+    "Suicide depiction detail for safe-messaging",
+    "Cult arc (AniList spoiler tag)",
+    "Dark Horse edition listed for Dec 2026; earlier English licence status"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+ "anilist_id": 56324,
+ "title": "Mr Mini Mart",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/56324",
+  "https://api.mangaupdates.com/v1/series/1195110264"
+ ],
+ "premise": "Shy Nakaba has been a shut-in since gossip at school destroyed his reputation; when his mother gets him a convenience-store job, he must face a co-worker who knows about courage and commitment, and learn to speak up for what he wants (Juné blurb). A one-volume Boys' Love romance that also includes the one-shot 'Shounen Scrub' (AniList).",
+ "life_message": "Courage to face the past and speak honestly opens the way to love and a new start.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Mild."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Teen/young-adult same-sex romance; MU lists some sexual content (wet dreams, frottage); MangaDex safe. Capped, database only (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Withdrawal after bullying and gossip; homophobia (blurb; MU Hikikomori/NEET, Bullying, Homophobia)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "MU Fake Love Confession (context to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Recovery from bullying; BL romance; self-acceptance",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+ "foundations": {"care": 8, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Nakaba's healing from gossip and his mother's care.", "concerns": "Same-sex romance with sexual content (MU)."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Harm of gossip shown.", "concerns": "Same-sex romance; sexual content."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Overcoming isolation.", "concerns": "Same-sex romance and sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Gossip's harm.", "concerns": "Same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Restoration.", "concerns": "Same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Ninth-commandment harm of slander.", "concerns": "Same-sex romance (PC(USA) differs)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Work as a path back to community.", "concerns": "LCMS: romance; ELCA: little."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care for a wounded youth.", "concerns": "Varies by body."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Dignity restored.", "concerns": "Sexual content; ACNA differs."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Honest work.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family help.", "concerns": "Same-sex romance; chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Gay youth finds acceptance; homophobia challenged.", "concerns": "Sexual content with young characters (to verify)."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Recovery through work.", "concerns": "Views vary; modesty."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Harmful speech shown causing suffering.", "concerns": "Sexual content."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Queer romance; anti-bullying.", "concerns": "Age of characters (to verify)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Empathy and recovery.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Work ethic.", "concerns": "Same-sex romance for youth."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Recovery.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear.", "concerns": "Purity."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Inherent worth; affirming love.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Affirming love.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Return to community.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest work.", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Backbiting condemned.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication heals.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-acceptance.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Lashon hara condemned.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Harm of gossip.", "concerns": "Views vary; sexual content."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Inclusion; lashon hara exposed.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Healing from reputational harm without retaliation (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Speaking up for what he wants (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Mother's help and workplace ties (blurb)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Co-workers as equals (MU Coworkers)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular contemporary setting."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Self-acceptance and love (blurb)."}
+  },
+  "closest": ["New Netherland", "The Midlands", "English-speaking"],
+  "japan": "Set around the Japanese konbini, and treats hikikomori withdrawal after school gossip, a recognized social issue in Japan."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The encouragement to speak up appears carried by the romance plot."
+ },
+ "winners_losers": "Nakaba and his co-worker get the sympathy; gossip and homophobia (MU) are the obstacles.",
+ "to_verify": [
+  "Possibly understated: MU lists some sexual content; Juné is a BL imprint; ages of characters (MU High School Students).",
+  "Included one-shot 'Shounen Scrub' content not checked.",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

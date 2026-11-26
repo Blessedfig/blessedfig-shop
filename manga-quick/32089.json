@@ -1,0 +1,89 @@
+{
+ "anilist_id": 32089,
+ "title": "Love Quest",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32089",
+  "https://api.mangaupdates.com/v1/series/5581025638"
+ ],
+ "premise": "Kazunori Akabane is rejected by the girl he likes in favour of classmate Moriya, then collides with Moriya in the school hallway and both are warped into a magical realm of wizards, princesses and monsters. To survive there they must exchange bodily fluids, which means kissing, and the rivals grow closer (Yen Press blurb via AniList and MU; MU Kiss-Based Powers, Rivals Become Lovers).",
+ "life_message": "A rival can turn out to be the person you need most.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Monsters and magical battles (Yen Press blurb; MU Magical Battles)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Survival in a strange world; dinosaurs (MU)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Kissing between high school classmates as a power mechanic (Yen Press blurb; MU Kiss-Based Powers, Yaoi)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Rejection sting."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Kissing presented as a survival necessity rather than a choice."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Expressive individualism; Pragmatism",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Rivals cooperate and protect each other against monsters.", "concerns": "Same-sex romance between Akabane and Moriya; kissing forced by circumstance."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Enmity turned to care.", "concerns": "Magic power through bodily fluids; same-sex romance."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Reconciliation of rivals.", "concerns": "Same-sex romance between teens; spells and wizards."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Getting over jealousy of a rival.", "concerns": "Same-sex romance; magic system."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond reconciliation.", "concerns": "Magic tied to bodily exchange; same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common grace: light fantasy humour.", "concerns": "Same-sex romance; magic framing."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Enemies learning to serve each other.", "concerns": "LCMS/WELS object to the romance; ELCA little."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Rivals become companions.", "concerns": "Holiness churches object to romance; UMC little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Fantasy quest in a Lewis-friendly tradition.", "concerns": "ACNA objects to the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Rivalry ends without revenge.", "concerns": "Battles and magic; romance."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Cooperation under trial.", "concerns": "Same-sex romance; law of chastity in kissing mechanic."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Rivals to lovers; same-sex affection.", "concerns": "Kissing compelled by the world's rules (consent)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little; rivals cooperate.", "concerns": "Sihr as power; same-sex kissing."},
+  {"frame": "Hindu", "grade": "C", "weight": "Minor", "aligns": "Quest with wizards and princesses, familiar epic tropes.", "concerns": "Student-stage romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Jealousy dissolves into compassion.", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Queer romance between peers.", "concerns": "Consent under compulsion."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Cooperation to survive.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Courage against monsters.", "concerns": "Same-sex romance for teen readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Magic; romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Magic and wizards; same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Healers in the magic world (MU).", "concerns": "Material, bodily basis of power."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of both rivals.", "concerns": "Consent framing."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic and fantasy welcomed.", "concerns": "Consent under compulsion."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Fantasy world with spirits and magic is familiar.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Protecting each other.", "concerns": "Magic; romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity after rivalry.", "concerns": "Chastity; magic."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication ends rivalry.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Playful defiance of convention.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Sorcery; same-sex affection."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Minor", "aligns": "Rivals reconciled.", "concerns": "Magic as power."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion; fantasy accepted.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Akabane's pride stung by romantic rejection (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Rules of the magic world force cooperation (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Classmates, not family (MU Classmate/s)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Princesses and wizards; peers at school."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Fantasy magic, not religion."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Survival first, feelings follow."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "New Netherland"],
+  "japan": "Uniformed school rivals (MU Gakuran) and an RPG-style other world reflect Japanese game and school culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comic blurb tone; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Comedy fantasy, no argued message."
+ },
+ "winners_losers": "Akabane and Moriya become a pair and return home (MU Returning from Another World) (to verify).",
+ "to_verify": [
+  "Yen Press age rating",
+  "Whether anything beyond kissing is shown",
+  "Character ages"
+ ]
+}

@@ -1,0 +1,369 @@
+{
+ "anilist_id": 49501,
+ "title": "Sale or Return Bride",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/49501",
+  "https://api.mangaupdates.com/v1/series/59123921331"
+ ],
+ "premise": "A one-volume Harlequin manga adapted from a Sarah Morgan novel. Alesia, raised modestly after her wealthy Greek grandfather banished her and her mother, is summoned after fifteen years and ordered to marry Sebastien Fiorukis, heir of a rival family in a two-generation feud. She agrees so her ill mother can be saved, not knowing how her fiancé will treat her.",
+ "life_message": "Love can grow even from a forced, transactional marriage, and sacrifice for family is honored.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Family feud; no violence noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Coercion and blackmail tension (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Arranged marriage of convenience between adults; sexual content not described (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Sick parent and estrangement (MU, blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Blackmail and deception between families (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Wealth drives the plot."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Traditionalism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Traditionalism (family duty), Might makes right (patriarch's power)",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 8
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 7,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 7,
+  "liberty": 2
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Alesia's sacrifice for her mother reflects filial love.",
+   "concerns": "Coerced marriage conflicts with the requirement of free consent."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-sacrifice for family fits Orthodox values.",
+   "concerns": "Marriage under duress; revenge feud."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honoring a sick mother fits.",
+   "concerns": "Coerced marriage; revenge and deception."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sacrificial love for family fits.",
+   "concerns": "Marriage without free choice."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Endurance through hardship fits.",
+   "concerns": "Revenge and blackmail."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Fallen human schemes and providence in marriage.",
+   "concerns": "Deception and coercion."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honoring parents fits the fourth commandment.",
+   "concerns": "Coercion and deceit."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for an ill mother fits works of mercy.",
+   "concerns": "Revenge feud."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage as covenant eventually honored (to verify).",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family sacrifice fits.",
+   "concerns": "Revenge and coercion conflict with peacemaking."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family love fits.",
+   "concerns": "Marriage without free agency."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Alesia's agency under pressure.",
+   "concerns": "Patriarchal coercion and wealth power."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family duty and marriage fit.",
+   "concerns": "Islam requires the bride's consent; coercion conflicts."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family dharma and duty fit.",
+   "concerns": "Forced marriage and revenge."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion for mother fits.",
+   "concerns": "Revenge and craving for power."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Shows patriarchal coercion.",
+   "concerns": "Romanticizes a coerced marriage."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Alesia makes a reasoned sacrifice.",
+   "concerns": "Coercion and autonomy."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Family duty, lineage and marriage fit traditional values.",
+   "concerns": "Grandfather's tyranny."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family love fits.",
+   "concerns": "Revenge and coercion."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family loyalty fits.",
+   "concerns": "Coercion and romance focus."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love overcoming hatred fits.",
+   "concerns": "Material wealth focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for mother fits.",
+   "concerns": "Coercion conflicts with consent values."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family loyalty fits.",
+   "concerns": "Manipulation harms."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Household continuity and ancestors fit.",
+   "concerns": "Feud disrupts harmony."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family service fits.",
+   "concerns": "Coerced marriage conflicts with consent in Anand Karaj."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family unity fits.",
+   "concerns": "Bahá'í marriage needs free consent of both."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family dynamic fits.",
+   "concerns": "Harmful coercion."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Self-preservation fits.",
+   "concerns": "Coercion of will."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family duty and marriage fit.",
+   "concerns": "Kiddushin requires the woman's consent."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family loyalty fits.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love beyond family feud fits.",
+   "concerns": "Coercion and exploitation."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 8,
+    "evidence": "Two-generation family feud and revenge (MU, blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Patriarch dictates marriage."
+   },
+   "Civic vs kin": {
+    "pos": 9,
+    "evidence": "Family and clan loyalty drive everything."
+   },
+   "Equality vs hierarchy": {
+    "pos": 9,
+    "evidence": "Grandfather commands obedience (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Arranged marriage tradition."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "Survival of ill mother drives choices."
+   }
+  },
+  "japan": "A Japanese adaptation of a British romance set among Greek families; the feud and arranged marriage come from the source novel, not Japanese norms.",
+  "closest": [
+   "Deep South",
+   "Middle East and North Africa",
+   "South and Southeast Asia"
+  ]
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb and tags only; no review found (to verify).",
+  "personified": [
+   {
+    "character": "Alesia's grandfather",
+    "ideology": "Patriarchal family power",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The grandfather stands for rule by family patriarch; the romance tests it."
+ },
+ "winners_losers": "Alesia's sacrifice appears to lead to love; the scheming grandfather's power is contested.",
+ "to_verify": [
+  "Fiancé's treatment and any coercion within marriage",
+  "Ending",
+  "Explicitness of content"
+ ]
+}

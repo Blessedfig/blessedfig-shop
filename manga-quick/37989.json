@@ -1,0 +1,381 @@
+{
+ "anilist_id": 37989,
+ "title": "What Did You Eat Yesterday?",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/37989",
+  "https://api.mangaupdates.com/v1/series/41600045891",
+  "https://www.animenewsnetwork.com/review/what-did-you-eat-yesterday/gn-1"
+ ],
+ "premise": "Shiro Kakei, a careful, budget-minded lawyer, cooks dinner each night for his live-in partner Kenji Yabuki, an easygoing hairstylist. The long-running seinen series by Fumi Yoshinaga follows the middle-aged gay couple's daily life, work, families and friends through the meals Shiro prepares, with recipes on the page.",
+ "life_message": "A good life is built from ordinary daily care: cooking for the people you love, living within your means and slowly finding acceptance.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Low-stakes episodic slice of life (ANN review, AniList Iyashikei tag)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Established gay couple; ANN review says romantic interactions are not really shown; MU lists no sexual categories."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail in sources (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Adult dinners may include drinks; not noted in sources (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Shiro's anxiety about being seen as gay and his parents' discomfort (ANN review)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Cooking on a budget is the main imitable behavior."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Recipes and grocery prices are central; no brand promotion noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Confucian ethics",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Pragmatism, Communitarianism, Progressivism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Shiro's daily self-giving care at the table reflects works of mercy and domestic love.",
+   "concerns": "Cohabiting same-sex partnership presented as the settled good conflicts with marriage teaching."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Shared meals, frugality and patience between two adults echo hospitality.",
+   "concerns": "Same-sex union affirmed rather than guarded against; no faith dimension."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Hard work, thrift and kindness to Shiro's aging parents.",
+   "concerns": "A gay couple living together is the series' affirmed center; BF&M 2000 marriage teaching."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness between Shiro and Kenji, and honoring parents despite tension.",
+   "concerns": "Same-sex partnership celebrated; most evangelical churches hold traditional sexual ethics."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Steady, humble daily service to a partner.",
+   "concerns": "Same-sex relationship affirmed against Assemblies of God position papers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Common grace in an honest, humane portrait of work and family duty.",
+   "concerns": "Conservative churches' teaching on sexuality; PC(USA) families more open."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Vocation: Shiro's law work and cooking as daily service to neighbor.",
+   "concerns": "LCMS/WELS marriage teaching; ELCA families affirming."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Faithful household life and care for aging parents.",
+   "concerns": "Holiness churches traditional on same-sex couples; UMC families affirming."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle realism about family, work and hospitality.",
+   "concerns": "ACNA families would raise the same-sex partnership."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Simplicity, thrift and peaceable domestic life.",
+   "concerns": "Conservative groups' teaching on sexuality and worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Self-reliance, thrift and caring for parents fit family values.",
+   "concerns": "Same-sex partnership conflicts with the Family Proclamation."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Affirming, everyday portrait of a gay couple with nuanced family acceptance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Thrift, honest work and kindness to parents (17:23).",
+   "concerns": "Same-sex cohabitation conflicts with traditional teaching; no alcohol issues reported."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Grihastha-like household duty and care for elderly parents.",
+   "concerns": "Traditional views on same-sex unions common, some accepting."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mindful attention to food and simple contentment in daily life.",
+   "concerns": "Shiro's anxious attachment to others' opinions."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Realistic gay adults, parental acceptance shown as a process, no tragedy.",
+   "concerns": "Little; Shiro's closeted caution is explored, not endorsed."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Secular, humane focus on relationships and making meaning in ordinary life.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Thrift, hard work and duty to aging parents.",
+   "concerns": "Same-sex partnership as the model household."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Home-cooked meals and healthy routine fit health teaching.",
+   "concerns": "Same-sex union a significant concern in General Conference statements."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honesty and mild-mannered conduct.",
+   "concerns": "Same-sex relationship considered sinful in jw.org teaching."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gratitude and harmony in a calm household.",
+   "concerns": "Little explicit teaching engaged."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inherent worth of a gay couple and their families shown with care.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Seasonal food and a loving household honored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gratitude for food and family harmony fit Shinto sensibilities.",
+   "concerns": "Little doctrine at stake."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest work (kirat karni) and sharing meals echo langar values.",
+   "concerns": "Akal Takht position on same-sex unions."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Moderation, family duty and freedom from prejudice.",
+   "concerns": "Sexual ethics limited to man-woman marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Second-dynamic family life and steady communication.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Living one's own life openly and enjoying its pleasures.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Shalom bayit and honoring parents in Shiro's visits home.",
+   "concerns": "Same-sex partnership a significant concern (Leviticus 18:22)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Domestic dignity and family obligation; CJLS-accepting families.",
+   "concerns": "Varies by congregation."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inclusive portrait of a gay household and its families.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Conflicts are handled by talking and patience; Shiro is a lawyer working within the courts."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "The couple lives quietly by its own choices while Shiro keeps careful personal discipline."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Visits to Shiro's parents and their slow acceptance are a recurring thread (ANN review)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Workplace roles at the law firm and salon appear but are not the theme."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern secular life; family acceptance of a gay son framed as personal growth."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Budget-conscious cooking balances with quality-of-life pleasures of food."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "New Netherland"
+  ],
+  "japan": "Shiro's caution about being seen as gay reflects Japanese social reticence and concern for appearances (sekentei), described in the series as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN review describes a gentle episodic slice of life told through meals, not message speeches.",
+  "personified": [
+   {
+    "character": "Shiro's parents",
+    "ideology": "Traditional discomfort with a gay son",
+    "role": "Other",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Fair",
+  "note": "Acceptance is shown as gradual and the parents are drawn with sympathy rather than as villains."
+ },
+ "winners_losers": "Shiro and Kenji's patient domestic partnership is affirmed; Shiro's parents move slowly toward acceptance and are treated sympathetically.",
+ "to_verify": [
+  "Later volumes' themes (aging, parents' illness) from a full read",
+  "Alcohol at meals",
+  "Live-action and anime adaptations (not opened here)",
+  "Kodansha/Vertical age rating"
+ ]
+}

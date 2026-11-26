@@ -1,0 +1,92 @@
+{
+  "anilist_id": 44721,
+  "title": "D-Frag!",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/44721",
+    "https://api.mangaupdates.com/v1/series/26320078639",
+    "https://en.wikipedia.org/wiki/D-Frag%21",
+    "https://cdn03.animenewsnetwork.com/review/d-frag/gn-1/.78360"
+  ],
+  "premise": "A gag comedy in loosely linked sketches. Self-styled delinquent Kenji Kazama is strong-armed into a school Game Creation Club run by four eccentric girls who claim elemental 'affinities' and fight with bags, dirt, water and a taser; Kenji serves as the exasperated straight man while rival clubs and odd classmates pile on (Wikipedia; ANN review; Seven Seas blurb).",
+  "life_message": "Belonging can come from the oddest group of friends; the series is mostly about laughs.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Cartoon slapstick: punches, burying people to the neck, forced water, a taser (Wikipedia; ANN)."},
+    {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Comedy."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Light harem and crushes (AniList Female Harem); MU low-vote Big Breasts; ANN notes no explicit content."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Delinquent banter (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Taser and burying classmates played for laughs (Wikipedia)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Pop-culture and game references (MU)."}
+  ],
+  "lenses": [
+    {"lens": "Absurdism", "strength": 4, "stance": "Explored"},
+    {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"},
+    {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Absurd school comedy; friendship among misfits",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 4, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Kenji's rule never to hit a girl; good-hearted 'delinquent' (Seven Seas blurb).", "concerns": "Fan service and violent gags (to verify)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Little harmful in the message.", "concerns": "Frivolity and mild fan service."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Friendship and loyalty.", "concerns": "Crude humor and fan service."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Light fun with a kind protagonist.", "concerns": "Mild fan service."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Little harmful.", "concerns": "Modesty lapses; 'elemental powers' joke."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common-grace humor.", "concerns": "Little to raise."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Adiaphora: harmless comedy.", "concerns": "Little to raise."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Inclusion of an outsider.", "concerns": "Slapstick violence."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle comic sketches.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Community of oddballs.", "concerns": "Worldly entertainment; violence as gags."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Fan service (to verify)."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Misfits embraced.", "concerns": "Gender-confusion gag with a feminine boy (Wikipedia)."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Little harmful in theme.", "concerns": "Immodest art; mixed-gender club antics."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Laughter without malice.", "concerns": "Slapstick harm."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Girls stronger than the delinquent boys.", "concerns": "Harem tropes; misgendering gag (Wikipedia)."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Silly fun.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Chivalry toward girls.", "concerns": "Mild crudeness."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Little harmful.", "concerns": "Fan service."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Little harmful.", "concerns": "Slapstick violence; fan service."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Lighthearted.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Inclusion of oddballs.", "concerns": "Misgendering gag."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Elemental play.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "School-community comedy.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Little to raise."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Courtesy toward girls.", "concerns": "Little to raise."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Group belonging.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Irreverent fun.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little harmful in theme.", "concerns": "Tzniut; bittul Torah."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 6, "evidence": "Delinquent pride and club rivalries settled by contests (Wikipedia; ANN)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Chaotic club antics; Kenji forced in (Wikipedia)."},
+      "Civic vs kin": {"pos": 5, "evidence": "Club as surrogate family."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Feared student council president (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Game and pop culture world (MU)."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Eccentric self-expression is the joke."}
+    },
+    "closest": ["The Far West", "English-speaking", "El Norte"],
+    "japan": "The tsukkomi straight-man role, school clubs and the pose of the yankii delinquent are Japanese comedy and school-culture staples, described here as context."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 1,
+    "evidence": "ANN describes a gag comedy with no moralizing.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The series offers sketches rather than a message."
+  },
+  "winners_losers": "Kenji is absorbed into the club and its chaos; no worldview is pressed.",
+  "to_verify": [
+    "Fan-service level across later volumes",
+    "Seven Seas age rating",
+    "Ongoing series"
+  ]
+}

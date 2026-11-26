@@ -1,0 +1,93 @@
+{
+ "anilist_id": 30158,
+ "title": "Ghost Hunt",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30158",
+  "https://api.mangaupdates.com/v1/series/38253680473",
+  "https://animenewsnetwork.com/review/ghost-hunt/gn-6"
+ ],
+ "premise": "High-schooler Mai Taniyama ends up assisting Kazuya Shibuya, the 17-year-old head of Shibuya Psychic Research, after a mishap during an investigation of a supposedly cursed school building (Del Rey and MangaUpdates blurbs). They are joined by a former Buddhist monk, a self-proclaimed Shinto priestess, a famous medium and a Catholic priest as they investigate hauntings. Based on Fuyumi Ono's novels.",
+ "life_message": "Careful investigation, courage and teamwork can face the unknown and bring hidden suffering to light.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Murders, corpses, accidents caused by hauntings (MangaUpdates, Del Rey blurb); Gore and Body Horror spoiler tags (AniList)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Horror genre; dark, foreboding panels and 'blood-scented visions' (ANN); Dark Ambience, Curses (MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Slow romance only (MangaUpdates); MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Psychological genre; tragedy spoiler tag (AniList)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Students try to summon spirits with ghost stories (Del Rey blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 5, "stance": "Explored"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 3, "stance": "Explored"},
+  {"lens": "Naturalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Christian", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Paranormal investigation; science-and-ritual teamwork; spirits as real",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 6, "authority": 4, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "A Catholic priest, John Brown, is part of the team; spirits' suffering taken seriously.", "concerns": "Mediumship and summoning spirits treated as normal tools (CCC 2116)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Evil spirits taken as real.", "concerns": "Medium and exorcists of several religions treated as equal."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Courage and protecting the innocent.", "concerns": "Spirit contact, mediums and summoning ghosts."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Truth-seeking investigation.", "concerns": "Occult practice and mediumship shown approvingly."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Recognizes spiritual evil.", "concerns": "Spirit contact, curses and mixed exorcism traditions."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Methodical inquiry (ANN notes measuring and research).", "concerns": "Necromancy-like practices as heroism."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Team serving clients in danger.", "concerns": "Spiritism as story element."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Saving lives from harm.", "concerns": "Occult practice normalized."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Gothic mystery in a long literary tradition.", "concerns": "Mediumship framing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Concern for those harmed.", "concerns": "Horror and occult media."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Teamwork and courage.", "concerns": "Spirit contact avoided by members."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Interfaith team cooperating.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Unseen beings acknowledged.", "concerns": "Mediums and spirit-summoning resemble forbidden practices."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Spirits and rites part of the worldview.", "concerns": "Gory scenes."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Former monk Takigawa; easing restless spirits.", "concerns": "Buddhist figure shown as stock 'type' (ANN)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Capable heroine Mai; diverse team.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Minor", "aligns": "Measurement and research methods (ANN).", "concerns": "Psychic powers and ghosts presented as real."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Courage and duty to clients.", "concerns": "Occult themes concern some families."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Concern for victims.", "concerns": "Ghosts of the dead as real spirits contradict teaching."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritism, mediums and demons are central."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Fear overcome by understanding.", "concerns": "Spiritualism and fear-inducing images."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Pluralist team of traditions.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Spirit work and practitioners shown as helpers.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Priestess Ayako; purification and folklore.", "concerns": "Priestess called 'self-proclaimed' (blurb)."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Courage to protect others.", "concerns": "Superstition and spirit practices."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Harmony of science and spirit hinted at.", "concerns": "Spiritualism discouraged."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spirits and psychic abilities as real.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Occult imagery as drama.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Necromancy-like practices (Deut. 18:10-11)."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Saving lives.", "concerns": "Sorcery-adjacent themes."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical concern for victims.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Disputes settled by investigation, not personal honor."},
+   "Order vs freedom": {"pos": 4, "evidence": "Professional team under Naru's lead."},
+   "Civic vs kin": {"pos": 4, "evidence": "Team serves clients and community."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Boss-assistant relationship (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Measuring and research over 'wards and chants' (ANN)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Mystery focus; no strong pull."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Mixes Japanese folk belief, Shinto priestesses and Buddhist rites with modern parapsychology, reflecting Japan's layered religious practice."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN calls the storytelling dry and methodical; no moralizing noted.",
+  "personified": [],
+  "opposing_views": "Fair",
+  "note": "Practitioners of several religions work side by side; ANN calls them stereotyped roles rather than voices for ideas."
+ },
+ "winners_losers": "The investigators and endangered clients are the sympathetic side; vengeful spirits and the crimes behind them are the threat.",
+ "to_verify": [
+  "How graphic the gore and body-horror spoiler-tagged scenes are.",
+  "Whether the Catholic priest and Shinto priestess are portrayed respectfully.",
+  "English license lapsed (Del Rey/Kodansha); partial per MangaUpdates.",
+  "ANN review covers volume 6 only."
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "anilist_id": 30114,
+ "title": "Erementar Gerade",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30114",
+  "https://api.mangaupdates.com/v1/series/30258903638"
+ ],
+ "premise": "Young sky pirate Coud Van Giruet finds Ren, an Edel Raid: a living being who can pair with a human to become a weapon, and who holds a rare stone. When an Edel Raid dealer named Beazon captures her, Coud joins agents of the organization Arc Aile to rescue her, and the group travels together. A shounen fantasy adventure (DMP and Tokyopop blurbs via AniList and MangaUpdates).",
+ "life_message": "A good life means treating others as partners, not property, and growing up through loyal companionship.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Fantasy battles; Coud's arm becomes a blade (MangaUpdates; capped, to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Kidnapping and pursuit."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romance between Coud and Ren (MangaUpdates Human-Nonhuman Relationship)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Pirates and guns as adventure."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime adaptation exists."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Classical virtue ethics; Secular humanism; Libertarianism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rescuing Ren from those who sell her.",
+   "concerns": "Fantasy combat."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-giving loyalty.",
+   "concerns": "Battles."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty and rescue.",
+   "concerns": "Magic powers; pirates."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Persons are not property.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage to rescue.",
+   "concerns": "Mysterious powers and elements."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Growth through trials.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithful companionship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Care for the captive.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Classic quest.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Freeing the enslaved.",
+   "concerns": "Heroic weapon-combat."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship and growth.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Critique of trading living beings.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freeing captives.",
+   "concerns": "Magic powers."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Righteous rescue.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion for Ren.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Agency of the Edel Raid.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personhood of non-humans.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage and loyalty.",
+   "concerns": "Pirate hero."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rescue of the oppressed.",
+   "concerns": "Combat; powers."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Violence and magic."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every being.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Elemental powers.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirit-bond of partners.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freeing the captive.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Unity of travelers.",
+   "concerns": "Combat."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-determination.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Outlaw hero's freedom.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Redeeming captives (pidyon shevuyim).",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freeing captives.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Anti-exploitation theme.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Pirate's personal code (blurbs)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Outlaw adventurer."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Bond with partner Ren."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Partnership over ownership."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Ancient technology and powers."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Adventure and growth (AniList Coming of Age)."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "El Norte",
+   "Catholic Europe"
+  ],
+  "japan": "A boy-hero coming-of-age journey with a loyal partner is a common shounen pattern, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [
+   {
+    "character": "Beazon",
+    "ideology": "Living beings as commodities",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Anti-trafficking message carried by the rescue plot (treatment to verify)."
+ },
+ "winners_losers": "Coud and Ren's partnership is favored over those who trade Edel Raids (to verify).",
+ "to_verify": [
+  "No review opened",
+  "Violence level from tags only",
+  "Romance outcome not confirmed",
+  "Beazon's portrayal not confirmed"
+ ]
+}

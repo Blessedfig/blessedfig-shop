@@ -1,0 +1,380 @@
+{
+ "anilist_id": 85934,
+ "title": "Overlord",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Overlord_(novel_series)",
+  "https://anilist.co/manga/85934"
+ ],
+ "premise": "When the online game YGGDRASIL shuts down, guild leader Momonga stays logged in and finds himself trapped in his skeletal undead avatar in a new world, along with his guild's Great Tomb of Nazarick and its now-living, fanatically loyal NPC servants. Taking the name Ainz Ooal Gown, he explores and expands his power while searching for other players.",
+ "life_message": "It explores what happens when unchecked power meets a mind that no longer feels ordinary moral limits, largely from the would-be villain's side.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "Battles, war and killing without moral qualms; slavery in the setting (Wikipedia; AniList War, Slavery, Anti-Hero)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Undead and demon characters; cruelty toward humans (AniList Skeleton, Necromancy, Demons; to verify intensity)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Succubus guardian's infatuation with Ainz; some suggestive designs (AniList Succubus; to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mild (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Tavern scenes (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Ainz's loss of human emotion is a recurring thread (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Protagonist kills and deceives freely, which the story attributes to his undead nature (Wikipedia; AniList Anti-Hero)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Video-game framework; wide media franchise including a gacha game (Wikipedia)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 8,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Power fantasy from a villain's view; absolute loyalty of servants; moral detachment",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 2,
+  "loyalty": 9,
+  "fairness": 2,
+  "sanctity": 3,
+  "authority": 9,
+  "liberty": 2
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows power without love leads to cruelty.",
+   "concerns": "Undead overlord as appealing hero; killing and slavery without moral weight."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Pride of power is visible.",
+   "concerns": "Necromancy and demons normalized; pride glamorized."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty and planning.",
+   "concerns": "Undead sorcerer worshipped by servants; occult magic."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Raises questions of power and conscience.",
+   "concerns": "Villain protagonist; cruelty presented as entertainment."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demons, necromancy, a succubus and a death-lord as hero."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Depicts depravity of unchecked sovereignty.",
+   "concerns": "Servants offer Ainz near-worship."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Shows authority abused.",
+   "concerns": "Moral detachment unexamined."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little growth in love; a cautionary tale at best.",
+   "concerns": "Harm done without remorse."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dark-lord perspective like a moral thought experiment.",
+   "concerns": "Moral vision rarely condemns Nazarick's cruelty."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Conquest and war admired."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows loss of humanity as consequence.",
+   "concerns": "Violent and occult content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Satire of power fantasy possible.",
+   "concerns": "Slavery and conquest treated lightly."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sihr, a near-deified ruler and a succubus."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Asuric pride as a cautionary portrait.",
+   "concerns": "Adharma triumphant."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Loss of feeling as a vivid image of detachment gone wrong.",
+   "concerns": "Killing without compassion."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Can be read as a critique of colonial conquest.",
+   "concerns": "Slavery and violence normalized."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Strategic reasoning.",
+   "concerns": "Celebrates cruelty from power."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty, duty and order within Nazarick.",
+   "concerns": "Moral relativism; villain as hero."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Undead, necromancy and spiritism central."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Magic, demons and violence are the core."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Death and domination fill the story."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Can prompt talk on power.",
+   "concerns": "Dignity of humans in the story disregarded."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Magic as a disciplined art.",
+   "concerns": "Magic used to harm and dominate."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal household of servants.",
+   "concerns": "Death impurity embodied by an undead lord."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Ego (haumai) on display.",
+   "concerns": "Oppression of the weak admired."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Conquest, slavery and disunity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Survival of the group dynamic.",
+   "concerns": "Glorified violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self as one's own god; indulgent dark aesthetic.",
+   "concerns": "Satanic Temple compassion tenet unmet."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Necromancy and a quasi-divine ruler."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Shows dangers of absolute power.",
+   "concerns": "Cruelty toward humans and slavery."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Material for ethical discussion of power.",
+   "concerns": "Exploitation of the weak unexamined."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "Insults to Ainz or Nazarick are met with retribution by his guardians."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Nazarick runs on strict obedience to the supreme being."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Loyalty to the guild 'family' over outsiders."
+   },
+   "Equality vs hierarchy": {
+    "pos": 10,
+    "evidence": "Servants revere Ainz absolutely; strict rank among guardians."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Game logic and calculated strategy guide his decisions."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "Security and expansion of Nazarick dominate."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Cavalier",
+   "South and Southeast Asia"
+  ],
+  "japan": "The guardians' devotion mirrors Japanese ideals of loyal retainers and a company-like chain of command, magnified to absolute obedience."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Entry notes irony as the story's only check on Ainz; no review on delivery found (to verify).",
+  "personified": [
+   {
+    "character": "Ainz Ooal Gown (Momonga)",
+    "ideology": "unchecked power without ordinary moral limits",
+    "role": "Hero",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The story is told largely from the would-be villain's side and leaves judgment of his conquests to the reader (to verify)."
+ },
+ "winners_losers": "Ainz and Nazarick keep winning; human kingdoms and adventurers lose. Sympathy goes to Ainz's perspective, with the story's irony as its only check.",
+ "to_verify": [
+  "Specific atrocities in the manga's range (Wikipedia page did not detail them)",
+  "Fan-service level around Albedo and other guardians",
+  "Yen Press age rating",
+  "How far the manga adaptation reaches in the novel story"
+ ]
+}

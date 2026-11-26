@@ -1,0 +1,362 @@
+{
+ "anilist_id": 85720,
+ "title": "Ii Orc no Hi",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85720",
+  "https://api.mangaupdates.com/v1/series/61916273019"
+ ],
+ "premise": "A friendly, deadpan orc meets a lustful but sweet elf princess in a humorous fantasy sketch comic that began as a Pixiv webcomic and doujinshi (AniList; MangaUpdates). MangaUpdates tags describe a kind orc hero, a perverted runaway princess, parody of fantasy tropes and a nonhuman point of view.",
+ "life_message": "It plays kindness and patience against fantasy stereotypes, suggesting that the 'monster' can be the decent one (to verify).",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fantasy parody; no violence noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Comedy (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Ecchi genre and perverted female lead (AniList, MangaUpdates); MangaUpdates also lists futanari. Database only; capped (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not addressed by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Comic sexual pursuit as running gag (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Postmodernism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Parody of orc-and-elf tropes; a kind monster; sexual comedy",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 7,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 3,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kindness of the orc subverts appearances.",
+   "concerns": "Sexual comedy and lust played for laughs."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gentleness of the orc.",
+   "concerns": "Passions of lust as the central gag."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kindness to a runaway.",
+   "concerns": "Sexual humor; immodesty."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Not judging by appearance.",
+   "concerns": "Lust-driven comedy."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Patience and kindness.",
+   "concerns": "Sexual content; fantasy creatures."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Common-grace kindness.",
+   "concerns": "Lascivious humor (Larger Catechism Q139 concern)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kind neighborly conduct.",
+   "concerns": "Lust as joke."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Sexualized humor."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentle parody of prejudice about monsters.",
+   "concerns": "Sexual gags."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gentle, nonviolent hero.",
+   "concerns": "Worldly sexual comedy."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kind behavior.",
+   "concerns": "Law of chastity; immodest images."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Outsider treated with dignity.",
+   "concerns": "Sexual humor about a woman's lust."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Immodest images; sexual humor."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gentle orc reflects ahimsa.",
+   "concerns": "Lust as comedy."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Patience and non-harm.",
+   "concerns": "Craving played for laughs."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Subverts monster stereotypes; female desire shown openly.",
+   "concerns": "Consent dynamics of the pursuit (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Tolerance of the different.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Decency of the orc.",
+   "concerns": "Vulgar humor."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Sexual content; fantasy creatures."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Sexual humor; magic setting."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kind thought.",
+   "concerns": "Sensual focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of an outsider.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Nonhuman beings and consenting adults.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony between different beings.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Equality across appearances.",
+   "concerns": "Lust as one of the five vices played as comedy."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Prejudice against the different rejected.",
+   "concerns": "Chastity; sexual humor."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Communication across difference.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and nonconformity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Immodest images; vulgar humor."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dignity of the stranger.",
+   "concerns": "Sexual humor."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Welcome of the other.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "No honor plot noted."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Runaway princess free of royal duty (MangaUpdates)."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Unclear."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Princess and orc as equals (to verify)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Parody of fantasy tradition."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-expression and desire played openly."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "Catholic Europe"
+  ],
+  "japan": "Orc-and-elf tropes come from Japanese fantasy and adult-comedy conventions, which the comic parodies; described as context, not judged."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Gag sketch comic per AniList and MangaUpdates; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Any message about prejudice is implicit in the gag structure."
+ },
+ "winners_losers": "Not described beyond setup (to verify).",
+ "to_verify": [
+  "No review or parent guide found; sexual content level unverified and may be understated (MangaUpdates lists futanari; Japanese editions sold on adult doujin stores).",
+  "Identity and status of the English publisher 'Translators Unite'.",
+  "AniList lists the series as releasing; English availability unclear."
+ ]
+}

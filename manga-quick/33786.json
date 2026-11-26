@@ -1,0 +1,356 @@
+{
+ "anilist_id": 33786,
+ "title": "Love Bus Stop",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/33786",
+  "https://api.mangaupdates.com/v1/series/19606223887"
+ ],
+ "premise": "An anthology of office and everyday romances between men: Tazuki fantasizes about a fellow passenger on his bus, and other stories involve a flower shop, coworkers, a teacher and a college crush reunited at work (MU). The Juné blurb sells it as \"illicit crushes, secret love affairs and quiet bedroom trysts\".",
+ "life_message": "Everyday crushes can grow into real love if someone speaks first.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Juné blurb promotes fantasy and \"bedroom trysts\"; MU Drunken Intercourse; AniList Boys' Love."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Drunken intercourse (MU)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fear of being hated (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Intoxicated sex (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism, Hedonism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Shy confessions handled kindly.",
+   "concerns": "Lustful fantasies sold as the hook; same-sex sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ordinary working lives.",
+   "concerns": "Fantasy of strangers feeds passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest confessions.",
+   "concerns": "Lust; drunken sex; same-sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Coworkers treat each other well.",
+   "concerns": "Fantasy and sexual focus."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Sexual content; alcohol."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honesty about feelings.",
+   "concerns": "WLC Q139 lascivious material."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Daily vocations.",
+   "concerns": "Lust and drunkenness."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gentle romances.",
+   "concerns": "Drunken sex; sexual focus."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Low-key slice of life.",
+   "concerns": "Sexual focus; same-sex."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ordinary workers.",
+   "concerns": "Worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Dating leads to commitment.",
+   "concerns": "Chastity; alcohol."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Gay office workers depicted warmly.",
+   "concerns": "Consent when drunk."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Modest, shy characters.",
+   "concerns": "Fantasy; zina; alcohol."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Flower shop and office life.",
+   "concerns": "Kama dominates."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Craving examined.",
+   "concerns": "Third and fifth precepts."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Everyday gay romance.",
+   "concerns": "Consent while drunk."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adults expressing feelings.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hardworking salarymen.",
+   "concerns": "Sexual focus."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ordinary jobs.",
+   "concerns": "Sexual content; alcohol."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest work.",
+   "concerns": "Immorality; drunkenness."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love overcoming fear.",
+   "concerns": "Fantasy dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freely chosen love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere confessions.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work.",
+   "concerns": "Lust (kaam); alcohol."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courtesy.",
+   "concerns": "Chastity; alcohol."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication.",
+   "concerns": "Alcohol."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence welcomed.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Immodesty; same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ordinary relationships.",
+   "concerns": "Modesty."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Warm and inclusive.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor stakes."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Private desire acted on."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Work and commute settings."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Coworkers, some bosses (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular office life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Personal fulfilment."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "English-speaking"
+  ],
+  "japan": "Salaryman commutes and suit-and-tie office life are the backdrop, described as Japanese setting."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurb is promotional, not didactic.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message (to verify)."
+ },
+ "winners_losers": "The couples generally end together (to verify).",
+ "to_verify": [
+  "Explicitness of each story",
+  "Consent in the drunken-intercourse story"
+ ]
+}

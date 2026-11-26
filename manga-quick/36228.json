@@ -1,0 +1,93 @@
+{
+ "anilist_id": 36228,
+ "title": "Corpse Princess",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/36228",
+  "https://api.mangaupdates.com/v1/series/73512378993",
+  "https://www.mangaupdates.com/series/xrrdenl",
+  "https://derailmentsofthought.com/2016/06/06/corpse-princess-volume-1-review/"
+ ],
+ "premise": "Reanimated corpses called Shikabane walk the earth, and the Kougon Sect of a Shingon esoteric Buddhist school fights them with 'Corpse Princesses', undead girls bound to monks by contract (Yen Press blurb via AniList and MU). One of them, Makina, is told that destroying 108 Shikabane will bring her to Heaven (review). A 23-volume horror-action series.",
+ "life_message": "It asks whether a person can keep their humanity while being used as a weapon.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Neutral", "note": "Reviewer calls volume 1 a gorefest with limbs flying in every fight; MU Violence, Gun/s and Zombie Hunter categories."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Creepy horror the reviewer found too much; Horror genre on AniList and MU."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Fan service 'here and there' and a somewhat perverted monk (review); MU partial nudity, sexual innuendo; MangaDex suggestive."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Action-horror dialogue (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Regret and grief over death (MU Regret, Death of Loved One/s)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Gun combat."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adapted to anime."}
+ ],
+ "lenses": [
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 5, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Utilitarianism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Buddhist sect versus undead; keeping humanity; institutions using people",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 6},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 5, "sanctity": 6, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Makina's will to keep her humanity; critique of using persons as tools.", "concerns": "Salvation earned by 108 kills; necromantic contracts; gore."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Resisting dehumanization.", "concerns": "Undead and contract magic treated as holy work."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Little beyond resisting evil.", "concerns": "Works-based heaven via another religion; graphic gore."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Questions about the soul worth discussing.", "concerns": "Buddhist sect's heaven by kill count; gore."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Fighting evil forces.", "concerns": "Demons, curses and undead pacts throughout."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Exposes an institution's cynical use of girls.", "concerns": "False worship and works salvation."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Shows salvation-by-works bargains as hollow (review doubts sect).", "concerns": "Gore and occult."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Compassion for the used.", "concerns": "Graphic violence."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Good and evil drawn with moral weight.", "concerns": "Gore and fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Critique of institutional violence.", "concerns": "Heroic gun violence."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Agency of the Corpse Princesses.", "concerns": "Violent, gory content."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Critique of exploiting young women.", "concerns": "Gore; why only girls are used is unexplained (review)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Undead magic; other-faith paradise; fan service."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Karma and liberation imagery; righteous fighting.", "concerns": "Gore; tamasic content."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Shingon framework; 108 echoes the defilements.", "concerns": "Killing as the path; sect shown as insincere."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Exploitation of girls examined.", "concerns": "Fan service on young-looking girls."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Humanity under dehumanizing systems.", "concerns": "Gratuitous gore."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Duty and courage.", "concerns": "Gratuitous gore and fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Walking dead contradict soul-sleep teaching."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Spiritism and violence."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Life over death.", "concerns": "Dwelling on death and fear."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of the exploited.", "concerns": "Gore."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Spirit world taken seriously.", "concerns": "Gore."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Purification of restless dead.", "concerns": "Kegare of corpses and blood."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Defending people against evil.", "concerns": "Superstition and magic."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence; occult."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "The self beyond the body.", "concerns": "Glorified violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Skepticism of a cynical religious order.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Necromancy; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Dignity against exploitation.", "concerns": "Sorcery; gore."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice for the exploited.", "concerns": "Glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Violent combat duty; contracts bind girl and monk."},
+   "Order vs freedom": {"pos": 3, "evidence": "Sect rules and contracts govern the princesses."},
+   "Civic vs kin": {"pos": 5, "evidence": "Contract partners rather than family."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Monks command undead girls; a sect hierarchy."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Shingon esoteric Buddhism frames the world."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Fighting to survive and reach Heaven."}
+  },
+  "closest": ["Tidewater", "South and Southeast Asia", "Deep South"],
+  "japan": "Shingon esoteric Buddhism and the number 108 (worldly desires) draw on Japanese Buddhist tradition, used here as dark-fantasy setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Reviewer reads the humanity theme through events; no comment on preachiness.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The sect's motives are questioned through the plot, per one review of volume 1."
+ },
+ "winners_losers": "Makina's fight to stay human gains sympathy; the sect's use of girls as disposable tools is cast in doubt.",
+ "to_verify": [
+  "How the Buddhist sect is portrayed across 23 volumes.",
+  "Fan-service level in later volumes.",
+  "Ages of the Corpse Princesses."
+ ]
+}

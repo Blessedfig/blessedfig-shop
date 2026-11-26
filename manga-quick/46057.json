@@ -1,0 +1,88 @@
+{
+ "anilist_id": 46057,
+ "title": "Mr. Kayashima's Life of Luxury",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/46057", "https://api.mangaupdates.com/v1/series/44906041430"],
+ "premise": "Sumito Kayashima, a wealthy, solitary man from an old family, suddenly visits his gardener's home and confesses his love. Angered by this high-handed courtship, the gardener makes a cruel demand of him. Across three volumes (adapted from a novel by Haruhi Tono), the master and gardener build a secret relationship across the social gap, including a trip to England.",
+ "life_message": "Love requires the powerful to learn humility and see the other person as an equal.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "No violence tags."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional tension only."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Adult boys' love (AniList, MU Yaoi); 'cruel demand' unspecified; MangaDex safe; capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Solitude, grief for dead family and insecurity (MU)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "The gardener's 'cruel demand' in response to the confession; nature unknown (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Luxury lifestyle of the wealthy lead."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Love across class; master and servant; humility of the privileged",
+ "axes": {"economic": 5, "social": 7, "cultural": 5, "community": 4},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 5, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "The rich man learning to see his servant's dignity echoes the equal worth of every person.", "concerns": "Same-sex sexual relationship outside marriage is the story's goal."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Pride humbled through love.", "concerns": "Teaching on sexuality; passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Humility of the rich is a biblical theme.", "concerns": "Same-sex romance celebrated."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Wealth not bringing happiness to the lonely Kayashima.", "concerns": "Relationship outside sexual ethic."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Humility over wealth.", "concerns": "Sexual ethic."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Shows the emptiness of a life of luxury alone.", "concerns": "Same-sex desire affirmed."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation: the gardener's dignified work; ELCA families may accept.", "concerns": "LCMS objection."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Breaking class barriers fits social holiness.", "concerns": "Holiness churches object to the romance."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Gentle love story across rank; England setting.", "concerns": "ACNA objection."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Critique of luxury and pride fits simplicity.", "concerns": "Sexual content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Humility and service.", "concerns": "Law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Love that crosses class lines; affirming of gay love.", "concerns": "Power imbalance between employer and employee worth discussing."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Humility of the wealthy.", "concerns": "Same-sex relations."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Detachment from wealth; respect across station.", "concerns": "Traditional families object to the romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Wealth does not end loneliness; connection does.", "concerns": "Little concern."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Gay love and critique of entitlement.", "concerns": "Employer-employee power imbalance."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Equal dignity across class.", "concerns": "Power imbalance."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Respect for an old family and a settled household.", "concerns": "Same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Simplicity over luxury.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming isolation.", "concerns": "Sensual attachment."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Equity and love across class.", "concerns": "Little concern."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Gardener tending nature; adult love.", "concerns": "Little concern."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Garden and nature care; continuity of an old house.", "concerns": "Household line not continued."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Equality across class and honest work.", "concerns": "Relationship outside marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Oneness across social station.", "concerns": "Chastity teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication across a gap.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Pursuing one's own desire.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex relations forbidden."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment recognised.", "concerns": "Power imbalance."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion and justice across class.", "concerns": "Little concern."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "The gardener answers a slight with a 'cruel demand' (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Secret relationship within a formal household."},
+   "Civic vs kin": {"pos": 5, "evidence": "Long-esteemed family; dead family members (MU)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Master-servant relationship and social gap (MU)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Old family customs in a modern world."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Wealth secure; emotional fulfilment sought."}
+  },
+  "closest": ["Tidewater", "Orthodox Europe", "Catholic Europe"],
+  "japan": "The old-family estate and reserved master reflect Japanese ideas of household lineage and emotional restraint."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; class theme carried by the relationship (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Class difference shapes the plot without a stated thesis."
+ },
+ "winners_losers": "Not documented; blurbs sympathise with the couple bridging the social gap.",
+ "to_verify": [
+  "Nature of the gardener's 'cruel demand'.",
+  "Explicitness of sexual content; capped at 3.",
+  "MangaPlaza English license status (possibly lapsed); AniList year 2008 vs MU 2009.",
+  "No Wikipedia cache or reviews opened."
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "anilist_id": 146314,
+ "title": "I See Your Face, Turned Away",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/146314",
+  "https://api.mangaupdates.com/v1/series/7562317936"
+ ],
+ "premise": "Four teenagers tell four stories of unrequited love. Hikari, who sees herself as 'extraordinarily ordinary', imagines a romance between her pretty friend Mari and their classmate Otani, until she starts wondering whether she must always be the best friend. The series won the 48th Kodansha Manga Award (shoujo) (Kodansha blurb and note via AniList; MU).",
+ "life_message": "Quiet, unspoken feelings deserve respect, and friendship can survive hearts that point in different directions.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional drama."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "High-school love polygon (MU; AniList). AniList Teacher tag context unknown (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Shyness, introversion and a stutter (MU); Rehabilitation tag (AniList)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Unrequited first love; friendship; multiple teen viewpoints",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Hikari puts friendship with Mari above her own wishes.", "concerns": "Little reported."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Self-restraint and humility.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Clean school romance.", "concerns": "Little."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Considerate friendships.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Honest picture of the heart's longings.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Love of neighbor.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Gentle care for shy peers.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Award-winning, humane storytelling.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Humble, peaceable relationships.", "concerns": "Teen romance focus."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Clean, uplifting content.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion of a stuttering, shy character (MU).", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Modesty of unspoken feelings.", "concerns": "Dating culture."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Selfless friendship.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Attachment and letting go.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Disability representation; emotional honesty.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy across viewpoints.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Loyalty and restraint.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Wholesome content.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Clean content.", "concerns": "Dating focus."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Love and courage to overcome shyness.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every voice.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal truth.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity and harmony.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Humility.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Unity and kindness.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Communication.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Pursuing one's own desires.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Guarding feelings and speech.", "concerns": "Dating culture."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and empathy.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Feelings kept quiet, no confrontation (Kodansha blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Teens follow their own hearts (MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friend groups at school (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Peers; school clubs (MU)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school setting (AniList)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Inner feelings and music (AniList Band)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "English-speaking"],
+  "japan": "Reflects the Japanese value of reading unspoken feelings (kuuki wo yomu) and group harmony among friends."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Multiple-POV drama of unspoken love (Kodansha blurb; MU Multiple POVs); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Meaning is carried by shifting viewpoints."
+ },
+ "winners_losers": "All four teens are treated with sympathy (Kodansha blurb).",
+ "to_verify": [
+  "AniList Teacher tag (rank 70): check whether any student-teacher romance appears.",
+  "No review opened."
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "anilist_id": 74319,
+ "title": "Puella Magi Madoka Magica: The Different Story",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/74319",
+  "https://api.mangaupdates.com/v1/series/12081711171",
+  "https://www.animenewsnetwork.com/review/puella-magi-madoka-magica/the-different-story/gn-3/.82136"
+ ],
+ "premise": "A three-volume side story centred on magical girl Mami Tomoe, whose warm nature sits badly with a solitary life where 'survival often takes precedence over kindness'. Her hoped-for partnership with fellow lone wolf Kyouko Sakura frays, and later Mami faces Sayaka's fall and her own guilt (Yen Press blurb via AniList and MU; ANN review of volume 3).",
+ "life_message": "Kindness and choosing one's own ending matter, even in a world that rewards self-preservation.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Battles with witches, guns and spears; deaths of magical girls (AniList Guns, Tragedy; MU Brutality, Violence; ANN). Gore level not described (to verify)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Shown with consequences", "note": "Horror genre (AniList), Despair and Dark Fantasy (MU); ANN calls the ending 'pretty depressing'."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 6, "framing": "Shown with consequences", "note": "Mami decides to die alongside Sayaka and Kyouko tries to talk her out of it (ANN); MU Suicide/s, Mental Breakdown, Loneliness."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Shown with consequences", "note": "Self-sacrifice and despair shown as costly (ANN)."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Spin-off of a large franchise; based on a drama CD (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 6, "stance": "Explored"},
+  {"lens": "Utilitarianism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Nihilism", "strength": 4, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Selflessness versus self-preservation; despair and guilt; choosing one's own end",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Mami's longing for self-giving friendship and care for others.", "concerns": "Mami's resolve to die with Sayaka; despair without hope of redemption."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Guilt and repentance over a selfish wish.", "concerns": "Despair and a chosen death; wish-granting contracts."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Selfishness shown to bring ruin.", "concerns": "Magic contracts, witches, and a planned death."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Opens talk on sacrifice and hope.", "concerns": "Bleak ending; witches and contracts with Kyubey."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "A deceptive tempter figure (Kyubey) is shown as smug.", "concerns": "Soul-bargain magic and witches; despair."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Shows the misery of a fallen world truthfully.", "concerns": "Self-chosen death (WLC Q136); no providence."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Burden of guilt that works cannot lift.", "concerns": "Suicidal resolve without grace."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Works of mercy and friendship valued.", "concerns": "Despair and death handled darkly."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "A moral tragedy that frames selfishness and sacrifice seriously.", "concerns": "Suicide theme needs context."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Self-giving love valued.", "concerns": "Armed combat central; despair."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Service to others over self.", "concerns": "Violence and a chosen death."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Compassion for lonely, burdened girls.", "concerns": "Suicide portrayal needs mental-health framing."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Selfish wishes bring loss.", "concerns": "Sorcery-like contracts; suicide is forbidden."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Duty and the karma of a wish.", "concerns": "Self-destruction discouraged."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Craving and attachment (the wish) produce suffering.", "concerns": "Violence and a chosen death."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Exploitation of girls by a system is critiqued.", "concerns": "Safe-messaging on suicide."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Questions whether selflessness can harm.", "concerns": "Bleak treatment of despair."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Courage, duty and loyalty.", "concerns": "Suicide theme; witches."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Deception exposed.", "concerns": "Witches, souls in gems and despair."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Magic, witches, violence and suicide throughout."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Love valued over fear.", "concerns": "Dwells on fear, despair and death."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Interdependence and care among the girls.", "concerns": "Suicide portrayal for younger readers."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Consequences return on a wish (Threefold Law echo).", "concerns": "Witches portrayed as monsters."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sincerity of Mami's care.", "concerns": "Death and kegare at the center."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Selfless service over ego.", "concerns": "Magic contracts; suicide discouraged."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Service and unity valued.", "concerns": "Suicide forbidden; magic."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Personal responsibility for one's choices.", "concerns": "Despair framed as unavoidable."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Mami chooses her own end rather than a dictated fate (ANN).", "concerns": "Exploitation of children by Kyubey."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Chesed between friends.", "concerns": "Sorcery-like magic; suicide grave."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Loving-kindness and guilt explored.", "concerns": "Suicide; magic."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical questions of self and others.", "concerns": "Suicide portrayal."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Fights with witches, not personal honor duels (Yen Press blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Rules of magical-girl life versus Mami's own choice (ANN)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Chosen bonds of trust between lone girls (Yen Press blurb); family lost (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Mentor-disciple tie with Sayaka (MU Master-Disciple)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Religion tag (AniList) but no faith resolution reported."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "'Survival often takes precedence over kindness' (Yen Press blurb)."}
+  },
+  "closest": ["Catholic Europe", "Puritan", "The Far West"],
+  "japan": "Reworks the Japanese magical-girl genre, with its ideals of friendship and self-sacrifice, into tragedy."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN frames selfish versus selfless as 'interesting to explore', not heavy-handed.",
+  "personified": [
+   {"character": "Mami Tomoe", "ideology": "Kindness and selfless heroism", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Kyouko Sakura", "ideology": "Survival first, the lone-wolf ethic", "role": "Foil", "treatment": "Fair"}
+  ],
+  "opposing_views": "Fair",
+  "note": "The tension between kindness and survival is carried by the two girls' choices, per the blurb and the ANN review."
+ },
+ "winners_losers": "No one clearly wins; Mami's humanity is treated with sympathy while the magical-girl system grinds on (ANN).",
+ "to_verify": [
+  "ANN review read covers volume 3 only.",
+  "Graphic level of deaths and witch battles.",
+  "Kyouko's religious backstory (AniList Religion tag) not confirmed by sources opened.",
+  "Treatment of Kyouko as Fair is an estimate."
+ ]
+}

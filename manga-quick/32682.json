@@ -1,0 +1,351 @@
+{
+ "anilist_id": 32682,
+ "title": "Waru",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32682",
+  "https://api.mangaupdates.com/v1/series/21952839382"
+ ],
+ "premise": "Foul-mouthed delinquent Jou commits the biggest crime of his life by kidnapping a parliamentarian's son, and during the escape the two fall in love (AniList, MU). MU lists Stockholm syndrome, a bodyguard and an age gap.",
+ "life_message": "Two people on the run find love despite how they met.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Kidnapping (AniList, MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Chase (to verify)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU Yaoi; AniList Boys' Love; no explicit categories."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "\"Bad mouth\" (AniList)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Kidnapping romanticized (AniList blurb; MU Stockholm Syndrome)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 3,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love that changes a criminal.",
+   "concerns": "Kidnapping romanticized; same-sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime; same-sex."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime romanticized."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Change of heart.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime; same-sex."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Comedy.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Change.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Comedy.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime; same-sex."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay couple.",
+   "concerns": "Stockholm-syndrome consent."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime; same-sex."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Comedy.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Change.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay comedy.",
+   "concerns": "Consent under captivity."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Comedy.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime romanticized."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Free love.",
+   "concerns": "Captivity."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Affinity.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebellion against authority.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Crime; same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love.",
+   "concerns": "Crime."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love.",
+   "concerns": "Consent."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Delinquent bravado."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Rule-breaking."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Politician family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Age gap (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Feelings."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Far West",
+   "English-speaking"
+  ],
+  "japan": "A politician's family and bodyguards reflect Japanese political-family settings."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Comedy (AniList).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message (to verify)."
+ },
+ "winners_losers": "Jou and the son fall in love (AniList).",
+ "to_verify": [
+  "Ending",
+  "Son's age"
+ ]
+}

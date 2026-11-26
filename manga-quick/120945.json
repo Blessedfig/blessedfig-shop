@@ -1,0 +1,89 @@
+{
+ "anilist_id": 120945,
+ "title": "Isshiki-san Wants to Know About Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/120945",
+  "https://api.mangaupdates.com/v1/series/17946839728"
+ ],
+ "premise": "Rinna Isshiki, a strait-laced and respected police inspector, keeps slipping up at work whenever her colleague Rokutanda is around. Having no experience with such feelings, she proposes a pretend relationship with him to figure out what love is (Yen Press blurb via AniList; MU).",
+ "life_message": "Love is something even the most disciplined adult has to learn honestly, step by step.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Police and action elements (AniList Action, Police)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Ecchi genre (AniList, MU); Large Breasts (AniList), Partial Nudity and Big-Breasted Female Lead (MU). Database tags only, capped at 3 (to verify); adult characters."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Pretend dating (MU Pretend Lovers)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Based on a novel (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Workplace romcom between adults; learning about love; fan service",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 2, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Adults approaching love with care; dutiful police work.", "concerns": "Ecchi fan service focused on Isshiki's body."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Restraint and duty.", "concerns": "Sensual imagery."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Honest courtship between adults.", "concerns": "Fan service."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Inexperienced adults learning love.", "concerns": "Partial nudity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Diligence at work.", "concerns": "Immodesty."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Vocation and order.", "concerns": "Lascivious images (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation as service.", "concerns": "Fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Kind male lead (MU).", "concerns": "Fan service."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Gentle adult romance.", "concerns": "Ecchi framing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humility.", "concerns": "Immodesty and worldliness."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Chaste inexperience.", "concerns": "Immodest art."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Competent female professional.", "concerns": "Objectifying camera."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little alignment beyond diligence.", "concerns": "Immodesty; pretend dating."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Duty first.", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Mindfulness of feelings.", "concerns": "Sensual imagery."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Female inspector in authority.", "concerns": "Sexualized framing of the lead."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Consenting adults; honest feelings.", "concerns": "Objectification."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Duty and respect for police.", "concerns": "Fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Diligence.", "concerns": "Immodesty."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love understood.", "concerns": "Sensual imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Emotional honesty.", "concerns": "Objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Consenting adult romance.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity (makoto) in feelings.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work.", "concerns": "Lust as humor."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Chaste inexperience.", "concerns": "Immodesty."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication between partners.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Adults free to explore desire.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty (tzniut)."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Committed relationship sought.", "concerns": "Fan service."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Healthy adult relationship.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Respected inspector; no honor conflict (Yen Press blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Disciplined police workplace (AniList Police)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Colleagues, childhood promise (MU)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Inspector rank respected by everyone (MU description)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern urban setting (AniList Urban)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Personal feelings explored (Yen Press blurb)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "New Netherland"],
+  "japan": "Reflects Japanese workplace norms where romance between colleagues is handled discreetly and rank is respected."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Romcom premise (Yen Press blurb); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No stated message reported beyond learning about love."
+ },
+ "winners_losers": "Isshiki and Rokutanda are both sympathetic; no opposing worldview reported.",
+ "to_verify": [
+  "Fan-service level (capped at 3 from database tags; possibly understated).",
+  "AniList tags a Historical element (low rank)."
+ ]
+}

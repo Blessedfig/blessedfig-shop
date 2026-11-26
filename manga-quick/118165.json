@@ -1,0 +1,91 @@
+{
+ "anilist_id": 118165,
+ "title": "Monotone Blue",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/118165",
+  "https://api.mangaupdates.com/v1/series/58227213912",
+  "https://womenwriteaboutcomics.com/?p=145928"
+ ],
+ "premise": "At an all-boys high school of anthropomorphic animals, bored cat Hachi sees the world in muted colors until Aoi, a quiet, high-achieving lizard, transfers in. Hachi is drawn to the bright blue tail Aoi keeps hidden because of past events, and the two boys slowly open up to each other (Seven Seas blurb via AniList; Women Write About Comics review). One volume.",
+ "life_message": "Being different is not shameful; differences can be what draw people together.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Condemned", "note": "Bullying of Aoi (AniList Bullying spoiler; MU Bullied Male Lead)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Quiet, 'serene' tone (review)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "Romance between two high-school boys; a past sexual assault or attempted assault on Aoi listed by MU and AniList (spoiler), not mentioned in the review, so capped (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Aoi's insecurity and trauma about his tail (review; MU Traumatic Past, Trust Issues)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Little noted."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Accepting difference; gentle same-sex teen romance; healing from past hurt",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 8, "loyalty": 5, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Hachi's patient kindness toward a hurt classmate.", "concerns": "Same-sex romance affirmed; past assault themes."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Compassion for the outsider lizard.", "concerns": "Same-sex romance."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Befriending the lonely new student.", "concerns": "Same-sex romance between teens as the core story."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Kindness to the bullied.", "concerns": "Romance between Hachi and Aoi."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Healing of shame.", "concerns": "Same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common-grace art about loneliness.", "concerns": "Same-sex romance."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Gentle care for a neighbor.", "concerns": "LCMS/WELS concern with same-sex romance; ELCA open."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Welcome for the outsider.", "concerns": "Varies by church on same-sex romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Respect for each person's dignity.", "concerns": "ACNA families would differ on romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Quiet, nonviolent story.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Kindness and friendship.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Affirming queer teen romance; difference celebrated.", "concerns": "Past assault theme."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Compassion for the bullied.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Gentle friendship; nature imagery of warm and cool.", "concerns": "Views vary on same-sex romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Seeing color in life through compassion.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer representation; difference celebrated over shamed.", "concerns": "Sexual harassment backstory (to verify)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy for an outsider.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Gentle school story.", "concerns": "Same-sex teen romance presented to young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Friendship to the lonely.", "concerns": "Same-sex romance."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love dispels fear and shame.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth and LGBTQ affirmation.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Affirming love; animal imagery.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Summer seasons and harmony between two natures.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality of all.", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Rejecting prejudice against the different.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and affinity grow.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Affirming; individuality.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Kindness to the stranger.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity of the outsider.", "concerns": "Views vary by congregation."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and dignity.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Hurt is healed through acceptance, not retaliation (review)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Aoi learns to stop hiding his tail (review)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Classmate bond, families not stressed."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Two classmates as equals (MU Student-Student Relationship)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "No religious frame; difference 'celebrated instead of shamed' (review)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Self-acceptance and colorful life over blandness (blurb)."}
+  },
+  "closest": ["New Netherland", "New France", "English-speaking"],
+  "japan": "Aoi hiding what makes him different to fit in reflects Japanese pressure toward conformity at school, shown as background."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Reviewer calls it 'a simple story, well told', conveyed through imagery of colors (WWAC).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The message of accepting difference comes through color imagery and the characters' bond."
+ },
+ "winners_losers": "Hachi and Aoi both gain; the bullies or harassers in Aoi's past are not given sympathy (to verify).",
+ "to_verify": [
+  "Sexual assault or harassment in Aoi's past (MU, AniList spoiler) not confirmed by the review; score may be understated.",
+  "Whether the romance includes physical intimacy.",
+  "MangaDex rating unavailable; MU match was by exact title."
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "anilist_id": 77977,
+ "title": "The Demon Prince of Momochi House",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/77977",
+  "https://api.mangaupdates.com/v1/series/40440143358"
+ ],
+ "premise": "On her sixteenth birthday, orphan Himari Momochi inherits an ancestral house that stands on the border between the human and spirit realms, and she is meant to guard it. On arrival she finds three handsome young men already living there, one of whom has taken over her guardian role (VIZ blurb via AniList/MU). The series mixes youkai, exorcism and romance.",
+ "life_message": "Belonging and duty to one's family heritage can be found by caring for those on both sides of a boundary.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Exorcism and youkai conflicts (MU Exorcism, Demon/s, Curse/s) (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Haunted house and ghosts (MU Haunted Location; AniList Ghost)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Shoujo romance, cohabitation with young men (MU Live-in Lover, Reverse Harem); AniList Age Gap (spoiler)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Orphan's loneliness; memory erasure (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Stage play adaptation (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Pantheist/New Age", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Inherited duty; spirits and the human world; found family and romance",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 7},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 5, "sanctity": 6, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Himari's sense of duty and care for the house's residents.", "concerns": "Spirits and exorcism outside the Church's frame; teen living with young men."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Inherited responsibility.", "concerns": "Demons as romantic leads."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Orphan finds a home.", "concerns": "Demon prince as love interest; spirit-world magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Found family.", "concerns": "Demonic romance; cohabitation."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Demons, possession-like powers and exorcism as fantasy."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Providence-like inheritance.", "concerns": "Spirit contact."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation as guardian.", "concerns": "Occult themes."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care for others.", "concerns": "Occult romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Folklore fantasy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Household belonging.", "concerns": "Worldly romance and spirits."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Family heritage.", "concerns": "Spirits; cohabitation."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Strong female lead (MU).", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Guardianship duty.", "concerns": "Jinn-like spirits romanticized; unmarried cohabitation."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Ancestral duty (dharma).", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion to spirits.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Determined heroine.", "concerns": "Reverse-harem tropes."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Folklore as fiction.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Inheritance and family duty.", "concerns": "Cohabitation."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Belonging.", "concerns": "Ghosts and spirits as real."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Spiritism and demons central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear.", "concerns": "Haunting imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Bridging worlds.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Spirits honored, boundary-keeping as sacred.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Youkai, ancestral house and barrier between worlds (MU Japanese Folklore).", "concerns": "Exorcism framing to check."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Duty and courage.", "concerns": "Superstition."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service.", "concerns": "Occult."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spiritual beings.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Demons sympathetic, not stereotyped.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Heritage.", "concerns": "Demonic romance; yichud."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Family legacy.", "concerns": "Spirits."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Fantasy accepted.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Contested guardian role (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Duty to keep the barrier (blurb)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Ancestral estate and inherited role (blurb; MU Inheritance)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "A 'prince' among spirits (title)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Japanese folklore and exorcism (MU)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Protecting the boundary over personal wants."}
+  },
+  "closest": ["Latin America", "First Nation", "South and Southeast Asia"],
+  "japan": "Draws on Japanese youkai folklore and the idea of houses and places guarding a boundary with the spirit world, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; sources say nothing on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe the premise only."
+ },
+ "winners_losers": "Himari and the spirit residents are sympathetic; MU tags manipulative antagonists whose views are not described.",
+ "to_verify": [
+  "No review opened; antagonists, romance resolution and the Age Gap spoiler tag to check.",
+  "Names of the three residents not confirmed from opened sources."
+ ]
+}

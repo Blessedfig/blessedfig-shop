@@ -1,0 +1,363 @@
+{
+ "anilist_id": 33947,
+ "title": "Blank Slate",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/33947",
+  "https://api.mangaupdates.com/v1/series/62786931583",
+  "https://www.comicbookbin.com/blankslate001.html"
+ ],
+ "premise": "Zen wakes with no memory and an urge to control, commit crimes and kill, wandering Amata, a land enslaved by the invading nation Galay. A bounty hunter, a Galayan general's daughter and an unlicensed doctor are drawn to him as the dark secret of his past unfolds over two volumes.",
+ "life_message": "It asks whether a person is defined by a violent past, without offering a clear model life.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "'Lots of shooting, blood splatters' (ComicBookBin); murders, war, assassins (tags)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Remorseless killer lead (review); human experiments (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Suicide tag (AniList spoiler) (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Anti-hero's crimes and killings (review; AniList Anti-Hero)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Existentialism; Nihilism; Might makes right",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions of conscience and identity.",
+   "concerns": "Remorseless killing by the lead; gore."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Evil shown as destructive.",
+   "concerns": "Violence and passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sin's effects visible.",
+   "concerns": "Graphic violence; anti-hero."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope of redemption (to verify).",
+   "concerns": "Violent anti-hero."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Darkness of evil shown.",
+   "concerns": "Violence; murder."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fallenness explored.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Law and conscience questions.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mercy from doctor Hakka.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Serious moral exploration.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "War's cruelty shown.",
+   "concerns": "Violence central and stylish."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Moral consequences.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Occupation and enslavement critiqued.",
+   "concerns": "Glamorized violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Injustice of occupation.",
+   "concerns": "Killing; suicide (to verify)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Karma of violence.",
+   "concerns": "Adharma."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Suffering of violence.",
+   "concerns": "Killing throughout."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Colonial oppression of Amata.",
+   "concerns": "Stylized violence."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions of identity and memory.",
+   "concerns": "Cruelty."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage in war.",
+   "concerns": "Criminal anti-hero."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Doctor's healing work.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Futility of war.",
+   "concerns": "Violence and war central."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mind and identity.",
+   "concerns": "Fear and violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Oppression critiqued.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Freedom of the oppressed.",
+   "concerns": "Harmful violence."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Purity contrasted with bloodshed.",
+   "concerns": "Kegare of blood and death."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed.",
+   "concerns": "Lead's killing for its own sake."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Unity of peoples implied.",
+   "concerns": "Violence and war."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Memory and identity (to verify).",
+   "concerns": "Human experiments; violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-determined anti-hero.",
+   "concerns": "Indiscriminate harm."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Pursuit of truth about the past.",
+   "concerns": "Violence; revenge."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice for the oppressed.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Oppression questioned.",
+   "concerns": "Glamorized violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "Revenge and dominance drive Zen (tags)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Zen lives outside all law."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Partnerships over kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Military occupation hierarchy."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular science and war."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival in war-torn land."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "Orthodox Europe",
+   "El Norte"
+  ],
+  "japan": "A shoujo-label action story; the reviewer notes it reads like shonen action, an example of genre blending in Japanese magazines."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ComicBookBin calls it 'mostly empty' but stylish; no message stated.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Ideas about identity and violence are left implicit."
+ },
+ "winners_losers": "Zen's past is revealed as sinister; sympathy is split between Zen and those drawn to him; outcome not confirmed.",
+ "to_verify": [
+  "Suicide and human experiment content (database tags only)",
+  "Ending",
+  "Viz rated T+ (per review)"
+ ]
+}

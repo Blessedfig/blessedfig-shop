@@ -1,0 +1,372 @@
+{
+ "anilist_id": 47904,
+ "title": "Princess Jellyfish",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Princess_Jellyfish",
+  "https://anilist.co/manga/47904"
+ ],
+ "premise": "Tsukimi, a shy jellyfish-loving aspiring illustrator, lives in Amamizukan, a Tokyo boarding house for otaku women who avoid men and stylish people. She befriends Kuranosuke, a fashionable cross-dressing son of a politician, who gives her makeovers. When developers plan to tear down Amamizukan, the 'Sisterhood' fights back by designing and selling jellyfish-inspired dresses.",
+ "life_message": "Everyone, however awkward, has worth and beauty, and a misfit community can defend its home by working together.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Threat of losing their home (Wikipedia)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Slow romance; a developer drugs a man and fakes a sexual encounter to blackmail him, not shown explicitly (Wikipedia; AniList Love Triangle)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Comic insults (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Drugged drink used for blackmail (Wikipedia)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Shown with consequences",
+   "note": "Social anxiety and poor self-image (Wikipedia)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Condemned",
+   "note": "Drugging and blackmail by the antagonist (Wikipedia)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fashion and makeovers; launching a clothing brand (Wikipedia; AniList Fashion)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Feminism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Self-worth of misfits; found family; gender expression and fashion; resisting redevelopment",
+ "axes": {
+  "economic": 4,
+  "social": 7,
+  "cultural": 6,
+  "community": 7
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 8,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity of overlooked women; community defending its home.",
+   "concerns": "Kuranosuke's cross-dressing; blackmail via faked sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humility and community bonds.",
+   "concerns": "Cross-dressing celebrated; vanity of fashion."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Worth of every person.",
+   "concerns": "Man in women's clothing as hero (Deuteronomy 22:5 concern)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship and self-worth.",
+   "concerns": "Gender expression themes."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal sisterhood.",
+   "concerns": "Cross-dressing; worldliness of fashion."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation through craft and design.",
+   "concerns": "Gender-role blurring."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation and neighbor love.",
+   "concerns": "Varies by synod on cross-dressing."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inclusion and community.",
+   "concerns": "Blackmail subplot."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hospitality to misfits.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mutual aid in a simple household.",
+   "concerns": "Fashion and cross-dressing worldly."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-reliance and service.",
+   "concerns": "Gender expression; drugged-drink plot."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and resisting gentrification.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sisterhood and modest residents.",
+   "concerns": "Men imitating women discouraged in hadith."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Each finds their own path.",
+   "concerns": "Varies."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Compassion and acceptance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gender expression and anti-gentrification.",
+   "concerns": "Early man-hating jokes."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-worth and creativity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work, small enterprise.",
+   "concerns": "Gender expression presented to readers."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Simplicity of the residents.",
+   "concerns": "Cross-dressing; adornment focus."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Gender roles blurred."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Seeing one's true worth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inherent worth; affirming of difference.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom of expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love of nature (jellyfish) and community.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Equality and honest work.",
+   "concerns": "Varies on gender expression."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Unity and equality of women.",
+   "concerns": "Varies."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Group survival and creativity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Nonconformity celebrated.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness and community.",
+   "concerns": "Lo yilbash cross-dressing prohibition."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Human dignity.",
+   "concerns": "Varies."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and justice for the displaced.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Residents resist through business, not confrontation."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Boarding-house rules exist, but self-expression wins."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "A chosen sisterhood, not family, is the core."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Sisterhood shares decisions; politician family hierarchy is resisted."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern urban creative life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Fashion and identity are the means and goal."
+   }
+  },
+  "closest": [
+   "English-speaking",
+   "Yankeedom",
+   "New Netherland"
+  ],
+  "japan": "Depicts Japanese otaku women's subcultures and political-family expectations, alongside Tokyo redevelopment."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No source comments on delivery; summaries show the outlook carried by plot and character choices (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Its message about misfits' worth and community is carried by the Sisterhood's fight to keep Amamizukan."
+ },
+ "winners_losers": "The Sisterhood keeps Amamizukan and launches its brand; the developer's scheme fails. Sympathy goes to misfits and self-expression.",
+ "to_verify": [
+  "Kodansha USA age rating",
+  "Later-volume storylines",
+  "Language level"
+ ]
+}

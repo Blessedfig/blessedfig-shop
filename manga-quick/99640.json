@@ -1,0 +1,92 @@
+{
+  "anilist_id": 99640,
+  "title": "You Got Me, Sempai!",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/You_Got_Me,_Sempai!",
+    "https://anilist.co/manga/99640",
+    "https://api.mangaupdates.com/v1/series/19922721087"
+  ],
+  "premise": "High schooler Serina finds love-song lyrics scratched into her desk by Mizukawa, a cold-seeming boy a year above her. Realizing he is awkward rather than mean, she asks him out, and the shojo series follows their relationship as a couple, including their first argument (Kodansha blurb via AniList and MU; ANN reviews summarized on Wikipedia).",
+  "life_message": "Honest, proactive communication makes a relationship healthy, even between awkward teens.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Teen dating central; MU First Kiss and First-Time Intercourse; ANN reviewer says it doesn't 'dilly-dally in starry-eyed purity' (via Wikipedia); explicitness unknown."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Vandalizing a desk with lyrics (blurb); teen sexual relationship (to verify)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+    {"lens": "Feminism", "strength": 2, "stance": "Affirmed"}
+  ],
+  "dominant": "Healthy teen romance; a proactive heroine; communication",
+  "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 4},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Kindness, honesty and working through a couple's first argument (ANN via Wikipedia).", "concerns": "Teen sexual relationship tagged (MU First-Time Intercourse) outside marriage."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Gentleness and patience between Serina and Mizukawa.", "concerns": "Premarital sex among teens."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Respectful communication.", "concerns": "Teen sex shown as a natural step (to verify depiction)."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "A relationship built on honesty.", "concerns": "Purity concerns with sexual content."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Teen sexual activity."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Honest reconciliation.", "concerns": "Seventh-commandment concerns."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Forgiveness in a relationship.", "concerns": "Premarital sex."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Mutual care.", "concerns": "Teen sexual content."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Healthy communication praised by reviewers.", "concerns": "Teen sex judged case by case."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humble, kind boyfriend (MU Kind Male Lead).", "concerns": "Sexual content and worldly romance."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Respect between partners.", "concerns": "Law of chastity; teen sex."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Reviewers call it one of the healthiest tsundere romances (ANN via Wikipedia).", "concerns": "Age-appropriateness of sexual content."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Gentle manners.", "concerns": "Dating and sex outside marriage."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Affection and loyalty.", "concerns": "Teen sexual relationship."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Right speech: talking through a fight.", "concerns": "Third precept depends on depiction."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Girl takes initiative; consent-minded, healthy relationship (ANN via Wikipedia).", "concerns": "Sexual content involving minors in print."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Realistic relationship (MU Realistic Relationship).", "concerns": "Age-appropriateness."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Steady, faithful couple.", "concerns": "Teen sex."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Premarital sex."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Honesty between partners.", "concerns": "Sexual immorality."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love and patience.", "concerns": "Purity."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Mutual respect and agency.", "concerns": "Age-appropriate reading."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Affection treated positively.", "concerns": "Minors and sexuality."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity in feelings.", "concerns": "Little doctrinal concern."},
+    {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Truthfulness.", "concerns": "Sex outside marriage."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Consultation in a relationship.", "concerns": "Chastity before marriage."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication (ARC) between partners.", "concerns": "Little stated concern."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Free choice in love.", "concerns": "Little of interest."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Kind speech.", "concerns": "Tzniut; premarital relations."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Healthy communication.", "concerns": "Teen sexual content."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Consent and healthy relationships.", "concerns": "Age-appropriateness."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Conflicts are talked through (ANN via Wikipedia)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Serina pursues romance on her own initiative (blurb)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Focus on the couple; few side characters (ANN via Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "Senpai-kohai relationship in the title (MU)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school romance; no religion."},
+      "Survival vs self-expression": {"pos": 7, "evidence": "Emotional fulfilment as the goal."}
+    },
+    "closest": ["Catholic Europe", "Yankeedom", "New Netherland"],
+    "japan": "The senpai-kohai age hierarchy frames the romance, and the series ran in Kodansha's teen girls' magazine Dessert."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "ANN reviewers praise its healthy, low-key romance; none call it preachy (via Wikipedia).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The model of a healthy relationship is shown through the couple's choices rather than stated."
+  },
+  "winners_losers": "Serina and Mizukawa grow as a couple; there are no clear losers. Sympathy goes to honest, mutual romance.",
+  "to_verify": [
+    "How sexual content is depicted (MU First-Time Intercourse) and at what point",
+    "Love triangle (AniList, spoiler)",
+    "Kodansha USA age rating",
+    "Wikipedia plot section is empty; plot from publisher blurb"
+  ]
+}

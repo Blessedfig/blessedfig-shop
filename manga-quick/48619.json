@@ -1,0 +1,371 @@
+{
+ "anilist_id": 48619,
+ "title": "Tokyo ESP",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/48619",
+  "https://api.mangaupdates.com/v1/series/39999977246",
+  "https://api.mangadex.org/manga/efa1976e-1364-44d2-8225-980691ecedd6",
+  "https://www.animenewsnetwork.com/review/tokyo-esp/gn-1/.94037"
+ ],
+ "premise": "Rinka Urushiba, a high-schooler struggling with poverty, gains the power to pass through solid objects after glowing fish fly into her (ANN review; Vertical blurb). Azuma, a teleporting ESPer, urges her to become a 'hero of justice' as other ESPers try to take over Tokyo. Alliances shift across 16 volumes, with a flying penguin among the oddities.",
+ "life_message": "Using your power to protect others is better than standing by, even when you are unsure you want the role.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Super-power battles; injuries persist (ANN); AniList Gore tag, MU Violence, Injuries."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "City under attack; dark backstories (ANN)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Ecchi genre; underwear scene (ANN); MU Nudity, Nudist, Panchira, Attempted Rape."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing specific beyond a translation term the ANN reviewer disliked."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Poverty, unreliable father, absent mother (ANN); dead parent (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Teens fighting criminals with powers."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Reluctant heroism; justice; power used for others",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 7,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rinka chooses to use power to protect people.",
+   "concerns": "Fan service, nudity and an attempted rape tag."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Courage for others.",
+   "concerns": "Immodest imagery and violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Heroism against evil.",
+   "concerns": "Ecchi content and nudity for teens."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-sacrifice for the city.",
+   "concerns": "Fan service; violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Good versus evil clear.",
+   "concerns": "Ecchi; supernatural powers."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Just use of force.",
+   "concerns": "Sexualised scenes."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation to serve others.",
+   "concerns": "Nudity and fan service."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Doing good for neighbours.",
+   "concerns": "Ecchi content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Clear moral framing of heroism.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Heroic violence and nudity."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Heroism and family duty.",
+   "concerns": "Immodest content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Strong female lead from a poor family.",
+   "concerns": "Sexualised fan service."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting the innocent.",
+   "concerns": "Immodesty and nudity."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dharma of the protector.",
+   "concerns": "Immodest scenes."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion motivates action.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Working-class female hero.",
+   "concerns": "Fan service and nudist character."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Responsibility for one's abilities.",
+   "concerns": "Gratuitous fan service."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Father-daughter duty, heroism.",
+   "concerns": "Ecchi content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Heroism.",
+   "concerns": "Violence and immodesty."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence and immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming fear.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for community.",
+   "concerns": "Objectifying fan service."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Exploitative scenes."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting Tokyo's community.",
+   "concerns": "Bloodshed."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed (Guru Gobind Singh's ideal).",
+   "concerns": "Immodesty."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service to others.",
+   "concerns": "Violence and fan service."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Taking responsibility.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal power and choice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting life.",
+   "concerns": "Tzniut concerns."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Saving others.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice.",
+   "concerns": "Objectification."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Fights are personal but framed as justice."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Heroes versus would-be rulers of the city."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Father and daughter bond (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Shifting alliances among ESPers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern sci-fi urban setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Poverty and survival pressures on Rinka (ANN)."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "El Norte",
+   "Orthodox Europe"
+  ],
+  "japan": "The 'hero of justice' ideal and the cheerful shonen tone with fan service reflect common Japanese shonen conventions."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Azuma urges Rinka toward being a 'hero of justice' (blurb); ANN frames the choice to help as the theme.",
+  "personified": [
+   {
+    "character": "Azuma",
+    "ideology": "Power should be used as a hero of justice",
+    "role": "Mentor",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "The heroic ideal is stated outright; the villains' aims are given only as taking over the city."
+ },
+ "winners_losers": "Rinka and her allies are favoured; power-seeking ESPers are the antagonists.",
+ "to_verify": [
+  "Gore level in later volumes (AniList Gore rank 50).",
+  "The attempted-rape scene and nudist character (MU tags).",
+  "ANN review covers volume 1 only."
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "anilist_id": 47024,
+ "title": "Flower Shadow's Memory",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/47024", "https://api.mangaupdates.com/v1/series/47632173629"],
+ "premise": "Arthur, a young noble, and Laurent (Loran), a servant, grow up together as childhood friends in a European-style estate. As they get older, the gap between their stations becomes clear, and their feelings for each other are something their world will not accept. A single-volume historical boys' love drama about forbidden love between a noble and his butler.",
+ "life_message": "Love may persist across rigid class lines even when society forbids it.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "MU lists Rape; no review to confirm context, so capped (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Forbidden-love drama and misunderstanding."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Boys' love (AniList, MU Yaoi); MangaDex safe; capped without a review (to verify)."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Not documented."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Suppressed feelings and longing (MU Unexpressed Feeling/s)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Sexual assault tag (MU); framing unknown (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Traditionalism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Critical theory", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Forbidden love across class; noble and servant; duty versus feeling",
+ "axes": {"economic": 5, "social": 7, "cultural": 4, "community": 5},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 4, "sanctity": 2, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Lifelong loyalty between Arthur and Laurent across rank shows faithful care.", "concerns": "Same-sex romance affirmed; MU rape tag needs context."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Faithful service.", "concerns": "Teaching on sexuality."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty from childhood.", "concerns": "Same-sex romance; sexual violence tag."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Questions about class and worth.", "concerns": "Romance outside sexual ethic."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Sexual ethic."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Shows the weight of social station.", "concerns": "Same-sex desire affirmed."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation of service treated with dignity; ELCA families may accept.", "concerns": "LCMS objection; rape tag."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Questioning class barriers.", "concerns": "Holiness objection."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Period drama of duty and feeling.", "concerns": "ACNA objection."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humble service.", "concerns": "Sexual content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Love resisting unjust social barriers.", "concerns": "Power imbalance; rape tag."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Same-sex relations."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Duty and station explored.", "concerns": "Love placed over station; traditional families object."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Suffering from attachment and rigid roles.", "concerns": "Possible sexual misconduct."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Queer love against class oppression.", "concerns": "Rape tag and power imbalance."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Equal worth across class.", "concerns": "Consent concerns."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Duty and service in an ordered household.", "concerns": "Same-sex romance subverting order."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love beyond material station.", "concerns": "Sensual content."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Equity and LGBTQ affirmation.", "concerns": "Rape tag."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Garden and nature motifs; love affirmed.", "concerns": "Harm if non-consent."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Garden imagery and sincerity.", "concerns": "Little concern."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality across class.", "concerns": "Relationship outside marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Oneness across station.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity across a gap.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "A", "weight": "Discuss", "aligns": "Defying social authority for love.", "concerns": "Non-consent violates rules."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex relations forbidden."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment recognised.", "concerns": "Consent."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice across class; inclusion.", "concerns": "Consent ethics."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Noble standing must be protected from scandal (blurb)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Rigid station roles forbid their feelings."},
+   "Civic vs kin": {"pos": 6, "evidence": "Noble household and lineage."},
+   "Equality vs hierarchy": {"pos": 9, "evidence": "Noble and servant 'difference in their stations' (MU blurb)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Aristocratic historical setting with customary roles."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Security of position weighed against feeling."}
+  },
+  "closest": ["Tidewater", "South and Southeast Asia", "Cavalier"],
+  "japan": "The European aristocratic setting is a common Japanese BL convention for exploring hierarchy and forbidden love."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; class barrier carried by plot (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Society's rules appear as an obstacle, not a voiced character."
+ },
+ "winners_losers": "Not documented; the blurb sympathises with the lovers against the class system.",
+ "to_verify": [
+  "Context of MU Rape tag and how it is framed; violence may be understated.",
+  "Ages when the relationship becomes sexual.",
+  "Digital Manga Guild/Renta! license status.",
+  "No Wikipedia cache or reviews opened."
+ ]
+}

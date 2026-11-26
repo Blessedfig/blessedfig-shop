@@ -1,0 +1,86 @@
+{
+ "anilist_id": 98853,
+ "title": "An Honest Kind of Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/98853", "https://api.mangaupdates.com/v1/series/38070584339"],
+ "premise": "Hajime Nonokawa returns for the first time to his rural hometown, flooded for a reservoir 12 years earlier, and unexpectedly meets his childhood friend Keisuke Koya (Renta! blurb via AniList and MangaUpdates). Hajime had realized he loved Keisuke that last summer but hid it, calling that summer 'a mistake'. A one-volume adult romance about reunion and unspoken feelings.",
+ "life_message": "Hidden feelings are better spoken honestly than buried with the past (to verify).",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Loss of a hometown to a reservoir (blurb)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Adult same-sex romance; MangaDex 'safe'; MangaUpdates lists a train molester category (context to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Regret and long-held secrecy."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None noted beyond the unclear molester category (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 1, "stance": "Explored"},
+  {"lens": "Environmentalism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Honesty about feelings; homecoming; childhood friends to lovers",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness and loyalty to an old friend.", "concerns": "Honesty here means affirming a same-sex romance."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Memory of a lost home handled with reverence.", "concerns": "Same-sex romance."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Loyal friendship.", "concerns": "Gay romance affirmed."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Honesty versus hiding.", "concerns": "Same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Truth-telling (ninth commandment).", "concerns": "Same-sex romance."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Honest speech.", "concerns": "Synod differences."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Minor", "aligns": "Honesty of heart.", "concerns": "Traditional bodies object."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Homecoming and reconciliation.", "concerns": "ACNA families would raise the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Rural simplicity and truthfulness.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Honesty.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Coming to terms with gay identity honestly.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Truthfulness and loyalty.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Minor", "aligns": "Satya (truthfulness).", "concerns": "Views vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Impermanence of a drowned village; right speech.", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Gay man stops hiding.", "concerns": "Molester category context."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Honesty and authenticity.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Roots and hometown loyalty.", "concerns": "Same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Truthfulness.", "concerns": "Homosexual romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Truth replacing fear.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Authenticity affirmed.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Land and memory; love freely chosen.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Furusato (hometown) and nature remembered.", "concerns": "A village and its shrines lost (to verify)."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Truthful living (sach).", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness.", "concerns": "Relations outside man-woman marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Living with the truth.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Owning one's desires.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Keeping far from falsehood.", "concerns": "Same-sex relations."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Honesty and commitment.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Authentic inclusive love.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Feelings hidden, not fought over (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Rural social expectations shaped his hiding."},
+   "Civic vs kin": {"pos": 5, "evidence": "Hometown and childhood ties matter."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Childhood friends as equals."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Village lost to modern infrastructure."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Honest expression of feeling is the goal."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Villages submerged by dam projects and the pull of one's furusato (hometown) are real features of postwar rural Japan."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb centers the reunion; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The value of honesty is carried by the reunion plot."
+ },
+ "winners_losers": "Hajime and Keisuke reconcile (to verify); the hidden past is the obstacle.",
+ "to_verify": [
+  "Context of the MangaUpdates 'Train Molester/s' category.",
+  "How explicit the adult romance is."
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "anilist_id": 41867,
+ "title": "The Conditions of Paradise",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/41867",
+  "https://api.mangaupdates.com/v1/series/35809061837",
+  "https://www.mangaupdates.com/series/gg7sgy5"
+ ],
+ "premise": "A one-volume yuri anthology by Akiko Morishima from Comic Yuri Hime (AniList; MU). Most stories follow adult women in relationships: Sarina and Sumi working out boundaries, an art prep school teacher dating a 20-year-old, and a historical tale of a cherry-blossom spirit who loves a girl. Published in English by Seven Seas.",
+ "life_message": "It holds up honest, mutual love between women who accept each other as they are.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None described."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "MU lists a sacrifice in one story (to verify)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Same-sex romance between adult women in every story; physical intimacy implied; MangaDex suggestive (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Insecurity in an age-gap relationship."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Same-sex love; mutual acceptance; adult relationships",
+ "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 4},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Faithfulness and care between partners.", "concerns": "Same-sex relationships affirmed throughout."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Devotion in love.", "concerns": "Same-sex romance as the ideal."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Commitment over casualness.", "concerns": "Every story affirms same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Honest communication in Sarina and Sumi's story.", "concerns": "Same-sex romance affirmed."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Same-sex romance; spirit-made-human tale."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Covenant-like faithfulness.", "concerns": "Same-sex relationships in conservative churches; PC(USA) differs."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Love and vocation in work stories.", "concerns": "LCMS/WELS object to same-sex romance; ELCA affirming."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Loving relationships.", "concerns": "Global Methodist and holiness bodies object; UMC affirming."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Covenanted love.", "concerns": "ACNA objects; Episcopal affirming."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Gentleness.", "concerns": "Same-sex romance; worldly media."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Faithfulness.", "concerns": "Law of chastity and eternal gender teaching."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusive, faithful love between women.", "concerns": "Teacher-student-adjacent age gap (to verify)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex romance central."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Devotion and the cherry-spirit tale's lyricism.", "concerns": "Traditional views on same-sex romance vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Non-harming, mutual relationships.", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Adult lesbian relationships treated as ordinary.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Consent and honesty between adults.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Faithfulness.", "concerns": "Same-sex romance presented to readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Commitment.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex romance; a spirit becoming human."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Love as central.", "concerns": "Teaching on sexuality varies (to verify)."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Worth and dignity in every relationship.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love between consenting adults; nature-spirit tale.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "A cherry-blossom spirit honors nature's kami.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Akal Takht position on same-sex unions."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Equality and kindness.", "concerns": "Sexual relations limited to man-woman marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Faithfulness to a partner.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Consenting adults free.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex romance central."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Committed relationships.", "concerns": "Congregations vary."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Affirming, ethical relationships.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Conflicts are talked through between partners."},
+   "Order vs freedom": {"pos": 7, "evidence": "Opening story asks whether too much freedom is a problem."},
+   "Civic vs kin": {"pos": 4, "evidence": "Couples, not families, at the center."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Age-gap insecurity, not rank."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern working women; one folkloric tale."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Loving as you are."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "Office-worker and art-school settings and a folkloric cherry-blossom spirit reflect Japanese settings common in Comic Yuri Hime stories."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Summaries only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The acceptance message appears to come through the couples' stories."
+ },
+ "winners_losers": "Couples who communicate and accept each other find happiness; sympathy goes to same-sex love.",
+ "to_verify": [
+  "Level of physical intimacy shown.",
+  "MU lists a student-teacher category (1 vote); the summary describes an art prep school teacher with a 20-year-old partner.",
+  "Story 7 'Peach Taste' character ages."
+ ]
+}

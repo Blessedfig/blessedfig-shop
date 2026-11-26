@@ -1,0 +1,92 @@
+{
+ "anilist_id": 171695,
+ "title": "OMORI",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/171695",
+  "https://api.mangaupdates.com/v1/series/38261966398",
+  "https://www.animenewsnetwork.com/seasonal/2026/spring/omori/.236244"
+ ],
+ "premise": "Manga adaptation of the psychological horror video game OMORI. Sunny has not left his house since something happened four years ago; days before his family moves away, his childhood friend Kel draws him back out into town, and old friends and a buried past resurface (K Manga blurb). ANN notes the central mystery involves the death of a friend, Mari, which split the group apart; the English edition is rated T (ANN).",
+ "life_message": "Facing a painful past honestly, with friends, is the way out of isolation and guilt.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Game-style battle sequences (ANN); graphic level not described (to verify)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Shown with consequences", "note": "Psychological horror mixed with nostalgia (ANN); MU Horror, Trauma, Dream World."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "MU lists only Subtle Romance."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted in sources (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 6, "framing": "Shown with consequences", "note": "Suicidal thoughts (ANN); MU Suicide/s, Depression, Hikikomori; AniList Suicide (spoiler tag)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Prolonged withdrawal and suicide content; safe-messaging care not assessed (to verify)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Adaptation of a popular indie game (MU Based on a Video Game)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Grief and guilt; friendship as a path out of isolation; confronting repressed memory",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Confession of a hidden wrong and reconciliation among friends.", "concerns": "Suicide themes and despair without explicit hope beyond friendship."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "Repentance and facing the truth of one's past.", "concerns": "Disturbing horror imagery in Sunny's dream world (to verify)."},
+  {"frame": "Baptist", "grade": "B", "weight": "Significant", "aligns": "Guilt brought into the light can be dealt with.", "concerns": "Suicidal thoughts and horror; many would read together."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Kel's persistent friendship models pursuing the lost.", "concerns": "Mental-health content handled without faith; horror elements."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Freedom from a past that binds Sunny.", "concerns": "Dark dream-world imagery may read as spiritually oppressive."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Honest about sin, guilt and its weight.", "concerns": "Self-murder themes need pastoral framing."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Significant", "aligns": "Burden of guilt longs for forgiveness.", "concerns": "Suicide content for younger readers."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Significant", "aligns": "Friends as accountability and grace in community.", "concerns": "Horror and despair content."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Moral vision of facing the truth over hiding.", "concerns": "Suicidal thoughts depicted."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Community restoring a withdrawn member.", "concerns": "Game violence and horror media."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Repentance and restored friendship.", "concerns": "Disturbing content discouraged for youth."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Depression and isolation treated with empathy.", "concerns": "Suicide content needs care."},
+  {"frame": "Muslim", "grade": "B", "weight": "Significant", "aligns": "Honesty and loyalty among friends.", "concerns": "Suicide is forbidden and appears as a theme."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Karma of a past act worked through truthfully.", "concerns": "Tamasic despair and horror."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Discuss", "aligns": "Suffering from clinging to the past, eased by facing it.", "concerns": "Fear-feeding imagery."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Mental health and trauma treated as real.", "concerns": "Safe-messaging around suicide (to verify)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Meaning made through honesty and human bonds.", "concerns": "Intensity for younger readers."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Loyalty and responsibility for one's actions.", "concerns": "Portrayal of suicide."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Restoration of mind through truth.", "concerns": "A dead friend's presence in dreams may read as spirit content (to verify)."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Truthfulness about past wrong.", "concerns": "Horror and possible spirit imagery."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Freedom from a false, fearful mental picture.", "concerns": "Dwells on fear, death and illness of mind."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Compassion for a struggling young person.", "concerns": "Age-appropriateness of suicide themes."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Personal responsibility for harm done.", "concerns": "Little beyond intensity."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity (makoto) and remembering the dead.", "concerns": "Death impurity themes throughout."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Truthful living and seva of friendship.", "concerns": "Despair and suicide content."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Significant", "aligns": "Truthfulness as foundation of recovery.", "concerns": "Suicide is forbidden; theme appears."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Confronting a buried incident to be free of it.", "concerns": "Depression framing may imply psychiatric care (to verify)."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Admitting and correcting mistakes, a Temple tenet.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Significant", "aligns": "Teshuvah: facing and repairing a wrong.", "concerns": "Horror entertainment; suicide theme."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Repair of broken relationships.", "concerns": "Suicide theme."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Empathy for mental illness and grief.", "concerns": "Intensity for younger readers."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflict is about guilt and honesty, not defending standing (ANN; MU Regret)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Teens largely on their own in town; family move frames the plot (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friend group matters more than family in summaries (MU Reunited Friends)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Peer friendships, little adult authority shown."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Psychological, not religious, framing of grief (MU Psychological)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Emotional healing and personal truth are the stakes (MU Overcoming the Past)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Sunny's long withdrawal echoes the Japanese hikikomori phenomenon, though the source game is American-made and set in a nonspecific town."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN calls it 'genuine and deeply personal' and 'heartwrenching'; no comment on preachiness (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes of guilt and recovery come through the mystery and the friends' reunion rather than stated lessons, as far as the sources show."
+ },
+ "winners_losers": "Sympathy rests with Sunny and the estranged friends as they reckon with Mari's death; isolation and secrecy are the forces the story works against.",
+ "to_verify": [
+  "How suicide is depicted and whether safe-messaging care is taken",
+  "Graphic level of the dream-world battles and horror imagery",
+  "Whether later volumes follow the game's darkest route",
+  "Series ongoing; review covers volume 1"
+ ]
+}

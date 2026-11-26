@@ -1,0 +1,89 @@
+{
+ "anilist_id": 31187,
+ "title": "Affair",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/31187", "https://api.mangaupdates.com/v1/series/50203186043", "https://upgrading.org/2008/05/affair-by-shiuko-kano-review.html"],
+ "premise": "An 18+ anthology of adult boys' love stories. Yoshiyuki reunites with Okabe, his former baseball-club senior, still holding a grudge; half-brothers born at the same time navigate a yakuza family and a tangled relationship; two coworkers test their luck at mahjong; and a university student takes driving lessons from a fellow student. A bonus epilogue returns to the first couple.",
+ "life_message": "Old grudges and rivalries can hide desire, and luck and honesty can turn them into love.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Yakuza setting; MU lists Attempted Rape; review mentions no violence, so capped (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Grudges and yakuza family tension."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Neutral", "note": "18+ edition; review says the epilogue is a sex scene and the author's scenes are 'generally quite explicit'; MU lists Fellatio/Blowjob and Dubious Consent."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Review calls it 'rough around the edges'; level not documented (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Drinking mixer mentioned in review."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grudges, jealousy and a dead family member (MU)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "MU lists Incest (half-siblings), Attempted Rape and Dubious Consent; the review does not describe a sexual relationship between the half-brothers (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Mahjong gambling game among coworkers."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Desire beneath rivalry; honour and luck; yakuza family ties",
+ "axes": {"economic": 5, "social": 8, "cultural": 6, "community": 4},
+ "foundations": {"care": 3, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "F", "weight": "Significant", "aligns": "Hirose taking the blame for a coworker shows a flash of self-sacrifice.", "concerns": "Explicit same-sex sex, an incest-tagged half-sibling story and attempted rape conflict with core teaching."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Little beyond loyalty between coworkers.", "concerns": "Explicit content inflames passions; incest theme and yakuza violence."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little to note beyond friendship restored after a grudge.", "concerns": "Explicit sexual content, gambling, incest theme and same-sex relations."},
+  {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Reconciliation after Okabe's unexplained departure could prompt talk of forgiveness.", "concerns": "Explicit content and incest and coercion themes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit content, gambling and gang setting clash with holiness standards."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Truthful picture of grudges festering.", "concerns": "WLC Q139 'lascivious books and pictures'; incest theme."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Bearing a neighbour's blame (Hirose) echoes vicarious love.", "concerns": "Explicit content and incest theme trouble ELCA and LCMS alike."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Reconciliation of old teammates.", "concerns": "Explicit sex, gambling and coercion conflict with General Rules."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Some reconciliation themes.", "concerns": "Explicit content and incest and attempted-rape tags across all wings."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit content, gang violence and gambling."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Law of chastity; vulgar and immoral media counsel."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Gay adult relationships shown with some humour.", "concerns": "Incest-tagged story and attempted rape and dubious consent raise exploitation concerns."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit content, gambling, same-sex relations and incest theme."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Duty to family in the yakuza heir's protection of his half-brother.", "concerns": "Explicit kama outside dharma; incest theme."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Grudges shown as a source of suffering.", "concerns": "Sexual misconduct, gambling and violence."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Adult gay characters across varied jobs.", "concerns": "Attempted rape, dubious consent and incest themes."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Adults working through rivalry toward honesty.", "concerns": "Consent problems and incest theme."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Loyalty among teammates and coworkers.", "concerns": "Explicit content, organised crime and gambling glamourised."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Content that excites the passions; gambling."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality and violence firmly counselled against."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Overcoming bitterness.", "concerns": "Sensual content and 'luck' as a force."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Affirms gay adult relationships.", "concerns": "Consent and incest themes conflict with justice and dignity values."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Adult sexuality not shamed.", "concerns": "Attempted rape and coercion break harm-none."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Luck and fortune motifs are familiar in Japanese folk practice.", "concerns": "Incest-tagged family story conflicts with household continuity norms."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Lust, gambling and sex outside marriage."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Gambling, unchaste content."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Confronting past grudges openly.", "concerns": "Illegal yakuza activity and coercion."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Indulgence and personal desire embraced.", "concerns": "Attempted rape violates the rule against unwanted advances."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit content, same-sex relations and incest prohibitions."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Degrading sexual content and incest theme."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "LGBTQ inclusion.", "concerns": "Consent and exploitation ethics."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Long-held grudge against a senior; mahjong as a 'game of honour' (MU blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Characters pursue desire outside social rules."},
+   "Civic vs kin": {"pos": 6, "evidence": "Yakuza heir protects his half-brother within a crime family (review)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Sempai-kohai ties and a yakuza succession."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Luck and fortune motifs in a modern secular setting."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Pleasure and personal ties over security."}
+  },
+  "closest": ["El Norte", "The Far West", "Latin America"],
+  "japan": "Sempai-kohai bonds from school sports clubs and yakuza succession are Japanese social structures used as story backdrops."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Manic About Manga reviews it as an edgy, somewhat confusing anthology; no moralising mentioned.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The stories present situations and desires without arguing for a view."
+ },
+ "winners_losers": "Rivals and coworkers end up together; the stories side with acting on desire.",
+ "to_verify": [
+  "Nature of the half-brothers story (MU Incest tag; review compares it to Oedipus but does not describe a sexual relationship).",
+  "Ages in flashbacks to high-school baseball days and the half-brothers' school: confirm no sexual content involves anyone under 18.",
+  "Context of MU Attempted Rape and Dubious Consent.",
+  "801 Media license status (possibly lapsed).",
+  "No Wikipedia cache; one review opened."
+ ]
+}

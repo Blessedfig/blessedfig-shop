@@ -1,0 +1,96 @@
+{
+  "anilist_id": 156553,
+  "title": "Versus",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://www.animenewsnetwork.com/cms/.234443",
+    "https://anilist.co/manga/156553",
+    "https://www.mangaupdates.com/series/6umntff/versus"
+  ],
+  "premise": "From ONE (One-Punch Man) and artist Kyoutarou Azuma: humanity in a world ruled by the Demon Lord's army sends 47 heroes on a last-ditch campaign, and its mages' desperate summoning merges many worlds, each with its own 'natural enemy' of humanity (demons, kaiju, aliens, parasites). Survivors from different worlds must unite and turn their enemies against each other (Kodansha blurb via AniList and MangaUpdates; ANN review).",
+  "life_message": "Survival may demand desperate measures, but people of different worlds can stand together against what threatens them all.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Deaths are 'sudden, bloody' and 'distressingly common' (ANN); MU Violence, Character Deaths; AniList Body Horror (spoiler)."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Kaiju, cosmic and eco-horror, despair (AniList spoiler tags; MU Despair); ANN calls it over-the-top action."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Nothing noted; MangaDex suggestive (to verify)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Biker gangs among the cast (ANN) (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Despair of a losing war (MU)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Pragmatism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Might makes right", "strength": 5, "stance": "Explored"},
+    {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Utilitarianism", "strength": 4, "stance": "Explored"}
+  ],
+  "dominant": "Last-stand survival; alliances across worlds; desperate measures",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+  "foundations": {"care": 6, "loyalty": 8, "fairness": 5, "sanctity": 3, "authority": 5, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Hallow's self-sacrifice and a coward hero given a chance at redemption (ANN).", "concerns": "Frequent bloody deaths; summoning magic and demons."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Sacrifice for others.", "concerns": "Demons as near co-protagonists; gore."},
+    {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Courage and redemption.", "concerns": "Demons, sorcery and summoning; gore."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Redemption of the cowardly Ario.", "concerns": "Graphic deaths; demons as allies."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Fighting evil to the end.", "concerns": "Demons, summoning, gods (spoiler tags)."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Providence-like reversal of hopeless odds.", "concerns": "Sorcery and violence."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Duty to defend one's neighbor.", "concerns": "Gore."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Unity against common threats.", "concerns": "Violence."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Classic last-stand heroism.", "concerns": "Gore."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Cooperation among strangers.", "concerns": "War as the whole story."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Defending freedom of one's people (cf. Alma 43).", "concerns": "Violence."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Diverse groups uniting.", "concerns": "Glorified violence."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Fighting in defense against oppressors.", "concerns": "Sorcery, demons and gods."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Righteous war against demonic invaders (Gita-like dharma).", "concerns": "Gore."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Interdependence of all beings.", "concerns": "Killing as spectacle."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Coalition of the diverse; muscular women in cast (MU).", "concerns": "Militarism."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Strategy and reason against overwhelming odds (MU Strategic Battles).", "concerns": "Gore."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Heroism, sacrifice and duty.", "concerns": "Gore."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Endurance.", "concerns": "Violence and demons."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Hope for survival.", "concerns": "War, demons and magic."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Refusing despair.", "concerns": "Fear and death imagery."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Interdependence across worlds.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Magic and fairies as allies.", "concerns": "Violence."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Community survival.", "concerns": "Blood and death."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the helpless.", "concerns": "Violence."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity of peoples from many worlds.", "concerns": "War."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Survival across all dynamics.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation by any means.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Self-defense permitted.", "concerns": "Sorcery and gore."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Survival of a people.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Solidarity against oppression.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 5, "evidence": "Heroes stake honor on the campaign; a coward seeks redemption (ANN)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Organized mages and knights (MU Knights, Strategic Battles)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Loyalty to all humanity; brothers Hallow and Zaybi (ANN)."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Sorcerion's mages and heroes lead; outsiders join."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Science-fiction worlds mix with magic (MU Robots, Futuristic City)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Humanity's survival is the whole premise (Kodansha blurb)."}
+    },
+    "closest": ["Orthodox Europe", "Puritan", "Catholic Europe"],
+    "japan": "ONE's mix of deadpan gags and shonen battle tropes is a recognizable Japanese style; the story won the 2025 Kodansha Manga Award (MU)."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "ANN: little subtlety, runs on 'rule of cool', 'wafer-thin' characters; it is action-first rather than message-first.",
+    "personified": [
+      {"character": "Hallow", "ideology": "self-sacrificing heroism", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "Ario", "ideology": "survival through cowardice", "role": "Foil", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Enemies range from mindless monsters to demons who become near co-protagonists, so some opponents gain a point of view."
+  },
+  "winners_losers": "Unclear in an ongoing series; humanity's coalition survives so far at heavy cost. Sympathy goes to those who fight together.",
+  "to_verify": [
+    "Wikipedia cache for this ID holds a different manga (VS, 1999); no Wikipedia facts were used",
+    "Extent of body horror and gods (AniList spoiler tags)",
+    "Kodansha age rating (not opened)",
+    "ANN review covers volumes 2-4"
+  ]
+}

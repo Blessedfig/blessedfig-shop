@@ -1,0 +1,97 @@
+{
+ "anilist_id": 31677,
+ "title": "MW",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31677",
+  "https://api.mangaupdates.com/v1/series/56806492823",
+  "https://mangablog.mangabookshelf.com/2008/03/01/review-mw/"
+ ],
+ "premise": "As a boy, Michio Yuki survived a leak of the poison gas MW from a foreign military facility on a southern island; the leak killed the islanders and was covered up. Fifteen years later he is a banker who climbs through finance and politics by day and commits murders by night, aiming to obtain MW itself. Iwao Garai, the man who sheltered him that night and is now a Catholic priest, is drawn again and again into his crimes (Vertical blurb via AniList; Manga Bookshelf review).",
+ "life_message": "A cautionary tale: state secrecy and weapons of mass death breed monsters, and a conscience that does not act becomes complicit.",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 8, "framing": "Shown with consequences", "note": "Serial murders of women and children (publisher blurb); frequent, bloody killings and torture (review; AniList Torture)."},
+  {"category": "Fear and intensity", "score": 7, "framing": "Shown with consequences", "note": "Villain-protagonist thriller, mass death on the island, dark ambience (blurb; MU Dark Ambience, Psychopath)."},
+  {"category": "Sexuality and romance", "score": 8, "framing": "Shown with consequences", "note": "Rape, sexual abuse of a boy by an adult (later a priest), a sexual relationship between Yuki and Garai, bestiality referenced (blurb, review, MU Child Rape). Reviewer says the art is non-explicit, 'almost abstract'."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted in sources (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Condemned", "note": "No drug use noted; the nerve gas is a weapon, not a substance (blurb)."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Neutral", "note": "Protagonist without conscience (blurb; MU Psychopath, Sadist); AniList lists a minor Suicide tag (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Disguise, impersonating victims, manipulation (blurb; MU Manipulative Protagonist)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Nihilism", "strength": 6, "stance": "Critiqued"},
+  {"lens": "Critical theory", "strength": 5, "stance": "Explored"},
+  {"lens": "Christian", "strength": 5, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Nihilism (critiqued); state power and cover-up; a priest's conscience",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 4, "fairness": 7, "sanctity": 5, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Evil is shown as evil; Garai's guilt and the confessional seal take sin seriously.", "concerns": "A priest who abused a boy and keeps covering murders; rape and bestiality depicted."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "A soul destroyed by evil is a clear warning against the passions.", "concerns": "Sexual imagery, a corrupt clergyman, and murders shown at length."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Exposes how hidden sin grows when not confessed and forsaken.", "concerns": "Rape, child abuse, same-sex relationship and serial murder fail the Philippians 4:8 test."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Garai's divided heart could open talk about repentance.", "concerns": "Sexual abuse, bestiality and gore make it adult-only reading."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Depravity is not glamorized as power in the end.", "concerns": "Yuki's evil with no counterweight of grace; sexual content and violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "A stark picture of total depravity and corrupt magistrates.", "concerns": "WLC Q139 lists lascivious pictures; rape and abuse scenes shown."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Shows sin bound in secrecy and the misuse of earthly authority.", "concerns": "Explicit sexual crimes and murder for older readers only."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Social evil of chemical weapons and cover-ups is exposed.", "concerns": "Not a diversion 'used in the name of the Lord'; sexual violence."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Frames evil as evil; a priest's failure explored seriously.", "concerns": "Sexual abuse of a child and graphic murders."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Condemns military weapons and state violence.", "concerns": "Violence and sexual sin throughout; worldly media."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Shows how loss of conscience destroys a life.", "concerns": "Vulgar, immoral and violent content For the Strength of Youth warns against."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Critique of military secrecy and harm to islanders.", "concerns": "Queer relationship tied to a predator and abuser; sexual violence."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Injustice of rulers hiding mass death is exposed.", "concerns": "Sexual content, zina, bestiality and killing of innocents depicted."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Adharma of rulers and its karmic fallout shown.", "concerns": "Tamasic content: lust, cruelty, child abuse."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Suffering spreads from one act of harm; cause and effect clear.", "concerns": "Breaks first and third precepts on every page; disturbing to the mind."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Critique of US military bases, state cover-up and elite power.", "concerns": "Links bisexuality and crossdressing to a predatory killer; sexual violence."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Classic by Tezuka exposing secrecy and weapons of mass death.", "concerns": "Cruelty and sexual exploitation shown at length."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Shows consequences of moral collapse.", "concerns": "Undermines faith (corrupt priest) and authority; sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Evil leads to destruction.", "concerns": "'By beholding we become changed': murder and sexual sin displayed."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Exposes human governments' failures.", "concerns": "Violence, immorality and a clergyman's sin, all things God hates."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Shows evil as a mental state that destroys.", "concerns": "Dwells on fear, sin and cruelty."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Justice for victims of state secrecy.", "concerns": "Negative LGBTQ portrayal; exploitation."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Harm done returns on its doers.", "concerns": "Exploitation and harm to children and animals."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Island destroyed by outside pollution evokes kegare.", "concerns": "Blood, death and defilement throughout."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Condemns oppression of the innocent.", "concerns": "Lust, anger and ego glorified in Yuki; sexual crimes."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Shows the ruin of a soul without spiritual qualities.", "concerns": "Degrading content opposed to a chaste and holy life."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Integrity and truth about government lies.", "concerns": "Murder and harm to people of good will glamorized in places."},
+  {"frame": "Satanist", "grade": "C", "weight": "Significant", "aligns": "Exposes hypocrisy of church and state.", "concerns": "Harm to children and animals, which the Eleven Rules condemn."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Shows evil as evil.", "concerns": "Tzniut breached; sexual sins and violence fill the book."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Justice against concealed crimes.", "concerns": "Degrading sexual content and violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Tikkun olam theme: exposing state cover-up.", "concerns": "Exploitation and cruelty depicted."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Yuki's revenge on those behind the cover-up is shown as monstrous, not honorable (review)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Neither state order nor lawless freedom is upheld; both fail (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Garai's private bond with Yuki versus duty to society (review)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Elites in finance and politics shown as corrupt (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Church and Kabuki heritage both compromised (blurb, review)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Driven by survival of a poison disaster and its cover-up (blurb)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "Yankeedom"],
+  "japan": "Set in 1970s Japan with Kabuki family lineage and resentment over foreign military bases near Okinawa, reflecting postwar Japanese debates rather than a stated message."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Reviewer says deeper themes appear as story elements 'without much commentary'; reads as a caper (Manga Bookshelf).",
+  "personified": [
+   {"character": "Iwao Garai (priest)", "ideology": "Religious conscience bound by guilt and the confessional seal", "role": "Other", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The book shows state secrecy and a compromised priest without lecturing; one review finds it shallow rather than preachy."
+ },
+ "winners_losers": "Yuki's schemes drive the plot and the officials who hid the leak are targeted; Garai's conflicted faith earns some sympathy but he is drawn into complicity.",
+ "to_verify": [
+  "Only one review opened; how explicit the rape, abuse and bestiality scenes are on the page.",
+  "How the story ends for Yuki and Garai.",
+  "Whether the Suicide tag (AniList, low rank) reflects a major event.",
+  "Exact framing of the church and Garai's role."
+ ]
+}

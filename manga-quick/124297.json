@@ -1,0 +1,370 @@
+{
+ "anilist_id": 124297,
+ "title": "Perfect Propose",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/124297",
+  "https://api.mangaupdates.com/v1/series/65635138739"
+ ],
+ "premise": "Overworked office worker Hiro collapses on the street and is found by Kai Fukaya, a younger man who insists they once promised as children to marry and moves in as his self-appointed fiance, cooking for him and pulling him out of burnout. The one-volume adult romance deals with a black-company job, a broken childhood promise and Kai's past as an abandoned child (Manga Planet blurb, MangaUpdates).",
+ "life_message": "Being cared for, and caring back, matters more than giving your whole life to an exploitative job.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Collapse from overwork (blurb)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult couple; MU and AniList list anal sex and nudity, MU 'Dubious Consent' (3 votes); MangaDex 'suggestive'; capped at 3 pending a non-database source (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Burnout, overwork, childhood abandonment trauma (MU); capped (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "A stranger moving in uninvited and dubious-consent advances framed as romance (MU, blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Critical theory",
+   "strength": 2,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Secular humanism, Expressive individualism",
+ "axes": {
+  "economic": 4,
+  "social": 7,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Kai's faithful care for Hiro's body and rest; critique of overwork.",
+   "concerns": "Same-sex sexual relationship outside marriage; consent ambiguity."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Keeping a childhood promise; rest from toil.",
+   "concerns": "Passions affirmed; same-sex union."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness to a promise.",
+   "concerns": "Same-sex sexual content and cohabitation; BF&M 2000."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Sabbath-like rest from a toxic job.",
+   "concerns": "Same-sex sexual relationship; dubious consent."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restoring a burnt-out man.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critique of work as idol.",
+   "concerns": "Conservative teaching on sexuality."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation rightly ordered against a black company.",
+   "concerns": "LCMS/WELS teaching; consent issues."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Care for body and health.",
+   "concerns": "Holiness teaching on sexuality."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humane critique of overwork.",
+   "concerns": "Sexual content; ACNA traditional."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Mutual aid over career success.",
+   "concerns": "Same-sex sexual content and worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Keeping promises; self-care.",
+   "concerns": "Law of chastity; same-sex cohabitation."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Affirming adult couple; labor exploitation critiqued.",
+   "concerns": "Dubious-consent framing."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Keeping promises and caring for health.",
+   "concerns": "Same-sex sex outside marriage."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Balance of artha with wellbeing.",
+   "concerns": "Kama outside marriage."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Right livelihood questioned in a harmful job.",
+   "concerns": "Sexual craving; consent."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critique of exploitative workplaces; queer adults.",
+   "concerns": "Dubious consent romanticized (MU)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Wellbeing over exploitative work.",
+   "concerns": "Consent ambiguity."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty to a promise.",
+   "concerns": "Same-sex romance; work ethic questioned."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Health, rest and nourishment.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness to one's word.",
+   "concerns": "Same-sex sexual immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Healing from exhaustion.",
+   "concerns": "Material, sensual focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Worth beyond productivity.",
+   "concerns": "Consent ambiguity."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love and rest honored.",
+   "concerns": "Pushy advances conflict with 'harm none'."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere promise kept.",
+   "concerns": "Little doctrine at stake."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work balanced with family.",
+   "concerns": "Lust; same-sex union."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Service and moderation.",
+   "concerns": "Chastity teaching."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Survival of self and partner.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choosing pleasure and rest over toil.",
+   "concerns": "Unwanted advances (Eleven Rules)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Keeping vows; Sabbath-like rest.",
+   "concerns": "Same-sex sexual content; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Human dignity in work.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Critique of labor exploitation.",
+   "concerns": "Consent ambiguity."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor conflicts."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Hiro breaks from company control."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "A childhood promise as quasi-family bond."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Black-company hierarchy shown as harmful."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular modern work life."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Moves from survival-mode overwork toward quality of life."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "New Netherland"
+  ],
+  "japan": "Black-company overwork and collapse reflect a recognized Japanese labor issue, described as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb and tags only (to verify).",
+  "personified": [
+   {
+    "character": "Hiro's company",
+    "ideology": "Work above life",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The overwork culture is shown as harmful; sources give no detail on how it is personified."
+ },
+ "winners_losers": "Hiro gains rest and love through Kai; the exploitative workplace loses sympathy.",
+ "to_verify": [
+  "Explicitness of sex scenes (AniList and MU tags only)",
+  "Dubious-consent scenes",
+  "Ending",
+  "License status (Futekiya/Manga Planet)"
+ ]
+}

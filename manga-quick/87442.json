@@ -1,0 +1,98 @@
+{
+  "anilist_id": 87442,
+  "title": "Astra Lost in Space",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Astra_Lost_in_Space",
+    "https://anilist.co/manga/87442",
+    "https://api.mangaupdates.com/v1/series/42821974948"
+  ],
+  "premise": "In 2063 nine students from Caird High School leave for a planet camp, but a mysterious sphere of light flings them thousands of light-years into space. Finding an old abandoned ship they name Astra, they plan a long trip home across alien planets, managing scarce resources while secrets about their families and a traitor among them come out (Wikipedia; MU; Viz blurb via AniList).",
+  "life_message": "Teens hurt or neglected by their parents can become a true family by trusting and relying on each other.",
+  "overall": 4,
+  "content": [
+    {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Attack by the sphere; Ulgar carries a gun and seeks revenge for his brother (Wikipedia); MU Traitor/s, Attempted dangers."},
+    {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Survival on alien planets, conspiracy and twists (AniList Survival, Tragedy; MU Suspense, Stranded)."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romantic subplot (MU); AniList Nudity at low rank (13%)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Yun-Hua emotionally suppressed by her mother; Quitterie neglected by hers (Wikipedia)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Little noted."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Communitarianism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Transhumanism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Found family; critique of parents who use children; survival through cooperation",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 7},
+  "foundations": {"care": 8, "loyalty": 8, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Each crew member's dignity and sacrificial teamwork; how the traitor is treated is unsourced (to verify).", "concerns": "Parents shown as exploiting children; intersex/LGBT character (MU) at odds with Church teaching on sex."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humility and mutual service under captain Kanata.", "concerns": "Gender identity theme; clone ethics (AniList Clone, spoiler)."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Courage, leadership and loyalty among the nine students.", "concerns": "LGBTQ+ themes (AniList; MU Intersex) a common concern."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Found family and growth arcs.", "concerns": "Gender identity theme; weak view of parental authority."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Hope and perseverance through trials.", "concerns": "Gender identity theme."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Shows how human pride and manipulation corrupt families.", "concerns": "Fifth-commandment questions when parents are villains."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation: each student's skill (pilot, doctor, cook) serves the group.", "concerns": "Gender identity theme for LCMS families."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Accountability and grace within a small community.", "concerns": "Peril and gun use."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Moral vision of forgiveness and solidarity.", "concerns": "Little beyond peril."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Mutual aid; Ulgar's revenge quest is questioned (to verify).", "concerns": "Gun use and popular media for conservative groups."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Teamwork, self-reliance and family healing.", "concerns": "Gender identity theme; parent-child conflict."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion of an intersex/LGBT crew member; care for the emotionally hurt.", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience, loyalty and justice for wrongdoing.", "concerns": "Gender identity theme; disobedience to parents framed sympathetically."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Each fulfils a role for the group's survival.", "concerns": "Parents shown in a poor light."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Ulgar's path away from revenge; compassion for a traitor (to verify).", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Diverse crew, LGBTQ+ representation, critique of abusive parenting.", "concerns": "Little to raise."},
+    {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Science, reason and cooperation solve survival problems; ethics of cloning examined.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Leadership, duty and courage under hardship.", "concerns": "Parents as antagonists; gender identity theme."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Health, cooperation, hope of homecoming.", "concerns": "Gender identity theme."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Love among companions; honesty valued.", "concerns": "Gender identity theme; gun use."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Fear overcome through trust and clear thinking.", "concerns": "Perilous scenes."},
+    {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Inherent worth of every crew member, including clones and an LGBT character.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Respect for alien ecosystems and personal responsibility.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony and sincerity within the crew.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Seva-like service and equality among the crew.", "concerns": "Revenge motive (Ulgar)."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Unity, consultation and science serving the group.", "concerns": "Gender identity theme for some families."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal integrity and survival of the group.", "concerns": "Human experimentation theme."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Teens rebel against parents who treat them as tools.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Saving lives and loyalty; chesed among the crew.", "concerns": "Gender identity theme; honoring parents strained."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Ethics of creating life; responsibility for one another.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "S", "weight": "Minor", "aligns": "Inclusion and justice against powerful parents' schemes.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Ulgar's revenge quest is one strand; crew resolves conflicts by talking (Wikipedia; to verify)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Teens escape parental control and run their own ship (Wikipedia)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Found family replaces biological families who failed them (AniList Found Family)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Captain Kanata leads, but roles are by skill and consent (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 8, "evidence": "Science-driven survival; cloning and conspiracy (MU Clone/s, Conspiracy)."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Resource survival, yet Yun-Hua finds her voice and Kanata his dream (Wikipedia)."}
+    },
+    "closest": ["Catholic Europe", "New Netherland", "The Midlands"],
+    "japan": "A school trip framing and the pressure of high-achieving parents on children echo Japanese school and family expectations, though the setting is international."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Sources say nothing on delivery (to verify); summaries show themes revealed through backstories and twists.",
+    "personified": [
+      {"character": "The crew's parents (as revealed)", "ideology": "children as means to their own ends", "role": "Villain", "treatment": "Mixed"},
+      {"character": "Kanata", "ideology": "trusting leadership, no one left behind", "role": "Hero", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "The critique of controlling parents appears to come through mystery reveals rather than lectures, as far as summaries show."
+  },
+  "winners_losers": "The nine students survive and bond as a family; parents who used them lose sympathy. The favored worldview is chosen solidarity over inherited status.",
+  "to_verify": [
+    "No review opened; Wikipedia Reception lists awards only",
+    "Exact role of parents in the conspiracy (AniList Conspiracy and Clone tags are spoilers)",
+    "Which character carries the intersex/LGBT theme and how it is handled (AniList Agender, Transgender; MU Intersex)",
+    "Ulgar's revenge arc resolution",
+    "Wikipedia says 2063, MU says 2061"
+  ]
+}

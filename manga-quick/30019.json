@@ -1,0 +1,368 @@
+{
+ "anilist_id": 30019,
+ "title": "Get Backers: Dakkanya",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30019",
+  "https://api.mangaupdates.com/v1/series/57945521265",
+  "https://animenewsnetwork.com/review/getbackers-gn-1"
+ ],
+ "premise": "A 39-volume shounen action series (story by Shin Kibayashi under a pen name, art by Rando Ayamine). Ginji Amano, who can generate electric currents, and Ban Mido, whose 'Evil Eye' traps foes in illusions, run a near-perfect retrieval service but are always broke (Tokyopop blurb via AniList and MangaUpdates). Early jobs include rescuing a dying man's daughter from the yakuza and recovering a disk hidden in a cat statue (ANN vol. 1 review); later arcs involve a lost civilization and conspiracies (AniList tags).",
+ "life_message": "Loyal partnership and getting back what was wrongfully taken matter more than money.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Graphic Evil Eye nightmares with 'melting skin' (ANN); clan wars and body horror (MangaUpdates, AniList)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Zombie and deformity illusions (ANN); conspiracies (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Manga 'more lewd than the anime' with panty shots (ANN); Ecchi genre and Nudity tag (AniList, MangaUpdates)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Gangster-style street slang in Tokyopop translation (ANN); one source (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "AniList Drugs tag (40%); not confirmed elsewhere (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Hidden pasts and dead friends (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Outlaw retrieval work against yakuza (ANN)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime and merchandise franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Partnership and loyalty; outlaw justice; super-powered action",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 8,
+  "fairness": 6,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Restoring stolen things to rightful owners; rescuing a daughter.",
+   "concerns": "Panty shots and lewd art (ANN); 'Evil Eye' powers."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyal friendship between Ginji and Ban.",
+   "concerns": "Fan service inflames passions; occult-tinged powers."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Help for the wronged against gangsters.",
+   "concerns": "Lewd content and graphic illusions."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Friendship and rescue.",
+   "concerns": "Sexualized art; demonic and curse elements (AniList)."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Courage to rescue the oppressed.",
+   "concerns": "Evil Eye, curses and demons; fan service."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Justice for victims.",
+   "concerns": "Lascivious images (WLC Q139); vigilante methods."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Restitution of stolen property (seventh commandment).",
+   "concerns": "Fan service; outlaw vigilantism."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Aid to the helpless.",
+   "concerns": "Lewd art and gore."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Buddy story with moral core.",
+   "concerns": "Fan service; graphic horror illusions."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restoring what was taken.",
+   "concerns": "Violence as solution; fan service."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty and rescue.",
+   "concerns": "Sexual content and violence beyond youth guidance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sides with the robbed and powerless.",
+   "concerns": "Objectifying art of women (ANN: 'clones')."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Returning rights to owners.",
+   "concerns": "Immodest images; magic and curses; drugs tag."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty and protecting the weak.",
+   "concerns": "Tamasic violence and lust."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Help for those wronged.",
+   "concerns": "Violence and sensuality."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Working-class heroes against yakuza.",
+   "concerns": "Objectifying fan service of women (ANN)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and competence.",
+   "concerns": "Gratuitous sexualized art."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Loyalty and courage.",
+   "concerns": "Fan service; vigilantism."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescue and friendship.",
+   "concerns": "Fan service, violence, occult powers."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Helping the robbed.",
+   "concerns": "Violence, immorality and magical powers combined."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Optimism of Ginji.",
+   "concerns": "Dwells on nightmare illusions and violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Help for the wronged.",
+   "concerns": "Objectification of women."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Elemental and mystic powers as story devices.",
+   "concerns": "Curses and harm; fan service."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty and purpose.",
+   "concerns": "Blood and violence (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed.",
+   "concerns": "Lust in fan service; superstition."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Fidelity to friends.",
+   "concerns": "Unchaste images; violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Partners' communication and survival.",
+   "concerns": "Violence and harm."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-reliant outlaws who keep their word.",
+   "concerns": "Panty-shot fan service of women (ANN); little else."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restitution and rescue.",
+   "concerns": "Tzniut concerns; sorcery-like powers."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Justice for victims.",
+   "concerns": "Degrading fan service."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Siding with the wronged.",
+   "concerns": "Objectification and violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "Ban and Ginji settle matters personally against yakuza (ANN)."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Freelance outlaws working outside the law (blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Makeshift family and partner loyalty (MangaUpdates)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Partners as equals; clan conflicts in later arcs (MangaUpdates)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Urban modern setting with magical powers."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Always broke; must find clients to eat (blurb)."
+   }
+  },
+  "closest": [
+   "The Far West",
+   "El Norte",
+   "Greater Appalachia"
+  ],
+  "japan": "Reflects 1990s Weekly Shonen Magazine buddy action, with yakuza villains and the Japanese trope of the loyal partner duo."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN review focuses on friendship and action; no moralizing noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values come through the duo's choices on each job."
+ },
+ "winners_losers": "Ginji and Ban usually win back what was taken; yakuza and thieves lose. Loyalty gets sympathy.",
+ "to_verify": [
+  "English license lapsed or partial (MangaUpdates: out of print in English).",
+  "Drugs tag and later-arc content; only volume 1 reviewed (ANN).",
+  "Language intensity in the Tokyopop translation."
+ ]
+}

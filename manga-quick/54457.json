@@ -1,0 +1,86 @@
+{
+  "anilist_id": 54457,
+  "title": "Puella Magi Madoka Magica",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/54457",
+    "https://www.mangaupdates.com/series/kgi6u5h"
+  ],
+  "premise": "Middle-schooler Madoka Kaname is offered a contract by the cat-like Kyubey: one wish granted in exchange for becoming a magical girl who fights witches. The mysterious transfer student Homura tries to stop her, and Madoka watches friends who accepted the deal suffer and die. This three-volume adaptation of the 2011 anime reveals the dark cost behind the contracts, Homura's repeated time loops, and Madoka's final self-sacrificing wish.",
+  "life_message": "Love that gives itself up for others, even everything one has, can overcome a system built on despair.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Magical-girl deaths, including a beheading, and gunfights (AniList Tragedy, Guns; MU Death, Dead Friend/s). Beheading from general knowledge (to verify)."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Shown with consequences", "note": "Surreal witch labyrinths, despair and the fate of soul gems (AniList Horror genre, Tragedy; MU Despair, Mind Break, Dark Ambience)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Homura's devotion to Madoka read as romantic by some (AniList Yuri 64 spoiler); nothing sexual."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Mild."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Despair and Sayaka's collapse after her wish (MU Despair, Mind Break, Angst)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Contract-for-wish theme invites discussion."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Large franchise tie-in (MU Based on an Anime)."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 6, "stance": "Explored"},
+    {"lens": "Utilitarianism", "strength": 6, "stance": "Critiqued"},
+    {"lens": "Christian", "strength": 4, "stance": "Explored"},
+    {"lens": "Dharmic (Hindu/Buddhist)", "strength": 4, "stance": "Explored"},
+    {"lens": "Nihilism", "strength": 4, "stance": "Critiqued"}
+  ],
+  "dominant": "Self-sacrificial love versus cold utilitarian calculation (Kyubey)",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 8, "loyalty": 7, "fairness": 6, "sanctity": 5, "authority": 3, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Madoka's self-offering wish mirrors redemptive sacrifice; Kyubey's bargain exposes temptation.", "concerns": "Witches and contract magic; Madoka becomes a quasi-divine concept."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Despair overcome by self-emptying love.", "concerns": "Magic system and godlike apotheosis of a girl."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Selling one's soul for a wish shown as ruinous.", "concerns": "Witches and a girl becoming a savior-goddess."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Laying down one's life for friends; Faustian bargain critiqued.", "concerns": "Magic and witches; alternative savior figure."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "A deceiver offering power is exposed.", "concerns": "Soul contracts and witches seen as spiritually dark."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Shows no human wish can save; grace-like sacrifice.", "concerns": "A creature taking a divine role."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Works-for-wishes bargain fails; gift of self succeeds.", "concerns": "Occult imagery a conscience matter."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Perfect love casting out despair.", "concerns": "Dark magic and child deaths."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Strong moral vision of sacrifice versus calculation.", "concerns": "Little beyond intensity."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Self-giving rather than fighting saves the world.", "concerns": "Combat and magic."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Agency and sacrifice for others.", "concerns": "Dark imagery of death."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Critique of exploitation of girls by a system; compassionate love.", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Shows a deceptive pact leading to ruin.", "concerns": "Sihr, witches and a girl elevated to divinity (shirk concern)."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Karma of wishes and cycles of rebirth-like loops.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Craving (wishes) breeds suffering; bodhisattva-like compassion of Madoka.", "concerns": "Violence."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Exposes a system exploiting girls' emotions for energy.", "concerns": "Little to raise."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Questions utilitarian ethics; empathy prevails.", "concerns": "Supernatural resolution."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Self-sacrifice and loyalty; Madoka's loving family.", "concerns": "Dark themes for children."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Exposes a deceiver.", "concerns": "Witches, souls separated from bodies, spirits."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Sacrifice for others.", "concerns": "Magic and witches central."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcomes despair.", "concerns": "Fear and death imagery."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Compassion for all magical girls across time.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic tied to will and emotion.", "concerns": "Witches as monsters."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Madoka becomes a kami-like presence; purity of intent.", "concerns": "Death imagery."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Selfless love over ego.", "concerns": "Magic and superstition."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Sacrifice and unity.", "concerns": "Magic central."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Soul as separable from the body (soul gems) echoes thetan ideas.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Defiance of a manipulative cosmic system.", "concerns": "Self-sacrifice over self."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Exposes a deceptive covenant.", "concerns": "Sorcery and quasi-divine human."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Ethical sacrifice for others.", "concerns": "Sorcery imagery."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Repair of a broken world (tikkun olam).", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Conflicts are about duty and despair, not honor."},
+      "Order vs freedom": {"pos": 5, "evidence": "Contracts bind; Madoka chooses freely."},
+      "Civic vs kin": {"pos": 3, "evidence": "Madoka's wish embraces all magical girls everywhere."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Peer group of girls; Mami as senpai."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Alien rationality (Kyubey) against heartfelt sacrifice."},
+      "Survival vs self-expression": {"pos": 5, "evidence": "Survival of girls versus wishes for self."}
+    },
+    "closest": ["Catholic Europe", "Puritan", "Yankeedom"],
+    "japan": "Mami's senpai role and the self-sacrificing heroine reflect Japanese ideals of devotion to others; MU 'Christianity' tag points to Western religious imagery used aesthetically."
+  },
+  "delivery": {"style": "Woven in", "preachiness": 3, "evidence": "No source comments on delivery; summaries show the outlook carried by plot and character choices (to verify).", "personified": [{"character": "Kyubey", "ideology": "cold utilitarian calculation", "role": "Villain", "treatment": "Mixed"}, {"character": "Madoka", "ideology": "self-sacrificing love", "role": "Hero", "treatment": "Sympathetic"}], "opposing_views": "Mixed", "note": "Its contrast between self-giving love and calculating exchange is carried by the contracts and Madoka's final wish."},
+  "winners_losers": "Madoka's sacrifice remakes the system so magical girls are spared despair; Kyubey's cold calculation is exposed, and the story sympathizes with compassion.",
+  "to_verify": [
+    "Wikipedia article not fetched (rate-limited); plot from memory and database",
+    "MU 'Christianity' category: what religious imagery appears",
+    "Exact violence level in the manga versus the anime",
+    "Yen Press age rating"
+  ]
+}

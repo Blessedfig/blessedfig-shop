@@ -1,0 +1,383 @@
+{
+ "anilist_id": 123657,
+ "title": "Tokyo Aliens",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/123657",
+  "https://www.mangaupdates.com/series/ku5pz85",
+  "https://api.mangadex.org/manga?title=Tokyo%20Aliens",
+  "https://animeuknews.net/2022/11/tokyo-aliens-volume-1-review"
+ ],
+ "premise": "Akira Gunji, an awkward first-year with poor grades, wants to become a police officer like his late father. After witnessing a fight between an alien and Sho Tenkubashi of a secret police division that handles aliens in Tokyo, he is taken home by Tomiko, an alien overstaying her visa to stay by her dying human husband, and ends up considering joining the team.",
+ "life_message": "Justice should be carried out with compassion for the people the law catches.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Striking action scenes, Older Teen rating (AnimeUK News); AniList Gore and Tragedy."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Alien fights and secrets about his father."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Grief for his late father."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Teen joining police fights with weapons (MU Knife/ves, Weapon/s)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Police duty with compassion; aliens living secretly in Tokyo; father's legacy",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 2,
+  "authority": 6,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy for a wife staying with her dying husband.",
+   "concerns": "Violent action; gore tag."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion and honoring a father.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Respect for law and a father's example.",
+   "concerns": "Violence and gore."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy within justice.",
+   "concerns": "Violent action."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honoring father; compassion.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Lawful authority tempered by mercy.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Two-kingdoms: police vocation serving neighbor.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion and duty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Moral clarity with mercy.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion for strangers.",
+   "concerns": "Police force and violent combat."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honoring father; law and order.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sympathy for an undocumented alien and her husband.",
+   "concerns": "Violence; police glorification possible."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy and family loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty (dharma) inherited from father.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion for beings caught by law.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Humane view of migrants (aliens with expired visas).",
+   "concerns": "Policing as heroic; violence."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Empathy and reasoned justice.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honoring a father's police legacy.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Compassion.",
+   "concerns": "Violence; worldly policing."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Goodness in all beings.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of the stranger.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Little to raise.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity and filial devotion.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Defending the vulnerable.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity of all beings.",
+   "concerns": "Violent conflict."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Just government and helping others.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Questioning rules for compassion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness to the stranger.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love the stranger.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Justice tempered with compassion.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Conflicts handled through a police division."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "Police order and secret enforcement central."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Father's legacy plus duty to the public."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Police ranks and team structure."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Sci-fi, technology and modern policing."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Duty and security first."
+   }
+  },
+  "closest": [
+   "Confucian",
+   "Catholic Europe",
+   "Orthodox Europe"
+  ],
+  "japan": "Reflects Japanese respect for police work and filial piety toward a late father."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review notes sympathy for Tomiko staying with her husband despite an expired visa (AnimeUK News).",
+  "personified": [
+   {
+    "character": "Akira Gunji",
+    "ideology": "compassionate justice",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Tomiko Fujiwara",
+    "ideology": "love over law",
+    "role": "Other",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Sho Tenkubashi",
+    "ideology": "strict enforcement",
+    "role": "Foil",
+    "treatment": "Fair"
+   }
+  ],
+  "opposing_views": "Fair",
+  "note": "Enforcers and aliens are both shown with some sympathy in volume 1."
+ },
+ "winners_losers": "Akira's compassion is affirmed while he moves toward police work; sympathy goes to Tomiko.",
+ "to_verify": [
+  "LGBTQ+ Themes tag not confirmed.",
+  "Truth about his father and later arcs unverified.",
+  "Wikipedia cache has no plot."
+ ]
+}

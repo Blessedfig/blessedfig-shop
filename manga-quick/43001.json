@@ -1,0 +1,362 @@
+{
+  "anilist_id": 43001,
+  "title": "K-On!",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://en.wikipedia.org/wiki/K-On%21",
+    "https://anilist.co/manga/43001",
+    "https://www.mangaupdates.com/series/0pbecun/k-on"
+  ],
+  "premise": "Four girls join the light music club of the all-girls Sakuragaoka High School to save it from disbanding. Yui Hirasawa starts with no musical experience but becomes an excellent guitarist, and with bassist Mio, drummer Ritsu and keyboardist Tsumugi, later joined by junior Azusa and overseen by teacher Sawako, she spends school days practicing, performing and hanging out (Wikipedia, cached; Yen Press blurb via AniList).",
+  "life_message": "Friendship and enjoying the moment together matter as much as achievement.",
+  "overall": 1,
+  "content": [
+    {
+      "category": "Violence",
+      "score": 1,
+      "framing": "Neutral",
+      "note": "Slapstick only (AniList Slapstick)."
+    },
+    {
+      "category": "Fear and intensity",
+      "score": 0,
+      "framing": "Neutral",
+      "note": "None noted."
+    },
+    {
+      "category": "Sexuality and romance",
+      "score": 1,
+      "framing": "Neutral",
+      "note": "MU GL Subtext at low votes."
+    },
+    {
+      "category": "Language",
+      "score": 1,
+      "framing": "Neutral",
+      "note": "Not noted."
+    },
+    {
+      "category": "Substances",
+      "score": 0,
+      "framing": "Neutral",
+      "note": "Tea and snacks (AniList Food)."
+    },
+    {
+      "category": "Mental health and self-harm",
+      "score": 0,
+      "framing": "Neutral",
+      "note": "None noted."
+    },
+    {
+      "category": "Imitable behavior",
+      "score": 1,
+      "framing": "Neutral",
+      "note": "Lazy practice habits played for comedy."
+    },
+    {
+      "category": "Commercial",
+      "score": 1,
+      "framing": "Neutral",
+      "note": "Large merchandise franchise in Japan (Wikipedia); no in-story advertising noted."
+    }
+  ],
+  "lenses": [
+    {
+      "lens": "Communitarianism",
+      "strength": 4,
+      "stance": "Affirmed"
+    },
+    {
+      "lens": "Hedonism",
+      "strength": 2,
+      "stance": "Affirmed"
+    },
+    {
+      "lens": "Expressive individualism",
+      "strength": 2,
+      "stance": "Affirmed"
+    }
+  ],
+  "dominant": "Friendship; enjoying everyday life; music as shared joy",
+  "axes": {
+    "economic": 5,
+    "social": 5,
+    "cultural": 5,
+    "community": 7
+  },
+  "foundations": {
+    "care": 7,
+    "loyalty": 6,
+    "fairness": 4,
+    "sanctity": 3,
+    "authority": 3,
+    "liberty": 5
+  },
+  "frames": [
+    {
+      "frame": "Catholic",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Friendship, music and joy in ordinary life.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Eastern Orthodox",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Fellowship and gentle humor.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Baptist",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Clean, kind friendship.",
+      "concerns": "Rock-music culture for some families."
+    },
+    {
+      "frame": "Non-denominational Evangelical",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Good friends encouraging each other.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Pentecostal / Charismatic",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Joyful music and fellowship.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Reformed / Presbyterian",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Common grace in friendship and music.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Lutheran",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Luther's love of music echoed.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Methodist / Wesleyan",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Fellowship and song.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Anglican / Episcopal",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Gentle comedy of friendship.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+      "grade": "B",
+      "weight": "Minor",
+      "aligns": "Simple pleasures and friendship.",
+      "concerns": "Worldly pop culture."
+    },
+    {
+      "frame": "Latter-day Saint",
+      "grade": "S",
+      "weight": "Minor",
+      "aligns": "Clean, uplifting friendship and music.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Mainline progressive Protestant",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Supportive community of girls.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Muslim",
+      "grade": "B",
+      "weight": "Minor",
+      "aligns": "Kind friendship.",
+      "concerns": "Music debated among scholars."
+    },
+    {
+      "frame": "Hindu",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Art evoking joy (rasa).",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Buddhist",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Contentment in the present moment.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Secular progressive",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "All-girl band and friendship.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Secular humanist",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Joy and creativity.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Conservative / traditional",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Clean content, school loyalty.",
+      "concerns": "Little work ethic shown."
+    },
+    {
+      "frame": "Seventh-day Adventist",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Wholesome leisure and fellowship.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Jehovah's Witness",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Upbuilding friendships.",
+      "concerns": "Holiday episodes (to verify)."
+    },
+    {
+      "frame": "Christian Science",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Harmony and joy.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Unitarian Universalist",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Community and creativity.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Wiccan / Pagan",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Seasons and shared celebration.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Shinto",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Group harmony and school seasonal events.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Sikh",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Music (kirtan) valued; sharing.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Bahá'í",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Arts in friendship.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Scientologist",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Affinity and communication.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Satanist",
+      "grade": "B",
+      "weight": "Minor",
+      "aligns": "Pleasure in life now.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Orthodox Jewish",
+      "grade": "B",
+      "weight": "Minor",
+      "aligns": "Kind speech.",
+      "concerns": "Time-wasting entertainment."
+    },
+    {
+      "frame": "Conservative Jewish",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Friendship.",
+      "concerns": "Little to raise."
+    },
+    {
+      "frame": "Reform Jewish",
+      "grade": "A",
+      "weight": "Minor",
+      "aligns": "Friendship.",
+      "concerns": "Little to raise."
+    }
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {
+        "pos": 2,
+        "evidence": "Gentle comedy with no honor conflicts (AniList Cute Girls Doing Cute Things)."
+      },
+      "Order vs freedom": {
+        "pos": 6,
+        "evidence": "Club life with loose practice habits (blurb)."
+      },
+      "Civic vs kin": {
+        "pos": 4,
+        "evidence": "Club friends are the core (MU Friendship, Club/s)."
+      },
+      "Equality vs hierarchy": {
+        "pos": 3,
+        "evidence": "Peer band of friends."
+      },
+      "Tradition vs secular-rational": {
+        "pos": 6,
+        "evidence": "No religious framing."
+      },
+      "Survival vs self-expression": {
+        "pos": 9,
+        "evidence": "Music, snacks and enjoyment (AniList Food, Band)."
+      }
+    },
+    "closest": [
+      "English-speaking",
+      "New Netherland",
+      "New France"
+    ],
+    "japan": "School clubs (bukatsu), school festivals and tea-time rituals reflect Japanese school culture."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 1,
+    "evidence": "Four-panel gag strips with no stated message (MU 4-koma; to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Its view of a good life is left to the daily rhythm of friendship."
+  },
+  "winners_losers": "No sides; the friends keep the club and band going.",
+  "to_verify": [
+    "Yen Press age rating (not opened)",
+    "English license status (license_note: MU exact title match, check)"
+  ]
+}

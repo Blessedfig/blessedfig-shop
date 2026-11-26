@@ -1,0 +1,376 @@
+{
+ "anilist_id": 33099,
+ "title": "Embalming: THE ANOTHER TALE OF FRANKENSTEIN",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/33099",
+  "https://api.mangaupdates.com/v1/series/66136441503",
+  "https://www.senscritique.com/bd/embalming_une_autre_histoire_de_frankenstein/critique/15084179"
+ ],
+ "premise": "In late 19th-century Europe, a young man whose parents were killed by a patchwork-bodied being tracks the killer five years later and finds something beyond human (MANGA MILLION blurb via AniList). Victor Frankenstein's papers are being used to build more 'frankensteins', and the protagonist (named Hughley in the AniList blurb, Fury Flatliner in MangaUpdates) sets out for revenge on them and their makers. A French reader review of volume 1 describes a bleak, humorless dark fantasy in which his friend is cut in two and later reappears healthy.",
+ "life_message": "It questions whether revenge and the drive to conquer death through science can bring anything but more ruin (to verify).",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "Blood and gore, murders, body horror (MangaUpdates, AniList); a man cut in two and severe wounds (French review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Corpses, undead, insanity (MangaUpdates); 'unsettling and bleak' tone (French review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Childhood love and a dead lover (MangaUpdates); no sexual scenes noted."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not addressed by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Revenge after parents' murder, insanity, dead lover (MangaUpdates; review)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Revenge quest as driving motive (all sources)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Transhumanism",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Naturalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Revenge; science playing God with the dead; what makes a being human",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 7,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Warns against usurping God's power over life and death.",
+   "concerns": "Revenge as motive; gore and desecrated corpses."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sanctity of the body and limits of science.",
+   "concerns": "Corpse desecration and vengeance; gore."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Pride of man playing Creator exposed.",
+   "concerns": "Graphic violence; revenge."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Human limits before God.",
+   "concerns": "Gore and revenge."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Courage against evil.",
+   "concerns": "Undead beings; gore; dark tone."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Truthful view of human pride.",
+   "concerns": "Graphic violence; revenge."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Limits of human striving.",
+   "concerns": "Gore; vengeance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mercy versus revenge can be discussed.",
+   "concerns": "Violence and gore."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gothic moral fable in Mary Shelley's line.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critique of violence's spiral (to verify).",
+   "concerns": "Revenge drives the hero; heavy violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Dignity of the body.",
+   "concerns": "Violent, dark media."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions about created beings' humanity.",
+   "concerns": "Gore; MangaUpdates tags child abuse (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Limits of creation belong to God.",
+   "concerns": "Reanimated dead; gore."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Karma of violence.",
+   "concerns": "Harm to bodies; corpse impurity."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cycle of hatred and revenge.",
+   "concerns": "Killing and gore."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethics of science and personhood.",
+   "concerns": "Gore; child abuse tags (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Science ethics debated.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty and courage.",
+   "concerns": "Bleak gore; revenge."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Limits of human power.",
+   "concerns": "Undead; gore."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Violence; resurrection by science."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to raise.",
+   "concerns": "Fear and bodily horror."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of created persons.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sacred cycle of life and death.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Respect for the dead.",
+   "concerns": "Corpse pollution (kegare) central."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage to defend others.",
+   "concerns": "Anger and revenge as motive."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Science-religion harmony questioned.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Integrity versus mad science.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebellion against the creators.",
+   "concerns": "Child abuse tags (to verify)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kavod hamet: dignity of the dead.",
+   "concerns": "Corpse desecration; gore."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Respect for the dead.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethics of power over the vulnerable.",
+   "concerns": "Gore."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 8,
+    "evidence": "Personal revenge for murdered parents drives the plot."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Secret organizations against lone avengers."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Vengeance for family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Nobility and lords (MangaUpdates; review)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Mad science against tradition."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival in a bleak world."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Tidewater",
+   "Cavalier"
+  ],
+  "japan": "A Japanese shonen reimagining of a European Gothic novel; its revenge-for-family motive echoes Japanese vendetta stories, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "French reviewer finds motivations 'very vague'; no moralizing noted (to verify).",
+  "personified": [
+   {
+    "character": "The creators using Frankenstein's papers",
+    "ideology": "science that conquers death and remakes bodies",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Themes are carried by the revenge plot and the creatures' existence."
+ },
+ "winners_losers": "Not described beyond the early volumes (to verify).",
+ "to_verify": [
+  "French review covers the French edition of volume 1 only.",
+  "Context of MangaUpdates tags 'child abuse' and 'child prostitute/s'.",
+  "Protagonist's name differs between AniList (Hughley) and MangaUpdates (Fury).",
+  "Ending; the series ran 10 volumes."
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "anilist_id": 30084,
+ "title": "Fushigi Yûgi",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30084",
+  "https://api.mangaupdates.com/v1/series/69404102775",
+  "https://www.animenewsnetwork.com/review/fushigi-yugi-vizbig-edition/gn-2"
+ ],
+ "premise": "Junior-high student Miaka Yuki is drawn into the book The Universe of the Four Gods, where she becomes priestess of the god Suzaku and must gather seven Celestial Warriors. Her best friend Yui becomes priestess of the rival god Seiryu and turns to jealousy and hatred, while Miaka's love for the warrior Tamahome is tested by war, hostage-taking and brainwashing (Viz blurb via AniList; ANN review).",
+ "life_message": "Loyal love and friendship can survive betrayal, though jealousy and misunderstanding can turn friends into enemies.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "War between kingdoms, a hostage, brainwashing, warriors fighting (ANN); AniList Action, MU Betrayal, Friends Become Enemies."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Friend turned enemy, brainwashed love interest, emotional melodrama (ANN 'emotionally gripping'); AniList Ghost (spoiler)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance, love triangle and bawdy jokes (ANN); MU Attempted Rape, First-Time Intercourse; MangaDex suggestive. Capped at 3 pending a second kind of source (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Bawdy humor (ANN)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Yui's despair and hatred after feeling abandoned (ANN). Details to verify."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Cross-dressing comedy (MU); gluttony gag (ANN)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Long-running franchise with anime and stage play (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 4, "stance": "Explored"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Destined priestess and loyal protectors; romance against duty; friendship broken by jealousy",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 7, "loyalty": 9, "fairness": 5, "sanctity": 5, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Self-giving loyalty of the warriors; love tested by trial.", "concerns": "Priestess serving a beast god; attempted rape tag; romance with sexual turns."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Faithfulness and forgiveness between friends.", "concerns": "Worship of Suzaku and Seiryu; passions of jealousy shown at length."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Loyalty, sacrifice for friends.", "concerns": "Other gods summoned and worshipped; sexual content tags."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Reconciliation as a theme between Miaka and Yui.", "concerns": "Priestess-of-a-god role; sexual themes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Courage against evil.", "concerns": "Summoning gods via ritual and priestesshood; spirits and ghosts."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Sin of envy portrayed truthfully in Yui.", "concerns": "False worship central to plot."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Friendship and loyalty; forgiveness.", "concerns": "Mythic gods; sexual content tags."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love and reconciliation.", "concerns": "Romance with sexual tags; deities."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Rich myth-based moral imagination.", "concerns": "Attempted rape tag."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Friend reconciliation.", "concerns": "War and heroic fighting; other gods; romance focus."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Loyal love.", "concerns": "First-time intercourse tag; deities."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Friendship across rivalry; myth explored.", "concerns": "Sexual violence tags; heroine criticized as whiny (ANN)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty and keeping faith with friends.", "concerns": "Shirk: summoning and serving gods; romance and sexual tags."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Divine beings and duty-bound protectors feel familiar.", "concerns": "Modesty in romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Jealousy and attachment shown as causing suffering.", "concerns": "Violence and sexual tags."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Female leads at center of story.", "concerns": "Damsel in distress and attempted rape tags; male harem."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Friendship and choice.", "concerns": "Destiny and gods drive plot."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Loyalty, sacrifice and honor of warriors.", "concerns": "Teen sexual content tags; cross-dressing comedy."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Faithful love.", "concerns": "Ghosts and gods as real; sexual tags."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Friendship.", "concerns": "Spiritism, other gods and immorality tags."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love conquering fear.", "concerns": "Fear and violence."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Myth from many cultures; reconciliation.", "concerns": "Sexual violence tags."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Gods of the four directions honored by priestesses.", "concerns": "Non-consent tags."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Divine beasts and priestess roles.", "concerns": "Chinese myth rather than kami; little else."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Warriors protecting the weak.", "concerns": "Idol-like gods; lust and anger."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity after division.", "concerns": "War; sexual tags."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal courage.", "concerns": "Brainwashing as plot device."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Choosing one's love over imposed roles.", "concerns": "Unwanted sexual advances tags."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Loyalty and chesed among warriors.", "concerns": "Avodah zarah (idolatry) at core; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship and peace-making.", "concerns": "Worship of gods; sexual tags."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ending hatred between friends.", "concerns": "Sexual violence tags."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Warriors' honor and war between kingdoms (ANN)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Destiny as priestess balanced with personal love."},
+   "Civic vs kin": {"pos": 7, "evidence": "Loyalty to the bonded seven warriors and to Miaka (ANN)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Priestesses, warriors and rival kingdoms in ranks (ANN, Viz blurb)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Gods, priestesses and prophecy shape life (MU Prophecy, Mythology)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Survival in war balanced with romance."}
+  },
+  "closest": ["Tidewater", "Latin America", "South and Southeast Asia"],
+  "japan": "A Japanese shoujo classic drawing on Chinese four-gods mythology; loyalty to friends and the priestess's public duty reflect Japanese group norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN calls it emotionally gripping melodrama; no preachiness noted (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Yui's turn to hatred is shown through her hurt, so the rival side is given a motive."
+ },
+ "winners_losers": "Miaka and her warriors carry the sympathy; Yui's side is shown as hurt and misled rather than simply evil (ANN).",
+ "to_verify": [
+  "MU tags Attempted Rape and First-Time Intercourse: confirm scenes and framing; sexuality capped at 3, possibly understated.",
+  "Religious elements (priestess rituals, summoning) need a full-read check.",
+  "ANN review is of VizBig volume 2 (original vols 4-6) only."
+ ]
+}

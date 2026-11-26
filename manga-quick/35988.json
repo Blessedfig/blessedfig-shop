@@ -1,0 +1,356 @@
+{
+ "anilist_id": 35988,
+ "title": "Hot Steamy Glasses",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/35988",
+  "https://api.mangaupdates.com/v1/series/40928897117"
+ ],
+ "premise": "Takeo, president of a rising IT company by day and a devoted otaku by night, has loved the self-centered Fumi, who hates otaku, for 17 years. After countless rejections Fumi suddenly accepts a date (AniList, MU).",
+ "life_message": "Persistent love can be returned when both people drop their guard.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Adult romance (MU Yaoi; AniList Boys' Love); explicitness to verify."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Pursuit after repeated rejection (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Otaku hobby culture (MU Otaku)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 6,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seventeen years of faithful devotion.",
+   "concerns": "Same-sex sexual relationship."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Patience in love.",
+   "concerns": "Same-sex intimacy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Steadfastness.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Constancy toward Fumi.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Constancy.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence in work and love.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation and devotion.",
+   "concerns": "LCMS: same-sex romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Patient love.",
+   "concerns": "Traditional bodies: same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Comic, warm persistence.",
+   "concerns": "Views differ by province."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Worldly hobbies; romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Long devotion.",
+   "concerns": "Chastity; same-sex sex."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Otaku and gay identity both accepted.",
+   "concerns": "Persistence after refusal."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Constancy.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Steady devotion.",
+   "concerns": "Same-sex romance; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fumi drops his prejudice against otaku.",
+   "concerns": "Attachment over 17 years."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Overcoming stigma about otaku.",
+   "concerns": "Persistence after rejection."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Prejudice gives way to understanding.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Success through hard work.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Constancy.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love outlasting rejection.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Acceptance of difference.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Desire honored.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere long devotion.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work as a company head.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Prejudice overcome.",
+   "concerns": "Chastity; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Affinity rebuilt by communication.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Takeo pursues what he wants.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Constancy.",
+   "concerns": "Same-sex acts."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithful devotion.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive, comic romance.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Rejection met with persistence, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Double life as company head and otaku (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Brother and babysitting subplot (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Equals despite status."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Modern IT and otaku culture."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Hobby identity owned openly."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "New France"
+  ],
+  "japan": "Otaku stigma and keeping hobbies hidden at work reflect Japanese social attitudes of the 2000s."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Comedy blurbs with no stated message.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romantic comedy without an argued view."
+ },
+ "winners_losers": "Takeo's devotion appears rewarded (MU Unrequited Love Becomes Requited); Fumi's prejudice gives way.",
+ "to_verify": [
+  "Explicitness",
+  "Juné and Renta! digital status"
+ ]
+}

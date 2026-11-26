@@ -1,0 +1,92 @@
+{
+  "anilist_id": 34368,
+  "title": "Toradora!",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/34368",
+    "https://www.mangaupdates.com/series/51hmb88/toradora",
+    "https://www.animenewsnetwork.com/review/toradora/gn-1"
+  ],
+  "premise": "Kind-hearted Ryuuji Takasu looks like a thug, and on his first day of second year he crosses Taiga Aisaka, the tiny, feared 'Palmtop Tiger' who turns out to live next door. She loves his best friend Kitamura and he loves her best friend Kushieda, so they agree to help each other, and the arrangement draws them closer than either expects (Seven Seas blurb; ANN review of volume 1).",
+  "life_message": "People are more than their appearances, and the friend who sees your real self may be the one you belong with.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Taiga 'fiercely wields a boken' (ANN); comic hitting (to verify frequency)."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light comedy (ANN)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance-centered; ANN notes fan service around Ryuuji's mother; MU Love Polygon."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not mentioned (to verify)."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted (to verify)."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Taiga's insecurities and family drama (ANN; MU Family Drama)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Hitting and bossing played for laughs (ANN)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"}
+  ],
+  "dominant": "Looking past appearances; friendship turning to love; coming of age",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Ryuuji's care for Taiga, cooking and looking after her.", "concerns": "Fan service and a mother shown as eye-candy; hitting as humor."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humility of a misjudged boy.", "concerns": "Romance-driven passions; fan service."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Kindness over appearances (1 Samuel 16:7).", "concerns": "Teen dating schemes; fan service."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Good talk on judging by looks.", "concerns": "Violence as comedy; fan service."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Servant-hearted lead.", "concerns": "Worldly romance; immodesty."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Neighbor care literally next door.", "concerns": "Mild lascivious images."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "'Best construction' on a misjudged boy.", "concerns": "Little beyond fan service."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Doing good to a difficult neighbor.", "concerns": "Fan service."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Hospitality and kindness.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humble service.", "concerns": "Worldly romance and comic violence."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Service and friendship.", "concerns": "Fan service."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Challenges stereotypes about appearance.", "concerns": "Female violence played for laughs."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Kindness and neighborliness.", "concerns": "Dating and immodest images."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty and care for others.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Seeing past appearances.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Gentle, domestic male lead.", "concerns": "Fan service; violence by a girl played as comedy."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy and honesty about feelings.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Responsibility and diligence of the lead.", "concerns": "Fan service; absent or lax parents."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Healthy cooking and care.", "concerns": "Romance passions and fan service."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Dating culture; comic violence."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Seeing true character beyond looks.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of the misjudged.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Honest feelings.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity and school community.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Seva-like care.", "concerns": "Attachment-driven plot."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Service and courtesy.", "concerns": "Fan service."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication resolves misunderstandings.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Being true to oneself.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Chesed to a neighbor.", "concerns": "Immodest images; dating."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness and friendship.", "concerns": "Mild fan service."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Challenges judging by appearance.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Ryuuji is misjudged but does not fight back (Seven Seas blurb)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Teens mostly on their own; parent only part-time (ANN)."},
+      "Civic vs kin": {"pos": 5, "evidence": "Friends and neighbor matter as much as family (MU Neighbor/s, Family Drama)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Classmates as equals; Taiga's bossiness is comic."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "No religious framing; school-life comedy."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Feelings and identity beyond appearances are the focus."}
+    },
+    "closest": ["English-speaking", "New France", "Catholic Europe"],
+    "japan": "Japanese school-year events, the delinquent stereotype and the tsundere character type shape the comedy."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "ANN finds it light and comedic with few deeper themes; no lecturing.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Its point about appearances is carried by Ryuuji's situation rather than stated."
+  },
+  "winners_losers": "Ryuuji and Taiga gain friendship and growing feelings; no worldview is set up as an enemy.",
+  "to_verify": [
+    "Frequency of Taiga's physical violence",
+    "Later-volume family drama and any drinking by adults",
+    "Seven Seas age rating (not opened)",
+    "Wikipedia cache file was not available during this run"
+  ]
+}

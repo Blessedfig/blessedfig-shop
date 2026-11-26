@@ -1,0 +1,363 @@
+{
+ "anilist_id": 31468,
+ "title": "Lost Boys",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31468",
+  "https://api.mangaupdates.com/v1/series/41341608682",
+  "https://soliloquyinblue.mangabookshelf.com/2007/04/03/lost-boys-by-kaname-itsuki-b"
+ ],
+ "premise": "A boy called Air appears at Mizuki's window and carries him off to Neverland. Mizuki, who grew up without his father, wants no part of being a surrogate father to Air and the other children, but with no way home he stays and is gradually charmed by Air (ANN blurb via AniList). A one-volume Peter Pan-inspired fantasy; a reviewer calls it light, cute and \"quite innocent\", noting an age gap some may find disturbing (Manga Bookshelf).",
+ "life_message": "Taking responsibility for others can heal the wound of an absent father.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Pirates appear (Manga Bookshelf review); no violence tags."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Light fantasy (review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Shounen-ai romance described as \"quite innocent\" (review; MU Shounen Ai); age gap noted (review; MU Age Gap)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Estranged family and difficult childhood (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Communitarianism, Classical virtue ethics",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mizuki accepting a father's care for the Lost Boys.",
+   "concerns": "Romance with a younger boy figure; same-sex romance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fatherhood as healing.",
+   "concerns": "Same-sex romance; age gap."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Responsibility for children.",
+   "concerns": "Same-sex romance; age gap."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "A reluctant man learning to care.",
+   "concerns": "Same-sex romance with a childlike figure."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for the fatherless.",
+   "concerns": "Same-sex romance; fairy magic."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Duty taken up by a reluctant caretaker.",
+   "concerns": "Same-sex romance; age gap."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation of caring for children.",
+   "concerns": "Age gap in romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love serving others.",
+   "concerns": "Age gap and same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Literary riff on Peter Pan.",
+   "concerns": "Age gap."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Caring for the young.",
+   "concerns": "Romance; worldly media."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fatherhood valued.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing from an absent father.",
+   "concerns": "Age gap with a childlike partner."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for orphans.",
+   "concerns": "Same-sex romance; age gap."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Duty of a guardian.",
+   "concerns": "Age gap; romance."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Compassion growing in a cold man.",
+   "concerns": "Attachment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gentle queer fantasy.",
+   "concerns": "Age gap romanticized (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "A man growing emotionally.",
+   "concerns": "Age gap."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fatherhood and responsibility.",
+   "concerns": "Romance with a younger boy figure."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for children.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Caring for the young.",
+   "concerns": "Same-sex romance; magic."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love overcoming coldness.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of the fatherless.",
+   "concerns": "Age gap."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Fairies, flight and a magical land.",
+   "concerns": "Age gap."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirit-filled wonder of a magical land.",
+   "concerns": "Little doctrine."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seva toward children.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service to children.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Second dynamic: raising children.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freedom of Neverland.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Caring for orphans.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Responsibility for the young.",
+   "concerns": "Age gap."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing and care.",
+   "concerns": "Age gap."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor conflict."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Neverland's freedom from adult rules."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Surrogate family of Lost Boys (blurb)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Father role over children."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Fantasy, no religion."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Emotional healing focus."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "Yankeedom"
+  ],
+  "japan": "A Japanese boys' love retelling of a Western classic (Peter Pan), with the reluctant-guardian theme common in Japanese family fiction."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewer calls it \"lots of cute, smidge of substance\" (Manga Bookshelf).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Light fantasy without an argued view."
+ },
+ "winners_losers": "Mizuki and Air grow close; the reviewer liked the ending (Manga Bookshelf).",
+ "to_verify": [
+  "Air's apparent age and how the age gap is handled",
+  "Whether any sexual content appears",
+  "License status of Juné, Renta! and MangaPlaza editions"
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "anilist_id": 111228,
+ "title": "The Good Deeds of Old Adventurer Kane",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/111228",
+  "https://api.mangaupdates.com/v1/series/69172805384"
+ ],
+ "premise": "Kane, a kindly D-rank adventurer who has spent 20 years on herb-gathering jobs, gives away a super-rare Fruit of Revival for almost nothing, and his life begins to change (Manga UP! blurb). Database tags list gods and a goddess, orphans, a harem subtext and an age-gap romance with a persistent female lead. A 16-volume fantasy comedy from a novel.",
+ "life_message": "It holds up selfless kindness as what is ultimately rewarded.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bandits, demons and swordplay tags (AniList, MangaUpdates); level unverified."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dead friends and a dead lover in backstory (MangaUpdates)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Harem subtext; MangaUpdates lists Adult-Teenager Relationship, Grooming, Age Gap and Sexual Harassment; database only, capped (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Grief over lost friends and lover (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Possible grooming dynamics (database tag, to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Moralistic therapeutic deism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Kindness rewarded; gods reward the humble; harem comedy",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Generosity and humility rewarded.",
+   "concerns": "Adult-teen romance and harassment tags; pagan gods."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Meek kindness exalted.",
+   "concerns": "Harem subtext; other gods."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Selfless giving.",
+   "concerns": "Goddesses; adult-teen romance tags."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness to strangers.",
+   "concerns": "Harem and age-gap tags."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Selfless service.",
+   "concerns": "Other gods; harem subtext."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Grace-like reward for kindness.",
+   "concerns": "Gods; harassment tags."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful vocation in humble work.",
+   "concerns": "Harem subtext."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Works of mercy.",
+   "concerns": "Age-gap romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness and humility.",
+   "concerns": "Harem subtext."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Humble, nonviolent life of service.",
+   "concerns": "Swordplay; harem."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Generosity.",
+   "concerns": "Adult-teen romance tags."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness over status.",
+   "concerns": "Possible grooming dynamics; harassment as comedy."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Generosity and humility.",
+   "concerns": "Goddesses; romance tags."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Selfless action reaps good karma.",
+   "concerns": "Romance tags."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Generosity (dana) rewarded.",
+   "concerns": "Attachment; harem."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness valued.",
+   "concerns": "Adult-teen dynamic, harassment tags."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Altruism.",
+   "concerns": "Age-gap concerns."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hard-working humble man.",
+   "concerns": "Harem subtext."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Gods; romance tags."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Generosity.",
+   "concerns": "Other gods; magic; romance tags."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Goodness prevails.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Worth of an overlooked man.",
+   "concerns": "Consent and age concerns."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gods and goddesses respected.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gods reward sincerity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Seva: selfless service.",
+   "concerns": "Romance tags."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Service to others.",
+   "concerns": "Gods; romance tags."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Helping others.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Little emphasis on self.",
+   "concerns": "Self-sacrifice over self-interest."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Chesed: loving-kindness.",
+   "concerns": "Other gods; romance tags."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loving-kindness.",
+   "concerns": "Age-gap romance."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Consent questions."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Kane ignores status slights."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Adventurer's free life."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Helps strangers equally."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Low-rank hero; gods above."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Gods active in the world."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Humble work and kindness."
+   }
+  },
+  "closest": [
+   "The Midlands",
+   "Puritan",
+   "Catholic Europe"
+  ],
+  "japan": "The humble middle-aged hero rewarded for quiet virtue reflects Japanese isekai-era ossan stories, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Only blurbs available (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Kindness is rewarded through events, as the title signals."
+ },
+ "winners_losers": "Kane's kindness wins him favor, likely from gods and admirers (to verify).",
+ "to_verify": [
+  "Ages in the age-gap romance and what the Grooming and Adult-Teenager tags refer to.",
+  "Sexual harassment content.",
+  "Role of gods and goddesses."
+ ]
+}

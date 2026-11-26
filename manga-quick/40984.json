@@ -1,0 +1,361 @@
+{
+ "anilist_id": 40984,
+ "title": "No. 5",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/40984",
+  "https://api.mangaupdates.com/v1/series/26748551196"
+ ],
+ "premise": "In a future world that is 70% desert, the Rainbow Council of the International Peace Keeping Forces is a team of super-powered guardians (Viz blurb). No. 5, their top marksman, goes rogue with a mysterious companion, Matroshka, and the other members hunt him. A philosophical, non-linear sci-fi thriller by Taiyou Matsumoto (AniList tags).",
+ "life_message": "Questions whether 'peacekeeping' power is justice, and what freedom costs.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Guardians hunt a rogue marksman; guns, assassins, military (Viz blurb; MU, AniList tags)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Post-apocalyptic, tragic tone (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing specific noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mind break, tragedy spoiler tags."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Desertion and revenge (AniList)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Rogue against a superpowered world government; freedom; philosophy",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 8
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions whether the Rainbow Council's 'peacekeeping' is just.",
+   "concerns": "Gunfights as guardians hunt No. 5; cult tag (AniList)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Critique of worldly power in the Council.",
+   "concerns": "Sniper violence and revenge."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little; ambiguous morality.",
+   "concerns": "Desertion and revenge plot; gun violence."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions about power and conscience.",
+   "concerns": "Rogue marksman's violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Cult element; super-powered combat."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Limits of the 'magistrate' Council.",
+   "concerns": "Revenge theme."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Two-kingdoms questions about the Council's sword.",
+   "concerns": "Gun violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions militarism of peacekeepers.",
+   "concerns": "Violence by both sides."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Literary, philosophical depth (AniList Philosophy).",
+   "concerns": "Revenge."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critique of armed 'peacekeeping'.",
+   "concerns": "Marksman hero; gunfights."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "No. 5's care for Matroshka (to verify).",
+   "concerns": "Desertion and gun violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Critique of militarised global power.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions unjust force.",
+   "concerns": "Gun violence; setting resembles the Middle East (Viz)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dharma of a warrior questioned.",
+   "concerns": "Revenge."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Suffering bred by power and revenge.",
+   "concerns": "Killing."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Anti-militarist questioning of a global police force.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Philosophical inquiry; meta storytelling.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "A soldier deserts his post; anti-authority."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Military violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critique of human governments' armed councils.",
+   "concerns": "Military service and violence central."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Fear and violence."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Conscience over orders.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freedom of the individual.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Desert world imagery.",
+   "concerns": "Bloodshed."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions oppressive power.",
+   "concerns": "Revenge."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions false 'peace'.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Integrity versus a corrupt group (to verify).",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebellion against an arbitrary council.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Revenge forbidden (Leviticus 19:18)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ethical questions about force.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice questions.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Personal rogue stand."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Desertion from the council."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Council as family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Ranked council numbers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Sci-fi secular."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Freedom and expression."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Far West",
+   "Catholic Europe"
+  ],
+  "japan": "Matsumoto's multicultural desert future reflects Japanese artistic interest in global settings."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Philosophy and achronological tags; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Ambiguous storytelling."
+ },
+ "winners_losers": "No. 5 is the sympathetic rogue (to verify); the Council is the pursuing power.",
+ "to_verify": [
+  "English license partial: MU says English version dropped (Viz).",
+  "Plot specifics; no review or Wikipedia text opened."
+ ]
+}

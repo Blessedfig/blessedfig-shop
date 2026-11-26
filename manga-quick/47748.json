@@ -1,0 +1,356 @@
+{
+ "anilist_id": 47748,
+ "title": "Tsubaki's Diary",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/47748",
+  "https://api.mangaupdates.com/v1/series/3804455133"
+ ],
+ "premise": "Tarou Tsubaki, living alone in the city, runs into his divorced childhood friend Hiraiwa, who is raising his daughter Fumio. Tsubaki fits naturally into their household and their lives gain color (Juné blurb via AniList, MU). MangaUpdates tags it shounen-ai with an ambiguous relationship, crafting and a single parent.",
+ "life_message": "Everyday kindness can make a small, warm family out of old friends.",
+ "overall": 1,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Shounen-ai with an ambiguous relationship (MU); MangaDex rating safe (batch data)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Divorce in the background (blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Communitarianism (found family)",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 7
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care for a child and friendship.",
+   "concerns": "Possible same-sex romantic bond."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gentle charity in daily life.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Helping a single father.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hospitality and service.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ordinary vocation and family life.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Neighbor love; household life.",
+   "concerns": "Ambiguous romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Works of mercy.",
+   "concerns": "Ambiguous romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Simple, humble household.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family-centered life.",
+   "concerns": "Possible same-sex household."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Diverse family and care.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness to a child.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Duty and care in family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Everyday loving-kindness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "LGBT parent representation; care.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Human warmth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family and duty.",
+   "concerns": "Nontraditional household."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family warmth.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love in daily life.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Interdependence and family love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle household harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Household harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Seva and family.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Unity and service.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Second dynamic: family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal choice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Chesed to a family.",
+   "concerns": "Possible same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kindness and family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive family.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Gentle, no conflict."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Ordinary routines."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Household and found family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Friends as equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Everyday city life."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Quality of daily life valued."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "New France"
+  ],
+  "japan": "Quiet slice-of-life focus on household routines reflects Japanese iyashikei (healing) storytelling."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Juné calls it a 'tender account' of everyday connection.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Warmth is shown in small daily moments."
+ },
+ "winners_losers": "Tsubaki, Hiraiwa and Fumio all gain from their new closeness; no one is cast as a villain.",
+ "to_verify": [
+  "Whether the relationship between Tsubaki and Hiraiwa becomes romantic.",
+  "License status: DMG/Juné (batch note: check)."
+ ]
+}

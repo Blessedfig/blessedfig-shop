@@ -1,0 +1,91 @@
+{
+ "anilist_id": 65733,
+ "title": "Anohana: The Flower We Saw That Day",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/65733",
+  "https://api.mangaupdates.com/v1/series/29180581702"
+ ],
+ "premise": "Five childhood friends drift apart after one of them, Meiko 'Menma' Honma, dies in an accident. Years later their former leader, Jinta Yadomi, has dropped out of high school life and become a recluse when Menma's ghost appears to him, asking him to fulfil a childhood wish she cannot remember (AniList summary from Wikipedia; MU). Manga adaptation of an anime.",
+ "life_message": "Facing shared grief honestly lets friends heal and let go of the dead.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None in sources."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "A child's accidental death and her ghost (blurb; AniList Ghost, MU Ghost Protagonist)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Love triangle/polygon and unrequited love (AniList, MU)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Grief, social withdrawal and childhood trauma (AniList Hikikomori; MU Childhood Trauma, Social Phobia). Capped at 3 (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "School avoidance (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime tie-in (MU Based on an Anime)."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 2, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Moralistic therapeutic deism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Grief and reconciliation among friends; a ghost's unfinished wish; coming of age",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 9, "loyalty": 8, "fairness": 5, "sanctity": 5, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Reconciliation of friends; honoring the dead.", "concerns": "A ghost seeking a wish rather than prayer for the departed."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Memory of the dead and repentance among friends.", "concerns": "Ghost lore."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Healing friendships.", "concerns": "Spirit of the dead returning."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Grief processed in community.", "concerns": "Ghost theology."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Restoration of a broken group.", "concerns": "Spirit contact with the dead."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Truthful portrayal of grief.", "concerns": "Ghost as real."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Care for a struggling neighbor (Jinta).", "concerns": "Ghost lore."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Friends as accountability group.", "concerns": "Ghost."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Moving moral imagination about loss.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Community mutual care.", "concerns": "Ghost; anime media."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Continuing bonds with the dead.", "concerns": "Spirit contact."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Grief and mental health with compassion.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience in grief; loyalty.", "concerns": "Ghost of the dead."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "A soul with unfinished business; release.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Letting go of attachment to the dead.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Mental health and social withdrawal treated with empathy.", "concerns": "Cross-dressing spoiler tag to check."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Human connection healing grief.", "concerns": "Ghost as literal."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Loyalty of childhood friends.", "concerns": "School dropout."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Comfort to the grieving.", "concerns": "The dead shown as conscious spirits."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Spirits of the dead (spiritism)."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Love dissolving grief.", "concerns": "Dwelling on death."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence; worth of each friend.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Honoring the dead and the thin veil.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "A lingering spirit at peace through the living's care.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Acceptance of death (hukam).", "concerns": "Ghost superstition."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity restored.", "concerns": "Spirit contact."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spirit persists after death.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Living for oneself after loss.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Memory of the dead.", "concerns": "Necromancy-like contact."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Mourning together.", "concerns": "Ghost."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Healing community.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor disputes; friends reconcile."},
+   "Order vs freedom": {"pos": 6, "evidence": "Jinta withdraws from school (blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Childhood friend group as close kin-like bond."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peer group with an informal leader (blurb)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Modern setting with a ghost."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Emotional healing over achievement."}
+  },
+  "closest": ["The Midlands", "Catholic Europe", "English-speaking"],
+  "japan": "Unfinished wishes of the dead and the hikikomori figure reflect Japanese beliefs about lingering spirits and modern social withdrawal."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No manga review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story is about grief rather than competing views."
+ },
+ "winners_losers": "The grieving friends are all treated sympathetically.",
+ "to_verify": [
+  "No manga review opened; content capped at 3; grief and the death may be more intense.",
+  "Cross-dressing and video-game spoiler tags.",
+  "AniList's summary is sourced from Wikipedia; the cached Wikipedia file was missing."
+ ]
+}

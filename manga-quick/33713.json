@@ -1,0 +1,95 @@
+{
+  "anilist_id": 33713,
+  "title": "Bartender",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/33713",
+    "https://www.mangaupdates.com/series/diza34h",
+    "https://en.wikipedia.org/wiki/Bartender_(manga)",
+    "https://reversethieves.com/2013/11/01/manga-of-the-month-bartender/"
+  ],
+  "premise": "Ryū Sasakura, a prize-winning young bartender back from training in France, runs a hidden Ginza bar, Eden Hall, and later works at the Hotel Cardinal at the urging of the owner's granddaughter Miwa. Each episode brings a troubled customer, from a struggling marriage to a disgraced politician, and Ryū reads them and serves 'the right drink at the right time', leading them to reflect and decide what to do. A 21-volume episodic seinen 'healing' manga full of cocktail lore.",
+  "life_message": "Attentive hospitality and an honest moment of reflection can help people face their troubles.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "Little action (Reverse Thieves)."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Adult life troubles."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Subtle romance (MangaUpdates)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+    {"category": "Substances", "score": 6, "framing": "Endorsed", "note": "Alcohol and cocktails in every chapter (MangaUpdates Alcohol, Bar); Wikipedia: drinking never shown as a problem; a critic says it romanticizes the bar."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Customers' stress, grief and burdens eased (Wikipedia)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Drinking presented as a path to clarity and healing (Wikipedia)."},
+    {"category": "Commercial", "score": 2, "framing": "Endorsed", "note": "Named liquors and cocktail recipes; educational bar trivia (MangaUpdates Educational)."}
+  ],
+  "lenses": [
+    {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Hedonism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Moralistic therapeutic deism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Hospitality and attentiveness; craft mastery; alcohol as a ritual of reflection",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 8, "loyalty": 5, "fairness": 5, "sanctity": 4, "authority": 5, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Ryū's attentive listening as a work of mercy to troubled patrons.", "concerns": "Alcohol never shown with risk of drunkenness."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Hospitality and reflection.", "concerns": "Comfort sought in drink rather than prayer."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Caring for burdened people.", "concerns": "Alcohol celebrated throughout, against many members' abstinence."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Compassion for strangers.", "concerns": "Bar as healing place; alcohol as solution."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Listening to the hurting.", "concerns": "Alcohol glorified (AG abstinence stance)."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Craft and vocation; wine as gift used moderately.", "concerns": "Never names drunkenness as sin."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation of a bartender serving neighbors well.", "concerns": "Romanticized drinking."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Works of mercy in listening.", "concerns": "Historic abstinence witness contradicted."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gracious hospitality.", "concerns": "Moderation not discussed."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Simple care for neighbor.", "concerns": "Nightlife and alcohol at center."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Service and listening.", "concerns": "Word of Wisdom: alcohol celebrated in every story."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Compassion and dignity for patrons.", "concerns": "Addiction risk unaddressed."},
+    {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Hospitality.", "concerns": "Khamr is the core of the story."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Seva-like hospitality.", "concerns": "Intoxicants praised."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Mindful attention to suffering.", "concerns": "Fifth precept: intoxicants as remedy."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Emotional support for adults.", "concerns": "Alcohol glamorized without harms."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Observation and empathy as skills.", "concerns": "Little for adult readers."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Mastery, professionalism and respect for elders in the trade.", "concerns": "Alcohol glamorized for minors."},
+    {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Care for the troubled.", "concerns": "Alcohol at the center (abstinence expected)."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Moderate drink allowed; listening valued.", "concerns": "Drinking as emotional fix."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Healing of troubled thought.", "concerns": "Alcohol as material means of healing."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of each patron's story.", "concerns": "Addiction unaddressed."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Ritual of the right drink at the right time.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Omotenashi hospitality; drink as a shared rite.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Honest work.", "concerns": "Intoxicants celebrated."},
+    {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Service and consultation.", "concerns": "Alcohol forbidden yet central."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Communication helps people.", "concerns": "Alcohol as aid."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence with taste and control.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Hospitality; wine as part of life.", "concerns": "Kashrut of drinks; drinking as escape."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Moderation and hospitality.", "concerns": "Romanticized drinking."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Compassion for the troubled.", "concerns": "Addiction concern."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Problems resolved through quiet conversation and reflection (Wikipedia)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Exacting standards of the bartending craft."},
+      "Civic vs kin": {"pos": 4, "evidence": "Care for strangers who enter the bar."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "Senior bartenders, hotel managers and Senpai-Kouhai relations (MangaUpdates)."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Cocktail tradition and history combined with expertise."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Quality of life and emotional healing (Reverse Thieves)."}
+    },
+    "closest": ["Yankeedom", "Catholic Europe", "Puritan"],
+    "japan": "Reflects Japanese omotenashi (anticipatory hospitality), shokunin craft devotion and Ginza bar culture where drinking with colleagues is socially normal."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 4,
+    "evidence": "Each chapter resolves a problem through the right drink (Wikipedia); critic Ink says it romanticizes the bar.",
+    "personified": [
+      {"character": "Ryū Sasakura", "ideology": "attentive hospitality heals", "role": "Mentor", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "None shown",
+    "note": "Wikipedia notes drinking is never presented as a problem, so the case against alcohol does not appear."
+  },
+  "winners_losers": "Troubled patrons find clarity and Ryū grows in his career; there are no villains; sympathy is with the bartender's craft.",
+  "to_verify": [
+    "Whether any chapter shows drunkenness or alcoholism.",
+    "MANGA MILLION English release completeness.",
+    "Reverse Thieves review compares anime and manga; manga-specific points noted."
+  ]
+}

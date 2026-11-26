@@ -1,0 +1,363 @@
+{
+ "anilist_id": 44389,
+ "title": "Awakened Dreamer",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/44389",
+  "https://api.mangaupdates.com/v1/series/31798386724"
+ ],
+ "premise": "Salaryman Mizutani (Suitani) bullied his junior Tamaki in their baseball club; years later Tamaki is a television hero, and on their reunion he rapes Mizutani (AniList) and has not forgiven his past cruelty (DMG blurb). Other stories follow a fatherless boy, a mahjong master's son and a young farmer who misjudges his silent older brother (DMG).",
+ "life_message": "Past cruelty comes back, and real change needs honesty about it.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Rape on reunion (AniList blurb); MU Rape 17 votes, Blackmail."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Dark ambience, drowning, sudden death (MU); Tragedy genre."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Forced sex and explicit acts (MU); AniList blurb."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Crude taunts (AniList quote)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mahjong gambling (MU)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Inferiority complex, death and drowning (MU); Tragedy genre (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Bullying and blackmail (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Existentialism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Bullying's cost acknowledged.",
+   "concerns": "Rape as retribution; same-sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brotherly love in the farm story.",
+   "concerns": "Sexual violence; passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sin reaps consequences.",
+   "concerns": "Rape; same-sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Past wrongs faced.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequences of cruelty.",
+   "concerns": "Rape; gambling."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty about sin.",
+   "concerns": "Rape; WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Need for forgiveness shown.",
+   "concerns": "Rape."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Brotherly reconciliation.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Literary sadness.",
+   "concerns": "Rape."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brother's quiet gentleness.",
+   "concerns": "Revenge; sexual violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family bonds.",
+   "concerns": "Rape; gambling."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gay men's inner lives.",
+   "concerns": "Rape as payback."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brotherly duty.",
+   "concerns": "Rape; gambling."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Karma of bullying.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Suffering and impermanence.",
+   "concerns": "First and third precepts."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Bullying critiqued.",
+   "concerns": "Rape."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Self-awareness.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Family duty.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family love.",
+   "concerns": "Violence; gambling."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family.",
+   "concerns": "Violence; immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love amid sorrow.",
+   "concerns": "Fear and harm dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Worth of the bullied.",
+   "concerns": "Rape."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Threefold return.",
+   "concerns": "Rape violates \"harm none\"."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rural family life.",
+   "concerns": "Impurity of violence."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family duty.",
+   "concerns": "Lust; gambling."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family.",
+   "concerns": "Violence; gambling."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Communication.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Retaliation against a bully.",
+   "concerns": "Non-consent."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family.",
+   "concerns": "Rape; same-sex."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Teshuvah needed.",
+   "concerns": "Rape."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Bullying critiqued.",
+   "concerns": "Rape."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 8,
+    "evidence": "Tamaki repays humiliation personally (DMG)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Mixed."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Brothers and family (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Senpai-kohai past (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Rural and urban."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Normal life as lifeline (DMG)."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Cavalier",
+   "Orthodox Europe"
+  ],
+  "japan": "Senpai-kohai hierarchy in school sports clubs, here abused by bullying, is a Japanese setting."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "DMG blurb: \"unusual reflections on love\".",
+  "personified": [
+   {
+    "character": "Tamaki",
+    "ideology": "Retribution for bullying",
+    "role": "Other",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Both bully and avenger are complicated (to verify)."
+ },
+ "winners_losers": "Tamaki gains power over his former bully; outcome unclear (to verify).",
+ "to_verify": [
+  "Framing of the rape",
+  "Endings of the anthology stories"
+ ]
+}

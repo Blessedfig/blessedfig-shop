@@ -1,0 +1,91 @@
+{
+ "anilist_id": 125726,
+ "title": "Karate Survivor in Another World",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/125726",
+  "https://api.mangaupdates.com/v1/series/3105956472"
+ ],
+ "premise": "After being hit by a truck, 34-year-old Hitoshi Nozaki is sent by a dismissive god into a wild fantasy world with no clothes, no magic and only a karate skill. He weaves bark clothing, tests fruit for poison and fights goblins as he levels up, while longing to find other people (Seven Seas blurb via AniList; MU). Ongoing.",
+ "life_message": "Self-reliance, discipline and practical wits let a person survive and build a life from nothing.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Hand-to-hand fights with goblins and monsters; murders listed (blurb; MU Murder/s, Death); capped without a review (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Wilderness survival, attempted kidnapping (MU)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Hero starts naked; partial nudity; romantic subplot (blurb; MU Partial Nudity, Romantic Subplot)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 2, "framing": "Condemned", "note": "Attempted drugging (MU Attempted Drugging, Drugged)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Loneliness of solitary survival (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Testing wild fruit for poison; martial arts (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Stoicism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Libertarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Naturalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Self-reliance and discipline; practical survival; martial skill",
+ "axes": {"economic": 6, "social": 5, "cultural": 5, "community": 3},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Fortitude and longing for human community.", "concerns": "A careless god; nudity; violence."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Ascetic endurance in the wild.", "concerns": "Dismissive deity; nudity."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Hard work and grit.", "concerns": "Reincarnation and a capricious god."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Perseverance.", "concerns": "Reincarnation premise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Endurance.", "concerns": "False god figure."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Diligent labor and dominion over nature.", "concerns": "Pagan cosmology."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Self-discipline.", "concerns": "Violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Disciplined method.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Robinson Crusoe-like resourcefulness.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple, self-made living.", "concerns": "Fighting as the path to growth."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Self-reliance.", "concerns": "Nudity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Longing for community.", "concerns": "Violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Sabr (patience) in hardship.", "concerns": "Mocking depiction of a god; nudity."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Rebirth and discipline.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Rebirth; mindful training.", "concerns": "Killing creatures."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Practical skill.", "concerns": "Violence."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Reason and testing (poison tests) to survive.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Grit, self-defense and hard work.", "concerns": "Nudity."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Natural living.", "concerns": "Reincarnation; violence."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Endurance.", "concerns": "Violence and magic world."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Mind over hardship.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Search for connection.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Living close to nature.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Forest and nature reverence.", "concerns": "Blood."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest labor and courage.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Perseverance.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "First-dynamic survival.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-preservation, individualism.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Industry.", "concerns": "Nudity; idolatrous cosmology."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Resourcefulness.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Resilience.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Settles threats with his fists (blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Alone in the wilderness, free of any authority (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Longs for other humans (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "A dismissive god; no human rank noted."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Practical testing and game-like skills (MU Game Elements)."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Pure survival: clothes, food, safety (blurb)."}
+  },
+  "closest": ["The Far West", "El Norte", "Orthodox Europe"],
+  "japan": "Karate as a disciplined path (budo) reflects Japanese martial-arts culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "Hitoshi's grit is rewarded; the god who sent him is cast as indifferent.",
+ "to_verify": [
+  "No review opened; violence capped.",
+  "Murder and attempted drugging subplots (MU).",
+  "Seven Seas imprint not checked; MU genres list Mature, not Adult."
+ ]
+}

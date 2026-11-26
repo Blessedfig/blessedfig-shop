@@ -1,0 +1,375 @@
+{
+ "anilist_id": 36941,
+ "title": "Ultimo",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/36941",
+  "https://api.mangaupdates.com/v1/series/50464519839"
+ ],
+ "premise": "A creator built two mechanical beings, Ultimo of pure good and Vice of pure evil, meant to awaken when the world nears its final war; per the AniList summary, the creator then took his own life (to verify). A thousand years later Vice attacks a city with a monster to draw out Ultimo, and their battle begins. Co-created by Stan Lee and Hiroyuki Takei; MangaUpdates tags mention robots, the Seven Deadly Sins, reincarnation and time manipulation.",
+ "life_message": "It frames life as a contest between good and evil and asks which one human hearts will choose.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "City destruction and monster attacks on bystanders (summaries; capped, to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Monsters terrorizing a city."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Romantic subplot; MangaDex safe."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Creator's suicide mentioned in an AniList summary (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing notable."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Stan Lee name branding."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Christian",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Good versus evil; robots; reincarnation and sin",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 6,
+  "sanctity": 5,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Clear good versus evil; Seven Deadly Sins.",
+   "concerns": "Reincarnation; creator's suicide; destruction."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Struggle against the passions.",
+   "concerns": "Reincarnation; violence."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Good defeating evil.",
+   "concerns": "Reincarnation; violence."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Moral clarity.",
+   "concerns": "Reincarnation; city destruction."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Spiritual warfare echo.",
+   "concerns": "Reincarnation; violence."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sin taken seriously.",
+   "concerns": "Reincarnation; human-made good."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vices named honestly.",
+   "concerns": "Reincarnation."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Choosing good.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Morality-play fantasy.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good contrasted with evil.",
+   "concerns": "Battles as spectacle."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Agency to choose good.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Protecting bystanders.",
+   "concerns": "Simplified moral binary."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good versus evil.",
+   "concerns": "Reincarnation; created beings."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Karma and rebirth.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebirth and moral choice.",
+   "concerns": "Violence and craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Protecting the city.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Moral choice.",
+   "concerns": "Metaphysical binary."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Heroic good defeats evil.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good versus evil.",
+   "concerns": "Reincarnation; violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good versus evil.",
+   "concerns": "Reincarnation; violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good triumphs.",
+   "concerns": "Fear and destruction."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Moral reflection.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little at odds.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Karakuri craft tradition.",
+   "concerns": "Destruction."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Righteous defense.",
+   "concerns": "Reincarnation."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Choosing good.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spiritual beings across lifetimes.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Vice's defiance shown.",
+   "concerns": "Moral binary."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Good versus evil.",
+   "concerns": "Reincarnation; violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Moral choice.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Protecting the innocent.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Rivalry of good and evil."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Mixed."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Bonds with human 'masters'(to verify)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Mixed."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Technology and karma blend."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Final-war stakes."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Orthodox Europe",
+   "Puritan"
+  ],
+  "japan": "Karakuri mechanical dolls draw on Edo-period automaton craft, a Japanese tradition."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "Premise states 'pure good' and 'pure evil' outright (blurbs); no review read (to verify).",
+  "personified": [
+   {
+    "character": "Ultimo",
+    "ideology": "Pure good",
+    "role": "Hero",
+    "treatment": "Mixed"
+   },
+   {
+    "character": "Vice",
+    "ideology": "Pure evil",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The good-versus-evil framing is built into the premise itself."
+ },
+ "winners_losers": "Not described beyond setup (to verify).",
+ "to_verify": [
+  "Creator's suicide detail from a fan-sourced AniList summary.",
+  "Ending and how good and evil are resolved.",
+  "Treatment of Ultimo and Vice as ideas."
+ ]
+}

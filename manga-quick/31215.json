@@ -1,0 +1,92 @@
+{
+ "anilist_id": 31215,
+ "title": "Domu: A Child's Dream",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31215",
+  "https://api.mangaupdates.com/v1/series/5701189350",
+  "https://mangabookshelf.com/2009/10/25/domu-a-childs-dream/"
+ ],
+ "premise": "Police investigate a string of deaths in a Tokyo apartment complex that look like rooftop jumps and throat-slashings. The killer is 'Old Cho', a seemingly senile resident with psychic powers, and only Etsuko, a newly arrived eight-year-old with powers of her own, knows it; their hidden battle engulfs the building (Dark Horse blurb via AniList and MU; Manga Bookshelf review).",
+ "life_message": "A child's fierce sense of right can stand up to cruelty that adults cannot even see.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Condemned", "note": "Murders staged as falls and throat-slashings (Manga Bookshelf); Gore tag (AniList); MU Murder/s, Cruelty, Violence. Reviewer says older teens."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "'Intensely creepy' psychological thriller with palpable dread (Manga Bookshelf); Horror, Psychological (MU)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Police-procedural dialogue; not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Deaths disguised as suicides (Manga Bookshelf); AniList Suicide tag (low rank); MU Mind Break."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Condemned", "note": "Psychic powers are fantastic, not imitable."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "Standalone work."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Naturalism", "strength": 2, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Moral courage of a child against cruelty; abuse of power critiqued; urban alienation",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 4, "fairness": 7, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Etsuko's moral courage defends neighbors from a murderer.", "concerns": "Graphic killings and psychic powers."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Evil of a hidden destroyer is exposed.", "concerns": "Gore and dread disturb the heart."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "A child stands for right against evil.", "concerns": "Gory deaths; supernatural powers."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Good confronts hidden evil.", "concerns": "Graphic violence weighed by purpose."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Unseen evil fought.", "concerns": "Psychic power and possession-like control."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Truthful picture of sin, not made attractive.", "concerns": "Gore."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Protecting the neighbor's life.", "concerns": "Graphic deaths."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Courage on behalf of the vulnerable.", "concerns": "Violent horror imagery."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Clear framing of good and evil.", "concerns": "Gore for older readers."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Exposes cruelty.", "concerns": "Climax is a violent psychic battle."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Innocence opposes wickedness.", "concerns": "Violent content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Attention to the vulnerable in a neglected housing block.", "concerns": "Graphic violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Justice against a killer.", "concerns": "Supernatural powers and gore."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Dharma of protecting others.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Cho's greed for 'treasures' shown as cruel craving.", "concerns": "Killing depicted (first precept)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Urban alienation and isolation critiqued.", "concerns": "Gore; disguised suicides."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Moral courage valued.", "concerns": "Graphic violence."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Courage and good defeating evil.", "concerns": "Gore."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Evil exposed.", "concerns": "Supernatural horror; violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Wickedness punished.", "concerns": "Psychic powers and violence throughout."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Truth defeats a false power.", "concerns": "Fear-inducing imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of overlooked neighbors.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Power used to harm is rejected.", "concerns": "Gore."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Community harmony restored.", "concerns": "Death and blood (kegare)."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Courage to defend the oppressed.", "concerns": "Violence."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Justice and moral courage.", "concerns": "Violent content."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Mental power, ethics in using it.", "concerns": "Murder depicted."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-reliant child confronts a predator.", "concerns": "Harm to people depicted."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Protecting life (pikuach nefesh).", "concerns": "Gore; sorcery-like powers."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Moral courage.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice for the overlooked.", "concerns": "Graphic violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Police investigation runs alongside; no honor code (Manga Bookshelf)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Police try to restore order; Etsuko acts outside it (Manga Bookshelf)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Neighbors in a housing block, not family, are at stake (MU Apartment Life)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "A child outmatches the adults (Manga Bookshelf)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Psychic powers in a modern secular city (MU)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Survival against a killer drives the story (Dark Horse blurb)."}
+  },
+  "closest": ["Catholic Europe", "Puritan", "The Midlands"],
+  "japan": "Set in a 1980s Japanese danchi (public housing estate), reflecting period anxieties about isolation in new urban blocks."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewer describes a 'taut psychological thriller' of mood and dread, not lessons (Manga Bookshelf).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Moral contrast between Cho and Etsuko is left to the reader inside a thriller."
+ },
+ "winners_losers": "Etsuko, 'fiercely moral and incredibly brave', gets the sympathy; Cho, 'a childish adult', is the threat (Manga Bookshelf).",
+ "to_verify": [
+  "Exact graphic level of the deaths and the final psychic battle.",
+  "Whether any child is harmed or killed.",
+  "Suicide tag on AniList is low-ranked; deaths are disguised murders per the review."
+ ]
+}

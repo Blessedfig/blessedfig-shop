@@ -1,0 +1,91 @@
+{
+ "anilist_id": 112147,
+ "title": "The Strongest Savior's Second Chance",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/112147",
+  "https://api.mangaupdates.com/v1/series/51967838060"
+ ],
+ "premise": "After a life of hardship and the loss of the people he loved, Eric dies on the battlefield and wakes at the very start of his life with his memories intact. Knowing the dark fate that awaits everyone he cares about, he trains to become the strongest so he can save them all (Comikey blurb via AniList and MU).",
+ "life_message": "Regret can be redeemed by working hard to protect the people you love.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Shown with consequences", "note": "Death on the battlefield (publisher blurb); MU Blood and Gore, Fight/s, Monster/s."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Foreknown 'dark fate' for loved ones; demons and vampires (MU)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Subtle romance with a childhood friend (MU)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Grief and regret as motive (blurb; MU Death of Loved One/s, Regret)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Redeeming regret; protective strength; second life",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Eric's goal is to save others, not himself.", "concerns": "Rebirth premise; gore (MU)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Sacrificial love for those close to him.", "concerns": "Demons and vampires; battle gore."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Living with 'head held up' and setting regrets right.", "concerns": "Do-over life instead of grace; violence."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Second chance used for others.", "concerns": "Magic and demons."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Perseverance to protect.", "concerns": "Demons, vampires and magic."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Duty to neighbors.", "concerns": "Self-made rescue of fate."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Vocation as protector.", "concerns": "Gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Works of mercy through training.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Clear moral aim.", "concerns": "Violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Love for others.", "concerns": "Becoming 'the strongest' as the means."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family and friends saved through effort.", "concerns": "Gore."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Care for the vulnerable.", "concerns": "Violence as solution."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Striving to protect loved ones.", "concerns": "Magic shown positively."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Rebirth and dharma of the protector.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion as motive; rebirth.", "concerns": "Regret-driven attachment; violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Care-driven hero.", "concerns": "Violence."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Agency to change outcomes.", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Protecting family and friends through discipline.", "concerns": "Gore."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Devotion to others.", "concerns": "Return after death; vampires."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Love among companions.", "concerns": "Violence, demons and magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Refusing a fated outcome.", "concerns": "Grief and gore imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Care for others.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic used to protect.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere resolve.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Courage to defend others.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Service to others.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Memories from a prior life used to help others.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-empowerment.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Saving lives as supreme value.", "concerns": "Sorcery; gore."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Saving lives.", "concerns": "Gore."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Repairing what went wrong.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Living 'with my head held up in pride' (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Personal training rather than institutions; little detail."},
+   "Civic vs kin": {"pos": 7, "evidence": "Saving 'everyone he cares about', his close circle (blurb)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Princess and knights present (MU); little emphasis."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Magic world; no stated religious frame."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Hardship and survival against foreseen deaths."}
+  },
+  "closest": ["Orthodox Europe", "El Norte", "Latin America"],
+  "japan": "Follows the Japanese web-novel 'time-loop to the start' convention; regret and resolve as motives echo shounen training stories."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Message set by premise (to verify)."
+ },
+ "winners_losers": "Eric is positioned to save those he lost; sympathy rests with him and his circle (to verify).",
+ "to_verify": [
+  "No MangaDex match, review or Wikipedia cache found; database and publisher blurb only.",
+  "Gore level (MU Blood and Gore).",
+  "Romance details and vampire/demon content."
+ ]
+}

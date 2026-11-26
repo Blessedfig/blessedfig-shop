@@ -1,0 +1,93 @@
+{
+  "anilist_id": 33258,
+  "title": "A Distant Neighborhood",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/33258",
+    "https://api.mangaupdates.com/v1/series/10469119301",
+    "https://en.wikipedia.org/wiki/A_Distant_Neighborhood"
+  ],
+  "premise": "Middle-aged salaryman Hiroshi Nakahara takes the wrong train to his childhood hometown, visits his mother's grave, and finds himself back in his eighth-grade body with his adult memories. Reliving his youth, he wonders whether he can change the past, including his father's unexplained disappearance (Ponent Mon blurb via AniList; Wikipedia; MangaUpdates).",
+  "life_message": "Revisiting the past can teach a person to understand his parents and value the family he has now.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Reflective drama."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "An adult mind in a teen body goes on a movie date with a schoolmate (Wikipedia); nothing explicit noted (to verify)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 2, "framing": "Neutral", "note": "MU 'Drunk/s' tag (3 votes); adult drinking (to verify)."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Mid-life crisis and a father's abandonment (MU tags; blurb)."},
+    {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+    {"lens": "Confucian ethics", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Memory, regret and family; understanding one's parents",
+  "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 4, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Honoring parents; reflection on choices and mercy toward a father.", "concerns": "Father's abandonment of family examined (to verify framing)."},
+    {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Remembrance of the dead at a mother's grave.", "concerns": "Little to raise."},
+    {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Fifth commandment; family responsibility.", "concerns": "Magical time travel unexplained."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Second chances and regret.", "concerns": "Little to raise."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Restoration of family understanding.", "concerns": "Little to raise."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Providence over past choices pondered.", "concerns": "Little to raise."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation as husband, father, son.", "concerns": "Little to raise."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Reflection toward love of family.", "concerns": "Little to raise."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Literary, humane exploration of memory.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Rural simplicity and family.", "concerns": "Drinking (to verify)."},
+    {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Family bonds across time.", "concerns": "Drinking (to verify)."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Empathy for a parent's struggles.", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Kindness to parents (Qur'an 17:23).", "concerns": "Drinking; school dating."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Family dharma and ancestors honored.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Impermanence; letting go of regret.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Mental-health reflection on mid-life.", "concerns": "Adult-mind teen dating (to verify)."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Meaning in this life; choices matter.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Family, hometown and responsibility.", "concerns": "Father's desertion (to verify framing)."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Family focus.", "concerns": "Drinking."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Family responsibility.", "concerns": "Little to raise."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Renewed understanding.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free search for meaning.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Cycles of life and memory.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Grave visit and ancestors; furusato hometown.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Family duty and acceptance.", "concerns": "Little to raise."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Family unity.", "concerns": "Alcohol (to verify)."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Reviewing past incidents to understand the present.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Living one's own life.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Kibbud av va'em; memory of the dead.", "concerns": "Little to raise."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Memory and family.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Reflective ethics of choice.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Quiet reflection, no honor conflict."},
+      "Order vs freedom": {"pos": 5, "evidence": "Father's departure weighs duty against freedom (blurb)."},
+      "Civic vs kin": {"pos": 7, "evidence": "Family and hometown at the center (AniList Family Life, Rural)."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Ordinary 1960s household."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Grave visit and hometown memory (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 5, "evidence": "Salaryman life weighed against personal longing (MU Mid-Life Crisis)."}
+    },
+    "closest": ["Catholic Europe", "The Midlands", "El Norte"],
+    "japan": "The salaryman's life, the grave visit (ohakamairi) and nostalgia for the furusato (hometown) are recognizable Japanese themes, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "No review opened; the publisher blurb frames questions rather than answers (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Themes are carried by Hiroshi's experience reliving his youth."
+  },
+  "winners_losers": "Hiroshi gains understanding of his father and his own life; the outcome is to verify.",
+  "to_verify": [
+    "Why the father leaves and how the story judges it",
+    "Whether Hiroshi returns to the present",
+    "Drinking scenes (MU tag)",
+    "Short Wikipedia article; no critic review opened"
+  ]
+}

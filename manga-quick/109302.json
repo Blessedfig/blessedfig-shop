@@ -1,0 +1,92 @@
+{
+  "anilist_id": 109302,
+  "title": "Adachi and Shimamura",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/109302",
+    "https://api.mangaupdates.com/v1/series/65563615385",
+    "https://en.wikipedia.org/wiki/Adachi_and_Shimamura",
+    "https://yenpress.com/9781975320034/adachi-and-shimamura-vol-1-manga"
+  ],
+  "premise": "A manga adaptation of the yuri light novels. Two first-year high schoolers, Adachi and Shimamura, become friends while skipping class on the gym's second floor; the introverted Adachi develops romantic feelings she struggles to express, while easygoing Shimamura sees her as a friend. A self-proclaimed alien girl, Yashiro, drifts through their lives (Wikipedia; Yen Press blurb).",
+  "life_message": "Even withdrawn people find meaning by opening up to one close bond.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Gentle drama."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Teen same-sex romance (AniList Yuri 96%; Wikipedia); MangaDex 'suggestive'; Publishers Weekly called it 'oddly voyeuristic' (Wikipedia). Yen Press rates T."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Adachi's isolation and intense jealousy (Wikipedia; AniList Yandere spoiler 63%)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Habitual class-skipping by both leads (Wikipedia; AniList Delinquents)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Existentialism", "strength": 2, "stance": "Explored"},
+    {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Same-sex first love; introversion and connection",
+  "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+  "foundations": {"care": 6, "loyalty": 6, "fairness": 3, "sanctity": 2, "authority": 2, "liberty": 7},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Friendship and care for a lonely classmate.", "concerns": "Same-sex romance affirmed; truancy."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Overcoming isolation.", "concerns": "Romantic passion at the center; same-sex."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyal friendship.", "concerns": "Same-sex romance; skipping school."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Reaching out to the lonely.", "concerns": "Same-sex romance celebrated."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance; suggestive framing."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Honest portrait of a needy heart.", "concerns": "Same-sex romance; authority flouted."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbor love.", "concerns": "Confessional families object; ELCA open."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care for the isolated.", "concerns": "Split on romance."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Gentle coming-of-age (CBR via Wikipedia).", "concerns": "ACNA objection."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Worldly romance; truancy."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Friendship.", "concerns": "Same-sex romance."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Affirming queer love story.", "concerns": "Possessive jealousy."},
+    {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance at core."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Bonds of friendship.", "concerns": "Romance; neglect of studies."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Loneliness eased through connection.", "concerns": "Clinging jealousy."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Queer teen romance normalized.", "concerns": "Male-gaze 'voyeuristic' critique (PW via Wikipedia)."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Emotional honesty.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance for teens; truancy."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance central."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcomes isolation.", "concerns": "Families vary."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every love.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Love honored.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Festival confession scene (Wikipedia).", "concerns": "No doctrine."},
+    {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Same-sex romance."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Romance outside marriage norms."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication builds affinity.", "concerns": "Little stated."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Freedom from conformity.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity of a queer teen.", "concerns": "Truancy."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive love story.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Inner feelings, no honor conflict."},
+      "Order vs freedom": {"pos": 8, "evidence": "Both skip class to be alone together (Wikipedia)."},
+      "Civic vs kin": {"pos": 4, "evidence": "One-to-one bond over family or group."},
+      "Equality vs hierarchy": {"pos": 2, "evidence": "Peer friendship."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern suburban teens; secular frame."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Emotional self-discovery (Yen Press blurb)."}
+    },
+    "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+    "japan": "Reserve about expressing feelings and the summer-festival confession are familiar Japanese school-romance conventions, described here as context."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "CBR reviews (via Wikipedia) describe slow, quiet blossoming of feeling; anime-focused.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The romance is conveyed through inner monologue and small moments."
+  },
+  "winners_losers": "Adachi and Shimamura become a couple (Wikipedia, from the novels); sympathy goes to Adachi's feelings.",
+  "to_verify": [
+    "CBR reception in Wikipedia covers the anime; Publishers Weekly reviewed the light novel or manga (unclear)",
+    "Whether the manga reaches the confession",
+    "Level of suggestive framing (MangaDex 'suggestive')"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+ "anilist_id": 81755,
+ "title": "The Testament of Sister New Devil",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/81755",
+  "https://api.mangaupdates.com/v1/series/44645123008",
+  "https://api.mangadex.org/manga/181aaf33-b664-4038-af3d-e0a25f5ede64",
+  "https://suitablefortreatment.mangabookshelf.com/category/testament-of-sister-new-devil"
+ ],
+ "premise": "High-school student Basara Toujo's father remarries and leaves him with two new stepsisters, Mio, a newly crowned demon lord, and Maria, a succubus. A botched magical master-servant contract binds Mio to Basara instead, with the binding triggering sexual reactions when she disobeys, while rival demon and hero factions hunt her (Seven Seas blurb; MU; Manga Bookshelf review). Mio's family was killed when her heritage came out, and a war over who rules Hell looms (review).",
+ "life_message": "A protector's loyalty to his new family against all comers, wrapped in sexualized harem comedy.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Battles with demon and hero factions; Mio's family killed (review; Action genre, MU Unrealistic Fighting)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Pursuit by assassins; war in Hell (review)."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Endorsed", "note": "Pervasive fan service between high-school step-siblings; reviewer says non-consensual groping is played as fan service with near-explicit nudity; MU Borderline H, Groping, Mature; AniList Nudity, Inseki (step-sibling romance)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Sexual innuendo (MU)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Loss of family (review)."},
+  {"category": "Imitable behavior", "score": 5, "framing": "Endorsed", "note": "Coercive sexual contact and humiliation of the female lead framed as comedy (review; MU Groping, Master-Servant Relationship)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Light novel and anime franchise."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Sexualized harem comedy; demon contracts and dominance; protecting a new family",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+ "foundations": {"care": 4, "loyalty": 6, "fairness": 2, "sanctity": 1, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "F", "weight": "Significant", "aligns": "Basara's will to protect Mio.", "concerns": "Sexual coercion as comedy; demonic contracts; step-sibling sexual content."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Demonic pacts and inflamed passions throughout."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Succubus, demon lord and pervasive sexual content."},
+  {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Protecting family members.", "concerns": "Sexualized minors and demonic binding."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Demonic contracts as open door; lust."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Lascivious images (WLC Q139) central."},
+  {"frame": "Lutheran", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Lust and coercion as entertainment."},
+  {"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Content opposed to holiness of heart."},
+  {"frame": "Anglican / Episcopal", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Evil and exploitation made attractive."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence and immodesty."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Law of chastity; vulgar media."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Found family defended.", "concerns": "Non-consensual contact as fan service (review)."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Sihr, demons, nudity and coercion."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Duty to protect household.", "concerns": "Tamasic lust; demonic beings glamorized."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Protective intent.", "concerns": "Sexual misconduct and craving foregrounded."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Consent violated as comedy; sexualized teens."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Loyalty to family.", "concerns": "Exploitation and coercion."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Protector role.", "concerns": "Fan service and family boundaries blurred."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Demons, sensual content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Demons, immorality, violence."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Degrading images."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Found family across difference.", "concerns": "Exploitation and lack of consent."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Non-human beings given sympathy.", "concerns": "Magic used to bind and manipulate."},
+  {"frame": "Shinto", "grade": "D", "weight": "Discuss", "aligns": "Household loyalty.", "concerns": "Disharmony and exploitation."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Defending the hunted Mio.", "concerns": "Lust celebrated."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Chastity and dignity."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Harm to people of good will."},
+  {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Demons sympathetic.", "concerns": "Unwanted sexual advances (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Tzniut, sorcery, family boundaries."},
+  {"frame": "Conservative Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Protecting the persecuted.", "concerns": "Consent violated."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Factions settle disputes by combat (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Father absent; household runs on its own rules."},
+   "Civic vs kin": {"pos": 7, "evidence": "Basara's loyalty is to his new family (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Master-servant contract and demon/hero tribes (MU)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Demon and hero lineages beside modern school life."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Survival against assassins mixed with indulgent comedy."}
+  },
+  "closest": ["El Norte", "Latin America", "The Far West"],
+  "japan": "A Japanese light-novel harem adaptation; the step-sibling and master-servant set-ups are recurring Japanese ecchi genre tropes."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Reviewer discusses sexual content and premise, no message delivery noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The comedy presents coercive situations without framing them as wrong."
+ },
+ "winners_losers": "Basara gains power and a harem ending (MU Harem Ending); Mio is protected but humiliated along the way.",
+ "to_verify": [
+  "Borderline for skip rules: MangaDex suggestive and AniList not adult, but MU lists Mature and Borderline H; check whether a Seven Seas Ghost Ship reissue exists and how MU genres change.",
+  "Review covers volume 1 only (of 9).",
+  "Exact ages of Mio and Maria."
+ ]
+}

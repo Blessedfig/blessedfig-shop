@@ -1,0 +1,358 @@
+{
+ "anilist_id": 50239,
+ "title": "Final Impression",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/50239",
+  "https://api.mangaupdates.com/v1/series/50049209700"
+ ],
+ "premise": "Anthology by Haruki Fujimoto. In the title story, the narrator confessed to childhood friend Hiro just before Hiro moved away; years later Hiro (Hayashida) returns to town completely changed (Manga Club blurb, MangaUpdates). MangaUpdates tags the high-school reunion with bullying of the one he loves and blackmail. Other stories: a man 'adopts' Kaoru found lying in a park, and a bar regular falls for the bartender.",
+ "life_message": "First love can survive change and cruelty, though old wounds must be faced.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bullying (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Cruel lover; blackmail (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Boys' love with MU explicit tags (anilingus, masturbation); reunion at high school (MU, blurb) (detail to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Bar setting (MU)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bullying and past hurt (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Blackmail and bullying of a loved one (MU) alongside romance (blurb) (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 5,
+  "fairness": 2,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful first love.",
+   "concerns": "Bullying, blackmail; same-sex sexual content."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Remembrance of love.",
+   "concerns": "Passions; cruelty."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content; cruelty."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Coercion and sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "WLC Q139."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Constancy.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Nostalgia for first love.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gay first love.",
+   "concerns": "Bullying and blackmail in romance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Same-sex; immodesty."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Loyalty to the past.",
+   "concerns": "Cruelty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Memory and change.",
+   "concerns": "Harmful conduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Queer romance.",
+   "concerns": "Abuse dynamics; consent."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Impure media."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Sensual thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love found again.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love.",
+   "concerns": "Manipulation."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Hometown bonds.",
+   "concerns": "No codified ethic."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Lust; cruelty."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Little aligns.",
+   "concerns": "Harm."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Desire.",
+   "concerns": "Unwanted advances."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Cruelty."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gay love.",
+   "concerns": "Abuse."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Power over the other through blackmail (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal desire."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Childhood friends."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Owner-pet dynamic in one story (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular life."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Romance."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "Transfer-student and all-boys-school settings follow Japanese school-romance conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurb frames nostalgic first love; no stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romance anthology."
+ },
+ "winners_losers": "Not confirmed; MU tags 'Finding Love Again' suggest reunions end in couples.",
+ "to_verify": [
+  "Whether bullying and blackmail are sexual and involve high-school students",
+  "Sexual content level (MU Anilingus, Masturbation)",
+  "'Owner' story consent",
+  "License status across platforms"
+ ]
+}

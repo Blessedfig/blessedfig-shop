@@ -1,0 +1,90 @@
+{
+ "anilist_id": 31971,
+ "title": "How To Capture A Martini",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31971",
+  "https://api.mangaupdates.com/v1/series/71656600428"
+ ],
+ "premise": "The narrator's high school upperclassman and lover, the beautiful and spiteful Shinobu, vanished after graduation. Four years later Shinobu reappears, sleeping with many men but giving the narrator only cruel words, so the narrator takes a part-time job at the bar where Shinobu works to stay near him. Three shorter stories follow, one about two brothers (AniList from DokiDoki, MU).",
+ "life_message": "Persistent devotion is shown as the way to win a guarded heart.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional cruelty in words (blurb)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Shinobu 'open[s] his body for everyone'; past first sex (blurb); MU Yaoi, Promiscuous Uke."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Shinobu's 'cruel words' (blurb)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Bar and bartending setting (blurb; MU Bar/s, Bartender/s)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Abandonment and longing."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "MU lists Incest and Incest as a Subplot for the brothers story; single source (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Cocktail bar."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Hedonism; Expressive individualism",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 3},
+ "foundations": {"care": 4, "loyalty": 6, "fairness": 3, "sanctity": 1, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "The narrator's faithful, patient love.", "concerns": "Promiscuity; same-sex romance; incest subplot."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Long-suffering devotion.", "concerns": "Shinobu's passions; incest tag."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Faithfulness of the narrator.", "concerns": "Promiscuity, bar life, incest and same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Pursuing someone with steady love.", "concerns": "Sexual immorality presented as glamour."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Promiscuity, drinking setting, incest."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Common grace: Tateno's stylish storytelling.", "concerns": "Seventh commandment throughout."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Faithful love despite rejection.", "concerns": "Promiscuity and incest subplot."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Constancy of the narrator.", "concerns": "Alcohol setting; sexual sin; incest."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "A portrait of yearning.", "concerns": "Incest subplot; cruelty as romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Bar life, promiscuity and sexual content."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Chastity; Word of Wisdom bar setting; incest."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Same-sex love affirmed.", "concerns": "Emotional cruelty; incest subplot."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Alcohol, promiscuity, same-sex relations, incest."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Devotion as a kind of bhakti to the beloved.", "concerns": "Kama without dharma; incest."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Shows suffering born of craving and attachment.", "concerns": "Intoxicants; sexual misconduct."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Adult gay characters.", "concerns": "Verbal abuse framed as allure; incest subplot."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Adults choosing freely.", "concerns": "Cruelty in the relationship; incest."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Promiscuity glamorised; incest."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Alcohol; passions; incest."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality; bad associations."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Love outlasting rejection.", "concerns": "Alcohol; sensual thought."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Worth of queer adults.", "concerns": "Emotional harm; incest."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Adult sexuality without shame.", "concerns": "Harm through cruelty."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Senpai bond and sincerity.", "concerns": "Family-line impurity of incest."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Alcohol; kaam; adultery-like promiscuity."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Alcohol; chastity."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Communication slowly attempted.", "concerns": "Faithfulness to partner."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Indulgence among adults.", "concerns": "Little; cruelty."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex acts; incest (Leviticus 18)."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Devotion.", "concerns": "Incest; degrading content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Inclusion.", "concerns": "Cruel speech; incest."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Wounded pride shown in words, not fights (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Shinobu's open sexual freedom (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Brothers story alongside lovers (MU)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Senpai-kohai past colours the relationship (MU blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular nightlife."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Desire and pursuit over security."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "The Midlands"],
+  "japan": "The senpai-kohai bond from school carrying into adult life reflects a lasting Japanese social pattern."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurb tone ('super dry superior beauty capture method'); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A romance of pursuit with no argued message."
+ },
+ "winners_losers": "The title suggests the narrator wins Shinobu over (to verify).",
+ "to_verify": [
+  "Whether high-school-era sex is shown or only referenced",
+  "Content of the brothers incest one-shot",
+  "Ending",
+  "English edition (DokiDoki) availability"
+ ]
+}

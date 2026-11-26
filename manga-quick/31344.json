@@ -1,0 +1,98 @@
+{
+ "anilist_id": 31344,
+ "title": "Ode to Kirihito",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31344",
+  "https://api.mangaupdates.com/v1/series/45497624408",
+  "https://mangacritic.mangabookshelf.com/2010/04/07/ode-to-kirihito-vols-1-2/"
+ ],
+ "premise": "Young doctor Kirihito Osanai is sent by his ambitious superior Tatsugaura to a remote mountain village to study Monmow disease, which twists victims into dog-like forms; he contracts it himself (AniList; MangaUpdates; Manga Critic review). Shunned and exploited for his appearance, including as a millionaire's private exhibit, he travels abroad seeking a cure while his fiancee Izumi and colleague Urabe try to expose Tatsugaura's cover-up, and a nun, Sister Helen, also falls ill (review). Osamu Tezuka's 1970 medical drama, published in English by Vertical.",
+ "life_message": "It holds that human dignity lies in conscience and compassion, not appearance, rank or prestige.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Condemned", "note": "Attempted murders, a priest's attack on Sister Helen, knives and blood (review); MangaUpdates Murder/s, Blood and Gore; AniList Gore."},
+  {"category": "Fear and intensity", "score": 7, "framing": "Shown with consequences", "note": "Body horror of the disease and dehumanizing captivity (AniList Body Horror; review's 'freak show' subplot)."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Condemned", "note": "Urabe's 'savage, sexual aggression' (review); MangaUpdates Rape, Sexual Abuse, Prostitution, Nudity. Adult characters."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Drugs tagged on AniList and MangaUpdates; context not described (to verify)."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Sister Helen entertains suicide (review); Urabe's split psyche; MangaUpdates Mental Illness."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Condemned", "note": "Careerism and cover-ups shown as corrupt."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Christian", "strength": 5, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Naturalism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Human dignity against prejudice, medical ethics, Christian imagery of suffering",
+ "axes": {"economic": 4, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 9, "loyalty": 5, "fairness": 8, "sanctity": 6, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Dignity of the disfigured; Sister Helen's service to the poor.", "concerns": "Church shown protecting its reputation; sexual violence and gore."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "Suffering borne with humility; Helen's vocation.", "concerns": "Sexual aggression and body horror; clergy shown violent."},
+  {"frame": "Baptist", "grade": "B", "weight": "Significant", "aligns": "Compassion for outcasts; corruption exposed.", "concerns": "Rape and nudity tagged; a priest attempts murder."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Elephant Man-style call to see God's image in the disfigured.", "concerns": "Sexual violence and gore."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Significant", "aligns": "Healing sought; faith of Sister Helen.", "concerns": "Sexual content and brutality."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Vocation as a doctor honored; pride of Tatsugaura judged.", "concerns": "WLC Q139 sexual imagery; violence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Significant", "aligns": "Medical vocation as service to neighbor.", "concerns": "Mature content needs a conscience call."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Significant", "aligns": "Works of mercy for the sick and poor at the heart of the story.", "concerns": "Sexual violence and suicide ideation shown."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Significant", "aligns": "Moral vision clear: compassion over prestige.", "concerns": "Graphic content; church institution criticized."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Significant", "aligns": "Humble service and refusal of worldly status.", "concerns": "Violence and sexual content."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Service and compassion for the afflicted.", "concerns": "Sexual violence and nudity beyond youth guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Prejudice against disability and institutional corruption critiqued.", "concerns": "Sexual violence; dated portrayals of foreign settings (to verify)."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Mercy to the sick; justice against deceit.", "concerns": "Nudity and sexual content; Christian imagery central."},
+  {"frame": "Hindu", "grade": "B", "weight": "Significant", "aligns": "A doctor's dharma kept despite suffering.", "concerns": "Tamasic cruelty and sexual violence."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Significant", "aligns": "Compassion for suffering; craving for status shown as harmful.", "concerns": "Violence and sexual aggression depicted."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Anti-prejudice, disability dignity, critique of medical hierarchy.", "concerns": "Sexual violence; suicide portrayal; 1970 depictions of Africa (to verify)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Reason and empathy versus careerism; what makes us human.", "concerns": "Pseudo-scientific disease; cruelty shown."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Integrity and duty of a physician.", "concerns": "Sexual content and gore; authority shown corrupt."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Significant", "aligns": "Healing ministry and care for the sick.", "concerns": "Impure and violent imagery."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Exposes hypocrisy in institutions, including religious ones.", "concerns": "Violence and immorality shown."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Identity beyond the body's appearance.", "concerns": "Dwelling on disease, fear and medical framing."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Inherent worth of every person regardless of appearance.", "concerns": "Sexual violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Harm done by the powerful condemned.", "concerns": "Sexual violence; Christian framing dominant."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity (makoto) of Kirihito against deceit.", "concerns": "Disease and death imagery (kegare)."},
+  {"frame": "Sikh", "grade": "A", "weight": "Significant", "aligns": "Seva to the sick; ego and greed of Tatsugaura condemned.", "concerns": "Lust shown in Urabe."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Significant", "aligns": "Oneness of humanity against prejudice.", "concerns": "Unchaste and violent scenes."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Self beyond the body.", "concerns": "Psychiatric and drug framing (to verify); violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Hypocrisy of religious and medical authority exposed.", "concerns": "Christian redemptive framing."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Pikuach nefesh and dignity of the sick.", "concerns": "Tzniut concerns; Christian imagery."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Significant", "aligns": "Healing and dignity; corruption exposed.", "concerns": "Sexual violence."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Justice against prejudice; tikkun olam.", "concerns": "Sexual violence; stereotypes (to verify)."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Worth shown as inherent, not appearance or rank (review)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Kirihito escapes captivity but keeps his doctor's discipline."},
+   "Civic vs kin": {"pos": 3, "evidence": "Care offered to strangers, villagers and the poor (review)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Medical hierarchy under Tatsugaura critiqued (review; AniList)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Medical science alongside Christian faith imagery (review)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Survival on the run balanced with conscience."}
+  },
+  "closest": ["The Midlands", "Yankeedom", "Quaker"],
+  "japan": "Critique of the rigid Japanese university-hospital hierarchy and the shame attached to disfigurement reflects 1970s Japanese social debates."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 6,
+  "evidence": "Reviewer: could be seen as 'heavy-handed allegory', 'nothing subtle' about its Christian imagery, but defends the bold style.",
+  "personified": [
+   {"character": "Dr. Tatsugaura", "ideology": "careerism and prestige in the medical establishment", "role": "Villain", "treatment": "Mixed"},
+   {"character": "Kirihito Osanai", "ideology": "medical humanism; dignity beyond appearance", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Sister Helen", "ideology": "Christian service through suffering", "role": "Other", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The reviewer calls the villains larger-than-life; Urabe begins self-serving and is given a divided, more rounded arc."
+ },
+ "winners_losers": "Kirihito keeps his humanity and his vocation; Tatsugaura's careerism and the institutions that shield it lose sympathy.",
+ "to_verify": [
+  "Ending and whether Tatsugaura is exposed.",
+  "Rape tag (MangaUpdates): who is involved and how it is framed.",
+  "Portrayals of the Middle East and Africa settings (MangaUpdates tags).",
+  "Drug content (AniList, MangaUpdates)."
+ ]
+}

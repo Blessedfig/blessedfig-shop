@@ -1,0 +1,91 @@
+{
+ "anilist_id": 98140,
+ "title": "Beauty and the Feast",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Beauty_and_the_Feast",
+  "https://anilist.co/manga/98140",
+  "https://www.mangaupdates.com/series/22nd1p8"
+ ],
+ "premise": "Shuko Yakumo, a 28-year-old widow, has drifted through life since her husband died. Her new neighbor, 15-year-old Shohei Yamato, lives alone as a baseball scholarship student surviving on convenience-store food. She starts feeding him dinner every day, rediscovering her love of cooking, while his huge appetite reminds her of her late husband; a slow romance develops.",
+ "life_message": "Caring for someone through everyday kindness, like a shared meal, can bring a grieving person back to life.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Grief for a dead spouse (Wikipedia)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Slow romance between a 28-year-old widow and a 15-year-old (Wikipedia; MangaUpdates Older Female Younger Male, Slow Romance); AniList tags Nudity and MangaUpdates Big Breasts (extent to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Adult drinking possible (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Grief and loss of appetite for life (Wikipedia, AniList blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "An adult and a teen spending evenings alone together; cooking is a positive model."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Convenience-store food vs home cooking."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Healing from grief; food as care; age-gap romance",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 3, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Feeding the hungry, a work of mercy, restores Yakumo.", "concerns": "Romance between an adult and a minor; nudity tag."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Hospitality and care for a neighbor.", "concerns": "Adult-minor romantic tension stirs the passions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Neighborly care and diligence in sport.", "concerns": "A widow's romance with a high schooler."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Love expressed through service.", "concerns": "Age-gap romance with a minor."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Restoration from grief.", "concerns": "Romance with a minor; nudity."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Ordinary vocation of cooking as love.", "concerns": "Seventh-commandment concern over adult-teen attraction."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbor-love in daily bread.", "concerns": "Impropriety of the pairing."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Works of mercy.", "concerns": "Boundaries between an adult and a youth."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Gentle story of grief and hospitality.", "concerns": "Romantic framing with a 15-year-old."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Simple meals and mutual aid.", "concerns": "Romance and nudity."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Service to a neighbor.", "concerns": "Law of chastity and youth protection."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Care for a lonely teen.", "concerns": "Adult-minor power imbalance."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Feeding others is highly honored.", "concerns": "A woman alone with an unrelated male; romance; nudity."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Annadana: giving food as merit.", "concerns": "Romance across age and propriety."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Generosity (dana) heals grief.", "concerns": "Possible sexual misconduct concern with a minor."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Grief and recovery handled warmly.", "concerns": "Adult-minor romance."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Human connection restores meaning.", "concerns": "Ethics of an adult courting a minor."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Home cooking and hard work in sport.", "concerns": "Propriety of the pairing."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Healthy eating over junk food.", "concerns": "Romance with a minor."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Immorality concern with a minor."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcoming grief.", "concerns": "Impure thought."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Interdependence and care.", "concerns": "Consent and age."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Hearth and nourishment honored.", "concerns": "Age imbalance."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Memory of the dead husband honored.", "concerns": "Pairing's propriety."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Langar spirit: sharing food freely.", "concerns": "Romantic overtones."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Service and kindness.", "concerns": "Chastity and age."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Helping another survive and thrive.", "concerns": "Little beyond age gap."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Enjoyment of life.", "concerns": "Harm to minors is a red line."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Hospitality (hachnasat orchim).", "concerns": "Yichud and tzniut; adult-minor romance."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Chesed through meals.", "concerns": "Pairing's propriety."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Care for the lonely.", "concerns": "Consent and age."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "No feuds; gentle neighbor story (Wikipedia)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Daily routines of meals and practice."},
+   "Civic vs kin": {"pos": 5, "evidence": "A neighbor becomes like family."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Adult-teen bond, though she takes a caretaker role."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Home cooking and memory of the dead in modern apartment life."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Rediscovering joy in cooking."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "Yankeedom"],
+  "japan": "High school baseball scholarships, apartment-neighbor etiquette and home cooking as care reflect Japanese everyday norms."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewers call it 'sweet' (Wikipedia reception); no stated lesson noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The healing message is carried by meals and small moments."
+ },
+ "winners_losers": "Yakumo recovers her joy and Yamato is nourished; their bond is framed sympathetically.",
+ "to_verify": [
+  "How far the romance goes and whether it waits until Yamato is an adult",
+  "Extent of nudity (AniList tag)",
+  "Square Enix age rating"
+ ]
+}

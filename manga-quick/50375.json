@@ -1,0 +1,95 @@
+{
+  "anilist_id": 50375,
+  "title": "Black Paradox",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Black_Paradox",
+    "https://anilist.co/manga/50375",
+    "https://api.mangaupdates.com/v1/series/69247394818"
+  ],
+  "premise": "Four strangers meet through a suicide website to die together, but their attempts keep failing: they meet their own doppelgangers, and one member briefly dies and returns vomiting glowing gems that turn out to be souls from another world. The gems make two of them rich, are classed as weapons, and a manipulative surgeon cultivates the members' body parts as portals to harvest them for energy; the volume adds two bonus stories (Wikipedia; Viz blurb via MU).",
+  "life_message": "Despair and greed both lead people into strange bondage; the story questions, without resolving, what makes life worth continuing.",
+  "overall": 8,
+  "content": [
+    {"category": "Violence", "score": 5, "framing": "Neutral", "note": "Stomach explodes, explosion kills a crowd, characters held captive (Wikipedia); AniList Body Horror 97%."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Doppelgangers, portals in bodies (Wikipedia); AniList Cosmic Horror; MU Dark Ambience, Insanity."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Doctor seduces women (Wikipedia); AniList Nudity 40%, Love Triangle."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 3, "framing": "Shown with consequences", "note": "Overdose of sleeping pills as a suicide method (Wikipedia)."},
+    {"category": "Mental health and self-harm", "score": 8, "framing": "Neutral", "note": "Group suicide by exhaust fumes and overdose is the premise (Wikipedia; AniList Suicide; MU Attempted Suicide)."},
+    {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Suicide website and methods shown (Wikipedia); safe-messaging concern."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Gems sold for profit as plot (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Nihilism", "strength": 5, "stance": "Explored"},
+    {"lens": "Absurdism", "strength": 5, "stance": "Explored"},
+    {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+    {"lens": "Utilitarianism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Consumerism", "strength": 3, "stance": "Critiqued"}
+  ],
+  "dominant": "Suicide and the value of life; souls as commodity; exploitation by doctor and state",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+  "foundations": {"care": 4, "loyalty": 4, "fairness": 5, "sanctity": 6, "authority": 3, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Shows souls commodified and life exploited, a dark picture of losing human dignity.", "concerns": "Suicide attempts as premise with methods shown; no hope frame."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Greed for gems mirrors spiritual decay.", "concerns": "Suicide and souls harvested; afterlife as resource."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Greed and manipulation exposed in Dr. Suka.", "concerns": "Suicide, souls and an otherworld outside Christian teaching."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Despair shown as a trap.", "concerns": "Suicide-pact framing; occult spirit world."},
+    {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Spirit world portals and doppelgangers; suicide."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Human greed corrupting all it touches.", "concerns": "Self-murder (WLC Q136) as premise."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Despair named honestly.", "concerns": "Suicide; no gospel comfort."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little to build up.", "concerns": "Suicide; body horror."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Literary horror listed by the ALA (Wikipedia).", "concerns": "Suicide content."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Suicide; horror media."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Characters lose the wish to die when life changes.", "concerns": "Suicide methods; spirit world."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Critiques exploitation of vulnerable people by doctor and state.", "concerns": "Suicide without mental-health frame."},
+    {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Suicide forbidden; souls traded."},
+    {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Atman-like souls as precious.", "concerns": "Suicide; souls exploited."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Craving and aversion as roots of suffering.", "concerns": "Suicide discouraged; dread."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Critique of exploitation by institutions.", "concerns": "Safe-messaging guidelines on suicide."},
+    {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Ethics of exploiting people for energy.", "concerns": "Suicide portrayal; supernatural souls."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Greed punished.", "concerns": "Suicide; nihilism."},
+    {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Souls of the dead conscious and harvested."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Immortal souls and spirit world; suicide."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Life continuing beyond death.", "concerns": "Fear and bodily horror."},
+    {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Explores meaning and despair.", "concerns": "Suicide content for youth."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Otherworld imagery.", "concerns": "Spirits harmed for profit."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Spirit-door wordplay (pylorus) from Japanese (Wikipedia).", "concerns": "Death impurity central."},
+    {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Greed and ego exposed.", "concerns": "Suicide discouraged."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Soul's value implied.", "concerns": "Suicide forbidden."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Immortal spirit theme.", "concerns": "Exploitation by a doctor; suicide."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Life lived now; dark aesthetics.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Suicide grave; spirit-world necromancy."},
+    {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Exploitation condemned.", "concerns": "Suicide content."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Critique of exploitation.", "concerns": "Suicide content."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "No honor contests; victims of manipulation (Wikipedia)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Characters act alone online, then are captured by state and doctor (Wikipedia)."},
+      "Civic vs kin": {"pos": 3, "evidence": "Strangers bonded by a website, not family (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Doctor and government exploit the four (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Souls treated as minerals and energy (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "Life and death and money dominate."}
+    },
+    "closest": ["The Midlands", "Catholic Europe", "Puritan"],
+    "japan": "Online group-suicide pacts and doppelganger omens reflect Japanese social anxieties and folklore of the 2000s."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 1,
+    "evidence": "Reviewers praise twists and how it handles suicide (CBR via Wikipedia); none cite a stated lesson.",
+    "personified": [
+      {"character": "Dr. Suka", "ideology": "people as resources for energy and profit", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "None shown",
+    "note": "Themes of despair and exploitation are left to readers' inference."
+  },
+  "winners_losers": "No one clearly wins; the four are used by Dr. Suka and the state, who face future blame. Sympathy is muted for all.",
+  "to_verify": [
+    "Content of bonus stories 'The Licking Woman' and 'Mystery Pavilion'",
+    "Viz age rating",
+    "How methods of suicide are drawn"
+  ]
+}

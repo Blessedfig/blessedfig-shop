@@ -1,0 +1,91 @@
+{
+  "anilist_id": 98858,
+  "title": "My Boy",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/My_Boy_%28manga%29",
+    "https://anilist.co/manga/98858",
+    "https://www.mangaupdates.com/series/nmfc23b",
+    "https://aiptcomics.com/2018/04/10/my-boy-vol-1-review/"
+  ],
+  "premise": "Satoko Tawada, a 30-year-old office worker hurt by her boss and former lover, meets 12-year-old Mashu Hayami practicing soccer alone in a park and begins coaching him. Both are lonely, and Mashu's home life with a high-handed, uninvolved father is troubled. When his father objects to their bond she is transferred away; years later they reunite, Mashu confesses and is turned down because she is an adult and he a child, and Satoko faces that she simply wants to be by his side.",
+  "life_message": "Two lonely people can give each other refuge, but the story leaves open, and troubling, what that bond should become.",
+  "overall": 5,
+  "content": [
+    {"category": "Violence", "score": 1, "framing": "Neutral", "note": "No violence reported."},
+    {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Quiet emotional drama (AIPT review)."},
+    {"category": "Sexuality and romance", "score": 5, "framing": "Shown with consequences", "note": "Emotionally intense, ambiguous bond between an adult woman and a boy who later confesses love (Wikipedia; MU Age Gap, Student-Adult Relationship). Volume 1 is non-romantic per AIPT; sexual content not reported."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Adults go out drinking (Wikipedia)."},
+    {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Loneliness, emotional numbness and a neglectful home after the mother's death (AIPT; Wikipedia; MU Negligent Parents)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "An adult forming a private close bond with a child outside his family; the father's complaint gets her transferred (Wikipedia)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Sporting goods company setting only."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+    {"lens": "Expressive individualism", "strength": 4, "stance": "Explored"},
+    {"lens": "Secular humanism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Existentialism; Expressive individualism",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+  "foundations": {"care": 8, "loyalty": 5, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Takes neglected children's loneliness seriously; Satoko initially refuses Mashu's confession.", "concerns": "Romantic longing between an adult and a minor is left sympathetically ambiguous; parental authority bypassed."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Shows the ache of loneliness and need for love.", "concerns": "Disordered attachment between adult and child is explored without clear correction."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Exposes a father's neglect.", "concerns": "Adult-child emotional romance; undermining the father's authority."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Compassion for a hurting boy.", "concerns": "Ambiguous romantic bond with a minor."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Healing of wounded hearts.", "concerns": "Boundaries between adult and child."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Honest picture of loneliness and self-deception (Satoko admits her pretext).", "concerns": "Fifth commandment and sexual-ethics concerns."},
+    {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Satoko confesses her real motives, a moment of honesty.", "concerns": "Adult-minor romance theme."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Concern for a neglected child.", "concerns": "Boundary violation framed tenderly."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Literary, morally complex treatment of loneliness.", "concerns": "Ambiguous adult-child romance."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Gentle, nonviolent story of care.", "concerns": "Inappropriate attachment; separation from family authority."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Care for a lonely child.", "concerns": "Romantic feelings across adult-child line."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Attention to neglected children and lonely adults.", "concerns": "Power imbalance and grooming-like dynamics need discussion."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Mercy toward an orphaned child (motherless).", "concerns": "Unrelated adult woman and boy alone; romance."},
+    {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Compassion and teaching (soccer coaching).", "concerns": "Undermines father's authority; improper attachment."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Craving and attachment as source of suffering is visible.", "concerns": "Possible sexual-misconduct implications."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Takes child neglect and loneliness seriously.", "concerns": "Adult-minor relationship risks normalizing grooming patterns."},
+    {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Psychologically honest about motives.", "concerns": "Consent and power between adult and child."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Satoko's initial refusal acknowledges the line.", "concerns": "Parental authority undermined; adult-child romance."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Care and physical activity.", "concerns": "Improper adult-child bond."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Shows harm of absent parenting.", "concerns": "Romance with a minor."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love lifting loneliness.", "concerns": "Confused affection."},
+    {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Worth of a neglected child.", "concerns": "Consent and safeguarding concerns."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Emotional honesty.", "concerns": "Sex positivity is for consenting adults only."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Sincere feelings; Sendai and Tokyo settings.", "concerns": "Family harmony disrupted."},
+    {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Seva toward a struggling child.", "concerns": "Attachment (moh) and improper relationship."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Concern for a child's education and home.", "concerns": "Chastity and parental consent principles."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Affinity and communication.", "concerns": "Second dynamic boundaries."},
+    {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Honest pursuit of desire.", "concerns": "Harm to children condemned in Eleven Rules."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Concern for an orphan.", "concerns": "Yichud and tzniut; adult-minor romance."},
+    {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Compassion for a lonely child.", "concerns": "Adult-minor romantic bond."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Empathy for both leads.", "concerns": "Consent and safeguarding."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "No honor conflicts; disputes go to the employer, who transfers Satoko."},
+      "Order vs freedom": {"pos": 6, "evidence": "Satoko follows her heart against social and parental objections."},
+      "Civic vs kin": {"pos": 5, "evidence": "Family neglect versus chosen bond; Satoko's sister supports her."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Father's and boss's authority shown as harsh or self-serving."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern urban office life, no religious frame."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Emotional need and personal fulfillment drive choices."}
+    },
+    "closest": ["The Midlands", "Catholic Europe", "Yankeedom"],
+    "japan": "Workplace transfers as discipline, cram schools and office-lady life reflect Japanese corporate and school norms."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "AIPT praises restraint and foreshadowing that is not heavy-handed.",
+    "personified": [],
+    "opposing_views": "Mixed",
+    "note": "The story withholds judgment and lets readers weigh the relationship themselves."
+  },
+  "winners_losers": "Satoko and Mashu are both sympathetic; Mashu's father and Satoko's ex-boss are cast as self-serving authority figures.",
+  "to_verify": [
+    "Whether the relationship becomes romantic or physical after the time skip, and how the ending frames it.",
+    "Reviews opened cover volume 1 only."
+  ]
+}

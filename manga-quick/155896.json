@@ -1,0 +1,96 @@
+{
+ "anilist_id": 155896,
+ "title": "Dragon and Chameleon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/155896",
+  "https://www.mangaupdates.com/series/my5ntuk",
+  "https://api.mangadex.org/manga/8b1d7ca0-6b34-415c-96c8-f3ffd460e932",
+  "https://animenewsnetwork.com/seasonal/2024/fall/dragon-and-chameleon/.216605"
+ ],
+ "premise": "Garyo Hanagami is a best-selling, acclaimed manga artist; Shinobu Miyama is his bitter assistant with a knack for copying others' styles. An accident swaps their bodies, and Miyama happily takes Hanagami's place, forcing the veteran to rebuild his career from nothing in a rivalry over what makes real art.",
+ "life_message": "It holds up wholehearted devotion to one's craft as the source of real creative worth.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Little noted; MU lists Action genre (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Psychological rivalry (MU Psychological)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "A female assistant's bust-size gag (ANN reviewer); MangaDex suggestive."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Little noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Envy and obsession; MU 'Crazy Character/s'."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "ANN reviewer says the book praises going without food or sleep as true dedication (to verify)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Manga-industry sales and fame as stakes."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Classical virtue ethics (excellence in craft), Existentialism, Expressive individualism",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 7, "sanctity": 4, "authority": 5, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Hanagami's humility in rebuilding from nothing; envy shown as a vice in Miyama.", "concerns": "Work idolized to the neglect of rest and health; a bust-size gag."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Envy and pride exposed as passions through Miyama.", "concerns": "Ambition over balance; no rest."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Honest work versus stealing another's identity and credit.", "concerns": "Body-swap supernatural premise; sleepless work glorified."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Good talk on envy, imitation and identity.", "concerns": "Overwork praised; shallow female characters per review."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Perseverance after loss.", "concerns": "Unexplained supernatural swap."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Vocation and diligence; eighth commandment theme of stolen credit.", "concerns": "Sabbath-less work ethic."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation as service through art.", "concerns": "Worth tied to output; little grace."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Diligence and fairness.", "concerns": "Do-no-harm to oneself ignored in overwork."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Creative gifts taken seriously.", "concerns": "Industry critique thin per review."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Minor", "aligns": "No violence.", "concerns": "Pride and fame as central goals."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Hard work and developing talents.", "concerns": "Health neglect, against Word of Wisdom spirit."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Fairness: credit belongs to the true creator.", "concerns": "Unhealthy labor norms in the manga industry left unexamined."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Honesty and earning by one's own work.", "concerns": "Immodest gag; supernatural swap."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Svadharma: doing one's own work, not another's.", "concerns": "Ego and fame."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Envy as source of suffering; identity questioned.", "concerns": "Craving for fame drives both leads."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Questions about labor in the manga industry.", "concerns": "Glorified overwork; women written thinly per ANN review."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Creativity and skill as human achievements.", "concerns": "Health sacrificed for work."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Hard work, earned merit and perseverance.", "concerns": "Mild crude humor."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Minor", "aligns": "Diligence.", "concerns": "No rest or health balance."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Honesty versus deceit.", "concerns": "Supernatural swap; ambition."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Identity is more than the body, shown by the swap.", "concerns": "Material ambition."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Search for authentic self and voice.", "concerns": "Overwork norms."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "What you send out returns, as Miyama's theft may.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity in one's craft.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Kirat karni: honest work.", "concerns": "Ego (haumai) central."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Art as service and excellence.", "concerns": "Fame-seeking."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Artist's role and competence praised.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-assertion and ambition.", "concerns": "Little within its frame."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Honest labor; credit to its source.", "concerns": "Immodest gag; bittul Torah question."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Integrity in work.", "concerns": "Overwork."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethics of credit and imitation.", "concerns": "Unhealthy labor norms."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Hanagami must personally 'reclaim his throne' from the rival who replaced him (Square Enix blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Industry structures matter, but the rivalry is personal."},
+   "Civic vs kin": {"pos": 3, "evidence": "No family focus; competition within a professional field."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Master-assistant rank in a manga studio and the 'pinnacle' of the industry (MangaDex; MU)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Secular, professional world; the swap is unexplained (to verify)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Endless hard work praised over rest (ANN review), while art is self-expression."}
+  },
+  "closest": ["Catholic Europe", "Orthodox Europe", "Yankeedom"],
+  "japan": "Reflects Japanese manga-industry norms of long hours, assistants serving under a master artist, and deference to senior creators."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN reviewers do not call it preachy; one finds its industry commentary 'incurious'.",
+  "personified": [
+   {"character": "Garyo Hanagami", "ideology": "total devotion to craft as true artistry", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Shinobu Miyama", "ideology": "imitation and envy in pursuit of fame", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The rivalry carries the debate about originality, with Miyama written as 'deliciously hateable' per one reviewer."
+ },
+ "winners_losers": "Sympathy goes to Hanagami's devotion to craft; Miyama's copying and envy are cast as the wrong path (series ongoing).",
+ "to_verify": [
+  "Imitable-behavior score rests on one ANN reviewer's reading that sleeplessness is glorified.",
+  "Series ongoing; Miyama's arc may become more sympathetic later.",
+  "MU lists Action and Psychological genres; violence not described."
+ ]
+}

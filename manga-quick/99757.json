@@ -1,0 +1,94 @@
+{
+  "anilist_id": 99757,
+  "title": "Smile Down the Runway",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/99757",
+    "https://api.mangaupdates.com/v1/series/45726477808",
+    "https://en.wikipedia.org/wiki/Smile_Down_the_Runway",
+    "https://theoasg.com/reviews/manga/smile-down-the-runway-volumes-1-and-2-review/17741"
+  ],
+  "premise": "Chiyuki, daughter of a fashion-company owner, dreams of walking in Paris despite being too short for runway modeling, and recruits her poor classmate Ikuto, who has shelved his dream of designing clothes to support his mother and sisters. Both pursue their goals in the fashion industry against people who say they can't (Kodansha blurb; Wikipedia; OASG review).",
+  "life_message": "Talent plus relentless hard work can overcome physical limits, poverty and doubters; dreams are worth pursuing.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Competitive pressure only."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Light romance between the leads (Wikipedia; OASG 'ship-teasing'); modeling settings."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (OASG)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Self-consciousness about height (Kokoro), financial stress (Wikipedia)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Body standards of modeling discussed (to verify)."},
+    {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Fashion industry and brands at the center (AniList Fashion)."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Consumerism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Pursuing dreams through hard work; family responsibility; perseverance",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 6, "loyalty": 6, "fairness": 6, "sanctity": 2, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Ikuto's sacrifice for his family; work as vocation.", "concerns": "Vanity of fashion world; modeling modesty (to verify)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Diligence and care for family.", "concerns": "Pride and outward beauty."},
+    {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Hard work, perseverance, providing for siblings.", "concerns": "Modeling outfits (to verify)."},
+    {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Perseverance; using one's gifts.", "concerns": "Little to raise."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Faithful effort.", "concerns": "Worldliness of fashion."},
+    {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation and diligent craftsmanship.", "concerns": "Little to raise."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation serving family and neighbor.", "concerns": "Little to raise."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Diligence and kindness.", "concerns": "Little to raise."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Creative gifts as calling.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Family duty and hard work.", "concerns": "Fashion and display opposed to plainness."},
+    {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Self-reliance and family support.", "concerns": "Modesty of outfits (to verify)."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Class barriers named and overcome.", "concerns": "Body-image pressures."},
+    {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Supporting family; honest work.", "concerns": "Modeling and immodest dress."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Duty to family as eldest son.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Right effort and livelihood.", "concerns": "Attachment to ambition and appearance."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Challenges height and class gatekeeping.", "concerns": "Beauty standards."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Self-made success through skill.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Work ethic and family responsibility.", "concerns": "Little to raise."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Diligence and simplicity of family life.", "concerns": "Adornment focus."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Industrious, clean storyline.", "concerns": "Worldly ambition."},
+    {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Limitations overcome by persistence.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth not set by body or class.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal will and creativity.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity and craft dedication.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work (kirat karni).", "concerns": "Little to raise."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Work as worship; service to family.", "concerns": "Little to raise."},
+    {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Competence and goals.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Ambition and self-assertion.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Supporting family through honest work.", "concerns": "Tzniut in modeling."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Diligence and family duty.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Overcoming barriers.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Disputes settled by competition and work, not honor (Wikipedia)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Leads defy industry rules like the height minimum (Wikipedia)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Ikuto supports mother and sisters (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Mentors and rivals; poor boy rises in an elite field."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern commercial fashion world."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Financial survival versus creative dreams (Wikipedia)."}
+    },
+    "closest": ["English-speaking", "Yankeedom", "Catholic Europe"],
+    "japan": "The eldest son's duty to provide for his family and the shonen value of effort (doryoku) frame Ikuto's story, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "Publisher blurb frames it as dreams against negativity; OASG notes no moralizing (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Doubters appear as obstacles in the career plot rather than as a worldview."
+  },
+  "winners_losers": "Chiyuki and Ikuto advance their dreams; sympathy goes to perseverance over gatekeeping.",
+  "to_verify": [
+    "Final outcomes for both leads",
+    "Any modeling scenes with revealing outfits",
+    "OASG reviewer found it weak on fashion detail; only one review opened",
+    "Kodansha USA digital release; age rating"
+  ]
+}

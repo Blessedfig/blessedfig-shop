@@ -1,0 +1,91 @@
+{
+ "anilist_id": 100331,
+ "title": "The Golden Sheep",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/100331",
+  "https://api.mangaupdates.com/v1/series/2141444260",
+  "https://aiptcomics.com/2019/10/07/golden-sheep-vol-1-review/"
+ ],
+ "premise": "Guitar-loving high-schooler Tsugu Miikura returns to her rural hometown and reunites with childhood friends Sora, Yuushin and Asari, with whom she buried a wish-filled time capsule. She finds the bonds have cracked: shy Sora is being bullied, and Yuushin is among those tormenting him (Kodansha blurb via AniList; MU; AIPT review of volume 1).",
+ "life_message": "Friendship has to be fought for honestly as people change, and standing up for the bullied matters.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Condemned", "note": "Bullying torment of Sora (AIPT); MU Boxing. Graphic level not reported."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Emotional tension, friends turning into enemies (MU Friends Become Enemies)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Love polygon among friends and partial nudity (MU)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Taunting by bullies (AIPT); profanity not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Sustained bullying of Sora, his anxiety and 'learned helplessness' (AIPT; AniList Bullying; MU bullying). AniList also has a low-ranked Suicide tag (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Bullying by a friend; MU Runaway/s."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None reported."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Coming of age; changing friendships; bullying and complicity",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 7, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Tsugu's care for the bullied Sora reflects dignity of every person.", "concerns": "Bullying cruelty; possible suicide theme (to verify)."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Repentance needed for Yuushin's cruelty.", "concerns": "Partial nudity; despair."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Bullying shown as sin against a neighbor.", "concerns": "Teen romance tangles; runaway theme."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Opens talk on standing up for the weak.", "concerns": "Dark emotional content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Compassion for the oppressed.", "concerns": "Wish-capsule superstition is light."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Honest picture of sin among friends.", "concerns": "Partial nudity."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Loving the neighbor who suffers.", "concerns": "Bullying intensity."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Social holiness: defending the bullied.", "concerns": "Emotional darkness."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Moral vision of friendship and justice.", "concerns": "Bullying scenes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Community bonds and reconciliation.", "concerns": "Boxing and fighting (MU)."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Kindness and friendship.", "concerns": "Partial nudity; runaways."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Focus on bullying and the vulnerable.", "concerns": "Mental-health framing needed."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Justice and kindness to the weak.", "concerns": "Mixed-gender romance; partial nudity."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty to friends.", "concerns": "Cruelty depicted."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Impermanence of childhood bonds.", "concerns": "Harm and harsh speech."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Honest portrayal of bullying and anxiety.", "concerns": "Safe messaging if suicide appears."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy and moral courage.", "concerns": "Bullying depicted."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Loyalty and hometown roots.", "concerns": "Runaway theme."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Care for the hurting.", "concerns": "Emotional intensity."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Bad associations shown to harm.", "concerns": "Teen romance; boxing."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Love overcoming fear.", "concerns": "Dwelling on cruelty."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth and dignity of Sora.", "concerns": "Bullying depicted."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "'Harm none' tested by friends.", "concerns": "Cruelty."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Hometown and sincere bonds (makoto).", "concerns": "Discord."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Courage to defend the oppressed.", "concerns": "Ego and cruelty shown."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity and kindness.", "concerns": "Backbiting and bullying depicted."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Honest communication among friends.", "concerns": "Harm depicted."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility; Tsugu acts on her own judgment.", "concerns": "Harm to young people."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Lashon hara and cruelty shown as wrong.", "concerns": "Partial nudity; romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Chesed and moral courage.", "concerns": "Bullying depicted."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice for the bullied.", "concerns": "Bullying depicted."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Conflict among friends, not honor codes (AIPT)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Teens act outside adult control; runaways (MU)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Complicated families and childhood friends (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Peer group dynamics; bully and bullied (AIPT)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Hometown legend of Sheep Tower wishes (Kodansha blurb)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Tsugu's guitar and dreams (Kodansha blurb; MU Dream/s)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "Yankeedom"],
+  "japan": "Reflects Japanese rural-hometown nostalgia and school ijime (bullying) dynamics, described here as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "AIPT praises emotive expressions that 'convey key information without text'; no lecturing reported.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes come through character moments and faces rather than speeches."
+ },
+ "winners_losers": "Sora and Tsugu get the sympathy; bullying, including by a childhood friend, is shown as the wrong (AIPT).",
+ "to_verify": [
+  "AniList Suicide tag (rank 20) and whether self-harm appears in volumes 2-3.",
+  "How the bullying arc resolves; review covers volume 1 only.",
+  "Extent of partial nudity (MU)."
+ ]
+}

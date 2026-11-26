@@ -1,0 +1,90 @@
+{
+ "anilist_id": 169100,
+ "title": "MamaYuyu",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/169100",
+  "https://api.mangaupdates.com/v1/series/9136208692",
+  "https://api.mangadex.org/manga?title=Mama Yuuyuu (record 3148a516-751b-4e42-95e3-caaea40ad3f0)"
+ ],
+ "premise": "In a world where the hero and the demon lord have made peace, the hero Corleo has become an empty figurehead. When a hero and a demon lord from another world suddenly appear, Corleo must deal with the chaos they bring. A four-volume Weekly Shonen Jump fantasy that MU lists as ended early.",
+ "life_message": "Unclear from sources; it appears to ask what a hero is for once peace has come.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Fantasy action (genres Action, Fantasy; AniList Swordplay); details unknown (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Drama genre; invaders from another world."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "AniList Female Harem (spoiler, low rank); MangaDex safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Hero as 'empty suit' suggests loss of purpose (publisher blurb)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing indicated."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "AniList Idol tag (spoiler, low rank)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Existentialism (purpose after peace), Might makes right (explored)",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 4, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Peace between old enemies as the starting point.", "concerns": "Demon lords as protagonists' peers; content largely unknown."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Peace valued over war.", "concerns": "Demon lords shown as ordinary figures."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Hero facing disorder.", "concerns": "Demons and magic normalized."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Question of purpose for an idle hero.", "concerns": "Demon imagery; content unknown."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little known.", "concerns": "Demon lords at peace with humans, blurring spiritual warfare."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Vocation questioned when a role becomes empty.", "concerns": "Magic and demons."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation after the war is over.", "concerns": "Fantasy demons, usually accepted."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Peace as the good to be kept.", "concerns": "Fantasy action."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Story weighs what heroism means in peace.", "concerns": "Little known."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Peace between hero and demon lord is the status quo.", "concerns": "Action fighting likely when invaders arrive."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Purpose and service.", "concerns": "Content details unknown."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Peace between former enemies.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Peace and order.", "concerns": "Demon lords and magic shown positively."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "A warrior's dharma when war has ended.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Emptiness of status and role.", "concerns": "Fighting."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Questions hero myths.", "concerns": "Little known."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Meaning made by choice, not role.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Duty of a hero in times of order.", "concerns": "Possible mockery of hero ideals (to verify)."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Peace valued.", "concerns": "Demons and magic."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Peace valued.", "concerns": "Demon characters and spells."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming confusion.", "concerns": "Demons."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Coexistence of former foes.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Demon lord not simply evil.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony between beings.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Warrior serving peace.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity after conflict.", "concerns": "Fantasy violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Finding purpose.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Demon lord as a peer rather than a monster.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Peace (shalom) between enemies.", "concerns": "Demons and sorcery."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Peace valued.", "concerns": "Fantasy, generally accepted."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Peace and coexistence.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Hero's status hollow; honor not stressed in sources."},
+   "Order vs freedom": {"pos": 5, "evidence": "Peaceful order disrupted by invaders (MANGA Plus blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "No family focus in sources."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Hero and demon lord as equals in peace."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Questions the inherited hero role."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Little in sources."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Playing with the 'hero and demon lord' formula draws on Japanese role-playing-game conventions familiar to shonen readers."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review or summary beyond the publisher blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Too little is known to describe how the message is delivered."
+ },
+ "winners_losers": "Not known from sources.",
+ "to_verify": [
+  "Almost no plot detail available; all scores conservative.",
+  "MU lists the series as cancelled/axed after 4 volumes.",
+  "AniList spoiler tags (Female Harem, Idol, Shapeshifting) unconfirmed."
+ ]
+}

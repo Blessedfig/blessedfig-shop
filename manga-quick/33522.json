@@ -1,0 +1,93 @@
+{
+ "anilist_id": 33522,
+ "title": "Kieli",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/33522",
+  "https://www.mangaupdates.com/series/sv9lsbb"
+ ],
+ "premise": "Eighty years after a war in which immortal soldiers called the Undying, made from battlefield corpses, were wiped out 'in the name of God' by those they served, orphaned 14-year-old Kieli, who can see ghosts, doubts that God exists (Yen Press blurbs via AniList and MangaUpdates). She meets Harvey, an Undying, and his possessed radio, and travels with him, which forces her to rethink the meaning of faith. A two-volume manga adaptation of a light novel, listed as cut short.",
+ "life_message": "It suggests that real compassion matters more than religious hypocrisy, and that faith must be examined honestly.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "Backstory of a bloody war and extermination; Harvey is hunted (blurb; MangaUpdates Hunted Protagonist)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Ghosts, undead and a dark atmosphere (MangaUpdates Ghost/s, Undead, Dark Ambience; AniList Ghost)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Subtle romance between 14-year-old Kieli and an ageless undead man; non-sexual per tags (MangaUpdates Subtle Romance, Older Male Younger Female; to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Harvey is blunt (MangaUpdates); not described."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Loneliness, orphanhood and trauma (MangaUpdates Loneliness, Traumatic Past)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "A young girl leaves to travel with a stranger (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Light-novel adaptation."}
+ ],
+ "lenses": [
+  {"lens": "Christian", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Questioning religious hypocrisy, faith and doubt, ghosts and the undead",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 4},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 7, "sanctity": 4, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Condemns cruelty done 'in the name of God' and seeks real faith.", "concerns": "Church shown as hypocritical; spirits of the dead as companions."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Honest struggle with faith.", "concerns": "Necromantic undead and ghost contact; church critique."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Exposes religious hypocrisy, a biblical theme.", "concerns": "God's existence doubted; ghosts and undead."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Opens talk about faith versus religious institutions.", "concerns": "Spirits of the dead shown as real."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Compassion for the outcast.", "concerns": "Spirit contact and undead as heroes."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Critique of false religion has Reformation echoes.", "concerns": "Ghosts; doubt left open."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Faith tested and examined.", "concerns": "Spirits and undead."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love for the rejected Undying.", "concerns": "Ghost contact; doubt."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Thoughtful fantasy about faith and hypocrisy.", "concerns": "Ghosts judged by framing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Critique of violence by religious powers resonates with martyr history.", "concerns": "Spirits and undead; war backstory."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Sincere search for whether God exists.", "concerns": "Spirit contact; older-younger pairing."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Critique of violence in God's name; compassion for the othered.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Condemns injustice and hypocrisy.", "concerns": "Doubt of God; contact with spirits."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Souls lingering after death familiar.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion for wandering spirits unaware of their deaths.", "concerns": "War killing in backstory."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Critique of institutional religious violence.", "concerns": "Young girl with an adult-looking companion."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Skepticism toward religious authority.", "concerns": "Ghosts presented as real within story."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and courage.", "concerns": "Religion mocked as hypocritical; girl traveling with a man."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Opposes cruelty in God's name.", "concerns": "Ghosts of the dead active, contrary to death as sleep."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Exposes false religion's violence.", "concerns": "Spiritism and undead."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Life persisting beyond apparent death.", "concerns": "Spiritualism rejected as error."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free and responsible search for meaning; compassion for the outcast.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Spirits of the dead treated with care.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Restless spirits and honoring the dead.", "concerns": "Corpses and death (kegare)."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Rejects hypocrisy in religion.", "concerns": "Superstition and spirits."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Opposes religious violence.", "concerns": "Spiritualism."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spirits persist beyond the body.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Challenges arbitrary religious authority.", "concerns": "Little at odds."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Condemns hypocrisy and killing in God's name.", "concerns": "Necromancy-like contact with the dead."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Questioning faith honestly.", "concerns": "Spirits of the dead."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical critique of religious violence.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Injustice to the Undying rather than personal honor (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Kieli leaves school life to travel (blurb; MangaUpdates Travel/Journey)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Orphan building a bond with one companion (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Questions church authority (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Doubts God amid religious hypocrisy (blurb)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Searching for meaning in a harsh world (blurb; AniList Dystopian)."}
+  },
+  "closest": ["Catholic Europe", "The Far West", "The Midlands"],
+  "japan": "A Japanese light-novel fantasy with a Western-style church setting; little specifically Japanese custom appears in the sources."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb frames faith questions as Kieli's journey; no review opened (to verify).",
+  "personified": [
+   {"character": "Kieli", "ideology": "Doubt toward a hypocritical religious establishment", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Whether believers other than the hypocrites appear is not known from the sources."
+ },
+ "winners_losers": "Sympathy goes to Kieli and the persecuted Undying; the religious powers that exterminated them are criticized (to verify).",
+ "to_verify": [
+  "Whether the manga shows any sincere believers or only hypocrisy; could be Strawman.",
+  "Nature of the Kieli-Harvey relationship (MangaUpdates Subtle Romance; Kieli is 14).",
+  "AniList start year 2005 versus MangaUpdates 2006; same creators, so treated as same work.",
+  "The two-volume manga adapts only part of the light novels (MangaUpdates Axed)."
+ ]
+}

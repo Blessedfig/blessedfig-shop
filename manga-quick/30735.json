@@ -1,0 +1,87 @@
+{
+ "anilist_id": 30735,
+ "title": "Black Lagoon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://en.wikipedia.org/wiki/Black_Lagoon", "https://anilist.co/manga/30735", "https://www.mangaupdates.com/series/6gl8o64"],
+ "premise": "Japanese salaryman Rokuro 'Rock' Okajima is taken hostage by modern-day pirates, then abandoned by his company and joins them. The Lagoon Company, led by Dutch with gunfighter Revy and mechanic Benny, smuggles goods around Southeast Asia from Roanapur, a Thai port city run by Russian, Chinese, Italian and Colombian syndicates. Jobs spiral into gunfights, naval battles and gang wars, and Rock drifts deeper into the city's morality.",
+ "life_message": "It holds up no clear good life; it asks how far an ordinary person can sink into a world where violence is the only law.",
+ "overall": 9,
+ "content": [
+  {"category": "Violence", "score": 9, "framing": "Neutral", "note": "Relentless gunfights, executions and gore across arcs (Wikipedia; AniList Gore, Assassins, Guns)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Child killers in the twins arc, cartel and Cold War backstories (Wikipedia; AniList Tragedy)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MangaUpdates lists Nudity and Rape; capped as not confirmed by a second kind of source (to verify; likely understated)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Profanity-heavy gangster dialogue widely reported; capped (to verify; likely understated)."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Heavy drinking and smoking by Revy and others; capped (to verify; likely understated)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Revy's traumatic past and damaged child assassins; capped (to verify)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Neutral", "note": "Smuggling, gun violence and crime as everyday work (Wikipedia; AniList Crime, Mafia, Triads, Yakuza)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Real firearms named and fetishized (to verify)."}
+ ],
+ "lenses": [
+  {"lens": "Nihilism", "strength": 7, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 7, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Lawless realism; nihilism versus a fading conscience; violence as currency",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 4},
+ "foundations": {"care": 3, "loyalty": 6, "fairness": 3, "sanctity": 2, "authority": 4, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Rock's lingering conscience and the twins' tragedy show what abuse does to children.", "concerns": "Gratuitous violence, sexual violence and crime with little hope."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Little to note beyond Rock's moral unease.", "concerns": "Passions of wrath and despair glamorized."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Profanity, drunkenness, gore and sexual violence."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Honest picture of a fallen world without God.", "concerns": "Glamorized gunplay and cruelty."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence, profanity and darkness throughout."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Total depravity unsparingly shown in Roanapur.", "concerns": "Sin often made stylish."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "The law's absence shows why order matters.", "concerns": "Graphic content."},
+  {"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Drinking, violence and crime."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Moral ambiguity examined in Rock's choices.", "concerns": "Gore and sexual violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence as heroic competence."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol, tobacco, profanity and violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Shows victims of war, trafficking and abuse.", "concerns": "Violence and sexual violence as spectacle."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol, violence, immodesty."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Karma's return in characters' fates.", "concerns": "Tamasic violence."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Cycles of violence breed suffering.", "concerns": "Killing and intoxicants celebrated."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Women as capable leaders; critique of state violence.", "concerns": "Glorified gun violence and sexual violence."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Unflinching study of moral collapse.", "concerns": "Cruelty."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyalty within the crew.", "concerns": "Glamorized crime and profanity."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence, alcohol and tobacco."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and immorality."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Fear, death and degradation."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Multicultural cast and critique of power.", "concerns": "Glorified violence."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Personal codes of honor among outlaws.", "concerns": "Harm everywhere."},
+  {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Rock's Japanese roots tested in the yakuza arc.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Courage under fire.", "concerns": "Violence for gain, alcohol and tobacco."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and alcohol."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Survival instinct.", "concerns": "Murder and harm."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Self-reliant outlaws rejecting conventional morality.", "concerns": "Harm to children."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Gore, vulgarity and immodesty."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Moral questions raised.", "concerns": "Violence and vulgarity."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Exposes trafficking and war's victims.", "concerns": "Glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 9, "evidence": "Insults are answered with bullets; Revy's code is personal retaliation."},
+   "Order vs freedom": {"pos": 9, "evidence": "Roanapur has no law but syndicate balance; freedom from all authority."},
+   "Civic vs kin": {"pos": 7, "evidence": "Loyalty to the crew and one's syndicate over any public."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Syndicates like Hotel Moscow run on military-style rank."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Cynical, transactional worldview; religion appears as a gun-running church."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Money and staying alive come first for everyone."}
+  },
+  "closest": ["The Far West", "Borderer", "Orthodox Europe"],
+  "japan": "Rock's salaryman background and the yakuza arc contrast Japanese corporate conformity and giri (duty) with Roanapur's lawlessness."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No source checked comments on how the message is delivered; carried by plot per entry summary (to verify)",
+  "personified": [
+   {"character": "Rock", "ideology": "a fading conscience in a lawless world", "role": "Hero", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Its question of how far an ordinary person sinks is carried by Rock's drift rather than stated."
+ },
+ "winners_losers": "The most ruthless and adaptable survive; children, idealists and civilians lose. Sympathy goes to the Lagoon crew's outlaw loyalty, while Rock's descent is left ambiguous.",
+ "to_verify": ["Sexual violence depiction (MU Rape category) and nudity level", "Profanity level in Viz edition", "Drinking and smoking frequency", "Abuse backstory in the Hansel and Gretel arc", "Viz age rating"]
+}

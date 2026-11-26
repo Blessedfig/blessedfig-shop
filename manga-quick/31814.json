@@ -1,0 +1,357 @@
+{
+ "anilist_id": 31814,
+ "title": "Switch Girl!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31814",
+  "https://api.mangaupdates.com/v1/series/57741095273"
+ ],
+ "premise": "Nika is a stylish, popular high schooler who 'switches on' a perfect image at school but is a sloppy, cranky homebody when 'off' (MANGA MILLION blurb; MU). Her balance is threatened when someone discovers her secret. 25 volumes; tags list blue humor, sexual innuendo and partial nudity.",
+ "life_message": "Being liked for your real self matters more than keeping up a perfect image.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Light."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Romance with sexual innuendo, partial nudity (MU); MangaDex suggestive (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Crude \"blue\" humor (MU)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Childhood trauma (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Two-faced image management."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fashion and beauty routines."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Authenticity; image; romance",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honesty about the real self.",
+   "concerns": "Sexual innuendo; nudity."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Exposes vanity.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthfulness.",
+   "concerns": "Sexual humor."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Authenticity.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Exposes vanity.",
+   "concerns": "Sexual humor."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Image versus reality.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-acceptance.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Crude humor."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Comedy.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rejects vanity.",
+   "concerns": "Worldly fashion; innuendo."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-acceptance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Immodesty; innuendo."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truthfulness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Letting go of image.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Authenticity; body confidence.",
+   "concerns": "Beauty pressure."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-acceptance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Simplicity over vanity.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Sexual humor."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Seeing truth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Authenticity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity (makoto).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Truthfulness.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-honesty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty.",
+   "concerns": "Tzniut; innuendo."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honesty.",
+   "concerns": "Innuendo."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Authenticity.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Image management, no vendettas."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal choices at home."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Friends."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "School popularity."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern teens."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-expression."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "New France"
+  ],
+  "japan": "Public versus private face (tatemae and honne) is a Japanese social concept the premise plays with, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No reviews read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Authenticity shown through comedy."
+ },
+ "winners_losers": "Nika's real self wins acceptance (to verify).",
+ "to_verify": [
+  "Sexual innuendo level.",
+  "No reviews found.",
+  "English via MANGA MILLION completeness."
+ ]
+}

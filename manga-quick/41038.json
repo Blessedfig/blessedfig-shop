@@ -1,0 +1,358 @@
+{
+ "anilist_id": 41038,
+ "title": "Juicy Cider",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/41038",
+  "https://api.mangaupdates.com/v1/series/58068540438"
+ ],
+ "premise": "High-schooler Takayuki is seen by classmates as a cool, serious elite, but his thoughts are mostly wild fantasies about his cute, simple childhood friend Ken, whom he schemes to win over (AniList, MU). One volume of school comedy.",
+ "life_message": "Behind a cool image, honest feelings for an old friend are worth pursuing.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Teen boys' romance driven by sexual fantasies (AniList blurb; MU Yaoi, Virgin/s, High School Student/s); MangaDex safe; explicitness unknown (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Scheming to win a friend (blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Childhood friendship with Ken valued.",
+   "concerns": "Same-sex romance and sexual fantasies of teens."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Long loyalty to Ken.",
+   "concerns": "Lustful thoughts indulged; same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship from childhood.",
+   "concerns": "Teen same-sex romance; impure thoughts as comedy."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Takayuki's devotion to one friend.",
+   "concerns": "Same-sex romance; fantasy as comedy."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Faithful friendship.",
+   "concerns": "Lust and same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest gap between public image and heart.",
+   "concerns": "Seventh-commandment concerns in thought life."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Comic honesty about hidden feelings.",
+   "concerns": "LCMS: same-sex romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Kindness toward simple Ken.",
+   "concerns": "Holiness of thought; traditional bodies on romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Light comedy of friendship turning romantic.",
+   "concerns": "Views differ by province."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little worldly ambition shown.",
+   "concerns": "Teen romance media; lust."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty to a childhood friend.",
+   "concerns": "Chastity of thought; same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gay teen comedy without tragedy.",
+   "concerns": "Scheming over openness."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Long friendship.",
+   "concerns": "Same-sex attraction; lowering the gaze."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Old friendship honored.",
+   "concerns": "Same-sex romance; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Image versus inner reality gently mocked.",
+   "concerns": "Craving in Takayuki's fantasies."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Queer teen romance without stereotypes.",
+   "concerns": "Scheming could edge toward manipulation."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-honesty behind a mask.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and persistence.",
+   "concerns": "Same-sex teen romance; sexual humor."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Devotion to a friend.",
+   "concerns": "Passion-exciting content; same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Loyal friendship.",
+   "concerns": "Same-sex romance; impure thoughts."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love seeing past appearances.",
+   "concerns": "Dwelling on sensual thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of both boys honored.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Desire accepted as natural.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity behind a cool front.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest self behind an ego image.",
+   "concerns": "Lust (kaam) as comic driver."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and truthfulness.",
+   "concerns": "Chastity teaching; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication bridges two friends.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Takayuki pursues what he wants.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship loyalty.",
+   "concerns": "Same-sex romance; tzniut of thought."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Friendship grows into love.",
+   "concerns": "Teen sexual humor."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive teen romance.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor conflict; comic scheming."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Takayuki keeps up an elite image (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Childhood friend bond (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Classmates as peers."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular school setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Private feeling versus public image."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "The Midlands"
+  ],
+  "japan": "Keeping a composed public face (tatemae) over true feelings (honne) is a common Japanese social theme the comedy plays with."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurb sets up a comedy with no stated message.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Light comedy with no argued view."
+ },
+ "winners_losers": "Takayuki's pursuit of Ken drives the plot; whether it succeeds is not confirmed in the sources (to verify).",
+ "to_verify": [
+  "Outcome of the pursuit",
+  "Any sexual scenes and their explicitness",
+  "Characters' ages",
+  "Old Juné print license (MU)"
+ ]
+}

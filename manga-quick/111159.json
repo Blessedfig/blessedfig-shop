@@ -1,0 +1,93 @@
+{
+ "anilist_id": 111159,
+ "title": "Death's Daughter and the Ebony Blade",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/111159",
+  "https://api.mangaupdates.com/v1/series/65350329219",
+  "https://api.mangadex.org/manga/12e28a8a-cbfe-4e12-bab8-b6fb0b9a59b4",
+  "https://mangabookshelf.com/2023/05/21/deaths-daughter-and-the-ebony-blade-vol-4/"
+ ],
+ "premise": "A baby girl, Olivia, is found in a forest temple and raised by Z, a god of death, who trains her in tactics, swordsmanship and magic. When Z vanishes on her fifteenth birthday, she leaves to search for it and joins the losing Kingdom of Fernest's army against the Asvelt Empire, arriving with a sack of imperial soldiers' heads and becoming a feared warrior and commander (J-Novel Club blurb via AniList and MU; Manga Bookshelf review of the light novel).",
+ "life_message": "Loyalty to the one who raised you and sheer skill in war carry the day.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Endorsed", "note": "War, killing and decapitation (publisher blurb: 'sack of imperial heads'); AniList Gore, War; MU Blood and Gore, Blood-Thirsty Female Lead; MangaDex Gore."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Battlefield deaths, commanders dying to cover retreats (LN review). Capped (to verify)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Male lead falls in love first (MU); review mentions no sexual content."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Abandonment by her guardian (blurb)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Cheerful, ruthless killing by a teen heroine (MU Ruthless Female Lead). Capped (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Military fantasy; overpowered heroine; loyalty to a death-god parent",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 4, "loyalty": 8, "fairness": 4, "sanctity": 3, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Defending a kingdom against conquest fits just-war ideas.", "concerns": "Death-god parent; killing played cheerfully; gore."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Defense of homeland.", "concerns": "Killing without repentance; death-god figure."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty and courage.", "concerns": "Raised by a god of death; graphic violence."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Defending the weaker kingdom.", "concerns": "Gore and death-god worldview."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Shinigami parent and magic as spiritual open door."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Lawful defense of a realm.", "concerns": "Bloodlust shown as charming."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Discuss", "aligns": "Two-kingdoms: soldier's duty.", "concerns": "Gore; other gods."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Glorified killing."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Discuss", "aligns": "Just-war setting.", "concerns": "Violence made attractive."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Heroic violence at the core."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Defending a just cause (Alma 43).", "concerns": "Gore."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Resisting imperial conquest.", "concerns": "Glorified violence."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Fighting to defend.", "concerns": "Death god and magic; mutilation."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Warrior dharma and a divine teacher.", "concerns": "Ahimsa set aside; gore."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Killing without remorse; first precept."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Capable heroine, many women characters (review).", "concerns": "Militarism and gore."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Strategic intelligence.", "concerns": "Cruelty."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Courage and loyalty to king and country.", "concerns": "Gratuitous gore."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Death god; violence."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence, death god, magic, war."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Fear and violence imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Against conquest.", "concerns": "Glorified violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Death deity shown as loving parent.", "concerns": "Harm-none tension."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Shinigami and temple as natural parts of the world.", "concerns": "Kegare of blood."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Defending the oppressed kingdom.", "concerns": "Killing for thrill."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "War glorified."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Competence.", "concerns": "Murder."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Death figure sympathetic; self-reliance.", "concerns": "Gore."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Self-defense of a nation.", "concerns": "Death deity; mutilation."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Discuss", "aligns": "Self-defense.", "concerns": "Gore."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Resisting empire.", "concerns": "Glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Disputes settled by battle; Olivia feared if provoked (LN review)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Joins a royal army but cares little for politics (LN review)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Main goal is finding Z, her guardian (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Military ranks; she is made a major general (LN review)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Gods of death and 'long-forgotten arts of magic' (blurb)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Kingdom fighting for survival (blurb)."}
+  },
+  "closest": ["Orthodox Europe", "Tidewater", "El Norte"],
+  "japan": "Shinigami (death gods) come from Japanese folklore; the military-fantasy and overpowered-heroine set-up follows Japanese light-novel conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "LN review notes repetitive tropes and humor, no moralizing (light novel, not manga).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "War is the setting rather than an argued theme (to verify)."
+ },
+ "winners_losers": "Olivia and Fernest gain ground; the Empire's commanders are described as foolish (LN review).",
+ "to_verify": [
+  "Manga Bookshelf review covers the light novel volume 4, not the manga.",
+  "Gore level in the manga art (database tags plus publisher blurb).",
+  "No Wikipedia cache available."
+ ]
+}

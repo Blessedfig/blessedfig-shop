@@ -1,0 +1,95 @@
+{
+ "anilist_id": 85854,
+ "title": "7thGARDEN",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85854",
+  "https://api.mangaupdates.com/v1/series/20393647072",
+  "https://www.theouterhaven.net/7th-garden-volume-1-review"
+ ],
+ "premise": "Awyn, a gardener devoted to Marie, the young mistress of his estate, wakes the demon Vyrde just as crusader knights purge his village on a bishop's order (VIZ blurb via AniList and MangaUpdates; The Outer Haven review). To save Marie he pledges himself to Vyrde for a demonic sword, not knowing she plans to slay the six angels who rule the world and claim it (blurb; review). A shounen dark fantasy by Mitsu Izumi, on hiatus after eight volumes.",
+ "life_message": "It suggests that devotion to the people you love can justify defying even holy powers, since good and evil are not clear-cut (review).",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Village purge, Marie killed and restored, sword battles (review); MangaUpdates Blood and Gore, Violence, Death."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Demons, death of loved ones (MangaUpdates; review)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Ecchi genre (AniList); MangaUpdates Big Breasts, Partial Nudity, Nudity, Sexual Innuendo; MangaDex suggestive. Fan service level not described in review (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Rage and grief in Awyn (review)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Pact with a demon as a story device."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 5, "stance": "Explored"},
+  {"lens": "Christian", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Postmodernism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Demon pact against corrupt holy powers, devotion and revenge, moral ambiguity",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 8, "fairness": 5, "sanctity": 3, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Awyn's self-giving love for Marie.", "concerns": "Church shown as 'blind, arrogant, greedy' (review); demon pact against angels; fan service."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Devotion and loyalty.", "concerns": "Demonic power embraced; angels as targets; mockery of the holy."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Protecting the innocent.", "concerns": "Demon worship-like pact, crusading church as villain, fan service."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Sacrificial love.", "concerns": "Angels slain for a demon's rule; church as zealots."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Fight against corrupt power.", "concerns": "Demonic pact as heroic path; open door to the demonic."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Exposes hypocrisy of power-hungry clergy.", "concerns": "Heavenly beings as tyrants; demon as ally."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Critique of corrupt church power echoes reform themes.", "concerns": "Demonic pact; fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Love for Marie.", "concerns": "Occult bargain; ecchi content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Fantasy moral ambiguity in a literary vein.", "concerns": "Faith institutions as villains; demon heroine."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Crusader violence on a village condemned.", "concerns": "Revenge violence and occult pact."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Devotion to a loved one.", "concerns": "Demonic power and immodest imagery."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Critique of religious violence against a village.", "concerns": "Fan service; women as plot devices (review on Marie)."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Opposes zealotry used for power.", "concerns": "Angels killed; alliance with a devil; immodest imagery."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Devotion and duty to one's mistress.", "concerns": "Divine beings mocked; fan service."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Good and evil blurred, as attachment shapes action.", "concerns": "Rage and revenge drive the hero."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Critique of religious authoritarianism.", "concerns": "Sexualized character design; thin female lead."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Questions blind obedience to religious authority.", "concerns": "Fan service; violence."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyalty and service of a gardener to his house.", "concerns": "Mocks religion; fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Love and loyalty.", "concerns": "Spiritual powers of darkness as heroes."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Exposes false religion's violence.", "concerns": "Demon contact and violence."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Love moves Awyn.", "concerns": "Dwelling on evil power."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Questions institutional religious violence.", "concerns": "Fan service."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Pact magic and a powerful female figure.", "concerns": "Demon framed as dark and scheming."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Gardener's devotion and sincerity.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Defending the oppressed village.", "concerns": "Lust and rage; occult power."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Critique of religious fanaticism.", "concerns": "Violence and immodest imagery."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Critique of oppressive authority.", "concerns": "Killing."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Rebel siding with a demon against tyrannical heavenly powers.", "concerns": "Awyn becomes a servant, not free."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Opposes oppression.", "concerns": "Angels slain; demon alliance; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Critique of crusader violence.", "concerns": "Occult pact; fan service."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Critique of crusading zealotry.", "concerns": "Fan service; violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Awyn's protectiveness springs from rage (review)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Rebellion against angels who rule the world (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Loyalty to Marie and the household."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Servant and mistress roles, but holy hierarchy overthrown."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Religious order shown as blind zealotry (review); particle-ray cannon (blurb)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Survival battles dominate."}
+  },
+  "closest": ["The Far West", "Catholic Europe", "El Norte"],
+  "japan": "Christian angels and crusaders are used as exotic fantasy material, as is common in Japanese media, rather than as a statement about real faith."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Reviewers: 'no clear cut black and white answer'; readers decide who is right.",
+  "personified": [
+   {"character": "The bishop and crusader church", "ideology": "religious authority enforcing purity by force", "role": "Villain", "treatment": "Strawman"},
+   {"character": "Vyrde", "ideology": "defiance of heavenly rule for her own claim", "role": "Mentor", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "One review says the religious order is presented as blind, arrogant and greedy, while the story leaves Vyrde's cause ambiguous too."
+ },
+ "winners_losers": "Awyn and Vyrde gain power against the church; the religious order loses sympathy. The story is on hiatus, so no final outcome.",
+ "to_verify": [
+  "Strawman call rests on one review (The Outer Haven, volume 1): check later volumes for a fairer angel side.",
+  "Fan-service level (tags only).",
+  "Series on hiatus after 8 volumes (MangaUpdates)."
+ ]
+}

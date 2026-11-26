@@ -1,0 +1,366 @@
+{
+ "anilist_id": 99738,
+ "title": "Are You Lost?",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/99738",
+  "https://api.mangaupdates.com/v1/series/9597539881"
+ ],
+ "premise": "After a plane crash, high-school girls are stranded on a desert island and must make and eat everything themselves (Kodansha USA blurb). Each volume teaches real survival techniques, such as eating insects, building traps and a simple allergy test. Tagged comedy and ecchi, with partial nudity (AniList, MU).",
+ "life_message": "Knowledge, resourcefulness and teamwork let people survive and even thrive in hardship.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Hunting and trapping animals (blurb)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Survival after a crash."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Ecchi genre; AniList Nudity tag (rank 75); MU Partial Nudity; MangaDex suggestive (to verify; all database sources, capped at 3)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Stranded stress."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Teaches eating cicadas, hermit crabs, trapping (Kodansha blurb; AniList Educational)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 6,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Naturalism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Practical survival knowledge; found family; ecchi comedy",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 7,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Resourcefulness and care for one another.",
+   "concerns": "Sexualized depiction of minors (ecchi, nudity tags)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Endurance in hardship.",
+   "concerns": "Immodest imagery of teenage girls."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Ingenuity.",
+   "concerns": "Nudity and fan service of high schoolers."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Teamwork.",
+   "concerns": "Ecchi content involving teens."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Perseverance.",
+   "concerns": "Sexualized nudity."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Stewardship of creation for survival.",
+   "concerns": "Lascivious images (WLC Q139)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Practical knowledge as service.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mutual care.",
+   "concerns": "Immodest content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Practical wisdom.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Simple, self-sufficient living.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Self-reliance and preparedness.",
+   "concerns": "Immodest media."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Girls as capable survivors.",
+   "concerns": "Sexualization of minors."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Resourcefulness.",
+   "concerns": "Nudity; awrah; some foods non-halal."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Survival skills.",
+   "concerns": "Modesty; killing animals."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Interdependence.",
+   "concerns": "Killing animals; craving-stirring images."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Competent female cast.",
+   "concerns": "Sexualization of teenage girls."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Science-based survival education.",
+   "concerns": "Sexualization of minors."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Self-reliance and grit.",
+   "concerns": "Fan service with teens."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Practical skills.",
+   "concerns": "Immodesty; unclean foods."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Resourcefulness.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Calm under danger.",
+   "concerns": "Images to guard against."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Sexualization of teens."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Living with nature.",
+   "concerns": "Exploitative fan service."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Harmony with nature; gratitude for food.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest work and sharing.",
+   "concerns": "Modesty."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Cooperation.",
+   "concerns": "Chastity concerns."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Survival and competence.",
+   "concerns": "Little else."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reliance.",
+   "concerns": "Exploitation of minors."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ingenuity.",
+   "concerns": "Tzniut; non-kosher foods."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Survival.",
+   "concerns": "Immodest images."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Sexualization of teens."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Survival, no honor disputes."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Self-organized survivors."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Small found family (AniList)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Peer group with skilled lead."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Practical science-based know-how."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival comes first."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Orthodox Europe",
+   "The Far West"
+  ],
+  "japan": "Reflects Japanese educational manga traditions mixed with seinen fan-service conventions, described as context."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Blurb shows each volume teaches survival techniques directly; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Lessons are practical survival tips stated outright, not moral speeches."
+ },
+ "winners_losers": "The resourceful girls survive and thrive.",
+ "to_verify": [
+  "Extent of nudity involving high-school characters: AniList Nudity rank 75 and Ecchi genre suggest sexuality may be understated at 3.",
+  "Imitable survival tips: check for risky ones."
+ ]
+}

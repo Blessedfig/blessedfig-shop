@@ -1,0 +1,91 @@
+{
+ "anilist_id": 39607,
+ "title": "Dreamin' Sun",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/39607",
+  "https://api.mangaupdates.com/v1/series/29799688789",
+  "https://cdn.animenewsnetwork.com/review/dreamin-sun/gn-1/.117200"
+ ],
+ "premise": "High schooler Shimana, grieving her mother and feeling displaced by her father's new family, runs away and meets Fujiwara, a young man in a kimono, in a park. He offers her a room in his house on three conditions, including telling him why she left and finding a dream, and she moves in with other teenage residents, Zen and Asahi (Seven Seas blurb; ANN review of volume 1).",
+ "life_message": "Having a dream and people who believe in you can carry you through grief and a sense of not belonging.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "MU Boxing as a hobby; nothing else reported."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Emotional drama, not peril (ANN)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Love triangle and cohabitation (ANN); MU tags an older-man/younger-girl age gap, a student-teacher relationship and a stepsibling/incest subplot; database tags only, capped (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Bickering (MU Bickering Love)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Grief, anger and depression after her mother's death, treated seriously (ANN); MU Dead Family Member/s."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Runaway teen moves into a stranger's house (blurb, ANN)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Moralistic therapeutic deism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Finding a dream; healing from grief; chosen household",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Serious care for a grieving, depressed girl (ANN).", "concerns": "Runaway minor cohabiting with an older man; age-gap and stepsibling romance tags."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Grief and repentance of anger toward family.", "concerns": "Leaving parents' home; romance plots."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Hope after loss.", "concerns": "Teen living with unrelated males; age-gap romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "A mentor who helps a lost teen find purpose.", "concerns": "Defying stepmother and father; romance tags (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Restoration from depression.", "concerns": "Cohabitation and age gaps."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Honest portrait of grief.", "concerns": "Fifth-commandment issue of running away."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Finding vocation (a dream).", "concerns": "Leaving parental authority."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Care for the hurting.", "concerns": "Romance with adult (to verify)."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Thoughtful coming-of-age.", "concerns": "Age-gap romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Household that supports its members.", "concerns": "Worldly romance and runaway."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Stepfamily reconciliation themes possible.", "concerns": "Teen living away from parents; romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Mental-health honesty (ANN compares Orange).", "concerns": "Power imbalance in age-gap romance."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Grief and patience.", "concerns": "Unmarried girl living with unrelated men; dating."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Finding one's path.", "concerns": "Leaving family duty."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Working through suffering and anger.", "concerns": "Attachment-driven romance."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Depression treated seriously.", "concerns": "Adult-minor romance tags."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Self-determination and purpose.", "concerns": "Age-gap power."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Responsibility and having goals.", "concerns": "Runaway; stepmother sidelined (ANN)."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Healing of mind.", "concerns": "Romance and cohabitation."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little beyond care.", "concerns": "Bad associations; romance without marriage."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Hope over despair.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Search for meaning.", "concerns": "Age-gap consent questions."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal path.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Kimono and household life; makoto in conditions kept.", "concerns": "Family disharmony."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest striving toward a dream.", "concerns": "Romance outside marriage."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Developing qualities.", "concerns": "Parental consent and chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Taking responsibility for one's future.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-direction.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honest grief.", "concerns": "Yichud concerns; romance; stepsibling tag."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Grief and repair.", "concerns": "Age gap."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Care for a struggling teen.", "concerns": "Age gap."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflicts handled by talk with Fujiwara (ANN)."},
+   "Order vs freedom": {"pos": 6, "evidence": "She leaves home to follow her own path (blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Chosen household replaces strained blood family (ANN)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Landlord sets conditions, but residents live as peers."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern dreams and careers; kimono as style (MU)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "'To have a dream' is a condition (blurb)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "New Netherland"],
+  "japan": "A shoujo romance from the creator of Orange; the blended-family tension and live-in boarding house reflect common Japanese shoujo setups, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN praises serious handling of depression without calling it preachy; breakthrough comes in conversation.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Lessons about dreams come through Fujiwara's conditions and Shimana's choices."
+ },
+ "winners_losers": "Shimana and her new household are sympathetic; her stepmother is mostly silent (ANN), so her side is little heard.",
+ "to_verify": [
+  "Which romance wins and the ages involved (MU Age Gap, Older Male Younger Female).",
+  "MU 'Incest as a Subplot' and 'Student-Teacher Relationship' tags (AniList Incest marked spoiler): confirm what they refer to and how it is framed.",
+  "Fujiwara's hidden motive (ANN) not confirmed."
+ ]
+}

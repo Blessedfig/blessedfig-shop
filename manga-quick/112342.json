@@ -1,0 +1,91 @@
+{
+  "anilist_id": 112342,
+  "title": "I Fell in Love, So I'm Streaming It",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/112342",
+    "https://api.mangaupdates.com/v1/series/9052282136",
+    "https://en.wikipedia.org/wiki/I_Fell_in_Love%2C_So_I%27m_Streaming_It"
+  ],
+  "premise": "Yu Inuzuka's frightening face keeps people away, so he quits live-streaming to start over in high school. In his co-ed share-house dorm he finds that his roommates are all streamers with secrets of their own, and he considers going back to streaming (Wikipedia; Mangamo text via MangaUpdates; AniList).",
+  "life_message": "People are more than their faces or online personas, and honest connection is possible when secrets are shared.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Comedy-romance."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU genres Ecchi, Harem; AniList Female Harem 63, Love Triangle; capped at 3 (to verify fan-service level)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Hikikomori and social isolation (AniList Hikikomori 72); misunderstood loner (MU)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Hidden online identities (MU Secret Identity)."},
+    {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Live-streaming and VTuber culture central (Wikipedia; AniList VTuber 79)."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Consumerism", "strength": 2, "stance": "Explored"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "online persona versus real self; found friendship in a share house; streaming culture",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+  "foundations": {"care": 6, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 2, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Yu's kindness beneath a scary face; dignity beyond appearance.", "concerns": "Ecchi and harem elements (MU)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Truth of the person behind the mask.", "concerns": "Fan service may feed passions."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Judging the heart, not appearance (1 Sam 16:7 echo).", "concerns": "Co-ed dorm and ecchi content; crossdressing (MU)."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Friendship across secrets and loneliness.", "concerns": "Fan service level unclear."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Overcoming isolation.", "concerns": "Worldly streaming fame; ecchi."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Vocation and honest identity.", "concerns": "Lascivious content if present."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Putting the best construction on a feared outsider.", "concerns": "Little."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Welcome for the lonely and misjudged.", "concerns": "Ecchi genre."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle comedy of human connection.", "concerns": "Little."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humility of a shy lead.", "concerns": "Centered on online fame and media culture."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Kindness and friendship.", "concerns": "Mixed-gender dorm and fan service."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Inclusion of outsiders and crossdressing character (MU).", "concerns": "Harem tropes."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Judging character over looks.", "concerns": "Mixed housing, ecchi, immodesty."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Inner nature over outer form.", "concerns": "Little."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Letting go of attachment to image.", "concerns": "Craving for online attention."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Online identity and social anxiety explored.", "concerns": "Harem tropes and sexualization."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Empathy across appearances.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Overcoming shyness through effort.", "concerns": "Co-ed living and ecchi."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Friendship and honesty.", "concerns": "Entertainment-centered life; fan service."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness about identity.", "concerns": "Romance and fan service."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Overcoming false beliefs about oneself.", "concerns": "Little."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of each person regardless of looks.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal autonomy and self-expression.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity (makoto) behind appearances.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest living and humility.", "concerns": "Ego of online fame."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity and courtesy among roommates.", "concerns": "Modesty concerns."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Living with the truth about oneself.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-expression on one's own terms.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Avoiding judgment by appearance.", "concerns": "Mixed dorm; tzniut."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kind speech and friendship.", "concerns": "Fan service."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion and acceptance.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Misjudged lead seeks acceptance, not vindication (MU Misunderstood Protagonist)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Residents pursue streaming identities freely (Wikipedia)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Share-house friends rather than family (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Peer housemates on equal footing."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern online culture setting."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Streaming as self-expression (AniList VTuber, Idol)."}
+    },
+    "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+    "japan": "Japan's VTuber and live-streaming culture, with its separation of public persona from private self, frames the premise, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "No review of tone found; default per spec (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "A comedy-romance whose themes emerge from situations rather than lessons."
+  },
+  "winners_losers": "Yu and his housemates gain friendship and maybe romance; no worldview is cast as the loser.",
+  "to_verify": [
+    "Level of ecchi/fan service (MU Ecchi genre)",
+    "Crossdressing character's portrayal (AniList spoiler, MU)",
+    "No review found; web budget ran out"
+  ]
+}

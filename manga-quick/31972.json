@@ -1,0 +1,362 @@
+{
+ "anilist_id": 31972,
+ "title": "Yokan - Premonition",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31972",
+  "https://api.mangaupdates.com/v1/series/39458590227"
+ ],
+ "premise": "Akira, lead singer of the popular band CHARON, wants a song from famous actor and lyricist Sunaga, who agrees only if Akira gives him his body as payment. Akira resents Sunaga's careless attitude and constant advances, yet begins to feel something for him (Renta! blurb, MU). One volume by Makoto Tateno with the one-shot \"Sensimilla\"; MU lists Rape as a Start of Relationship and a dark ambience.",
+ "life_message": "Art and desire entangle, and feeling can grow even from a coercive bargain.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Rape listed (MU); no other violence noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Dark ambience, tragic past (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "Sex demanded as payment for a song (Renta! blurb); MU Yaoi, Rape as a Start of Relationship."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Showbiz setting; no detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None listed (to verify one-shot)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Tragic past (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Sex traded for career advancement framed as romance (blurb; MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Music industry and fame (MU Showbiz)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Hedonism, Might makes right",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 7,
+  "community": 3
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 3,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 4,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Akira's devotion to his art.",
+   "concerns": "Sex as payment and rape as romance; same-sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Art as a calling.",
+   "concerns": "Passions and coercion."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Ambition tested.",
+   "concerns": "Sexual coercion and same-sex content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Talent pursued.",
+   "concerns": "Coercion; sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Creativity.",
+   "concerns": "Sexual content; holiness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Art valued by common grace.",
+   "concerns": "WLC Q139; coercion."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vocation in music.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gifts of song.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Music and artistic integrity.",
+   "concerns": "Coercive bargain romanticized."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Music.",
+   "concerns": "Worldly showbiz and sex."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Artistic work.",
+   "concerns": "Chastity; coercion."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Showbiz exploitation shown.",
+   "concerns": "Coercion becoming romance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Craft valued.",
+   "concerns": "Zina; music debated; coercion."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Rasa of music.",
+   "concerns": "Exploitation."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Craving for fame shown.",
+   "concerns": "Sexual misconduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Exploitation in the industry visible.",
+   "concerns": "Coercion romanticized."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Creative ambition.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work toward success.",
+   "concerns": "Trading sex for advancement."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Music.",
+   "concerns": "Impure content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Music.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Feeling emerging.",
+   "concerns": "Sensual images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Artist's worth.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Art and passion.",
+   "concerns": "Coercion breaks harm none."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity in art.",
+   "concerns": "Little doctrine."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Craft.",
+   "concerns": "Lust as driver."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Art as worship when in service.",
+   "concerns": "Chastity; degrading art."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Artist's role.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sunaga's indifference to convention.",
+   "concerns": "Coercion (Eleven Rules)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Music as gift.",
+   "concerns": "Same-sex; coercion."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Artistic expression.",
+   "concerns": "Degrading content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Showbiz exploitation shown.",
+   "concerns": "Coercion."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Pride wounded by Sunaga's attitude, no feud."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Showbiz freedom (MU)."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Bandmates, no family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Famous star over aspiring singer."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular showbiz."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Art and desire lead."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "The Japanese music and entertainment industry backdrop, with its star hierarchy, frames the bargain."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb frames the bargain as the romance hook (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued view in sources."
+ },
+ "winners_losers": "Not confirmed; Akira appears to fall for Sunaga (to verify).",
+ "to_verify": [
+  "Content of the one-shot \"Sensimilla\"",
+  "Framing of the coercive bargain",
+  "Renta! and June age rating"
+ ]
+}

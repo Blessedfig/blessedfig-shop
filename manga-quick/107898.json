@@ -1,0 +1,90 @@
+{
+ "anilist_id": 107898,
+ "title": "Beauty and the Beast Girl",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/107898",
+  "https://api.mangaupdates.com/v1/series/4057782543"
+ ],
+ "premise": "A lonely monster girl living hidden in a forest wishes she could live among humans despite her frightening appearance (Seven Seas blurb). A blind human girl begins visiting her, and the two grow attached in their secluded world until their bond becomes love. A single-volume yuri fantasy, first a webcomic.",
+ "life_message": "Love sees past appearances; being truly known by another heals loneliness.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Nothing violent noted."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Fear of abandonment, discrimination and a tragic past (MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Same-sex romance between two women (AniList Yuri, MangaUpdates); MangaDex rates it suggestive."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Loneliness and fear of being hated (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "A liar character listed (MangaUpdates); context unknown."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Love beyond appearance; disability; same-sex fairy-tale romance",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 8, "loyalty": 5, "fairness": 5, "sanctity": 3, "authority": 2, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "The blind girl sees the monster's worth beyond appearance.", "concerns": "Romance between two women differs from teaching on marriage."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Compassion for the outcast.", "concerns": "Same-sex romance."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Looking on the heart, not appearance.", "concerns": "Same-sex romance presented as the happy ending."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Unconditional acceptance of the lonely.", "concerns": "Same-sex romance in most churches' view."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Healing of loneliness.", "concerns": "Same-sex romance; monster as love interest."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Common grace in a tender fable.", "concerns": "Conservative churches object to the same-sex romance; PC(USA) would not."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Love of neighbor for the outsider.", "concerns": "LCMS would raise the romance; ELCA would not."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Perfect love casting out fear.", "concerns": "Traditional Wesleyan bodies object to same-sex romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "A fairy-tale reworking about seeing truly.", "concerns": "ACNA would raise the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Gentleness and simple forest life.", "concerns": "Same-sex romance in conservative groups."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Compassion for the lonely.", "concerns": "Same-sex romance contrary to the Proclamation on the Family."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion, disability representation, queer love.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Kindness to the rejected.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Inner essence over outward form.", "concerns": "Views on same-sex romance vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion and seeing beyond form.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer romance and a blind lead as full person.", "concerns": "Age gap listed (MangaUpdates) to check."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy over prejudice.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Classic Beauty and the Beast virtue of inner beauty.", "concerns": "Same-sex romance presented to young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness to the outcast.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Compassion.", "concerns": "Same-sex romance."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "True identity is spiritual, not physical appearance.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every being, love across difference.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Forest creature honored; love affirmed.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Forest spirit-like being in harmony.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality of all beings.", "concerns": "Same-sex romance (Akal Takht position)."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Rejection of prejudice.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and communication overcome isolation.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "The 'monster' outsider as hero.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Kindness to the outsider.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity of a disabled character.", "concerns": "Views vary by congregation."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and dignity.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Worth recognized regardless of appearance."},
+   "Order vs freedom": {"pos": 6, "evidence": "Private love outside society's gaze."},
+   "Civic vs kin": {"pos": 5, "evidence": "Isolated pair; rich family background (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Equal bond between human and monster."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Fairy-tale fantasy."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Love and acceptance of difference central."}
+  },
+  "closest": ["The Midlands", "English-speaking", "New France"],
+  "japan": "Part of the Japanese yuri webcomic scene and its monster-girl subgenre, retelling a European fairy tale."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The acceptance theme is carried by the fable itself (to verify)."
+ },
+ "winners_losers": "The monster and the blind girl are the sympathetic pair; prejudice (MangaUpdates Discrimination) is the obstacle.",
+ "to_verify": [
+  "Age gap and the 'liar' tag (MangaUpdates) and how the ending resolves.",
+  "Checked as a Seven Seas title: MangaUpdates lists no Adult genre, so the Ghost Ship skip rule does not apply.",
+  "Webcomic is 50 short chapters; English edition is one volume."
+ ]
+}

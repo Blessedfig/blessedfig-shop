@@ -1,0 +1,94 @@
+{
+ "anilist_id": 35911,
+ "title": "Freezing",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/35911",
+  "https://www.mangaupdates.com/series/py6dvgn",
+  "https://en.wikipedia.org/wiki/Freezing_%28manga%29"
+ ],
+ "premise": "In 2065 Earth is at war with extra-dimensional aliens called Nova, fought by genetically engineered young women called Pandoras and their male partners, Limiters. Kazuya Aoi, whose Pandora sister died, enrolls at West Genetics Academy and befriends Satellizer el Bridget, a feared fighter who cannot bear to be touched. The story widens into experiments on girls, corporate secrets and Kazuya's family links to the Nova.",
+ "life_message": "Loyalty and love between partners can overcome trauma and an inhuman war.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Neutral", "note": "Bloody battles among students and with Nova (Wikipedia reviews of anime; AniList Gore; MU Sadist/s, War/s)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Mass attacks, deaths of loved ones (Wikipedia; MU Death of Loved One/s)."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Neutral", "note": "Heavy fan service and sexually charged combat, clothing torn (Wikipedia, anime reviews; AniList Ecchi; MU Partial Nudity)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Shown with consequences", "note": "Experimental drugs make an E-Pandora go berserk (Wikipedia)."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Satellizer's aphephobia and childhood trauma (Wikipedia; MU Childhood Trauma)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Senior-junior bullying fights at the academy (Wikipedia; MU Senpai-Kouhai) (to verify)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Two anime seasons and three spin-off manga (Wikipedia)."}
+ ],
+ "lenses": [
+  {"lens": "Collectivism/authoritarianism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Military academy rank; genetic engineering; partnership and trauma",
+ "axes": {"economic": 4, "social": 6, "cultural": 6, "community": 6},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 5, "sanctity": 2, "authority": 5, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Kazuya's patient care for traumatized Satellizer.", "concerns": "Fan service throughout; girls as engineered weapons."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Self-giving love between partners.", "concerns": "Sexual imagery in combat inflames passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty and protectiveness of Kazuya.", "concerns": "Fan service and gore fail Philippians 4:8."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Healing through faithful friendship.", "concerns": "Sexualized violence; torn clothing in fights."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Courage against invading evil.", "concerns": "Sexual content and gore."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Corrupt research hierarchy exposed.", "concerns": "Lascivious images (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Duty in war, care for a wounded neighbor.", "concerns": "Explicit fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Kazuya's kindness toward an outcast.", "concerns": "Content not tending to holiness."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Rebellion of expendable E-Pandoras against misuse.", "concerns": "Gratuitous sexualization per reviewers."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little central.", "concerns": "War and combat glorified; sexual imagery."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Promise to a dead sister honored.", "concerns": "Immodest, violent media."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Critique of treating girls as expendable.", "concerns": "Exploitative fan service of the same girls."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty and protection of the vulnerable.", "concerns": "Immodesty and nudity against haya."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Warrior duty against a destructive force.", "concerns": "Immodest, rajasic content."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Compassion for a suffering, isolated person.", "concerns": "Violence and sensual craving."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Strong female fighters; corporate abuse critiqued.", "concerns": "Sexualization of teen girls in battle."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Ethics of human experimentation raised.", "concerns": "Exploitation framed as entertainment."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Military duty, family legacy, sacrifice.", "concerns": "Fan service; graphic gore."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little central.", "concerns": "Passions excited by sexual violence."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little central.", "concerns": "Violence and immorality throughout."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Overcoming fear of touch.", "concerns": "Fear and degrading bodily images."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Dignity of those treated as expendable.", "concerns": "Objectification of women."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Female power in battle.", "concerns": "Exploitation; harm done to engineered girls."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Family lineage and ancestors (Kazuya's grandfather).", "concerns": "Blood and death pervasive."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Courage to defend others.", "concerns": "Lust displayed as appeal."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little central.", "concerns": "Unchaste, violent entertainment."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Trauma confronted and overcome.", "concerns": "Drug experimentation on youths."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Rebellion against controlling corporation.", "concerns": "Sexualized minors would breach harm to children rule (to verify ages)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little central.", "concerns": "Tzniut; immodest images throughout."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little central.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Ethics of exploiting the vulnerable.", "concerns": "Sexualization and gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Rank fights between students over pride and rivalry (Wikipedia)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Military academy discipline; corporation's orders obeyed (Wikipedia)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Kazuya's family ties to Pandora project, but duty to humanity too (Wikipedia)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Strict year and rank hierarchy; seniors dominate juniors (MU Senpai-Kouhai)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Science-fiction world of genetic engineering (Wikipedia)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Humanity fighting for survival (AniList blurb)."}
+  },
+  "closest": ["Confucian", "Orthodox Europe", "Tidewater"],
+  "japan": "Senpai-kohai rank at the academy mirrors Japanese school hierarchy; the creators are Korean, working for a Japanese magazine."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No source discusses the message; reviews focus on fan service and action (Wikipedia, anime reviews) (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Any critique of exploitation is carried by plot events such as the E-Pandora rebellion rather than stated."
+ },
+ "winners_losers": "Kazuya and Satellizer grow through partnership; the corporation and project directors who treat girls as expendable are shown in the wrong.",
+ "to_verify": [
+  "Wikipedia reception covers the anime, not the manga",
+  "English edition: Seven Seas 2-in-1 volumes, discontinued (MU); partial license",
+  "Not a Ghost Ship title per MU publisher data, and MU genres lack Adult; kept",
+  "Ages of Pandoras in sexualized scenes",
+  "Creators are Korean (Dall-Young Lim, Kwang-Hyun Kim); Japanese-culture note limited"
+ ]
+}

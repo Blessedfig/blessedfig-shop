@@ -1,0 +1,94 @@
+{
+ "anilist_id": 117667,
+ "title": "Manchuria Opium Squad",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/117667",
+  "https://api.mangaupdates.com/v1/series/34626571930",
+  "https://kodansha.us/series/manchuria-opium-squad"
+ ],
+ "premise": "In 1937, Isamu Higata, a Japanese soldier in the puppet state of Manchukuo, loses the sight in one eye and is sent to an agricultural unit where officers abuse him. He finds poppies and begins producing high-grade opium to pay for his sick mother's care, which draws him into gangs, the army and the state's own drug trade (Kodansha blurb via AniList and MangaUpdates).",
+ "life_message": "Survival and protecting one's family can push a decent person into crime in a corrupt, brutal place, at a mounting moral cost.",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Neutral", "note": "Kodansha rates it 18+ for graphic, intense violence; AniList Gore, Guns; MU Torture, Murder, Blood and Gore."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Kodansha warns of 'shocking imagery'; AniList Tragedy, Torture; wartime cruelty."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU lists Rape and Nudity and AniList Nudity; only database tags, so capped (to verify)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Gangster and soldier dialogue likely coarse (to verify)."},
+  {"category": "Substances", "score": 8, "framing": "Shown with consequences", "note": "Opium manufacture and addiction are the core plot (Kodansha drug-abuse warning; AniList Drugs; MU Drug Abuse/Addiction)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Addiction and abuse of the hero by officers; MU Psychopath/s (to verify)."},
+  {"category": "Imitable behavior", "score": 5, "framing": "Neutral", "note": "Hero chooses drug production for money (blurb, publisher page); MU Organized Crime."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 6, "stance": "Critiqued"},
+  {"lens": "Pragmatism", "strength": 6, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 4, "stance": "Explored"},
+  {"lens": "Critical theory", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Survival by any means; family duty; violence of a colonial drug economy",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 2, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Isamu's love for his sick mother; injustice of officers who abuse him.", "concerns": "Drug trade as the hero's path; torture and sexual violence tagged (MU)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows how passions like greed corrupt everyone in Manchukuo.", "concerns": "Graphic gore and depravity the publisher itself warns about."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Sin's spiral is visible as the opium business grows.", "concerns": "Hero manufactures opium; 18+ violence, drugs and tagged rape."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Honest picture of a fallen, corrupt world and its victims.", "concerns": "Protagonist's crimes framed sympathetically; graphic torture and drug use."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Exposes bondage of addiction in Manchukuo's opium trade.", "concerns": "Intoxication, killing and sexual violence shown at length."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Depravity of army, gangs and state shown truthfully.", "concerns": "Seventh-commandment worries over tagged nudity and rape; drug-making hero."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Isamu's vocation as a botanist twisted by a corrupt order.", "concerns": "Drug crime, torture and murder throughout."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Social evil of the opium economy is laid bare.", "concerns": "Hero profits from addiction; heavy violence."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Serious moral drama about complicity in a colonial state.", "concerns": "18+ gore and drug content; whether evil is made attractive."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Shows militarism and empire producing cruelty.", "concerns": "Gunfights, torture and killing as the story's engine."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Honoring a parent drives Isamu's choices.", "concerns": "Word of Wisdom: opium production and use central; violent, vulgar content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Critiques Japanese imperial abuse and exploitation in Manchuria.", "concerns": "Sexual violence and racism (MU) need careful framing."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Duty to a sick mother; injustice of oppressors exposed.", "concerns": "Intoxicants at the center; nudity and rape tagged; heavy bloodshed."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Karma of choices plays out as the drug business spreads harm.", "concerns": "Adharma of the drug trade drives the plot; tamasic violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Craving for money and power breeds suffering for all sides.", "concerns": "Breaks first and fifth precepts throughout."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Exposes colonial violence, racism and exploitation of the poor.", "concerns": "Sexual violence tagged; graphic gore for mature readers only."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Historical realism about Manchukuo and the opium economy.", "concerns": "Cruelty shown in detail; publisher warns sensitive readers."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Son's devotion to his mother; courage under abuse.", "concerns": "Glamor risk around drug crime; gore and nudity."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Shows the ruin narcotics bring to bodies and communities.", "concerns": "Drug production, violence and sexual content excite rather than restrain."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Shows corruption of human governments and armies.", "concerns": "Violence (Psalm 11:5), drugs and immorality are the core content."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Love for his mother moves Isamu.", "concerns": "Dwells on fear, disease, addiction and cruelty."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Justice lens on empire, race and the exploited.", "concerns": "Sexual violence and torture shown."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "A plant's power turned to harm shows misuse of nature.", "concerns": "Harm-none broken constantly; drug trade as livelihood."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Bond with mother and household.", "concerns": "Blood, death and kegare everywhere; Japanese army cruelty."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Defending the weak against abusive officers.", "concerns": "Intoxicants central; greed and violence."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Exposes prejudice and injustice of empire.", "concerns": "Drugs forbidden yet central; violence."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Shows drugs destroying lives.", "concerns": "Hero builds a drug business; murder and torture."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Self-preservation against arbitrary military authority.", "concerns": "Sexual violence (to verify) conflicts with consent rules."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honoring a parent (Exodus 20:12) motivates Isamu.", "concerns": "Tzniut and nivul peh concerns; drug crime; bloodshed."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Moral reckoning with complicity and oppression.", "concerns": "Drug trade, torture and tagged sexual violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Tikkun olam lens on colonial exploitation.", "concerns": "Graphic cruelty and sexual violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Disputes settled by guns, gangs and personal revenge in a lawless frontier (Kodansha page; MU Organized Crime)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Hero works outside every law, against army and state (blurb)."},
+   "Civic vs kin": {"pos": 9, "evidence": "Saving his mother and family justifies everything (Kodansha blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Rank-based army abuse and gang bosses; hero resents but uses hierarchy."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Hero's botanical expertise and business logic drive the plot."},
+   "Survival vs self-expression": {"pos": 1, "evidence": "'The cheapest thing you'll find is a person's life' (Kodansha blurb via MU)."}
+  },
+  "closest": ["Borderer", "Orthodox Europe", "El Norte"],
+  "japan": "Set in Japanese-occupied Manchukuo, it depicts the Japanese imperial army's rank abuse and the colonial opium economy, described as historical context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Publisher copy frames it as a survival thriller; no source calls it preachy (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "Moral weight is carried by the hero's escalating choices rather than stated lessons, per summaries."
+ },
+ "winners_losers": "Sympathy rests with Isamu and his family as underdogs; the army, gangs and the state are shown as predators, while the drug's victims bear the cost.",
+ "to_verify": [
+  "Extent and framing of sexual violence and nudity (MU Rape, Gang Rape; AniList Nudity) from a review or full read.",
+  "Whether the opium trade is glamorized or shown with consequences across later volumes.",
+  "Language level.",
+  "Names of the female lead and other main characters were not confirmed from opened sources."
+ ]
+}

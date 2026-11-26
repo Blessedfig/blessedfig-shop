@@ -1,0 +1,91 @@
+{
+  "anilist_id": 107321,
+  "title": "Wandance",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/107321",
+    "https://api.mangaupdates.com/v1/series/73361494208",
+    "https://en.wikipedia.org/wiki/Wandance",
+    "https://www.animenewsnetwork.com/review/wandance/.231555"
+  ],
+  "premise": "Kaboku Kotani, a first-year with a stutter who tries not to stand out, sees classmate Hikari Wanda dancing freely and joins the dance club to find that same freedom. The story follows his growth in street dance, competitions and his budding relationship with Wanda (Wikipedia; Kodansha text via AniList; ANN review of volumes 6-7).",
+  "life_message": "Expressing yourself honestly, through dance and eventually words, is worth the risk of standing out.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted (ANN contrasts it with harsher books)."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Competition pressure (MU)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Slow romance (MU)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Shame and frustration over a stutter (ANN; MU Speech Impediment)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "ANN notes Kabo's idealization of Hikari as slightly worrying."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Pop music and social media references (MU)."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 7, "stance": "Affirmed"},
+    {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "self-expression; overcoming a disability; team and craft",
+  "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+  "foundations": {"care": 7, "loyalty": 5, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 7},
+  "frames": [
+    {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Dignity of a disabled youth; talent developed as gift.", "concerns": "Little."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humility and discipline in training.", "concerns": "Little."},
+    {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Perseverance and kindness to Kabo's stutter.", "concerns": "Some families wary of dance culture."},
+    {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Courage and friendship; disability met with grace.", "concerns": "Little."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Joyful expression; perseverance.", "concerns": "Worldly music culture."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common-grace appreciation of craft.", "concerns": "Little."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation and gifts used freely.", "concerns": "Little."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Encouragement within a club community.", "concerns": "Little."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Art and expression as gifts.", "concerns": "Little."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humility of a quiet lead.", "concerns": "Self-display and competitive performance."},
+    {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Talents developed; wholesome teen setting.", "concerns": "Little."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Disability representation (Hikari's father, Kabo).", "concerns": "Little."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience with hardship.", "concerns": "Music and mixed dance debated."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Dance as art (Natya Shastra tradition).", "concerns": "Little."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Mindful presence in movement.", "concerns": "Little."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Disability and self-expression themes.", "concerns": "Idealized crush (ANN)."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Growth through effort and expression.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Hard work and responsibility (team debrief, ANN).", "concerns": "Little."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Wholesome friendship.", "concerns": "Entertainment-focused dance scene."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Clean setting and kindness.", "concerns": "Little."},
+    {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Overcoming limitation by confidence.", "concerns": "Little."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of each person; self-expression.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Body and joy celebrated.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Dance and sincerity of effort.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Perseverance and equality.", "concerns": "Little."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Arts as service and joy.", "concerns": "Little."},
+    {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Communication as growth.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-expression over conformity.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Effort and kindness.", "concerns": "Mixed dancing and tzniut."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Dignity and kindness.", "concerns": "Little."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and expression.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Disputes settled by dance battles and judges (ANN)."},
+      "Order vs freedom": {"pos": 8, "evidence": "Wanda dancing 'like no one is watching' (publisher text)."},
+      "Civic vs kin": {"pos": 3, "evidence": "Club team and friends matter most (ANN)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Team members each take responsibility (ANN)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern street-dance culture."},
+      "Survival vs self-expression": {"pos": 9, "evidence": "Freedom of expression is the core theme (publisher text)."}
+    },
+    "closest": ["New Netherland", "The Left Coast", "English-speaking"],
+    "japan": "Kabo's wish not to stand out reflects Japanese norms of group harmony and conformity in school, described here as context."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "ANN review: message comes through character moments, not stated outright; not preachy.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Self-expression is shown through dance rather than lectured."
+  },
+  "winners_losers": "Kabo grows in confidence and skill; no worldview is cast as the loser.",
+  "to_verify": [
+    "Whether the idealization of Hikari becomes unhealthy (ANN)",
+    "Later volumes' romance"
+  ]
+}

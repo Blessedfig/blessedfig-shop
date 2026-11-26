@@ -1,0 +1,362 @@
+{
+ "anilist_id": 30213,
+ "title": "Sweet Revolution",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30213",
+  "https://api.mangaupdates.com/v1/series/70514223611"
+ ],
+ "premise": "Tatsuki, heir to the dragon king and wielder of a magic dagger, and Ohta, a homeless zashiki-warashi house spirit and his devoted lover, pose as cousins in the human world. Their classmate Kouhei sees them having sex, assumes Tatsuki is forcing quiet Ohta, and resolves to separate them (AniList and MU, from the Juné blurb).",
+ "life_message": "A bond can look like domination from outside; understanding it means knowing it.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Classmate witnesses the pair having sex (Juné blurb on AniList and MU); MU Possessive Lover/s, Master-Servant Relationship; AniList School tag."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "'Subservient lover' dynamic (blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Pagan/occult (folklore), Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 7,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 6,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Kouhei acts to protect someone he thinks is harmed.",
+   "concerns": "Same-sex sex among apparent classmates; spirit lore."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Concern for the vulnerable.",
+   "concerns": "Sexual imagery; spirits."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kouhei's protective instinct.",
+   "concerns": "Same-sex sex; spirits and magic."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Standing up for the weak.",
+   "concerns": "Same-sex sex; magic."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Protecting others.",
+   "concerns": "Spirits and magic; sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Misjudgment corrected.",
+   "concerns": "Lascivious content; spirits."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Putting the best construction on others.",
+   "concerns": "LCMS: same-sex sex."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seeking justice for the seemingly oppressed.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Folklore fantasy.",
+   "concerns": "Views differ by province."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Concern for others.",
+   "concerns": "Sexual content; magic."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Protecting the vulnerable.",
+   "concerns": "Chastity; spirits."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Misreading a same-sex couple examined.",
+   "concerns": "Master-servant power dynamic."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defending the oppressed.",
+   "concerns": "Same-sex sex; spirit beings."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dragon king and house-spirit lore.",
+   "concerns": "Same-sex romance; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Wrong perceptions corrected.",
+   "concerns": "Possessiveness."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questioning assumptions about a couple.",
+   "concerns": "Subservient-lover dynamic."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kouhei learning to look again.",
+   "concerns": "Possessiveness."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Protecting others.",
+   "concerns": "Same-sex sex among students."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Concern for the vulnerable.",
+   "concerns": "Spirits; sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Protecting others.",
+   "concerns": "Spiritism; same-sex sex."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seeing past appearances.",
+   "concerns": "Sensual images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Respect for different bonds.",
+   "concerns": "Power dynamic."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Spirit beings honored.",
+   "concerns": "Possessive dynamic."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Zashiki-warashi and dragon king folklore.",
+   "concerns": "Kami lore used for romance."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage to defend the oppressed.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Defending the vulnerable.",
+   "concerns": "Chastity; magic."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Observation over assumption.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Lovers' self-chosen devotion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Concern for others.",
+   "concerns": "Same-sex acts; sorcery."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Rescuing the vulnerable.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inclusive fantasy romance.",
+   "concerns": "Power dynamic."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 5,
+    "evidence": "Kouhei's resolve to intervene (blurb)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Heir to a dragon throne."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Pose as cousins; royal succession."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Master-servant relationship (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Folklore spirits and the dragon king."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Love versus role."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Latin America",
+   "El Norte"
+  ],
+  "japan": "Zashiki-warashi house spirits and the dragon king (Ryuu-ou) come from Japanese folklore."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurb only.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Fantasy romance without an argued view."
+ },
+ "winners_losers": "Kouhei's misreading is likely corrected and the couple stays together (to verify).",
+ "to_verify": [
+  "Apparent ages of Tatsuki and Ohta (school setting)",
+  "Explicitness",
+  "Old Juné print license (MU)"
+ ]
+}

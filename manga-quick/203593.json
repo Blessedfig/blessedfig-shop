@@ -1,0 +1,91 @@
+{
+ "anilist_id": 203593,
+ "title": "Streaming My Second Life",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/203593",
+  "https://api.mangaupdates.com/v1/series/9946628715"
+ ],
+ "premise": "A full-color Korean webtoon adapted from a web novel. Twenty years after legendary player Lee Suhyeok was killed by a trusted friend during a tower raid, he is reincarnated in a weaker body at level one. Without money or his former abilities, he starts streaming his climb, his stats rising with his view count, and turns his revenge into a viral spectacle (Tapas blurb via AniList and MU).",
+ "life_message": "Betrayal is answered by rising again and making the betrayer pay, with an audience watching.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Endorsed", "note": "Tower raids, sword and magic combat, a murder by a friend and a revenge plot (Tapas blurb; Action, Swordplay, Revenge tags in AniList and MU)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Dungeon-tower danger (MU Tower Climbing)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Power tied to stream view counts; revenge as content (blurb). Capped (to verify)."},
+  {"category": "Commercial", "score": 3, "framing": "Endorsed", "note": "Streaming popularity converted into power (blurb, MU Streamer/s); database and blurb only, capped."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Consumerism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Revenge after betrayal; attention economy as power; second chances through reincarnation",
+ "axes": {"economic": 6, "social": 5, "cultural": 6, "community": 3},
+ "foundations": {"care": 3, "loyalty": 7, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Betrayal by a trusted friend shown as grave wrong.", "concerns": "Revenge as the hero's goal; reincarnation premise."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Little beyond justice for betrayal.", "concerns": "Vengeance and pride in public spectacle."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Perseverance from weakness.", "concerns": "Revenge rejected by Romans 12:19; reincarnation."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Second chance theme.", "concerns": "Vengeance framed as triumph."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Rising from defeat.", "concerns": "Revenge and gods (spoiler tag)."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Truthful about betrayal.", "concerns": "Private vengeance."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Discuss", "aligns": "Little beyond perseverance.", "concerns": "Revenge outside lawful authority."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Discuss", "aligns": "Effort and growth.", "concerns": "Revenge and fame-seeking."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Discuss", "aligns": "Little beyond perseverance.", "concerns": "Revenge."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Revenge and violence as entertainment."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Self-reliance from nothing.", "concerns": "Revenge."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Could critique attention economy (to verify).", "concerns": "Revenge glorified."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Justice for wrongdoing.", "concerns": "Revenge over forgiveness; reincarnation."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Rebirth and karma for the betrayer.", "concerns": "Revenge driven by anger."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Discuss", "aligns": "Rebirth premise.", "concerns": "Hatred and craving for fame drive the hero."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Satirizes streaming culture (to verify).", "concerns": "Violence and revenge."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Skill and strategy.", "concerns": "Revenge."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Hard work from the bottom.", "concerns": "Revenge and fame culture."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Reincarnation; violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence, magic, reincarnation."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Recovery from weakness.", "concerns": "Revenge."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Second chances.", "concerns": "Revenge."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Threefold return on the betrayer.", "concerns": "Harm done in revenge."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Violence."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Courage.", "concerns": "Vengeance for personal gain."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Revenge and violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Returning from past life to regain ability.", "concerns": "Revenge."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Proportionate retaliation and self-assertion.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Revenge forbidden (Lev. 19:18)."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Revenge."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice for wrong.", "concerns": "Revenge."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 9, "evidence": "Betrayal must be personally avenged (Tapas blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Lone climber outside institutions."},
+   "Civic vs kin": {"pos": 6, "evidence": "Personal loyalty and betrayal matter most."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Level and stat rankings (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Game-system world of stats and streams."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Streaming performance as path to power."}
+  },
+  "closest": ["The Far West", "El Norte", "Latin America"],
+  "japan": "Not a Japanese work: MangaUpdates lists it as a Korean webtoon (Daum, Kakao); it follows Korean tower-climbing and regression-revenge web-novel conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Revenge framing set by the premise (to verify)."
+ },
+ "winners_losers": "Suhyeok is positioned to win; the betraying friend is set up as the loser (to verify).",
+ "to_verify": [
+  "AniList lists country of origin as Japan; MangaUpdates lists it as a Korean manhwa from Daum and Kakao. Check catalog data.",
+  "No review or Wikipedia cache opened; database and publisher blurb only.",
+  "Violence level in full-color art."
+ ]
+}

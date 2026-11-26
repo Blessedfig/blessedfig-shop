@@ -1,0 +1,95 @@
+{
+  "anilist_id": 30729,
+  "title": "Emma",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/30729",
+    "https://www.mangaupdates.com/series/6d280r8/emma"
+  ],
+  "premise": "In Victorian London, William Jones, son of a wealthy merchant family, visits his former governess and falls for her quiet, beautiful maid Emma (Yen Press blurb via AniList and MU). Society's strict class codes and his father's plan to marry him into the peerage stand in the way of a romance between a gentleman and a working-class girl; volumes 8 to 10 are side stories (MU).",
+  "life_message": "Genuine love, honest work and kindness are worth more than social rank, though crossing class lines carries real costs.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Nothing significant noted (to verify)."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Social pressure and heartbreak rather than danger (MU Star-Crossed Lovers)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance is central; Nudity tag at mid rank (AniList 42), not described elsewhere (to verify)."},
+    {"category": "Language", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Period social drinking possible (to verify)."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Orphan heroine; heartbreak (MU Orphan/s)."},
+    {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+  ],
+  "lenses": [
+    {"lens": "Critical theory", "strength": 4, "stance": "Explored"},
+    {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Traditionalism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Love across class lines; quiet virtue of work; social hierarchy questioned",
+  "axes": {"economic": 4, "social": 5, "cultural": 4, "community": 5},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 6, "sanctity": 5, "authority": 4, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Dignity of the worker and a love aimed at marriage; modest heroine.", "concerns": "Nudity tag to check; defiance of parents."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humility and quiet service in Emma.", "concerns": "Romantic passion against father's will."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Engagement and faithful love; hard work.", "concerns": "Nudity tag (AniList) to verify; disobeying a father."},
+    {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Character over status; respectful romance.", "concerns": "Possible nudity (to verify)."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "No occult; modest heroine.", "concerns": "Nudity tag to verify."},
+    {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation and dignity in service work.", "concerns": "Fifth-commandment tension with William's father."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation: a maid's daily work honored.", "concerns": "Little to raise."},
+    {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Social holiness against class contempt.", "concerns": "Little to raise."},
+    {"frame": "Anglican / Episcopal", "grade": "S", "weight": "Minor", "aligns": "Victorian English setting rendered with care; love judged by character.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Plainness and humble service.", "concerns": "Worldly high society focus."},
+    {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Marriage-oriented romance; hard work.", "concerns": "Nudity tag to verify."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Class barriers questioned; India and empire in background (MU).", "concerns": "Colonial portrayals (to verify)."},
+    {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Modesty and good character prized over wealth.", "concerns": "Courtship outside family approval; nudity tag."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty and devotion in love.", "concerns": "Defying parental authority; Indian characters' portrayal (MU)."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Gentle compassion, non-attachment to status.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Critique of class hierarchy.", "concerns": "Romanticized servitude (to verify)."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Self-education and individual worth (AniList Educational).", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Manners, work ethic, marriage.", "concerns": "Defiance of family duty."},
+    {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Simplicity and modest dress.", "concerns": "Nudity tag to verify."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Moral cleanness and honesty.", "concerns": "Nudity tag; worldly romance focus."},
+    {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Love overcoming material barriers.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth regardless of class.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal autonomy in love.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity (makoto) and quiet diligence.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work (kirat karni); equality across class.", "concerns": "Little to raise."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Discuss", "aligns": "Prejudice of class rejected; education.", "concerns": "Marriage without parental consent (to verify)."},
+    {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Integrity and communication.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Choosing love over imposed social rules.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Character over wealth.", "concerns": "Tzniut concerns if nudity confirmed."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Dignity and kindness.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice and equality.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Family reputation and 'not done' social codes matter (Yen Press blurb)."},
+      "Order vs freedom": {"pos": 4, "evidence": "London society is 'a web of strict codes and divisions' (Yen Press blurb)."},
+      "Civic vs kin": {"pos": 5, "evidence": "William's father plans a marriage to elevate the family (Yen Press blurb)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "The romance breaks class lines; MU Breaking Societal Norms."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Victorian tradition honored in detail yet questioned."},
+      "Survival vs self-expression": {"pos": 6, "evidence": "Personal love chosen over family advancement (MU Forbidden Love)."}
+    },
+    "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+    "japan": "Kaoru Mori's careful research reflects a Japanese fascination with British maids and manners; restraint and diligence also match Japanese ideals."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "Quiet slice-of-life romance per blurbs and tags (to verify).",
+    "personified": [
+      {"character": "Emma", "ideology": "Humble diligence and quiet dignity", "role": "Hero", "treatment": "Sympathetic"},
+      {"character": "William's father", "ideology": "Social climbing and class order", "role": "Foil", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Class codes are shown as real constraints with reasons, not only as villainy (to verify)."
+  },
+  "winners_losers": "Love across class lines is the story's hope; rigid class ambition is the obstacle. Sympathy is with Emma and personal worth.",
+  "to_verify": [
+    "Nudity tag (AniList 42): which scenes",
+    "How the romance resolves",
+    "Portrayal of Indian characters (MU India, Indian/s)",
+    "No review or Wikipedia text available in this run"
+  ]
+}

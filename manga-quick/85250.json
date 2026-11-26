@@ -1,0 +1,107 @@
+{
+  "anilist_id": 85250,
+  "title": "Real Account",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Real_Account",
+    "https://anilist.co/manga/85250",
+    "https://www.mangaupdates.com/series/k5o1zxm",
+    "https://www.animenewsnetwork.com/review/real-account/gn-1/.101206"
+  ],
+  "premise": "Orphaned high schooler Ataru Kashiwagi lives in poverty with his younger sister Yuri and finds refuge in friends on the social network Real Account. He and about 10,000 users are pulled into a virtual version of the app, where the mascot Marble forces them into deadly games: a player who loses all followers dies, and when a player dies, so do their followers, while the world watches. Ataru teams up with his look-alike Yuuma to survive and find the masterminds; the series ends with the site destroyed and its creators dead (Wikipedia; ANN review).",
+  "life_message": "Online popularity is a hollow measure of friendship; real bonds, especially family, are worth protecting.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Death games with mass deaths; gore across the run though the first volume's tension is mostly psychological (Wikipedia; ANN review; AniList Gore, Death Game; MU Massacre, Play or Die Situation)."},
+    {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Life-or-death stakes for players and followers watching worldwide (Wikipedia; ANN review; MU Survival Game)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Nudity and ecchi elements tagged (AniList Nudity, Ecchi genre; MangaDex suggestive); not mentioned in the review or Wikipedia, so capped (to verify)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "A background sign reading an f-word parody (ANN review); other profanity unverified."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 4, "framing": "Condemned", "note": "Ending news report of two bullied teenagers' suicides; grief and poverty after parents' deaths (Wikipedia; MU Bullying, Dead Parent/s)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Manipulative, dishonest tactics to survive (MU Manipulative Protagonist, Dishonest Protagonist)."},
+    {"category": "Commercial", "score": 3, "framing": "Condemned", "note": "Satire of social media follower culture (ANN review; AniList Satire)."}
+  ],
+  "lenses": [
+    {"lens": "Critical theory", "strength": 4, "stance": "Explored"},
+    {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Nihilism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Social-media satire; survival game; family loyalty",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Ataru's protection of his sister and critique of shallow online 'friendship'.", "concerns": "Spectacle of mass death and gore; fan service."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Vanity of the follower count exposed.", "concerns": "Violence and images that inflame passions."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Warning about idolizing popularity.", "concerns": "Graphic death games; nudity; profanity."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Real relationships over virtual approval.", "concerns": "Gore and nudity weighed against the message."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond the warning.", "concerns": "Violence, nudity, nihilistic tone."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Sin of self-love in the digital age.", "concerns": "Gore and lascivious images."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Fifth-commandment care for neighbor (sister).", "concerns": "Violence volume."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Social critique of online cruelty.", "concerns": "Gore; fan service."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Satire with a moral point.", "concerns": "Heavy-handed violence."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Skepticism of technology and worldly approval.", "concerns": "Violence as entertainment."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Violent and immodest content."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Cyberbullying and its toll on teens addressed.", "concerns": "Spectacle violence; objectification."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Vanity of seeking people's praise.", "concerns": "Nudity; killing as spectacle."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Duty to a sibling.", "concerns": "Violence; immodesty."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Craving for approval shown as suffering.", "concerns": "Killing as main mechanic."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Critique of platform power and online cruelty.", "concerns": "Gore, sexualized content, suicide in the ending."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Critical thinking about social media.", "concerns": "Cruelty and heavy-handedness."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Family loyalty; critique of shallow modern culture.", "concerns": "Gore and nudity."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Warning about media's hold on minds.", "concerns": "Glorified violence; impurity."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Bad associations exposed.", "concerns": "Violent entertainment."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "False reality versus true relationships.", "concerns": "Fear and death dwelt upon."},
+    {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Interdependence of real community.", "concerns": "Cruelty and suicide content."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Harm returns on those who cause it (creators die).", "concerns": "Violence volume."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Bonds of family.", "concerns": "Blood and death; kegare."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Ego of popularity critiqued.", "concerns": "Violence; immodesty."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Unity over vanity.", "concerns": "Violence and suicide."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Communication and trust questioned.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Self-preservation and contempt for herd approval.", "concerns": "Harm to the innocent followers."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Lashon hara online shown as deadly.", "concerns": "Violence; tzniut."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Harmful speech critiqued.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Online ethics and protecting the vulnerable.", "concerns": "Glorified violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Survival by wits and tactics more than personal honor."},
+      "Order vs freedom": {"pos": 6, "evidence": "Imposed game rules contrasted with players' bids to escape them."},
+      "Civic vs kin": {"pos": 6, "evidence": "Ataru's first priority is protecting his sister Yuri."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Follower counts create a hierarchy the story mocks."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Fully digital, secular world."},
+      "Survival vs self-expression": {"pos": 4, "evidence": "Survival dominates; online self-expression is the trap."}
+    },
+    "closest": ["Catholic Europe", "Orthodox Europe", "El Norte"],
+    "japan": "Concern about netto culture, bullying and youth isolation in Japan shapes the satire."
+  },
+  "delivery": {
+    "style": "Heavy-handed",
+    "preachiness": 7,
+    "evidence": "ANN review of volume 1 calls its social-media message heavy-handed and unsubtle; Wikipedia ending stresses the internet's dark side.",
+    "personified": [
+      {
+        "character": "Marble",
+        "ideology": "online friendship is fake",
+        "role": "Villain",
+        "treatment": "Mixed"
+      },
+      {
+        "character": "Ataru Kashiwagi",
+        "ideology": "real bonds over followers",
+        "role": "Hero",
+        "treatment": "Sympathetic"
+      }
+    ],
+    "opposing_views": "Mixed",
+    "note": "The ending grants the internet some potential for good through Yuuma, softening an otherwise one-sided critique."
+  },
+  "winners_losers": "Ataru survives and the creators die; online popularity loses. The dark side of the internet persists in the ending.",
+  "to_verify": [
+    "Extent of nudity and ecchi content (sexuality score capped, possibly understated)",
+    "Gore intensity in later volumes (AniList Gore 80)",
+    "AniList spoiler tags Incest, Clone and LGBTQ+ Themes",
+    "Kodansha age rating"
+  ]
+}

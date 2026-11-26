@@ -1,0 +1,90 @@
+{
+ "anilist_id": 120968,
+ "title": "If You Could See Love",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/120968",
+  "https://api.mangaupdates.com/v1/series/12068839962",
+  "https://api.mangadex.org/manga?title=Moshi, Koi ga Mieta Nara (record df715a94-a013-4d5d-a7d5-f7f2f778d09d)"
+ ],
+ "premise": "Mei Haruno was born able to see pink arrows showing whom people love. After hardships caused by this ability, she enrolls in an all-girls boarding school hoping never to be involved in romance again, only to find two arrows pointing at her. A three-volume yuri romantic comedy with a love triangle.",
+ "life_message": "Love cannot be avoided by hiding from it; facing others' feelings honestly is part of growing up.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light romantic comedy."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Same-sex love triangle among high-school girls (AniList Yuri, Love Triangle; MU Lesbian Character/s); MangaDex safe; AniList low-rank Polyamorous tag."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Traumatic past, bullied lead (MU, 1-3 votes)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing indicated."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Idol tag (AniList, low rank)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Expressive individualism, Progressivism (same-sex romance as ordinary)",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+ "foundations": {"care": 5, "loyalty": 4, "fairness": 4, "sanctity": 2, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Mei learns to face others' feelings with honesty.", "concerns": "Same-sex romance presented as the goal; Church does not approve same-sex relationships."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Truthfulness about feelings.", "concerns": "Same-sex romance central."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Little beyond honesty.", "concerns": "Same-sex romance central (BF&M 2000 on marriage)."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Talking point on love and honesty.", "concerns": "Same-sex love triangle; affirming churches differ."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance; supernatural sight."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Same-sex romance (PC(USA) would differ)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Gentle school story.", "concerns": "LCMS/WELS concern on same-sex romance; ELCA affirming."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Kindness among classmates.", "concerns": "Views split between UMC and holiness churches."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Honest feelings.", "concerns": "Episcopal affirming, ACNA traditional."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "No violence.", "concerns": "Same-sex romance; worldly entertainment."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance contrary to the Proclamation."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Lesbian characters shown as ordinary teens.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Gentle feelings.", "concerns": "Views vary on same-sex love."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Seeing attachment clearly (literal arrows).", "concerns": "Attachment."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "LGBTQ representation without mockery.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Honest emotions.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Same-sex romance presented to teens."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance central."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear.", "concerns": "Families vary."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Affirming portrayal.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Affirming; gift of sight not demonized.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "En (fate-bond) imagery like red threads.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honesty.", "concerns": "Akal Takht position on same-sex unions."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "No prejudice.", "concerns": "Teaching on marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Affirming.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusive, per CJLS 2006.", "concerns": "Congregations vary."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Affirming.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor theme."},
+   "Order vs freedom": {"pos": 6, "evidence": "Boarding-school rules versus personal feelings."},
+   "Civic vs kin": {"pos": 4, "evidence": "Roommates and classmates (MU Roommates, Dormitory)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Student council present (MU), minor."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern secular school."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Feelings and identity are the focus."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "Yankeedom"],
+  "japan": "All-girls boarding schools are a traditional setting for Japanese yuri (class S) stories."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Only blurbs and tags; romance comedy without stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Same-sex romance is presented as ordinary rather than argued for."
+ },
+ "winners_losers": "Not known which suitor wins; Mei's growth toward facing love gets sympathy.",
+ "to_verify": [
+  "Love triangle resolution and the low-rank Polyamorous tag.",
+  "MU marks it axed (1 vote).",
+  "No review found."
+ ]
+}

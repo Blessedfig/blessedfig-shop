@@ -1,0 +1,91 @@
+{
+ "anilist_id": 46572,
+ "title": "Shaman King: Flowers",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/46572",
+  "https://api.mangaupdates.com/v1/series/15172931231"
+ ],
+ "premise": "Hana Asakura, son of Shaman King heroes Yoh and Anna, is bored with life until a fight arrives from within his own family, starting a battle for Asakura supremacy (Kodansha USA blurb via AniList and MangaUpdates). MangaUpdates tags describe guardian spirits, ancestors, a power struggle among cousins and uncles, and a past that shapes the present. A six-volume sequel by Hiroyuki Takei, run in a seinen magazine.",
+ "life_message": "It suggests that facing your family's legacy, with your spirit allies beside you, is how you grow into your own strength.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Family battles and Attempted Murder, War/s tags (MangaUpdates); fights per blurb; intensity not described (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Ghosts, demons and spirits (AniList; MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Engaged Couple tag (MangaUpdates); MangaDex safe."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Short-tempered, arrogant lead (MangaUpdates)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Father complex (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Arrogant, bored teen seeking fights (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Franchise sequel."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Explored"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 2, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Shamanism and spirit partners, family legacy and rivalry, coming of age",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 4, "sanctity": 6, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Family bonds and legacy matter for Hana.", "concerns": "Shamans partnering with spirits; spiritism forbidden (CCC 2116-2117)."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Reverence for ancestors and family.", "concerns": "Spirit contact presented as normal and good."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Channeling spirits as heroic power; fighting."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Growth in responsibility.", "concerns": "Spirit contact."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Family bond.", "concerns": "Guardian spirits, demons and shamanism as heroic."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Heritage and family duty.", "concerns": "Occult practice framed positively."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Family vocation.", "concerns": "Spirit possession themes."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Character growth.", "concerns": "Occult elements."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Mythic fantasy with family drama.", "concerns": "Spirit contact."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Family bond.", "concerns": "Fighting and spirits."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Ancestors and family legacy honored.", "concerns": "Spirit contact avoided in practice."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Diverse cultures (Native American, tribal tags).", "concerns": "Possible stereotypes (to verify)."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Family honor.", "concerns": "Spirits and gods; shamanic power."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Ancestors, spirits and lineage duty.", "concerns": "Family strife."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Spirits common in cosmology; growth.", "concerns": "Fighting."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Female fighters (MangaUpdates).", "concerns": "Native American and tribal portrayals (to verify)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Fiction; growth story.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Lineage and family duty.", "concerns": "Occult themes; arrogant hero."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Family bonds.", "concerns": "Spirits of the dead shown as real allies."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Family loyalty.", "concerns": "Spiritism central to the premise."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Spiritual identity.", "concerns": "Spiritualism rejected."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Spiritual pluralism.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Shamans and spirits respected, witches among allies.", "concerns": "Spirit power used in fights."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Ancestors, spirits and Kyoto heritage.", "concerns": "Disrespect of family elders."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Family duty.", "concerns": "Superstition and spirits rejected by the Gurus."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Family unity sought.", "concerns": "Spiritualism; fighting."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spirit as immortal.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Challenging family authority.", "concerns": "Little at odds."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Lineage honored.", "concerns": "Necromancy-like spirit contact (Deut. 18)."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Family legacy.", "concerns": "Sorcery themes."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Fantasy accepted.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Battle for Asakura supremacy (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Bored Hana seeks excitement (blurb)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Conflict and loyalty centered on the Asakura clan (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Family heads, kings and descendants (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Shamanism, ancestors and spirits (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Fights balanced with personal growth."}
+  },
+  "closest": ["Latin America", "El Norte", "First Nation"],
+  "japan": "The Asakura onmyoji-style family line and ancestor reverence draw on Japanese folk religion and household (ie) succession."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; delivery not described (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources do not describe how the story delivers its themes."
+ },
+ "winners_losers": "Not described in sources (to verify).",
+ "to_verify": [
+  "Ending; series continued in later Shaman King sequels.",
+  "Portrayal of Native American and tribal characters (MangaUpdates tags).",
+  "MangaUpdates gives 2011 start versus AniList 2012; same creator."
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "anilist_id": 85820,
+ "title": "Chio's School Road",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85820",
+  "https://api.mangaupdates.com/v1/series/77698045758"
+ ],
+ "premise": "High-school gamer Chio Miyamo runs into absurd trouble on her daily walk to school, from construction and biker gangs to a sudden need for a bathroom. Once, running late after an all-night game session, she takes to the rooftops like a video-game assassin (Yen Press blurb via AniList; MU description).",
+ "life_message": "Everyday life is full of ridiculous adventures if you treat it like a game.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Slapstick and biker-gang encounters (blurb; AniList Slapstick)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comic peril."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU genre Ecchi; MangaDex 'suggestive'; subtle romantic subplot (MU). Database only, capped (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Social awkwardness played for laughs (MU)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Rooftop parkour after all-night gaming (MU blurb; MU Parkour, Gaming Addict/s); toilet humor (blurb)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Video-game references (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Absurd everyday comedy; gamer imagination",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Friendship and humor in ordinary life.", "concerns": "Ecchi gags; crude bathroom humor."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Little beyond friendship.", "concerns": "Immodest humor."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Harmless school comedy at its core.", "concerns": "Ecchi content and crude jokes."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Fun friendship.", "concerns": "Fan service (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Immodesty."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Comedy of human foolishness.", "concerns": "Ecchi."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Freedom to laugh.", "concerns": "Crude content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Diversions of little edification."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle absurdism.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Nonviolent comedy.", "concerns": "Gaming culture; ecchi."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Vulgar humor."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Female gamer lead.", "concerns": "Fan service."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Haya: ecchi and bathroom humor."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Laughing at one's own folly.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Quirky girl lead.", "concerns": "Sexualized gags."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Harmless humor.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Going to school daily.", "concerns": "Crude humor; gaming addiction."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Impure gags."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Immodest content."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Joy.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Playfulness.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Freedom.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Neighborhood life.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Immodesty."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Unchaste humor."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Creativity.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgent fun.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Nivul peh; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Humor.", "concerns": "Crude jokes."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Light comedy.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Avoids trouble rather than confronting it (blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Ignores normal routes, takes rooftops (MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friendships on the way to school."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peer comedy."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Gaming culture (MU)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Imagination and play."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "The walk to school and the pressure not to be late reflect Japanese school routines, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic surreal gag comedy (AniList, MU); no message reported (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No clear thesis in sources."
+ },
+ "winners_losers": "Chio's imagination wins the day; no opposing outlook.",
+ "to_verify": [
+  "No review opened; extent of fan service (MU Ecchi; MU 'Drawn by Hentai Artist' at 2 votes) to check.",
+  "Language level."
+ ]
+}

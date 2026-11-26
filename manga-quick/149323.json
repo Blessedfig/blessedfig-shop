@@ -1,0 +1,91 @@
+{
+ "anilist_id": 149323,
+ "title": "Dungeon Friends Forever",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/149323",
+  "https://api.mangaupdates.com/v1/series/24270715008",
+  "https://api.mangadex.org/manga/8572da1b-3b5d-44aa-a40c-8a92b512c336"
+ ],
+ "premise": "Van, an adventurer, and Ryuka, a dragon girl who now runs a dangerous dungeon, have been friends since childhood. Every time Van wants to visit, bring food or plan a game night, he has to fight through her monster underlings, who want the two to get together (Seven Seas blurb via AniList and MU).",
+ "life_message": "Old friendship, patiently kept up, can grow into love across any difference.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Comic fights with dungeon monsters (blurb)."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Iyashikei (soothing) tag."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romantic comedy; MU Dirty Joke/s and Succubus/bi."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Slapstick fighting."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Childhood friendship; interspecies romance; monsters as found family",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Faithful friendship between Van and Ryuka.", "concerns": "Dirty jokes; succubus characters."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Constancy in friendship.", "concerns": "Demon and succubus figures as comedy."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Loyal childhood friendship.", "concerns": "Succubus, demons and crude humor."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Kindness to 'monsters' and outsiders.", "concerns": "Dirty jokes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Faithfulness and warmth.", "concerns": "Demons and succubi played lightly."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common-grace warmth and humor.", "concerns": "Crude jokes."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Neighborly love across difference.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Friendship and hospitality.", "concerns": "Crude humor."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle comedy.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Minor", "aligns": "Peaceful relationship at the core.", "concerns": "Fighting as routine comedy."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Long-term commitment.", "concerns": "Dirty jokes."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Friendship across species and roles.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and kindness.", "concerns": "Succubus and demon humor; immodest monster girls (to verify)."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Harmony among beings.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Kindness to all beings.", "concerns": "Slapstick harm."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Acceptance of difference.", "concerns": "Monster-girl fan service (to verify)."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Friendship and humor.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Loyalty and courtship.", "concerns": "Crude jokes."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Simple friendship.", "concerns": "Demons and magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Demons, succubi and magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love dissolving fear of monsters.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence across difference.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Dragons and creatures shown kindly.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony with non-human beings.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Equality of all beings.", "concerns": "Crude humor."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity across difference.", "concerns": "Crude jokes."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and communication.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Demons shown sympathetically.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Loyal friendship.", "concerns": "Crude speech; demon figures."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Crude humor."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive friendship.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Fights are comic obstacles, not honor contests (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Adventurer and dungeon boss follow their own wishes."},
+   "Civic vs kin": {"pos": 5, "evidence": "Childhood bond and monster 'family' around Ryuka."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Dungeon boss and minions, but relations are friendly."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Fantasy world without religious frame."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Game nights and leisure (blurb)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "English-speaking"],
+  "japan": "A Japanese iyashikei-style fantasy rom-com playing on game and dungeon conventions; the childhood-friend romance (osananajimi) is a common Japanese trope."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurb frames it as a 'delightful rom-com'; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A light comedy without an argued message."
+ },
+ "winners_losers": "Van, Ryuka and the matchmaking monsters all share the sympathy.",
+ "to_verify": [
+  "Level of dirty jokes and monster-girl fan service.",
+  "Volume count differs (AniList 8, MU 7 complete, Seven Seas 6 at last update).",
+  "No review or Wikipedia cache opened."
+ ]
+}

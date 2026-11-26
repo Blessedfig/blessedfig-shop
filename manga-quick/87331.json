@@ -1,0 +1,85 @@
+{
+ "anilist_id": 87331,
+ "title": "Unexpected Love Serendipity",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/87331", "https://api.mangaupdates.com/v1/series/25430773965"],
+ "premise": "In the title story, office worker Shimizu escapes a mixer by claiming to be gay and kissing his flashy colleague Karasuma; hiding from pursuers in a hotel, the drunk and curious Karasuma proposes they sleep together, and feelings follow (Renta! blurb via AniList and MangaUpdates). The one-volume anthology also includes 'MANNERIXX', about a couple of seven years trying to revive their sex life, and 'Kanashimi no Shady'.",
+ "life_message": "Love can begin by accident and grow out of curiosity (to verify).",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Endorsed", "note": "Blurb describes a sex scene directly; MangaUpdates lists sex toys, fetishes, first-time and drunken intercourse; MangaDex erotica."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Crude sexual dialogue in blurb."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Drunken hookup (blurb; MangaUpdates)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Insecurity (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Lying about orientation, drunk sex, cheating categories (MangaUpdates)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Sexual curiosity becoming love; comedy of office life; long-term couple intimacy",
+ "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 3},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 3, "sanctity": 1, "authority": 2, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "A seven-year couple trying to keep their love alive (MANNERIXX).", "concerns": "Casual drunken same-sex sex as the start of love."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Faithfulness of a long-term couple.", "concerns": "Passions celebrated; explicit content."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Drunken hookup and gay sex as comedy."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Commitment over time in one story.", "concerns": "Lies, drunkenness and sex as the plot."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Sexual immorality throughout."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Lascivious content; ninth-commandment lie."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Couple tending their relationship.", "concerns": "Sixth-commandment issues; drunkenness."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Drunkenness and casual sex."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Comic look at office life and love.", "concerns": "Explicit casual sex."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly sexual content."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Chastity; alcohol."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Gay couples, including a long-term one.", "concerns": "Drunken consent and cheating."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol, same-sex sex, lying."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Kama in a committed couple.", "concerns": "Intoxication and untruth."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Third, fourth and fifth precepts."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Queer sexuality shown without shame.", "concerns": "Drunken sex and 'forced into a relationship' category."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Comic, adult take on desire.", "concerns": "Consent while drunk."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Casual sex and drunkenness."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol and sexual content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality and drunkenness."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol and sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "LGBTQ adults' lives affirmed.", "concerns": "Consent questions."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Joyful sexuality among adults.", "concerns": "Cheating and lies."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Office-group life and mixers drawn from daily custom.", "concerns": "Insincerity in the opening lie."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Lust and intoxicants."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Unchaste content; alcohol."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Couple works on communication.", "concerns": "Cheating category; drunkenness."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence and curiosity among consenting adults.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Forbidden relations and nivul peh."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Degrading content; lying."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Inclusive adult romance.", "concerns": "Consent while drunk."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Embarrassment handled with jokes, not confrontation."},
+   "Order vs freedom": {"pos": 8, "evidence": "Sexual experimentation without rules (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Coworkers and couples; family absent."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Colleagues and senpai-kohai pairs (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Modern urban sexual mores."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Pleasure and curiosity are the values."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "English-speaking"],
+  "japan": "Company mixers (gōkon) and after-work drinking are Japanese office customs the comedy builds on."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedy blurbs; no message stated (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argument is made; desire drives the plots."
+ },
+ "winners_losers": "The couples end together (to verify); the 'man-hungry' women at the mixer are comic obstacles.",
+ "to_verify": [
+  "Explicitness and censorship of the Renta! edition.",
+  "Context of 'cheating' and 'forced into a relationship' categories."
+ ]
+}

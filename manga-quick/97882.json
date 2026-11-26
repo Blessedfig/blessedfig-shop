@@ -1,0 +1,367 @@
+{
+ "anilist_id": 97882,
+ "title": "Marry Me!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/97882",
+  "https://api.mangaupdates.com/v1/series/77541364649"
+ ],
+ "premise": "On his 29th birthday civil servant Sinn is chosen as the first subject of an experimental law that marries him to a stranger, Mari, a recluse who has yet to experience life's small joys (WEBTOON blurb). The pair navigate married life while testing whether the law serves society. A full-color slice-of-life romance tagged for arranged marriage, family life, an age gap and social commentary (AniList, MangaUpdates).",
+ "life_message": "It holds up marriage as a partnership that grows through patience, care and shared small joys.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Domestic drama."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Married adult couple; age gap (AniList tag); no explicit content noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mari's reclusiveness and dependency (MangaUpdates NEET, Dependency)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little imitable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Marriage as growing partnership; state-arranged marriage questioned; recovery from isolation",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 4,
+  "authority": 5,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Married love growing into commitment and family.",
+   "concerns": "State-imposed marriage lacks free consent."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Patience and love within marriage.",
+   "concerns": "Coerced union."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithful married partnership.",
+   "concerns": "Government-arranged marriage."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love learned within marriage.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Commitment.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Covenant-like faithfulness.",
+   "concerns": "State overreach."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage as vocation.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Patient love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Partnership and kindness.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Simple domestic life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage and family at center.",
+   "concerns": "State control over marriage."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Mental-health empathy.",
+   "concerns": "Consent questions in mandated marriage."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage valued.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Arranged marriage growing into love fits many families.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness and patience.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Recluse's growth handled kindly.",
+   "concerns": "State-forced marriage; consent."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questions the law's benefit.",
+   "concerns": "Individual choice overridden."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage and family.",
+   "concerns": "State intrusion."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Married life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Married life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love dissolves fear.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of an isolated person.",
+   "concerns": "Consent in law-mandated marriage."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Partnership.",
+   "concerns": "Consent."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony in household.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Household life (grihasta).",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage as fortress of well-being.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication in marriage.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Little to raise.",
+   "concerns": "Personal freedom curtailed by state."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Shalom bayit: peace in the home.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Marriage and family.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Partnership.",
+   "concerns": "Consent issues."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "Quiet domestic life."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "State law decides marriage."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "New family at center."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Civil servant obeys law."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Social experiment by government."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Daily-life stability."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Puritan",
+   "Yankeedom"
+  ],
+  "japan": "Concerns over Japan's falling marriage rate and social withdrawal (hikikomori) underlie the premise, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb only; MangaUpdates lists social commentary (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Its view of marriage comes through the couple's daily life."
+ },
+ "winners_losers": "The couple's bond is central and sympathetic (to verify).",
+ "to_verify": [
+  "Mari's age and the size of the age gap.",
+  "How the story judges the marriage law.",
+  "Webtoon versus print chapter differences."
+ ]
+}

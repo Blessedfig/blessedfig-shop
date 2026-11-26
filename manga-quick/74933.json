@@ -1,0 +1,96 @@
+{
+ "anilist_id": 74933,
+ "title": "PSYCHO-PASS : Inspector Akane Tsunemori",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/74933",
+  "https://api.mangaupdates.com/v1/series/51496081219",
+  "https://myanimelist.net/manga/44933"
+ ],
+ "premise": "In a future Japan, the Sibyl System measures each citizen's mind and crime potential, called the Psycho-Pass, and plans their lives (MAL; MANGA MILLION blurb). Rookie Inspector Akane Tsunemori works with Enforcers, latent criminals armed with Dominator guns, and encounters a criminal whose Psycho-Pass reads as righteous. The manga retells the first anime season from Akane's point of view (MAL).",
+ "life_message": "Conscience and personal judgment must hold even when a powerful system claims to measure right and wrong for everyone.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Shown with consequences", "note": "'Fair amount of gore' (MAL review); Gore tag (AniList); Blood and Gore, Body Horror, Murder (MangaUpdates)."},
+  {"category": "Fear and intensity", "score": 6, "framing": "Neutral", "note": "Dystopia, dark ambience, psychopaths (MangaUpdates); suspenseful (MAL review)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Nudity listed by MangaUpdates; not described elsewhere (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Mental state is policed; psychopathy theme (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Lethal policing by Enforcers (MangaUpdates blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime tie-in."}
+ ],
+ "lenses": [
+  {"lens": "Collectivism/authoritarianism", "strength": 7, "stance": "Critiqued"},
+  {"lens": "Utilitarianism", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Critique of algorithmic justice; individual conscience; surveillance state",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 8, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Akane's conscience over a system that reduces souls to numbers; human dignity.", "concerns": "Graphic gore."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "The soul cannot be measured by machines.", "concerns": "Gore and dark imagery."},
+  {"frame": "Baptist", "grade": "B", "weight": "Significant", "aligns": "Soul liberty against a controlling system.", "concerns": "Graphic violence."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Personal moral responsibility over technocratic control.", "concerns": "Gore."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Resisting a godlike system.", "concerns": "Gore and dark psychology."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Only God judges hearts; a machine claiming to is idolatrous.", "concerns": "Gore."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Questions what legitimate authority is.", "concerns": "Graphic violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Significant", "aligns": "Justice tempered by conscience.", "concerns": "Gore."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Serious moral speculative fiction.", "concerns": "Gore."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Critique of state coercion.", "concerns": "Lethal policing and gore."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Agency (moral choice) defended.", "concerns": "Violent content beyond youth guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Critique of surveillance and pre-crime profiling.", "concerns": "Gore."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Only God knows the heart; justice must be fair.", "concerns": "Gore; nudity (MangaUpdates)."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Dharma of a just officer.", "concerns": "Tamasic gore."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Significant", "aligns": "Inquiry into mind and intention.", "concerns": "Violence and killing."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Critique of algorithmic bias and state power; female lead.", "concerns": "Gore."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Human judgment and freedom of thought against a technocracy.", "concerns": "Gore."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Personal responsibility and suspicion of centralized control.", "concerns": "Gratuitous gore."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Conscience above state.", "concerns": "Violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Critique of human governments.", "concerns": "Violent entertainment."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Mind not reducible to material readings.", "concerns": "Fear and violence."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Free and responsible search for truth.", "concerns": "Gore."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Personal will and responsibility.", "concerns": "Harm."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity of heart over measurement.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "B", "weight": "Significant", "aligns": "Truthful living and defending the wrongly accused.", "concerns": "Gore."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Significant", "aligns": "Justice and harmony of science with ethics.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Critique of measuring and controlling minds.", "concerns": "Mental-state policing may echo psychiatry themes."},
+  {"frame": "Satanist", "grade": "A", "weight": "Discuss", "aligns": "Rebellion against arbitrary authority.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Free will and accountability.", "concerns": "Gore."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice and dignity.", "concerns": "Gore."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical critique of state power.", "concerns": "Gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Law and system, not personal honor."},
+   "Order vs freedom": {"pos": 4, "evidence": "Total order under Sibyl, questioned by Akane (MAL synopsis)."},
+   "Civic vs kin": {"pos": 2, "evidence": "Citizen-state relations, not family."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Inspector-Enforcer hierarchy (MangaUpdates blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Technocratic, scientific society."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Security versus individual mind."}
+  },
+  "closest": ["Yankeedom", "Catholic Europe", "The Midlands"],
+  "japan": "Set in a near-future Japan whose ideal of an orderly, low-crime, harmonious society is pushed to an extreme."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 4,
+  "evidence": "MangaUpdates lists social commentary; MAL review says it carries the series' 'ideological torch'.",
+  "personified": [
+   {"character": "The Sibyl System", "ideology": "Algorithmic, utilitarian control of society", "role": "Other", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The system's case is set against Akane's conscience; how fairly each side is given is not settled by the sources."
+ },
+ "winners_losers": "Akane's conscience gets sympathy; the Sibyl System's promise of safety is questioned.",
+ "to_verify": [
+  "Antagonist Shougo Makishima's philosophy and whether it is fairly argued (sources name him only).",
+  "Nudity (MangaUpdates only).",
+  "Review sources mostly cover the anime; the MAL review is about this manga.",
+  "MangaUpdates blurb centres Kogami (the companion manga's lead); check it describes this series."
+ ]
+}

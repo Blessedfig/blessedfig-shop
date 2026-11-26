@@ -1,0 +1,91 @@
+{
+  "anilist_id": 87015,
+  "title": "Imperfect Girl",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/87015",
+    "https://api.mangaupdates.com/v1/series/65679060037",
+    "https://animenewsnetwork.com/review/imperfect-girl/gn-1/.123367"
+  ],
+  "premise": "A novelist recalls an incident from ten years earlier, when as an aspiring writer in college he saw an elementary school girl killed by a truck, while her friend calmly saved her video game before checking on her. That girl later threatens him with a knife and confines him in a closet in her apparently empty home, a series of traumatic events he credits with making him a writer (Kodansha text via AniList; MangaUpdates; ANN review).",
+  "life_message": "The story suggests that facing painful truth, rather than self-deception, is what turns a pretender into an author; it offers no clear moral lesson.",
+  "overall": 5,
+  "content": [
+    {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Child killed by a truck; knife threat (ANN); MU Violence, Accident."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Dark, moody captivity story (ANN); MU Horror genre, Dark Ambience."},
+    {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None mentioned (ANN)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Traumatic events around a lonely child (publisher text; ANN); AniList Orphan (spoiler), Tragedy."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Child confines an adult; adult passively complies (ANN)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+    {"lens": "Postmodernism", "strength": 4, "stance": "Explored"},
+    {"lens": "Absurdism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "storytelling and lies; a neglected child; trauma shaping a writer",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 6, "loyalty": 3, "fairness": 4, "sanctity": 3, "authority": 4, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Attention to a lonely, possibly neglected child.", "concerns": "Child's death and captivity with no moral frame."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Self-deception exposed.", "concerns": "Dark mood and fear."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Honesty over lies ('aspiring author lies', publisher text).", "concerns": "Knife threat and confinement."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Raises talk on truth and care for children.", "concerns": "Bleak, no hope offered."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Ambiguous shadowy shapes (ANN)."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Ninth-commandment questions about lying in fiction.", "concerns": "Child endangerment."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Vocation of writer examined.", "concerns": "Dark tone."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Concern for a neglected child.", "concerns": "Adult's passivity toward danger."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary look at fiction and truth.", "concerns": "Mature themes."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Nonviolent response by the adult.", "concerns": "Dark secular media."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Honesty valued.", "concerns": "Violence to a child."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Highlights child neglect.", "concerns": "Trauma depiction."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness theme.", "concerns": "Fear and violence."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Satya versus the writer's lies.", "concerns": "Tamasic mood."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Suffering and delusion examined.", "concerns": "Violence."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Child welfare questions.", "concerns": "Trauma and confinement."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Psychological realism about creativity.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Truth over self-deception.", "concerns": "Absent adults; captivity."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Little in the message fits.", "concerns": "Fear-inducing fiction."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness.", "concerns": "Violence."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming fear.", "concerns": "Death and fear dwelt on."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of a lonely child.", "concerns": "Trauma."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Little in the message fits.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Makoto versus lies.", "concerns": "Kegare of death."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Truthful living.", "concerns": "Violence."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness as foundation.", "concerns": "Dark content."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Confronting past incidents.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Unsentimental look at human nature.", "concerns": "Harm to a child."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Keep far from falsehood.", "concerns": "Violence."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Honesty valued.", "concerns": "Child endangerment."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethical reflection.", "concerns": "Trauma."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "No feud; protagonist goes along passively (ANN)."},
+      "Order vs freedom": {"pos": 5, "evidence": "Rules ignored in an adult-free home (ANN)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Absent family (ANN; AniList Orphan spoiler)."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Adult-child roles inverted (ANN)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular, literary framing."},
+      "Survival vs self-expression": {"pos": 4, "evidence": "Captivity versus a writer's self-expression."}
+    },
+    "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+    "japan": "NISIOISIN's wordplay-driven, meta-fictional style is a recognizable strand of Japanese light-novel writing, described here as context."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 2,
+    "evidence": "ANN review: ambiguous and stylized, no moral lesson presented.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Meaning is left for readers to infer from a framed memoir."
+  },
+  "winners_losers": "The narrator becomes a novelist; the girl's fate is not documented in the sources.",
+  "to_verify": [
+    "The girl's home situation and any abuse (AniList Orphan spoiler)",
+    "Ending of volume 3",
+    "No Wikipedia cache available; web budget ran out"
+  ]
+}

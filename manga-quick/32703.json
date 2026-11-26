@@ -1,0 +1,363 @@
+{
+ "anilist_id": 32703,
+ "title": "Meeting You",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32703",
+  "https://api.mangaupdates.com/v1/series/33071713875"
+ ],
+ "premise": "Shy Touru Onozuka confesses to his handsome classmate Himeshiro, who dates anyone who asks; instead of answering, Himeshiro sets him trials and humiliating tasks to prove his love (AniList, from Juné; MU). The volume also has linked stories such as \"How to Find a Gentle Kiss\", about a man whose best friend kissed him and then vanished for three years (MU).",
+ "life_message": "Love is proved by enduring tests until the other person finally gets serious.",
+ "overall": 8,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "MU lists a character who bullies the one he loves."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 8,
+   "framing": "Endorsed",
+   "note": "MU genres Adult and Smut; 801 Media yaoi imprint; high school classmates (MU, AniList School)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not noted (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Humiliation of Touru (AniList blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "Humiliating love trials accepted as courtship (AniList blurb; MU Character Who Bullies the One They Love)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Hedonism; Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 7,
+  "community": 4
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 4,
+  "fairness": 2,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Touru's constancy.",
+   "concerns": "Explicit sexual content involving high school characters; humiliation as love test."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content inflaming the passions; degrading trials."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit same-sex content with students; humiliation."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content with high schoolers celebrated."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content; same-sex acts; degradation."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lascivious content (WLC Q139); love proved by humiliation."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content with minors; Himeshiro treats Touru as a test subject."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; harm done in the name of love."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Dignity of Touru not respected; explicit content with students."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; worldly romance; humiliation."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Law of chastity; explicit content involving youths."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "A same-sex couple who end up together.",
+   "concerns": "Sexualized high schoolers; power games dressed as love."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; same-sex acts; humiliation."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Kama without dharma; humiliation of another."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual misconduct and harm through humiliation."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Same-sex desire without shame.",
+   "concerns": "Sexualization of minors; humiliating trials as consent pressure."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Coercive dynamics and sexualized minors."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content for students; vulgar."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Content exciting the passions."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality and pornographic content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Impure and degrading images dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Same-sex love.",
+   "concerns": "Dignity of Touru; minors sexualized."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Harm through humiliation; sex involving youths."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Insincere testing of a sincere confession."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lust and ego (haumai) in Himeshiro's games."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity; degrading content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Himeshiro is not trustworthy; harms Touru."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Pursuit of desire.",
+   "concerns": "Harm to children rule; student characters sexualized."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit content; same-sex acts; humiliation of another (ona'at devarim)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Degrading content; humiliating speech."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Exploitation and humiliation."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Touru endures humiliation rather than defending pride."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Sexual freedom; Himeshiro dates anyone."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Classmates and co-workers, not kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Himeshiro sets the terms and Touru submits."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Desire comes first."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "English-speaking"
+  ],
+  "japan": "All-boys school settings (MU) are a common Japanese BL backdrop where a popular senior or classmate holds social power."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedy and trials plot (AniList, MU); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Light erotic comedy without argued message."
+ },
+ "winners_losers": "The blurb asks whether Himeshiro will get serious; MU lists Openly Gay Couple, suggesting the pair end together (to verify).",
+ "to_verify": [
+  "Ages of Touru and Himeshiro and whether their story includes explicit sex",
+  "How large a share of the volume is explicit (possible explicit-at-core title)",
+  "Ending",
+  "English availability (801 Media, likely out of print)"
+ ]
+}

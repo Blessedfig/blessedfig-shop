@@ -1,0 +1,362 @@
+{
+ "anilist_id": 30291,
+ "title": "PICNIC",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30291",
+  "https://api.mangaupdates.com/v1/series/56204845256"
+ ],
+ "premise": "Yugi Yamada's collection opens with college friends Koreeda and Noda, who try being friends with benefits after Koreeda's girlfriend leaves (Juné blurb). Stories 3 to 5 return to Hashimoto and Oikawa from her earlier work; other stories touch on a long-distance couple, a thief and an age-gap pair (MU, AniList).",
+ "life_message": "Real love grows out of friendship and honesty more than out of casual arrangements.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "A thief character (MU); no violence reported."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Low intensity comedy-drama."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Friends-with-benefits premise (Juné blurb); AniList Virginity, Prostitution; MU lists explicit sex acts and one vote for Adult-Teenager Relationship."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Bickering couples (MU); none specific."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Insecurity and unrequited love (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Casual sex arrangement; prostitution tagged (AniList) (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism, Hedonism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Koreeda seeks \"something real\" beyond rebound sex.",
+   "concerns": "Friends-with-benefits sex; same-sex romance; prostitution tagged."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship valued as the ground of love.",
+   "concerns": "Casual sex inflames the passions; same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest talk between Koreeda and Noda.",
+   "concerns": "Casual sex outside marriage; same-sex romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithful friendship survives awkward arrangements.",
+   "concerns": "Hookup culture normalized; same-sex couples."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal friends support each other.",
+   "concerns": "Sexual content; prostitution tag."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthful portrayal of loneliness after a breakup.",
+   "concerns": "WLC Q139 \"lascivious pictures\"; same-sex unions."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Humor and everyday vocation in Yamada's work.",
+   "concerns": "LCMS would object to casual sex; ELCA milder."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friends caring for each other through rebounds.",
+   "concerns": "Holiness concern about casual sex."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Witty, humane characterization.",
+   "concerns": "Casual sex normalized; provinces differ on same-sex love."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Simple, unglamorous friendships.",
+   "concerns": "Worldly romance and casual sex."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Commitment sought over the rebound.",
+   "concerns": "Law of chastity; same-sex romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Gay and bisexual men drawn with warmth.",
+   "concerns": "Possible adult-teenager pairing (MU single vote) to check."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty among friends.",
+   "concerns": "Zina outside marriage; same-sex intimacy."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship and care across age gaps.",
+   "concerns": "Kama outside dharma's marriage frame."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Seeing through craving toward real connection.",
+   "concerns": "Third precept on casual sex."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Bisexual and gay lives normalized, humorous.",
+   "concerns": "Consent and age in the age-gap story need checking."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adults choosing relationships thoughtfully.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and eventual commitment.",
+   "concerns": "Casual sex and prostitution tags."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friends helping each other heal.",
+   "concerns": "Sexual content; same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest friendship.",
+   "concerns": "Same-sex romance; sexual immorality as JW teaching defines it."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love emerging from friendship.",
+   "concerns": "Focus on physical desire."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Every kind of relationship respected.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Consenting adults exploring love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity between old friends.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Plain, honest friends.",
+   "concerns": "Sex outside marriage."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truthfulness between friends.",
+   "concerns": "Chastity outside marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Affinity and communication rebuild a friendship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence without shame.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Chesed between friends.",
+   "concerns": "Same-sex romance; immodest content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Caring adult relationships.",
+   "concerns": "Casual sex framing."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusive and humane.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor stakes."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "Friends invent their own arrangements (Juné blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 3,
+    "evidence": "Friends over family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Mostly peers; one age-gap pair (AniList)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular college and work life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Personal happiness first."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "The Left Coast",
+   "Protestant Europe"
+  ],
+  "japan": "College friendship groups and long-distance work transfers (tenkin) are everyday Japanese settings in these stories."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurb poses Koreeda's search without commentary (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A comic, humane anthology with no argued thesis (to verify)."
+ },
+ "winners_losers": "Koreeda and Noda appear to move toward a real relationship (to verify).",
+ "to_verify": [
+  "Which story carries the Adult-Teenager Relationship vote",
+  "Prostitution context",
+  "Ending of the Koreeda/Noda story"
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "anilist_id": 118070,
+ "title": "Deadly Sugar Syrup",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/118070", "https://api.mangaupdates.com/v1/series/66948118781"],
+ "premise": "Mizuki is a modern vampire who controls his bloodlust by feeding on semen instead of blood, always choosing partners outside his social circle (Renta! blurb via AniList and MangaUpdates). When he loses control he assaults Sakura, a younger student at his college, and a comic romance follows. A one-volume debut boys' love comedy with sexual content.",
+ "life_message": "Love can tame appetite: a creature of hunger finds something he values more than feeding (to verify).",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "No fighting noted; the 'assault' is sexual (blurb)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Vampire premise played for comedy (AniList genres)."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Endorsed", "note": "Feeding is sexual by premise (blurb); MangaUpdates lists Smut genre and oral sex; a non-consensual first encounter (blurb)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "An assault that begins the romance, played for comedy (blurb) (to verify framing)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 5, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Appetite and desire; promiscuity turning to love; supernatural comedy",
+ "axes": {"economic": 5, "social": 8, "cultural": 6, "community": 4},
+ "foundations": {"care": 4, "loyalty": 4, "fairness": 2, "sanctity": 1, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Mizuki's promiscuous feeding may yield to love for one person (to verify).", "concerns": "Lust as a comic premise; assault as meet-cute; same-sex sexual content."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Shows a passion that masters a person.", "concerns": "Inflames the passions it depicts; vampire lore and sexual content."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little beyond a turn toward one partner.", "concerns": "Sexual immorality is the premise; dark supernatural creature as hero."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Possible move from many partners to one.", "concerns": "Celebrates lust; non-consent framed as romance; gay sex scenes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Vampirism tied to sexual appetite; explicit same-sex content."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Unflattering picture of appetite out of control.", "concerns": "Lascivious content (WLC Q139) as comedy."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Shows how desire overrides reason (to verify).", "concerns": "Sixth-commandment concerns across synods; assault played lightly."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "A turn from many partners toward one (to verify).", "concerns": "Hinders holiness; sexual content central."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Comic fantasy about appetite and restraint.", "concerns": "Non-consent at the start; explicit content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly sexual content is the core."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Law of chastity; vulgar, immoral media."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Gay characters in a light romance.", "concerns": "Assault as the start of romance conflicts with consent ethics."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit sexual content and same-sex relations; haya."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Kama shown as needing restraint (to verify).", "concerns": "Tamasic appetite celebrated; explicit content."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Shows craving as a hunger that harms others.", "concerns": "Third precept: harmful sexual conduct played as comedy."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Queer romance with comic tone.", "concerns": "Sexual assault framed as meet-cute; consent concerns."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Light fantasy, no claims as truth.", "concerns": "Coercion treated lightly."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Promiscuity and explicit sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Excites the passions; supernatural creature."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Immorality and spiritistic creature themes."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Dwelling on bodily appetite."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "LGBTQ romance welcomed.", "concerns": "Non-consent at the start; adult-only content."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Sexuality as a natural force; supernatural folklore.", "concerns": "'Harm none': the assault conflicts."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Supernatural being among people, without disrespect to kami.", "concerns": "Impurity and loss of self-control."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Lust (kaam) as the engine of the story."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Unchaste content central."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Move toward faithfulness to one partner (to verify).", "concerns": "Harm to a person of good will at the start."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Indulgence and appetite openly embraced.", "concerns": "Unwanted sexual advance (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit content, same-sex relations, nivul peh."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Degrading sexual content and coercion."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Inclusive romance.", "concerns": "Consent ethics violated at the start."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor conflicts noted; comedy of appetite."},
+   "Order vs freedom": {"pos": 7, "evidence": "Mizuki lives by his own rules and appetites (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "No family role noted."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Senpai-kohai relationship (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern campus life; vampire lore used playfully."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Pleasure and desire are the driving values."}
+  },
+  "closest": ["New Netherland", "English-speaking", "Catholic Europe"],
+  "japan": "The senpai-kohai pairing and comic 'wanko' (puppy-like) love interest are common Japanese BL conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurb sells it as addictive comedy; no message stated (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Any view of love is carried by comic plot, not argument."
+ },
+ "winners_losers": "Mizuki and Sakura end together (to verify); the story sympathizes with Mizuki's appetite rather than questioning it.",
+ "to_verify": [
+  "How explicit the sex scenes are and whether censored in the Renta! edition.",
+  "How the opening assault is framed and resolved.",
+  "Possible borderline for the explicit-at-core list: MangaUpdates genre Smut (not Hentai)."
+ ]
+}

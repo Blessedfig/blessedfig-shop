@@ -1,0 +1,376 @@
+{
+ "anilist_id": 33581,
+ "title": "Butterflies, Flowers",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/33581",
+  "https://api.mangaupdates.com/v1/series/49363627290",
+  "https://mangabookshelf.com/2009/12/05/butterflies-flowers-volume-1/",
+  "https://www.comicbookbin.com/butterfliesflowers002.html"
+ ],
+ "premise": "Choko Kuze, from a once-wealthy family, starts work at a real-estate firm where her demanding boss, Masayuki Domoto, turns out to be the son of her family's former chauffeur. He is a tyrant at work but still calls her 'milady' and serves her after hours, and an office romance develops with rivals, cross-dressing friends and comedy.",
+ "life_message": "Loyal love across class and old roles, honestly including sex as part of love, leads to happiness.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Comic office cat fights (review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "Rated M (Viz); sex 'part of the romance' (ComicBookBin); MU Smut genre, AniList Nudity."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Angst in love triangles (review)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Boss's sexual harassment played as comedy (ComicBookBin; MU Perverted Male Lead)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Feminism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Traditionalism; Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 8,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 6,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithful love between Choko and Masayuki.",
+   "concerns": "Sexual content outside marriage; workplace harassment as comedy."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Devoted, humble service of Masayuki.",
+   "concerns": "Sexual content and passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty and devotion.",
+   "concerns": "Premarital sex and harassment played for laughs."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lasting love.",
+   "concerns": "Sexual content; harassment framed comically."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Covenant-like loyalty of servant to lady.",
+   "concerns": "Lascivious images (WLC Q139)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service in vocation, upended roles.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love that serves.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Wry satire of office politics (review).",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Humble servant devotion.",
+   "concerns": "Sexual content; worldly office life."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Lasting commitment.",
+   "concerns": "Law of chastity; Mature rating."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Review: gender and class dynamics 'turned on their heads'.",
+   "concerns": "Boss's harassment normalized."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Fidelity.",
+   "concerns": "Sex outside marriage; nudity."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty across old roles.",
+   "concerns": "Modesty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kind devotion.",
+   "concerns": "Sexual misconduct concerns."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Review sees subversion of gender roles.",
+   "concerns": "Workplace sexual harassment as romance."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Candid view of sex in love (review).",
+   "concerns": "Power imbalance; consent at work."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty and old-family honor.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyal love.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful love.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love overcomes class.",
+   "concerns": "Degrading harassment scenes."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mutual love across class.",
+   "concerns": "Harassment and power imbalance."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sexuality as part of love.",
+   "concerns": "Boss's harassment."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty to old household.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal service.",
+   "concerns": "Lust and premarital sex."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming class barriers.",
+   "concerns": "Chastity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithfulness to partner.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adults pursue desire freely.",
+   "concerns": "Unwanted advances at work."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Tzniut; sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Commitment.",
+   "concerns": "Degrading content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Candor about sex in relationships.",
+   "concerns": "Harassment framed as romance."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Old family standing and 'milady' honor."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Office rules vs. after-hours role reversal."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Old household loyalty."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Master-servant and boss-subordinate hierarchies."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Old-family customs in modern office."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Love and personal fulfillment."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Latin America",
+   "Cavalier"
+  ],
+  "japan": "Old-family master-servant loyalty and strict office hierarchies are Japanese settings the comedy plays with."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Mangabookshelf: deadpan humor 'without ever taking itself too seriously'.",
+  "personified": [
+   {
+    "character": "Masayuki Domoto",
+    "ideology": "Lifelong servant loyalty to a former mistress",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "Class and gender roles are played for comedy rather than argued."
+ },
+ "winners_losers": "Choko and Masayuki's romance prevails over office rivals such as Miss Makie (vol 2); sympathy rests with the couple.",
+ "to_verify": [
+  "Explicitness of sexual scenes across 8 volumes",
+  "How the series frames workplace harassment by the end",
+  "Ending"
+ ]
+}

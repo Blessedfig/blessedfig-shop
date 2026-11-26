@@ -1,0 +1,357 @@
+{
+ "anilist_id": 36097,
+ "title": "Monster Hunter Orage",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/36097",
+  "https://api.mangaupdates.com/v1/series/77835749889"
+ ],
+ "premise": "Young monster hunter Shiki, apprenticed as a child to the hunter Gurelli, returns to his late master's town of Akamaaya to join its guild. He meets Irie, Gurelli's daughter, and they form a party to find the legendary monster Miogaruna, Gurelli's lifelong goal. Based on the Monster Hunter video game series.",
+ "life_message": "A good life means honoring your teacher's dream through courage and teamwork.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Monster-hunting fights (AniList, MangaUpdates)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Monsters."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Master's death (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fantasy fighting."
+  },
+  {
+   "category": "Commercial",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Tie-in to a video game franchise (MangaUpdates)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Classical virtue ethics; Communitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Shiki honors his late master Gurelli's dream.",
+   "concerns": "Monster-slaying violence."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty to a teacher and his daughter.",
+   "concerns": "Fighting and demons tagged (AniList)."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork in the guild party.",
+   "concerns": "Magic and demon elements (AniList, to verify)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage and honoring a mentor.",
+   "concerns": "Monster violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithfulness to a mentor's goal.",
+   "concerns": "Demons and magic tagged (AniList)."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation as hunter serving a town.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation and loyalty to Gurelli.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork with Irie.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Classic quest adventure.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork and loyalty.",
+   "concerns": "Hunting and fighting as heroic."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for a mentor and his family.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork with a female partner, Irie.",
+   "concerns": "Hunting framed as heroic."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty and protecting a town.",
+   "concerns": "Magic tagged (AniList)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Loyalty to one's guru, Gurelli.",
+   "concerns": "Killing creatures vs. ahimsa."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty and gratitude to a teacher.",
+   "concerns": "Hunting creatures vs. first precept."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork and guild belonging.",
+   "concerns": "Monsters exist to be killed."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Light game-based fantasy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honor, loyalty and courage for one's master.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage.",
+   "concerns": "Violence and demons tagged."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty to a mentor.",
+   "concerns": "Violence and magic."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage over fear of monsters.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Team with mutual respect.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Wild world of creatures.",
+   "concerns": "Hunting creatures for glory."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for a dead master.",
+   "concerns": "Blood of hunts."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage in protecting the town.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Unity of the party.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Pursuing a goal.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reliant hunters.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring a teacher (kavod).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring a teacher.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Teamwork.",
+   "concerns": "Hunting framing."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Shiki pursues his master's goal as a matter of honor (AniList)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Hunters act within a guild (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Bond with the master's daughter (AniList)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Apprentice and guild ranks (AniList)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Fantasy world."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival against monsters."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "El Norte",
+   "Tidewater"
+  ],
+  "japan": "Master-apprentice loyalty reflects Japanese norms, shown as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Loyalty carried by the quest."
+ },
+ "winners_losers": "Shiki's party pursues the goal; outcome not stated (series cancelled per MangaUpdates).",
+ "to_verify": [
+  "No review opened; based on AniList and MangaUpdates summaries",
+  "Series cancelled after 4 volumes per MangaUpdates",
+  "Demon and magic elements from AniList tags only"
+ ]
+}

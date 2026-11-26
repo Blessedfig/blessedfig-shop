@@ -1,0 +1,363 @@
+{
+ "anilist_id": 34330,
+ "title": "That Was Good",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/34330",
+  "https://api.mangaupdates.com/v1/series/46423281858"
+ ],
+ "premise": "Part-timer Hiroto shares his lunch with a hungry little boy in a park, and the boy's father Suguru, an airline pilot often away, hires him as live-in housekeeper and caretaker on one condition: no falling in love with him. Hiroto falls anyway. The volume adds short boys' love stories.",
+ "life_message": "Care for a child and a household can grow into a loving family.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult boys' love with sexual scenes and dubious-consent elements per MU (to verify; likely higher)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dubious consent (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism; Communitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Devoted care for the child Mamoru.",
+   "concerns": "Same-sex sexual relationship affirmed; sexual scenes."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Self-giving care.",
+   "concerns": "Same-sex passions; sexual content."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Nurture of a child.",
+   "concerns": "Same-sex romance and sex scenes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for a child.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness to a hungry child.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Household diligence.",
+   "concerns": "Same-sex relations; lascivious images."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation of caregiving.",
+   "concerns": "Sexual content; synod views differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Works of mercy: feeding a child.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Household love.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Humble domestic service.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family-centered.",
+   "concerns": "Same-sex relationship; chastity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Gay family with child shown warmly.",
+   "concerns": "Dubious consent (MU)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for a child.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Caregiving duty.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Generosity sharing food.",
+   "concerns": "Dubious consent."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Gay parenting and househusband role.",
+   "concerns": "Dubious consent (MU)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Care and kindness.",
+   "concerns": "Consent ambiguity."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Stable home for a child.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family care.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love expressed through care.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Many family forms welcomed.",
+   "concerns": "Consent questions."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Love between adults honored.",
+   "concerns": "Consent questions."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Household harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Seva in caring for the child.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service to a family.",
+   "concerns": "Sexual relations outside marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Care for family members.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adult desire pursued.",
+   "concerns": "Dubious consent."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Chesed to a child.",
+   "concerns": "Same-sex sexual content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family care.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inclusive family.",
+   "concerns": "Consent questions."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Feelings handled privately."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Employer's rule vs. heart."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Household and child at center."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Employer and housekeeper roles."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular modern family."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Love and personal fulfillment."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "Yankeedom"
+  ],
+  "japan": "Domestic caregiving roles and a father's long work absences reflect Japanese family-work patterns, here re-imagined with a male househusband."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review read; from Juné blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Found family is carried by the caregiving plot."
+ },
+ "winners_losers": "Hiroto, Suguru and the boy form a household; sympathy rests with the couple.",
+ "to_verify": [
+  "Level of explicit sexual content (only database tags; likely understated at 3)",
+  "Batch data lists MU 'Rape' category; API shows 'Dubious Consent'",
+  "Juné edition; license likely lapsed",
+  "Side stories' content"
+ ]
+}

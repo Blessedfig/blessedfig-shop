@@ -1,0 +1,361 @@
+{
+ "anilist_id": 31098,
+ "title": "Times Two",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31098",
+  "https://api.mangaupdates.com/v1/series/14033974777"
+ ],
+ "premise": "Five short shoujo stories of first romance among high-school students: a Field Day crush, a soda can's expiration date taken as a sign, a delinquent who turns out to love gardening, a loud girl who can suddenly hear a model student's thoughts, and two childhood friends who once looked for UFOs together.",
+ "life_message": "First love grows from seeing people as they really are and finding the courage to say how you feel.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild romantic nerves only."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Budding high-school crushes and confessions (publisher blurb, MU Love Confession/s); no sexual content noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "A 'rascally loudmouth' heroine; no detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Unrequited and unexpressed feelings (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Hearing another's thoughts is fantasy (MU Telepathy)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "A soda can is a plot device."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Moralistic therapeutic deism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism, Classical virtue ethics",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Looking past appearances, as with gardener Naoki, reflects respect for each person.",
+   "concerns": "Teen dating focus may prompt talk on chaste courtship."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle, sincere affection and humility suit Orthodox ideals.",
+   "concerns": "Romance-centred stories may need perspective on the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honesty in confessing feelings fits Baptist values.",
+   "concerns": "Teen romance without faith context; light talking points on dating."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness and seeing hidden worth fit evangelical values.",
+   "concerns": "Dating-focused stories may prompt discussion of purity."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincere love and courage echo Pentecostal warmth.",
+   "concerns": "Worldly teen romance as life focus."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Delinquent Naoki's hidden goodness invites talk on not judging by appearance.",
+   "concerns": "Romance without reference to God's purposes."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle love stories fit vocation and neighbor-love.",
+   "concerns": "Few concerns; teen dating."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kindness and honesty fit holiness of heart.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Respect for persons and honest feeling fit via media values.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Humility and simple pleasures like gardening echo plainness.",
+   "concerns": "Romance-focused worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Clean romance and honest feelings fit gospel standards.",
+   "concerns": "Teen dating age may differ from guidance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Seeing people beyond labels fits inclusion values.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty and modest affection are honored.",
+   "concerns": "Teen dating and mixing conflict with Islamic courtship norms."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle, respectful love reflects kama within dharma's limits.",
+   "concerns": "Teen dating may differ from family norms."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kindness and seeing others clearly reflect right view.",
+   "concerns": "Attachment in romance is a mild talking point."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Looking past stereotypes (delinquent gardener) fits anti-stereotype values.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ordinary human emotions explored honestly.",
+   "concerns": "Telepathy is played as fantasy."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Clean first-love stories fit traditional values.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Wholesome friendship and nature (gardening) fit Adventist ideals.",
+   "concerns": "Teen romance focus."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty and kindness align.",
+   "concerns": "Dating without marriage intent conflicts with Witness counsel."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love and harmony fit Christian Science ideals.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of each person fits UU values.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gardening and UFO-gazing reflect wonder at nature.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sincerity, seasonal school events and harmony fit Shinto values.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest feelings and equality fit Sikh values.",
+   "concerns": "Teen dating may differ from family norms."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truthfulness and kindness fit Bahá'í virtues.",
+   "concerns": "Romance before marriage age."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Communication of feelings fits ARC ideals.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Pursuing one's desires fits individualism.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness and honesty reflect chesed.",
+   "concerns": "Teen dating and mixed socializing conflict with tzniut norms."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kindness and honest speech fit Jewish ethics.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Empathy and seeing beyond labels fit Reform values.",
+   "concerns": "Few concerns."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor conflicts; feelings resolved through honesty."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "School events and clubs frame personal choices."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friends and classmates, not family, matter most."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Model student and delinquent labels questioned (blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular school life; no religious framing."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Expressing feelings and individuality is central."
+   }
+  },
+  "japan": "School events such as Field Day and club activities reflect Japanese school culture, shown as setting.",
+  "closest": [
+   "Yankeedom",
+   "The Midlands",
+   "Catholic Europe"
+  ]
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review consulted; publisher blurb presents gentle romance (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Lessons about first love appear to come through each story's events."
+ },
+ "winners_losers": "Couples who find the courage to connect are rewarded; sympathy rests with shy and misunderstood teens.",
+ "to_verify": [
+  "No review read; all content from publisher blurb and database tags",
+  "Language in 'Frequency'"
+ ]
+}

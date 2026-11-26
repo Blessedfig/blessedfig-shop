@@ -1,0 +1,90 @@
+{
+ "anilist_id": 86217,
+ "title": "Heroes",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/86217",
+  "https://api.mangaupdates.com/v1/series/44168625895"
+ ],
+ "premise": "A band of heroes banishes the Darkness and brings peace to the world, 'but...' (AniList and MangaUpdates blurb). This single full-color volume by Inio Asano, published in English by Viz Media, is tagged as a fairy-tale parody with philosophy, tragedy and murder (AniList; MangaUpdates). The sources opened give almost no plot detail.",
+ "life_message": "Unclear from sources; tags suggest it questions what heroism and peace really mean.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Murder/s tag (MangaUpdates) and heroes fighting the Darkness (blurb). Capped (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Tragedy (AniList spoiler; MangaUpdates genre). Capped (to verify)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Postmodernism", "strength": 4, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Parody of heroic fairy tales; what comes after victory",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Asks whether defeating the Darkness ends evil, a fair question about peace.", "concerns": "Murder and tragedy tags; tone unknown."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Evil not simply external.", "concerns": "Demon imagery."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Heroism tested.", "concerns": "Parody may mock good-versus-evil stories."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Questions shallow victories.", "concerns": "Cynicism and murder."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Darkness taken seriously.", "concerns": "Demons."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Human sinfulness survives a 'happy ending'.", "concerns": "Murder."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Heroes as flawed humans.", "concerns": "Little known."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Peace needs more than victory.", "concerns": "Tragedy."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Literary play on fairy tales.", "concerns": "Little known."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Questions violent heroism.", "concerns": "Murder."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Moral reflection.", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Critiques hero myths.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Reflection on true peace.", "concerns": "Demons."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Cycles of order and darkness.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Impermanence of victory.", "concerns": "Killing."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Deconstructs heroic narratives.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Philosophical questioning.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Takes heroes seriously enough to test them.", "concerns": "Deconstruction of heroic ideals."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Evil persists until a final end.", "concerns": "Demons and violence."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Human efforts cannot bring lasting peace.", "concerns": "Demons and murder."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Questioning appearances.", "concerns": "Tragedy."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Free search for meaning.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Balance of light and dark.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Forest setting (MangaUpdates).", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Ego of heroes questioned.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Peace as deeper than conquest.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Group survival.", "concerns": "Murder."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Skepticism toward hero myths.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Moral seriousness about evil.", "concerns": "Demons."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Reflection on peace.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Questions easy endings.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Hero band; no evidence either way."},
+   "Order vs freedom": {"pos": 6, "evidence": "After peace, heroes are left to themselves (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Band of heroes, not a family (MangaUpdates Banding Together)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "No evidence."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Parody of fairy-tale conventions (AniList)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "No evidence."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Far West"],
+  "japan": "Parodies the Japanese RPG-style 'hero party defeats the Demon Lord' story."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about delivery."
+ },
+ "winners_losers": "Not determinable from the opened sources.",
+ "to_verify": [
+  "Basic plot after the heroes' victory; neither source gives more than one line.",
+  "Murder and tragedy content.",
+  "Viz age rating not checked."
+ ]
+}

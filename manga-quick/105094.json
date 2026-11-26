@@ -1,0 +1,90 @@
+{
+ "anilist_id": 105094,
+ "title": "Happy Kanako's Killer Life",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/105094",
+  "https://api.mangaupdates.com/v1/series/24458945318"
+ ],
+ "premise": "Kanako Nishino, a timid office worker who hates her job, accidentally applies to an agency of contract killers and discovers she is 'really, really good at bumping people off'. The full-colour, episodic comedy follows her ordinary workplace worries as an assassin and her wish to earn the respect of her prickly co-worker Sakurai (Seven Seas blurb via AniList and MU).",
+ "life_message": "Finding work you are good at and being valued for it can transform a timid person's life.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Endorsed", "note": "Assassinations played as comedy (Seven Seas blurb; AniList Assassins, Guns; MU Murder/s). Gore level not reported (to verify)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Surreal comedy (AniList)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Subtle, slow romance (MU)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not reported (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Low self-esteem and workplace stress (MU)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Killing for pay shown as a cheerful career (Seven Seas blurb; MU Villain Protagonist)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Anime and live-action adaptations (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Absurdism", "strength": 5, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Absurdist workplace comedy; killing as a job; self-worth through work",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 3, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Kanako's search for dignity at work.", "concerns": "Murder treated as a comic career (fifth commandment)."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Little alignment beyond humility.", "concerns": "Killing made light of."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Diligence.", "concerns": "Glorified killing."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Self-worth found.", "concerns": "Murder as comedy."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Celebrated violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Vocation theme parodied.", "concerns": "Murder without judgment."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Vocation satire.", "concerns": "Killing as work."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "'Do no harm' inverted."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Black comedy as satire of office life.", "concerns": "Killing framed lightly."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence as heroic and funny throughout."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Work ethic.", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Satire of exploitative workplaces.", "concerns": "Glorified violence."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Killing for pay."},
+  {"frame": "Hindu", "grade": "D", "weight": "Discuss", "aligns": "Duty to one's work parodied.", "concerns": "Ahimsa violated."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "First precept: killing as livelihood (wrong livelihood)."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Workplace satire; female lead.", "concerns": "Violence normalized."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Absurd satire invites critical thought.", "concerns": "Cruelty as jokes."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Hard work.", "concerns": "Glamorized crime."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence celebrated (Psalm 11:5)."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Overcoming timidity.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Satire.", "concerns": "Violence as fun."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Discuss", "aligns": "Self-empowerment.", "concerns": "'Harm none' reversed."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Comedy of Japanese office life.", "concerns": "Death treated lightly."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest work satire.", "concerns": "Killing for gain."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Discuss", "aligns": "Competence valued.", "concerns": "'Do not murder' inverted."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-empowerment and dark humor.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Murder as entertainment."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Satire of work culture.", "concerns": "Glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Workplace respect, not personal honor (Seven Seas blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Leaves a hated job for one she chooses (MU)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Co-workers, not family, are her world (AniList characters)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Boss (Shachou) and senior co-worker (AniList)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern office setting (MU Modern Era)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Job security and self-confidence both at stake (MU)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "New Netherland"],
+  "japan": "Parodies Japanese office (OL) culture and the wish for recognition from senior colleagues."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic surreal comedy (AniList; MU 4-koma); no source reports a stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The comedy offers no explicit moral about killing."
+ },
+ "winners_losers": "Kanako thrives as an assassin; her targets are anonymous jokes (Seven Seas blurb).",
+ "to_verify": [
+  "No review opened; violence level of the full-color art.",
+  "Whether later chapters add consequences for killing (MU Police)."
+ ]
+}

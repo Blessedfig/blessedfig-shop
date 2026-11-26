@@ -1,0 +1,364 @@
+{
+ "anilist_id": 32643,
+ "title": "Lover's Pledge",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32643",
+  "https://api.mangaupdates.com/v1/series/15526704396",
+  "https://api.mangadex.org/manga?title=Koi%20wa%20Keiyaku%20no%20Atode",
+  "https://www.goodreads.com/book/show/3430822"
+ ],
+ "premise": "A boys' love anthology. In the title story, party-loving Kazuto wakes with a hangover to learn that young CEO Takasugi has paid to have him for a month before Takasugi's arranged marriage. Other stories follow a student-council vice-president and his popular childhood neighbour, and an orphan raised alongside his cousin Eiji.",
+ "life_message": "Feelings that begin as an arrangement or a habit can become real love.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Angst tag (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Juné boys' love, but MangaDex rates it safe; reader reviews say little or no sex, 'sex play' in only one story; one story involves high-school students and one cousins (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Hangover after a night of drinking starts the title story."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Orphan's grief in one story."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "A person 'bought' for a month played as romance."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Money contract premise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love outgrowing a transactional start.",
+   "concerns": "A person bought for a month; same-sex romance; cousins."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Childhood bonds valued.",
+   "concerns": "Purchase of a person; same-sex romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; drinking; cousin romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Caring for an orphaned relative.",
+   "concerns": "Same-sex romance; paid arrangement."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; drinking."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family taking in an orphan.",
+   "concerns": "Same-sex romance; commodified relationship."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fidelity grows from obligation.",
+   "concerns": "Same-sex romance; contract premise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Orphan cared for.",
+   "concerns": "Same-sex romance; drinking."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sweet, kitschy romances (readers).",
+   "concerns": "Contract premise; provinces differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family care for an orphan.",
+   "concerns": "Same-sex romance; alcohol."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gay romance shown warmly.",
+   "concerns": "Buying a person; power gaps."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance; alcohol."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Arranged marriage subplot reflects family duty.",
+   "concerns": "Same-sex and cousin romance."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Attachment examined.",
+   "concerns": "Intoxication; transactional love."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Queer love stories.",
+   "concerns": "Purchase premise; consent and power."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Feelings over contracts.",
+   "concerns": "Consent and power."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Duty of arranged marriage taken seriously.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love outgrowing material terms.",
+   "concerns": "Alcohol."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive love.",
+   "concerns": "Purchase premise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love chosen freely in the end.",
+   "concerns": "Purchase premise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Household and neighbour bonds.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for an orphan.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family unity.",
+   "concerns": "Alcohol; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Keeping agreements.",
+   "concerns": "Alcohol."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freely chosen desire.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Caring for an orphan.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family care.",
+   "concerns": "Same-sex romance; congregations vary."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Inclusion.",
+   "concerns": "Purchase premise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Contract and jealousy, not honor fights."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Love chosen over arranged marriage."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Neighbours, cousins and family households."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Rich CEO and poor lead; student council roles (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Arranged marriage set against personal choice."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Romantic feeling over money terms."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "El Norte",
+   "Latin America"
+  ],
+  "japan": "Arranged marriage among wealthy families and student-council school life are familiar Japanese settings."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Goodreads readers call it sweet and kitschy; no messaging noted.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message; light romances."
+ },
+ "winners_losers": "The couples come together in each story; the arranged marriage is the obstacle (to verify).",
+ "to_verify": [
+  "Which story contains the sexual content readers mention, and whether it involves the high-school characters in 'Kiss Prescription'",
+  "Cousin story content",
+  "Juné edition availability"
+ ]
+}

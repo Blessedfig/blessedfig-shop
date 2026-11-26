@@ -1,0 +1,368 @@
+{
+ "anilist_id": 39268,
+ "title": "Grand Guignol Orchestra",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/39268",
+  "https://api.mangaupdates.com/v1/series/77463263645",
+  "https://goodcomicsforkids.slj.com/2010/12/01/review-grand-guignol-orchestra-vol-1/"
+ ],
+ "premise": "A plague turns people into doll-like zombies, and a travelling orchestra led by the singer Lucille fights them with music and guns while its members hide dark secrets (Viz blurb via AniList; SLJ review). A five-volume gothic shoujo horror by Kaori Yuki in a Victorian-like world; the SLJ Good Comics for Kids review notes blood, gore, gender ambiguity and gender politics, morally gray characters and a Viz OT/16+ rating. Volume 5 adds an unrelated one-shot, Camelot Garden.",
+ "life_message": "It suggests that people with hidden wounds and ambiguous identities can still make something beautiful and fight for others.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Blood, gore and violence (SLJ review); zombies and guns (tags)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Horror, doll-zombie plague (review; Horror and Tragedy genres)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Subtle romance (MangaUpdates); no sexual content noted in review."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Review notes no language concerns."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Tragedy genre, dark secrets (review; tags); capped (to verify)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fantasy combat."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Postmodernism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Gothic tragedy; gender ambiguity; morally gray heroes",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Beauty of music set against a plague of death.",
+   "concerns": "Gore; gender ambiguity; gray morals."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Art as a force against decay.",
+   "concerns": "Gore and gender ambiguity trouble watchfulness."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting people from a plague.",
+   "concerns": "Gender bending and gore."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Darkness faced rather than celebrated.",
+   "concerns": "Gender ambiguity; violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Fight against a destructive curse.",
+   "concerns": "Horror, gore, gender themes."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest portrayal of fallen, flawed people.",
+   "concerns": "Moral ambiguity; gore."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Music honored as gift.",
+   "concerns": "Horror violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service to towns in danger.",
+   "concerns": "Gore and gray heroes."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gothic literary tradition and music.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Calming crowds with music, not only guns (blurb).",
+   "concerns": "Guns and killing of the infected."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Courage and art.",
+   "concerns": "Violent, dark media; gender ambiguity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gender ambiguity and outsiders treated seriously (review).",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defending people from harm.",
+   "concerns": "Cross-gender identity; music; gore."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rasa of tragedy and music.",
+   "concerns": "Violence and gore."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Suffering and impermanence vivid.",
+   "concerns": "Killing of the infected."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gender politics explored (review); misfits centered.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Plague as a problem to solve.",
+   "concerns": "Gore; curse framing."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage and duty to protect.",
+   "concerns": "Gender ambiguity; gore."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Fight against disease.",
+   "concerns": "Horror that excites fear; gender themes."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond protecting others.",
+   "concerns": "Violence, horror and gender ambiguity."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Healing sought (Searching for a Cure tag).",
+   "concerns": "Disease and fear imagery central."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Varied identities and gray morality explored.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Magic and myth welcome.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Music and ritual against defilement.",
+   "concerns": "Death and blood impurity throughout."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protecting the oppressed.",
+   "concerns": "Violence; gender ambiguity."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Arts praised as service.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art's role in society.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Misfit rebels; gothic aesthetic.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Saving lives.",
+   "concerns": "Gender crossing; gore."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Art and courage.",
+   "concerns": "Gore."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Outsiders and ambiguity explored.",
+   "concerns": "Gore."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Secrets and personal loyalties drive conflict."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Wandering misfit troupe outside settled order."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Twins and estranged family (tags)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Royalty and spies in the world (tags)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Plague framed as virus, with magic."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Art and identity alongside survival."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "El Norte",
+   "The Far West"
+  ],
+  "japan": "Kaori Yuki's gothic European setting reflects a shoujo tradition of Western aesthetics rather than Japanese social norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "SLJ reviewer stresses atmosphere and gray characters, no moralizing.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes appear through ambiguous characters rather than statements."
+ },
+ "winners_losers": "Not described beyond volume 1; characters are morally gray (review).",
+ "to_verify": [
+  "Castration category (MangaUpdates) not described in review.",
+  "How gender themes resolve.",
+  "Ending; review covers volume 1 only."
+ ]
+}

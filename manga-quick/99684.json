@@ -1,0 +1,96 @@
+{
+ "anilist_id": 99684,
+ "title": "Issak",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/99684",
+  "https://api.mangaupdates.com/v1/series/41020721950",
+  "https://gizmodo.com/im-digging-issak-because-it-reads-like-vinland-saga-and-vagabond-had-a-baby-and-gave-it-a-gun-2000773593"
+ ],
+ "premise": "In 1620, as the Thirty Years' War spreads across Europe, a lone Japanese marksman called Issak fights as a mercenary while hunting the man who murdered his master and fled Japan (Kodansha blurb via AniList). His quarry, Lorenzo (Renzo), carries a twin matchlock made by the same master and relishes war (Gizmodo). Catholic and Protestant forces, royals and witch hunts form the backdrop (Gizmodo; MU Politics Involving Religion). Complete in 19 volumes.",
+ "life_message": "Loyalty to one's master and skill carried with discipline give a man purpose amid a chaotic war, though revenge and war are morally murky.",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 7, "framing": "Neutral", "note": "'Bloody action' and 'grisly violence' (Gizmodo); AniList Gore, War; MU Blood and Gore, Large Scale Battles."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Battlefield deaths, sieges and murders (MU Murder/s); intensity from war (Gizmodo)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Only 'blushes of romance' (Gizmodo); MU Romantic Subplot and Attempted Rape (to verify)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Soldiers and mercenaries; not checked (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Period military setting; not checked (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grief for murdered master; MU Dead Family Members."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Hero is a sniper for hire; historical distance."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 5, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Christian", "strength": 3, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Warrior duty and revenge; religious war as political chaos",
+ "axes": {"economic": 5, "social": 4, "cultural": 4, "community": 5},
+ "foundations": {"care": 4, "loyalty": 8, "fairness": 6, "sanctity": 4, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Issak's loyalty and discipline; war's cruelty is visible.", "concerns": "Revenge quest at the core; Catholic side shown in a religious war, portrayal unknown."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows killing in war as grim, not glorious, in places.", "concerns": "Revenge and constant bloodshed inflame the passions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Courage and steadfastness of the hero.", "concerns": "Revenge (Romans 12:19) drives the plot; gore; witch hunts shown."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Religious-war history can open discussion of faith and power.", "concerns": "Graphic violence; revenge motive."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "A man of purpose amid chaos.", "concerns": "Gore and a vengeance quest."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Protestant-Catholic conflict is history Reformed readers know well.", "concerns": "Portrayal of Protestant cause unverified; personal vengeance."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Lawful soldiering and duty under rulers (two kingdoms).", "concerns": "Set in Germany's religious wars; how Lutheran princes are shown unverified."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "War's human toll visible.", "concerns": "Revenge and bloodshed as entertainment."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Morally murky framing of war (Gizmodo) invites reflection.", "concerns": "Gore; just-war questions left open."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "The master's guns were meant to end war.", "concerns": "A mercenary sniper hero; violence shown as skilled and exciting."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Fidelity to a mentor's purpose.", "concerns": "Violent content; revenge."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Shows how religion becomes a tool of political power.", "concerns": "Glorified combat; women at risk (MU attempted rape)."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Loyalty and justice for a murdered teacher.", "concerns": "Revenge over forgiveness; gore."},
+  {"frame": "Hindu", "grade": "B", "weight": "Significant", "aligns": "Warrior dharma and duty to one's guru.", "concerns": "Personal vengeance and mercenary killing blur righteous fighting."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "War's karmic cost and Renzo's craving for battle shown.", "concerns": "First precept broken constantly."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Critiques war as a political game.", "concerns": "Action-forward combat and militarism."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Historical realism about religious conflict.", "concerns": "Violence as spectacle."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Honor, loyalty to a master and personal courage.", "concerns": "Gore; mercenary ethics."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Shows the costs of war.", "concerns": "Combat is the story's appeal; noncombatant ideal at odds."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Shows religion entangled with politics and war.", "concerns": "Violent entertainment at its core (Psalm 11:5)."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Steadfast purpose.", "concerns": "Constant violence and death imagery."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Religious intolerance and witch hunts shown as cruel.", "concerns": "Glorified violence."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Witch hunts appear as persecution (Gizmodo mentions them).", "concerns": "Revenge and killing; framing of witch hunts unverified."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "A Japanese warrior's sincerity and duty to his master.", "concerns": "Bloodshed (kegare)."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "A disciplined warrior facing a man who loves war.", "concerns": "Vengeance for personal cause rather than defending the oppressed."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Shows how religious division breeds war.", "concerns": "Violence as entertainment."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Competence and purpose.", "concerns": "Killing throughout."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Skepticism toward religious authority waging war.", "concerns": "Little beyond gore."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Shows Christian Europe's wars from outside.", "concerns": "Revenge forbidden (Leviticus 19:18); bloodshed."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Historical depth for discussion.", "concerns": "Revenge motive; gore."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Religious intolerance shown as destructive.", "concerns": "Glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Issak pursues his master's murderer personally across the world (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Mercenary freedom within the armies of princes."},
+   "Civic vs kin": {"pos": 6, "evidence": "Loyalty to his master, a quasi-kin bond, drives him."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Royals, nobles and soldiers (MU Politics Involving Royalty)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "17th-century religious war setting; story's own stance unverified."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Survival in war dominates."}
+  },
+  "closest": ["Tidewater", "Orthodox Europe", "Cavalier"],
+  "japan": "Issak's devotion to his master reflects Japanese samurai ideals of loyalty to one's teacher, set against European feudal politics."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Gizmodo describes morally murky war and 'philosophical quandaries' carried by action, not speeches.",
+  "personified": [
+   {"character": "Lorenzo (Renzo)", "ideology": "War as thrill and opportunity", "role": "Villain", "treatment": "Mixed"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The contrast between Issak's purpose and Renzo's love of battle carries the themes (to verify depth)."
+ },
+ "winners_losers": "Sympathy lies with Issak's loyalty and skill; Lorenzo, who 'gets off on' war, is his foil. How Catholic and Protestant sides are treated is not established by the sources.",
+ "to_verify": [
+  "How the series portrays Catholic and Protestant factions and the witch hunts",
+  "Whether the attempted rape (MU) is on-page and how framed",
+  "Whether revenge is ultimately affirmed or questioned",
+  "Language and substance use"
+ ]
+}

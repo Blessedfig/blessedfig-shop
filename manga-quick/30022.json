@@ -1,0 +1,366 @@
+{
+ "anilist_id": 30022,
+ "title": "Rurouni Kenshin",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Rurouni_Kenshin",
+  "https://anilist.co/manga/30022",
+  "https://www.mangaupdates.com/series/gm3k8rv",
+  "https://www.animenewsnetwork.com/review/rurouni-kenshin-gn-18"
+ ],
+ "premise": "In 1878 Japan, former assassin Himura Kenshin wanders with a reverse-bladed sword, having vowed never to kill again. Living at Kaoru's dojo with Sanosuke, Yahiko and Megumi, he faces swordsmen testing his vow, the revolutionary Shishio in Kyoto, and finally Enishi, brother of the wife Kenshin accidentally killed. Viz publishes it in English; reviewers in Library Journal and VOYA recommended it for older teens.",
+ "life_message": "It holds up atonement through protecting others and refusing to kill, and rejects revenge.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Shown with consequences",
+   "note": "Frequent sword duels, deaths of Shishio and Tomoe, assassin backstory; reviewers called some fights too violent (Wikipedia; AniList Gore and Assassins signals)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Kaoru's kidnapping, Tomoe's death, revenge arc (Wikipedia; Tragedy tag)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Kenshin and Kaoru's slow romance ending in marriage; past marriage to Tomoe (Wikipedia)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Rough talk from Sanosuke and villains (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Sake drinking by Hiko and others; an opium-dealing villain (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Kenshin's guilt and despair after Kaoru's apparent death; Enishi's torment (Wikipedia)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Sword fighting presented heroically (to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Large franchise with anime and films (Wikipedia)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 6,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Christian",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 5,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Confucian ethics",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Classical virtue ethics (atonement), Might makes right critiqued (Shishio), Communitarianism (found family)",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 6,
+  "community": 7
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 8,
+  "fairness": 7,
+  "sanctity": 4,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Kenshin's penance for past killings and vow of mercy mirror repentance and conversion.",
+   "concerns": "Constant sword violence and Tomoe's death scene."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "A killer who repents and refuses to shed blood again, like canon 13's call to penance.",
+   "concerns": "Fighting remains the hero's main act."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Revenge rejected in Enishi's arc, as in Romans 12:19.",
+   "concerns": "Graphic sword fights; Hiko's drinking (to verify)."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Redemption arc with a clear moral line against killing.",
+   "concerns": "Violence level for younger teens."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Transformation of a sinner into a protector.",
+   "concerns": "Graphic fights and alcohol use; the Shogo Amakusa arc's false Christian messiah (to verify)."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Kenshin protects the weak while respecting the Meiji government's lawful order.",
+   "concerns": "Revenge-driven villains and gore."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Guilt and grace: Kenshin learns he can live, not only atone.",
+   "concerns": "Violent battles."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Choosing nonlethal means to protect the vulnerable.",
+   "concerns": "Fights glamorized by spectacle."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Historical drama on just use of force and conscience.",
+   "concerns": "Graphic violence judged by age."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Vow never to kill stands close to nonresistance ideals.",
+   "concerns": "Still resolves conflict by the sword; violence as heroism."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Defending others in a just cause, as in Alma 43; marriage and family at the end.",
+   "concerns": "Violence and sake drinking."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Peace and atonement themes; critique of Shishio's might-makes-right.",
+   "concerns": "Glorified swordplay."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Fighting only to protect, with mercy to defeated foes.",
+   "concerns": "Alcohol use and violent scenes."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Righteous warrior duty balanced by ahimsa, as in the Gita.",
+   "concerns": "Violence for younger readers."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Karma of past killing and breaking cycles of revenge.",
+   "concerns": "Repeated combat."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Anti-revenge message and found family.",
+   "concerns": "Violence and few female fighters (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Moral reasoning about violence, responsibility and change.",
+   "concerns": "Violence level."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Honor, duty, protection of the weak and marriage.",
+   "concerns": "Gore in some fights."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kenshin's vow never to kill echoes the noncombatant stance.",
+   "concerns": "Sword violence throughout; Hiko's sake drinking against abstinence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Repentance and refusing to take life; peace sought over revenge.",
+   "concerns": "Violent entertainment (Psalm 11:5); constant swordplay."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Guilt overcome by a new life of protecting others.",
+   "concerns": "Tomoe's death and Kenshin's despair; fear and injury."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Worth of every life, even enemies; justice without killing.",
+   "concerns": "Violence level and Tomoe's death."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Self-defense without killing fits 'harm none'; Kenshin keeps his word.",
+   "concerns": "Many duels and deaths."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Makoto, sincerity, in Kenshin's vow; Meiji-era Japan and community.",
+   "concerns": "Blood and death, kegare."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "The protector who defends the weak without vengeance, like the saint-soldier.",
+   "concerns": "Enishi's revenge and violent duels."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Turning from killing to service; unity and forgiveness.",
+   "concerns": "Combat remains the main mode."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "'Do not murder' is Kenshin's vow; integrity and helping others.",
+   "concerns": "Glorified sword fights."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-mastery and justice against Shishio's tyranny.",
+   "concerns": "Church of Satan accepts retaliation where Kenshin forgoes it; violence."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Teshuvah, repentance, and refusing revenge (Leviticus 19:18).",
+   "concerns": "Violence; secular entertainment weighed against Torah study."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Repentance and respect for life; marriage and family.",
+   "concerns": "Deaths on page."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Justice, repentance and breaking cycles of violence.",
+   "concerns": "Violence level."
+  }
+ ],
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN's GN 18 review calls the Enishi arc 'gripping (but still kinda silly)'; no review on delivery found (to verify)",
+  "personified": [
+   {
+    "character": "Himura Kenshin",
+    "ideology": "Atonement through protecting others, never killing",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Shishio",
+    "ideology": "Might makes right",
+    "role": "Villain",
+    "treatment": "Mixed"
+   },
+   {
+    "character": "Enishi",
+    "ideology": "Revenge",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Kenshin's vow not to kill is tested by villains who embody might-makes-right and revenge."
+ },
+ "winners_losers": "Kenshin wins peace, marriage and a son while keeping his vow; Shishio dies and Enishi is left broken by revenge. Sympathy goes to atonement and mercy over power and vengeance.",
+ "to_verify": [
+  "Viz age rating",
+  "Drinking and any opium-dealing villain",
+  "Language level",
+  "Creator and publisher context: check reputable reporting and add any relevant facts neutrally, with sources.",
+  "How Shishio's and Enishi's views are framed (delivery set from entry notes only)"
+ ]
+}

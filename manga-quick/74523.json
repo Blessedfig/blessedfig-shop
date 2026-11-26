@@ -1,0 +1,362 @@
+{
+ "anilist_id": 74523,
+ "title": "Forbidden Scrollery",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/74523",
+  "https://api.mangadex.org/manga/dbae4cf5-27de-40eb-b9e1-346c4f2cf8aa"
+ ],
+ "premise": "An official Touhou Project manga, written by ZUN, starring Kosuzu Motoori, a human girl who runs a book-lending shop in Gensokyo. She can read any book in any script, and her collection includes rare and dangerous youkai books, which draw her into encounters with youkai and the shrine maiden (AniList; MangaDex metadata).",
+ "life_message": "Curiosity is precious, but the boundary between the human world and the supernatural must be respected.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Youkai encounters, exorcism tag (AniList); mild."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Dangerous youkai books."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Minor yuri tag (AniList, low rank)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Festive drinking possible (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Reading forbidden books."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Part of the Touhou game franchise."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pantheist/New Age",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Shinto-folk supernatural; curiosity and its limits",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 4,
+  "sanctity": 6,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love of books and learning.",
+   "concerns": "Occult books and spirits central."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Danger of forbidden books shown.",
+   "concerns": "Youkai and spirit contact imagery."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Curiosity's dangers shown.",
+   "concerns": "Occult books and magic."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wisdom in caution.",
+   "concerns": "Spirits and magic."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Demon books, spirits and shrine magic."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love of learning.",
+   "concerns": "Other gods and spirits."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Curiosity and literacy.",
+   "concerns": "Occult themes."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Learning.",
+   "concerns": "Occult books."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Folk fantasy imagination.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little to align.",
+   "concerns": "Spirits and worldly fantasy."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love of reading.",
+   "concerns": "Spirit contact."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Respect for another culture's spirituality.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Love of knowledge.",
+   "concerns": "Sihr, jinn-like youkai, shrine worship."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Spirits and deities in balance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Spirits common in folk practice.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Bookish female lead.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Curiosity and literacy.",
+   "concerns": "Supernatural presented as real in-world."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Tradition and community harmony.",
+   "concerns": "Occult themes for some."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Learning.",
+   "concerns": "Spirits and occult books."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to align.",
+   "concerns": "Spiritism and magic central."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Learning.",
+   "concerns": "Spirits and fear."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Pluralist spiritual world.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Respectful depiction of spirits and magic.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Shrine maiden, kami and youkai shown respectfully.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Learning.",
+   "concerns": "Superstition and magic."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love of knowledge.",
+   "concerns": "Occult."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Curiosity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Forbidden knowledge sought.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Love of books.",
+   "concerns": "Sorcery and spirits; avodah zarah."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Learning.",
+   "concerns": "Fantasy magic."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Learning.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Conflicts with youkai handled by shrine rites."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Boundaries between humans and youkai upheld."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Family shop."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Shrine maiden authority."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 2,
+    "evidence": "Folk religion and spirits guide life."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Village life and curiosity."
+   }
+  },
+  "closest": [
+   "Puritan",
+   "First Nation",
+   "The Midlands"
+  ],
+  "japan": "Set in a Japan-like realm of youkai and shrine maidens drawing on Shinto and folk belief about kami, spirits and boundaries."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Episodic youkai tales (AniList tags); no review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Any caution about the supernatural comes through Kosuzu's mishaps."
+ },
+ "winners_losers": "Not established from sources; the human village and shrine maiden appear to keep balance with youkai.",
+ "to_verify": [
+  "MangaUpdates record timed out repeatedly (batch lists its category Shinto); MangaDex metadata used, rating safe.",
+  "No review consulted; demon-book and exorcism elements not described.",
+  "Knowledge of the wider Touhou setting not used."
+ ]
+}

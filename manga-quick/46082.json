@@ -1,0 +1,86 @@
+{
+ "anilist_id": 46082,
+ "title": "Silent Voice",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/46082", "https://api.mangaupdates.com/v1/series/60682404790"],
+ "premise": "On a high school baseball team, Imai has his eye on Hikita, a hard-working younger member who seems to glare whenever he is nervous (DMG blurb via AniList and MangaUpdates). Imai looks after him as a senior should while secretly wanting more. A one-volume sports romance tagged shounen ai, about a misunderstood, plain-looking boy being noticed.",
+ "life_message": "Someone can see the worth in you that others miss (to verify).",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Blurb voices Imai's wish to touch Hikita's naked body; stolen kiss (MangaUpdates); shounen ai genre and MangaDex 'safe' suggest little shown."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Inferiority complex (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Stolen kiss; teasing (MangaUpdates)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Hard work noticed; senpai-kohai bonds; first love",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Hikita's diligence and Imai's care for a struggling teammate.", "concerns": "Same-sex teen attraction framed physically."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility of a plain, hard-working boy.", "concerns": "Teen same-sex desire."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Hard work and mentoring.", "concerns": "Gay teen romance; lustful framing."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Talking point on seeing past appearances.", "concerns": "Same-sex teen romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Perseverance.", "concerns": "Same-sex desire."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Diligence in a calling (sport).", "concerns": "Same-sex attraction affirmed."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Minor", "aligns": "Teamwork and care for the weak.", "concerns": "Synod differences."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Minor", "aligns": "Encouraging the struggling.", "concerns": "Traditional bodies object."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Dignity of the overlooked.", "concerns": "ACNA families would raise the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humility and hard work.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Diligence and mentoring.", "concerns": "Same-sex teen romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Gay teens with warmth.", "concerns": "Stolen kiss."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Diligence; respect for seniors.", "concerns": "Same-sex desire."},
+  {"frame": "Hindu", "grade": "C", "weight": "Minor", "aligns": "Effort and respect for seniors.", "concerns": "Views vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion for the misunderstood.", "concerns": "Desire."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer teen romance normalized.", "concerns": "Stolen kiss and consent."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy for an outsider.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Team sport, hard work, seniority.", "concerns": "Same-sex teen romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Discipline.", "concerns": "Same-sex desire."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Little to note.", "concerns": "Homosexual romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Seeing true worth beyond appearance.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of the overlooked.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Freely felt love.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Club team harmony and sincerity.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Honest effort.", "concerns": "Same-sex; lust."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Encouragement of others.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Overcoming misunderstanding through communication.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Pursuing desire.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Same-sex desire."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness to the overlooked.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusive teen story.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Misunderstanding, not insult, drives conflict."},
+   "Order vs freedom": {"pos": 4, "evidence": "Team discipline and club rules."},
+   "Civic vs kin": {"pos": 4, "evidence": "Team loyalty, not family."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Senpai-kohai roles on the team (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school sport."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Hidden feelings and hidden worth revealed."}
+  },
+  "closest": ["Yankeedom", "Catholic Europe", "The Midlands"],
+  "japan": "Senpai looking after kohai on a school baseball team reflects Japanese club hierarchy and mentoring norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb plot-only; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values are carried through the team relationship."
+ },
+ "winners_losers": "Imai and Hikita come together (MangaUpdates 'unrequited love becomes requited'); teammates who misjudge Hikita are background.",
+ "to_verify": [
+  "Whether any sexual content or nudity involves the high school characters.",
+  "DMG English edition largely ended; Renta! availability to check."
+ ]
+}

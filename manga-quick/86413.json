@@ -1,0 +1,358 @@
+{
+ "anilist_id": 86413,
+ "title": "Yamada and the Boy",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/86413",
+  "https://api.mangaupdates.com/v1/series/45864722704",
+  "https://myanimelist.net/manga/89355/Yamada_to_Shounen"
+ ],
+ "premise": "On Christmas, 26-year-old blue-collar worker Yamada finds a drunk, crying high-school boy, Chihiro, and takes him in for the night. Chihiro is struggling with being in love with his male best friend, and starts coming by to cook for Yamada as thanks, while a romance grows between the straight adult and the gay teen.",
+ "life_message": "A good life means kindness to someone in distress and love that sets gender aside.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Gentle tone ('fluffy', MAL reviewer)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Romance between a 26-year-old adult and a high-school student (AniList, MangaUpdates, MAL); MangaUpdates tags a sexual-contact category and MangaDex rates it suggestive. Detail not confirmed (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Chihiro is introduced drunk (AniList, MangaUpdates drunk tag) as a minor."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Distress over same-sex feelings (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Adult-minor romance presented sympathetically; underage drinking (AniList, MangaUpdates, MAL)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism; Progressivism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 3,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Yamada's hospitality to a boy in distress.",
+   "concerns": "Adult-minor romance and same-sex romance."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for a stranger.",
+   "concerns": "Same-sex romance with an adult and a minor."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness to a crying teen.",
+   "concerns": "Adult-minor same-sex romance; underage drinking."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion for a struggling teen.",
+   "concerns": "Same-sex romance between adult and minor."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Help for someone in distress.",
+   "concerns": "Adult-minor romance; drinking."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Neighborly care.",
+   "concerns": "Same-sex romance and age-gap romance with a minor."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hospitality as love of neighbor.",
+   "concerns": "Adult-minor romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Practical kindness.",
+   "concerns": "Adult-minor romance; same-sex romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Gentle portrayal of loneliness.",
+   "concerns": "Adult romancing a minor."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Hospitality.",
+   "concerns": "Same-sex romance with a minor."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Service and kindness.",
+   "concerns": "Adult-minor romance; Word of Wisdom (underage drinking)."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Affirms a gay teen's feelings.",
+   "concerns": "Adult-minor power imbalance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Hospitality to a guest.",
+   "concerns": "Same-sex romance, drinking and adult-minor romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for someone in need.",
+   "concerns": "Adult-minor romance."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion for suffering.",
+   "concerns": "Sexual misconduct concern with a minor; intoxication."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Affirms LGBTQ teen identity.",
+   "concerns": "Adult-minor romance and consent concerns."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Empathy for a gay teen.",
+   "concerns": "Exploitation risk in adult-minor romance."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Hard work and hospitality.",
+   "concerns": "Same-sex romance with a minor; underage drinking."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex romance and drinking."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Help for the distressed.",
+   "concerns": "Same-sex romance with a minor."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loving care.",
+   "concerns": "Dwelling on improper relationship."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Worth of a gay teen affirmed.",
+   "concerns": "Adult-minor power imbalance."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest feelings.",
+   "concerns": "Harm risk with a minor."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sincere gratitude and cooking.",
+   "concerns": "Impropriety with a minor."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Service through cooking.",
+   "concerns": "Lust and adult-minor romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Kindness.",
+   "concerns": "Same-sex romance and adult-minor romance; drinking."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Helping others.",
+   "concerns": "Adult-minor romance."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Freedom to love.",
+   "concerns": "Eleven Rules: harm to children; adult-minor romance."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Hachnasat orchim (hospitality).",
+   "concerns": "Same-sex romance and adult-minor romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Chesed shown to a teen.",
+   "concerns": "Adult-minor romance."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Inclusion of a gay teen.",
+   "concerns": "Adult-minor romance."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Gentle, non-confrontational kindness (MAL)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Private relationship outside social expectations (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Chosen bond rather than family (to verify)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Age gap with little stated hierarchy (MAL)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular, modern setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Love that \"sets gender aside\" (publisher blurb on AniList)."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Left Coast"
+  ],
+  "japan": "Cooking for someone as thanks and the reserve around same-sex feelings reflect Japanese social norms, shown as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "MAL reviewer calls it 'fluffy' and says it touches the age gap without being edgy (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The romance is carried by everyday scenes rather than stated messages."
+ },
+ "winners_losers": "The couple's growing bond gets the story's sympathy; no opposing view is shown in sources.",
+ "to_verify": [
+  "Chihiro's exact age and whether he is still a minor when the relationship becomes physical are not confirmed",
+  "MangaUpdates sexual-contact tag and MangaDex 'suggestive' rating not checked against a review",
+  "Only user reviews on MAL consulted"
+ ]
+}

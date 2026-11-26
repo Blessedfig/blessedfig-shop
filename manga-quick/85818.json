@@ -1,0 +1,90 @@
+{
+ "anilist_id": 85818,
+ "title": "Huh? I’m just a normal girl!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85818",
+  "https://api.mangaupdates.com/v1/series/23400939765",
+  "https://www.mangaupdates.com/series/ar0bcol"
+ ],
+ "premise": "Yukari Tachibana, a high-school girl killed in a traffic accident, is reborn as the daughter of a poor count in another world (Alpha Manga blurb via AniList and MU). She uses knowledge from her past life, including cooking, to improve her family's lot. A 3-volume adaptation of Hana Tsukiyuki's web novel.",
+ "life_message": "It holds up practical knowledge, hard work and family loyalty as the way to a better life.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "A fatal accident before the rebirth."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None noted; MangaDex safe."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Death and rebirth handled lightly."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Economics and money-making themes (AniList Economics)."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Practical know-how; family uplift; aristocratic setting",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Yukari's work for her family's good.", "concerns": "Reincarnation premise."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Family service.", "concerns": "Reincarnation."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Diligence.", "concerns": "Reincarnation; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Hard work.", "concerns": "Reincarnation."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Family.", "concerns": "Magic (MU)."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Vocation and thrift.", "concerns": "Reincarnation."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation in the household.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Industry and care.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Family duty.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Simplicity and mutual aid at home.", "concerns": "Aristocratic ambition."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Self-reliance and family.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Smart heroine.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Family duty.", "concerns": "Magic; reincarnation."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Rebirth and household dharma.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Rebirth and right livelihood.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Competent girl.", "concerns": "Nobility unquestioned."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Knowledge improves lives.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Thrift, work and family.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Practical living.", "concerns": "Reincarnation."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Family.", "concerns": "Magic; reincarnation."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Positive outlook.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Resourcefulness.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Folklore and magic.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Household prosperity.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest work (kirat karni).", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Work as service.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Past-life knowledge applied.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-reliance.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Family duty.", "concerns": "Magic."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Family.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Resourcefulness.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor conflicts noted."},
+   "Order vs freedom": {"pos": 4, "evidence": "Works within aristocratic structures."},
+   "Civic vs kin": {"pos": 7, "evidence": "Improving her own family's fortunes."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Count's household; nobility (MU)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern knowledge in an archaic world."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Escaping poverty."}
+  },
+  "closest": ["Orthodox Europe", "Confucian", "South and Southeast Asia"],
+  "japan": "The diligent, modest heroine who claims to be 'normal' reflects a common Japanese web-novel ideal of humility."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Blurb only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Light isekai with no stated message in summaries."
+ },
+ "winners_losers": "Yukari and her family (to verify).",
+ "to_verify": [
+  "Artist credit: AniList lists Rika Hanei, MU lists Rika Fujiwara; story author, year and publisher match.",
+  "Romance content."
+ ]
+}

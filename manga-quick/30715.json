@@ -1,0 +1,375 @@
+{
+ "anilist_id": 30715,
+ "title": "Fate/stay night",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30715",
+  "https://api.mangaupdates.com/v1/series/73250353068",
+  "https://animenewsnetwork.com/news/2014-05-21/viz-offers-fate-stay-night-manga-in-digital-format/.74749"
+ ],
+ "premise": "In Fuyuki City, seven sorcerers ('Masters') secretly summon legendary heroes as 'Servants' and fight to the last for a Holy Grail that grants a wish (AniList). Orphaned high-schooler Shirou Emiya, adopted by a magus and wanting to become a 'hero of justice' like him, accidentally summons the knight Saber and is drawn into the war (AniList; Viz blurb via MU). The manga adapts the first route of a 2004 visual novel.",
+ "life_message": "Striving to protect others, even at cost to oneself, is what makes a hero.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "A deadly battle royale with swords, spears and magic (AniList Battle Royale; MU Magical Battles; Viz blurb)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Secret war in a town, death of combatants (AniList synopsis)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Romance genre with Saber (AniList); source game is an adult visual novel (MU 'Based on an Eroge'); no nudity tags on the manga (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing specific noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Shirou lost his parents in a fire (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "A teen throws himself into lethal fights."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Part of the large Fate media franchise (AniList; MU adaptations)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Hero of justice ideal; summoned legendary heroes; wish-granting Grail war",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 7,
+  "fairness": 6,
+  "sanctity": 4,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Shirou's self-sacrificial ideal of protecting others.",
+   "concerns": "Summoning spirits and a 'Holy Grail' as a wish prize; lethal battles."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Self-giving courage.",
+   "concerns": "Summoning and sorcery central; sacred 'Grail' used as a game prize."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting the weak.",
+   "concerns": "Occult summoning; violence; source is an adult game."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sacrificial heroism.",
+   "concerns": "Magic, spirit summoning and Grail imagery."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond heroism.",
+   "concerns": "Summoning spirits; magical warfare."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Just use of force examined.",
+   "concerns": "Sorcery and a sacred relic as fiction device."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation to protect neighbours.",
+   "concerns": "Occult practice drives the plot."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-giving love for others.",
+   "concerns": "Summoning and killing."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Arthurian legend reimagined (MU).",
+   "concerns": "Sorcery and violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Heroic violence is the core."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage and duty.",
+   "concerns": "Violence and magic; adult-game source."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions about whether wishes justify killing.",
+   "concerns": "Glorified combat."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Courage to protect others.",
+   "concerns": "Sihr and spirit summoning; fighting for a wish."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Righteous duty in battle like epic heroes.",
+   "concerns": "Killing for personal wishes."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Selflessness.",
+   "concerns": "Violence and craving for the Grail."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Strong female fighters (MU).",
+   "concerns": "Glorified combat; source eroge."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Ethical questions about ends and means.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Heroism, knighthood, self-sacrifice.",
+   "concerns": "Violence and occult themes."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Heroism.",
+   "concerns": "Summoned dead heroes as spirits; violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Spiritism, magic and violence throughout."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Overcoming fear.",
+   "concerns": "Violence as solution."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Questioning what a wish is worth.",
+   "concerns": "Violent competition."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Myth and magic welcomed.",
+   "concerns": "Harmful magic used to kill."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Spirits of heroes honoured.",
+   "concerns": "Bloodshed (kegare)."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed.",
+   "concerns": "Magic and superstition."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Self-sacrifice.",
+   "concerns": "Violence and occult."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Individual will and power.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Self-sacrifice.",
+   "concerns": "Sorcery and necromancy-like summoning."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Sorcery and violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Protecting others.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Combatants fight personally for their wishes."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Hidden rules of the Grail War."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Shirou follows his late adoptive father's ideal."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Master-Servant relationship (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Magic and legend over science."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Survival in a battle royale."
+   }
+  },
+  "closest": [
+   "Tidewater",
+   "Orthodox Europe",
+   "Latin America"
+  ],
+  "japan": "The ideal of a 'hero of justice' and master-servant loyalty reflect familiar Japanese adventure tropes; Western legend (Arthurian) is reimagined through a Japanese lens."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Synopses state Shirou's goal to become a 'hero of justice'; no review opened (to verify).",
+  "personified": [
+   {
+    "character": "Shirou Emiya",
+    "ideology": "Hero of justice: protect others at any cost",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Shirou's ideal is stated outright; how rival Masters' views are treated is not shown in the sources."
+ },
+ "winners_losers": "Shirou and Saber are the sympathetic leads; sorcerers who fight purely for selfish wishes are the opposition (to verify).",
+ "to_verify": [
+  "English license partial: Tokyopop released early volumes, Viz digital release (ANN); MU lists English version dropped and out of print.",
+  "Depiction of violence and any fan service in later volumes.",
+  "The Grail's and church's portrayal (AniList Religion tag)."
+ ]
+}

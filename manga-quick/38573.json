@@ -1,0 +1,367 @@
+{
+ "anilist_id": 38573,
+ "title": "Mixed Vegetables",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/38573",
+  "https://api.mangaupdates.com/v1/series/41917122955"
+ ],
+ "premise": "Hanayu Ashitaba, daughter of a famous patisserie, dreams of being a sushi chef, while Hayato Hyuga, heir to a prestigious sushi restaurant, wants to be a pastry chef. The two meet in their high school's cooking department, and a romance grows as each pursues a dream that cuts against the family business.",
+ "life_message": "Following your own calling with hard work, while honoring family, makes a good life.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "High-school romance between classmates (AniList, MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Pressure of family expectations."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Food and restaurant focus."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Confucian ethics",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Expressive individualism; Traditionalism",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 5,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation and diligence in cooking.",
+   "concerns": "Teen romance without marriage focus."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Humble apprenticeship and effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work and clean romance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Pursuing gifts with diligence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Perseverance toward dreams.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation as calling, cooking honored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Daily vocation in kitchen work.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Disciplined growth in skill.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Warm comedy of family and craft.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family business and honest labor.",
+   "concerns": "Defying family trade could be read as self-will."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work, families valued.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hanayu chooses a male-dominated craft.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest work; family respect.",
+   "concerns": "Mixed-gender romance before marriage."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Respect for family lineage.",
+   "concerns": "Leaving the family trade vs. dharma of role."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Right livelihood and effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Challenges gendered career expectations.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-chosen goals, effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Work ethic and family businesses.",
+   "concerns": "Children departing from family tradition."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Cooking and wholesome effort.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Clean school romance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Positive, uplifting outlook.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Freedom to choose one's path.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal path honored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Craft and family shop continuity.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kirat karni through cooking.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Work as worship; equality in craft.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Competence through study and practice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-determination over family plans.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence and family respect.",
+   "concerns": "Teen romance; tzniut questions."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Craft and family ties.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choosing one's own path.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Rivalry settled by skill, not pride."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Each chooses a career against family expectation."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Family businesses loom large."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Apprentice and master hierarchy in kitchens."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Tradition of family trades vs. personal choice."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Personal dreams balanced with hard work."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "El Norte",
+   "Latin America"
+  ],
+  "japan": "Hereditary family businesses and the expectation that heirs carry them on are common Japanese themes, shown as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; theme from blurbs (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Following one's dream is carried by the two leads' choices."
+ },
+ "winners_losers": "Hanayu and Hayato pursue their chosen crafts together; families' expectations bend; outcome not confirmed.",
+ "to_verify": [
+  "Ending and time skip (MU)",
+  "Whether the families approve",
+  "Viz edition availability"
+ ]
+}

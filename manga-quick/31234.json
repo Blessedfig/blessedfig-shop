@@ -1,0 +1,357 @@
+{
+ "anilist_id": 31234,
+ "title": "Never Kiss a Stranger",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31234",
+  "https://api.mangaupdates.com/v1/series/44582117750"
+ ],
+ "premise": "A one-volume Harlequin manga adapted from a Madeleine Ker novel. Laura, a college-educated Englishwoman, is hired as assistant to a famous romance novelist on a European publicity tour. One night she catches a masked burglar in her employer's room, and he kisses her before escaping; mysteries follow, and MangaUpdates tags indicate an older, wealthy male lead.",
+ "life_message": "Romantic adventure, curiosity and trusting one's heart lead to love.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Burglary; no violence noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Mystery tension (blurb)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "A stolen kiss from a stranger and an age-gap romance between adults (MU Age Gap, Stolen Kiss)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "A non-consensual kiss is played as romantic (blurb, MU Stolen Kiss)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Romantic adventure, Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Laura's diligence serving her employer fits honest work.",
+   "concerns": "Kiss from a stranger played as romance; theft theme."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Faithful service fits.",
+   "concerns": "Theft and impulsive romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Laura's hard work fits.",
+   "concerns": "Romanticized theft and stolen kiss."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence fits.",
+   "concerns": "Stolen kiss without consent."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage in confronting a burglar.",
+   "concerns": "Worldly romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vocation as assistant fits.",
+   "concerns": "Theft glamorized."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Serving her employer fits vocation.",
+   "concerns": "Seventh commandment, theft, made romantic."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence fits.",
+   "concerns": "Theft and impulsive kiss."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Adventure with dignity.",
+   "concerns": "Stolen kiss consent point."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Hard work fits.",
+   "concerns": "Worldly glamour and romance focus."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence fits.",
+   "concerns": "Theft and romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Educated, working woman fits.",
+   "concerns": "Non-consensual kiss romanticized."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest work fits.",
+   "concerns": "Unrelated man kissing her, theft."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty to employer fits dharma.",
+   "concerns": "Theft and impulsive desire."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work fits right livelihood.",
+   "concerns": "Stealing; craving."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Working woman protagonist fits.",
+   "concerns": "Stolen kiss and consent."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Curiosity and investigation fit.",
+   "concerns": "Consent talking point."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence and loyalty fit.",
+   "concerns": "Theft romanticized."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Work ethic fits.",
+   "concerns": "Romance-focused entertainment."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Diligence fits.",
+   "concerns": "Romance focus and theft."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Few concerns.",
+   "concerns": "Material focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Worth of persons fits.",
+   "concerns": "Consent talking point."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Adventure and freedom fit.",
+   "concerns": "Harm in theft."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity fits.",
+   "concerns": "Few concerns."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work fits.",
+   "concerns": "Theft."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Work fits.",
+   "concerns": "Romance and theft."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Few concerns.",
+   "concerns": "Illegal act glamorized."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Indulgence and adventure fit.",
+   "concerns": "Unwanted advance."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Honest work fits.",
+   "concerns": "Theft and stranger's kiss."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diligence fits.",
+   "concerns": "Theft."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Working woman fits.",
+   "concerns": "Consent talking point."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "No honor conflicts noted."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Adventure and personal choice."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Workplace setting."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Employer and assistant ranks; older wealthy man (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Romance and adventure."
+   }
+  },
+  "japan": "A Japanese adaptation of a British romance set in Europe; few Japanese cultural markers noted.",
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "New Netherland"
+  ]
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurb and tags only; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Light romantic mystery with little message."
+ },
+ "winners_losers": "Laura appears to find romance with the mysterious man; sympathy rests with her.",
+ "to_verify": [
+  "Identity of the burglar",
+  "Ending",
+  "Mysterious activities"
+ ]
+}

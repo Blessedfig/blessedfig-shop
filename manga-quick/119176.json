@@ -1,0 +1,91 @@
+{
+ "anilist_id": 119176,
+ "title": "Himegasaki Sakurako Is a Hot Mess",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/119176",
+  "https://api.mangaupdates.com/v1/series/35514810944",
+  "https://www.animenewsnetwork.com/press-release/2024-11-22/seven-seas-licenses-himegasaki-sakurako-is-a-hot-mess-manga-series/.218158"
+ ],
+ "premise": "Sakurako Himegasaki is popular and cute but stuck as the childhood friend her crush Natsuki Mimori never sees romantically, and she has to watch him fall for another girl. The slapstick parody follows the 'losing childhood friend' through embarrassing situations as she keeps trying (Seven Seas blurb via AniList; Seven Seas press release on ANN; MU).",
+ "life_message": "Keep trying with good humor even when love does not go your way.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Slapstick (AniList Slapstick)."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Ecchi fan service with high-school characters, nudity (MU Ecchi, Mature, Nudity; AniList Nudity; MangaDex suggestive); capped without a review (to verify, may be higher)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Unrequited love played for comedy (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Embarrassing schemes (MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Livestreaming subplot (MU Livestreaming)."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"},
+  {"lens": "Postmodernism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Parody of rom-com tropes; persistence in unrequited love; fan service",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Sakurako's loyal affection for a childhood friend.", "concerns": "Ecchi fan service of a high-school girl."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Long friendship.", "concerns": "Sexualized imagery and passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Persistence.", "concerns": "Nudity and fan service central to the humor."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Good-humored resilience.", "concerns": "Fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Immodesty."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Comedy about pride and folly.", "concerns": "Lascivious pictures."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Slapstick comedy.", "concerns": "Explicitness of fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Friendship.", "concerns": "Impure diversions."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Parody of tropes.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Immodesty."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Immodest media."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Sympathy for the 'loser' of rom-coms.", "concerns": "Exploitative fan service."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Nudity; haya."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Devotion of a friend.", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Craving shown as comic suffering.", "concerns": "Sexualized art."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Female lead with agency.", "concerns": "Sexualization of a minor character."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Comedy.", "concerns": "Objectification."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Childhood loyalty.", "concerns": "Fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Impure content."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality in images."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Cheerfulness.", "concerns": "Little uplift."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Comic humanity.", "concerns": "Objectification of teens."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Light comedy.", "concerns": "Exploitation."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Beach and festival settings (MU Beach).", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Lust as entertainment."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Degrading imagery."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Persistence.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgent comedy.", "concerns": "Sexualization of minors."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Tzniut; nudity."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Friendship.", "concerns": "Degrading content."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Comedy.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Rejection met with comic persistence (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Assertive heroine pursues her crush (MU Assertive Female Lead)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Childhood friendship (MU)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Peers."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular parody."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Romance and livestreaming (MU)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "The Midlands"],
+  "japan": "Parodies the Japanese rom-com trope of the childhood friend who always loses (osananajimi make-heroine)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "Sakurako is the sympathetic underdog; the girl who wins Natsuki is not detailed in sources.",
+ "to_verify": [
+  "Fan-service level: MU lists Ecchi, Mature, Nudity and explicit anatomy tags; score capped at 3 and may be understated.",
+  "Seven Seas imprint not stated in the press release; MU genres do not include Adult, so the Ghost Ship rule does not apply.",
+  "Ongoing; English at 5 volumes."
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "anilist_id": 50242,
+ "title": "Good Luck Girl!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/50242",
+  "https://api.mangaupdates.com/v1/series/28377385652",
+  "https://myanimelist.net/reviews.php?id=195144"
+ ],
+ "premise": "Sixteen-year-old Ichiko Sakura is beautiful, rich and blessed with so much 'happiness energy' that she absorbs it from everyone around her, unbalancing the world's luck. Momiji, a poverty god, is sent to take the excess back, and the two clash in a slapstick parody comedy in which Ichiko gradually grows (MANGA MILLION blurb; MU description; MAL review of the anime).",
+ "life_message": "Happiness is more than luck, money and looks, and it is meant to be shared.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Slapstick fights between Ichiko and Momiji (MAL anime review); Action genre (MU). Not graphic (to verify)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Parody comedy."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Endorsed", "note": "Ecchi genre and 'Sexual Harassment Played for Comedy' (MU); breast jokes central and a monk grabs breasts for laughs (MAL review, covers the anime)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Insult comedy; profanity not reported (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Groping and harassment played as jokes (MU; MAL anime review)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Anime adaptation; parodies other series (MU, MAL)."}
+ ],
+ "lenses": [
+  {"lens": "Moralistic therapeutic deism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Critiqued"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Balance of luck and happiness; selfishness to growth; ecchi parody",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 6},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 7, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Ichiko learns happiness is not wealth or looks, and should be shared.", "concerns": "Sexual harassment for laughs; gods shown as real; mocking monk."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Pride humbled.", "concerns": "Lewd humor and pagan gods."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Selfishness corrected.", "concerns": "Fan service, breast jokes and gods."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Character growth from vanity.", "concerns": "Harassment comedy; other gods."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Pride brought low.", "concerns": "Gods and demon friends; lewdness."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Riches do not satisfy.", "concerns": "Lascivious humor (WLC Q139)."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Greed and vanity exposed.", "concerns": "Ecchi content."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Sharing happiness with others.", "concerns": "Harassment humor."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Moral growth arc.", "concerns": "Crude humor."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Critique of wealth and vanity.", "concerns": "Lewd, worldly comedy."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Selflessness learned.", "concerns": "Immodesty and vulgar humor."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Fairness in distributing happiness.", "concerns": "Groping played for laughs."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Generosity over selfishness.", "concerns": "Immodesty and multiple gods."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Balance of fortune and karma-like justice.", "concerns": "Mocking a religious figure (monk)."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Attachment to fortune loosened.", "concerns": "Perverted monk caricature; harassment."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Satire of privilege.", "concerns": "Sexual harassment normalized as comedy."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Growth through empathy.", "concerns": "Harassment humor."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Humility and sharing.", "concerns": "Vulgarity and fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Vanity corrected.", "concerns": "Gods and lewd content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Gods, demons and sexual humor."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Happiness as spiritual, not material.", "concerns": "Crude humor."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Fairness and community.", "concerns": "Harassment humor."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Balance and return of energy.", "concerns": "Non-consensual groping jokes."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Binbougami from folk belief played with affection.", "concerns": "Crude humor."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Sharing (vand chakna).", "concerns": "Lust as comedy."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Generosity.", "concerns": "Unchaste humor."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Growth of the self.", "concerns": "Harassment humor."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Irreverent parody of gods.", "concerns": "Unwanted sexual advances (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty and nivul peh."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Tzedakah-like sharing.", "concerns": "Degrading sexual humor."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Fairness.", "concerns": "Harassment humor."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Rivalry settled through comic battles (MAL)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Gods enforce balance, but Ichiko resists (MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Absent parents; friends and gods as cast (MU Absent Parent/s)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Rich girl humbled; luck redistributed (MU)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Folk gods and monks played for parody (MU)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Happiness and personal fulfillment are the theme (MAL)."}
+  },
+  "closest": ["English-speaking", "The Midlands", "Yankeedom"],
+  "japan": "Builds on the Japanese folk figure of the binbougami (poverty god) and shounen parody humor."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "MAL anime review: morals emerge gradually through Ichiko's development, not heavy-handed lessons.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Message carried by Ichiko's arc within comedy, per a review of the anime adaptation."
+ },
+ "winners_losers": "Ichiko becomes more sympathetic as she learns happiness is more than money and looks (MAL, anime).",
+ "to_verify": [
+  "The only review opened (MAL user review) covers the anime, not the manga.",
+  "Level of fan service in the manga itself.",
+  "Female Harem spoiler tag (AniList) context."
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "anilist_id": 132298,
+ "title": "The Unaware Atelier Meister",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/132298",
+  "https://api.mangaupdates.com/v1/series/61025509313"
+ ],
+ "premise": "Kind-hearted Kurt is kicked out of the Hero's Party as 'useless' because his combat skills are the lowest rank (Alpha Manga blurb via AniList and MU). Taking odd jobs repairing walls and mining, he turns out to have SSS-rank skill in cooking, building, mining and crafting, and saves people, the town and even the country without realizing his own talent (blurb). Ongoing comedy-fantasy from a web novel; AniList lists Female Harem and MU lists kidnappings, bandits and a forced marriage subplot.",
+ "life_message": "Humble, diligent service in ordinary work has great worth, even when the world measures people only by strength.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Bandits and kidnappings (MU); protagonist avoids combat (blurb)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedic misunderstandings (AniList Surreal Comedy)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "AniList Female Harem; MangaDex 'suggestive'; MU Forced into Marriage, Subtle Romance (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not checked (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Rejection by party; Kurt seems unbothered (blurb)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Web-novel franchise."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Dignity of humble work; misunderstanding comedy",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Kurt's humble, kind labor serves the common good.", "concerns": "Harem elements and suggestive art."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humility of a gifted servant unaware of his greatness.", "concerns": "Fan service."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Faithful in little things; meekness.", "concerns": "Harem and suggestive content; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "The overlooked servant exalted.", "concerns": "Harem setup."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Humble lifted up.", "concerns": "Magic; suggestive content."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "All honest work as vocation to God's glory.", "concerns": "Harem."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation: mining and cooking as true service.", "concerns": "Harem tropes."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Doing good to all.", "concerns": "Suggestive elements."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Humility and service.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Craft and non-combat usefulness.", "concerns": "Worldly harem comedy."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Hard work and self-reliance.", "concerns": "Suggestive content."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Worth not measured by strength.", "concerns": "Women as harem accessories; forced-marriage plot."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Honest labor and kindness.", "concerns": "Immodest fan service; magic."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Karma yoga: work without seeking reward.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Selflessness and right livelihood.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Non-combat skills valued.", "concerns": "Harem tropes, forced marriage."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Competence and kindness.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Hard work, humility, usefulness.", "concerns": "Fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Service and simplicity.", "concerns": "Magic; suggestive art."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Humble industry.", "concerns": "Magic and harem."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Unconscious goodness.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of the 'useless'.", "concerns": "Gender tropes."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Craft and making honored.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincere craftsmanship (monozukuri-like).", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Kirat karni: honest work and service.", "concerns": "Fan service."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Work in the spirit of service is worship.", "concerns": "Suggestive content."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "C", "weight": "Minor", "aligns": "Hero's success.", "concerns": "Self-effacement over self-assertion."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Dignity of labor.", "concerns": "Tzniut; magic."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Labor and kindness.", "concerns": "Fan service."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Worth beyond strength.", "concerns": "Gender tropes."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Kurt does not avenge his expulsion (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Odd jobs and guild work within society."},
+   "Civic vs kin": {"pos": 4, "evidence": "Saves the town and country (blurb)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Rank system mocked by his hidden SSS skills."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Skill-based meritocratic world."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Making a living through labor."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Kurt's modest self-image and diligent craftsmanship echo Japanese ideals of humility and dedication to work."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurb shows the theme through comic misunderstandings rather than speeches (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The party that expelled him stands for a strength-only measure of worth, but sources do not show them as characters (to verify)."
+ },
+ "winners_losers": "Kurt and those he helps win; the Hero's Party that dismissed him is implicitly shown to be wrong.",
+ "to_verify": [
+  "Harem and fan-service level",
+  "Forced marriage and kidnapping plots (MU)",
+  "Treatment of the Hero's Party"
+ ]
+}

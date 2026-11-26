@@ -1,0 +1,330 @@
+{
+ "anilist_id": 101177,
+ "title": "Fly Me to the Moon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(manga)",
+  "https://anilist.co/manga/101177",
+  "https://www.mangaupdates.com/series/h1dfwtz"
+ ],
+ "premise": "Teen genius Nasa Yuzaki confesses to Tsukasa after she saves him from a truck, and she says yes only if they marry. She returns on his 18th birthday with a marriage form, and the comedy follows their married life and the mystery of her link to the Princess Kaguya legend.",
+ "life_message": "A good life is committed marriage and daily affection between two people.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Opening accident; little else (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Light mystery."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Married couple's affection; a friend pushes them to 'advance' their relationship (Wikipedia) (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None reported (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Fear of loss; little else."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Marriage at 18."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Many pop-culture parodies (Parody tag)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Traditionalism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Traditionalism (marriage first), Communitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 8,
+  "fairness": 5,
+  "sanctity": 6,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage commitment centered.",
+   "concerns": "Mild intimacy gags (to verify)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage as a lasting bond.",
+   "concerns": "Kaguya legend and immortality lore."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage before romance.",
+   "concerns": "Mild suggestive humor."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Covenant marriage framing.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marital fidelity.",
+   "concerns": "Moon-princess myth and immortality lore."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage as covenant.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage and household vocation.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Faithful love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage celebrated.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Commitment and family.",
+   "concerns": "Media focus; very young marriage."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage and family central.",
+   "concerns": "Mild physical humor."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mutual support in marriage.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage before intimacy.",
+   "concerns": "Modesty in physical scenes (to verify)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Grihastha duty honored.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kindness and devotion.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mutual, affectionate partnership.",
+   "concerns": "Marriage at 18; gender roles (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness and commitment.",
+   "concerns": "Rushed marriage decision."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Marriage and family centered.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Faithful married life of Nasa and Tsukasa.",
+   "concerns": "Moon-princess immortality lore."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage before romance; fidelity.",
+   "concerns": "Immortality myth and pop-culture holidays."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love as the steady center of daily life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Mutual care in a partnership.",
+   "concerns": "Very young marriage decision."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love and a moon myth honored.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kaguya legend and household harmony.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage as a spiritual and daily partnership.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Marriage and mutual devotion.",
+   "concerns": "Marriage without the parental consent required (to verify)."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Second dynamic: faithful family life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "A couple choosing their own path.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Shalom bayit themes.",
+   "concerns": "Physical-affection gags; 'LGBT scenes' category unclear (to verify)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Marriage as covenant.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Loving partnership.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review comment on delivery found; summaries show commitment-first romance through daily married life (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Summaries present married life as the frame of the story rather than an argued position."
+ },
+ "winners_losers": "The married couple wins; no strong villains. A traditional, commitment-first view of romance gets sympathy.",
+ "to_verify": [
+  "MangaUpdates 'LGBT Scenes' category: which scenes",
+  "Suggestive content level",
+  "Viz age rating",
+  "Only one non-database source read (Wikipedia)"
+ ]
+}

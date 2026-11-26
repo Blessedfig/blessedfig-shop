@@ -1,0 +1,92 @@
+{
+  "anilist_id": 76258,
+  "title": "Flying Witch",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Flying_Witch",
+    "https://anilist.co/manga/76258",
+    "https://api.mangaupdates.com/v1/series/527585955"
+  ],
+  "premise": "Makoto, a polite trainee witch from Yokohama, moves with her black cat familiar Chito to live with cousins in rural Hirosaki, Aomori, as part of her training. The episodic story follows her daily life as her relatives and new friends meet the customs of witchcraft, including her young cousin Chinatsu, who becomes an apprentice (Wikipedia; Kodansha blurb via AniList).",
+  "life_message": "A gentle life of family, nature, seasons and small wonders is worth slowing down for.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted; AniList Iyashikei, MU Warm Ambience."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Mild supernatural encounters, e.g. a shy ghost at a cafe (Wikipedia)."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Kei says a witch is 'his type' (Wikipedia); MangaDex safe."},
+    {"category": "Language", "score": 0, "framing": "Neutral", "note": "Nothing noted; Keiji speaks Tsugaru dialect (Wikipedia)."},
+    {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Adult witch Inukai's night of heavy drinking; a friend's family liquor store (Wikipedia)."},
+    {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Potions, spells and fortune-telling shown as normal practice (Wikipedia)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Pagan/occult", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Pantheist/New Age", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Environmentalism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"}
+  ],
+  "dominant": "Witchcraft as everyday craft; rural family life; harmony with nature and spirits",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 4, "sanctity": 5, "authority": 5, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Warm extended family taking in Makoto; kindness and hospitality.", "concerns": "Witchcraft, potions and fortune-telling shown as good, normal practice (CCC 2115-2117)."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Gentle household life and gratitude for creation.", "concerns": "A child, Chinatsu, apprenticed into witchcraft; spirits treated as friends."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Clean, kind family story with no violence.", "concerns": "Positive, practical witchcraft and familiars; many families avoid this."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Neighborliness and family warmth in rural Aomori.", "concerns": "Witch training presented as a career path, not fantasy metaphor."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Peaceful household life.", "concerns": "Familiars, spirits, a ghost and fortune-telling as benign: an 'open door' concern."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Delight in ordinary creation and seasons (common grace).", "concerns": "Occult practice framed attractively."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Daily family vocation; Nana's children's-book work.", "concerns": "Witchcraft normalized for a young girl."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Kindness, hospitality and a calm pace.", "concerns": "Witchcraft and drinking jokes."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Gentle fantasy in a tradition that loves imaginative stories.", "concerns": "Magic here is practiced craft, not allegory."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple rural life, gardening and family meals.", "concerns": "Witchcraft and popular media."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Close family and wholesome tone.", "concerns": "Spirit contact and fortune-telling; adult drinking scene."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Hospitality and care for a newcomer; myth accepted as story.", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Family warmth and good manners in Makoto.", "concerns": "Sihr (sorcery) shown positively; drinking."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Spirits and nature presences fit a familiar worldview; respect for elders.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Mindful, unhurried living and kindness to animals.", "concerns": "Adult drinking jokes."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Welcoming difference; Akane's contrasting looks treated without fuss.", "concerns": "Little to raise."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Curiosity and imagination; Anzu's love of history and archaeology.", "concerns": "Magic is fiction here."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Extended family, respect for elders and rural tradition.", "concerns": "Some families wary of witchcraft themes."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Fresh air, gardening and simple living.", "concerns": "Spiritualism: a friendly ghost of a dead woman shown as real."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Kind family life.", "concerns": "Witchcraft, familiars and spiritism are the core of the series."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Calm, fear-free tone; gratitude.", "concerns": "Spiritualism and fortune-telling as real practice."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Respectful portrayal of witches; pluralism of beliefs.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "S", "weight": "Minor", "aligns": "Witches shown as kind, nature-attuned and responsible; harm-none magic.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "S", "weight": "Minor", "aligns": "Seasonal rural life, spirits of sea and place treated respectfully (Hamabe).", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work and sharing in a family home.", "concerns": "Magic and fortune-telling rejected by the Gurus."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity of family and friends; gentleness.", "concerns": "Occult practice and drinking."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Learning and helping others through skill.", "concerns": "Little stated concern."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Witchcraft without stigma.", "concerns": "Little of interest."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Family warmth and hospitality.", "concerns": "Sorcery and divination (Deuteronomy 18) shown approvingly."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Kind household and community.", "concerns": "Witchcraft as practice; fantasy generally accepted."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Welcoming a newcomer; gentle comedy.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "No feuds; mild episodic comedy (MU Episodic, Warm Ambience)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Makoto trains at her own pace; Akane travels the world freely (Wikipedia)."},
+      "Civic vs kin": {"pos": 7, "evidence": "Story centers on cousins' household and sisters (Wikipedia; AniList Family Life)."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Apprentice-teacher roles (Chinatsu under Akane) held lightly (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Inherited witch customs and rural dialect valued (Wikipedia)."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Iyashikei: quality of daily life over striving (AniList)."}
+    },
+    "closest": ["The Midlands", "Catholic Europe", "English-speaking"],
+    "japan": "Rural Aomori life, Tsugaru dialect and casual coexistence with spirits reflect Japanese regional and folk-religious culture."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 1,
+    "evidence": "Episodic slice-of-life with no stated lesson (Wikipedia; MU Episodic). No review opened (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The series presents witchcraft and rural life as normal rather than arguing for them, as far as summaries show."
+  },
+  "winners_losers": "No losers; Makoto, her family and new friends all gain. Sympathy goes to a gentle, nature-attuned witchcraft.",
+  "to_verify": [
+    "No review opened; entry rests on Wikipedia and database summaries",
+    "Kodansha USA/Vertical age rating",
+    "How magic is framed in later volumes (gods tagged by AniList)"
+  ]
+}

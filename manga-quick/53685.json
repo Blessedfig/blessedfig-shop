@@ -1,0 +1,96 @@
+{
+ "anilist_id": 53685,
+ "title": "Wolfsmund",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/53685",
+  "https://api.mangaupdates.com/v1/series/75357551562",
+  "https://www.uk-anime.net/Manga/Wolfsmund_Vols._1-2.html"
+ ],
+ "premise": "Early 14th-century Alps: the Habsburg bailiff Wolfram guards Wolfsmund, the fortress checkpoint on the St. Gotthard Pass, and interrogates everyone who tries to cross (ANN blurb via AniList; MangaUpdates). Rebels of the Forest Cantons, helped by the innkeeper Grete's secret route, try again and again to get through and usually die in the attempt; William Tell later appears (UK Anime Network review). An eight-volume seinen historical tragedy.",
+ "life_message": "It holds up resistance to tyranny and the hope of freedom as worth suffering and dying for.",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 8, "framing": "Shown with consequences", "note": "Beheadings, lashings, drownings and mutilated bodies (UK Anime Network); MangaUpdates Torture, Brutality, Execution, Blood and Gore; AniList Gore."},
+  {"category": "Fear and intensity", "score": 7, "framing": "Shown with consequences", "note": "Near-constant dread at the checkpoint; most travelers die (blurbs; review); Tragedy tags."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Condemned", "note": "Frequent sex scenes and nudity, plus sexual violence (review); MangaUpdates Sexual Abuse, Child Rape, Prostitution. Abuse of a child is shown as atrocity, not titillation (to verify)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Not described in sources (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Inn setting; nothing noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Grief and despair among rebels; MangaUpdates Nihilism."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Condemned", "note": "Torture shown as cruelty of the occupier."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Libertarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Nihilism", "strength": 3, "stance": "Explored"},
+  {"lens": "Collectivism/authoritarianism", "strength": 4, "stance": "Critiqued"}
+ ],
+ "dominant": "Liberty against occupation, the cost of resistance, tyranny critiqued",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 7},
+ "foundations": {"care": 6, "loyalty": 8, "fairness": 7, "sanctity": 3, "authority": 2, "liberty": 9},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Unjust authority may be resisted; Wolfram's torture shown as evil.", "concerns": "Graphic torture, sexual violence including against a child, frequent nudity."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Suffering of the oppressed cantons treated seriously.", "concerns": "Sex scenes and gore inflame the passions; little repentance shown."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Liberty from tyranny, in the spirit of religious and civil freedom.", "concerns": "Explicit sexual content and graphic torture throughout."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Rebellion against evil authority, as with the Swiss rebels, can be admired.", "concerns": "Sexual violence and gore depicted in detail."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Courage of Grete's network risking all for others.", "concerns": "Sex scenes and torture; holiness standards strained."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Resistance to a tyrannical magistrate echoes Reformed political thought.", "concerns": "WLC Q139 concern over lascivious pictures; brutal imagery."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Shows the abuse of the sword by unjust rulers.", "concerns": "Graphic sexual content and gore; conscience call for families."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Social justice against oppression of common people.", "concerns": "Content does not tend toward holiness; sexual violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Clear moral framing: occupier cruel, rebels sympathetic.", "concerns": "Extreme depictions may exceed what the story needs."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Shows the human cost of the sword on both sides.", "concerns": "Armed rebellion as heroic; torture and sex shown at length."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Fighting for liberty echoes the title of liberty (Alma 46).", "concerns": "Vulgar, sexual and violent imagery far beyond youth guidance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Sides with the oppressed against imperial power.", "concerns": "Sexual violence and abuse of a child shown graphically."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Just struggle against oppression (zulm).", "concerns": "Nudity and sex scenes; torture imagery."},
+  {"frame": "Hindu", "grade": "B", "weight": "Significant", "aligns": "Righteous struggle against adharma, as in the Gita.", "concerns": "Tamasic content: cruelty and sexual violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Shows hatred and cruelty breeding more suffering.", "concerns": "Violence on both sides; mind fed with cruelty."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Significant", "aligns": "Critique of occupation and abuse of power.", "concerns": "Sexualized depiction around a child victim (review); sexual violence."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Human dignity against arbitrary power; historical setting.", "concerns": "Cruelty as spectacle at times; 'overcooked' drama (review)."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Founding struggle of Swiss liberty; William Tell legend honored.", "concerns": "Gratuitous gore and sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Oppression exposed as evil.", "concerns": "By beholding we become changed: torture and sex throughout."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Shows the cruelty of human rulers.", "concerns": "Violence God hates; immorality; political rebellion as heroic."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Courage and hope against domination.", "concerns": "Dwelling on fear, cruelty and sin."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Justice and dignity of travelers crushed by an empire.", "concerns": "Exploitative imagery of a child victim (to verify framing)."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Significant", "aligns": "Autonomy of mountain communities; harm by the powerful condemned.", "concerns": "Sexual violence and torture."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Sincerity and loyalty of rebels to their community.", "concerns": "Pervasive blood and death (kegare); foreign setting with little kami content."},
+  {"frame": "Sikh", "grade": "B", "weight": "Significant", "aligns": "Defending the oppressed is righteous, as Guru Gobind Singh taught.", "concerns": "Lust and cruelty depicted at length."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "Justice for the oppressed.", "concerns": "Armed revolt and unchaste content; little unity."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Self-determination of the cantons.", "concerns": "Murder and torture throughout."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Rebellion against arbitrary authority admired.", "concerns": "Harm to a child condemned by the Eleven Rules; shown on page."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Resistance to oppressors and remembrance of victims.", "concerns": "Tzniut and nivul peh concerns; graphic sexual violence."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Struggle for freedom recalls Exodus themes.", "concerns": "Sexual content and torture."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Justice against occupation; tikkun olam.", "concerns": "Glorified brutality at times; child victim imagery."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Rebels answer the occupier with blood; revenge tag (AniList)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Cantons fight Habsburg control of the pass (MangaUpdates blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Loyalty runs to the cantons' alliance, beyond family."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Commoners and innkeepers defy noble bailiff Wolfram (review)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Medieval Catholic world; William Tell legend honored."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Life is about surviving the Maw; most do not (blurbs)."}
+  },
+  "closest": ["The Far West", "Greater Appalachia", "Borderer"],
+  "japan": "A Japanese author retelling the Swiss founding legend through the seinen 'cruel tragedy' tradition, with stoic endurance and self-sacrifice that Japanese readers prize."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Reviewer calls it a 'straightforward rebels-against-the-evil-empire affair', sometimes 'almost stupidly overcooked'.",
+  "personified": [
+   {"character": "Wolfram, the Habsburg bailiff", "ideology": "imperial order kept by terror", "role": "Villain", "treatment": "Mixed"},
+   {"character": "Grete and the canton rebels", "ideology": "local liberty against foreign rule", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The occupier's side is shown through a cruel but clever bailiff; the reviewer finds him less clever than the story claims."
+ },
+ "winners_losers": "Most rebels and travelers die at the Maw; the cantons' cause of liberty gets the story's sympathy, and the Habsburg occupation is cast as cruel.",
+ "to_verify": [
+  "Child Rape tag (MangaUpdates) and the nude child torture scene (review): check whether abuse is shown and how it is framed.",
+  "Ending and whether the fortress falls.",
+  "Review covers volumes 1-2 only; later volumes may differ."
+ ]
+}

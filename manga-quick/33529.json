@@ -1,0 +1,364 @@
+{
+ "anilist_id": 33529,
+ "title": "Honey Hunt",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/33529",
+  "https://api.mangaupdates.com/v1/series/75201795134",
+  "https://api.mangadex.org/manga/fadbf83b-7ef8-4cd3-b321-6772eb6457a9",
+  "https://icv2.com/articles/comics/view/14417/review--honey-hunt-vol-1-manga"
+ ],
+ "premise": "Yura, a shy high-school senior, is the daughter of a famous composer and a world-renowned actress whose marriage is a publicity act. When they divorce and her angry rant airs on TV, her father's manager offers to represent her as an actress, and she meets rival twin teen-idol musicians (VIZ blurb; ICv2 review). The series stopped at six volumes (MU).",
+ "life_message": "Finding one's own worth apart from famous, neglectful parents.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Emotional drama (ICv2)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Love polygon with twin idols (MU; ICv2); explicitness not reviewed (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Feels unable to meet parents' standards; parental abandonment (ICv2; MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Showbiz manipulation and rivalry (MU Betrayal)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Celebrity and fame culture as setting."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Feminism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Fame versus authenticity; parental neglect; love triangle",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dignity of a neglected child.",
+   "concerns": "Romantic entanglements; family breakdown shown."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Exposes vanity of fame.",
+   "concerns": "Passions of romance and celebrity."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Divorce's cost to children shown.",
+   "concerns": "Worldly showbiz values."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Yura's worth beyond performance.",
+   "concerns": "Fame-seeking path."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hope after family rejection.",
+   "concerns": "Worldly entertainment industry."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Vanity of status exposed.",
+   "concerns": "Little moral frame."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest vocation sought.",
+   "concerns": "Parents dishonored as a theme."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Growth in confidence.",
+   "concerns": "Celebrity culture."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Realistic drama of family.",
+   "concerns": "Love polygon."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Critique of vanity.",
+   "concerns": "Showbiz worldliness central."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family's importance shown by its absence.",
+   "concerns": "Fame pursuit; romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Neglected youth finds a voice.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truth versus image.",
+   "concerns": "Mixed romance; disrespect to parents."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Seeking one's own dharma.",
+   "concerns": "Family duty broken."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Craving for fame examined.",
+   "concerns": "Attachment to love and status."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Young woman claims autonomy.",
+   "concerns": "ICv2 notes the author's pattern of meek heroines."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Authenticity over image.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work to earn a place.",
+   "concerns": "Divorce and public outburst against parents."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Integrity versus vanity.",
+   "concerns": "Entertainment industry as aspiration."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Truth over appearances.",
+   "concerns": "Worldly ambitions."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming a limiting self-image.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inherent worth of a person.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-will and empowerment.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity versus a false public face.",
+   "concerns": "Family harmony lost."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work over status.",
+   "concerns": "Love polygon."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truthfulness valued.",
+   "concerns": "Family disunity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Taking control of one's life.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Breaking free of others' expectations.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity.",
+   "concerns": "Honoring parents (kibud av va'em) strained; romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth over image.",
+   "concerns": "Family dishonor."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Authenticity and self-worth.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Yura's worth sought apart from her parents' fame (ICv2)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "She breaks from family to choose a career."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Family loyalty shown failing."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Agents and industry rank matter."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern showbiz world."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Self-expression and finding one's voice."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "Japan's talent-agency system and the pressure on celebrity families shape the setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ICv2 calls it a soap-opera set-up of familiar shojo clichés.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "The fame-versus-authenticity theme is carried by Yura's choices."
+ },
+ "winners_losers": "Yura begins to stand on her own; her self-centered mother gets little sympathy (ICv2).",
+ "to_verify": [
+  "Series is discontinued at six volumes (MU); story unresolved.",
+  "Romantic or sexual explicitness in later volumes.",
+  "ICv2 rates T+; confirm VIZ rating."
+ ]
+}

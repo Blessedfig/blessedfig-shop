@@ -1,0 +1,363 @@
+{
+ "anilist_id": 48752,
+ "title": "They Were 11!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/48752",
+  "https://api.mangaupdates.com/v1/series/55309995068",
+  "https://librarycomic.com/graphic-novel-review-they-were-11-by-moto-hagio/"
+ ],
+ "premise": "Moto Hagio's 1975 award-winning shoujo science fiction: applicants to the elite Cosmo Academy are sent in groups of ten to a derelict starship for a final test, but eleven arrive, and suspicion falls on orphan esper Tada as things go wrong (VIZ blurb; MangaUpdates). They must trust each other to survive. The Denpa edition (Teen 13+) adds a sequel about a rebellion on one examinee's home planet (review).",
+ "life_message": "It holds up trust, cooperation across differences and courage under suspicion.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Threat of violence and death, bombs; a rebellion in the sequel (review, MangaUpdates)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Survival under suspicion aboard a failing ship; Survival tag (AniList) and tense mystery (MangaUpdates, review)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Downplayed romance (review); a crew member of undetermined sex (AniList Agender and Transgender tags)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not raised by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Childhood trauma and suspicion (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little imitable."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Trust and teamwork across cultures; suspicion versus cooperation; gender explored",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 7,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Trust and charity across strangers.",
+   "concerns": "Gender-choice theme conflicts with sex as given."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Humility and cooperation under trial.",
+   "concerns": "Gender treated as chosen."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy over false accusation.",
+   "concerns": "Gender theme; violence threat."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Refusing to scapegoat.",
+   "concerns": "Gender theme."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage and unity.",
+   "concerns": "Esper powers; gender theme."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Human limits shown under suspicion.",
+   "concerns": "Gender treated as chosen."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Bearing false witness resisted.",
+   "concerns": "Gender theme (LCMS); ELCA less concerned."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Community trust.",
+   "concerns": "Gender theme in holiness churches."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Diversity and cooperation.",
+   "concerns": "Provinces differ on gender."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Peaceful cooperation rather than force.",
+   "concerns": "Threat of violence; sequel rebellion."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Trust and teamwork.",
+   "concerns": "Gender theme."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Diversity across cultures; gender variance included.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Justice to the accused.",
+   "concerns": "Gender theme."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dharma of duty in a test.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Right speech, avoiding false blame.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Cross-cultural cooperation; gender diversity.",
+   "concerns": "Era-specific portrayals (to verify)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Reasoned trust under uncertainty.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage and duty.",
+   "concerns": "Gender theme for children."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Gender theme; esper powers."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honesty and unity.",
+   "concerns": "Psychic powers; violence; gender."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming fear by trust.",
+   "concerns": "Psychic powers."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every being; pluralism.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Cooperation.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony among strangers.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Equality of all peoples.",
+   "concerns": "Gender theme."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Oneness of diverse peoples.",
+   "concerns": "Gender theme."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication and trust.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Individual choice in identity.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "No false witness.",
+   "concerns": "Gender theme."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ethics of suspicion and justice.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and justice.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Accusation settled by evidence and trust."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Exam rules bind them; individuals improvise."
+   },
+   "Civic vs kin": {
+    "pos": 2,
+    "evidence": "Strangers from many worlds cooperate."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Examinees are peers; one is a king."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Science-fiction secular frame."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Survival test yet tolerance of difference."
+   }
+  },
+  "closest": [
+   "Yankeedom",
+   "Catholic Europe",
+   "New Netherland"
+  ],
+  "japan": "A classic of the 1970s shoujo revolution, whose cooperative ensemble reflects group-harmony ideals, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Review praises action and art; no preaching noted (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Trust and diversity emerge from the mystery plot."
+ },
+ "winners_losers": "The group that learns to trust survives the test (to verify).",
+ "to_verify": [
+  "How the gender-choice character's arc is resolved.",
+  "Sequel content (rebellion violence).",
+  "Viz and Denpa editions differ; Denpa adds a sequel."
+ ]
+}

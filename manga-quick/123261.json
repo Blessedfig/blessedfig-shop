@@ -1,0 +1,389 @@
+{
+ "anilist_id": 123261,
+ "title": "Her Majesty’s Swarm",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/123261",
+  "https://kodansha.us/series/her-majestys-swarm/volume-1/",
+  "https://www.goodreads.com/book/show/49094031",
+  "https://api.mangadex.org/manga?title=Her Majesty's Swarm (MangaDex metadata for title 559be949-4475-4f06-b8bf-a1a7343489bc)"
+ ],
+ "premise": "A young woman who played the insect 'Arachnea' faction in an online strategy game wakes in a similar world as queen of a swarm of giant arachnids. After humans kill one of her insects and knights burn a village of her elf allies, she launches a war of conquest against the human kingdoms, whose church worships a 'God of Light'. The story follows her as a villainous protagonist.",
+ "life_message": "Power used without restraint is presented as the way to protect one's own and settle grievances; the story invites readers to watch a conqueror rather than a hero.",
+ "overall": 8,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 8,
+   "framing": "Neutral",
+   "note": "Graphic war gore and mass killing: AniList Gore 87 and War 85; reader reviews describe people 'ripped apart' and civilian killings (light novel). Kodansha rates 16+."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "Horror and body-horror tags (MangaDex Horror; AniList Body Horror, Tragedy); giant arachnids devouring people per reviews."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No romance or sexual tags; MangaDex rates it safe."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not documented (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None documented."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Revenge, tragedy and loss of allies; protagonist's indifference to suffering noted by reviewers (to verify for manga)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Revenge and conquest framed from the conqueror's side; reviewers call her a villain lead (cap reflects light-novel sourcing)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Video-game framing; no product focus."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 8,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Collectivism/authoritarianism",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Christian",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Might makes right; Collectivism (hive); critique of a corrupt church",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 8
+ },
+ "foundations": {
+  "care": 2,
+  "loyalty": 8,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 8,
+  "liberty": 2
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Corruption in the human church is exposed; loyalty to allies.",
+   "concerns": "Revenge and slaughter of innocents shown from the aggressor's side; church depicted as corrupt."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Passions of wrath and pride laid bare.",
+   "concerns": "Glorified killing and a mocking portrait of clergy; demonic-insect horror inflames the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows evil's consequences for nations.",
+   "concerns": "Revenge (Romans 12:19) and genocide center the story; graphic gore."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Could prompt talk about the human heart's capacity for evil.",
+   "concerns": "Villain protagonist's conquest and corrupt religion; gore weighed by purpose."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little in its message fits holiness teaching.",
+   "concerns": "Monstrous swarm, war on a church and mass death; strong open-door concerns."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Depicts total depravity without sugarcoating.",
+   "concerns": "Celebrates sword-bearing conquest outside any just authority; corrupt church."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Two-kingdoms questions about rulers and war.",
+   "concerns": "Revenge and slaughter of civilians from the conqueror's view."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions of justice for the oppressed elves.",
+   "concerns": "Violence and revenge as means; far from 'do no harm'."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Imagination exploring evil from within.",
+   "concerns": "Frames good and evil ambiguously, with atrocity largely unjudged."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns; peace is absent.",
+   "concerns": "Violence and revenge as heroic or central; core conflict with nonresistance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty to one's people.",
+   "concerns": "Violent, gory media contrary to For the Strength of Youth."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critique of religious and royal abuses of power.",
+   "concerns": "Glorified violence and killing of the vulnerable."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Injustice against the elves prompts a just-cause question.",
+   "concerns": "Revenge without limit, killing of noncombatants; a false god and church."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Dharma-of-rulers questions in war.",
+   "concerns": "Adharmic cruelty and killing of innocents; tamasic in Gita terms."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Cycle of vengeance generating suffering is visible.",
+   "concerns": "First precept broken on a massive scale; hatred fed."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critique of a corrupt religious-royal power structure.",
+   "concerns": "Glorified militarism and atrocity; child protagonist body."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Depicts how dehumanization fuels atrocity.",
+   "concerns": "Celebrates cruelty from the aggressor's side."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty to one's own; consequences of war.",
+   "concerns": "Gratuitous gore and a moral relativism around genocide."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Glorified violence, demonic imagery and a corrupt church; 'by beholding we become changed'."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Violence (Psalm 11:5) is the main content; war and political conquest."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns beyond exposing hypocrisy.",
+   "concerns": "Fear, death and violence dominate thought."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions religious oppression.",
+   "concerns": "Cruelty and killing of innocents."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Elves' tree-spirit worship shown as wronged by the church.",
+   "concerns": "Harm done on a mass scale breaks 'harm none'."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Revenge for the burned elven village explored.",
+   "concerns": "Blood and death pervade; kegare concerns."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defending the oppressed elves is a stated motive.",
+   "concerns": "Vengeance and conquest for gain; killing of innocents."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "War and prejudice-driven slaughter oppose oneness of humanity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Group survival (third dynamic) explored.",
+   "concerns": "Murder and glorified violence contrary to The Way to Happiness."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Rebellion against an oppressive church; self-preservation of her own.",
+   "concerns": "Killing of children and harm to innocents violates the Eleven Rules."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Exposes idolatrous corruption.",
+   "concerns": "Revenge (Leviticus 19:18) and slaughter; time on grim fiction."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Critique of religious hypocrisy.",
+   "concerns": "Revenge and atrocity glorified."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice for persecuted elves raised.",
+   "concerns": "Glorified violence and cruelty."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 9,
+    "evidence": "Insult and harm to her people are answered with total war; personal vengeance."
+   },
+   "Order vs freedom": {
+    "pos": 2,
+    "evidence": "The swarm is a strict hive under one queen's command."
+   },
+   "Civic vs kin": {
+    "pos": 9,
+    "evidence": "Absolute loyalty to the swarm and allies; outsiders are prey."
+   },
+   "Equality vs hierarchy": {
+    "pos": 9,
+    "evidence": "Queen-centered hierarchy; subjects defer completely."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Video-game strategy logic versus a religious human kingdom."
+   },
+   "Survival vs self-expression": {
+    "pos": 1,
+    "evidence": "Survival and growth of the swarm come before all else."
+   }
+  },
+  "closest": [
+   "Deep South",
+   "Middle East and North Africa",
+   "South and Southeast Asia"
+  ],
+  "japan": "The hive's total obedience to its queen and the 'game-world' isekai frame are common genre conventions in Japanese web fiction, noted as context rather than as Japanese values."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Reader reviews debate whether the author 'knows it's messed up'; none call it preachy (light novel reviews, to verify for manga).",
+  "personified": [
+   {
+    "character": "Grevillea (the swarm queen)",
+    "ideology": "conquest and survival of her own kind by any means",
+    "role": "Hero",
+    "treatment": "Mixed"
+   },
+   {
+    "character": "Human church clergy (God of Light)",
+    "ideology": "organized religion as corrupt power",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The swarm's grievances are given sympathy while its atrocities are shown in full; how fairly the human church is drawn is unconfirmed."
+ },
+ "winners_losers": "The swarm and its elf allies win battles; human kingdoms and their church lose. Reader reviews split on whether the queen's view gets endorsement or horrified observation.",
+ "to_verify": [
+  "Goodreads reviews are mainly of the light novel; manga's level of on-page gore needs checking.",
+  "Reader reviews say civilians including children and pregnant women are killed and that the swarm consumes humans to grow (light novel).",
+  "Protagonist inhabits a 14-year-old body per the light-novel description.",
+  "Portrayal of the church (corrupt priests and cardinals per one review) and angels (AniList spoiler tag).",
+  "MangaUpdates API unreachable; categories not checked."
+ ]
+}

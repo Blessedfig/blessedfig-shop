@@ -1,0 +1,92 @@
+{
+ "anilist_id": 47517,
+ "title": "Steins;Gate",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/47517",
+  "https://www.mangaupdates.com/series/mc7yy8d",
+  "https://en.wikipedia.org/wiki/Steins%3BGate"
+ ],
+ "premise": "In Akihabara in 2010, self-styled mad scientist Rintaro Okabe and his friends discover that their microwave-phone invention can send text messages into the past. Their experiments shift timelines and draw the attention of SERN, an organization pursuing time travel, and Okabe relives repeated deaths of his friends while trying to find a timeline where both Mayuri and Kurisu survive. This three-volume manga by Yomi Sarachi adapts the visual novel.",
+ "life_message": "Choices have consequences you must accept, and love means bearing great cost to protect friends.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "A friend killed repeatedly across timelines; a stabbing (Wikipedia, game plot; AniList and MU Tragedy)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Mounting dread of repeated deaths and conspiracy (Wikipedia; MU Psychological, Conspiracy)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Romance between Okabe and Kurisu (Wikipedia); MU Romance."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Banter and mockery (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None documented."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Okabe's despair after failing many times to save Mayuri (Wikipedia; MU Psychological)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Hacking an organization's systems (Wikipedia)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Large visual-novel and anime franchise (Wikipedia)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+  {"lens": "Utilitarianism", "strength": 4, "stance": "Explored"},
+  {"lens": "Naturalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Cause and consequence; sacrifice for friends; science and responsibility",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 6},
+ "foundations": {"care": 8, "loyalty": 8, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Self-sacrificial love; consequences of meddling with fate.", "concerns": "Repeated violent deaths."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humility before what cannot be undone.", "concerns": "Violence and despair."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Loyal friendship; pride of the mad scientist humbled.", "concerns": "Violent deaths; language (to verify)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Laying down one's life for friends.", "concerns": "Dark intensity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Hope through perseverance.", "concerns": "Despair and deaths."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Attractor fields echo providence; limits of human control.", "concerns": "Determinism framed without God."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Friends served at personal cost.", "concerns": "Violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Love that perseveres.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Discuss", "aligns": "Moral weight of choice in a thoughtful story.", "concerns": "Graphic deaths."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Sacrifice rather than domination.", "concerns": "Violence; armed agents."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Agency and accountability for choices.", "concerns": "Violent content."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Scientist heroine; ethics of research and power.", "concerns": "Violence."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Accepting the decree that cannot be changed.", "concerns": "Violence."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Karma of actions rippling through time.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Discuss", "aligns": "Attachment and causality; acceptance of loss.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Critique of powerful institutions misusing science.", "concerns": "Violence against women characters."},
+  {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Science, reason and responsibility for consequences.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Loyalty, sacrifice and courage.", "concerns": "Violence."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Little supernatural content.", "concerns": "Violence."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "No spiritism.", "concerns": "Violence."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Mind shaping reality explored.", "concerns": "Death and fear."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free search for truth; friendship.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Threefold return of meddling.", "concerns": "Violence."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Shrine-maiden friend; harmony restored.", "concerns": "Death impurity."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Accepting hukam after striving.", "concerns": "Violence."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Discuss", "aligns": "Science pursued with moral purpose.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Unique perception (Reading Steiner).", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Rebellion against a controlling organization.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Responsibility for consequences.", "concerns": "Violence."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethics of knowledge and power.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Repairing the world through sacrifice.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Conflicts are solved by wit, not honor duels (Wikipedia)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Independent lab resists a controlling organization (Wikipedia)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Loyalty to lab friends as chosen family (Wikipedia)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Lab members numbered but equal friends (Wikipedia)."},
+   "Tradition vs secular-rational": {"pos": 9, "evidence": "Hard science fiction and experimentation (Wikipedia)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Eccentric self-expression in Akihabara otaku culture (Wikipedia)."}
+  },
+  "closest": ["New Netherland", "Catholic Europe", "The Left Coast"],
+  "japan": "Akihabara's otaku and tinkering culture and the chunibyo persona are Japanese youth-culture features."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Cause and effect is the stated theme of the game (Wikipedia); no manga review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Lessons about consequences come through repeated failures rather than speeches."
+ },
+ "winners_losers": "Okabe's self-sacrifice wins a timeline where friends survive; SERN's bid to control time fails.",
+ "to_verify": [
+  "Wikipedia covers the visual novel; manga adaptation fidelity unverified",
+  "MU match noted as exact title match; MU page shows Udon 3 volumes complete",
+  "Language and violence levels in Sarachi's manga"
+ ]
+}

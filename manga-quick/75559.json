@@ -1,0 +1,94 @@
+{
+ "anilist_id": 75559,
+ "title": "Black Bullet",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/75559",
+  "https://www.mangaupdates.com/series/l7jd3ok",
+  "https://api.mangadex.org/manga/ddb16b82-3902-477b-abee-2b462daa6b5f",
+  "https://icv2.com/articles/reviews/view/32807/review-black-bullet-vol-1-tp-manga"
+ ],
+ "premise": "In a near future where humanity has lost a war against the parasitic Gastrea virus, people live behind protective monoliths. Rentaro works for a civil security agency with Enju, one of the 'Cursed Children', girls infected in the womb who gain superhuman powers, and they fight Gastrea while a terrorist threatens Tokyo.",
+ "life_message": "It suggests protecting others, including those society fears and rejects, even in a world close to despair.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Neutral", "note": "Gun and monster combat in an action series (ICv2 review; MU Violence, Human Weapon; AniList Guns)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Humanity 'lives in despair'; horror and tragedy tags (Yen Press blurb; MangaDex Horror, Tragedy; MU Dark Ambience)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "MU and MangaDex list Romance; the partners are young girls; how this is depicted is not described (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Discrimination against infected children and human experiments (MU Discrimination, Human Experiment/s; to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Science-fiction combat."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adaptation of a light-novel franchise with an anime."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Utilitarianism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Secular humanism, Utilitarianism (critiqued), Pragmatism",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 6, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Dignity of the Cursed Children against a society that fears them.", "concerns": "Children used as weapons and human experiments; violence throughout."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Care for the outcast child Enju.", "concerns": "Despairing world and violence; romance tags around young girls (to verify)."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Protecting the vulnerable in a fallen world.", "concerns": "Gun violence and young girls as fighters."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Worth of children society rejects; good material for talk about prejudice.", "concerns": "Action violence; check how romance tags involve young characters."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Fighting against a destroying plague.", "concerns": "Horror elements and violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "A fallen world shown honestly; lawful agencies resisting destruction.", "concerns": "Violence and children in combat."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Vocation of protection carried out under pressure.", "concerns": "Violence; despairing tone."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Social holiness: challenging prejudice against infected children.", "concerns": "Violence as main mode."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Moral framing sides with the persecuted.", "concerns": "Violent action and dark themes."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Compassion for the despised.", "concerns": "Children trained as weapons; armed combat heroic."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Defending the innocent; worth of each child.", "concerns": "Violent media; horror tone."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Critique of discrimination against a marked minority.", "concerns": "Child soldiers and violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Mercy toward the weak; fighting in defense.", "concerns": "Violence; romance tags with young characters (to verify)."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Duty to protect the city.", "concerns": "Cruelty in human experiments."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Compassion for those who suffer prejudice.", "concerns": "Killing and fear-driven violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Anti-discrimination theme around the Cursed Children.", "concerns": "Child soldiers; possible sexualization of young girls (to verify)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Empathy over fear; science-fiction ethics of experiments.", "concerns": "Violence and child combatants."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Duty and courage defending the city.", "concerns": "Violence; children in danger."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Care for the sick and outcast.", "concerns": "Horror and violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little beyond care for the outcast.", "concerns": "Violence (Psalm 11:5) central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Hope against despair.", "concerns": "Disease and fear imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Inherent worth of the Cursed Children.", "concerns": "Violence and child soldiers."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Self-defense against a destroying force.", "concerns": "Harm to children."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Protecting the community and its place.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed against prejudice.", "concerns": "Violence."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Rejection of prejudice.", "concerns": "Violence as means."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Survival and helping others survive.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Questioning a society's arbitrary fear.", "concerns": "Harm to children."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Saving life as a supreme value.", "concerns": "Violence; modesty unknown (to verify)."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity of the stranger and outcast.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice against prejudice.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Agents fight personally against threats; a terrorist confronted directly (Yen Press blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Civil security agencies and government missions provide order (MangaDex description)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Partner bonds matter alongside protecting all of Tokyo."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Agency and government structure present; prejudice against the children questioned (MU Discrimination)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Science-fiction virus and technology frame the world."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Humanity cornered and fighting for survival (Yen Press blurb)."}
+  },
+  "closest": ["Orthodox Europe", "Confucian", "Catholic Europe"],
+  "japan": "Agency work under government missions reflects Japanese organizational duty; young girl partners follow a common light-novel convention."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ICv2 notes a slow, deliberate pace and no strong stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The discrimination theme is carried by the setting; sources do not say how strongly it is argued."
+ },
+ "winners_losers": "Sympathy goes to Rentaro, Enju and the Cursed Children; the manga was cut short, so no clear resolution (MU Axed).",
+ "to_verify": [
+  "The manga ran 4 volumes and is listed as cancelled (MU); the story is incomplete.",
+  "MU and MangaDex list Romance; check how romance or jokes involving the young girl partners are shown.",
+  "ICv2 rates it 13+; the reviewer praised the anime, which should not be used for the manga's content.",
+  "Discrimination and human experiments come from MU categories only."
+ ]
+}

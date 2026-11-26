@@ -1,0 +1,362 @@
+{
+ "anilist_id": 110799,
+ "title": "Will You Marry Me?",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110799",
+  "https://api.mangaupdates.com/v1/series/38971087970"
+ ],
+ "premise": "Kairi Sasaki, an omega and a new employee at a marriage counseling company, is assigned to find a wife for Haruomi Jinguuji, a wealthy alpha client who keeps making advances at him instead (Manga Club blurb via AniList). It is a one-volume adult boys' love romance in the omegaverse setting; MangaUpdates tags add a past one-night stand, a secret child, single fatherhood and a marriage proposal.",
+ "life_message": "It holds up honest love, commitment and shared parenting as the answer to past mistakes and miscommunication.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Light romantic comedy (AniList genres)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Adult same-sex romance with past drunken one-night stand and nudity; MangaUpdates also lists 'rape by lover'. Database tags only; capped (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not addressed by sources."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Drunken intercourse in backstory (MangaUpdates)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Lack of self-confidence tag (MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Workplace advances from a client toward a counselor (AniList blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Romantic commitment; family formed after a one-night stand; workplace romance",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Turn toward marriage and raising a child together.",
+   "concerns": "Same-sex romance, sex outside marriage and drunken one-night stand."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Commitment and care for a child.",
+   "concerns": "Same-sex relationship; passions; nudity."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Responsibility toward a child.",
+   "concerns": "Same-sex romance; sex outside marriage; drunkenness."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Repairing a broken relationship for a child's sake.",
+   "concerns": "Same-sex romance and premarital sex."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness after reunion.",
+   "concerns": "Sexual immorality as defined by these churches; drunkenness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Covenant-like commitment in the proposal.",
+   "concerns": "Same-sex romance; sex outside marriage (PC(USA) more open)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation of parenthood.",
+   "concerns": "Sex outside marriage; ELCA families more open to same-sex couples."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Commitment and family life.",
+   "concerns": "Drunken one-night stand; UMC versus Global Methodist split on same-sex marriage."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Lifelong covenant sought.",
+   "concerns": "Premarital sex; Episcopal and ACNA families differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Mutual care in raising a child.",
+   "concerns": "Same-sex romance; drunkenness; worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Fatherhood and family.",
+   "concerns": "Law of chastity; same-sex romance; alcohol."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Loving, committed same-sex family affirmed.",
+   "concerns": "Consent questions behind 'rape by lover' tag (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Commitment toward marriage.",
+   "concerns": "Same-sex romance; alcohol; sex outside marriage."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family and child as central duty.",
+   "concerns": "Sex outside marriage; intoxication."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness and repair of harm.",
+   "concerns": "Intoxicated sexual encounter; possible sexual misconduct (to verify)."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Same-sex family and marriage shown positively.",
+   "concerns": "Workplace advances and possible non-consent tag need context."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adults taking responsibility for a child.",
+   "concerns": "Consent ambiguity noted in tags (to verify)."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Turn to marriage and two-parent home.",
+   "concerns": "Same-sex romance; one-night stand."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithfulness and care.",
+   "concerns": "Alcohol; sex outside marriage; same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise within its teaching.",
+   "concerns": "Same-sex romance and sex outside marriage throughout."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love and reconciliation.",
+   "concerns": "Sensual content and drunkenness."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love and family diversity affirmed.",
+   "concerns": "Consent questions (to verify)."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love among consenting adults.",
+   "concerns": "Possible coercion tag (to verify)."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity and household continuity.",
+   "concerns": "Little to raise beyond drinking."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Commitment and responsibility.",
+   "concerns": "Alcohol; sex outside marriage."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Marriage and care for a child.",
+   "concerns": "Alcohol; chastity; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Repairing communication failures.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adult freedom in relationships.",
+   "concerns": "Unwanted advances tag (to verify)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little to raise within halakhic terms.",
+   "concerns": "Same-sex romance; sexual content; drinking."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kiddushin-like commitment; same-sex marriage permitted since 2006.",
+   "concerns": "Sex outside marriage; drunkenness."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Inclusive family and committed love.",
+   "concerns": "Consent questions (to verify)."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "No honor conflict; misunderstandings resolved by talking (tags)."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal romantic choice drives the plot."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Child and new family at the center (MangaUpdates)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Rich client and junior employee; status gap (to verify)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern office setting; secular marriage industry."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Love and self-fulfillment over security."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "New Netherland",
+   "Yankeedom"
+  ],
+  "japan": "The marriage-counseling workplace and the junior employee serving a high-status client reflect Japanese office hierarchy, described as context, not judged."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Romance genre conventions; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The romance carries its message through plot rather than argument."
+ },
+ "winners_losers": "The couple and their child appear to end united, with a marriage proposal (MangaUpdates tags; to verify).",
+ "to_verify": [
+  "Explicitness of sexual content; omegaverse tag is marked adult on AniList, MangaDex rates safe.",
+  "Context of MangaUpdates 'rape by lover' and 'drunken intercourse' tags.",
+  "Whether the English editions (INKR, Tapas, Toomics) are still available; Tapas listed as deactivated."
+ ]
+}

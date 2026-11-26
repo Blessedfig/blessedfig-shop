@@ -1,0 +1,90 @@
+{
+ "anilist_id": 104687,
+ "title": "Daily Report About My Witch Senpai",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/104687",
+  "https://api.mangaupdates.com/v1/series/45082191061"
+ ],
+ "premise": "Office worker Misono has an ally at work: his senior colleague Shizuka, who is a witch and always ready to help others, flying around on a broomstick to run errands. Misono worries she overworks herself, and his concern may be turning into something more (Seven Seas blurb via AniList and MU). A slice-of-life workplace romance with short chapters.",
+ "life_message": "Kindness should run both ways; caring for others includes letting yourself be cared for.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Slow workplace romance between adults (MU Workplace Romance; MangaDex safe)."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted (office drinking possible, to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Overwork stress; an abusive ex-boyfriend in Shizuka's past (blurb; MU Abusive Ex-Boyfriend)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Workplace kindness; gentle adult romance; everyday witchcraft",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 5, "sanctity": 4, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Shizuka's service to others; Misono's care for her.", "concerns": "A witch heroine (fantasy magic)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humble service.", "concerns": "Witchcraft framed positively."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Clean adult romance; helpfulness.", "concerns": "Witch protagonist."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Servant-hearted coworker.", "concerns": "Witchcraft."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Witch as heroine; talking animals."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Diligent work.", "concerns": "Witchcraft normalized."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation and neighbor care.", "concerns": "Magic as whimsy."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Service.", "concerns": "Witchcraft."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Whimsical modern fairy tale.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Mutual help.", "concerns": "Magic."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Clean courtship.", "concerns": "Magic."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Healthy care after an abusive ex.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Helpfulness and modesty.", "concerns": "Sihr: a practicing witch."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Seva-like help.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion and balance in work.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Critiques overwork; leaving an abusive relationship.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Kindness at work.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Senpai-kohai respect; work ethic.", "concerns": "Magic."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Clean content.", "concerns": "Witchcraft."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Witchcraft central."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love and care.", "concerns": "Magic."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Positive portrayal of a witch.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "A good witch helping her community.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony at work.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Honest work, service.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Minor", "aligns": "Service.", "concerns": "Occult."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping others.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Witch as heroine.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Chesed.", "concerns": "Kishuf (witchcraft)."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Magic."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Healthy relationships.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Gentle office relations (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Office routine."},
+   "Civic vs kin": {"pos": 4, "evidence": "Helps anyone in need (blurb)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Senpai-kouhai relationship (MU)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Modern office with witchcraft."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Self-care over overwork (blurb)."}
+  },
+  "closest": ["Yankeedom", "The Midlands", "Catholic Europe"],
+  "japan": "The senpai-kohai workplace bond and concern about overwork reflect Japanese office culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "Misono and Shizuka are both treated warmly; the abusive ex (MU) is not.",
+ "to_verify": [
+  "No review opened.",
+  "Love triangle (AniList spoiler) and ex-boyfriend subplot.",
+  "English edition ongoing at 5 volumes."
+ ]
+}

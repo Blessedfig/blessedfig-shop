@@ -1,0 +1,91 @@
+{
+  "anilist_id": 30119,
+  "title": "Magic Knight Rayearth",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/30119",
+    "https://www.mangaupdates.com/series/3hg5qxz"
+  ],
+  "premise": "On a school trip to Tokyo Tower, three girls from different schools, Hikaru, Umi and Fuu, are pulled into Cephiro, a world shaped by will, where they are summoned to become the legendary Magic Knights. Guided by Guru Clef, they learn magic, gain weapons and giant guardian beings, and set out to rescue Princess Emeraude from High Priest Zagato. A three-volume CLAMP shoujo fantasy (first part of the saga).",
+  "life_message": "Friendship and a strong will can carry ordinary girls through a heavy duty.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Sword and magic battles, war and sacrifice (MangaUpdates); capped without a non-database source (to verify)."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Tragedy spoiler tag (AniList); Sacrifice and Star-Crossed Lovers (MangaUpdates); to verify."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Romance genre; Age Gap tag (MangaUpdates); MangaDex safe."},
+    {"category": "Language", "score": 0, "framing": "Neutral", "note": "Not reported."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Not reported (to verify)."},
+    {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime and game franchise."}
+  ],
+  "lenses": [
+    {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"},
+    {"lens": "Expressive individualism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Girls' friendship and courage; duty and sacrifice; power of will",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 7, "loyalty": 7, "fairness": 5, "sanctity": 5, "authority": 6, "liberty": 4},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Three girls taking up a self-giving mission to save Cephiro.", "concerns": "Magic tutors and summoning; sacrifice theme (to verify)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Courage and friendship.", "concerns": "Magic and spirit guardians."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Courage and loyalty.", "concerns": "Spells and magical guardians."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Good versus evil quest in Narnia-like form.", "concerns": "Magic learning."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Battle against evil.", "concerns": "Summoning and magic as power source."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Duty and calling.", "concerns": "Magic framed by will rather than providence."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Fantasy allowed in Christian freedom.", "concerns": "Little."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Serving others at cost.", "concerns": "Little."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Portal fantasy in a Narnia tradition.", "concerns": "Little."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Friendship and service.", "concerns": "Swordplay and war."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Agency and courage.", "concerns": "Little."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Girls as heroes.", "concerns": "Little."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Courage and loyalty.", "concerns": "Magic (sihr) taught to heroes."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Duty to protect a realm; divine guardians.", "concerns": "Little."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Mind shapes reality in Cephiro.", "concerns": "Violence."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Three distinct female leads with agency.", "concerns": "Little."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Will and cooperation.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Duty, honor and courage.", "concerns": "Little."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Magic."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Magic and summoned spirits central."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Thought shaping reality.", "concerns": "Little."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Cooperation across differences.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Elemental magic and guardians honored.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Guardian beings akin to kami; Tokyo Tower as threshold.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Courage defending others.", "concerns": "Magic."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity of the three.", "concerns": "Occult elements."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Power of will.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Will as power.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Duty and courage.", "concerns": "Sorcery."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Courage.", "concerns": "Little."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Girls taking moral action.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Fighting is duty, not personal insult (AniList summary)."},
+      "Order vs freedom": {"pos": 4, "evidence": "Summoned to fulfill a prophecy (Kodansha blurb)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Loyalty to friends and to a whole world."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "Princess, high priest and guru ranks (MangaUpdates Princesses, Prince)."},
+      "Tradition vs secular-rational": {"pos": 4, "evidence": "Legend and prophecy guide the quest."},
+      "Survival vs self-expression": {"pos": 5, "evidence": "Saving the world (MangaUpdates)."}
+    },
+    "closest": ["Puritan", "Yankeedom", "Catholic Europe"],
+    "japan": "A 1990s CLAMP shoujo with Japanese school-trip framing, and RPG-style fantasy; the three girls embody group harmony."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "No review describing delivery was available (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Default rating: sources describe only the premise and tags."
+  },
+  "winners_losers": "Sources describe the Magic Knights setting out to save Emeraude; AniList marks a tragic spoiler, details unverified.",
+  "to_verify": [
+    "Plot past the setup; no Wikipedia text or review was available within the fetch budget.",
+    "Tragedy and Sacrifice tags: nature of the ending.",
+    "This entry covers part one (3 volumes); Kodansha USA also publishes the sequel."
+  ]
+}

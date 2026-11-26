@@ -1,0 +1,362 @@
+{
+ "anilist_id": 87509,
+ "title": "It's My Life",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/87509",
+  "https://api.mangaupdates.com/v1/series/70825203957"
+ ],
+ "premise": "Astra L. Doomsday, a former royal knight captain, retires early to the house he saved for, but a young apprentice witch, Noah, crash-lands into it and mistakes him for someone else (AniList; MU). She becomes his housemate and odd visitors follow. 11 volumes; tags list adoption, father-daughter relationship, dragons and monster girls.",
+ "life_message": "A quiet life is richer when shared; family can be chosen and built.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Action and fantasy genres; ex-knight hero (tags). Detail to verify."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Light fantasy; MU lists loneliness and discrimination."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MU: Subtle Romance, Age Gap, Older Male Younger Female, Lolita/s alongside Father-Daughter (to verify framing)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Loneliness (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Magic play."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Found family; retirement and rest; acceptance of outsiders",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Astra cares for Noah like a guardian; found family.",
+   "concerns": "Witch magic; MU hints at age-gap romance to verify."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hospitality to a stranger child.",
+   "concerns": "Witchcraft as heroic; possible age-gap romance."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Protecting a child; father-daughter bond (MU).",
+   "concerns": "Apprentice witch lead; romance tags to check."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adoptive love shown (AniList Adoption).",
+   "concerns": "Magic and witches; age-gap subtext."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to the lonely.",
+   "concerns": "Witchcraft central to Noah's identity."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Responsibility for a child in one's home.",
+   "concerns": "Magic; romance framing."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Astra's vocation turns from soldiering to caring.",
+   "concerns": "Witch magic."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hospitality and service.",
+   "concerns": "Magic; possible age-gap romance."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gentle comedy of welcome.",
+   "concerns": "Romance subtext to check."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Retired knight chooses quiet life over war.",
+   "concerns": "Former soldier hero; magic."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family and home emphasized.",
+   "concerns": "Magic; possible adult-girl romance."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Welcoming outsiders; MU lists discrimination.",
+   "concerns": "Age-gap subtext."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care for an orphan-like child.",
+   "concerns": "Sihr presented positively; unrelated man and girl housemates."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Grihastha life after duty; care for young.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rest, non-attachment to glory.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Chosen family; outsiders accepted.",
+   "concerns": "Age-gap romance tags (MU Lolita/s) to verify."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness over power.",
+   "concerns": "Age-gap framing."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hard-earned home, duty to a child.",
+   "concerns": "Romance between adult and young girl if present."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Peaceful home life.",
+   "concerns": "Witchcraft; spirits."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness to strangers.",
+   "concerns": "Witchcraft and magic central."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Uplifting, cheerful tone.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion of a diverse household.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Witch shown sympathetically.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony of home; dragons and spirits.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Care for the vulnerable.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Unity of a varied household.",
+   "concerns": "Age-gap subtext."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Second dynamic: family built.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Astra chooses his own life.",
+   "concerns": "Age-gap; harm to children rule."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Chesed toward a stranger child.",
+   "concerns": "Witchcraft; unrelated housemates."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Welcoming the outsider.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Retired knight seeks peace, not glory."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Astra wants to be left alone; life stays open."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Household as found family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Rank of knight left behind."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Magic world; personal choices."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Quality of life over career."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "El Norte"
+  ],
+  "japan": "Early retirement to a quiet house and a found family echo iyashikei (healing) conventions in Japanese manga, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No reviews found; inferred from synopsis (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values carried by everyday episodes of Astra's household."
+ },
+ "winners_losers": "Astra's chosen quiet life and his bond with Noah get sympathy.",
+ "to_verify": [
+  "MU tags Lolita/s, Age Gap and Subtle Romance: check whether a romance with Noah is implied and her age.",
+  "No reviews found.",
+  "English edition (Shogakukan Asia) completeness to verify."
+ ]
+}

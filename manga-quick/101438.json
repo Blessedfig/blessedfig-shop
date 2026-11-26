@@ -1,0 +1,357 @@
+{
+ "anilist_id": 101438,
+ "title": "Oh My Hero!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101438",
+  "https://api.mangaupdates.com/v1/series/55315238818"
+ ],
+ "premise": "Inui works part-time in a tokusatsu hero suit at children's shows and befriends the Mugitas, a divorced single father and his young son who adore his character. Welcomed into their warm home, Inui finds himself attracted to the father. The volume also includes a one-shot about middle-school basketball teammates reunited as adults (AniList, MangaUpdates). One volume.",
+ "life_message": "A real hero shows up for a family, in costume or not.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Stage hero fights only (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Adult romance; MangaDex 'safe', MU Shounen Ai (no sex categories)."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Divorce (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Tokusatsu merchandise culture (to verify)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Progressivism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Communitarianism, Progressivism",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Care for a single father and child.",
+   "concerns": "Same-sex romance forming a family."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Hospitality and fatherhood.",
+   "concerns": "Same-sex union."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Fatherly devotion.",
+   "concerns": "Same-sex parenting romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family warmth.",
+   "concerns": "Same-sex family model."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Care for children.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Common grace in family love.",
+   "concerns": "Teaching on marriage."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Vocation as father and entertainer.",
+   "concerns": "LCMS teaching."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Holiness traditional."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Warm family story.",
+   "concerns": "ACNA traditional."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Family simplicity.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Family central.",
+   "concerns": "Proclamation."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Queer family forming with care.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Care for an orphaned-by-divorce child.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family duty.",
+   "concerns": "Views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kindness to a child.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "LGBT parent representation.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Care.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fatherhood honored.",
+   "concerns": "Same-sex family."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Family.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Family.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Every family's worth.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family love.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Household harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Seva to a family.",
+   "concerns": "Same-sex union."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Family unity.",
+   "concerns": "Marriage teaching."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Second-dynamic family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-chosen family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Family.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family dignity.",
+   "concerns": "Varies."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "S",
+   "weight": "Minor",
+   "aligns": "Inclusive family.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Personal choices."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family central."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Age gap (AniList)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Warmth and quality of life."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "New Netherland"
+  ],
+  "japan": "Tokusatsu hero shows are a Japanese children's media tradition, shown as setting."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Database summary only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No message delivery."
+ },
+ "winners_losers": "Inui and the Mugitas form a family (to verify).",
+ "to_verify": [
+  "Plot beyond summary; no review found",
+  "Second story",
+  "License status (Renta)"
+ ]
+}

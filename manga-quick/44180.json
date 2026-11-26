@@ -1,0 +1,362 @@
+{
+ "anilist_id": 44180,
+ "title": "Want to Depend on You",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/44180",
+  "https://api.mangaupdates.com/v1/series/17889131652"
+ ],
+ "premise": "At his father's funeral, Yamato meets Onodera, assistant to the late literature professor, who says Yamato looks just like his father and later kisses him; Yamato wonders if he is a substitute. A second story follows Yuuya and Arata, lovers who split ten years earlier, getting another chance (AniList, MU quoting Digital Manga Guild).",
+ "life_message": "Love after loss is real only when it sees the person, not a memory.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Adult romance with a kiss and more (AniList; MU Yaoi, Dubious Consent)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Onodera's grief for the professor 'grows desperate' (MU/DMG blurb); funeral setting (AniList)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Dubious consent (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism, Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Grief honored; love after loss.",
+   "concerns": "Same-sex sex; dubious consent."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mourning and memory of the dead.",
+   "concerns": "Same-sex intimacy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Comfort in grief.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Second chances in love.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Comfort for the grieving.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest grief.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Grief faced with honesty.",
+   "concerns": "LCMS: same-sex romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Healing after loss.",
+   "concerns": "Dubious consent."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Literary, reflective tone.",
+   "concerns": "Views differ by province."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mourning shared.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honoring a father's memory.",
+   "concerns": "Chastity; same-sex sex."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Gay grief and renewal.",
+   "concerns": "Dubious consent (MU)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Respect for the dead father.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Duty to a teacher (guru) honored.",
+   "concerns": "Same-sex romance; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Attachment to the dead examined.",
+   "concerns": "Dubious consent."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "The weight of grief taken seriously.",
+   "concerns": "Consent blurred."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Meaning made after death.",
+   "concerns": "Consent blurred."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Respect for a father's legacy.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Comfort in grief.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Comfort.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Love outlasting apparent loss.",
+   "concerns": "Dwelling on grief."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Love's worth after loss.",
+   "concerns": "Consent blurred."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Cycle of loss and renewal.",
+   "concerns": "Consent blurred."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honoring the dead teacher's works.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Remembrance and grief.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "The soul's continuance implied in mourning.",
+   "concerns": "Chastity; same-sex romance."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "The past no longer rules the present.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choosing love for oneself.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Mourning a father.",
+   "concerns": "Same-sex acts."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mourning and renewal.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Inclusive story of grief.",
+   "concerns": "Consent blurred."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor conflict."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Ordering the late professor's works (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Son and father's legacy central."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Teacher-assistant bond (sensei)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular, literary setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Personal love after loss."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "Yankeedom"
+  ],
+  "japan": "The respect owed to a 'sensei' and the duty of sorting a late teacher's papers reflect Japanese norms."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Blurbs pose questions about substitution and second love.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Reflective stories with no argued view."
+ },
+ "winners_losers": "Hope of a second love frames both stories (DMG blurb via MU); outcomes to verify.",
+ "to_verify": [
+  "Whether Onodera loves Yamato for himself",
+  "Dubious consent scene",
+  "Digital Manga Guild and Renta! license status"
+ ]
+}

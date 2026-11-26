@@ -1,0 +1,98 @@
+{
+  "anilist_id": 128666,
+  "title": "The Elusive Samurai",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/128666",
+    "https://api.mangaupdates.com/v1/series/53740540489",
+    "https://en.wikipedia.org/wiki/The_Elusive_Samurai",
+    "https://www.animenewsnetwork.com/review/the-elusive-samurai/gn-1-2/.190740"
+  ],
+  "premise": "A historical action-comedy about Hojo Tokiyuki, the young heir whose family is destroyed in 1333 when Ashikaga Takauji betrays the Kamakura shogunate. Rescued by Suwa Yorishige, an eccentric priest of Suwa who claims clairvoyance, Tokiyuki gathers allies and uses his gift for fleeing and hiding to survive and seek revenge (Wikipedia; ANN review; Viz blurb).",
+  "life_message": "Survival, loyalty and the courage to run rather than die can become a path to justice and leadership.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Massacre of Tokiyuki's family and war (Viz blurb; ANN); CBR calls it intense (Wikipedia); AniList War, Gore (spoiler)."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Uncanny villains and tragedy (ANN; AniList Tragedy, Body Horror)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Condemned", "note": "AniList lists a spoiler Rape tag (60%) and harem/polyamory tags; no other source confirms (to verify)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Grief and betrayal (ANN); AniList spoiler Suicide tag 60% (to verify)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Revenge as goal (MU Revenge)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Confucian ethics", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Traditionalism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+    {"lens": "Pragmatism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"}
+  ],
+  "dominant": "Loyalty and found family; survival through flight; revenge and historical memory",
+  "axes": {"economic": 5, "social": 4, "cultural": 3, "community": 7},
+  "foundations": {"care": 6, "loyalty": 9, "fairness": 6, "sanctity": 5, "authority": 6, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Loyalty and protection of a child; legitimate resistance to usurpers.", "concerns": "Revenge as aim; Suwa's divine claims; war violence."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility of fleeing rather than vainglory.", "concerns": "Vengeance; kami worship."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Courage and loyalty; history lessons.", "concerns": "Revenge; a priest who acts as a living god."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Found family protecting an orphan.", "concerns": "Revenge; graphic war."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Perseverance.", "concerns": "Clairvoyance, ghosts and gods as real."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Providence-like preservation of the heir.", "concerns": "Revenge; idolatrous priest."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Legitimate authority versus usurpation.", "concerns": "Revenge."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Care for the orphaned; loyalty.", "concerns": "Violence."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Historical fiction with moral stakes.", "concerns": "Revenge."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Running away instead of fighting is the hero's gift.", "concerns": "War and revenge still the plot."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Just cause and loyalty (Alma-like defense).", "concerns": "Gore."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Survival and resilience after trauma.", "concerns": "Glorified war."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Justice against betrayal; patience.", "concerns": "A man treated as a god; ghosts."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Kshatriya dharma of a displaced heir.", "concerns": "Violence."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Impermanence of power.", "concerns": "Revenge cycle."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Flight valued over macho combat.", "concerns": "Violence; harem tags."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Strong historical education (ANN).", "concerns": "Supernatural presented as fact (clairvoyance)."},
+    {"frame": "Conservative / traditional", "grade": "A", "weight": "Discuss", "aligns": "Loyal retainers, legitimacy, heritage.", "concerns": "Gore."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Ghosts and violence."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence, spiritism, demons."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Fear overcome.", "concerns": "Violence."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Diverse found family.", "concerns": "Violence."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Living gods and seers honored.", "concerns": "Violence."},
+    {"frame": "Shinto", "grade": "A", "weight": "Discuss", "aligns": "Suwa shrine priest and kami at the heart (ANN; MU Shinto).", "concerns": "Blood impurity."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Protecting the oppressed heir.", "concerns": "Revenge."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity of retainers.", "concerns": "War and revenge."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Group survival.", "concerns": "Violence."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation as virtue.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Remembering history.", "concerns": "Idolatry; revenge."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Memory and justice.", "concerns": "Revenge."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "History taught with nuance.", "concerns": "Violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 6, "evidence": "Revenge for family's fall, yet flight valued over honorable death (Wikipedia; ANN)."},
+      "Order vs freedom": {"pos": 5, "evidence": "Fugitive outside shogunate order."},
+      "Civic vs kin": {"pos": 8, "evidence": "Clan loyalty and retainers (MU Historical Persons; ANN)."},
+      "Equality vs hierarchy": {"pos": 8, "evidence": "Retainers serve a child lord (ANN)."},
+      "Tradition vs secular-rational": {"pos": 2, "evidence": "Priest-god Suwa and prophecy guide the hero (ANN)."},
+      "Survival vs self-expression": {"pos": 2, "evidence": "Survival by running is the core skill (Wikipedia)."}
+    },
+    "closest": ["Cavalier", "Borderer", "Tidewater"],
+    "japan": "Lord-retainer loyalty, Suwa shrine faith and the samurai ideal of an honorable death (which the story inverts) are Japanese historical norms, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "ANN finds no preaching; themes of betrayal and flight carried by the plot.",
+    "personified": [
+      {"character": "Ashikaga Takauji", "ideology": "Ambition and betrayal of one's lord", "role": "Villain", "treatment": "Mixed"},
+      {"character": "Suwa Yorishige", "ideology": "Faith, prophecy and strategic patience", "role": "Mentor", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Takauji is shown kind in memory yet uncanny, so the villain is more than a cardboard foe in early volumes (ANN)."
+  },
+  "winners_losers": "Ongoing through 27 volumes; Tokiyuki survives and gathers allies. Sympathy goes to loyal retainers and the hunted heir.",
+  "to_verify": [
+    "AniList spoiler tags Rape, Suicide and Cannibalism (60%, 60%, 20%) are unconfirmed by a second source",
+    "Gore level in later volumes",
+    "Viz age rating (ANN notes history notes aimed at middle grade)",
+    "How the historical ending (Tokiyuki's execution) is handled"
+  ]
+}

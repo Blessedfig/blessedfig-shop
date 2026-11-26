@@ -1,0 +1,92 @@
+{
+ "anilist_id": 85504,
+ "title": "GREEN WORLDZ",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/85504",
+  "https://api.mangaupdates.com/v1/series/15406321839",
+  "https://www.mangaupdates.com/review/483"
+ ],
+ "premise": "In a near-future Tokyo of intense 'greenification' to halt global warming, high-schooler Akira comes to visit a girl named Yui, is trapped in the subway during a power outage, and surfaces to find giant plants attacking humans (K Manga blurb). Survivors shelter in the subway network as supplies run low (MU). Survival horror in 8 volumes, complete; a reviewer notes characters have 'very little plot armor' and carry trauma (MU review).",
+ "life_message": "Survival depends on courage and loyalty when the natural world turns against a humanity that tried to manage it.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Neutral", "note": "Plants attack humans (blurb); AniList Gore, Body Horror; MU Mature, Horror."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Apocalypse survival horror; characters can die (MU review; AniList Eco-Horror)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romantic subplot (MU); MangaDex 'suggestive' rating, specifics unknown (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Survivors' trauma (MU review)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Archery and survival tactics (MU)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Environmentalism", "strength": 4, "stance": "Explored"},
+  {"lens": "Naturalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Survival against hostile nature; climate-engineering backlash; loyalty and betrayal among survivors",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 4, "sanctity": 4, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Care for creation and for fellow survivors in the subway.", "concerns": "Gore and body horror from plant attacks."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "Humility before creation; human hubris shown.", "concerns": "Horror imagery."},
+  {"frame": "Baptist", "grade": "B", "weight": "Significant", "aligns": "Courage and perseverance in disaster.", "concerns": "Gory deaths."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Sacrifice for others.", "concerns": "Graphic horror."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Significant", "aligns": "Endurance under trial.", "concerns": "Horror and gore."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Limits of human control over creation.", "concerns": "Gore."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Vocation of protecting neighbors.", "concerns": "Gore."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Mutual care among survivors.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Stewardship questions about 'greenification'.", "concerns": "Gore."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Simple, shared survival.", "concerns": "Combat is central."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Preparedness and self-reliance.", "concerns": "Violent imagery."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Takes climate change seriously.", "concerns": "Gore."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Humans as stewards; patience in hardship.", "concerns": "Gore."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Nature's power and balance.", "concerns": "Tamasic horror."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Impermanence and interdependence with nature.", "concerns": "Killing imagery."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Climate anxiety explored.", "concerns": "Gore; romance tropes."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Science-fiction thought experiment on climate engineering.", "concerns": "Gore."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Courage and loyalty in crisis.", "concerns": "Gore."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Significant", "aligns": "Apocalyptic stakes and endurance.", "concerns": "Horror imagery."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Hope of a restored earth contrasts.", "concerns": "Violent entertainment."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Overcoming fear.", "concerns": "Fear and death dwelt on."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Interdependent web of life.", "concerns": "Gore."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Nature's power respected.", "concerns": "Nature cast as monstrous."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Nature's spirit and power.", "concerns": "Death impurity."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Protecting the weak.", "concerns": "Violence."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Harmony of science and responsibility.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Survival across the dynamics.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Bal tashchit and stewardship questions.", "concerns": "Gore."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Saving life.", "concerns": "Gore."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Environmental justice.", "concerns": "Gore."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Betrayal and deception among survivors (MU)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Society toppled; survivors organize in subways (MU)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Akira searches for Yui (blurb; MU Searching for Someone)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Not stated in sources."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Climate-engineering sci-fi premise (blurb)."},
+   "Survival vs self-expression": {"pos": 1, "evidence": "Supplies running low; survival is the plot (MU)."}
+  },
+  "closest": ["Orthodox Europe", "Confucian", "Catholic Europe"],
+  "japan": "Sheltering together in Tokyo's subway reflects Japanese disaster-preparedness culture and group survival."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review addresses the environmental message; premise implies it (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The climate theme sits in the premise; sources do not show whether it is argued."
+ },
+ "winners_losers": "Sympathy lies with Akira and the survivors; the hubris of greenification is implied as the cause, not judged in sources.",
+ "to_verify": [
+  "Gore level and frequency",
+  "Whether greenification is blamed explicitly (environmental message)",
+  "MangaDex 'suggestive' rating: fan-service content",
+  "English availability: DeNA Manga Box (status)"
+ ]
+}

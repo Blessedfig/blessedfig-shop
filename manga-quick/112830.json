@@ -1,0 +1,91 @@
+{
+ "anilist_id": 112830,
+ "title": "Tearmoon Empire",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/112830",
+  "https://api.mangaupdates.com/v1/series/64133044293",
+  "https://api.mangadex.org/manga/77ae6d99-0d2d-4f63-8903-6246cac20897"
+ ],
+ "premise": "Mia, the selfish princess of the Tearmoon Empire, is executed by guillotine when revolution topples the empire, then wakes as her twelve-year-old self holding a bloodstained diary of the future. To avoid a second execution she recruits allies and uses her foreknowledge to fix the empire's problems (J-Novel Club blurb). Database tags mark it a comedy of misunderstanding in which others read her self-serving moves as wisdom (MU; to verify).",
+ "life_message": "Even self-interest, once it learns to care for others, can save a nation.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Shown with consequences", "note": "Remembered public execution by guillotine and revolution (blurb)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Fear of a 'gruesome end' played largely for comedy (Slapstick, Parody tags)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Light romance with princes (Heterosexual, Princely Male Lead)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Trauma of execution treated comically (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Selfish lead, but outcomes reward helping others."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Economics tag; sweets as running motif (blurb)."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Utilitarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Marxism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Enlightened self-interest; averting revolution by reform; satire of nobility",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 6, "sanctity": 2, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Care for the poor and common good avert revolution.", "concerns": "Good done mainly for self-preservation."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "A second chance used to amend past selfishness.", "concerns": "Little real repentance (to verify)."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Consequences of selfish rule shown.", "concerns": "Time-reset in place of grace."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Selfish princess slowly serves others.", "concerns": "Motives remain self-centered."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Changed life after judgment.", "concerns": "Little to raise."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Providence-like use of flawed people.", "concerns": "Credit given for misunderstood motives."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Sinner-saint figure who still does good.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Social holiness through reform.", "concerns": "Self-interest as main motive."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle satire of power.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Problems solved without warfare (to verify).", "concerns": "Courtly luxury."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Learning from consequences.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Rulers made to address hunger and injustice.", "concerns": "Revolutionaries cast as the threat."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Justice of rulers toward subjects.", "concerns": "Little to raise."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Karma of a selfish ruler; raja-dharma.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Actions shaping consequences.", "concerns": "Craving for sweets and comfort as motive."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Satire of aristocratic privilege.", "concerns": "Monarchy preserved over popular revolt."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Problem-solving and foresight.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Reform from above preserves order and the realm.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Simplicity and service learned.", "concerns": "Little to raise."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Little violence; no spiritism reported.", "concerns": "Political focus."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Changed thought changes outcome.", "concerns": "Execution imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Justice for subjects.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Threefold-return logic: selfishness came back on her.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony restored in the realm.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Sharing with the needy averts ruin.", "concerns": "Greed as starting point."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Just governance and consultation.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Knowledge used to improve conditions.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-preservation as rational motive.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Justice and tzedakah save a kingdom.", "concerns": "Little to raise."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Repair of a broken society.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Tikkun olam through reform.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Mia avoids confrontation; problems solved by alliances (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Imperial order preserved and repaired."},
+   "Civic vs kin": {"pos": 5, "evidence": "Empire's welfare and her own family's survival intertwined."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Princess, princes and nobility (MU Royalty, Nobility)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Economics and policy solve problems (AniList Economics)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Avoiding death drives every choice."}
+  },
+  "closest": ["Orthodox Europe", "Confucian", "Tidewater"],
+  "japan": "A Japanese villainess-reincarnation comedy; benevolent rule by a misunderstood superior echoes Japanese hierarchical and harmony norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Parody and slapstick tags; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The message comes through irony: Mia's selfish aims yield public good (to verify)."
+ },
+ "winners_losers": "Mia and the empire are set to survive; the revolution is the outcome to avoid.",
+ "to_verify": [
+  "Treatment of revolutionaries and commoners across volumes.",
+  "No review or Wikipedia cache opened; blurb and databases only."
+ ]
+}

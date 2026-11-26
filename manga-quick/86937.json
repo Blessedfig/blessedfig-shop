@@ -1,0 +1,91 @@
+{
+ "anilist_id": 86937,
+ "title": "The Bride Was a Boy",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/86937",
+  "https://api.mangaupdates.com/v1/series/48132385648",
+  "https://www.animenewsnetwork.com/feature/2018-06-01/the-spring-2018-manga-guide/the-bride-was-a-boy/.132349"
+ ],
+ "premise": "An autobiographical diary comic by Chii, a Japanese woman assigned male at birth, covering her childhood, gender dysphoria, decision to transition in early adulthood, and the man who falls for her and supports her through transition until they marry (Seven Seas blurb via MU). ANN reviewers note four-panel explainers of terms, FAQ sections, and discussion of Japan's legal requirements for changing gender.",
+ "life_message": "Living as who you understand yourself to be, with loving support, leads to a happy married life.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Fear of coming out to a former boyfriend (ANN)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romance and marriage; reviewers mention no sexual content; discussion of surgery as legal requirement (ANN)."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Gender dysphoria in youth (MU; Seven Seas blurb)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Progressivism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Gender transition affirmed; supportive family and marriage; education about transgender life in Japan",
+ "axes": {"economic": 5, "social": 8, "cultural": 7, "community": 4},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 7, "sanctity": 2, "authority": 3, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Discuss", "aligns": "Respect for the person; faithful married love.", "concerns": "Gender transition affirmed, contrary to teaching that sex is given."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Loving family support.", "concerns": "Gender seen as given in the tradition."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Lifelong marriage valued.", "concerns": "Transition framed as the path to happiness."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Kind, honest storytelling.", "concerns": "Gender transition affirmed; some affirming churches differ."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Faithful love.", "concerns": "Transition and educational framing."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Truthful personal account.", "concerns": "Conservative churches hold sex as given; PC(USA) more affirming."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Love of neighbor and family support.", "concerns": "LCMS/WELS traditional; ELCA affirming."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Grace and acceptance.", "concerns": "UMC affirming; Global Methodist traditional."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Dignity of every human being.", "concerns": "Episcopal affirming; ACNA traditional."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Gentle, non-violent story.", "concerns": "Conservative groups traditional; MC USA more open."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Marriage and family central.", "concerns": "The Family proclamation holds gender as eternal."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion and hospitality for trans people.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Marriage and family support.", "concerns": "Gender transition and traditional teaching."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Third-gender traditions exist; family harmony.", "concerns": "Views vary; traditional views common."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Relief of suffering; compassion.", "concerns": "Views vary by tradition."},
+  {"frame": "Secular progressive", "grade": "S", "weight": "Minor", "aligns": "Trans representation, education and critique of restrictive law.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Autonomy, dignity and clear information.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Discuss", "aligns": "Marriage and loyal family.", "concerns": "Gender identity presented to young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Marriage valued.", "concerns": "Gender transition."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Discuss", "aligns": "Faithful marriage.", "concerns": "Gender transition."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "Love and harmony in family.", "concerns": "Focus on material body change."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Inherent worth; affirming welcome.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Largely affirming of gender diversity.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Family harmony and wedding rites.", "concerns": "No doctrine; practice varies."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality and family love.", "concerns": "Traditional bodies (Akal Takht) conservative on gender and marriage."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Prejudice against anyone rejected.", "concerns": "Teaching on marriage and gender."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal integrity.", "concerns": "Little stated teaching (to verify)."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Bodily autonomy.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Marriage and family.", "concerns": "Gender transition contrary to halakhic norms."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Dignity of each person.", "concerns": "Views vary by congregation."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and justice.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Calm explanation instead of confrontation (ANN 'non-judgmental')."},
+   "Order vs freedom": {"pos": 7, "evidence": "Personal choice to transition within legal limits."},
+   "Civic vs kin": {"pos": 4, "evidence": "Supportive parents and partner, plus public education aim."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Equal partnership in marriage."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Medical and legal process explained (ANN)."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "Living authentically as self-expression."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "Protestant Europe"],
+  "japan": "Describes Japan's legal gender-change rules around 2016 (surgery, unmarried status) and Japanese wedding customs, as reported by ANN reviewers."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "ANN: FAQ segments and term explainers; reviewers call it informative and non-judgmental, not preachy.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "An educational memoir that states its explanations directly to the reader."
+ },
+ "winners_losers": "Chii and her husband are happily married; restrictive legal rules are the main obstacle, which one reviewer says Chii discusses with some anger.",
+ "to_verify": [
+  "Legal facts are as of about 2016 per ANN reviewers; current Japanese law not checked.",
+  "No MangaDex match or Wikipedia cache; ANN guide plus databases."
+ ]
+}

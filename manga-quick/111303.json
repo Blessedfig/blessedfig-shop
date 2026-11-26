@@ -1,0 +1,89 @@
+{
+ "anilist_id": 111303,
+ "title": "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/111303",
+  "https://api.mangaupdates.com/v1/series/60165113057"
+ ],
+ "premise": "Crown Prince Sieg suddenly hears the 'Voices of the Gods', who tell him his sharp-tongued fiancée Lieselotte is a tsundere villainess fated for a bad end. The voices are really two Japanese high-schoolers, Endo and Kobayashi, live-commenting an otome game, and Sieg uses their 'prophecy' to save her (J-Novel Club blurb via AniList and MU).",
+ "life_message": "Seeing past someone's prickly surface with patience can change a fate that seemed fixed.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Fantasy magic and an injury tag (MU)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy with a looming 'bad end' (blurb)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Engaged-couple romance, multiple couples (MU)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Lieselotte's sharp tongue (blurb)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Misunderstood character (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Otome-game parody; based on a light novel (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Postmodernism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Meta comedy; defying fate; royal betrothal romance",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Sieg's patient love for his betrothed; fate is not fixed.", "concerns": "High-schoolers mistaken for gods, a light joke."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Charity toward a misunderstood person.", "concerns": "'Voices of the Gods' played for comedy."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Faithful engagement.", "concerns": "Divine-voice parody; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Looking at the heart, not appearances.", "concerns": "Mock oracles."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Prophecy treated as a joke; oracles."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Covenant faithfulness of an engaged couple.", "concerns": "Fake divine revelation."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "'Best construction' on Lieselotte's words.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Grace toward a 'villainess'.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle fantasy romance with good humor.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humble kindness.", "concerns": "Worldly game culture."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Commitment in courtship.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Rewriting the 'villainess' stereotype.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Fidelity in engagement.", "concerns": "Divine voices parodied; magic."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Karma and destiny overcome by right action.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion for the misunderstood.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Female lead not reduced to a villain trope.", "concerns": "Aristocratic gender roles."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Fate deconstructed; agency.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Royal duty and engagement honored.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Kindness.", "concerns": "Magic; mock prophecy."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Little alignment.", "concerns": "Magic and fake 'gods'."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Right thought changes outcomes.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of the misjudged.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Magic welcome.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Playful 'kami' voices.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Truthful love.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity in marriage.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication solves misunderstanding.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Gods revealed as ordinary people.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Guarding one's speech theme.", "concerns": "Divine voices parodied."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness over judgment.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Fairness to the misjudged.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Reputation repaired by understanding, not duels (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Fate defied within royal order (MU Defying Destiny/Fate)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Noble families and adoption (MU)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Royalty and nobility setting (MU)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Gods parodied as students (blurb)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Romance and personality (MU)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Latin America"],
+  "japan": "Plays with Japanese otome-game and 'villainess' isekai conventions and with tsundere character types."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Comedy premise of play-by-play commentary (blurb); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Any lesson about seeing past appearances is carried by the commentary joke."
+ },
+ "winners_losers": "Lieselotte and Sieg are set up to escape the 'bad end' (blurb).",
+ "to_verify": [
+  "The manga was cancelled after the adaptation license was revoked (AniList note; MU Discontinued); check English availability.",
+  "No review opened."
+ ]
+}

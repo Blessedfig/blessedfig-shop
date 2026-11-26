@@ -1,0 +1,376 @@
+{
+ "anilist_id": 31741,
+ "title": "Worst",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31741",
+  "https://api.mangaupdates.com/v1/series/60115487363",
+  "https://www.manga-news.com/index.php/manga/critique/Worst/vol-1"
+ ],
+ "premise": "Hana Tsukishima, a gentle but formidable fighter from the countryside, enrolls at Suzuran, a chaotic boys' high school ruled by delinquents. He aims to become the school's head by defeating rivals in fist fights, gathering friends and upperclassmen drawn to his strength and character, while clashing with rival schools and gangs.",
+ "life_message": "Strength used with honor, loyalty and a big heart earns respect and friendship.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 6,
+   "framing": "Endorsed",
+   "note": "Frequent fist fights and gang wars (manga-news review; MU Street Fighting, Gang Wars; AniList Delinquents)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Gang confrontations (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None reported; all-boys school."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Rude delinquent banter (MU Rude Character/s; to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Smoking (MU, to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not reported."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "Brawling for status at school shown as admirable (review; AniList, DMP blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None reported."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 5,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Fighting by an honor code; loyalty among delinquent friends; respect earned by strength",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 7
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 9,
+  "fairness": 7,
+  "sanctity": 2,
+  "authority": 6,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty, generosity and courage among friends.",
+   "concerns": "Fighting for status; revenge between gangs."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hidden kindness of tough boys.",
+   "concerns": "Pride and anger as the path to rank."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and loyalty.",
+   "concerns": "Brawling glorified; rough language; smoking."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Big hearts under tough exteriors.",
+   "concerns": "Violence as the way to respect."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Fighting and worldliness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest picture of youthful pride.",
+   "concerns": "Violence and rebellion against school order."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Fidelity to friends.",
+   "concerns": "Anger and fighting."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Care among friends.",
+   "concerns": "Violence and harm as sport."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honor code limits cruelty.",
+   "concerns": "Fighting framed as heroic."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Mutual aid.",
+   "concerns": "Fighting is the central heroic act."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty, courage.",
+   "concerns": "Violence; smoking; rough speech."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Outsiders find belonging.",
+   "concerns": "Glorified violence; all-male hypermasculinity."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty, courage, generosity.",
+   "concerns": "Fighting for rank; smoking; coarse speech."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Warrior duty and fair fighting.",
+   "concerns": "Violence without dharmic cause."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hana's gentleness.",
+   "concerns": "Anger and harm as means to rank."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Found family among outsiders.",
+   "concerns": "Glorified violence; hypermasculine culture."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Personal loyalty.",
+   "concerns": "Violence as problem-solving."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Honor, loyalty, courage, respect for seniors.",
+   "concerns": "Delinquency and contempt for school authority."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship.",
+   "concerns": "Glorified violence; smoking."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Violent entertainment; bad associations."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Violence dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Belonging.",
+   "concerns": "Violence as social currency."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal honor and keeping one's word.",
+   "concerns": "Harm to others in fights."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity and group loyalty.",
+   "concerns": "Blood and violence."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage, standing up for friends.",
+   "concerns": "Fighting for personal status; tobacco."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Unity among friends.",
+   "concerns": "Violence; tobacco."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Group survival.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-reliance; resisting arbitrary authority.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Violence and coarse speech."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Belonging for outsiders.",
+   "concerns": "Glorified violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 9,
+    "evidence": "Respect won by fists; strict brawling honor code (MU blurb; review)."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Delinquents rule themselves, not teachers (DMP blurb)."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "Loyalty to one's crew and faction (review)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Bancho hierarchy and upperclassmen (DMP blurb)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Old-school codes of conduct (review)."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Status and survival among gangs (MU)."
+   }
+  },
+  "closest": [
+   "Cavalier",
+   "El Norte",
+   "Greater Appalachia"
+  ],
+  "japan": "A yankii (delinquent) manga built on school bancho hierarchy, senpai-kohai respect and loyalty to one's crew."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Manga-news review says fights carry duty, respect and honor; MU blurb notes a strict brawling honor code.",
+  "personified": [
+   {
+    "character": "Hana Tsukishima",
+    "ideology": "strength restrained by an honor code",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "Honor and loyalty are carried by fights and friendships rather than speeches."
+ },
+ "winners_losers": "Hana and fighters who keep the honor code win respect; underhanded thugs and rival gangs are opposed (DMP blurb; MU).",
+ "to_verify": [
+  "English license partial or lapsed (MU: English Version Dropped, Out of Print in English); keep and note.",
+  "Smoking listed only by MU; frequency unknown.",
+  "Yakuza and motorcycle-gang content level.",
+  "No Wikipedia cache; review is of the French edition."
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "anilist_id": 31032,
+ "title": "Doraemon",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31032",
+  "https://api.mangaupdates.com/v1/series/36987085458"
+ ],
+ "premise": "Doraemon, a cat-shaped robot from the 22nd century, travels back in time to help Nobita, a below-average, lazy boy, make his life less miserable and so improve his descendants' lives, using gadgets from the future (AniList; MU). An episodic children's comedy (kodomo) that won the first Shogakukan Manga Award for children's manga and the Tezuka Osamu Cultural Grand Prize; left incomplete at the author's death (MU). English via Shogakukan Asia, including a full-color Kindle edition (MU).",
+ "life_message": "Help, friendship and second chances can improve an ordinary child's life, though shortcuts have limits.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Slapstick and schoolyard bullying (MU Bullying)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Gentle adventure."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Romantic subplot among children (MU)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Mild insults; not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Nobita's low self-esteem (MU Unpopular Protagonist)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Relying on gadgets instead of effort; bullying (MU Bullying, Gadget/s)."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Large franchise with anime, films, games and stage adaptations (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Transhumanism", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Friendship; technology as help and temptation; improving the future through the present",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 6, "sanctity": 2, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Friendship and care for a weak, struggling child.", "concerns": "Bullying and laziness played for laughs."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Patience with human weakness.", "concerns": "Little to raise."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Family and friendship central.", "concerns": "Bullying gags."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Loyal help for the underdog.", "concerns": "Little to raise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Encouragement of the weak.", "concerns": "Little to raise."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Shows human weakness honestly in Nobita.", "concerns": "Technology as savior."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Grace toward a flawed boy.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Growth through help and friendship.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle moral comedy.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Mutual help among friends.", "concerns": "Gadget-centered technology fantasy."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Concern for future generations and family.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Compassion for an unpopular child.", "concerns": "Bullying gags."},
+  {"frame": "Muslim", "grade": "A", "weight": "Minor", "aligns": "Friendship and care for family's future.", "concerns": "Little to raise."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Present actions shape descendants (karma echoes).", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Kindness to the struggling.", "concerns": "Craving for easy fixes."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Empathy for an underdog.", "concerns": "Older gender stereotypes (to verify)."},
+  {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Science fiction, ingenuity and human betterment.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Family legacy and responsibility.", "concerns": "Shortcuts over hard work."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Wholesome friendship.", "concerns": "Little to raise."},
+  {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Clean, gentle entertainment.", "concerns": "Little to raise."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Encouragement over fear.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every child.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Playful wonder.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Household continuity across generations.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Help and sharing among friends.", "concerns": "Laziness shown."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Science serving humanity; children's growth.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Improving conditions for self and family.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Ingenuity and self-improvement.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Concern for future generations.", "concerns": "Time on entertainment."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Learning and friendship.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Repairing the future through the present.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Problems met with gadgets and friendship, not honor duels (MU)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Ordinary school and home life (MU)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Aim is to improve Nobita's descendants' lives (blurb)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Child peer group with bullying (MU)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Future technology as problem-solver (MU Futuristic Technology)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Fun, adventure and everyday wishes (MU)."}
+  },
+  "closest": ["Catholic Europe", "New France", "New Netherland"],
+  "japan": "The postwar suburban setting, school life and concern for one's descendants reflect Japanese family and household norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; episodic gadget stories imply lessons (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Episodes carry gentle lessons through gadget mishaps, as far as summaries show."
+ },
+ "winners_losers": "Nobita and Doraemon's friendship gets sympathy; bullies are obstacles in an otherwise gentle world.",
+ "to_verify": [
+  "Character names beyond Nobita and Doraemon",
+  "How bullying is resolved",
+  "Shogakukan Asia English edition coverage",
+  "No review or Wikipedia text was available"
+ ]
+}

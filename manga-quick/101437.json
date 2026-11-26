@@ -1,0 +1,96 @@
+{
+  "anilist_id": 101437,
+  "title": "Battle in 5 Seconds",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/101437",
+    "https://api.mangaupdates.com/v1/series/9824911468",
+    "https://en.wikipedia.org/wiki/Battle_Game_in_5_Seconds",
+    "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24128",
+    "https://wwwezo.animenewsnetwork.com/preview-guide/2021/summer/battle-game-in-5-seconds/.174299"
+  ],
+  "premise": "Bored gamer Akira Shiroyanagi is killed and wakes in a facility where kidnapped people, registered as dead, are given powers and forced into a death game run by a secret organization and observed by the sadistic catgirl Mion. Akira's 'Sophist' ability lets him do whatever his opponent believes he can, and he resolves to outwit the game and destroy the organization (Wikipedia; Comikey text via AniList; MangaUpdates).",
+  "life_message": "Wits and strategy are prized over brute force; the story centers on winning a cruel game rather than a vision of a good life.",
+  "overall": 7,
+  "content": [
+    {"category": "Violence", "score": 7, "framing": "Neutral", "note": "Death game killings (Wikipedia); arm blasted off, brutal tone (ANN anime preview); AniList Death Game 86."},
+    {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "Play-or-die stakes (MU); sadistic observers (Wikipedia)."},
+    {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Fan-service designs (ANN anime preview); MU Ecchi genre, Nudity, First-Time Intercourse; MangaDex erotica."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Delinquent characters (Wikipedia); not documented (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Hints of unhappy home life (ANN preview)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Manipulation and torture-device powers (Wikipedia)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Game framing (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Might makes right", "strength": 5, "stance": "Explored"},
+    {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Nihilism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "battle of wits in a death game; defying a secret organization",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+  "foundations": {"care": 3, "loyalty": 4, "fairness": 5, "sanctity": 2, "authority": 2, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Resolve to stop the organization exploiting people.", "concerns": "Killing for sport and fan service."},
+    {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and sensual imagery inflame passions."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Opposes a cruel organization.", "concerns": "Graphic death game; sexual content (MU)."},
+    {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Cleverness over brute force.", "concerns": "Sociopathic characters (ANN); fan service."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and sexual content."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Depravity of game-masters exposed.", "concerns": "Lascivious content."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Unjust power resisted.", "concerns": "Gore and fan service."},
+    {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Does harm for entertainment."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Battle of minds as puzzle.", "concerns": "Violence and sexualization."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Killing as game."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violent and sexual content."},
+    {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Critique of exploitative power.", "concerns": "Sexualized women; gore."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Resisting oppression.", "concerns": "Nudity and sex; killing."},
+    {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Tamasic violence."},
+    {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Killing and lust."},
+    {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Sexualization and glorified violence."},
+    {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Reasoning and strategy prized.", "concerns": "Cruelty."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Defiance of a criminal group.", "concerns": "Gore and fan service."},
+    {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and impurity."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence (Psalm 11:5) and immorality."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Belief shapes reality (Sophist power).", "concerns": "Violence."},
+    {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Exploitation."},
+    {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Harm for sport."},
+    {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Kegare of death."},
+    {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Lust and violence."},
+    {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and immodesty."},
+    {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Murder as game."},
+    {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Cunning individual against captors.", "concerns": "Little beyond cruelty to non-consenting."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and tzniut."},
+    {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence."},
+    {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and sexualization."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 7, "evidence": "Disputes settled by personal combat (Wikipedia)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Organization's rules defied (publisher text)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Strangers forced into teams (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Akira resists observers' control."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Game logic and strategy (MU Battle of Wits)."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "Play-or-die survival (MU)."}
+    },
+    "closest": ["The Far West", "Catholic Europe", "El Norte"],
+    "japan": "Death-game and battle-royale stories with tournament structures are a popular Japanese genre, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "ANN anime preview reviewers note no moralizing; manga tone not reviewed (to verify).",
+    "personified": [
+      {"character": "Mion", "ideology": "Sadistic pleasure in people killing each other", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "None shown",
+    "note": "The story is action and strategy first, with little stated message."
+  },
+  "winners_losers": "Akira's wits keep him alive and aimed at the organization; outcome not documented. Sympathy lies with clever resistance.",
+  "to_verify": [
+    "ANN preview guide covers the anime, not the manga",
+    "Sexual content (MU First-Time Intercourse; MangaDex erotica) and how explicit; not judged sexual-at-core, so not skipped",
+    "Wikipedia read from cache only; a direct Wikipedia fetch was blocked and not used",
+    "Manga on hiatus (ANN, Oct 2024)"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+ "anilist_id": 33799,
+ "title": "BLT Burning Love Twin",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/33799",
+  "https://api.mangaupdates.com/v1/series/57514335462"
+ ],
+ "premise": "Identical high school twins swap places for a day: Nozomu, from a school for delinquents, goes to confront an enemy and find out why a teacher keeps calling his brother, while Saku, a prestigious school's class president, tries to pass as Nozomu. Nozomu's close friend Yoji starts making more than friendly moves on Saku, who plays along to protect his cover. The volume adds three other short stories (AniList, MU from Digital Manga).",
+ "life_message": "Stepping into someone else's life can reveal who really cares about you.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Delinquent school rivalry ('confronts his enemy', blurb)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy of misunderstandings."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Yoji's advances on high schooler Saku (DMP blurb); MU lists School Intercourse, Fellatio, Public Sex across the anthology; MangaDex rates it safe, so level conflicts (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Delinquent setting (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "MU Drunk/s; single source."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "MU lists Attempted Suicide and Childhood Trauma; single source (to verify)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Impersonation and going along with advances to keep cover (blurb); MU Student-Teacher Relationship (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Celebrity/band side story (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Expressive individualism; Hedonism",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+ "foundations": {"care": 4, "loyalty": 6, "fairness": 3, "sanctity": 1, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Twin brothers' loyalty to each other.", "concerns": "Sexual content with high schoolers; deception; possible teacher-student relationship."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Brotherly bond of Nozomu and Saku.", "concerns": "Passions among youths; same-sex sex."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Saku's diligence as class president.", "concerns": "Sexual content involving students; same-sex romance; lying."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Twins look out for each other.", "concerns": "Teen sexual content played for laughs; deception."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Teen sex and public sex tags; same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Saku's ordered, studious character.", "concerns": "Ninth commandment (impersonation); seventh commandment content."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Brother serving brother.", "concerns": "Sexual content with minors; deception."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Saku tidies the delinquents up, comic holiness.", "concerns": "Harm in sexual content with students."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Identity-swap comedy with a friendship lesson.", "concerns": "Teen sexual content; consent under pretence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Delinquent fighting; deception; teen sexual content."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Saku's studiousness.", "concerns": "Chastity; honesty; teen sexual content."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Friendship across school status.", "concerns": "Consent: Saku 'goes along' to hide identity; minors."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little; brotherly loyalty.", "concerns": "Same-sex relations among youths; deception."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Sibling duty.", "concerns": "Student stage (brahmacharya) with sexual content; deceit."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Seeing life from another's place.", "concerns": "Third and fourth precepts: misconduct and false speech."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Friendship across class lines.", "concerns": "Sexualisation of minors; consent under pretence; teacher tag."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Empathy from walking in a brother's shoes.", "concerns": "Minors' sexual content; consent."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Brotherly loyalty.", "concerns": "Teen sexual content; delinquency; deceiving teachers."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Impure passions among students."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Immorality; bad associations; lying."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Saku's orderly mind.", "concerns": "Impure thought; deception."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Worth of delinquents and honor students alike.", "concerns": "Consent and age."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Playful trickster comedy.", "concerns": "Consenting adults only; these are students."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Twin bond and school community.", "concerns": "Insincerity (makoto) of the swap."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Brothers defending each other.", "concerns": "Kaam; deceit."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Chastity; truthfulness."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Saku's study skills.", "concerns": "Untrustworthiness; youths."},
+  {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Rule-bending comedy.", "concerns": "Eleven Rules on children; unwanted advances."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Same-sex acts; youths; falsehood."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Sibling care.", "concerns": "Degrading content involving minors."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Empathy across difference.", "concerns": "Exploitation; deceit."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Nozomu goes to confront an enemy (DMP blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Delinquent school vs prestigious school; Saku imposes order comically (AniList)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Twin loyalty drives the swap (MU Twin/s, brother complex)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Class president and teacher roles (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular school life."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Comedy of identity and desire."}
+  },
+  "closest": ["Catholic Europe", "El Norte", "Latin America"],
+  "japan": "Contrasts between delinquent (yankii) schools and elite schools, and the class president role, reflect familiar Japanese school archetypes."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurbs frame it as farce; no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Farce rather than message."
+ },
+ "winners_losers": "Saku learns 'what best friends are really for' (AniList); outcomes otherwise unknown (to verify).",
+ "to_verify": [
+  "Which stories contain the sex scenes MU lists and the ages involved",
+  "MangaDex 'safe' rating conflicts with MU categories",
+  "Nature of the student-teacher tag",
+  "English publisher age rating (DMG/eManga)"
+ ]
+}

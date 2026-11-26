@@ -1,0 +1,91 @@
+{
+ "anilist_id": 30071,
+ "title": "Absolute Boyfriend",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30071",
+  "https://api.mangaupdates.com/v1/series/10986112432"
+ ],
+ "premise": "After many rejections, shy Riiko Izawa signs up online for a free trial of a mysterious 'Nightly Lover' figure; the next day a handsome naked young man is delivered to her door, wanting to be her boyfriend (Viz blurb). He is sweet, smart and a great cook, but will cost her a fortune if she doesn't return him in time (blurb). Shoujo romantic comedy-drama by Yuu Watase with an android lover, a love triangle with a childhood friend, and drama elements (MU). Six volumes.",
+ "life_message": "Real love involves choice and feeling that cannot simply be bought or programmed.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "MU lists Attempted Murder and Kidnapping/s; not described (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "MU Tragedy genre; emotional drama."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "A 'Nightly Lover' android delivered naked (Viz blurb); live-in lover (MU). Explicitness not confirmed (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "MU lists Drug Trafficking; context unknown (to verify)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Rejection and loneliness (blurb); MU Bullying."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Ordering a partner online on a free trial (blurb)."},
+  {"category": "Commercial", "score": 3, "framing": "Shown with consequences", "note": "The boyfriend is a product with a huge price if not returned (blurb)."}
+ ],
+ "lenses": [
+  {"lens": "Consumerism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Transhumanism", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Love versus a manufactured ideal partner; consumer romance; love triangle",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 4, "sanctity": 4, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Raises what makes love genuine rather than purchased.", "concerns": "A sex-companion android premise and live-in cohabitation."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Contrasts passion with true love.", "concerns": "Sexualized premise inflames the passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Questions shallow, appearance-based romance.", "concerns": "Naked 'Nightly Lover' and cohabitation."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Love as more than appearance.", "concerns": "Sexual premise for teen readers."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Warns against counterfeit love.", "concerns": "Sexual content and worldliness."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Idols of the ideal partner exposed.", "concerns": "Lascivious premise."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Love as gift, not purchase.", "concerns": "Cohabiting android lover."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Choosing real relationships.", "concerns": "Sexual themes."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Moral vision of authentic love (to verify ending).", "concerns": "Sexual premise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Critique of buying happiness.", "concerns": "Sexual premise; technology-centered fantasy."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Real relationships over fantasies.", "concerns": "Law of chastity; nudity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Consent and personhood of an artificial being.", "concerns": "Objectification."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Questions lust-driven choices.", "concerns": "Unmarried cohabitation; nudity."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Kama versus deeper bonds.", "concerns": "Sexual premise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Craving for the perfect partner causes suffering.", "concerns": "Sexual themes."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Raises consent and personhood of AI.", "concerns": "Gender stereotypes of the ideal man."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "AI and what makes feelings real.", "concerns": "Mild objectification."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Childhood-friend loyalty (MU).", "concerns": "Sexual premise; cohabitation."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Warns against fantasy over reality.", "concerns": "Impure premise."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Shows emptiness of shallow romance.", "concerns": "Immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love as spiritual, not material.", "concerns": "Materialism of the 'figure'."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth and agency of a created being.", "concerns": "Objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Consent and genuine feeling.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere feeling (makoto) as true love.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Critique of lust and greed.", "concerns": "Sexual premise."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Love beyond appearance.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and communication as love.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgence and choice.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Real bonds over fantasy.", "concerns": "Tzniut; cohabitation."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Dignity in love.", "concerns": "Sexual premise."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Ethics of relationships and personhood.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Romantic rivalry, not honor (MU Love Rival/s)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Riiko lives with her lover, parents absent (MU)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Childhood friend and neighbor ties (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Not a theme."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Technology-made partner (blurb; MU Android/s)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Romantic fulfillment as the goal (blurb)."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "Yankeedom"],
+  "japan": "The tale of a girl bullied at school and the ideal boyfriend as consumer product reflects 2000s Japanese shoujo conventions and consumer culture."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; message implied by the premise (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The contrast between a made-to-order lover and a childhood friend carries the theme, as far as summaries show."
+ },
+ "winners_losers": "Riiko's emotional growth gets sympathy; the outcome of the love triangle and the android's fate are not given in the sources.",
+ "to_verify": [
+  "How sexual the 'Nightly Lover' scenes are",
+  "Attempted murder, kidnapping and drug-trafficking tags",
+  "Ending and its message about love",
+  "No review or Wikipedia text was available"
+ ]
+}

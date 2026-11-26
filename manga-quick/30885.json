@@ -1,0 +1,365 @@
+{
+ "anilist_id": 30885,
+ "title": "The Cain Saga",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30885",
+  "https://api.mangaupdates.com/v1/series/25671934833",
+  "https://www.bookreporter.com/reviews/the-cain-saga-vol-2-the-sound-of-a-boy-hatching",
+  "https://www.viz.com/cain-saga"
+ ],
+ "premise": "In Victorian England, young Earl Cain C. Hargreaves, heir to a wealthy family full of secrets and crimes, solves macabre mysteries while searching for the truth about his birth and his father. Episodic gothic tales of murder and betrayal, collected in five volumes, form the prequel to Godchild.",
+ "life_message": "Love and loyalty can survive even in a cursed family, but the past demands to be faced.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Murders and attempted murder (MU, AniList detective/tragedy); publisher calls the episodes dark and harrowing."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 6,
+   "framing": "Neutral",
+   "note": "Horror genre (AniList, MU), gothic tone; publisher: 'dark, harrowing episodes', 'macabre mysteries'."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Incest themes (AniList tag, MU incest and child born from incest) and rape (MU), described non-graphically in sources here. Capped at 3 under the two-source rule; likely higher (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Poisons recur (MU)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Child abuse, abusive parent and childhood trauma (MU); 'tortured past' (publisher)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Poison use in crimes."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Existentialism; Nihilism",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 7,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Cain's loyal bond with those who serve him; sin exposed as destructive.",
+   "concerns": "Incest, abuse, rape themes; macabre murders."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Passions shown with ruinous effects.",
+   "concerns": "Incest and gothic horror."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Wickedness exposed.",
+   "concerns": "Incest, rape and murder themes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequences of sin shown.",
+   "concerns": "Incest and gothic violence."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Darkness confronted.",
+   "concerns": "Cult and macabre elements; incest."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Depravity of human hearts shown truthfully.",
+   "concerns": "Lascivious and violent material."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sin and brokenness shown honestly.",
+   "concerns": "Incest and abuse themes."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful companionship.",
+   "concerns": "Dark content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Gothic literature tradition.",
+   "concerns": "Incest and abuse."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Murder, incest and rape themes."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Incest and violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Abuse by powerful families exposed.",
+   "concerns": "Sexual violence themes."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Incest and sexual violence."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Karma of family sins.",
+   "concerns": "Adharma depicted heavily."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Suffering from craving and hatred.",
+   "concerns": "Violence and abuse."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Child abuse exposed as harm.",
+   "concerns": "Rape and incest depiction for teens."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mysteries solved through reason.",
+   "concerns": "Abuse and incest themes."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty and aristocratic duty.",
+   "concerns": "Incest and depravity."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Incest, poison, murder."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Immorality and violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Truth sought.",
+   "concerns": "Dwelling on evil."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Abuse victims' worth.",
+   "concerns": "Sexual violence."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Harm returns on wrongdoers.",
+   "concerns": "Cult elements."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Family secrets purified by truth.",
+   "concerns": "Death and blood impurity."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lust and incest."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Unchaste and violent content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Truth uncovered.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Exposes arbitrary patriarchal power.",
+   "concerns": "Harm to children."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Incest (arayot) and violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Justice sought.",
+   "concerns": "Incest and abuse."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Abuse exposed.",
+   "concerns": "Sexual violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 8,
+    "evidence": "Aristocratic family honor and revenge."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Victorian hierarchy."
+   },
+   "Civic vs kin": {
+    "pos": 9,
+    "evidence": "Family secrets dominate."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Earls and servants."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Gothic, religious references."
+   },
+   "Survival vs self-expression": {
+    "pos": 3,
+    "evidence": "Survival amid family threats."
+   }
+  },
+  "closest": [
+   "Cavalier",
+   "South and Southeast Asia",
+   "Deep South"
+  ],
+  "japan": "A Japanese shojo gothic set in Victorian England; aristocratic servant loyalty echoes Japanese master-retainer ideals."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Publisher calls it dark and harrowing; no review on delivery read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes surface through episodic mysteries."
+ },
+ "winners_losers": "Cain seeks the truth about his birth and his father; perpetrators of crimes are exposed (to verify).",
+ "to_verify": [
+  "Incest and rape depiction level (database tags only)",
+  "Father's role and abuse details",
+  "Bookreporter page is a publisher description, not a critical review",
+  "Viz age rating not shown"
+ ]
+}

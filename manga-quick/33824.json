@@ -1,0 +1,92 @@
+{
+ "anilist_id": 33824,
+ "title": "Blue Spring",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/33824",
+  "https://api.mangaupdates.com/v1/series/48514349059",
+  "https://mangacritic.mangabookshelf.com/2011/01/11/the-best-manga-youre-not-reading-blue-spring/"
+ ],
+ "premise": "A one-volume anthology of short stories about delinquents at a run-down boys' high school with indifferent teachers; in the best-known story, Kujo becomes gang leader and must keep defending his place through a dangerous rooftop game (VIZ blurb via AniList and MangaUpdates; Manga Critic review). The boys skip class, fight, commit petty crime and drift toward an adulthood without clear escape (review). Taiyo Matsumoto's 1993 seinen collection, adapted as a live-action film; VIZ rated it Mature (18+) per the review.",
+ "life_message": "It offers no easy answer, presenting youth as a 'blue time' of anger and emptiness to be lived through honestly (review).",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Neutral", "note": "Gang fights and bullying treated as routine (review); AniList Gangs, Yakuza, Guns; MangaUpdates Gun/s."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Neutral", "note": "'Dark and intense drama' (VIZ blurb); 'violence and despair' (review)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Teens making out, girlie magazines, crude graffiti (review); MangaDex suggestive."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Delinquent smack-talk (review); specific profanity not described (to verify)."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Thinner huffing and booze referenced (review only; to verify)."},
+  {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Graffiti about suicide (review) and a deadly rooftop dare (blurb); despair throughout."},
+  {"category": "Imitable behavior", "score": 6, "framing": "Neutral", "note": "Dangerous rooftop game for gang rank (VIZ blurb via AniList and MangaUpdates); truancy and delinquency (review)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Nihilism", "strength": 5, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 4, "stance": "Explored"}
+ ],
+ "dominant": "Adolescent alienation, gang rank by daring, emptiness and violence",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 3, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Honest picture of youth without hope invites compassion.", "concerns": "Suicide-adjacent dares, fighting, sexual graffiti; no moral resolution."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows a soul's emptiness without God or guidance.", "concerns": "Violence and crude content."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Shows where rebellion leads.", "concerns": "Delinquency, drug use and crude content without judgment."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Opens talk about despair and the need for hope.", "concerns": "No redemption offered (review: 'no easy answers')."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Despair laid bare.", "concerns": "Thinner huffing, fights, risk-taking unexamined."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Truthful portrayal of fallen youth, by common grace art.", "concerns": "Fifth-commandment disregard; crude content."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Honest about sin and emptiness.", "concerns": "Mature content; no grace offered."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Neglected students point to a need for social care.", "concerns": "Little tending to holiness."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Literary realism about adolescence.", "concerns": "Bleak framing with no moral center."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Shows the emptiness of worldly status.", "concerns": "Violence and gang hierarchy."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Shows the cost of drifting youth.", "concerns": "Substance use, crude talk, violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Empathy for neglected working-class boys.", "concerns": "Suicide references and risk dares."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Shows harm of losing guidance.", "concerns": "Intoxicants, sexual magazines, fights."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Shows life without dharma or elders' guidance.", "concerns": "Disrespect, violence, intoxicants."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Dukkha of youth shown plainly; craving for status empty.", "concerns": "Intoxicants and harm."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Systemic neglect of youth exposed.", "concerns": "Suicide-adjacent content without safe-messaging framing."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Unflinching, literary realism; 'frank, funny' (review).", "concerns": "Risky dares imitable."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Shows the fruit of absent authority.", "concerns": "Anti-authority mood, drug use, violence."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Shows harm of substances.", "concerns": "Content that excites the passions."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Shows a world without hope.", "concerns": "Violence and immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Shows the need for a better view of self.", "concerns": "Dwelling on despair and violence."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of marginalized youth.", "concerns": "Suicide references."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Autonomy and raw honesty.", "concerns": "Harm to self and others."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Group belonging among the boys.", "concerns": "Disharmony and death risk."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Shows ego and anger's emptiness.", "concerns": "Intoxicants; lust; violence."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Shows need for education and purpose.", "concerns": "Intoxicants and violence."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Shows drug harm.", "concerns": "Drugs and violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Defiance of indifferent authority.", "concerns": "Self-destruction."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Shows youth without guidance.", "concerns": "Nivul peh, tzniut, violence."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Empathy for lost youth.", "concerns": "Substances and violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Social neglect examined.", "concerns": "Risky behaviors."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Boys 'answer to reason with their fists' (review); rank defended by dares (blurb)."},
+   "Order vs freedom": {"pos": 9, "evidence": "Truancy, indifferent teachers, no rules followed (review)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Gang peers matter more than family or school."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Gang leadership contested and enforced (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "No faith or custom guides the boys."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Little future; getting through each day (review)."}
+  },
+  "closest": ["The Far West", "El Norte", "Greater Appalachia"],
+  "japan": "It reflects 1990s Japanese delinquent (furyo) culture and senpai-kohai gang hierarchy in low-ranked high schools."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Review: 'offers no easy answers' and no 'false hope'; digressions and daydreams rather than lessons.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Moods and images carry the stories, and the book argues no position."
+ },
+ "winners_losers": "No one clearly wins; the boys' anger and drift get sympathy without approval or judgment.",
+ "to_verify": [
+  "Whether any character dies or attempts suicide.",
+  "Substance and language levels (review only).",
+  "Gun use in the yakuza-linked stories (tags only)."
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "anilist_id": 138555,
+ "title": "The Otome Heroine's Fight for Survival",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/138555",
+  "https://api.mangaupdates.com/v1/series/60448233635"
+ ],
+ "premise": "Orphaned when a monster attack kills her parents, Alicia spends three miserable years mistreated in an orphanage, runs away, and is attacked by a woman who wants to take her place as the heroine of an 'otome game'; Alicia absorbs part of the woman's memories and becomes a calculating young fighter (J-Novel Club blurb). Rejecting the heroine role, she takes the adventurer name Aria and grows into the 'Ash-crowned Princess of Slaughter', later escorting a 'villainess' into noble intrigues (MU description). Ongoing manga of a web novel.",
+ "life_message": "You are yourself, not a role written for you; strength and self-reliance let you choose your own fate.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Endorsed", "note": "Child fighter called 'Princess of Slaughter' (MU blurb); MU Murders, Child Assassin; AniList Assassins (spoiler). Detail not checked (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Monster attack orphaning her; survival theme (blurbs; AniList Survival 80)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "AniList Yuri (spoiler, 71); MangaDex safe; no detail (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Orphanage mistreatment; cold, ruthless lead (blurb; MU Cold, Anti-Social Female Lead)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "A child becoming a ruthless killer is framed as empowerment (MU Ruthless Female Lead) (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Web novel franchise."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 5, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"}
+ ],
+ "dominant": "Self-authorship against a scripted fate; strength through ruthless self-reliance",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 2},
+ "foundations": {"care": 3, "loyalty": 4, "fairness": 5, "sanctity": 2, "authority": 2, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Alicia refuses to be a mere pawn of 'fate'; free will.", "concerns": "A child trained to kill, framed as strength."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Endurance through orphanhood.", "concerns": "Ruthlessness and pride in killing."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Survives abuse with courage.", "concerns": "Child assassin; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Rejects a destiny imposed by others.", "concerns": "Violence as identity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Overcoming a hard start.", "concerns": "Absorbed memories from another soul; magic."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Diligence and resolve.", "concerns": "Self-made destiny over providence."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Fights to protect a charge (the villainess escort).", "concerns": "Ruthless lead."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Exposes orphanage cruelty.", "concerns": "'Princess of Slaughter' title celebrated."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Fantasy of agency.", "concerns": "Child violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Survives mistreatment.", "concerns": "Killing as the path to self-worth."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Agency and self-reliance.", "concerns": "Violent child protagonist."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "A girl refusing a romance-heroine script.", "concerns": "Glorified violence."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience through hardship.", "concerns": "Sorcery as power; killing."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Strength in adversity.", "concerns": "Ahimsa set aside."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Questions illusion of a scripted role.", "concerns": "Harm to beings celebrated."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Female agency against a gendered script.", "concerns": "Child soldier framing."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Self-determination; reasoned planning.", "concerns": "Cruelty normalized."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Self-reliance and grit.", "concerns": "Cold, rule-free child."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Endurance.", "concerns": "Magic; violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Rejects false roles.", "concerns": "Magic and killing."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Refusing a limiting belief about oneself.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Self-definition.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Personal will and magic.", "concerns": "Harm done."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Resilience.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Courage.", "concerns": "Violence beyond defense."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Overcoming adversity.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Self-determination.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self as one's own author and protector.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Survival of the orphan.", "concerns": "Magic; bloodshed."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Agency.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Resisting imposed destiny.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Alicia answers threats personally with force (MU Ruthless, Princess of Slaughter)."},
+   "Order vs freedom": {"pos": 8, "evidence": "'I am me, not a character in a game!' (MU blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Orphan relying on herself and a chosen few."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Commoner fighter among scheming nobles (MU)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Calculated, pragmatic planning (J-Novel blurb)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Survival is the title theme (AniList Survival 80)."}
+  },
+  "closest": ["The Far West", "El Norte", "Orthodox Europe"],
+  "japan": "Plays on Japanese 'reincarnated in an otome game' web fiction, turning the genre's romance heroine into a solitary fighter."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "Heroine states her creed outright: 'I am me. I'm not a character in a game!' (MU blurb); no review opened.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The self-authorship message is stated by the heroine; how other views are treated is not in the sources."
+ },
+ "winners_losers": "Alicia's self-reliance wins sympathy; the scripted 'heroine' role and the woman who tried to seize it are rejected.",
+ "to_verify": [
+  "Violence level of a child assassin plot (score capped at 4 from database tags and blurbs).",
+  "Yuri tag (spoiler) and Crossdressing tag not checked.",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

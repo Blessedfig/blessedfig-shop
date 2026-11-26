@@ -1,0 +1,98 @@
+{
+  "anilist_id": 35709,
+  "title": "Lychee Light Club",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/35709",
+    "https://api.mangaupdates.com/v1/series/1626170466",
+    "https://en.wikipedia.org/wiki/Lychee_Light_Club",
+    "https://www.tcj.com/reviews/the-lychee-light-club/"
+  ],
+  "premise": "An ero-guro horror based on a stage play. Nine middle-school boys in a sooty factory town form the Light Club and build Lychee, a fruit-powered thinking machine, to abduct beautiful girls; under the paranoid, fascist-styled leader Zera the club descends into murder and betrayal, while Lychee grows more human through a captive girl, Kanon (Kodansha blurb; Wikipedia; The Comics Journal).",
+  "life_message": "Cult-like loyalty, contempt for adulthood and the worship of power and beauty end in mutual destruction.",
+  "overall": 9,
+  "content": [
+    {"category": "Violence", "score": 9, "framing": "Shown with consequences", "note": "Graphic gore, murder and dismemberment (TCJ; AniList Gore 83%; MU Blood and Gore, Murder/s)."},
+    {"category": "Fear and intensity", "score": 8, "framing": "Neutral", "note": "Sadism, psychopathy and kidnapping (MU tags; TCJ)."},
+    {"category": "Sexuality and romance", "score": 7, "framing": "Condemned", "note": "Rape and sodomy depicted, ero-guro emphasis (TCJ; AniList Rape 53%; MU Rape, Masturbation). Characters are middle schoolers."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Not detailed (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 5, "framing": "Shown with consequences", "note": "Paranoia, psychopathy and fear of puberty (TCJ; MU Psychopath/s)."},
+    {"category": "Imitable behavior", "score": 6, "framing": "Condemned", "note": "Kidnapping girls and cultic obedience by children (Wikipedia; MU Kidnapping, Devoted Followers)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Collectivism/authoritarianism", "strength": 8, "stance": "Critiqued"},
+    {"lens": "Might makes right", "strength": 6, "stance": "Critiqued"},
+    {"lens": "Nihilism", "strength": 5, "stance": "Explored"},
+    {"lens": "Christian", "strength": 2, "stance": "Explored"},
+    {"lens": "Transhumanism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Satire of fascism and youth cults; ero-guro cruelty; the machine that learns humanity",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 4, "loyalty": 8, "fairness": 3, "sanctity": 6, "authority": 7, "liberty": 3},
+  "frames": [
+    {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Shows idolatry of power and beauty destroying its worshippers.", "concerns": "Sexual violence and gore made aesthetic; Christian girl Kanon objectified."},
+    {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Pride leads to ruin.", "concerns": "Feeds the passions with lust and cruelty imagery."},
+    {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Sin's wages shown.", "concerns": "Sexual assault, sodomy, gore involving minors."},
+    {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Little to redeem.", "concerns": "Graphic sexual violence."},
+    {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Cultic worship and sacrifice; sexual violence."},
+    {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Depravity pictured without illusion.", "concerns": "WLC Q139 lascivious images."},
+    {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Exposes false gods of power.", "concerns": "Sexual and violent extremity."},
+    {"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Cruelty does not tend to love."},
+    {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Lord of the Flies-type moral fable (TCJ).", "concerns": "Graphic sexual violence."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and sexual content."},
+    {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Vulgar, immoral, violent (For the Strength of Youth)."},
+    {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Critique of fascism and toxic male bonding.", "concerns": "Sexual violence; fetishizing of youth (TCJ)."},
+    {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Sexual content, gore, idol-like worship."},
+    {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Adharma consumes itself.", "concerns": "Tamasic content."},
+    {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Craving for power and beauty causes suffering.", "concerns": "Harm and sexual misconduct throughout."},
+    {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Anti-fascist satire.", "concerns": "Sexualized minors; rape as spectacle."},
+    {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Satire of authoritarian groupthink.", "concerns": "Cruelty and exploitation."},
+    {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Shows collapse without adult authority.", "concerns": "Gratuitous content."},
+    {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Impure, passion-exciting content."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Violence and immorality."},
+    {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Degrading imagery."},
+    {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Critique of oppression.", "concerns": "Cruelty and exploitation."},
+    {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Harm-centered; sexual violence."},
+    {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Pervasive blood and death."},
+    {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Lust, anger and ego glorified then destroyed."},
+    {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Degrading content."},
+    {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Murder and cruelty."},
+    {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Grotesque aesthetics; anti-authoritarian satire.", "concerns": "Harm to children (Eleven Rules)."},
+    {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Nazi-styled imagery; sexual content."},
+    {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Critique of fascism.", "concerns": "Nazi trappings used aesthetically; sexual violence."},
+    {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Anti-fascist satire.", "concerns": "Nazi aesthetics; cruelty."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 8, "evidence": "Zera obsessed with betrayal; loyalty enforced by death (TCJ)."},
+      "Order vs freedom": {"pos": 1, "evidence": "Totalitarian club rule (TCJ; Kodansha blurb)."},
+      "Civic vs kin": {"pos": 7, "evidence": "Secret brotherhood over everyone else."},
+      "Equality vs hierarchy": {"pos": 10, "evidence": "Dictator leader and devoted followers (MU Devoted Followers)."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Ritual worship of Kanon beside a 'thinking machine' (TCJ)."},
+      "Survival vs self-expression": {"pos": 4, "evidence": "Perverse aestheticism within a survival-paranoid group (blurb)."}
+    },
+    "closest": ["Middle East and North Africa", "Cavalier", "Deep South"],
+    "japan": "Ero-guro (erotic grotesque) art and the angura underground theatre the story comes from are Japanese avant-garde traditions, described here as context."
+  },
+  "delivery": {
+    "style": "Explicit",
+    "preachiness": 4,
+    "evidence": "TCJ calls the work largely amoral satire but faults a late, heavy-handed moral ending.",
+    "personified": [
+      {"character": "Zera", "ideology": "Fascist dictatorship and cult of youth", "role": "Villain", "treatment": "Mixed"},
+      {"character": "Lychee", "ideology": "A machine learning humanity and art", "role": "Other", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "The fascist ideal is satirized through its own adherents' grotesque cheerfulness, ending with an explicit moral turn."
+  },
+  "winners_losers": "Nearly everyone loses; the club destroys itself. Sympathy goes to Lychee and the captive girl rather than to the club's ideology.",
+  "to_verify": [
+    "Exact explicitness of sexual scenes involving minors (TCJ describes graphic depiction)",
+    "MU genre lists 'Adult' while MangaDex rates it suggestive and AniList not adult; kept per batch rules, flagged for review",
+    "Ending details",
+    "Vertical age rating (Mature expected)"
+  ]
+}

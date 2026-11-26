@@ -1,0 +1,91 @@
+{
+  "anilist_id": 56144,
+  "title": "The Daily Lives of High School Boys",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daily_Lives_of_High_School_Boys",
+    "https://anilist.co/manga/56144",
+    "https://api.mangaupdates.com/v1/series/70482485794"
+  ],
+  "premise": "An episodic gag comedy about three friends at an all-boys high school, Tadakuni, Hidenori and Yoshitake, whose wild schemes, imagined scenarios and clashes with sisters, a rival girls' school council and a daydreaming 'literature girl' play out in short sketches (Wikipedia; Vertical blurb via MU; AniList).",
+  "life_message": "Being a foolish teenager with good friends is part of growing up.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Slapstick (AniList 91%); violent sisters and a street fight at a festival (Wikipedia)."},
+    {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Boys peek at a council president's underwear in one gag; talk about girls (Wikipedia)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Teen banter; not sourced (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Past bullying mentioned (Wikipedia)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Pranks and peeking played for laughs (Wikipedia)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime and live-action film (Wikipedia)."}
+  ],
+  "lenses": [
+    {"lens": "Absurdism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Absurd everyday comedy; male friendship",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+  "foundations": {"care": 5, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 7},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Warm friendships and a kindly principal (Wikipedia).", "concerns": "Underwear-peeking gag; crude teen humor."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Harmless friendship comedy.", "concerns": "Peeking gag; idle humor."},
+    {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Loyal friends; mostly clean comedy.", "concerns": "Voyeur gag treated as funny."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Friendship and humor.", "concerns": "Some disrespect toward girls in gags."},
+    {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Joyful fellowship.", "concerns": "Crude moments; made-up ghost stories (Wikipedia)."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Ordinary life as good.", "concerns": "Foolishness celebrated."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Everyday life comedy.", "concerns": "Little to raise."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Friends sticking together.", "concerns": "Peeking gag."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle satire of adolescence.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Simple fun among friends.", "concerns": "Fighting gags; popular media."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Clean-ish comedy.", "concerns": "Voyeur gag."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Pokes fun at macho posing.", "concerns": "Objectifying gags."},
+    {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Friendship and humor.", "concerns": "Immodest peeking gag."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Light comedy; siblings and family.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Joy in ordinary moments.", "concerns": "Mild unkind teasing."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Satirizes teen-boy fantasies.", "concerns": "Peeking played for laughs; consent."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Humor and friendship.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Boyhood friendship.", "concerns": "Disrespect for girls in gags."},
+    {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Harmless fun.", "concerns": "Crude gags."},
+    {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Bad associations and crude humor."},
+    {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Lighthearted.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Playful friendships.", "concerns": "Gag consent issues."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Playfulness.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Seasonal school life and harmony.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Companionship.", "concerns": "Peeking gag."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Fellowship.", "concerns": "Immodest gag."},
+    {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Communication among friends.", "concerns": "Little stated concern."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Irreverence and indulgence.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Nivul peh and immodest gags; idle entertainment."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Gentle comedy.", "concerns": "Peeking gag."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Friendship and humor.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Rivalry with a girls' school council led to a street fight (Wikipedia)."},
+      "Order vs freedom": {"pos": 8, "evidence": "Boys follow their own wild schemes (Wikipedia)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Friends first; siblings are comic antagonists (Wikipedia)."},
+      "Equality vs hierarchy": {"pos": 4, "evidence": "Older brother was 'ringleader'; light hierarchy (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular everyday life."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "'High school boys, be fools' (Vertical blurb via MU)."}
+    },
+    "closest": ["New Netherland", "English-speaking", "Catholic Europe"],
+    "japan": "All-boys schools, student councils and senpai roles reflect Japanese school culture, played as absurd comedy."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 0,
+    "evidence": "Episodic gag comedy (MU Episodic; Wikipedia); no lesson stated in sources.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "The series is sketch comedy without an argued message."
+  },
+  "winners_losers": "No winners or losers; the boys' foolishness is affectionately mocked.",
+  "to_verify": [
+    "No review opened",
+    "Wikipedia character details mix anime and film; check manga",
+    "Vertical age rating"
+  ]
+}

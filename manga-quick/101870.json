@@ -1,0 +1,89 @@
+{
+ "anilist_id": 101870,
+ "title": "The Reborn Prince Wants to Be Lazy",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101870",
+  "https://api.mangaupdates.com/v1/series/49878151380"
+ ],
+ "premise": "Haruto, a tired Japanese college student who dreams of fluffy pets and good food, is reborn as three-year-old Prince Phil, youngest child of a royal family (Alpha Manga blurb; MangaUpdates). Remembering his past life, he aims for a relaxed life, but his pet turns out to be a fierce beast and everyone loves his cooking, so his plans keep backfiring.",
+ "life_message": "Rest, food and a loving family are worth wanting, though talents tend to draw a person into helping others.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Fierce beasts and a damsel in distress (MangaUpdates); light fantasy."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy tone."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "Child protagonist; nothing noted; MangaDex safe."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Overwork in past life implied (blurb: tired of work and study)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Laziness as comic goal."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Food and pets; nothing commercial."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Comfort and leisure; loving royal family; animal companions",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 5, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Loving family around Prince Phil; sharing his food.", "concerns": "Sloth as the hero's goal, played comically."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Gentle domestic warmth.", "concerns": "Idleness praised."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Clean, family-centred comedy.", "concerns": "Reincarnation premise; magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Kindness with gifts.", "concerns": "Reincarnation framing."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Wholesome tone.", "concerns": "Reincarnation and summoned creatures."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Gifts used for others despite himself.", "concerns": "Sloth versus vocation."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Rest and enjoyment as gifts.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Doing good almost by accident.", "concerns": "Idleness as aim."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Light fantasy comedy.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Simple pleasures, family.", "concerns": "Royal privilege."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Family-centred home life.", "concerns": "Laziness versus self-reliance."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Rejecting burnout culture.", "concerns": "Monarchy unexamined."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Family love and kindness to animals.", "concerns": "Reincarnation and magic."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Rebirth and care for animals.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Rebirth; gentleness to beasts.", "concerns": "Attachment to comfort."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Work-life balance and kindness.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Knowledge applied to improve life.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Loving royal family and order.", "concerns": "Idleness over duty."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Rest and food as joys.", "concerns": "Reincarnation and magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Family warmth.", "concerns": "Reincarnation, spirits and magic."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Harmony and good humor.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Joy and kindness.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Bond with beasts and familiars.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Gratitude for food and family.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Sharing food, langar-like.", "concerns": "Idleness versus honest work."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Family unity.", "concerns": "Idleness discouraged."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Past-life memories as asset.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence in comfort.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Family warmth.", "concerns": "Bittul Torah; magic."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Family and food.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness to all creatures.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor conflicts noted."},
+   "Order vs freedom": {"pos": 6, "evidence": "Wants freedom from duties."},
+   "Civic vs kin": {"pos": 7, "evidence": "Doting royal family (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Royal prince and castle (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Modern knowledge in archaic world (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Quality of life and leisure as aim."}
+  },
+  "closest": ["Latin America", "Catholic Europe", "El Norte"],
+  "japan": "Reflects Japanese isekai fantasies of escaping overwork for a slow, comfortable life (slow-life subgenre)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A comedy without stated lessons, as far as blurbs show."
+ },
+ "winners_losers": "Phil and his family are the sympathetic side; no antagonist noted.",
+ "to_verify": [
+  "Any combat or peril in later volumes.",
+  "No review or Wikipedia cache available."
+ ]
+}

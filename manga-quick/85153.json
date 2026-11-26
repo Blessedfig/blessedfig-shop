@@ -1,0 +1,394 @@
+{
+ "anilist_id": 85153,
+ "title": "Marginal Operation",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/85153",
+  "https://api.mangaupdates.com/v1/series/50773322642",
+  "https://www.animenewsnetwork.com/feature/2019-11-26/the-fall-2019-manga-guide/marginal-operation/.153681",
+  "https://anilist.co/review/17492"
+ ],
+ "premise": "Arata, a thirty-year-old former NEET who has lost his job, signs on with a private military company and turns out to be gifted as an 'operator' who directs soldiers remotely, first in Central Asia (J-Novel Club blurb; ANN). Disgusted that his employer uses a unit of child soldiers as bait, he takes responsibility for the children and eventually founds his own security company staffed by them, trying to secure them a future through the only skill he has (AniList user review; MangaUpdates tags). A 16-volume seinen adaptation of Yuri Shibamura's novels.",
+ "life_message": "It holds up fierce, practical devotion to the vulnerable people in your care, even when every option left is morally compromised.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 7,
+   "framing": "Shown with consequences",
+   "note": "Military combat, terrorism and guns throughout (AniList tags; MangaUpdates 'Violence', 'Blood and Gore', 'Murder/s'); children fight as soldiers (MangaUpdates; AniList review)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Kidnapping, war zones and children at mortal risk; review notes real psychological costs."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 4,
+   "framing": "Condemned",
+   "note": "Non-explicit: a sex-worker character appears (ANN); MangaUpdates tags prostitution and rape; review says rescued slum children otherwise faced sexual exploitation. Adult protagonist with a slow romance."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Military setting; profanity likely but not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "MangaUpdates lists no drug themes."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Isolation, regret and failure (ANN); the review notes psychological costs to the children of combat (to verify depth)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Teens with weapons as protagonists; the story frames it as a least-bad option rather than a model."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 6,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Utilitarianism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Pragmatism; harm-reduction utilitarianism; chosen family under fire",
+ "axes": {
+  "economic": 4,
+  "social": 5,
+  "cultural": 5,
+  "community": 7
+ },
+ "foundations": {
+  "care": 9,
+  "loyalty": 8,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Significant",
+   "aligns": "Arata's protective love for abandoned children; condemnation of using them as bait.",
+   "concerns": "Child soldiers framed as least-bad option; prostitution and rape themes."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Self-sacrificing care for orphans.",
+   "concerns": "Killing as livelihood; war shown without repentance framing; sexual exploitation themes."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Rescue of children from slavery and exploitation.",
+   "concerns": "Graphic war violence; children armed; adult sexual content referenced."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Responsibility and devotion to the weak.",
+   "concerns": "Children in combat presented as a workable solution."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Compassion for the fatherless.",
+   "concerns": "War violence and sexual-exploitation themes; no spiritual frame."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest about a fallen world's hard choices.",
+   "concerns": "The story's events tilt to vindicate Arata's compromises (AniList review)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation: Arata serves his 'neighbors' with the one skill he has.",
+   "concerns": "Morally fraught vocation; mature themes."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Works of mercy toward exploited children.",
+   "concerns": "Glamor of tactical success; violence and exploitation."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Serious moral questions about remote warfare (ANN).",
+   "concerns": "Child soldiers and adult content for older readers only."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for the orphan.",
+   "concerns": "Violence is the protagonist's trade and the plot's engine."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Family devotion and self-reliance.",
+   "concerns": "War violence, prostitution and rape themes."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Exposes exploitation of poor children in conflict zones.",
+   "concerns": "Child-soldier use partly rationalized."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Protecting orphans; fighting only to defend others.",
+   "concerns": "Sexual exploitation themes; minors in combat."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Arata accepts a protector's duty.",
+   "concerns": "Bloodshed as daily life; little ahimsa."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Harm reduction in suffering; karma of violence felt.",
+   "concerns": "Killing and armed children central."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critiques profit-driven militarism and child exploitation.",
+   "concerns": "Story partly normalizes child soldiers; gendered sex-work depiction."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Reasoned ethics in impossible conditions; consequences shown.",
+   "concerns": "Utilitarian logic may excuse arming children."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Duty, loyalty and hard work for one's own.",
+   "concerns": "Mercenary life; sexual and violent content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for children.",
+   "concerns": "Glorified tactical violence; mature sexual themes."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rescue of the vulnerable.",
+   "concerns": "Violence central; military life valorized."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Love guiding choices.",
+   "concerns": "Dwelling on war, death and fear."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth of every child; injustice exposed.",
+   "concerns": "Armed minors; exploitation themes."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Personal responsibility for consequences.",
+   "concerns": "Harm done by and to children."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty and sincerity within Arata's 'family'.",
+   "concerns": "Bloodshed and death (kegare) constant."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Defending the oppressed is righteous.",
+   "concerns": "Children armed; lust and exploitation themes."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Service to the needy.",
+   "concerns": "Violence and war central, contrary to unity ideals."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Survival across family and group dynamics.",
+   "concerns": "Violence and trauma."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reliance; rejection of abusive employers.",
+   "concerns": "Harm to children, a stated concern."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Rescuing captives (pidyon shvuyim).",
+   "concerns": "Sexual exploitation themes; violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Serious moral reasoning about protecting life.",
+   "concerns": "Arming children; mature themes."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Exposes exploitation; tikkun olam questions.",
+   "concerns": "Rationalized child soldiering."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Arata answers threats to his children personally and with force."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Chain of command and discipline in his company; he left an employer's rules behind."
+   },
+   "Civic vs kin": {
+    "pos": 8,
+    "evidence": "His adopted unit becomes family first (AniList review)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "A commander with devoted wards; earned rather than inherited rank."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Practical, tactical reasoning rather than custom guides choices."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "Survival and money for the children's future dominate."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Confucian",
+   "South and Southeast Asia"
+  ],
+  "japan": "An otaku protagonist finding purpose through group duty and paternal responsibility reflects Japanese themes of belonging and obligation to one's own."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN: volume 1 does not moralize and leaves judgment to readers; AniList reviewer says events are contrived to vindicate Arata.",
+  "personified": [
+   {
+    "character": "Arata",
+    "ideology": "harm reduction: the least-bad option to protect one's own",
+    "role": "Hero",
+    "treatment": "Sympathetic"
+   },
+   {
+    "character": "Arata's first employer (the PMC)",
+    "ideology": "profit at any cost, children as expendable",
+    "role": "Villain",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The series asks hard questions about war and child soldiers but, per one reviewer, arranges events so the hero's choices look justified."
+ },
+ "winners_losers": "Arata and his child soldiers win as an underdog family; exploitative profit-driven militarism loses sympathy, while the premise that arming the children is necessary goes largely unchallenged.",
+ "to_verify": [
+  "Treatment of rape and prostitution themes (MangaUpdates tags only for rape).",
+  "Ages of the children over time (review: 12-13 at start).",
+  "How the ending resolves (reviewer calls it rushed).",
+  "Language level.",
+  "Employer treatment as a character (Mixed is a guess)."
+ ]
+}

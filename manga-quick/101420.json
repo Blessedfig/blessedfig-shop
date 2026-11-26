@@ -1,0 +1,90 @@
+{
+ "anilist_id": 101420,
+ "title": "Radiation House",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101420",
+  "https://api.mangaupdates.com/v1/series/36324676664"
+ ],
+ "premise": "Iori Igarashi, a socially awkward radiologic technologist with top-tier imaging skills, is hired at the hospital where his beloved childhood friend An Amakasu works as a radiologist, though she does not seem to remember him (MANGA MILLION blurb). A medical drama about diagnostic imaging, in which unseen illnesses are uncovered through radiology (blurb; AniList Medicine, Educational). Ongoing, adapted as a Japanese TV drama (MU).",
+ "life_message": "Quiet, skilled teamwork behind the scenes saves lives; professional dedication is a form of care.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Medical cases rather than violence; injuries possible (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Serious illnesses and hospital patients (MU Hospital Patients)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Workplace romance; MU Partial Nudity and Sexual Harassment (comic context not checked, to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Iori's social awkwardness (blurb)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Workplace harassment tagged (MU) (to verify)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "TV-drama tie-in (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Medical professionalism; teamwork; science serving patients",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 5, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Care for the sick through Iori's skilled, humble work.", "concerns": "Partial nudity and harassment tags (MU)."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Humility of a hidden servant.", "concerns": "Minor fan service."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Diligent service to patients.", "concerns": "Partial nudity."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Serving others with gifts.", "concerns": "Partial nudity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Healing valued.", "concerns": "Purely medical view of healing."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation and common-grace medicine.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation: serving neighbor through work.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Works of mercy in a hospital.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Service and care.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Quiet service.", "concerns": "Worldly romance subplot."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Service and education.", "concerns": "Partial nudity."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Care and teamwork; LGBT character (MU).", "concerns": "Harassment as comedy (to verify)."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Healing and knowledge.", "concerns": "Partial nudity; mixed workplace romance."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Dharma of a healer.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion and right livelihood.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Science and care.", "concerns": "Sexual harassment tagged (MU)."},
+  {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Evidence-based diagnosis saves lives.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Hard work and professional duty.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Health and medicine valued.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Care for the sick.", "concerns": "Blood transfusions may appear in cases (to verify)."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Compassion for patients.", "concerns": "Medical diagnosis as the path to healing."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Care and inclusion.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Healing.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity in work.", "concerns": "Illness and death (kegare)."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Seva through honest work.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Science serving humanity.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Competence and dedication.", "concerns": "Mainstream medicine; psychiatry may appear (to verify)."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Scientific understanding.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Pikuach nefesh: saving life.", "concerns": "Partial nudity."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Healing as mitzvah.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Healing and repair.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Problems solved by diagnosis and procedure (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Hospital protocols and teams (AniList Work)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Service to all patients."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Doctors over technologists; Iori works behind An (blurb)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Imaging science reveals hidden illness (blurb)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Steady professional duty."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "Confucian"],
+  "japan": "Reflects Japanese hospital hierarchy between doctors and technologists and the ideal of the self-effacing professional."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Case-based medical drama with educational content (AniList Educational); no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values come through solved cases rather than argument."
+ },
+ "winners_losers": "Iori's hidden expertise and the radiology team are the sympathetic center; patients benefit.",
+ "to_verify": [
+  "Context of MU Partial Nudity and Sexual Harassment tags.",
+  "English availability on MANGA MILLION.",
+  "No Wikipedia cache or review available in this run."
+ ]
+}

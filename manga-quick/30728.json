@@ -1,0 +1,95 @@
+{
+ "anilist_id": 30728,
+ "title": "Astro Boy",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30728",
+  "https://api.mangaupdates.com/v1/series/65844543890",
+  "https://api.mangadex.org/manga/ca4c84bb-7272-45aa-a22d-dc1282b52372",
+  "https://www.animenewsnetwork.com/review/astro-boy-1&2/gn"
+ ],
+ "premise": "Osamu Tezuka's classic. Dr. Tenma builds a robot to replace his dead son Tobio but, frustrated that it cannot grow, sells it to a robot circus; Professor Ochanomizu, a champion of robot rights, rescues it and it becomes Astro Boy, who defends Japan and the world from threats while hoping to show the good robots can do (AniList blurb; MU; ANN review of Dark Horse vols 1-2). Episodic stories pit humans and robots against each other.",
+ "life_message": "Goodness is shown by how one treats others, robot or human, and peace is worth defending.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Astro dismantles robot enemies 'violently and permanently'; a man knocks his sister down (ANN). Capped (to verify)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Invasions and conspiracies (MU); AniList spoiler tag Tragedy."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Grief of Dr. Tenma and rejection of Astro (blurb)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Dated gender relations noted by ANN."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Christian", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Robot rights and discrimination; humanism; pacifism versus heroic force",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 6},
+ "foundations": {"care": 8, "loyalty": 5, "fairness": 8, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Dignity and mercy toward the rejected, as in Astro's rescue.", "concerns": "A created being made to replace a son; robot personhood questions."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Compassion for the outcast.", "concerns": "Human pride in creating life."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Heroic protection of others.", "concerns": "Robots given soul-like status."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Goodness shown in action.", "concerns": "Little to raise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Good versus evil clear.", "concerns": "Little to raise."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common-grace art of lasting quality.", "concerns": "Humanist frame without God."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Serving neighbors.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Social justice for an excluded group.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Moral vision of a classic.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Pacifist messages (ANN).", "concerns": "Astro's violent destruction of enemies."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Service and family themes.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Anti-discrimination and peace.", "concerns": "Dated gender relations."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Justice and mercy.", "concerns": "Creating life by human hands."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Dharma of protector.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion for all beings.", "concerns": "Violence against robots."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Civil rights allegory.", "concerns": "1960s gender portrayals (ANN)."},
+  {"frame": "Secular humanist", "grade": "S", "weight": "Minor", "aligns": "Science, reason and humanist ethics.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Heroism defending country.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Little objectionable.", "concerns": "Violence."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Discuss", "aligns": "Peace messages.", "concerns": "Fighting and destruction."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Goodness over material limits.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Minor", "aligns": "Worth of every being; equity.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Harm-none ethic aligned.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony and kindness toward made things.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Equality and defending the oppressed.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Oneness, science and peace.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping others.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Science and justice.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Chesed; golem-like questions.", "concerns": "Little to raise."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Justice for the vulnerable.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Tikkun olam and equality.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Robots' inherent worth argued; rights sought (blurb; MU Discrimination)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Astro works within society to defend it."},
+   "Civic vs kin": {"pos": 3, "evidence": "Defends Japan and the world, not just family."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Equal rights for robots (ANN)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Technological utopia; scientists as guardians (blurb)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Tolerance as a central value."}
+  },
+  "closest": ["Yankeedom", "Catholic Europe", "New France"],
+  "japan": "Postwar Japanese techno-optimism and pacifism shape the setting; the father-son and mentor bonds reflect Japanese family ideals."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 5,
+  "evidence": "ANN: some messages stated outright (robot president's pacifism); reviewer says Tezuka 'unintentionally undermines his own humanist message'.",
+  "personified": [
+   {"character": "Professor Ochanomizu", "ideology": "civil rights for robots", "role": "Mentor", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Moral points are often stated within episodic stories, while the action at times cuts against them."
+ },
+ "winners_losers": "Astro and robot-rights advocates hold the sympathy; bigoted humans and schemers are the opposition (to verify by story).",
+ "to_verify": [
+  "ANN review covers Dark Horse vols 1-2 only of 23.",
+  "Racial caricature in 1950s-60s art not mentioned in sources opened (to verify).",
+  "No Wikipedia cache available."
+ ]
+}

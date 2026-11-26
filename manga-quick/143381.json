@@ -1,0 +1,370 @@
+{
+ "anilist_id": 143381,
+ "title": "Light of My Life",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/143381",
+  "https://api.mangaupdates.com/v1/series/37072669315",
+  "https://www.animenewsnetwork.com/seasonal/2025/fall/light-of-my-life/.228202"
+ ],
+ "premise": "High-school best friends Aki and Minagi fell out; years later Aki has given up football to run his late grandfather's hair salon, and Minagi has left medicine to work at a host club. When Minagi asks to stay at Aki's apartment, the two adults have to face their past (Kodansha blurb via AniList, MU). ANN reviewers describe two men who talk around their feelings, with frequent explicit sex carrying much of the emotional story; Kodansha rates it M.",
+ "life_message": "Unspoken love and changed dreams have to be faced honestly before a relationship can heal.",
+ "overall": 8,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted; injury listed (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Backstory trauma mentioned by a reviewer, no detail (ANN)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 8,
+   "framing": "Neutral",
+   "note": "Frequent explicit sex between adult men, consent shown (ANN, two reviewers); rated M and in ANN's 18+ guide; MU lists first-time intercourse."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Host-club work setting; no substance use noted by reviewers."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Shown with consequences",
+   "note": "Emotional withdrawal and relationship anxiety (ANN); dead grandfather (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Host-club setting (MU, AniList)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism, Hedonism",
+ "axes": {
+  "economic": 5,
+  "social": 8,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 6,
+  "fairness": 4,
+  "sanctity": 1,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Repairing a broken friendship.",
+   "concerns": "Explicit same-sex sex outside marriage throughout."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Humility and reconciliation.",
+   "concerns": "Explicit content feeds passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Reconciliation.",
+   "concerns": "Explicit same-sex sex; Philippians 4:8."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honesty after years of silence.",
+   "concerns": "Explicit sexual content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Restoration of relationship.",
+   "concerns": "Explicit content against holiness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sins of omission faced.",
+   "concerns": "WLC Q139; explicit pictures."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Vocation in Aki's family salon.",
+   "concerns": "Explicit content; LCMS traditional."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Reconciling love.",
+   "concerns": "Explicit content; holiness caution."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest moral reckoning with the past.",
+   "concerns": "Explicit content; provinces differ."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Humble trade work.",
+   "concerns": "Explicit sexual content; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honoring a grandfather's legacy.",
+   "concerns": "Law of chastity; explicit content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adult queer love with consent shown.",
+   "concerns": "Explicit content for older readers."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Duty to family business.",
+   "concerns": "Explicit sex; haya."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Duty to family trade (dharma).",
+   "concerns": "Explicit content; kama over-emphasized."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Facing attachment and miscommunication.",
+   "concerns": "Third precept; explicit content."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Consent shown; queer adult romance.",
+   "concerns": "Explicit content, adults only."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Adults communicating and choosing.",
+   "concerns": "Explicit content is adult-only."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work and family duty.",
+   "concerns": "Explicit content; host-club life."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligent work.",
+   "concerns": "Explicit content; same-sex romance."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honesty sought.",
+   "concerns": "Explicit immorality throughout."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Love as real substance.",
+   "concerns": "Sensual material dwelt on."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Worth and reconciliation.",
+   "concerns": "Explicit content; age-appropriateness."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Consenting adult sexuality as sacred.",
+   "concerns": "Explicit adult content."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincerity finally spoken.",
+   "concerns": "No doctrine; adult content."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest work (kirat karni).",
+   "concerns": "Lust; explicit content."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Reconciliation.",
+   "concerns": "Chastity; explicit content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Communication heals.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Adult indulgence with consent.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Honoring a grandfather.",
+   "concerns": "Explicit same-sex sexual content; tzniut."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Committed adult love.",
+   "concerns": "Degrading sexual content concern."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Consent and honesty.",
+   "concerns": "Explicit content."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 2,
+    "evidence": "No honor contests; quiet emotional conflict."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Adults leave expected careers and choose their own lives."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Aki carries on his grandfather's salon."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Equals; friends."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular urban setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Emotional honesty and fulfillment are the goal."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Midlands"
+  ],
+  "japan": "Inheriting a grandfather's family business and the host-club trade are distinctly Japanese work settings; reticence about feelings fits norms of indirect speech."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "ANN reviewers say the characters 'talk around each other' and conflicts play out internally.",
+  "personified": [
+   {
+    "character": "Sarara",
+    "ideology": "steady supportive friendship",
+    "role": "Mentor",
+    "treatment": "Sympathetic"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "Feelings are shown through behavior and sex scenes rather than stated."
+ },
+ "winners_losers": "Aki and Minagi reach each other after years of silence; the cost of miscommunication is what loses.",
+ "to_verify": [
+  "Nature of the 'backstory trauma' and 'Atonement' (MU).",
+  "How the host-club work is portrayed.",
+  "License: Kodansha USA print and Renta! digital (batch note: check)."
+ ]
+}

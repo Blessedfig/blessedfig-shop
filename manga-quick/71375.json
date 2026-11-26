@@ -1,0 +1,357 @@
+{
+ "anilist_id": 71375,
+ "title": "Oh, My Sweet Alien!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/71375",
+  "https://api.mangaupdates.com/v1/series/61772670694"
+ ],
+ "premise": "Nobuo, an ordinary salaryman, hides a secret: his wife is an alien with tentacle hair and eye beams, and he would not trade her for anything. An episodic two-volume comedy about married life, childcare and an alien pregnancy (MU).",
+ "life_message": "Committed married love accepts a partner's strangeness and builds a family together.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Slapstick eye-beam gags."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Married couple; AniList and MU tag nudity and ecchi; MangaDex suggestive."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Mild."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Slapstick."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Traditionalism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Traditionalism; Communitarianism",
+ "axes": {
+  "economic": 5,
+  "social": 4,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 8,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful marriage open to children.",
+   "concerns": "Nudity and ecchi gags."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marital devotion.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Husband's lifelong commitment.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage and parenthood celebrated.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful family life.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Covenant marriage.",
+   "concerns": "Lascivious images."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Vocation of husband and father.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family love.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Married love in comedy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family and loyalty.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family central.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Acceptance of difference.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Marriage and children.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family dharma.",
+   "concerns": "Mild immodesty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Loving-kindness at home.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Acceptance across difference.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Loving partnership.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Marriage and family.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Faithful husband.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love beyond appearance.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Interdependence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Love honored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Household harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Faithful marriage.",
+   "concerns": "Mild nudity."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Unity of family.",
+   "concerns": "Nudity."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Second dynamic: family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal choice of partner.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Shalom bayit.",
+   "concerns": "Immodesty."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family across difference.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Gentle domestic comedy."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Household routine."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family first."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Married partners."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Secular sci-fi."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Comfort and family."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "Yankeedom"
+  ],
+  "japan": "The salaryman husband and keeping family secrets from the neighbors reflect Japanese concern for appearances."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "No review read; message inferred from blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Married devotion is shown through daily episodes."
+ },
+ "winners_losers": "Nobuo and his alien wife build a happy family.",
+ "to_verify": [
+  "Nudity level",
+  "Pregnancy storyline",
+  "Delivery style"
+ ]
+}

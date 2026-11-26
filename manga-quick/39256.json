@@ -1,0 +1,91 @@
+{
+ "anilist_id": 39256,
+ "title": "The Girl Who Leapt Through Time",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/39256",
+  "https://api.mangaupdates.com/v1/series/28500417373",
+  "https://www.mangaupdates.com/series/d3ceusd"
+ ],
+ "premise": "Makoto Konno and her friends Kousuke and Chiaki play catch after school until she gains the ability to leap through time (VIZ blurb via AniList). After a near-fatal accident she uses time-leaps to fix small annoyances, then learns each change has consequences she cannot foresee (MU). A one-volume manga by Ranmaru Kotone, set as a prelude to the 2006 film loosely based on Yasutaka Tsutsui's novel (MU).",
+ "life_message": "It suggests that every choice affects others and that life cannot be endlessly redone for one's own convenience.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Shown with consequences", "note": "A freak accident threatens Makoto's life (MU)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Tragedy tag; disastrous consequences hinted (AniList; MU)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Shifting friendships and romance (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing notable."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Film tie-in."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Utilitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Choices and consequences; friendship",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 5, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Selfish shortcuts harm others; responsibility for choices.", "concerns": "Little to raise."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Humility before what cannot be controlled.", "concerns": "Little to raise."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Actions have consequences.", "concerns": "Little to raise."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Using gifts for others, not self.", "concerns": "Little to raise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Limits of human power.", "concerns": "Unexplained supernatural power."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Providence beyond human control.", "concerns": "Little to raise."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Responsibility to neighbors.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Growing out of selfishness.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "A moral tale of consequences.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Yielding instead of controlling.", "concerns": "Popular media tie-in."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Agency and accountability.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Choices affect the community.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Accepting decree; limits of the self.", "concerns": "Little to raise."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Karma: every act bears fruit.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Cause and effect; letting go of control.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Female protagonist; empathy.", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Responsibility in a this-life story.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Duty and consequences.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Consequences of choices.", "concerns": "Little to raise."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Humility.", "concerns": "Supernatural power unexplained."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Fear and accident overcome.", "concerns": "Tragedy themes."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "What you send out returns.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity in friendship.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Accepting hukam over ego.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Character over convenience.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Responsibility.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Little at odds.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Accountability.", "concerns": "Little to raise."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Choices matter.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Responsibility to others.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "No honor theme."},
+   "Order vs freedom": {"pos": 5, "evidence": "Freedom to change things, with limits."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friends; an aunt appears (MU category)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Peer friendships."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school life; science-fiction premise."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Everyday school pleasures."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "After-school friendships and school routines reflect ordinary Japanese teen life."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "MU blurb frames consequences as the lesson (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The lesson appears to emerge from what happens after each time-leap."
+ },
+ "winners_losers": "Makoto learns her limits; sympathy goes to friendship and responsibility.",
+ "to_verify": [
+  "AniList says junior high; MU says 17 and high school.",
+  "Relation to film plot and ending.",
+  "Nature of the tragedy."
+ ]
+}

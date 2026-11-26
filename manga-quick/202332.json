@@ -1,0 +1,94 @@
+{
+ "anilist_id": 202332,
+ "title": "Nighthawk, Once Again",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/202332",
+  "https://www.mangaupdates.com/series/4tfr1of",
+  "https://api.mangadex.org/manga/f21cda14-5352-4ae9-82c5-53d68b4d8869",
+  "https://sevenseasentertainment.com/2026/10/28/seven-seas-licenses-nighthawk-once-again-manga-series/"
+ ],
+ "premise": "Nighthawk was a legendary hitman feared by criminals, but after eight years of retirement she lives in a filthy apartment and spends all her money on gambling and gacha games. Facing eviction with almost no money left, she must decide whether to return to killing.",
+ "life_message": "Played for comedy, it suggests that a person has to face the mess they have made of their life and find purpose again.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Former assassin and organized crime (Seven Seas description; AniList Assassins; MU Crime/s, Organized Crime)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Action-comedy tone (genres Action, Comedy)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Ecchi genre and some nudity tags; MangaDex suggestive (AniList; MU; to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 3, "framing": "Shown with consequences", "note": "MU lists Alcoholic and Smoking (to verify; databases only)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Shut-in, NEET lifestyle played for comedy."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Gambling and debt (MU Debt/s; AniList Gambling)."},
+  {"category": "Commercial", "score": 4, "framing": "Shown with consequences", "note": "Spends every last yen on gambling and gacha games, facing eviction (Seven Seas description; AniList Gambling; MU Debt-Motivated Protagonist)."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Consumerism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Hedonism (critiqued), Consumerism (critiqued), Might makes right",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 3, "loyalty": 4, "fairness": 3, "sanctity": 2, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Her ruin from gambling shows vice has consequences.", "concerns": "A hired killer as comic heroine returning to murder for money; ecchi content."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "The emptiness of a life given to passions.", "concerns": "Killing for hire played for laughs; immodest imagery."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Gambling and sloth lead to ruin.", "concerns": "Assassin protagonist, drinking, smoking and ecchi content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Talking point on addiction to gambling and gacha.", "concerns": "Murder-for-hire as the 'comeback'; fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Worldliness shown as empty.", "concerns": "Assassination, alcohol, tobacco, immodesty."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Sloth and covetousness exposed.", "concerns": "Sixth- and seventh-commandment concerns: killing and lascivious images."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "A sinner unable to save herself.", "concerns": "Murder as vocation."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Gambling's harms visible.", "concerns": "Alcohol, gambling and violence as comedy."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Satire of a wasted life.", "concerns": "Moral vision of killing unclear."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Professional killer as heroine; violence central."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Consequences of debt; self-reliance needed.", "concerns": "Alcohol, tobacco, gambling, violence and ecchi."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Addiction shown with real costs.", "concerns": "Glorified violence; fan service."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Gambling (maysir) shown as ruinous.", "concerns": "Alcohol, gambling, killing and immodesty."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Tamasic living shown as degrading.", "concerns": "Violence and intoxicants."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Craving leads to suffering.", "concerns": "Killing and intoxicants against the precepts."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "A middle-aged woman lead, not idealized.", "concerns": "Ecchi framing of the lead; violence."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Gambling and gacha harms shown.", "concerns": "Killing for money."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Laziness and debt shown as failures.", "concerns": "Glamorized crime and vice."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Health and thrift's absence shown.", "concerns": "Alcohol, tobacco, violence."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little.", "concerns": "Violence, gambling and immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Alcohol, tobacco, degrading images."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Worth of a person at her lowest.", "concerns": "Violence for hire."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Personal responsibility for one's state.", "concerns": "Harm to others for pay."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Comic look at a polluted household and life.", "concerns": "Blood and death."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest work's absence shown.", "concerns": "Tobacco, alcohol and killing."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Little.", "concerns": "Alcohol, gambling and violence."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Taking care of oneself shown by its absence.", "concerns": "Murder and illegality."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Indulgence and self-preservation.", "concerns": "Compulsive gambling."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Gambling and idleness shown as ruin.", "concerns": "Killing; immodest imagery."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Consequences of vice.", "concerns": "Violence and immodesty."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Addiction shown with costs.", "concerns": "Killing for hire."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Her reputation as a feared killer is the 'legend' she must reclaim (Seven Seas description)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Lives outside law and social expectations as an ex-hitman NEET."},
+   "Civic vs kin": {"pos": 5, "evidence": "Little family or civic focus in sources."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Criminal organizations present (MU) but not central in sources."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Secular modern urban setting."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Rent, debt and eviction drive the plot."}
+  },
+  "closest": ["The Far West", "El Norte", "Catholic Europe"],
+  "japan": "The 'NEET' and gacha-addiction humor reflects contemporary Japanese slang and anxieties about withdrawal from work."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Only the publisher description and database tags available; comedy framing (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe an action comedy without a stated message."
+ },
+ "winners_losers": "Not known from sources; the comic framing invites sympathy for Nighthawk despite her vices.",
+ "to_verify": [
+  "English print edition from Seven Seas is scheduled for October 2027; not yet released.",
+  "Seven Seas announcement names no Ghost Ship imprint and MU does not list the Adult genre; confirm imprint on release.",
+  "Ecchi content level, alcohol and smoking from database tags only.",
+  "No review available; all scores are conservative."
+ ]
+}

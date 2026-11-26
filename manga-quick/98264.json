@@ -1,0 +1,362 @@
+{
+ "anilist_id": 98264,
+ "title": "Eniale & Dewiela",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/98264",
+  "https://api.mangaupdates.com/v1/series/9227770732",
+  "https://api.mangadex.org/manga/7a282a7f-6134-411a-9360-41ca1afa88a1"
+ ],
+ "premise": "Angel Eniale and demon Dewiela share a love of designer labels and luxury items, which draws them into a quarrelsome friendship in New York (Yen Press blurb; MU tags). With Heaven and Hell's powers behind them, minor fashion disasters can have near-apocalyptic consequences for people on Earth. Three volumes of episodic slapstick by the creator of Witch Hat Atelier.",
+ "life_message": "Friendship can survive constant bickering, and style is something to enjoy.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Slapstick battles with apocalyptic stakes; MangaDex lists Gore and Zombies (to verify level)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Ghost and zombie episodes (AniList spoiler tags; MangaDex Horror)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "MU Nudity tag; GL subtext (MU); not detailed elsewhere (to verify)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Bickering; nothing specific noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Comic destruction over fashion."
+  },
+  {
+   "category": "Commercial",
+   "score": 4,
+   "framing": "Endorsed",
+   "note": "Designer labels and luxury shopping drive the plot (blurb; AniList Fashion tag, rank 78)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Consumerism",
+   "strength": 5,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Absurdism",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Consumer fashion comedy; angel-demon friendship; surreal slapstick",
+ "axes": {
+  "economic": 6,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 3,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship across difference.",
+   "concerns": "Angels and demons as comedic fashionistas trivialise sacred realities."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Angels and demons treated lightly; vanity central."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Demon as sympathetic heroine; materialism."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and forgiveness after fights.",
+   "concerns": "Demon friend; consumerism."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demon protagonist made friendly; spiritual warfare trivialised."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Common-grace art and humour.",
+   "concerns": "Heaven and Hell as comedy props."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Lighthearted art.",
+   "concerns": "Angels and demons as satire."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Vanity and luxury celebrated."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Playful imagination.",
+   "concerns": "Materialism."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Worldliness and pride in fashion."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Materialism; demon as hero."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Female friendship; GL subtext.",
+   "concerns": "Consumerism."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Angels depicted comedically; demon sympathetic; nudity tag."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gods and spirits as story elements.",
+   "concerns": "Attachment to luxury."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Shows attachment causing chaos.",
+   "concerns": "Craving for possessions."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Female-led comedy.",
+   "concerns": "Consumerism."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Imaginative fiction.",
+   "concerns": "Consumerism."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Mocking sacred imagery; materialism."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Demon sympathetic; vanity."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demons and magic in entertainment."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Harmony restored after fights.",
+   "concerns": "Material focus."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Pluralism, friendship across sides.",
+   "concerns": "Consumerism."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Myth used playfully.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirits in daily life.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "Vanity (ego) shown as fun."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Unity of opposites.",
+   "concerns": "Materialism."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Communication repaired.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Demon as glamorous heroine; indulgence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Little.",
+   "concerns": "Idolatrous/heavenly imagery used comedically."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Friendship.",
+   "concerns": "Materialism."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Humour.",
+   "concerns": "Consumerism."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Fights erupt over slights to style."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Individual taste and indulgence."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Friendship pair, little family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Heaven and Hell sides, little rank shown."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Religion as comic backdrop."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Fashion and self-expression central."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "English-speaking",
+   "Catholic Europe"
+  ],
+  "japan": "Japanese manga commonly use angels and demons as aesthetic characters without doctrinal intent; the New York setting reflects Japanese fascination with Western fashion."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Episodic slapstick per blurb and tags; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Heaven and Hell are comic backdrops rather than positions argued."
+ },
+ "winners_losers": "Both friends are sympathetic; bystanders on Earth suffer the collateral damage.",
+ "to_verify": [
+  "Nudity and gore level (MU Nudity; MangaDex Gore).",
+  "How heavenly and demonic figures are portrayed in detail."
+ ]
+}

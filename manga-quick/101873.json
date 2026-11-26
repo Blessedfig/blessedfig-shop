@@ -1,0 +1,94 @@
+{
+ "anilist_id": 101873,
+ "title": "Orient",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101873",
+  "https://www.mangaupdates.com/series/p1kqcmo",
+  "https://en.wikipedia.org/wiki/Orient_%28manga%29"
+ ],
+ "premise": "In an alternate Sengoku-era Japan ruled by oni, people are taught that the demons are their saviors and that samurai (bushi) are evil. Fifteen-year-old Musashi, about to become a miner, knows otherwise and keeps a childhood promise with his friend Kojiro to become the greatest warriors and overthrow the demons, joining bands of bushi with special kitetsu blades.",
+ "life_message": "Seek the truth behind what you are told, keep your promises and fight for freedom with friends.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Endorsed", "note": "Sword battles against giant oni and rival bands, some gore (AniList Gore, Swordplay; MU Large Scale Battle/s, Armed Combat; Wikipedia)."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Kaiju-like demons; dystopian rule (AniList Kaiju, Dystopian; Wikipedia)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Partial nudity (MU; AniList Nudity low rank)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None documented."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Tsugumi's fear of letting toxic people go (Wikipedia)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Teens take up swords against authorities (Wikipedia)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Anime adaptation (Wikipedia)."}
+ ],
+ "lenses": [
+  {"lens": "Libertarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Critical theory", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Resisting propaganda; warrior heritage; friendship and promises",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 5},
+ "foundations": {"care": 5, "loyalty": 8, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 8},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Truth against lies; unjust rule resisted (CCC on legitimate authority).", "concerns": "Demon imagery; battle violence."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Courageous friendship and keeping promises.", "concerns": "Demons with Buddhist imagery (Wikipedia)."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Freedom from lying rulers; loyalty.", "concerns": "Demons and magic swords."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Truth sets captives free.", "concerns": "Violence; demon designs."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Battle against demonic oppressors.", "concerns": "Demonic imagery and an entity hidden in Musashi."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Resisting tyranny that demands false worship of demons.", "concerns": "Violence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Friendship, courage, vocation.", "concerns": "Rebellion against authority."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Liberation from oppression.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Good against evil clearly framed.", "concerns": "Gore."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little central.", "concerns": "Warrior heroism central."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Liberty against tyranny (Alma's title of liberty echo).", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Critique of propaganda and forced labor.", "concerns": "Glorified combat."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Fighting oppression in a just cause.", "concerns": "Demon worship depicted; magic blades."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Warrior dharma against demons.", "concerns": "Buddhist-inspired demon designs."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Seeing through delusion.", "concerns": "Buddhist imagery used for demons (Wikipedia)."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Questioning official narratives.", "concerns": "Militarized youth."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Critical thinking against brainwashing.", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Discuss", "aligns": "Pride in ancestral samurai heritage; courage.", "concerns": "Gore."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Freedom of conscience.", "concerns": "Demons and violence."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little central.", "concerns": "Violence and demons."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Error unmasked.", "concerns": "Fear imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Free search for truth.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Goddess entity; personal autonomy.", "concerns": "Violence."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Oni and spirits from Japanese folklore.", "concerns": "Blood impurity."},
+  {"frame": "Sikh", "grade": "A", "weight": "Discuss", "aligns": "Warriors defending the oppressed.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Truth and unity.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Recovering truth from implanted lies.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Rebellion against arbitrary authority.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Refusing false gods.", "concerns": "Violence; time on entertainment."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Liberation from bondage.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Freedom and justice.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Pride in bushi heritage defended by the sword (Wikipedia)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Overthrowing demon rule and its lies (Wikipedia; AniList Dystopian)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Loyalty to friends and to warrior bands (Wikipedia)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Bands led by captains and generals (Wikipedia)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Ancestral samurai identity; supernatural blades (Wikipedia)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Mining labor and war for survival (Wikipedia; AniList blurb)."}
+  },
+  "closest": ["The Far West", "El Norte", "Tidewater"],
+  "japan": "Sengoku clan names (Takeda, Uesugi, Shimazu) and samurai ideals draw on Japanese history."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Reviews note disorganized narrative and Buddhist imagery; none mention preachiness (Wikipedia, ANN) (to verify).",
+  "personified": [
+   {"character": "Jisai (Kojiro's father)", "ideology": "Be proud of bushi heritage despite stigma", "role": "Mentor", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "None shown",
+  "note": "The case against the demons' rule is made through the plot's reveal of their lies."
+ },
+ "winners_losers": "Musashi, Kojiro and the bushi bands are favoured; the oni rulers and their propaganda lose sympathy.",
+ "to_verify": [
+  "How the oni rulers' worldview is presented (strawman or not)",
+  "Gore level in later volumes",
+  "Kodansha USA English edition extent (MU lists 20 volumes)"
+ ]
+}

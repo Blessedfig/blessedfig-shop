@@ -1,0 +1,95 @@
+{
+  "anilist_id": 107790,
+  "title": "No Longer Human",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://en.wikipedia.org/wiki/No_Longer_Human",
+    "https://anilist.co/manga/107790",
+    "https://www.mangaupdates.com/series/4vjxok7"
+  ],
+  "premise": "Junji Ito's three-volume adaptation of Osamu Dazai's novel follows Yozo Oba, a man who from childhood feels unable to understand other people and hides behind clowning. His life spirals through abuse in childhood, womanizing, alcohol, morphine addiction and suicide attempts. Ito adds horror imagery to show Yozo's inner world.",
+  "life_message": "A tragedy rather than a model: it shows a man destroyed by alienation, shame and self-destruction, and leaves readers to ask what might have saved him.",
+  "overall": 8,
+  "content": [
+    {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Disturbing deaths and grotesque horror imagery (AniList Body Horror 63; MU Violence; Viz blurb 'grotesque')."},
+    {"category": "Fear and intensity", "score": 7, "framing": "Shown with consequences", "note": "Ito's horror visuals of Yozo's psyche (Viz blurb via AniList: 'terror of the human psyche'; AniList Tragedy 100, Body Horror 63)."},
+    {"category": "Sexuality and romance", "score": 7, "framing": "Condemned", "note": "Frequent nudity, affairs and sexual abuse including of Yozo as a child (AniList Nudity 92, Rape 84 spoiler; MU Child Rape, Sexual Abuse, Womanizer; Viz blurb 'dissolute life')."},
+    {"category": "Language", "score": 3, "framing": "Neutral", "note": "Adult dialogue (to verify)."},
+    {"category": "Substances", "score": 7, "framing": "Shown with consequences", "note": "Alcoholism and morphine addiction drive Yozo's decline (Wikipedia plot of the novel; AniList Drugs 75; MU Alcohol)."},
+    {"category": "Mental health and self-harm", "score": 8, "framing": "Shown with consequences", "note": "Suicide attempts, including a double suicide, and psychiatric confinement (Wikipedia plot of the novel; AniList Suicide 85 spoiler; MU suicide/s, Insanity)."},
+    {"category": "Imitable behavior", "score": 5, "framing": "Shown with consequences", "note": "Self-destructive habits and suicide shown in detail (MU suicide/s; AniList Suicide 85) (to verify how graphic)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+  ],
+  "lenses": [
+    {"lens": "Existentialism", "strength": 8, "stance": "Explored"},
+    {"lens": "Nihilism", "strength": 6, "stance": "Explored"},
+    {"lens": "Hedonism", "strength": 4, "stance": "Critiqued"},
+    {"lens": "Absurdism", "strength": 3, "stance": "Explored"}
+  ],
+  "dominant": "Alienation and shame; existential despair; self-destruction",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 3},
+  "foundations": {"care": 4, "loyalty": 2, "fairness": 3, "sanctity": 3, "authority": 2, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Truthful portrait of sin, shame and the soul's need for grace; evil not made attractive.", "concerns": "Suicide, sexual abuse and addiction shown graphically; no hope offered."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Shows the passions enslaving a soul.", "concerns": "Images that disturb and inflame; despair without repentance."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Shows the wages of sin.", "concerns": "Sexual content, drugs and suicide (Philippians 4:8)."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Emptiness of life without God, useful for discussion.", "concerns": "Graphic sex, abuse and suicide."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Bondage of addiction made plain.", "concerns": "Sexual content and dark imagery."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Total depravity depicted honestly; common-grace literary classic.", "concerns": "Lascivious and violent images."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Law exposing human brokenness.", "concerns": "Graphic content."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Compassion for the lost.", "concerns": "Content that does not tend to holiness."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Serious literature judged by its moral seriousness.", "concerns": "Graphic sexual and suicide content."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Shows emptiness of worldly life.", "concerns": "Sexual content and despair."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Consequences of breaking the Word of Wisdom and law of chastity.", "concerns": "Vulgar and immoral content."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Mental illness and abuse taken seriously.", "concerns": "Suicide depiction; abuse imagery."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Shows ruin from intoxicants and zina.", "concerns": "Nudity, alcohol, drugs and suicide."},
+    {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Karma of adharmic living.", "concerns": "Tamasic content; suicide."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Significant", "aligns": "Dukkha from craving and a false self shown starkly.", "concerns": "Intoxicants and sexual misconduct depicted."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Classic literature on mental illness and abuse.", "concerns": "Safe-messaging on suicide; sexual abuse imagery."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Literary exploration of alienation.", "concerns": "Graphic suicide and abuse."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Classic of Japanese literature; shows cost of dissipation.", "concerns": "Nihilism and suicide portrayal."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Shows harm of alcohol and drugs.", "concerns": "Content that excites passions and fear."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Shows bad associations' fruit.", "concerns": "Immorality and violence."},
+    {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Little in common.", "concerns": "Dwells on fear, disease and sin."},
+    {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Free inquiry into meaning.", "concerns": "Suicide and abuse imagery."},
+    {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Little in common.", "concerns": "Harm to self and others."},
+    {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Shame and sincerity themes rooted in Japanese life.", "concerns": "Death and impurity."},
+    {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Ego (haumai) shown destroying a life.", "concerns": "Intoxicants and lust."},
+    {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Shows harm of alcohol and drugs.", "concerns": "Suicide and unchastity."},
+    {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Shows harm of drugs.", "concerns": "Psychiatric framing; suicide."},
+    {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Literary art valued without censorship.", "concerns": "Harm to a child."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Shows the cost of losing one's way.", "concerns": "Tzniut, suicide and sexual content."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Serious literature.", "concerns": "Degrading sexual content."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Ethical reflection on suffering.", "concerns": "Abuse and suicide imagery."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 4, "evidence": "Shame drives Yozo, yet he never defends his honor."},
+      "Order vs freedom": {"pos": 8, "evidence": "Yozo drifts outside family, work and social rules."},
+      "Civic vs kin": {"pos": 5, "evidence": "Wealthy family's expectations he flees."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Patriarchal family and class shown, not celebrated."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern, secular despair; old family order fails him."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "Poverty and dependence in his decline."}
+    },
+    "closest": ["The Far West", "Catholic Europe", "El Norte"],
+    "japan": "The novel is a canonical work of Japanese literature, and its themes of shame (haji) and the masks people wear in a conformist society are central to how it is read in Japan."
+  },
+  "delivery": {
+    "style": "Subtle",
+    "preachiness": 1,
+    "evidence": "Entry summary: a tragedy showing Yozo's decline that leaves readers to judge; no review on tone (to verify).",
+    "personified": [
+      {"character": "Yozo Oba", "ideology": "Alienation and shame; hiding behind clowning", "role": "Other", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "None shown",
+    "note": "The story shows Yozo's self-destruction without stating a lesson, leaving readers to draw conclusions."
+  },
+  "winners_losers": "No one wins; Yozo is destroyed, and the story asks for understanding rather than admiration.",
+  "to_verify": [
+    "Wikipedia article covers the novel, not Ito's adaptation specifically",
+    "How explicit the abuse and suicide scenes are",
+    "Ito's added framing story (writer character) and its tone",
+    "Delivery style, preachiness and treatment of opposing views (no source on delivery)"
+  ]
+}

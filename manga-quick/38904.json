@@ -1,0 +1,363 @@
+{
+ "anilist_id": 38904,
+ "title": "Exotic and Delicious Fate",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/38904",
+  "https://api.mangaupdates.com/v1/series/71388832058"
+ ],
+ "premise": "Miyagi rose from a struggling bartender with a middle-school education to manager of the Tokyo restaurant Tachibana, thanks to a benefactor he is loyal to. Brash young chef Kasuga from a sister restaurant pursues him relentlessly and seems to know something about Miyagi's past (AniList, MU).",
+ "life_message": "Hard work and loyalty matter, but so does opening up to a future and a past one did not know.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Attempted rape listed (MU; to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "'Continuous sexual advances' after a confession (MU blurb); MU Yaoi, Attempted Rape; AniList Boys' Love."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Bar and restaurant setting."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Child neglect and abandonment in backstory (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Advances continue after refusal (MU blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Classical virtue ethics, Expressive individualism",
+ "axes": {
+  "economic": 4,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 7,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 5,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Gratitude and loyalty to a benefactor.",
+   "concerns": "Same-sex sex; pressure after refusal."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humble work and gratitude.",
+   "concerns": "Same-sex intimacy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Diligence and loyalty at Tachibana.",
+   "concerns": "Same-sex sex; persistent advances."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Faithful service to the man who helped him.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Hard work and gratitude.",
+   "concerns": "Sexual content; holiness standards."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Vocation in daily restaurant work.",
+   "concerns": "Same-sex romance."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation and gratitude.",
+   "concerns": "LCMS: same-sex sex."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Mercy shown by the benefactor.",
+   "concerns": "Persistent advances."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Hospitality of the restaurant world.",
+   "concerns": "Views differ by province."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Humble work; mutual aid.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-reliance through work.",
+   "concerns": "Chastity; same-sex sex."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Class mobility and gay romance.",
+   "concerns": "Advances continue after refusal."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honest work; gratitude.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Dharma of loyalty to the benefactor.",
+   "concerns": "Same-sex romance; views vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Right livelihood and gratitude.",
+   "concerns": "Attachment; pressured advances."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "A rise from little schooling respected.",
+   "concerns": "Consent blurred by persistence."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Merit and a self-made life.",
+   "concerns": "Pressure on Miyagi."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work and loyalty.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence and gratitude.",
+   "concerns": "Same-sex romance; sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Honest work.",
+   "concerns": "Same-sex sex."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Past wounds healed by love.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Worth regardless of schooling.",
+   "concerns": "Persistence over consent."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Attraction as natural.",
+   "concerns": "Pressure after refusal."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gratitude to a benefactor.",
+   "concerns": "Little doctrinal concern."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kirat karni: honest work.",
+   "concerns": "Lust as a driver."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Service and gratitude.",
+   "concerns": "Chastity teaching."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Learning the truth about one's past.",
+   "concerns": "Little stated concern."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kasuga pursues what he wants.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Gratitude and honest work.",
+   "concerns": "Same-sex acts."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gratitude to a benefactor.",
+   "concerns": "Sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Discuss",
+   "aligns": "Dignity across class lines.",
+   "concerns": "Pressure after refusal."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Rivalry handled by persistence, not honor."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Restaurant hierarchy and duty (MU Boss-Subordinate)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Hidden family ties and an illegitimate child (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Benefactor and manager ranks (AniList)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Established Japanese restaurant setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Work security weighed against new love."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Orthodox Europe",
+   "Confucian"
+  ],
+  "japan": "Loyalty to a benefactor (on) and the apprenticeship ladder of a Japanese restaurant reflect Japanese workplace norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "(to verify) Loyalty and hidden-past plot carries the themes.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story shows rather than argues."
+ },
+ "winners_losers": "Kasuga's persistence appears to win Miyagi over and open his past (AniList, MU); outcome to verify.",
+ "to_verify": [
+  "Attempted rape scene and its framing",
+  "Miyagi's backstory and family ties",
+  "Explicitness",
+  "Juné print-only license (MU)"
+ ]
+}

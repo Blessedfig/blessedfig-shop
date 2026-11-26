@@ -1,0 +1,88 @@
+{
+ "anilist_id": 30293,
+ "title": "Freefall Romance",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/30293", "https://api.mangaupdates.com/v1/series/37397995966"],
+ "premise": "Nanase Youichi, a straight man nicknamed 'The Iron Wall' at his mostly gay former school, is surprised when his straight business partner and drinking buddy Renji admits he wants to touch him. A night of drinking turns into a passionate affair, and both men must ask whether they are really 'not gay'. A one-volume adult office romance.",
+ "life_message": "Labels matter less than honest feeling; love can surprise people who thought they knew themselves.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "No violence tags."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Light romance."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "'Passionate affair' between adult coworkers (DMP blurb on AniList); MangaDex safe; capped without a review (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Heavy drinking leads to the first encounter (AniList blurb); framed as a lark."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Confusion about orientation; insecurity (MU)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Drunken hook-up with a friend presented lightly (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Postmodernism", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Questioning sexual labels; friends with benefits becoming love",
+ "axes": {"economic": 5, "social": 8, "cultural": 6, "community": 3},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 1, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Friendship and business partnership between Youichi and Renji show trust.", "concerns": "Casual drunken sex and same-sex affair presented as fun; chastity and temperance concerns."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Loyal partnership.", "concerns": "Drunkenness and passions indulged."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Friends who stay loyal.", "concerns": "Alcohol leading to sex; same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Honest conversation about identity.", "concerns": "Drunken casual sex celebrated."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond loyalty.", "concerns": "Alcohol and sexual content."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Shows confusion when desire leads.", "concerns": "Drunkenness (WLC Q139) and same-sex desire."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "ELCA families may accept the couple's honest search.", "concerns": "Drunkenness; LCMS objection."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Friendship deepening into care.", "concerns": "Historic abstinence; casual sex."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Questioning labels with humour.", "concerns": "Drunken hook-up worth discussing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol and sexual content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Loyal friendship.", "concerns": "Word of Wisdom and law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Fluid orientation treated without shame.", "concerns": "Consent while drinking."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Alcohol and same-sex relations."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Intoxicants and romance for traditional families."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Shows how fixed self-labels can loosen.", "concerns": "Fifth precept on intoxicants."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Bisexual and pansexual identity explored (MU).", "concerns": "Drunken consent should be discussed."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Honest self-discovery between adults.", "concerns": "Drinking and consent."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Loyal business partners.", "concerns": "Promiscuity and drinking glamourised."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol and same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Drunkenness and immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Discuss", "aligns": "Questioning limiting labels.", "concerns": "Alcohol use."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free search for identity.", "concerns": "Consent talk."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Adult sexuality without shame.", "concerns": "Little concern."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Drinking companionship common in Japanese social life.", "concerns": "Little doctrinal concern."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Honest work partnership.", "concerns": "Alcohol and sex outside marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Truthfulness.", "concerns": "Alcohol and chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication between partners.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence and self-discovery.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex relations forbidden."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment recognised.", "concerns": "Casual sex and alcohol."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion.", "concerns": "Consent ethics."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Youichi's 'Iron Wall' reputation is a joke, not an honour code."},
+   "Order vs freedom": {"pos": 8, "evidence": "Characters do as they please, starting a 'drunken lark' (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Coworkers and friends only."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Equal business partners."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern office life."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Pleasure and self-discovery foregrounded."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "After-work drinking among colleagues (nomikai culture) frames the start of the relationship."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Blurbs present it as a light comedy-romance (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The question 'are they gay?' is played for humour rather than argued."
+ },
+ "winners_losers": "The two friends end up together; the story sympathises with loosening fixed labels.",
+ "to_verify": [
+  "Explicitness; capped at 3 without a review.",
+  "Name inconsistency in blurbs (Reni/Renji).",
+  "Juné license status (possibly lapsed).",
+  "No Wikipedia cache or reviews opened."
+ ]
+}

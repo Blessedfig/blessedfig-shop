@@ -1,0 +1,94 @@
+{
+ "anilist_id": 49671,
+ "title": "Angel Beats!: Heaven’s Door",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/49671",
+  "https://api.mangaupdates.com/v1/series/40898669382"
+ ],
+ "premise": "In a school-like world after death, Yuri leads the Shinda Sekai Sensen (SSS) in rebellion against the god who gave her an unreasonable life, using guns against Tenshi, the student-council chair with supernatural powers (AniList blurb). Based on the Angel Beats! Track Zero novel and tied to the Angel Beats! anime (AniList; MU). Eleven volumes, complete; MU notes the English version was dropped.",
+ "life_message": "Those dealt unfair lives refuse to accept fate quietly and find meaning together.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Neutral", "note": "SSS fight angels with firearms (blurb); MU Blood and Gore, Violence; AniList Guns."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Tragic pasts (MU Tragic Past; AniList Tragedy); database only (to verify)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "MU Romance genre; AniList LGBTQ+ Themes, content unknown (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Characters are dead and carry tragic pasts (MU; blurb); details not given (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Students with guns; black humor (MU)."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Part of a multimedia franchise (MU Based on an Anime)."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+  {"lens": "Absurdism", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Rebellion against God and fate; afterlife as a school; comradeship",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 6},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 7, "sanctity": 3, "authority": 2, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Takes death, judgment and the meaning of suffering seriously.", "concerns": "Heroes wage armed war on a god and angels."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Questions of suffering raised.", "concerns": "Rebellion against God celebrated; invented afterlife."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Death is real and life matters.", "concerns": "Afterlife and angels contrary to Scripture; fighting God."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Honest anger at suffering, as in lament.", "concerns": "War on God as heroic."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Spiritual world taken as real.", "concerns": "Angels as enemies; rebellion against God."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Raises providence and suffering.", "concerns": "Sovereignty of God defied as heroism."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Theodicy questions worth discussing.", "concerns": "Invented afterlife; violence."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Comradeship and care among the dead.", "concerns": "Rebellion against God."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Imaginative afterlife fiction.", "concerns": "Moral vision of defying God."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Friendship among the SSS.", "concerns": "Armed violence as heroism."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Life after death and growth continue.", "concerns": "Rebellion against God; violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Protest against unjust suffering.", "concerns": "Guns and violence."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Judgment after death acknowledged.", "concerns": "Defying God and fighting angels."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Karma and rebirth echoes (to verify).", "concerns": "Violence against divine figures."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Letting go of attachment to past lives (to verify).", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Questioning unjust authority.", "concerns": "Gun violence."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Challenges divine fate and seeks meaning.", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Loyalty within the group.", "concerns": "Anti-authority theme; mockery of faith."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Little in its message to affirm beyond comradeship.", "concerns": "Conscious dead contradict the sleep of death."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to affirm in its message.", "concerns": "Conscious afterlife, fighting God, violence."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Life continues beyond death.", "concerns": "Violence and fear."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Free search for meaning after suffering.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Autonomy against imposed fate.", "concerns": "Violence."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "The dead remain present.", "concerns": "Violence."},
+  {"frame": "Sikh", "grade": "C", "weight": "Significant", "aligns": "Courage and comradeship.", "concerns": "Rejection of God's will (hukam)."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Significant", "aligns": "The soul progresses after death.", "concerns": "Defiance of God; violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Spiritual beings continuing beyond death.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "S", "weight": "Minor", "aligns": "Rebellion against arbitrary divine authority, Milton-style.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Olam haba taken seriously.", "concerns": "Rebellion against God."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Arguing with God has precedent (Job).", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Protest against injustice.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Yuri answers an unfair fate by fighting (blurb)."},
+   "Order vs freedom": {"pos": 8, "evidence": "Rebellion against the afterlife's order and student council (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Comrades of the SSS, not family (blurb)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Defies divine and council authority (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Religious afterlife setting used to question God (blurb)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Band and school life (AniList Band)."}
+  },
+  "closest": ["The Far West", "English-speaking", "New Netherland"],
+  "japan": "An afterlife staged as a Japanese high school, with a student council as authority, reflects school-centered norms of rank and group belonging."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review read; rebellion theme comes from the blurb (to verify).",
+  "personified": [
+   {"character": "Yuri", "ideology": "Defiance of a god who assigns unfair lives", "role": "Hero", "treatment": "Sympathetic"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "Tenshi opposes the SSS, but sources do not show how her side is drawn (to verify)."
+ },
+ "winners_losers": "Yuri and the SSS carry the sympathy as rebels against fate; how Tenshi and the god are judged is not in the sources.",
+ "to_verify": [
+  "MU says English version dropped: license status",
+  "How suicide or causes of death appear in characters' pasts",
+  "AniList LGBTQ+ Themes tag",
+  "Gore level (MU Blood and Gore)",
+  "No review or Wikipedia text was available"
+ ]
+}

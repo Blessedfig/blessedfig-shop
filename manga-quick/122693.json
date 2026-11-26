@@ -1,0 +1,376 @@
+{
+ "anilist_id": 122693,
+ "title": "Clevatess",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/122693",
+  "https://api.mangaupdates.com/v1/series/15952708241",
+  "https://api.mangadex.org/manga/b16f2554-9525-4f2a-bbe4-5b75b6605176",
+  "https://www.animenewsnetwork.com/review/clevatess-maju-no-o-to-akago-to-shikabane-no-yusha/chapters-1/.228264"
+ ],
+ "premise": "Clevatess, King of Dark Beasts, kills thirteen heroes sent against him and destroys their kingdom; a dying woman begs him to raise her baby as a chance for humankind to prove it deserves to survive (Yen Press blurb). He revives the slain hero Alicia as an undead servant to help care for the child (ANN review). A dark fantasy in which the beast-king slowly grows in empathy toward humans.",
+ "life_message": "Even a destroyer can learn the worth of humanity through caring for a child, though humans show great cruelty too.",
+ "overall": 8,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 8,
+   "framing": "Shown with consequences",
+   "note": "'Gratuitous violence', body horror (ANN); a kingdom destroyed (blurb); MU Blood/War, AniList Gore."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "'Really emphasize the word dark' (ANN); tragedy and war (AniList)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 8,
+   "framing": "Condemned",
+   "note": "Sexual violence: ANN notes 'explicit rape' and child abuse; MU lists child rape, gang rape, sex slavery and forced prostitution. Shown as atrocity, not romance."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 5,
+   "framing": "Shown with consequences",
+   "note": "Characters contemplate suicide (ANN); trauma throughout."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Reviving the dead to serve (blurb)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime adaptation (MU)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Might makes right",
+   "strength": 4,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Nihilism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Secular humanism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Is humanity worth saving; found family across species; atrocity and empathy",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 8,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 3,
+  "authority": 3,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for an orphan; growth toward mercy.",
+   "concerns": "Explicit rape, child abuse, gore; necromancy."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Repentance-like growth in Clevatess.",
+   "concerns": "Atrocity imagery; raising the dead."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual violence, gore and undead servitude."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Protecting a child.",
+   "concerns": "Explicit rape and child abuse; necromancy."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demon king, necromancy and sexual violence."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Depravity of man shown truthfully.",
+   "concerns": "Graphic sexual violence."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Care for the weak.",
+   "concerns": "Graphic sexual violence and gore."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Graphic content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Moral question about human worth.",
+   "concerns": "Explicit rape and child abuse."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Extreme violence."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual violence and gore."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Condemns exploitation.",
+   "concerns": "Graphic depiction of abuse of the vulnerable."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual violence; sorcery."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Duty to protect a child.",
+   "concerns": "Tamasic violence and cruelty."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion growing in a destroyer.",
+   "concerns": "Extreme cruelty."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Condemns trafficking and abuse.",
+   "concerns": "Explicit rape and child abuse."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Empathy develops (ANN).",
+   "concerns": "Gratuitous violence."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Protecting the innocent.",
+   "concerns": "Gore and sexual violence."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Undead and cruelty."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Demons, undead and violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Fear and cruelty."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions human worth.",
+   "concerns": "Explicit abuse."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Nature-beast perspective.",
+   "concerns": "Harmful magic; abuse."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Nature spirit-like beast.",
+   "concerns": "Blood impurity throughout."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Defending the oppressed.",
+   "concerns": "Explicit sexual violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence and abuse."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rebellion against a corrupt king.",
+   "concerns": "Harm to children."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Necromancy; sexual violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Degrading content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Cruelty."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 7,
+    "evidence": "Clevatess answers attacks with annihilation."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Monster king rules his domain alone."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Found family of beast, baby and hero."
+   },
+   "Equality vs hierarchy": {
+    "pos": 7,
+    "evidence": "Kings and demon lords."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 4,
+    "evidence": "Magic and religion central (AniList)."
+   },
+   "Survival vs self-expression": {
+    "pos": 2,
+    "evidence": "War and survival."
+   }
+  },
+  "closest": [
+   "Cavalier",
+   "Tidewater",
+   "Orthodox Europe"
+  ],
+  "japan": "The demon-king-raises-a-human-child premise and dark medieval-fantasy setting are common in Japanese seinen fantasy."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN praises Clen growing 'more empathetic with each new encounter'; no moralising noted.",
+  "personified": [
+   {
+    "character": "Clevatess",
+    "ideology": "Humans must prove they deserve to survive",
+    "role": "Hero",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "Humanity's worth is tested through cruel and kind humans alike."
+ },
+ "winners_losers": "Clevatess, Alicia and the baby are sympathetic; abusive and corrupt humans are condemned.",
+ "to_verify": [
+  "ANN review covers WEBTOON chapters 1-21; check print volumes.",
+  "Extent and explicitness of sexual violence across volumes.",
+  "Language level."
+ ]
+}

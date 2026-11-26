@@ -1,0 +1,362 @@
+{
+ "anilist_id": 30246,
+ "title": "Princess Princess",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30246",
+  "https://api.mangaupdates.com/v1/series/62237314069"
+ ],
+ "premise": "Toru Kouno transfers to an all-boys boarding school and gets a suspiciously warm welcome. The school has a 'Princess' system: chosen boys must dress as girls at every school event to cheer up the students, and Toru is chosen. A gender-bending school comedy that also touches on family drama and adoption (DMP blurb via AniList; MangaUpdates).",
+ "life_message": "A good life means friendship and finding your place, even in roles you did not choose.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Admiration from classmates; unrequited and obsessive crushes (MangaUpdates); no sexual content noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Family drama and adoption (AniList, MangaUpdates)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Cross-dressing as school role."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Anime adaptation exists."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Postmodernism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Communitarianism; Expressive individualism; Postmodernism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 4,
+  "loyalty": 4,
+  "fairness": 5,
+  "sanctity": 5,
+  "authority": 6,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and family reconciliation.",
+   "concerns": "Boys cross-dressing; same-sex crushes."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing as comedy."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyal friends.",
+   "concerns": "Cross-dressing, same-sex admiration."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friends support Toru.",
+   "concerns": "Gender-bending comedy."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family healing.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family themes.",
+   "concerns": "Gender roles blurred."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Belonging.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Light school comedy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Community belonging.",
+   "concerns": "Cross-dressing; school spectacle."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family and friendship.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Playful view of gender roles.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing (forbidden imitation of the other sex)."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family duty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Equanimity in odd roles.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gender play without mockery? (to verify).",
+   "concerns": "Possible gags at queerness."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Humor and friendship.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship and school spirit.",
+   "concerns": "Gender roles blurred."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing; same-sex admiration."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Cheerfulness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Playful gender expression.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Fluid gender roles.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "School festivals (matsuri spirit).",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Unity.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Belonging.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mocks conventions.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing (Deuteronomy 22:5)."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Friendship.",
+   "concerns": "Cross-dressing."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gender-role play.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Social roles, not fights."
+   },
+   "Order vs freedom": {
+    "pos": 3,
+    "evidence": "School system assigns roles."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Family drama matters (MangaUpdates)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Student council ranks (MangaUpdates)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern school."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Performance and expression."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "Latin America"
+  ],
+  "japan": "All-boys-school customs and assigned roles reflect Japanese school-tradition settings, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values carried by comedy and friendship."
+ },
+ "winners_losers": "Toru and his fellow princesses find belonging; outcome to verify.",
+ "to_verify": [
+  "No review opened",
+  "Whether same-sex attraction is played for gags to verify",
+  "Family drama details not confirmed"
+ ]
+}

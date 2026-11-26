@@ -1,0 +1,95 @@
+{
+  "anilist_id": 31456,
+  "title": "Until Death Do Us Part",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/31456",
+    "https://www.mangaupdates.com/series/evwtzyo",
+    "https://en.wikipedia.org/wiki/Until_Death_Do_Us_Part_(manga)",
+    "https://www.animenewsnetwork.com/review/until-death-do-us-part/gn-1"
+  ],
+  "premise": "Twelve-year-old Haruka Tōyama, whose precognition makes her a prize for criminal corporations, escapes her kidnappers by running to a blind swordsman, Mamoru Hijikata, and hiring him to protect her 'until death do us part.' Mamoru, who sees through special lenses, belongs to the Element Network, a secret vigilante group that punishes criminals the law cannot reach. Haruka helps the Network fight the mercenaries and assassins hunting her. A 26-volume seinen action thriller.",
+  "life_message": "Protecting the vulnerable justifies standing outside the law when the law fails.",
+  "overall": 5,
+  "content": [
+    {"category": "Violence", "score": 5, "framing": "Endorsed", "note": "Sword fights, explosions, assassins and mercenaries (ANN, Wikipedia); Assassins, Armed Combat (MangaUpdates); MangaUpdates genre Mature."},
+    {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "A child repeatedly kidnapped and hunted (Wikipedia, ANN)."},
+    {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "ANN: no fan service; MangaUpdates tags Age Gap and Subtle Romance between the adult and the child (to verify)."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Crime thriller setting (to verify)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Not reported."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Orphaned child's trauma (ANN)."},
+    {"category": "Imitable behavior", "score": 2, "framing": "Endorsed", "note": "Vigilante justice by the Element Network (ANN, Wikipedia)."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Might makes right", "strength": 4, "stance": "Explored"},
+    {"lens": "Utilitarianism", "strength": 4, "stance": "Explored"},
+    {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Transhumanism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Vigilante justice; protector and protected; ethics of using a child's gift",
+  "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+  "foundations": {"care": 7, "loyalty": 7, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Mamoru's protection of an orphaned child.", "concerns": "Vigilante killing outside legitimate authority; adult-child romantic hints (to verify)."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Guarding the innocent Haruka.", "concerns": "Killing presented as heroic without repentance."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Rescue of the vulnerable.", "concerns": "Revenge-like punishment by Element Network; violence."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Courage for the defenseless.", "concerns": "Ends justify means."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Protection of a child.", "concerns": "Precognition as a gift used in battle."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Justice against criminals.", "concerns": "Private sword usurping the magistrate's role."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Protector as neighbor-love.", "concerns": "Two-kingdoms: vigilantes outside lawful authority."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Defending the oppressed child.", "concerns": "Violence as solution."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Clear stakes of good versus corporate evil.", "concerns": "Vigilantism."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Concern for the weak.", "concerns": "Heroic sword killing throughout."},
+    {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Protecting a child; defense in just cause.", "concerns": "Violence; mature content."},
+    {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Disabled hero; critique of corporate exploitation.", "concerns": "Glorified violence and vigilantism."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Protecting an orphan (a valued duty).", "concerns": "Fortune-telling-like precognition; killing outside law."},
+    {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Dharma of a protector.", "concerns": "Violence."},
+    {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Compassion for Haruka.", "concerns": "Killing as resolution."},
+    {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Blind protagonist; anti-exploitation.", "concerns": "Vigilantism; adult-child romance tags."},
+    {"frame": "Secular humanist", "grade": "C", "weight": "Discuss", "aligns": "Questions about using a child's abilities (ANN).", "concerns": "Due process bypassed."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Courageous protector, defense of the innocent.", "concerns": "Undermines lawful authority."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Care for the child.", "concerns": "Violence; prophecy-like powers."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Protecting the defenseless.", "concerns": "Violent entertainment (Psalm 11:5)."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Disability overcome.", "concerns": "Violence and fear."},
+    {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Worth of the exploited child.", "concerns": "Vigilante killing."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Self-defense.", "concerns": "Harm beyond defense."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity of Mamoru's vow.", "concerns": "Bloodshed (kegare)."},
+    {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed with the sword.", "concerns": "Vengeance edges."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Protecting a child.", "concerns": "Violence; disobedience to government."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Survival of the group.", "concerns": "Illegal acts."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Proportionate retaliation against predators.", "concerns": "Child endangered."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Pikuach nefesh: saving a life.", "concerns": "Killing beyond self-defense."},
+    {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Self-defense of the vulnerable.", "concerns": "Vigilantism."},
+    {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Justice against exploiters.", "concerns": "Glorified violence."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 7, "evidence": "Wrongs answered by the Network's own justice rather than courts (ANN)."},
+      "Order vs freedom": {"pos": 6, "evidence": "A private network acting outside the law."},
+      "Civic vs kin": {"pos": 5, "evidence": "Contract bond between protector and girl, not family."},
+      "Equality vs hierarchy": {"pos": 5, "evidence": "Organized paramilitary network with partners."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "High-tech sci-fi gadgets and scientists (ANN)."},
+      "Survival vs self-expression": {"pos": 3, "evidence": "Constant survival against pursuers (MangaUpdates Survival)."}
+    },
+    "closest": ["Orthodox Europe", "The Far West", "El Norte"],
+    "japan": "Blends samurai sword tradition (koryū swordsmanship) with near-future Tokyo crime fiction typical of seinen thrillers."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "ANN finds no stated message; themes emerge through action and gradual plot reveals.",
+    "personified": [
+      {"character": "Element Network", "ideology": "vigilante justice where law fails", "role": "Hero", "treatment": "Sympathetic"}
+    ],
+    "opposing_views": "None shown",
+    "note": "The pursuers are greedy criminals rather than voices for lawful order, so the case against vigilantism is not argued in the sources."
+  },
+  "winners_losers": "Mamoru, Haruka and the Element Network prevail over corporations and assassins; sympathy goes to the vigilantes.",
+  "to_verify": [
+    "Romantic subplot between adult Mamoru and child Haruka (MangaUpdates Age Gap, Subtle Romance; ANN vol. 1 says it is not a romance).",
+    "Gore level in later volumes.",
+    "Yen Press published 13 omnibus volumes (complete)."
+  ]
+}

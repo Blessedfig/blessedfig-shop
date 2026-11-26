@@ -1,0 +1,92 @@
+{
+ "anilist_id": 101335,
+ "title": "Sengoku Komachi Kurotan",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/101335",
+  "https://api.mangaupdates.com/v1/series/20917110527"
+ ],
+ "premise": "Shizuko Ayanokoji, a history-loving student at an agricultural high school, is suddenly transported back to the Sengoku period and captured by Oda Nobunaga's army; she vows to prove her farming expertise to him (emaqi blurb via AniList). MangaUpdates tags describe her using modern knowledge to improve farming, villages and invention in an alternate history, alongside war and strategy. An ongoing seinen adaptation of a web novel; the English release is from emaqi.",
+ "life_message": "It holds up practical knowledge, hard work and making yourself useful as the way to survive and improve the world.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Neutral", "note": "Sengoku warfare (AniList War, Military; MangaUpdates War/s, Strategic Battles, Warrior/s). Intensity not described (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Captured by an army in a violent era (blurb)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MangaUpdates lists Attempted Rape and Child Bride (period marriage customs); context not described (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing noted (food and farming focus)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Workaholic tag (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Pragmatism", "strength": 6, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Explored"},
+  {"lens": "Environmentalism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Practical knowledge and work, service to a warlord, survival in history",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 4, "sanctity": 3, "authority": 7, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Work that feeds people; Shizuko's diligence serves the common good.", "concerns": "Service to Nobunaga's wars; Attempted Rape and Child Bride tags."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Humble labor and patience.", "concerns": "War setting; tagged sexual threat."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Hard work and usefulness.", "concerns": "Warfare; period sexual themes tagged."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Using gifts to serve others.", "concerns": "Ghosts tag (AniList); war."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Diligence and provision.", "concerns": "Supernatural genre and ghost elements (to verify)."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation and cultural improvement through farming.", "concerns": "Serving a warlord's ambitions."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation in daily work honored.", "concerns": "War."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Works of mercy through food and farming.", "concerns": "Workaholic tag."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Historical fiction with a practical heroine.", "concerns": "Little to raise beyond war."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Agrarian life, simplicity, mutual aid.", "concerns": "Knowledge put to a warlord's use; battles."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Self-reliance and preparedness.", "concerns": "War."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Smart female lead in a sexist era (MangaUpdates Sexism).", "concerns": "Child Bride tag; serving conquest."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Honest work and stewardship of the land.", "concerns": "War; tagged sexual threat."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty and service to one's lord.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Right livelihood through farming.", "concerns": "Supporting war."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Competent woman advancing through knowledge.", "concerns": "Child Bride and Attempted Rape tags."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Science and agronomy improve lives.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Hard work, loyalty and national history.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Healthful food and diligence.", "concerns": "Ghost elements (to verify)."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Honest labor.", "concerns": "Serving a military power; ghosts."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Resourcefulness.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Learning and improving communities.", "concerns": "Period sexism."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Working with the land and seasons.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Rice farming, village life and Japanese history.", "concerns": "War deaths."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Kirat karni: honest work.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Work as worship; agriculture valued.", "concerns": "War."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence and survival.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-reliance.", "concerns": "Subservience to a lord."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Work and provision.", "concerns": "Period sexual themes tagged."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Knowledge and service.", "concerns": "War."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Repairing the world through skill.", "concerns": "Serving conquest."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Shizuko proves worth by skill, not combat (blurb)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Works within Nobunaga's command (blurb)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Village and domain welfare (MangaUpdates Village/s)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Serves a warlord; servants and samurai ranks (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern agronomy and invention applied to the past (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 2, "evidence": "Premise is simply to survive the Sengoku era (MangaUpdates)."}
+  },
+  "closest": ["Confucian", "Orthodox Europe", "South and Southeast Asia"],
+  "japan": "It reflects the Japanese fascination with Oda Nobunaga and a lord-retainer ethic of loyal, useful service."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; delivery inferred from blurbs (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources do not describe how the story delivers its themes."
+ },
+ "winners_losers": "Shizuko's practical knowledge wins her a place; outcomes beyond that are not described (to verify).",
+ "to_verify": [
+  "Context of the Attempted Rape and Child Bride tags (MangaUpdates).",
+  "War intensity.",
+  "Ghost and Supernatural elements (AniList).",
+  "MangaUpdates lists a third author (HIRASAWA Geko) not in the batch data; creators otherwise match."
+ ]
+}

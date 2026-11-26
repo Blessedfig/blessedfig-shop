@@ -1,0 +1,92 @@
+{
+ "anilist_id": 31009,
+ "title": "Honey and Clover",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://en.wikipedia.org/wiki/Honey_and_Clover",
+  "https://anilist.co/manga/31009",
+  "https://www.mangaupdates.com/series/3t5fk7p"
+ ],
+ "premise": "Art-college students Takemoto, Mayama and Morita share an apartment complex in Tokyo and meet Hagu, a shy, gifted first-year who lives with her relative, Professor Hanamoto. Their circle grows to include potter Ayumi Yamada, who loves Mayama, while Mayama pursues Rika, an older widowed architect. The story follows love triangles, unrequited love, graduation, job hunting and the search for who they are.",
+ "life_message": "Growing up means loving honestly even when love is not returned, and finding work and a self worth giving your life to.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "None noted beyond comic slapstick (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "AniList tags Tragedy and Rehabilitation; emotional setbacks (to verify)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Love triangles, unrequited love, an older-woman pursuit and an Age Gap tag (Wikipedia, AniList); explicitness not described (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "College banter; not described."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Yamada's family runs a liquor store; AniList tags Bar; adult drinking (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "MangaUpdates lists Depression and Search for Oneself (to verify)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Mayama's persistent pursuit of Rika; Morita's teasing of Hagu (Wikipedia)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Art-world careers; nothing notable."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 5, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Coming of age; unrequited love; art and vocation; friendship",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 4, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Self-giving love and art as a path to beauty.", "concerns": "Romantic pursuits outside a marriage frame; adult drinking."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Patience in suffering unreturned love.", "concerns": "Attachments that feed the passions."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Faithful friendship among the five students.", "concerns": "Drinking and romance in a secular frame."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Honest picture of young adults seeking purpose.", "concerns": "Purpose found apart from faith."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Perseverance and hope through setbacks.", "concerns": "Worldly college life."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Common grace in art and work; Kodansha award-winning craft.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Finding one's vocation after graduation.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Friends carrying one another's burdens.", "concerns": "Alcohol around the liquor store and bar."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Literary, humane exploration of love and growth.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Simple student poverty and shared meals.", "concerns": "Worldly ambitions and romance."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Kindness and loyalty among friends.", "concerns": "Alcohol shown as normal."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Care for friends with depression and loss.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience (sabr) in disappointment.", "concerns": "Free mixing, dating and alcohol."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Respect for teachers like Professor Hanamoto.", "concerns": "Romantic attachment as the main pursuit."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Clinging and impermanence of young love shown truthfully.", "concerns": "Drinking."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Women artists like Hagu and Yamada given full arcs.", "concerns": "Mayama's persistent pursuit may read as boundary-crossing."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Meaning made in this life through art and friendship.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Hard work, family business and growing up.", "concerns": "Little guidance from faith or family."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Education and earnest craft.", "concerns": "Alcohol in the setting."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Clean, nonviolent story of friendship.", "concerns": "Dating culture."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Healing and recovery as a theme.", "concerns": "Depression shown as heavy."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Free search for meaning and self.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Creativity and personal responsibility.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity in craft (pottery, sculpture).", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work and sharing.", "concerns": "Alcohol."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Art practiced in a spirit of service.", "concerns": "Alcohol."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Overcoming setbacks to gain ability.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Individual self-realization and enjoying life.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Chesed among friends.", "concerns": "Romance outside tzniut norms; time-wasting by its standards."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kind speech and lifelong learning.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Ethical growth and community.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Conflicts are inner and romantic, never feuds (Wikipedia)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Students choose loves, careers and selves freely."},
+   "Civic vs kin": {"pos": 4, "evidence": "Chosen friends matter more than family; Yamada's family business a minor thread."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Friend group of equals; professors as warm mentors."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular art-school world; no religion noted."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Art, self-discovery and feelings at the center (MangaUpdates Search for Oneself)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "The job-hunting pressure after graduation and senpai-kohai ties in college reflect Japanese norms."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Summaries describe an ensemble slice of life with no stated thesis (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values emerge from characters' choices in love and work without a narrator's verdict."
+ },
+ "winners_losers": "No clear winners; each character gains self-knowledge, and unrequited love is treated with sympathy.",
+ "to_verify": [
+  "What the Age Gap tag refers to and how it is framed",
+  "Depth of depression and rehabilitation storylines",
+  "No parent or critic review of the manga opened; Viz age rating not checked"
+ ]
+}

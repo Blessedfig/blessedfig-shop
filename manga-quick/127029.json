@@ -1,0 +1,92 @@
+{
+  "anilist_id": 127029,
+  "title": "My Quiet Blacksmith Life in Another World",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/127029",
+    "https://api.mangaupdates.com/v1/series/43318975498",
+    "https://en.wikipedia.org/wiki/My_Quiet_Blacksmith_Life_in_Another_World",
+    "https://suitablefortreatment.mangabookshelf.com/2022/10/24/my-quiet-blacksmith-life-in-another-world-vol-4"
+  ],
+  "premise": "Eizo, a burned-out middle-aged software engineer, dies saving a cat that turns out to be a god-like being. Reborn in a fantasy world, he asks for a quiet life making things as a blacksmith with a cat companion; his smithing turns out overpowered, and the 'cat' is a tiger-like beastwoman, Samya, who joins a growing household (Wikipedia; J-Novel Club text via AniList and MangaUpdates; light-novel review).",
+  "life_message": "A good life is made by honest craft, a household of friends and doing useful work for others at a sustainable pace.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Weapon-making and occasional fights such as a bear (novel review); MU Injury."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Calm slow-life tone (novel review)."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "MU Nudity, Big Breasts, Harem genre; AniList Nudity 30; MangaDex suggestive; capped at 3 (to verify)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+    {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Overwork burnout as backstory (publisher text)."},
+    {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Selling blades (publisher text)."}
+  ],
+  "lenses": [
+    {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "slow life and craftsmanship; found family; escape from overwork",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 7, "loyalty": 6, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Dignity of manual work; self-sacrifice to save a cat.", "concerns": "Fan service and harem genre (MU)."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Simplicity and quiet labor.", "concerns": "Nudity may feed passions."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Diligence and honest trade.", "concerns": "Unmarried mixed household; nudity."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Work as service to others.", "concerns": "Fan service."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Humble craft.", "concerns": "God-like cat; magic; nudity."},
+    {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Vocation as calling.", "concerns": "Lascivious imagery if present."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Vocation: serving neighbors through a trade.", "concerns": "Mild fan service."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Doing good through useful work.", "concerns": "Fan service."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle domestic fantasy.", "concerns": "Little."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Simple craft life, community, rejecting the rat race.", "concerns": "Weapons-making for war (publisher text)."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Self-reliance and work.", "concerns": "Immodesty."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Work-life balance; inclusive household.", "concerns": "Male-gaze fan service."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Honest livelihood.", "concerns": "Unrelated women in household; nudity."},
+    {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Svadharma of a craftsman; rebirth.", "concerns": "Little."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Right livelihood and calm.", "concerns": "Weapons trade."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Critique of overwork.", "concerns": "Sexualized beastgirl designs."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Satisfying, rational craft.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Craftsmanship and self-sufficiency.", "concerns": "Fan service."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Simple rural living.", "concerns": "Immodesty; reincarnation."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Industriousness.", "concerns": "Magic; immodesty."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Peaceful mental outlook.", "concerns": "Little."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Chosen family across species.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Forge craft and nature living.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Reverence for craft (monozukuri) and a cat-spirit benefactor.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Kirat karni: honest labor.", "concerns": "Immodesty."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Work as worship.", "concerns": "Modesty."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Competence and production.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Living for one's own satisfaction.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Dignity of labor.", "concerns": "Tzniut; mixed household."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Honest work.", "concerns": "Mild fan service."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Balanced life.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Avoids conflict; rescue resolved without fights (novel review)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Chooses an independent quiet life (publisher text)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Growing household as chosen family (AniList Found Family)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Informal household of equals."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Engineer's mindset applied to craft."},
+      "Survival vs self-expression": {"pos": 5, "evidence": "Work and comfort balanced."}
+    },
+    "closest": ["The Midlands", "Catholic Europe", "The Far West"],
+    "japan": "The escape from karoshi-style overwork into 'slow life' craft (monozukuri) is a common Japanese isekai wish-fulfilment, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "Light-novel review describes calm slice-of-life with no messaging; manga not reviewed (to verify).",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Values emerge from daily routine rather than statements."
+  },
+  "winners_losers": "Eizo and his household thrive; no worldview is cast as the loser.",
+  "to_verify": [
+    "Fan-service level in the manga (MU Nudity)",
+    "Opened review covers the light novel, not the manga",
+    "Empire uprising arc and violence"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+ "anilist_id": 30052,
+ "title": "Whistle!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30052",
+  "https://www.mangaupdates.com/series/8bqe7ch"
+ ],
+ "premise": "Sho Kazamatsuri, cut from his school soccer team for being too short, transfers to Josui Junior High, where he is mistakenly introduced as a star player; when the truth comes out he trains alone, working twice as hard, and grows into a team leader (Viz blurbs via AniList and MangaUpdates). A 24-volume middle-school soccer series with tournaments and rivalries.",
+ "life_message": "It holds up hard work, honesty and teamwork as the way to reach a dream despite physical limits.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Sports contact and injuries (MangaUpdates Injury/ies)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Competitive tension only."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "None noted in sources (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Rejection for his height; dead and adoptive parents in backstories (MangaUpdates Dead Parent/s, Adopted Child/ren)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Shown with consequences", "note": "Letting a false reputation stand leads to trouble (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime and stage-play adaptations (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Perseverance and teamwork",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 5, "loyalty": 7, "fairness": 7, "sanctity": 2, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Sho's perseverance and honesty after the mistaken-star mix-up.", "concerns": "Little beyond competitive pride."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Humble, disciplined effort after being rejected for his height.", "concerns": "Ambition for glory could feed pride."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Diligence and teamwork at Josui Junior High.", "concerns": "Little to raise."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Overcoming limits through effort is an easy faith conversation.", "concerns": "Sports as identity."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Perseverance and encouragement among teammates.", "concerns": "Little to raise."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Vocation-like diligence in training alone.", "concerns": "Glory in self rather than God."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Serving the team as a calling.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Steady discipline and mutual accountability on the team.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Fair play and fellowship.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Community effort over individual stardom.", "concerns": "Competitive rivalry and worldly sport culture."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Hard work, honesty and self-improvement.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion of a player others wrote off.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "A", "weight": "Minor", "aligns": "Patience (sabr) and effort.", "concerns": "Little to raise."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Effort without giving up, close to karma yoga.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Right effort and humility after rejection.", "concerns": "Attachment to winning."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Challenges exclusion based on body size.", "concerns": "Mostly male cast."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Achievement through effort and practice.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "S", "weight": "Minor", "aligns": "Grit, discipline and team loyalty.", "concerns": "Little to raise."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Healthy, disciplined sport.", "concerns": "Tournaments may fall on the Sabbath, a family talking point."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Honesty and cooperation.", "concerns": "Intense competitive spirit."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Refusing to accept limits.", "concerns": "Injuries treated physically."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every player regardless of size.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal responsibility for growth.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincere effort and team harmony.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Honest effort (kirat) and humility.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Unity and service in a team.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Personal competence and integrity.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-reliance in training alone.", "concerns": "Team over individual emphasis."},
+  {"frame": "Orthodox Jewish", "grade": "A", "weight": "Minor", "aligns": "Diligence and honesty.", "concerns": "Time-consuming entertainment (bittul Torah) at most."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Perseverance and community.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and effort.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Rivalry settled on the field by rules (MangaUpdates Tournament/s)."},
+   "Order vs freedom": {"pos": 3, "evidence": "Team discipline and training regimens (MangaUpdates Training, Teamwork)."},
+   "Civic vs kin": {"pos": 4, "evidence": "School team as the community; family backstories secondary (tags)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Team captaincy and seniority; Sho becomes a leader (AniList blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Practical training and strategy, no religious frame."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Pursuing a personal dream through hard work (Viz blurb)."}
+  },
+  "closest": ["Yankeedom", "Catholic Europe", "Puritan"],
+  "japan": "Reflects Japanese school club culture, with senpai-kohai seniority and the team as a group one serves."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found; blurbs show the message carried by Sho's training arc (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The effort-and-teamwork message is carried by the sports plot."
+ },
+ "winners_losers": "Hard-working, honest players win respect; the view that small players cannot compete loses.",
+ "to_verify": [
+  "Any romance, language or bullying content; no review was opened.",
+  "Whether the English Viz run covers all 24 volumes."
+ ]
+}

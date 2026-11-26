@@ -1,0 +1,96 @@
+{
+ "anilist_id": 100704,
+ "title": "Life Lessons with Uramichi Oniisan",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/100704",
+  "https://www.mangaupdates.com/series/wg93ki",
+  "https://en.wikipedia.org/wiki/Life_Lessons_with_Uramichi_Oniisan"
+ ],
+ "premise": "Uramichi Omota, a 31-year-old former gymnast, leads the exercise segment of a cheerful children's TV show. On camera he smiles, but his jaded, worn-out outlook keeps slipping into what he tells the kids, while his co-stars in animal suits and the singing hosts have their own adult frustrations.",
+ "life_message": "Adult life is tiring and disappointing, and laughing about it with coworkers helps you keep going.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Slapstick only; none documented."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Dark mood, not frightening."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Singing host Iketeru's childish dirty jokes; a co-host lives with a boyfriend."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Cynical remarks to children; one ANN anime critic found the humor toward kids inappropriate (anime review)."},
+  {"category": "Substances", "score": 3, "framing": "Neutral", "note": "Uramichi smokes and drinks heavily (Wikipedia; MU Alcoholic)."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Neutral", "note": "Depression and nihilism played for black comedy (Wikipedia; MU Depression, Black Humor)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Two-faced professional persona; telling kids life is pain, as a joke."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Parody of the children's TV industry."}
+ ],
+ "lenses": [
+  {"lens": "Absurdism", "strength": 6, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 5, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Absurdist workplace satire; adult disillusionment; nihilism as joke",
+ "axes": {"economic": 5, "social": 5, "cultural": 6, "community": 5},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Faithful daily work for children despite weariness; coworkers bear one another.", "concerns": "Despair and nihilism treated as wit; heavy drinking."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Minor", "aligns": "Shows acedia (spiritual listlessness) honestly in a modern adult.", "concerns": "No path out of despair offered; mockery of innocence."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Keeps showing up to serve kids; no glamor in sin.", "concerns": "Drinking, smoking, crude jokes and hopeless outlook."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Minor", "aligns": "Honest about adult emptiness, a talking point for hope.", "concerns": "Cynicism toward children played for laughs."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Exposes the gap between public smile and inner life.", "concerns": "Alcohol and tobacco habits; bleakness."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Ecclesiastes-like vanity of toil; vocation endured faithfully.", "concerns": "No glory beyond the grind."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation done even when joyless; honest about sinners at work.", "concerns": "Drinking habit; despair humor."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Coworkers' mutual care in a hard job.", "concerns": "Heavy drinking and smoking normalized."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Dry satire with a humane view of tired workers.", "concerns": "Nihilistic jokes aimed at children."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Minor", "aligns": "Critique of entertainment-industry falseness.", "concerns": "Worldly media workplace; vulgar humor."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Work and service to children.", "concerns": "Alcohol and tobacco central to the lead; despair."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Sympathy for overworked, underpaid adults; mental strain named.", "concerns": "Burnout not addressed with care."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Patience (sabr) in dull work; kindness among colleagues.", "concerns": "Alcohol use; hopeless speech."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Doing one's duty without attachment to reward, in a comic key.", "concerns": "Tamasic gloom and intoxicants."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Dukkha of adult life named plainly.", "concerns": "Craving and intoxicants without a path beyond them."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Satire of exploitative workplaces; women hosts' career struggles.", "concerns": "Depression played for laughs without support."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Finds meaning in humor and colleagues without illusions.", "concerns": "Little mental-health framing."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Hard work and showing up regardless of mood.", "concerns": "Cynicism toward childhood and authority; drinking."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Exercise and health segment at the center of the show.", "concerns": "Tobacco and alcohol habits; despairing outlook."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Minor", "aligns": "Honesty about worldly futility.", "concerns": "Crude jokes and smoking."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Gratitude glimpses among coworkers.", "concerns": "Dwells on misery as a mental habit."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Inherent worth of ordinary tired workers; honesty about feeling.", "concerns": "Kids receive adult bitterness."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Personal responsibility for one's own life.", "concerns": "Little sense of joy or balance."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Group harmony maintained at work despite private feelings.", "concerns": "Insincere public persona against makoto."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Honest work (kirat karni) even when hard.", "concerns": "Tobacco and alcohol habits."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Minor", "aligns": "Work done in service of children.", "concerns": "Alcohol; backbiting gags among coworkers."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Minor", "aligns": "Keeps functioning and communicating at work.", "concerns": "Depression without handling; drinking."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Mocks enforced cheerfulness; candid about self-interest.", "concerns": "None notable within this frame."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Duty kept; a mirror on time wasted.", "concerns": "Nivul peh and cynical speech before children."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Humor about human limits.", "concerns": "Harsh speech toward kids."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Empathy for burned-out workers.", "concerns": "Mental strain unaddressed."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Slights at work are muttered about, not answered."},
+   "Order vs freedom": {"pos": 5, "evidence": "TV studio rules kept outwardly while privately resented."},
+   "Civic vs kin": {"pos": 4, "evidence": "Coworker bonds matter more than family, which is barely shown."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "College senpai-kohai ties among Uramichi, Tobikichi and Mitsuo."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular office life; no religious frame."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Job security weighed against dashed dreams (gymnast, singer careers)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "It parodies Japan's long-running public children's TV shows and the senpai-kohai bonds of college clubs that carry into work."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "ANN's Silverman describes a mix of humor and cynicism; cynical lines are gags, not lessons.",
+  "personified": [
+   {"character": "Uramichi Omota", "ideology": "worn-out adult nihilism", "role": "Hero", "treatment": "Sympathetic"},
+   {"character": "Iketeru (singing host)", "ideology": "dense, childlike cheerfulness", "role": "Foil", "treatment": "Fair"}
+  ],
+  "opposing_views": "Mixed",
+  "note": "The cynicism is the joke rather than an argued thesis, and cheerful characters are teased but not mocked as foolish."
+ },
+ "winners_losers": "No one really wins; tired adults get sympathy and the children's-TV ideal of cheer is gently mocked.",
+ "to_verify": [
+  "Exact language level in the Kodansha translation",
+  "Reviews cited partly cover the anime, not the manga (ANN episode reviews)",
+  "Whether any arc offers Uramichi a hopeful turn"
+ ]
+}

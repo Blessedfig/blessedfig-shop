@@ -1,0 +1,92 @@
+{
+ "anilist_id": 30098,
+ "title": "Rozen Maiden",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30098",
+  "https://api.mangaupdates.com/v1/series/58766173180",
+  "https://www.animenewsnetwork.com/seasonal/2025/spring/rozen-maiden-collector-edition/.223208"
+ ],
+ "premise": "After cruelty from classmates, middle-schooler Jun Sakurada shuts himself in his room. A living doll, the imperious Shinku, arrives and makes him her servant, pulling him into the Alice Game, in which seven Rozen Maiden dolls fight to become the perfect doll. The dolls, his sister Nori and a class representative all push Jun to rejoin the world (Seven Seas blurb; ANN Spring 2025 Manga Guide).",
+ "life_message": "Bonds with others, even demanding ones, can draw a hurt person out of isolation.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Dolls clash using human mediums (ANN); AniList Battle Royale; not a focus per reviewers."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Attacks and a dangerous game (blurb)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "ANN reviewer calls its moe indulgence 'unsavory' for its target audience; no sexual tags. Rated T."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Rated T (ANN); bickering."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Tea only (MU Tea)."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Jun is a shut-in after classmates' cruelty (blurb; ANN; AniList Hikikomori, Rehabilitation)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Nori-Jun teasing ANN calls 'mean'."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Collector's edition; doll and Gothic Lolita aesthetic."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Recovery from isolation; rivalry among sister dolls; quest for perfection",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 4, "sanctity": 4, "authority": 5, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Community, sister and companions bring Jun back to life.", "concerns": "Animated dolls and a quest for perfection apart from God."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Healing through relationship, not isolation.", "concerns": "Ensouled dolls and contracts as spiritual imagery."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Jun's rescue from despair.", "concerns": "Magic contracts with living dolls."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Love that persists toward a withdrawn boy (Nori).", "concerns": "Occult-flavored doll battles."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Restoration of a broken young man.", "concerns": "Contracts binding a human to spirit-dolls."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Common-grace art praised by reviewers.", "concerns": "Pursuit of a 'perfect' being."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation as Jun learns to serve others.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Social holiness: others draw Jun outward.", "concerns": "Moe indulgence ANN notes."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Carroll-inspired fantasy (ANN) with moral growth.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Community restoring a member.", "concerns": "Battles to the end between sisters."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family support and growth through trial.", "concerns": "Magic contracts."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Compassion toward a bullied shut-in.", "concerns": "Dated tsundere and teasing (ANN)."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Sibling care.", "concerns": "Ensouled human figures and magic."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty and service as healing.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Craving for perfection (becoming Alice) causes conflict.", "concerns": "Fighting among sisters."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Mental-health theme of withdrawal after bullying.", "concerns": "Moe aimed at lonely men (ANN)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Human connection as recovery.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Duty, manners (Shinku's demands) and returning to school.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Recovery of wholeness.", "concerns": "Spirits in dolls."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Family love.", "concerns": "Spiritism-like living dolls and magic battles."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Overcoming fear and isolation.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of a withdrawn person.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Animate objects and pacts handled as wonder.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Objects with spirit, akin to tsukumogami.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Service (seva) pulls Jun out of ego.", "concerns": "Magic."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity and service.", "concerns": "Rivalry battles."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication restores Jun.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individual striving.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Sibling chesed.", "concerns": "Animated figures and magic; bittul Torah."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Care and community.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Compassion for the bullied.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Dolls fight for status in the Alice Game (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Shinku demands service and decorum (blurb, ANN 'imperious')."},
+   "Civic vs kin": {"pos": 7, "evidence": "Sister Nori and the doll 'sisters' are the core bonds (ANN, MU Sibling Rivalry)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Jun made Shinku's servant; only one doll can become Alice (blurb)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Rococo, Gothic aesthetic and magic in modern Japan (ANN)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Recovery and survival balance doll fashion and self-expression."}
+  },
+  "closest": ["Latin America", "Orthodox Europe", "El Norte"],
+  "japan": "Hikikomori withdrawal after school bullying is a recognized Japanese social issue, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN: dolls, class rep and Nori 'work hard to pull Jun out'; neither reviewer calls it preachy.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Recovery is carried by relationships and events rather than stated lessons."
+ },
+ "winners_losers": "Jun and the dolls who bond with him are sympathetic; isolation is the real opponent.",
+ "to_verify": [
+  "This AniList entry is the original 2002-2007 run; Seven Seas is republishing it in collector's omnibuses, TokyoPop's edition is expired.",
+  "Later violence between dolls and Suigintou's role not confirmed from opened sources.",
+  "Jun's school trauma details are undisclosed in volume 1 (ANN)."
+ ]
+}

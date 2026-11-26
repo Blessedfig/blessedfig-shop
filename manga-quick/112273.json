@@ -1,0 +1,93 @@
+{
+ "anilist_id": 112273,
+ "title": "Welcome to the Outcast's Restaurant!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/112273",
+  "https://api.mangaupdates.com/v1/series/49786881856",
+  "https://www.animenewsnetwork.com/review/welcome-to-the-outcast-restaurant/anime-series/.229374"
+ ],
+ "premise": "Dennis, a popular member of the Silverwing Battalion, is expelled out of spite by the party leader and opens a restaurant for adventurers with Atelier, a young girl also exiled from her home (Kaiten Books blurb). The ANN anime review adds that Atelier was a slave and that Dennis gathers other outcasts, including Henrietta, who is the victim of a sexual assault. Manga adaptation of a light novel, 10 volumes ongoing (MU).",
+ "life_message": "People cast out by the powerful can build a found family and a good life through honest work and hospitality.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Condemned", "note": "Dungeon fights, a villain 'cruel towards small animals and people' (ANN anime); MU Revenge, Abuse of Power."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Slavery and assault plotlines (ANN anime; MU Human Trafficking, Human Auction)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Condemned", "note": "Attempted rape and gang-rape attempt (MU); 'violent sexual assault' and fan service (ANN, anime). MU also lists Pedophilia and Grooming (single source, to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Adventurers' restaurant; AniList Bar tag at low rank (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Outcasts' trauma; AniList Tragedy tag."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Cooking and rescue; revenge theme (MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Running a restaurant; anime tie-in."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Critiqued"}
+ ],
+ "dominant": "Found family of outcasts; hospitality and food; exposing abusive and corrupt power",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 7, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Significant", "aligns": "Feeding and sheltering outcasts like Atelier reflects the works of mercy.", "concerns": "Sexual assault, slavery and fan service in the story."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Significant", "aligns": "Hospitality to the rejected.", "concerns": "Sexual violence and fan service inflame passions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Dennis rescues the enslaved and weak.", "concerns": "Assault plotlines, fan service, magic."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Significant", "aligns": "Serving the least through a welcoming table.", "concerns": "Sexual violence and fan service."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Significant", "aligns": "Freedom for captives such as Atelier.", "concerns": "Magic and sexual content."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Significant", "aligns": "Cooking as a vocation that serves neighbors.", "concerns": "Lascivious fan service; assault scenes."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Significant", "aligns": "Vocation as a cook; care for the outcast.", "concerns": "Sexual violence depicted."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Significant", "aligns": "Works of mercy for the excluded.", "concerns": "Sexual violence and fan service."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Significant", "aligns": "Hospitality and justice against cruel leaders.", "concerns": "How assault is framed (to verify)."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Mutual aid among outcasts.", "concerns": "Combat and revenge themes."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Significant", "aligns": "Service, work and found family.", "concerns": "Sexual violence and fan service."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Significant", "aligns": "Inclusion of marginalized people; anti-slavery.", "concerns": "Assault used as 'edgelordery' per ANN (anime)."},
+  {"frame": "Muslim", "grade": "C", "weight": "Significant", "aligns": "Freeing slaves and feeding the needy are virtues.", "concerns": "Immodest fan service; sexual violence; magic."},
+  {"frame": "Hindu", "grade": "B", "weight": "Significant", "aligns": "Food as seva and hospitality to guests.", "concerns": "Cruelty and sexual violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Significant", "aligns": "Right livelihood and compassion for the suffering.", "concerns": "Revenge and cruelty imagery."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Sides with trafficked and abused people.", "concerns": "Sexual violence and fan service involving women and a young girl."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Significant", "aligns": "Decency and work rebuild lives.", "concerns": "Exploitative content."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Significant", "aligns": "Hard work and loyalty over spite.", "concerns": "Gratuitous sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Significant", "aligns": "Healthy food and care for the weak.", "concerns": "Magic and sexual violence."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Honest work and kindness.", "concerns": "Magic, violence and immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Love restoring the downtrodden.", "concerns": "Degrading images."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Significant", "aligns": "Worth of every outcast.", "concerns": "Exploitation in depictions."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Significant", "aligns": "Harm answered by care and community.", "concerns": "Sexual violence."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Hospitality and gratitude around food.", "concerns": "Violence and assault."},
+  {"frame": "Sikh", "grade": "B", "weight": "Significant", "aligns": "Langar-like free table spirit; defending the oppressed.", "concerns": "Lust shown via fan service."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Significant", "aligns": "Unity of the rejected and service.", "concerns": "Degrading content."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Helping others and improving conditions.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Significant", "aligns": "Resists arbitrary, spiteful authority.", "concerns": "MU flags harm to a child (to verify)."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Significant", "aligns": "Hachnasat orchim (hospitality) and freeing captives.", "concerns": "Tzniut issues; sorcery."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Significant", "aligns": "Redeeming captives and feeding the hungry.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Significant", "aligns": "Justice for exploited outcasts.", "concerns": "Exploitative depictions."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Expulsion out of spite; MU lists Revenge and Framed."},
+   "Order vs freedom": {"pos": 6, "evidence": "Dennis leaves the party to run his own restaurant (blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Found family of outcasts rather than blood kin (AniList Found Family, Adoption)."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Abuse of power and corruption opposed (MU)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Practical skill and work solve problems; fantasy magic present."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Slavery and exile set against pursuing a dream job (blurb)."}
+  },
+  "closest": ["The Far West", "Catholic Europe", "The Midlands"],
+  "japan": "The 'expelled from the party' setup is a common Japanese web-novel trope; group exclusion and finding a new place to belong reflect a concern with group membership."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN (anime) calls the dark material 'edgelordery' and the friendship climax empty; no comment on preachiness (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The cruel former party leader appears to be a sadistic villain rather than the voice of a worldview."
+ },
+ "winners_losers": "Dennis and the outcasts he takes in win sympathy; the spiteful, cruel party leadership and slavers are the losers.",
+ "to_verify": [
+  "ANN review covers the anime, not the manga; check manga depiction",
+  "MU Pedophilia and Grooming tags: what is shown and to whom (single source)",
+  "Explicitness of attempted-rape scenes in the manga",
+  "Atelier's age and how her slavery is depicted",
+  "Fan-service level in the manga"
+ ]
+}

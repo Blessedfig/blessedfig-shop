@@ -1,0 +1,358 @@
+{
+ "anilist_id": 31803,
+ "title": "Tale of a White Night",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31803",
+  "https://api.mangaupdates.com/v1/series/17087990260"
+ ],
+ "premise": "One volume of dark supernatural short stories ('Greeting', 'Burial', 'Fallen', 'Invitation') about living spirits, oni, death and reincarnation, plus a non-horror one-shot (AniList, MangaUpdates). MangaUpdates tags include ghosts, curses, a fox spirit, animal cruelty and discrimination.",
+ "life_message": "The dead and the living stay bound by love, guilt and old wrongs that must be faced.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Sudden deaths, car accident, animal cruelty (MU) (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Horror anthology of ghosts, curses and undead (MU genres Horror, AniList summary)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Grief and death themes (summaries)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pagan/occult",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Dharmic (Hindu/Buddhist)",
+   "strength": 3,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Pagan/occult, Dharmic (Hindu/Buddhist)",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 4,
+  "community": 6
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 6,
+  "authority": 4,
+  "liberty": 4
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Death and moral consequence taken seriously.",
+   "concerns": "Spirits, curses, reincarnation shown as real."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Sobering look at death.",
+   "concerns": "Demonic imagery taken as real; spirits of the dead."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wrongdoing has consequences.",
+   "concerns": "Ghosts and curses; occult themes."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Mortality made vivid.",
+   "concerns": "Spirit contact and reincarnation."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Evil shown as dark, not glamorized.",
+   "concerns": "Demons, curses, spirit contact as an open door."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sin and guilt shown truthfully.",
+   "concerns": "Occult worldview."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Folk tales of conscience and grief.",
+   "concerns": "Ghosts and reincarnation."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Guilt and grief explored.",
+   "concerns": "Occult; fear content."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Literary ghost stories with moral weight.",
+   "concerns": "Reincarnation and curses."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Fearful occult media."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family bonds beyond death.",
+   "concerns": "Spirits of the dead; dark imagery."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Discrimination and cruelty exposed (MU).",
+   "concerns": "Animal cruelty."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Accountability for wrongs.",
+   "concerns": "Jinn-like spirits, curses and sorcery."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Karma and rebirth familiar.",
+   "concerns": "Tamasic horror."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebirth and karma of past acts.",
+   "concerns": "Animal cruelty; fear."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Discrimination shown critically (MU).",
+   "concerns": "Animal cruelty."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Imaginative folklore.",
+   "concerns": "Supernatural presented as real within stories."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family and memory.",
+   "concerns": "Occult horror."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Spirits of the dead as real; spiritualism."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Spiritism and demons."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little aligns.",
+   "concerns": "Fear-inducing images; death as real."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Many traditions' spirit lore.",
+   "concerns": "Animal cruelty."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirits, ancestors and rebirth respected.",
+   "concerns": "Witch or spirit stereotypes (to verify)."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Kami, kitsune and ancestral spirits in folk form.",
+   "concerns": "Death impurity themes."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Minor",
+   "aligns": "Karma and rebirth.",
+   "concerns": "Superstition and curses."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Soul's continuance.",
+   "concerns": "Occult and spiritualism."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirit beyond the body; past lives.",
+   "concerns": "Little stated."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Occult as aesthetic.",
+   "concerns": "Animal cruelty (Eleven Rules)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Consequence for wrongdoing.",
+   "concerns": "Necromancy-like spirits; demons."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Moral weight of guilt.",
+   "concerns": "Sorcery and spirits."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Ethical reflection on cruelty.",
+   "concerns": "Fear content."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Curses repay old wrongs (MU Curses)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Spirit-world rules bind the living."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Siblings, grandmother, childhood friends (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "No clear hierarchy."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 3,
+    "evidence": "Folk spirits and reincarnation taken as real."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Fear and loss over self-expression."
+   }
+  },
+  "closest": [
+   "First Nation",
+   "Puritan",
+   "Latin America"
+  ],
+  "japan": "Oni, kitsune and restless spirits draw on Japanese folk religion where Shinto and Buddhist ideas of spirits and rebirth mix."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Anthology of 'creepy tales'; no stated message (summaries) (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Mood pieces; meaning left to the reader."
+ },
+ "winners_losers": "Varies by story; not confirmed by sources.",
+ "to_verify": [
+  "Each story's plot and ending",
+  "Animal cruelty scene detail (MU)",
+  "Any romance (DMP published it; MU has no boys' love genre)",
+  "License status (DMP)"
+ ]
+}

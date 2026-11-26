@@ -1,0 +1,91 @@
+{
+ "anilist_id": 119664,
+ "title": "Restart After Coming Back Home",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/119664",
+  "https://api.mangaupdates.com/v1/series/31221689441"
+ ],
+ "premise": "Fired from his Tokyo job at 25, hot-headed Mitsuomi Kozuka returns in disgrace to his countryside hometown. There he meets Yamato Kumai, a gentle man of his age who was adopted into the community while he was away and who hides his own pain; the two grow close as both start over (Seven Seas blurb via AniList and MU). One volume.",
+ "life_message": "Home and community can heal failure and abandonment, and love can grow from slow, honest friendship.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Iyashikei (healing) tone (MU)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance between two adult men (AniList Boys' Love; MU Slow Romance); MangaDex safe; physical intimacy level unverified."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Hot-headed lead (blurb)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "New Year's celebration listed (MU); drinking not confirmed."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Fear of abandonment, job loss (MU Fear of Abandonment, Abandoned Protagonist)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Environmentalism", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Rural community belonging; healing from abandonment; same-sex adult romance",
+ "axes": {"economic": 5, "social": 6, "cultural": 4, "community": 7},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 4, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Village welcoming an orphan (Yamato); prodigal-like homecoming.", "concerns": "Same-sex romance affirmed."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Return home in humility.", "concerns": "Same-sex romance."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Community adoption and farm work.", "concerns": "Same-sex romance as the core."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Second chances.", "concerns": "Same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Healing of the wounded.", "concerns": "Same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Labor and community.", "concerns": "Same-sex romance."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Vocation on the farm.", "concerns": "Confessional churches would object to the romance."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Hospitality to the outsider.", "concerns": "Views vary on the romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Gentle community story.", "concerns": "ACNA families would differ."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Rural, family-business life.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Significant", "aligns": "Family and community.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Affirming love and adoption.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Care for the orphan.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Village and family duty.", "concerns": "Views vary on romance."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Healing and compassion.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer love in rural Japan shown positively.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy and starting over.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Return to hometown and farm.", "concerns": "Same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Country living.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness.", "concerns": "Same-sex romance."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love heals.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inclusion and found family.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Land and seasons.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Village bonds, New Year's, rice-country life.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Honest work, sharing.", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity of community.", "concerns": "Same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Family dynamic.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Affirming.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honoring community.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Community.", "concerns": "Varies by congregation."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Disgrace eased by acceptance, not vindication (blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Returns to village norms but finds his own path (blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Community adopts Yamato as kin (blurb)."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Village elders present but not stressed."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Farming, family business, New Year's customs (MU)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Rebuilding work and love (blurb)."}
+  },
+  "closest": ["First Nation", "The Midlands", "Catholic Europe"],
+  "japan": "The urban-to-rural return (U-turn) and the village adopting a member reflect Japanese community norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in the sources."
+ },
+ "winners_losers": "Mitsuomi and Yamato both find belonging; the village is a warm presence.",
+ "to_verify": [
+  "No review opened.",
+  "Whether the village accepts the couple openly.",
+  "Level of physical intimacy."
+ ]
+}

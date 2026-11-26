@@ -1,0 +1,361 @@
+{
+ "anilist_id": 119353,
+ "title": "In the Land of Leadale",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/119353",
+  "https://api.mangaupdates.com/v1/series/14811010048"
+ ],
+ "premise": "When Keina Kagami's life support is accidentally cut off, she wakes as Cayna, her high elf avatar in the VRMMORPG Leadale, 200 years after she last logged in (Yen Press blurb). She builds a new life in a familiar yet changed world; tags list an adoptive family, family life and dwarves. Ongoing; anime exists (MU).",
+ "life_message": "A second chance at life is best spent building family and helping others.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Fantasy adventure (genre)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Light."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Prior life on life support (blurb)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Magic."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Game-world setting; anime adaptation."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Pagan/occult",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Second chance; family; adventure",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 6,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 5,
+  "fairness": 5,
+  "sanctity": 3,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Life valued after disability; family built.",
+   "concerns": "Magic; afterlife-like rebirth premise."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family warmth.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness and family.",
+   "concerns": "Magic; reincarnation-like premise."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "New start.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Helping others.",
+   "concerns": "Magic central."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Providence-like second chance.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Everyday vocation in a new world.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Service.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle adventure.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family life.",
+   "concerns": "Fantasy violence; magic."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Family emphasis.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Disabled person's new life.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family.",
+   "concerns": "Magic; elves as soul transfer."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebirth echoes.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Compassion.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Female lead; disability.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Imagination.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family.",
+   "concerns": "Magic; consciousness surviving death."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Kindness.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spirit freed from bodily limits.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Found family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Magic and nature.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Service.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Spiritual being in new body.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Freedom.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family.",
+   "concerns": "Magic."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Family.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor feuds noted."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Cayna chooses her path."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Adoptive family (MU)."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Game-world rank."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Virtual-world premise."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Quality of life."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "The Midlands",
+   "El Norte"
+  ],
+  "japan": "Isekai rebirth into a game world reflects Japanese light-novel conventions, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No reviews read (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values carried by Cayna's choices."
+ },
+ "winners_losers": "Cayna's second life and family get sympathy.",
+ "to_verify": [
+  "No reviews found.",
+  "Anime differs from manga (MU)."
+ ]
+}

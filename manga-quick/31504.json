@@ -1,0 +1,91 @@
+{
+ "anilist_id": 31504,
+ "title": "GoGo Monster",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31504",
+  "https://api.mangaupdates.com/v1/series/57868016877"
+ ],
+ "premise": "Third grader Yuki Tachibana believes the fourth floor of his school is home to supernatural beings that few children and no adults can see, and he worries that newer, less friendly creatures are arriving while his ability to see them fades as he grows. Classmates mock him and teachers scold him; his only companions are the kindly school caretaker, transfer student Makoto Suzuki and an enigmatic boy called IQ who wears a box over his head (VIZ blurb via AniList; MU description).",
+ "life_message": "Childhood imagination and friendship deserve respect, even as growing up changes how one sees the world.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Malevolent spirits bring chaos to the school (VIZ blurb); Psychological genre (AniList, MU)."},
+  {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Isolation and possible hallucinations (MU Hallucination/s, Deliberate Loner); ambiguity left open (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None reported."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None reported."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Pantheist/New Age", "strength": 2, "stance": "Explored"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Childhood perception versus adult conformity; loneliness and friendship",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 4},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 6, "sanctity": 4, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "The caretaker's patient kindness to a mocked child.", "concerns": "Spirits in the school left ambiguous rather than discerned."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Childlike wonder and friendship.", "concerns": "Malevolent spirits shown as real to Yuki."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Compassion for a lonely boy.", "concerns": "Spirit beings at the story's center."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Makoto befriends an outcast.", "concerns": "Spiritual beings without a moral frame."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Takes the unseen world seriously.", "concerns": "Rival spirits vying for power may unsettle families wary of spirit imagery."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Literary portrait of a child's inner life.", "concerns": "Spirit cosmology outside Scripture."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Neighborly care by the caretaker.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Inclusion of a ridiculed student.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Imagination valued as a gift.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Gentle, non-violent story.", "concerns": "Spirit fantasy."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Kindness to the lonely.", "concerns": "Little to raise."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Critique of teachers who dismiss a different child.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Mercy toward an isolated child.", "concerns": "Unseen beings akin to jinn left morally ambiguous."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Unseen spirits fit a familiar worldview.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Impermanence of childhood perception.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Sympathy for a neurodivergent-seeming outsider (to verify).", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Ambiguity invites reflection on perception.", "concerns": "Spirits could be read as real."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Caretaker as wise elder.", "concerns": "Teachers shown as unhelpful authorities."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Friendship for the lonely.", "concerns": "Spirits shown as real presences."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Kind associations.", "concerns": "Spirit beings central to the plot."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Discuss", "aligns": "Perception shapes reality, explored seriously.", "concerns": "Fear of malevolent beings."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of a child who sees differently.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Unseen world honored.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Spirits dwelling in places, sensed by a pure child.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Compassion for the excluded.", "concerns": "Superstition themes."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Unity with an outsider.", "concerns": "Little to raise."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Perception and spiritual awareness valued.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individual resisting adult conformity.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Kindness to the lonely.", "concerns": "Spirit world without halakhic frame."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Dignity of a mocked child.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and empathy.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Yuki endures mockery without retaliation (MU description)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Teachers reprimand Yuki's stories; sympathy lies with his freedom of mind (VIZ blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "School community rather than family at the center."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "The kindly caretaker, not teachers, understands Yuki (MU)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Spirits taken seriously rather than explained away."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Inner imagination valued over fitting in (AniList Philosophy, Coming of Age)."}
+  },
+  "closest": ["English-speaking", "The Midlands", "Quaker"],
+  "japan": "Reflects Japanese school-life norms of conformity and the folk sense of spirits inhabiting places; described, not judged."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Philosophy and psychological tags with ambiguity about the spirits; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "The story appears to leave its meaning for readers to infer (to verify)."
+ },
+ "winners_losers": "Sympathy lies with Yuki and those who accept him; dismissive adults and mocking classmates are shown critically (to verify).",
+ "to_verify": [
+  "No review or Wikipedia cache opened; database and publisher blurb only.",
+  "Whether the spirits are real within the story or Yuki's hallucinations.",
+  "How the 'malevolent spirits' scenes are drawn and their intensity."
+ ]
+}

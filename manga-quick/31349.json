@@ -1,0 +1,93 @@
+{
+ "anilist_id": 31349,
+ "title": "07-Ghost",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31349",
+  "https://api.mangaupdates.com/v1/series/8582586123",
+  "https://www.animenewsnetwork.com/review/07-ghost/gn-1"
+ ],
+ "premise": "Teito Klein, a former slave and orphan, is a top student at the Barsburg Empire's military academy until an overheard state secret awakens memories that he is heir to a conquered kingdom. He flees to a church sanctuary, where priests including the lecherous Frau shelter him, while the empire, and the officer Ayanami, pursue him and his best friend Mikage is sacrificed (Viz blurb via MU; AniList; ANN review of volume 1).",
+ "life_message": "Loyalty, friendship and faith can sustain someone through loss and a past that others tried to erase.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "War, slavery and deaths of people close to Teito, including his best friend (ANN; AniList War, Slavery, Tragedy); MU Brutality, Genocide, Child Abuse."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Neutral", "note": "Gloomy, angsty tone (ANN); demons, possession and deals with the devil (MU; AniList Demons)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Homoerotic subtext and bishonen fan service, lecherous priest (ANN); MU BL Subtext."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Trauma, memory manipulation, mockery as an orphan and slave (ANN; MU Traumatized Male Lead)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Adapted to anime (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Christian", "strength": 4, "stance": "Explored"},
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Collectivism/authoritarianism", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Dharmic (Hindu/Buddhist)", "strength": 2, "stance": "Explored"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Invented church mythology of good and evil; resistance to an imperial military; found family and loyalty",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 6},
+ "foundations": {"care": 7, "loyalty": 8, "fairness": 6, "sanctity": 6, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Church as sanctuary; friendship unto death; evil of slavery.", "concerns": "Invented deity looks like a grim reaper; priests caricatured; demonic pacts."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Struggle of light and darkness; self-sacrifice.", "concerns": "Pseudo-church imagery and demon contracts."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Good versus evil; loyalty.", "concerns": "Fictional god, exorcism and possession; homoerotic subtext."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Sacrificial friendship echoes the gospel.", "concerns": "Invented religion with biblical references."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Spiritual warfare theme.", "concerns": "Demons, deals with the devil and possession treated as fantasy."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Providence-like destiny; tyranny exposed.", "concerns": "Depicted deity (second commandment concern); lecherous priest."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Grace-like rescue in the church.", "concerns": "Occult elements."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Compassion for slaves and orphans.", "concerns": "Violence; occult."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Fantasy framing of good and evil in a Lewis-like mode.", "concerns": "Mocking clergy caricature."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Church as refuge from empire.", "concerns": "Military violence; occult."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and eternal bonds.", "concerns": "Violence; occult."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Anti-slavery, anti-imperial; care for orphans.", "concerns": "Violence."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Justice against oppression.", "concerns": "Depicted god and angels; sorcery."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Reincarnation and dharma of a rightful heir.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Rebirth, memory and karma themes.", "concerns": "Killing."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Critiques slavery and imperial power.", "concerns": "Few female characters (ANN)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Loyalty and resistance to tyranny.", "concerns": "Supernatural framing."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Loyalty, duty, a rightful heir restored.", "concerns": "Clergy caricatures."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Good versus evil.", "concerns": "Spirits, ghosts and possession shown as real."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Spiritism, demons, violence and invented worship."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Spirit over matter.", "concerns": "Fear and evil dwelt on."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Dignity of a former slave.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Myth and mythology embraced.", "concerns": "Magic tied to demons."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Ancestors and guardian spirits (MU).", "concerns": "Death and blood."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Defending the oppressed.", "concerns": "Superstition and magic."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity and justice.", "concerns": "Violence; occult."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Recovering past-life memories (MU Memories of Past Life).", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Rebellion against an empire.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Freedom from slavery.", "concerns": "Idolatrous imagery; sorcery."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Redemption from bondage.", "concerns": "Violence; occult."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Justice and freedom.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 6, "evidence": "Pursuit and vengeance between Teito and the empire (Viz blurb; ANN)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Church discipline and military orders shape life (ANN; MU)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Bloodlines, lost heir, found family (MU; AniList)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Empire, royalty and church ranks (MU)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Church, gods and prophecy central (ANN; MU)."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "Fleeing and surviving war (Viz blurb)."}
+  },
+  "closest": ["South and Southeast Asia", "Tidewater", "Sub-Saharan Africa"],
+  "japan": "Uses European church and empire imagery filtered through Japanese fantasy, common in josei and shoujo-adjacent works."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "ANN describes a mythology of good and evil, no stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The good-versus-evil mythology is carried by plot; no source reports characters voicing ideologies."
+ },
+ "winners_losers": "Teito and the church allies get the sympathy; the Barsburg Empire and its military are cast as oppressors (ANN; Viz blurb).",
+ "to_verify": [
+  "ANN review covers only volume 1 (Go! Comi edition).",
+  "How the invented church and deity relate to Christianity (MU Biblical References).",
+  "Level of violence in later war arcs (MU Genocide, Child Abuse)."
+ ]
+}

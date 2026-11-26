@@ -1,0 +1,363 @@
+{
+ "anilist_id": 30730,
+ "title": "Open Sesame",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30730",
+  "https://api.mangaupdates.com/v1/series/63670608598",
+  "https://api.mangadex.org/manga/696b9123-377a-488d-9f79-761b19cab495"
+ ],
+ "premise": "Yamato Danjo, a rural boxing rookie champion, moves to Tokyo and transfers to Azabu Academy, a former girls' school where the girls rule and give the boys a hard time (Manga.Club blurb; MU). He refuses to bow to them and uncovers something from his own forgotten past (MU). It is a 20-volume shounen romantic comedy.",
+ "life_message": "Stand your ground with integrity, and face your past.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Boxing and school fights (Manga.Club blurb; AniList Boxing; MU Boxing)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Childhood trauma and forgotten past (MU)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Harem romance; MangaDex rates suggestive; fan service level to verify."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not described (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Amnesia and childhood trauma (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Bullying between boys and girls (MU Bullying)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Feminism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Might makes right",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Classical virtue ethics",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Gender power struggle at school; boxing; buried past",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 6,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage and facing the past.",
+   "concerns": "Fan service and fighting (to verify)."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Endurance.",
+   "concerns": "Suggestive content; anger and fighting."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Standing firm under pressure.",
+   "concerns": "Suggestive harem content."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Integrity under mistreatment.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Suggestive content."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Self-discipline of sport.",
+   "concerns": "Sensual imagery (to verify)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sport as disciplined vocation.",
+   "concerns": "Mild fan service."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Perseverance.",
+   "concerns": "Suggestive content; bullying."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "School comedy with a mystery.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Refusal to be dominated.",
+   "concerns": "Boxing as heroic; immodesty."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Self-discipline.",
+   "concerns": "Suggestive content; violence."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Questions gendered power.",
+   "concerns": "Gender battle played for laughs."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Immodest imagery."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty and discipline.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Facing past suffering.",
+   "concerns": "Anger and fights."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Gender power reversed and examined.",
+   "concerns": "Fan service; bullying."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rebuilding identity.",
+   "concerns": "Bullying."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage and toughness.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Discipline.",
+   "concerns": "Boxing violence; suggestive content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Resolve.",
+   "concerns": "Violent sport; fan service."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming trauma.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Equity between sexes.",
+   "concerns": "Bullying."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Personal strength.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Harmony restored in school.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Courage against domination.",
+   "concerns": "Fan service."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Equality of sexes.",
+   "concerns": "Conflict and fighting."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Recovering lost memories.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Refusing to submit.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Resilience.",
+   "concerns": "Immodest imagery."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Facing the past.",
+   "concerns": "Fighting."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Gender equality examined.",
+   "concerns": "Bullying."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Yamato refuses to bow to the girls (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "School power struggle."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Family move and peers."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Girls hold rank over boys."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Modern Tokyo school."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Mix of struggle and self-assertion."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Orthodox Europe",
+   "Tidewater"
+  ],
+  "japan": "Reflects the Japanese trope of formerly single-sex schools going co-ed and rural-to-Tokyo transfer stories."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found; blurbs only (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The power struggle plays out through school comedy."
+ },
+ "winners_losers": "Yamato stands his ground; the girls' rule is challenged.",
+ "to_verify": [
+  "Level of fan service (MangaDex suggestive).",
+  "Boxing violence intensity.",
+  "No review or Wikipedia text opened."
+ ]
+}

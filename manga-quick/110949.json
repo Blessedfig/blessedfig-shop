@@ -1,0 +1,90 @@
+{
+ "anilist_id": 110949,
+ "title": "Tadokoro-san",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110949",
+  "https://www.mangaupdates.com/series/o50jew2",
+  "https://api.mangadex.org/manga/5ab2e6ce-d371-4f0b-aff2-504dfcc93c9f"
+ ],
+ "premise": "Shy high-school student Kageko Tadokoro spends class drawing and is mocked by classmates for her art and appearance. Popular, clever Sakurako Nikaido is infatuated with her after seeing her drawings, and when Tadokoro offers to draw her portrait, Nikaido hopes to get closer to the girl she is obsessed with.",
+ "life_message": "It suggests that being truly seen and loved for one's art and self can outweigh the mockery of others.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Comedy-romance tone."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance between two high-school girls; Nikaido is tagged 'perverted' and an uncensored version exists; MangaDex suggestive (MU; to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Condemned", "note": "Classmates mock Tadokoro's drawings and looks (LILYKA blurb; AniList Bullying; MU Bullied Female Lead)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Nikaido's obsessive infatuation played for comedy (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Expressive individualism, Progressivism",
+ "axes": {"economic": 5, "social": 7, "cultural": 5, "community": 4},
+ "foundations": {"care": 6, "loyalty": 4, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Dignity of a bullied girl affirmed by someone who values her gift.", "concerns": "Same-sex romance between schoolgirls with suggestive comedy."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Discuss", "aligns": "Mockery of the weak shown as wrong.", "concerns": "Same-sex romance and lustful comic fixation."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Kindness to an outcast classmate.", "concerns": "Same-sex romance and suggestive content."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Bullying shown with sympathy for the victim.", "concerns": "Same-sex romance; Nikaido's obsession."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Outcast lifted up.", "concerns": "Same-sex romance; suggestive humor."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Discuss", "aligns": "Gifts recognized; cruelty exposed.", "concerns": "Conservative churches object to the romance and suggestive gags."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbor love toward a mocked classmate.", "concerns": "LCMS traditional on the romance; ELCA affirming."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Care for the bullied.", "concerns": "Divided on same-sex romance; suggestive content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Dignity of every person, including the mocked artist.", "concerns": "Province views differ on the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Humility of a quiet artist.", "concerns": "Romance and suggestive content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Developing talents.", "concerns": "Same-sex romance; suggestive humor."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Inclusive love; anti-bullying sympathy.", "concerns": "Obsessive behavior as comedy; check consent framing."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Bullying shown as unjust.", "concerns": "Same-sex romance; immodesty."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Art and talent honored.", "concerns": "Views vary; suggestive content."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Kindness overcoming cruelty.", "concerns": "Craving-driven obsession."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Queer romance; bullying named as harmful.", "concerns": "Sexualized humor around minors (to verify)."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Valuing a person for her talent.", "concerns": "Stalker-like infatuation as comedy."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Bullies shown poorly.", "concerns": "Same-sex romance presented with suggestive content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Kindness to the outcast.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Bullying condemned.", "concerns": "Same-sex romance; suggestive content."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love lifting someone's self-view.", "concerns": "Teaching less defined; suggestive humor."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Inherent worth of a mocked student; affirming love.", "concerns": "Age-appropriateness of suggestive gags."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Affirming love.", "concerns": "Minors in suggestive comedy."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity of feeling.", "concerns": "Little doctrine."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality and dignity against mockery.", "concerns": "Lust (kaam) shown comically; romance."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Rejection of prejudice and mockery.", "concerns": "Chastity standards; same-sex romance."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity and communication.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Being oneself against the crowd.", "concerns": "Minors in suggestive humor."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Mockery (ona'at devarim) shown as wrong.", "concerns": "Same-sex romance; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Harmful speech condemned.", "concerns": "Suggestive content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "Inclusion and dignity.", "concerns": "Suggestive content involving teens."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Tadokoro endures mockery quietly; worth is affirmed by being seen (publisher blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Following personal feelings against class social norms."},
+   "Civic vs kin": {"pos": 4, "evidence": "School setting; family not mentioned in sources."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Popular girl chooses an outcast, crossing school status lines."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Secular school setting."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Drawing and love as self-expression."}
+  },
+  "closest": ["New Netherland", "English-speaking", "New France"],
+  "japan": "Classroom social hierarchy and the shy, mocked 'otaku' artist reflect Japanese school-life manga conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review available; publisher blurb presents comedy-romance (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe a short-chapter romantic comedy without a stated message."
+ },
+ "winners_losers": "Tadokoro and Nikaido; the bullying classmates get no sympathy (to verify).",
+ "to_verify": [
+  "MU notes an uncensored version exists and the artist also draws adult work; check nudity and sexual content in the LILYKA edition. Sexuality score may be understated.",
+  "Nikaido's infatuation is described as obsessive; check whether stalking-like behavior is framed critically.",
+  "No review found that could be opened (AnimeClick fetch failed)."
+ ]
+}

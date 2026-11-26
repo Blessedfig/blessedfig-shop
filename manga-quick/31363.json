@@ -1,0 +1,92 @@
+{
+ "anilist_id": 31363,
+ "title": "Sweet Blue Flowers",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/31363",
+  "https://www.mangaupdates.com/series/r369un1",
+  "https://en.wikipedia.org/wiki/Sweet_Blue_Flowers"
+ ],
+ "premise": "Childhood friends Akira and Fumi reunite in Kamakura after ten years. Fumi, a shy lesbian girl at Matsuoka Girls' High School, dates the popular senior Yasuko, while Akira joins her own school's drama club and tries to support her friends through heartbreak and family pressures. Over two school years the friends' relationships deepen, and the story ends with Akira considering going out with Fumi.",
+ "life_message": "Being honest about who you love, and supported by patient friends, is how young people grow up.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None documented."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Quiet drama of heartbreak (Wikipedia)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Same-sex romance central; Fumi's past sexual relationship with her older cousin (Wikipedia; MU First-Time Intercourse, Nudity; AniList Yuri)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "None documented."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "An older sister smokes (Wikipedia)."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Fumi hears her own negative thoughts in her late grandmother's voice (Wikipedia)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Overprotective brother once crept into his sister's futon, scolded by mother (Wikipedia)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime adaptation."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Coming of age; same-sex love; friendship and family expectations",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 5},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Akira's faithful friendship; Catholic-style girls' school setting.", "concerns": "Same-sex relationships affirmed; Fumi's relationship with her cousin."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Gentle friendship and family warmth.", "concerns": "Same-sex romance and premarital sex."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Kindness and loyalty among friends.", "concerns": "Same-sex romance as the central good (BF&M Article XVIII)."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Honesty and care for a crying friend.", "concerns": "Affirmed lesbian relationships."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Supportive friendships.", "concerns": "Same-sex romance; sexual past."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Quiet, truthful portrait of youth.", "concerns": "Traditional teaching on marriage in conservative churches; PC(USA) more accepting."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Neighbor love among friends.", "concerns": "LCMS concern on same-sex romance; ELCA affirming."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Gentle care and honest relationships.", "concerns": "Divided: UMC affirming, holiness churches traditional."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary, Austen-like character drama (Wikipedia review).", "concerns": "ACNA traditional view; Episcopal affirming."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Non-violent, community-centered story.", "concerns": "Same-sex romance in conservative groups."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family love and friendship.", "concerns": "Law of chastity; same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Affirming portrayal of LGBTQ young people.", "concerns": "Cousin relationship's age gap."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Modest, quiet tone; family ties.", "concerns": "Same-sex love and sexual past."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Family duty and arranged engagement tensions.", "concerns": "Views on same-sex love vary."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Compassion and patient understanding.", "concerns": "Attachment and heartbreak."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Realistic lesbian portrayal (Wikipedia reviews).", "concerns": "Older cousin's relationship with young Fumi."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Honest, humane growing up.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Family, schools and manners matter.", "concerns": "Same-sex romance presented to teens."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Gentle, non-violent story.", "concerns": "Same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Little central.", "concerns": "Homosexual relationships and premarital sex."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming negative self-thoughts.", "concerns": "Families vary (to verify)."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth of every person and love.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Love between women honored.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Kamakura setting, sincerity in relationships.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Equality and kindness.", "concerns": "Akal Takht view of same-sex marriage."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Consultation and no prejudice.", "concerns": "Chastity; relations only in heterosexual marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and affinity between friends.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Affirms personal choice in love.", "concerns": "Minor's relationship with older cousin."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Family warmth.", "concerns": "Same-sex romance (Leviticus 18:22)."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "CJLS-era acceptance; honest friendship.", "concerns": "Sexual content involving a minor."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and healthy relationships.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Conflicts handled by talk and feeling, not honor (Wikipedia)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Girls choose their own loves despite family plans (Wikipedia)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friendships and families both matter (Wikipedia)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Senior-junior ties at school, but relationships fairly equal (Wikipedia)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Arranged engagement broken; modern choices (Wikipedia)."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "Coming out and choosing love (Wikipedia; MU Coming Out)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "Elite girls' schools, senior-junior admiration and an arranged engagement reflect Japanese school and family customs."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Reviewers call it calm, character-driven and realistic, like Jane Austen, not melodrama (Wikipedia).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The story shows relationships quietly without arguing for them."
+ },
+ "winners_losers": "Fumi and Akira grow and draw closer; the worldview of honest, chosen love gets sympathy.",
+ "to_verify": [
+  "Wikipedia reception mixes manga and anime reviews",
+  "How the cousin relationship is drawn and judged",
+  "Viz English edition dropped/complete status (MU English Version Dropped vs 4 vols complete)"
+ ]
+}

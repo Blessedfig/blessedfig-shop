@@ -1,0 +1,89 @@
+{
+ "anilist_id": 123545,
+ "title": "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/123545",
+  "https://api.mangaupdates.com/v1/series/73285344650"
+ ],
+ "premise": "Rose, the Good Witch of the Lake, has a secret crush on the knight Sir Harij, who asks her to make him a love potion. He promises to help gather the ingredients, and to her confusion he keeps turning up at her door with bread and apple butter (Yen Press blurb via AniList/MU).",
+ "life_message": "Love grows through patient kindness rather than magical shortcuts.",
+ "overall": 1,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "Slice of life (AniList)."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Slow romance between adults (MU Slow Romance); MangaDex safe."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Love potion and medicine-making (AniList Medicine)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Rose is a negative-minded loner (MU)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Love potion as attempted manipulation of feelings (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+ ],
+ "lenses": [
+  {"lens": "Pagan/occult", "strength": 3, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 2, "stance": "Affirmed"}
+ ],
+ "dominant": "Shy witch's slow-burn romance; kindness; rural cottage life",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 5, "fairness": 5, "sanctity": 4, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Patient, honest courtship; kindness of Harij.", "concerns": "A 'good witch' brewing a love potion (magic to bend will)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Gentle humility.", "concerns": "Witchcraft and potions."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Clean romance.", "concerns": "Witch heroine and love potion."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Sincere kindness.", "concerns": "Witchcraft."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Little.", "concerns": "Witch and love potion."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Honest romance.", "concerns": "Occult framed positively."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Neighborly care.", "concerns": "Magic as fantasy."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Witchcraft."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Fairy-tale romance.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Simple rural life.", "concerns": "Magic."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Clean courtship.", "concerns": "Magic."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Gentle, consensual romance.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "D", "weight": "Discuss", "aligns": "Modest, clean romance.", "concerns": "Sihr: love potions are a classic form of forbidden magic."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Herbal medicine and care.", "concerns": "Love charms."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Shy heroine's agency.", "concerns": "Potion as consent issue."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Honest feelings over manipulation.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Chivalrous knight; clean romance.", "concerns": "Magic."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Clean content.", "concerns": "Witchcraft."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Clean romance.", "concerns": "Witch and magic central."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love over fear.", "concerns": "Potions."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Respectful portrayal of a witch.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "A good witch and herbcraft.", "concerns": "Love magic that overrides will."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Harmony with nature (lake, rural).", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Minor", "aligns": "Honest love.", "concerns": "Magic and superstition."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Minor", "aligns": "Gentle virtue.", "concerns": "Occult."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Witch as heroine.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Modest romance.", "concerns": "Kishuf."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Magic."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Gentle romance (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Loner witch living on her own (MU)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Neither stressed."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Knight and witch as near equals (blurb)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Herbal magic and rural life (AniList Rural, Medicine)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Romance and quality of life (blurb)."}
+  },
+  "closest": ["The Midlands", "Catholic Europe", "English-speaking"],
+  "japan": "A Japanese shoujo romance in a European-styled countryside; reserved, indirect expression of feelings reflects Japanese norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; default per spec (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No opposing views appear in sources."
+ },
+ "winners_losers": "Rose and Harij are both treated warmly.",
+ "to_verify": [
+  "No review opened.",
+  "Whether the love potion is used or abandoned."
+ ]
+}

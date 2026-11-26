@@ -1,0 +1,88 @@
+{
+ "anilist_id": 81857,
+ "title": "K-ON! HIGH SCHOOL",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/81857",
+  "https://api.mangaupdates.com/v1/series/8336336608"
+ ],
+ "premise": "A one-volume 4-koma follow-up to K-ON!. Azusa is the only member of the light music club left after the others graduate, and with friends Ui and Jun she must recruit new members and keep the club going, despite little musical experience and few instruments (Yen Press blurb via AniList/MU).",
+ "life_message": "Friendship and shared after-school fun carry a club through change.",
+ "overall": 1,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "AniList Yuri at 30%; nothing more reported."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Tea time only (blurb)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Azusa's worry about the club's survival."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Franchise spin-off; instruments."}
+ ],
+ "lenses": [
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Friendship; club life; continuity after graduation",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 7},
+ "foundations": {"care": 6, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "A", "weight": "Minor", "aligns": "Friendship and Azusa's responsibility for the club.", "concerns": "Little."},
+  {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Gentle community life.", "concerns": "Little."},
+  {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Clean school friendship.", "concerns": "Light yuri tag (30%)."},
+  {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Fellowship and music.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Joyful music-making.", "concerns": "Little."},
+  {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Diligence in a shared task.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Music valued (Luther's love of music).", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "A", "weight": "Minor", "aligns": "Small-group fellowship.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Light comedy of community.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Peaceful cooperation.", "concerns": "Worldly pop music and media."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Wholesome friendships.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusive club life.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Sisterly friendship.", "concerns": "Music debated by some scholars."},
+  {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Music and friendship.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Harmony and kindness.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Girls pursuing music.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Learning a skill together.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Responsibility for keeping an institution alive.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Clean friendships.", "concerns": "Little."},
+  {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Upbuilding friendship.", "concerns": "Little."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Joy and harmony.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Community and joy.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Creative expression.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Group harmony in school club.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Shared effort.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Arts and unity.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Group dynamic.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Enjoying life now.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Minor", "aligns": "Friendship.", "concerns": "Bittul Torah for leisure reading."},
+  {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Community.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Joyful community.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "No conflict beyond recruiting (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Club runs informally, with tea time (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "School club community, not family."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Azusa leads friends as peers."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school life."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Music and fun as the club's purpose."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "School clubs (bukatsu) and the duty of remaining members to keep a club alive reflect Japanese school culture, described as context."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "4-koma gag format (AniList, MU) with no stated message (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values of friendship are implied through club life."
+ },
+ "winners_losers": "Azusa and her friends; no opposing outlook.",
+ "to_verify": [
+  "No review opened; content assumed mild from tags and blurb.",
+  "Yuri tag (30%) context."
+ ]
+}

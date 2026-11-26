@@ -1,0 +1,374 @@
+{
+ "anilist_id": 108371,
+ "title": "Naturally, I Demand Restitution!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/108371",
+  "https://api.mangaupdates.com/v1/series/40898087486"
+ ],
+ "premise": "Yuriath, a count's daughter, is publicly dumped by her marquis-heir fiancé, who has fallen for a transfer student who believes she is the heroine of a romance story and casts Yuriath as the villainess (MangaPlaza blurb). Since the engagement was only business, Yuriath calmly demands financial restitution. The Crown Prince also takes an interest (MU: Male Lead Falls in Love First).",
+ "life_message": "Contracts and level-headed self-respect protect a person better than drama; keep your word and expect others to keep theirs.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing violent noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Court and school intrigue."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Light romance with a prince; broken engagement (MU)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not described."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Nothing noted."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Scheming characters (MU)."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Money and compensation are central (MU Money Grubber)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 6,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Libertarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Feminism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Traditionalism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Contracts and compensation; pragmatic heroine; aristocratic romance satire",
+ "axes": {
+  "economic": 7,
+  "social": 5,
+  "cultural": 5,
+  "community": 4
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 4,
+  "fairness": 8,
+  "sanctity": 3,
+  "authority": 5,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice in contracts; fidelity to promises.",
+   "concerns": "Focus on money over mercy."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth over slander.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Keeping one's word; honesty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Calm integrity under false accusation.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth defeats false accusation.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Covenant faithfulness and fair dealing.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest dealing in daily vocation.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fair treatment.",
+   "concerns": "Money focus."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Wit and fairness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truthfulness; humility contrasted with Julie's fantasy.",
+   "concerns": "Seeking legal redress rather than yielding."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-reliance and honesty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "A woman asserting her rights.",
+   "concerns": "Aristocratic privilege uncritiqued (to verify)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Contracts honored; justice.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Dharma of keeping agreements.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Equanimity in the face of insult.",
+   "concerns": "Attachment to wealth."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Woman refuses to be scapegoated.",
+   "concerns": "Class privilege."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rational heroine vs. a girl living in fantasy.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty and honoring agreements.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honesty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honesty.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Clear thinking over illusion.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice and fairness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Self-possession.",
+   "concerns": "Fairies (MU) are minor."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Sincerity; harmony restored.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest dealings.",
+   "concerns": "Money focus."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Justice tempered by calm.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Personal integrity and competence.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Asserting her interests.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Truth vs. false accusation; fair compensation.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fairness.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Fairness and self-respect.",
+   "concerns": "Little."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Insult answered by legal claim, not duel."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Aristocratic school and contracts."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "Noble families and alliances."
+   },
+   "Equality vs hierarchy": {
+    "pos": 8,
+    "evidence": "Count, marquis, crown prince ranks."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Rational, contract-minded heroine."
+   },
+   "Survival vs self-expression": {
+    "pos": 4,
+    "evidence": "Financial security valued."
+   }
+  },
+  "closest": [
+   "Orthodox Europe",
+   "Confucian",
+   "Tidewater"
+  ],
+  "japan": "Part of the Japanese 'villainess' and broken-engagement genre that parodies otome-game romance plots."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Comedy blurbs; no review opened (to verify).",
+  "personified": [
+   {
+    "character": "Julie Vanash",
+    "ideology": "Life as a romance-story script with herself as heroine",
+    "role": "Foil",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "Mixed",
+  "note": "The fantasy-romance outlook is satirized through Julie (to verify how sympathetically)."
+ },
+ "winners_losers": "Pragmatic Yuriath; the fiancé and Julie lose face (per blurb; to verify).",
+ "to_verify": [
+  "Whether Julie is purely mocked or later given depth (Strawman call rests on blurbs only).",
+  "No review opened.",
+  "Julie treatment set to Mixed: the Strawman call rested on blurbs only, and the spec needs a review to support it."
+ ]
+}

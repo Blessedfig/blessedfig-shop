@@ -1,0 +1,358 @@
+{
+ "anilist_id": 31995,
+ "title": "One Night Lesson",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/31995",
+  "https://api.mangaupdates.com/v1/series/39988406737"
+ ],
+ "premise": "Three stories: model Takayoshi is flustered by photographer Kairi's gaze; cram-school rivals Ryuu and Sakura, a politician's sheltered son who confesses and kisses Ryuu in what may be another personality; and music-school freshman Chihiro with his popular roommate Wataru, who says he is not gay but keeps teasing him (AniList, MU).",
+ "life_message": "Hidden sides of people come out when someone looks closely.",
+ "overall": 6,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Coercion listed (MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 6,
+   "framing": "Endorsed",
+   "note": "MU Rape and Rape as a Start of Relationship with High School Student/s, Dormitory; AniList blurb: 'all the guys want to sleep with Wataru'."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "No detail (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Split personality (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Endorsed",
+   "note": "Rape leading to romance (MU; capped pending a second source)."
+  },
+  {
+   "category": "Commercial",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 4,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 4,
+  "liberty": 5
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sakura's lonely, pressured life seen.",
+   "concerns": "Rape as the start of a relationship; teen sex."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Compassion for a lonely son.",
+   "concerns": "Coercion; passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Teen same-sex sex; rape."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Seeing a lonely rival.",
+   "concerns": "Coercion romanticized."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual coercion."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Parental pressure examined.",
+   "concerns": "Lascivious, coercive content."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Rivals understanding each other.",
+   "concerns": "Coercion; minors."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Friendship for a lonely boy.",
+   "concerns": "Harm to students."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Anthology craft.",
+   "concerns": "Coercion framing."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content and coercion."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity; coercion."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "A politician's son seeking freedom.",
+   "concerns": "Rape as romance among students."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex sex; coercion."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family duty pressing on Sakura.",
+   "concerns": "Coercion; teens."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Suffering of a sheltered life.",
+   "concerns": "Harmful sexual conduct."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Questions Wataru's denial of his identity.",
+   "concerns": "Rape romanticized among teens."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Freedom from parental control.",
+   "concerns": "Coercion."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Teen sex; coercion."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Passion-exciting, coercive content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Seeing a true self.",
+   "concerns": "Sensual, fearful images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sakura's search for self.",
+   "concerns": "Consent violated."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Desire acknowledged.",
+   "concerns": "Harm none broken."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity behind masks.",
+   "concerns": "Coercion clashes with makoto."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lust; coercion."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Chastity; coercion."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Freedom from oppressive control.",
+   "concerns": "Harm to others."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sakura breaking free.",
+   "concerns": "Unwanted advances; harm to the young."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Same-sex acts; coercion."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Sakura's need for friendship.",
+   "concerns": "Degrading content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Identity questions explored.",
+   "concerns": "Coercion."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Cram-school rivalry (MU)."
+   },
+   "Order vs freedom": {
+    "pos": 4,
+    "evidence": "Sakura's tightly controlled life (AniList)."
+   },
+   "Civic vs kin": {
+    "pos": 6,
+    "evidence": "A politician father's control."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Social-status gap (MU)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 6,
+    "evidence": "Elite schools; secular."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Breaking out of a constrained self."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "Latin America"
+  ],
+  "japan": "Cram-school rivalry and the pressure on a politician's heir reflect Japanese education and family expectations."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "Blurbs only.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Short romances without an argued view."
+ },
+ "winners_losers": "Pairings form in each story (AniList); the coercive start is not punished (MU; to verify).",
+ "to_verify": [
+  "Which story contains rape and how it is framed",
+  "Characters' ages (MU High School Student/s)",
+  "Explicitness",
+  "Juné age rating"
+ ]
+}

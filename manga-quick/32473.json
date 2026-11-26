@@ -1,0 +1,88 @@
+{
+ "anilist_id": 32473,
+ "title": "Tou no Kemono",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/32473", "https://api.mangaupdates.com/v1/series/34114696098"],
+ "premise": "Lukka, an orphan blind in one eye, is shoved by villagers into the path of a carriage, but the passenger, the nobleman Edgar, takes him in to ease his own solitude. Lukka grows into a loyal servant and friend, and each month, while Edgar is away, he feeds the beautiful black wolf kept in the estate's tower. A single-volume gothic shounen-ai tale with werewolf and immortality themes.",
+ "life_message": "Kindness to an outcast and loyal companionship can heal two lonely lives.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Condemned", "note": "Villagers shove Lukka toward a carriage (publisher blurb); werewolf and hunted-protagonist tags (MU)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Gothic mystery of the tower wolf; supernatural."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "MU genre Shounen Ai (non-explicit); AniList Boys' Love 60, Age Gap; MangaDex safe."},
+  {"category": "Language", "score": 0, "framing": "Neutral", "note": "Not documented."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Loneliness and orphanhood (MU)."},
+  {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Expressive individualism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Compassion for the outcast; loyalty; hidden monstrous nature",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 4, "sanctity": 2, "authority": 4, "liberty": 3},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Edgar sheltering a disabled orphan reflects works of mercy.", "concerns": "Romantic bond between two men, though non-explicit; age gap."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Mercy to the poor and loyal service.", "concerns": "Same-sex romance; werewolf curse imagery."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Cruel villagers contrasted with a merciful rescuer.", "concerns": "Same-sex romance implied; supernatural transformation."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Care for 'the least of these' in Lukka's rescue.", "concerns": "Shounen-ai romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Compassion and loyalty.", "concerns": "Curse and transformation imagery; same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Providence-like rescue of the orphan.", "concerns": "Romantic framing of the bond."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Neighbour-love toward the outcast.", "concerns": "LCMS families may object to the romance."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Works of mercy and social care.", "concerns": "Holiness churches may object to the romance."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gothic fable of mercy and loyalty.", "concerns": "ACNA families may object to romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Humble service and mercy.", "concerns": "Romance and fantasy media."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Service and loyalty.", "concerns": "Same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Dignity for a disabled, homeless orphan; quiet gay romance.", "concerns": "Age gap and master-servant imbalance."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Care for orphans is a strong value.", "concerns": "Same-sex romance."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Compassion and loyal service.", "concerns": "Traditional families may object to romance."},
+  {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion relieves suffering of a lonely pair.", "concerns": "Little concern."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Disabled outcast treated with dignity; queer love.", "concerns": "Power imbalance."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy for the marginalised.", "concerns": "Little concern."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Loyalty, gratitude and service in a noble household.", "concerns": "Same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Mercy.", "concerns": "Same-sex romance; supernatural."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Kindness to the poor.", "concerns": "Same-sex romance and werewolf supernaturalism."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love overcoming loneliness.", "concerns": "Little concern."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every person.", "concerns": "Little concern."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Wolf and shapeshifter lore treated with sympathy.", "concerns": "Little concern."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Gratitude and loyalty.", "concerns": "Little concern."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Seva and care for the vulnerable.", "concerns": "Romance outside marriage."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service and kindness.", "concerns": "Romance outside marriage."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping others.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Outsider bonds against a cruel village.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Discuss", "aligns": "Care for the orphan is a mitzvah.", "concerns": "Same-sex romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Chesed toward the outcast.", "concerns": "Little concern."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Tikkun olam toward the marginalised.", "concerns": "Little concern."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Lukka's worth is recognised by Edgar despite village contempt (blurb)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Ordered estate life; Lukka serves loyally."},
+   "Civic vs kin": {"pos": 5, "evidence": "Chosen bond 'close as brothers' replaces family."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Nobleman and servant (blurb)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Old-world European village with supernatural lore."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Hunger and survival at the start; companionship later."}
+  },
+  "closest": ["Puritan", "Tidewater", "South and Southeast Asia"],
+  "japan": "The European gothic setting is a Japanese take on Western werewolf lore rather than Japanese custom."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; compassion theme carried by Edgar's rescue (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The villagers' cruelty is a plot device rather than a voiced worldview."
+ },
+ "winners_losers": "Not documented; the blurb sympathises with the outcast Lukka and the lonely Edgar.",
+ "to_verify": [
+  "Lukka's age and the nature of the romance (AniList Age Gap).",
+  "Manga Reborn digital license status.",
+  "Ending and the wolf's identity.",
+  "No Wikipedia cache or reviews opened; AniList year 2003 vs MU 2004."
+ ]
+}

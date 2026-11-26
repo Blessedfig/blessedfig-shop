@@ -1,0 +1,94 @@
+{
+  "anilist_id": 101793,
+  "title": "By the Grace of the Gods",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/101793",
+    "https://api.mangaupdates.com/v1/series/53206713307",
+    "https://en.wikipedia.org/wiki/By_the_Grace_of_the_Gods"
+  ],
+  "premise": "Ryoma Takebayashi, a kind office worker whose life on Earth was full of misfortune, dies and is reincarnated by three pitying gods as a boy in a fantasy world. He spends years in the forest training magic and taming slimes, then is welcomed by the noble Jamil family but insists on living independently, using his skills to help others (Wikipedia; J-Novel Club and Square Enix blurbs via AniList and MangaUpdates).",
+  "life_message": "Kindness, diligence and self-reliance are rewarded with a gentle, useful life among good people.",
+  "overall": 2,
+  "content": [
+    {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Hunting and monster combat (blurbs); mild."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Easygoing tone (J-Novel Club blurb)."},
+    {"category": "Sexuality and romance", "score": 0, "framing": "Neutral", "note": "None noted; MangaDex safe."},
+    {"category": "Language", "score": 0, "framing": "Neutral", "note": "Not noted."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 2, "framing": "Shown with consequences", "note": "Past life of abuse and misfortune (Wikipedia)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Child living alone in a forest (Wikipedia)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Running a laundry business with slimes (to verify; AniList Economics)."}
+  ],
+  "lenses": [
+    {"lens": "Pantheist/New Age", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Libertarianism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Pragmatism", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Kindness rewarded; self-reliance; benevolent gods",
+  "axes": {"economic": 6, "social": 5, "cultural": 4, "community": 5},
+  "foundations": {"care": 7, "loyalty": 5, "fairness": 6, "sanctity": 4, "authority": 5, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Ryoma's charity and humility; kindness endures suffering.", "concerns": "Multiple gods shown as real; reincarnation."},
+    {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Patience under trials.", "concerns": "Polytheistic cosmology; a god tormenting a man for amusement (Wikipedia)."},
+    {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Good character and hard work.", "concerns": "Other gods portrayed as benevolent saviors."},
+    {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Gentle, honest protagonist who serves others.", "concerns": "Pantheon and reincarnation as frame."},
+    {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Virtue rewarded.", "concerns": "Gods and magic as real powers."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Diligence in vocation.", "concerns": "False gods dispense grace."},
+    {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Honest work serving neighbors.", "concerns": "Fantasy gods."},
+    {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Do good, do no harm.", "concerns": "Little to raise."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Gentle fantasy with kindness at the core.", "concerns": "Little to raise."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Simplicity, humility, mutual aid.", "concerns": "Monster combat."},
+    {"frame": "Latter-day Saint", "grade": "B", "weight": "Minor", "aligns": "Self-reliance and service.", "concerns": "Little to raise."},
+    {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Compassion and community.", "concerns": "Noble hierarchy unexamined."},
+    {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Honest work and good character.", "concerns": "Multiple gods (shirk); magic."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Rebirth according to deeds; benevolent deities.", "concerns": "Little to raise."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Compassion and rebirth after suffering.", "concerns": "Hunting (first precept)."},
+    {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Kindness and found community.", "concerns": "Aristocratic setting."},
+    {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Curiosity and experiment with slimes.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Hard work, self-reliance, courtesy.", "concerns": "Little to raise."},
+    {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Diligence and kindness.", "concerns": "Reincarnation of the dead."},
+    {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Gentle conduct.", "concerns": "Magic and gods throughout."},
+    {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Goodness overcomes misfortune.", "concerns": "Little to raise."},
+    {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Worth of each being.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Benevolent pantheon and harmony with creatures.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Kami-like gods who reward sincerity (makoto).", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work (kirat karni) and sharing.", "concerns": "Plural gods."},
+    {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Service and harmony of science (slime research) and faith.", "concerns": "Magic."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Being who lives many lives; competence.", "concerns": "Little to raise."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-reliance.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Middot of kindness.", "concerns": "Multiple gods; magic."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Ethical conduct.", "concerns": "Fantasy gods."},
+    {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness and service.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Ryoma stays kind despite abuse (Wikipedia)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Lives alone in the forest; refuses to depend on the nobles (Wikipedia)."},
+      "Civic vs kin": {"pos": 5, "evidence": "Adopted into community by the Jamil family's welcome."},
+      "Equality vs hierarchy": {"pos": 6, "evidence": "Dukes and gods hold rank; Ryoma deferential (Wikipedia)."},
+      "Tradition vs secular-rational": {"pos": 5, "evidence": "Divine favor plus experimental slime research (blurbs)."},
+      "Survival vs self-expression": {"pos": 4, "evidence": "Hunting and making ends meet (Wikipedia)."}
+    },
+    "closest": ["The Far West", "Catholic Europe", "The Midlands"],
+    "japan": "The overworked salaryman granted a gentler second life is a common Japanese isekai wish, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "No review opened on delivery (to verify).",
+    "personified": [
+      {"character": "The God of Earth", "ideology": "Cruelty for amusement", "role": "Villain", "treatment": "Mixed"}
+    ],
+    "opposing_views": "None shown",
+    "note": "Kindness and diligence are modeled by Ryoma rather than argued."
+  },
+  "winners_losers": "Ryoma wins a peaceful life and friends; the cruel Earth god's plan fails. Sympathy goes to gentle self-reliance.",
+  "to_verify": [
+    "How the manga presents the God of Earth's cruelty (Wikipedia, likely from the novel)",
+    "Square Enix age rating",
+    "Any later romance or combat escalation"
+  ]
+}

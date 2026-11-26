@@ -1,0 +1,88 @@
+{
+ "anilist_id": 86022,
+ "title": "Detested by the Demon Lord",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/86022", "https://api.mangaupdates.com/v1/series/67055672594"],
+ "premise": "Mao, descended from an ancient demon lord, can command anyone he meets eye to eye and is ashamed of his lineage (Renta! blurb via AniList and MangaUpdates). Kamiko, who claims to be the hero destined to defeat him, sets out to 'beat' him by taking his body, and the two end up living together in a bickering enemies-to-lovers comedy. Three volumes, adult cast.",
+ "life_message": "Even someone ashamed of what he was born as can be wanted for who he is (to verify).",
+ "overall": 7,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Hero-versus-demon setup played for comedy (AniList genre Comedy)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light supernatural premise."},
+  {"category": "Sexuality and romance", "score": 7, "framing": "Endorsed", "note": "MangaUpdates genre Smut with Dubious Consent and Drunken Intercourse categories; MangaDex erotica; blurb line 'let me take your body'."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Bickering; not detailed (to verify)."},
+  {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Drunk characters and drunken sex (MangaUpdates)."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Shame over his lineage (blurb)."},
+  {"category": "Imitable behavior", "score": 4, "framing": "Endorsed", "note": "Dubious consent and persistent pursuit framed as romance (MangaUpdates; blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adapted to audio drama (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 4, "stance": "Explored"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Pagan/occult", "strength": 1, "stance": "Explored"}
+ ],
+ "dominant": "Enemies to lovers; overcoming shame of lineage; persistent pursuit",
+ "axes": {"economic": 5, "social": 8, "cultural": 6, "community": 4},
+ "foundations": {"care": 4, "loyalty": 5, "fairness": 3, "sanctity": 1, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Mao is accepted despite his inheritance.", "concerns": "Demon-lord lineage played lightly; dubious-consent same-sex sex as the plot engine."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Mao's shame shows conscience about a dark power.", "concerns": "Demonic heritage as comedy; passions inflamed."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Demonic mind control and smut-genre gay sex."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Mao refuses to abuse his power to command (to verify).", "concerns": "Sexual pursuit as 'defeat'; demon themes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Demon lord bloodline and eye-control powers; sexual content."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Inherited corruption is a real theme.", "concerns": "Treated as joke; lascivious content."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Mao's daily life as a handyman (to verify).", "concerns": "Sixth-commandment issues; consent blurred."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Drunkenness and dubious consent."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Playful hero-and-villain reversal.", "concerns": "Consent issues and explicit content."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Worldly sexual content; domination theme."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Chastity, Word of Wisdom (drunkenness)."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Gay romance with humor.", "concerns": "Pursuit past refusal and drunken sex conflict with consent."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol, same-sex sex, demon heritage."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Born nature (svabhava) versus chosen conduct.", "concerns": "Tamasic content; intoxication."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Mao's restraint with his power.", "concerns": "Third and fifth precepts."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "Queer couple at center.", "concerns": "Dubious consent and pursuit framed romantically."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Fantasy openly comic.", "concerns": "Coercion trivialized."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Explicit sexual content; drunkenness."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Alcohol, passions, demonic power."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Demon themes and immorality."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Shame over a false inheritance overcome (to verify).", "concerns": "Mesmerism-like eye control; sensuality."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "Acceptance of an outsider.", "concerns": "Consent issues."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Inherited power accepted as part of self.", "concerns": "Power used to override will; consent."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Lineage and its burdens.", "concerns": "Loss of sincerity in coercive pursuit."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Lust and intoxicants."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Unchaste content; alcohol."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Mao's self-determination against his lineage.", "concerns": "Drunkenness; harm to a person."},
+  {"frame": "Satanist", "grade": "B", "weight": "Discuss", "aligns": "Demon lord as sympathetic figure; indulgence.", "concerns": "Unwanted advances (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Forbidden relations; immodesty; sorcery-like powers."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Degrading content; coercion."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "Inclusive romance.", "concerns": "Consent ethics."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Hero's destined duel recast as a personal contest (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Forced living arrangement, yet both follow desire (MangaUpdates)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Bloodline shapes identity but family not central."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Rich, powerful characters; conqueror theme (MangaUpdates)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Legendary destiny played as modern comedy."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Pleasure and attraction drive the plot."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "New Netherland"],
+  "japan": "The demon-lord-versus-hero setup parodies Japanese fantasy game conventions."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedy genre; no message stated in blurbs (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romance tropes carry the story without argument."
+ },
+ "winners_losers": "Kamiko's pursuit succeeds and Mao comes to accept him (to verify); reluctance is treated as something to be overcome.",
+ "to_verify": [
+  "How explicit the sex scenes are; MangaUpdates genre Smut (not Hentai).",
+  "How dubious consent and drunken sex are framed.",
+  "MangaUpdates lists the series as not completed; English volumes on Renta! to check."
+ ]
+}

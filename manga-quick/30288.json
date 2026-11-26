@@ -1,0 +1,90 @@
+{
+ "anilist_id": 30288,
+ "title": "Othello",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30288",
+  "https://www.mangaupdates.com/series/lxwin5o",
+  "https://api.mangadex.org/manga?title=Othello"
+ ],
+ "premise": "After Atsushi dies in an accident, his reckless twin Ayumu takes his identity and returns to school as the honor-student brother, but cannot keep up the act around classmate Kirishima (Juné blurb via AniList; MangaUpdates). The one-volume Toui Hasumi collection adds three other stories; MangaUpdates labels mention a stepmother, an affair, divorced parents, abuse and an incest element without saying which story carries them.",
+ "life_message": "It suggests that living as someone else cannot last, and that being known as oneself is what love requires (to verify).",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 2, "framing": "Neutral", "note": "Fatal accident; abuse label (MangaUpdates) (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Death of a twin and identity theft; supernatural genre (AniList; MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Romance between high-school classmates (blurb); MangaUpdates genre Shounen Ai; affair, stepmother-stepson and incest labels in the collection (to verify). MangaDex rates it safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Grief and loss of identity (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Shown with consequences", "note": "Impersonating a dead sibling at school (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Grief and borrowed identity, authenticity, family secrets",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 5},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 3, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Deception of Ayumu's masquerade unravels; truth matters.", "concerns": "Same-sex romance; affair and incest labels."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Grief and repentance themes possible.", "concerns": "Same-sex romance; supernatural elements."},
+  {"frame": "Baptist", "grade": "D", "weight": "Discuss", "aligns": "Lying exposed as unsustainable.", "concerns": "Same-sex teen romance; affair."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Discuss", "aligns": "Identity and honesty to discuss.", "concerns": "Same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Discuss", "aligns": "Truth over pretense.", "concerns": "Supernatural genre; same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Ninth-commandment lesson in Ayumu's impersonation.", "concerns": "Same-sex romance; adultery."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Living a lie versus being known.", "concerns": "Romance contested across synods."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Honesty as holiness.", "concerns": "Affair and abuse labels."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Literary treatment of grief and doubles.", "concerns": "Family dysfunction labels."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness.", "concerns": "Same-sex romance."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Discuss", "aligns": "Honesty valued.", "concerns": "Same-sex romance; affair."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Authenticity and acceptance.", "concerns": "Abuse handling unknown."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Deceit shown failing.", "concerns": "Same-sex romance; affair and incest labels."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Satya: false identity cannot hold.", "concerns": "Romance; family breakdown."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Clinging to another's self as suffering.", "concerns": "Little beyond grief."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Minor", "aligns": "Gay teen romance and authenticity.", "concerns": "Abuse and incest labels."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Being oneself rather than a role.", "concerns": "Supernatural elements as plot only."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Honoring a dead brother.", "concerns": "Same-sex romance; affair."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Discuss", "aligns": "Truthfulness.", "concerns": "Supernatural; same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Lies exposed.", "concerns": "Supernatural; same-sex romance."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Minor", "aligns": "True identity beyond appearances.", "concerns": "Death and grief dwelt on."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Search for authentic self.", "concerns": "Abuse labels."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Supernatural treated as story element.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Ties between the living and the dead.", "concerns": "Death impurity themes."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Overcoming ego and pretense.", "concerns": "Affair."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Truthfulness.", "concerns": "Same-sex romance; affair."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Integrity: be what you observe yourself to be.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Refusing to be someone else's image.", "concerns": "Little at odds."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Truth (emet) over deception.", "concerns": "Same-sex romance; incest label."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Honesty and grief.", "concerns": "Affair and incest labels."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusive identity story.", "concerns": "Abuse labels."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Ayumu guards his brother's reputation by acting him (blurb)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Reckless twin's nature breaks through the role (blurb)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Twin bond and family secrets (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Honor student status at school (blurb)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school with supernatural touches (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Authentic self resurfaces (blurb)."}
+  },
+  "closest": ["Catholic Europe", "The Midlands", "New Netherland"],
+  "japan": "Japanese pressure to maintain a family face and an honor student's standing frames Ayumu's impersonation (to verify)."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review found; carried by plot per blurb (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources say nothing about how the stories deliver their themes."
+ },
+ "winners_losers": "Not stated; Ayumu's true self appears favored over the borrowed role (to verify).",
+ "to_verify": [
+  "Which stories carry the abuse, affair, stepmother and incest labels, and ages involved.",
+  "Explicitness of romance (Shounen Ai label; MangaDex safe).",
+  "Renta! / Juné English availability."
+ ]
+}

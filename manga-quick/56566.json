@@ -1,0 +1,363 @@
+{
+ "anilist_id": 56566,
+ "title": "Not Lives",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/56566",
+  "https://api.mangaupdates.com/v1/series/67194441438",
+  "https://anilist.co/review/27428"
+ ],
+ "premise": "High-school game prodigy Shigeru Mikami touches a strange disc labelled NOT ALIVE and becomes the 'Player' of a real-life fighting game, controlling a skilled girl, Kyouka Amamiya, as his avatar (Seven Seas blurb; AniList review). Bouts against other player-avatar teams under an all-seeing game master turn into a fight for survival (blurb; review). Ten volumes.",
+ "life_message": "It suggests that trust and partnership between two people can beat a rigged game.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 4,
+   "framing": "Neutral",
+   "note": "Death-game battles (AniList tag; MangaUpdates 'Kill or Be Killed', 'Game of Death'); reviewer calls it a real fight for survival."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Survival stakes and an unseen game master."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Body-sharing and gender-bender premise; MangaDex suggestive; romance underexplored (review)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "MangaUpdates tags paraplegia."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Video-game violence made real."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Gaming culture throughout."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Pragmatism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Transhumanism",
+   "strength": 2,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Game skill as survival; partnership; body-sharing identity play",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 5,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Partnership between Shigeru and Kyouka.",
+   "concerns": "Death-game violence; controlling another's body."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Violence as game."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Death game; gender-bender elements."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Teamwork.",
+   "concerns": "Kill-or-be-killed premise."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Violence; gender-bender."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Wits under pressure.",
+   "concerns": "Violence as entertainment."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Partnership.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Trust.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Game-as-life allegory.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Partnership.",
+   "concerns": "Fighting as the core."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Violence; gender play."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Partnership across difference.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Violence; gender-bender."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Skill used in duty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Harm as game."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Partnership; disability shown.",
+   "concerns": "Male control of a female avatar."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Reasoning and strategy.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Gender-bender."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Partnership.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Clear thinking.",
+   "concerns": "Fear."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Partnership.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Will and skill.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Little at odds.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Courage.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Cooperation.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Survival.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Individual skill.",
+   "concerns": "Little at odds."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Loyalty.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Partnership.",
+   "concerns": "Violence."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Partnership.",
+   "concerns": "Violence."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Challenges must be answered within the game."
+   },
+   "Order vs freedom": {
+    "pos": 5,
+    "evidence": "Game rules enforced by a game master."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Partner rather than family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Game master over players."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Technology and gaming logic."
+   },
+   "Survival vs self-expression": {
+    "pos": 5,
+    "evidence": "Survival with creative play."
+   }
+  },
+  "closest": [
+   "Catholic Europe",
+   "Yankeedom",
+   "New Netherland"
+  ],
+  "japan": "Death-game and video-game isekai premises are a common Japanese genre convention."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "AniList review describes fight-driven arcs and character relationships, no message stated (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes come through the player-avatar relationship."
+ },
+ "winners_losers": "Shigeru and Kyouka's partnership is sympathetic; outcome not described in sources.",
+ "to_verify": [
+  "Violence intensity.",
+  "Gender-bender handling.",
+  "Ending."
+ ]
+}

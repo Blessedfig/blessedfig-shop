@@ -1,0 +1,91 @@
+{
+ "anilist_id": 74111,
+ "title": "Hitorijime My Hero",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/74111",
+  "https://api.mangaupdates.com/v1/series/53012302228",
+  "https://www.animenewsnetwork.com/review/hitorijime-my-hero/gn-1/.143111"
+ ],
+ "premise": "A boys' love romance. Masahiro Setagawa, neglected at home by his mother, falls in with a gang of small-time street bullies until Kousuke Ohshiba, a former street fighter known as 'the bear killer', rescues him; Kousuke later becomes his high-school teacher. Kousuke's brother Kensuke and Kensuke's boyfriend Asaya draw Masahiro into a found family, and a romance develops between the teenage student and his adult teacher, twelve years older (Kodansha USA blurb; ANN volume 1 review; MU).",
+ "life_message": "A neglected teen finds belonging and a 'hero' in a chosen family.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Kousuke takes down small-time thugs; not graphic (ANN); gang tags (MU)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Gang pressure on Masahiro (blurb)."},
+  {"category": "Sexuality and romance", "score": 4, "framing": "Endorsed", "note": "Romance between a high-school student and his adult teacher; kissing tame, sex implied not shown (ANN); MU Student-Teacher and Adult-Teenager Relationship. ANN flags power imbalance and thin consent."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Delinquent setting; not described (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Bar setting tag (AniList); not described."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "Child neglect; mother leaves him in squalor and brings clients home (ANN); Child Neglect, Emotional Abuse (MU)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Adult-teen romance presented as positive (ANN, MU Forbidden Relationship)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Anime and audio drama adaptations (MU)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Found family; rescue from neglect; age-gap same-sex romance",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 6},
+ "foundations": {"care": 7, "loyalty": 7, "fairness": 4, "sanctity": 1, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Rescue of a neglected boy and the warmth of the Ohshiba household.", "concerns": "Teacher-student romance with a minor; same-sex romance affirmed."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Care for an abandoned youth.", "concerns": "Adult-teen and same-sex romance contrary to teaching."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Rescue from a gang.", "concerns": "Teacher pursuing a student; same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Found family for the fatherless.", "concerns": "Adult-minor romance; same-sex romance."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little beyond rescue.", "concerns": "Adult-teen and same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Truth about parental neglect.", "concerns": "Abuse of authority by a teacher; sexuality concerns."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Neighbor love for a neglected teen.", "concerns": "Teacher-student romance across synods; LCMS objects further."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Hospitality of a chosen family.", "concerns": "Power imbalance with a minor."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Care for the vulnerable.", "concerns": "Teacher-student romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Adult-teen and same-sex romance; gang violence."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Family warmth.", "concerns": "Adult-teen romance; same-sex romance."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Significant", "aligns": "Same-sex couples and found family affirmed.", "concerns": "Adult-minor power imbalance noted by ANN."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex and adult-minor romance."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Rescue from neglect.", "concerns": "Teacher-student boundary; traditional views on same-sex love."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Significant", "aligns": "Compassion for a suffering youth.", "concerns": "Third precept: exploitative relationship risk."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Significant", "aligns": "LGBTQ representation and found family.", "concerns": "Consent and power with a minor and his teacher (ANN)."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Significant", "aligns": "Escape from neglect.", "concerns": "Adult-minor relationship."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Strong adult protector.", "concerns": "Teacher romancing a student."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex and adult-teen romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex and adult-minor romance."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Love replacing neglect.", "concerns": "Boundary concerns."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Significant", "aligns": "LGBTQ welcome and chosen family.", "concerns": "Age and authority imbalance."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Significant", "aligns": "Chosen family.", "concerns": "Sex is for consenting adults; Masahiro is a minor."},
+  {"frame": "Shinto", "grade": "C", "weight": "Significant", "aligns": "Household warmth.", "concerns": "Teacher-student boundary."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Rescue of a youth.", "concerns": "Same-sex and adult-minor romance."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Care for youth.", "concerns": "Chastity and marriage teaching."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Significant", "aligns": "Helping a youth rebuild.", "concerns": "Relationship with a minor."},
+  {"frame": "Satanist", "grade": "D", "weight": "Significant", "aligns": "Rejects arbitrary rules on love.", "concerns": "Harm to children rule: adult with a minor."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Same-sex and adult-minor romance."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Care for an abandoned youth.", "concerns": "Teacher-minor relationship."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Significant", "aligns": "LGBTQ inclusion and found family.", "concerns": "Consent and power with a minor."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Kousuke's street-fighter past; rescue by force (ANN)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Forbidden relationship pursued despite school norms (MU Forbidden Relationship)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Found family of the Ohshiba brothers (AniList Found Family; ANN)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Teacher-student rank blurred by romance (ANN)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern urban setting."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Personal feelings and belonging prioritized."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "The Midlands"],
+  "japan": "Uses the Japanese BL convention of the older protector and the delinquent youth, and Japanese school teacher-student roles; described, not judged."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "ANN: relies on implication rather than explicit scenes; nuance missing for readers who have not seen the anime.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Concerns about the age gap are not voiced within the story per the volume-1 review."
+ },
+ "winners_losers": "Masahiro gains a family and a romance with Kousuke; his neglectful mother and the gang are left behind (ANN).",
+ "to_verify": [
+  "Review covers volume 1 only; later volumes (ongoing, 17 per MU) not checked for explicitness.",
+  "Masahiro's exact age not stated in the review; he is a middle- and high-school student.",
+  "Yandere and love-triangle spoiler tags (AniList) context."
+ ]
+}

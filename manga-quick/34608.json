@@ -1,0 +1,92 @@
+{
+ "anilist_id": 34608,
+ "title": "Broken Blade",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/34608",
+  "https://api.mangaupdates.com/v1/series/2469826123",
+  "https://mangabookshelf.com/?p=2507"
+ ],
+ "premise": "In a world where people power quartz machines with their minds, Rygart Arrow is one of the few who cannot, until he finds an ancient golem only he can pilot (CMX and Titan blurbs via AniList and MU). His old school friends King Hodr and Queen Sigyn need him when their country of Krisna is invaded by an army led by Zess, the fourth member of their old circle (Manga Bookshelf). Complete in 20 volumes; adapted to anime films (MU).",
+ "life_message": "Loyalty to friends and the courage to fight for them matter even when war turns old friends into enemies.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 5, "framing": "Shown with consequences", "note": "Full-scale invasion and mecha battles (Titan blurb; Manga Bookshelf); AniList War; MU Large Scale Battles."},
+  {"category": "Fear and intensity", "score": 4, "framing": "Shown with consequences", "note": "Surrender terms would execute the royal family (Manga Bookshelf); AniList Tragedy (spoiler)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Sigyn's unrequited feelings for Rygart (Manga Bookshelf); MU Marriage Without Love, Romantic Subplot."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Military setting; not checked (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "None noted (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "MU lists Post-Traumatic Stress Disorder (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "None noted."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Mecha franchise with anime films."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Existentialism", "strength": 3, "stance": "Explored"}
+ ],
+ "dominant": "Friendship and conflicting loyalties in war; an outcast's worth",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+ "foundations": {"care": 6, "loyalty": 8, "fairness": 5, "sanctity": 3, "authority": 6, "liberty": 4},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Rygart defends his friends and country; war's tragedy between old friends.", "concerns": "War violence."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "War shown as grief, friends turned enemies.", "concerns": "Killing in battle."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Faithfulness to friends and lawful rulers.", "concerns": "Battle violence; quartz 'sorcery' is mostly technological."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "An overlooked man used for great purpose.", "concerns": "War violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "The weak made strong.", "concerns": "Violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Defensive war by lawful magistrates.", "concerns": "Combat throughout."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Discuss", "aligns": "Serving one's neighbor and king in a hard calling.", "concerns": "War deaths."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Loyalty and sacrifice.", "concerns": "War violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Just-war defense of a homeland.", "concerns": "Violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "A reluctant fighter (MU Reluctant Protagonist).", "concerns": "Mecha combat is the main spectacle."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Defense of family and country (Alma 43).", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Shows war's human cost among friends.", "concerns": "Militarism."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Fighting only in defense; loyalty.", "concerns": "Violence."},
+  {"frame": "Hindu", "grade": "B", "weight": "Discuss", "aligns": "Kshatriya-like duty against kin turned enemy, as in the Gita.", "concerns": "Violence."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "War born of grievance shown as suffering.", "concerns": "Killing throughout."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Outsider without power proves worth.", "concerns": "Militarism; royal-centered politics."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Human relationships over abstract politics.", "concerns": "Violence."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Courage, loyalty, defending the homeland.", "concerns": "Little beyond violence."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Loyalty and humility.", "concerns": "War spectacle."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Shows futility of human governments' wars.", "concerns": "Military heroism central."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Rygart's hidden ability realized.", "concerns": "Fear and death imagery."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Discuss", "aligns": "Worth of the one who lacks the common gift.", "concerns": "Glorified combat."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Self-defense accepted.", "concerns": "Violence."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Harmony among friends; respect for ancient things.", "concerns": "Bloodshed."},
+  {"frame": "Sikh", "grade": "A", "weight": "Discuss", "aligns": "Righteous defense of the people.", "concerns": "Violence."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Friendship across division.", "concerns": "War spectacle."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Loyalty to group and friends.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal loyalty and self-reliance.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Defending one's people is permitted.", "concerns": "Violence; time spent."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Self-defense; loyalty.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "War's human toll considered.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Zess's grudge and personal rivalries alongside state war (Manga Bookshelf)."},
+   "Order vs freedom": {"pos": 4, "evidence": "Military duty and royal command shape Rygart's choices."},
+   "Civic vs kin": {"pos": 6, "evidence": "Loyalty to a close circle of friends drives him (Manga Bookshelf)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Monarchy and military ranks accepted (MU Royalty, Military)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Technology-based world; ancient golem as relic."},
+   "Survival vs self-expression": {"pos": 3, "evidence": "National survival under invasion dominates."}
+  },
+  "closest": ["Orthodox Europe", "Confucian", "Tidewater"],
+  "japan": "School-friend bonds that persist into adult rank and loyalty reflect Japanese emphasis on old classmates and duty."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Manga Bookshelf: war framed through personal relationships, not political commentary; not called preachy.",
+  "personified": [],
+  "opposing_views": "Fair",
+  "note": "The invading leader Zess is an old friend with his own grievances, so the opposing side is drawn with some sympathy (to verify)."
+ },
+ "winners_losers": "Sympathy lies with Rygart and the friends he defends; Zess's side is drawn as human rather than evil. Final outcome not in sources.",
+ "to_verify": [
+  "Graphic level of later battles and deaths",
+  "PTSD depiction (MU tag)",
+  "Whether the invaders' cause is given a fair case",
+  "How the Rygart-Sigyn-Hodr triangle resolves"
+ ]
+}

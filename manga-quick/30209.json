@@ -1,0 +1,369 @@
+{
+ "anilist_id": 30209,
+ "title": "Antique Bakery",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/30209",
+  "https://api.mangaupdates.com/v1/series/12293573222",
+  "https://mangabookshelf.com/?p=7805"
+ ],
+ "premise": "Keiichiro Tachibana quits a corporate job to open a small Tokyo patisserie, hiring Ono, a gifted gay pastry chef he once rejected in high school, and Eiji, a former boxer who becomes Ono's apprentice. Episodes follow the staff and customers, while Tachibana's motive ties back to his kidnapping as a child; a new wave of child kidnappings returns in the last volume.",
+ "life_message": "A good life is honest craft, shared work and slowly facing old wounds with people who accept you.",
+ "overall": 4,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Childhood kidnapping backstory; ex-boxer whose career ended (review, MU)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 4,
+   "framing": "Shown with consequences",
+   "note": "Tachibana's kidnapping and later child kidnappings in vol 4 (Manga Bookshelf review; MU Childhood Trauma)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Ono is an openly gay 'playboy'; review says 'nothing approaching pornography'; DMP rated YA 16+."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 3,
+   "framing": "Shown with consequences",
+   "note": "Trauma, loneliness and repressed memory (MU categories, review)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Cakes and food are the focus."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Secular humanism",
+   "strength": 4,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 2,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Secular humanism; Communitarianism; Expressive individualism",
+ "axes": {
+  "economic": 5,
+  "social": 3,
+  "cultural": 5,
+  "community": 6
+ },
+ "foundations": {
+  "care": 7,
+  "loyalty": 6,
+  "fairness": 5,
+  "sanctity": 2,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Work as service; Tachibana faces his childhood kidnapping trauma.",
+   "concerns": "Ono's casual same-sex relationships shown approvingly."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Patient healing of old wounds among coworkers.",
+   "concerns": "Ono's sexual freedom treated lightly."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Hard work and loyalty at the bakery.",
+   "concerns": "Gay playboy lead shown without disapproval; same-sex romance a usual concern."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kindness in a found family of misfits.",
+   "concerns": "Ono's same-sex relationships affirmed."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Turning past hurt toward serving others.",
+   "concerns": "Same-sex relationships and sexual freedom shown positively."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Vocation and craft honored through pastry making.",
+   "concerns": "Sexual ethics outside covenant marriage."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Daily vocation in a small shop serving neighbors.",
+   "concerns": "Ono's relationships; LCMS and ELCA families would differ."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Tachibana draws on his past to face new kidnappings.",
+   "concerns": "Holiness churches would note Ono's casual relationships."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Humane, literary treatment of grief and friendship.",
+   "concerns": "Communion's range on same-sex relationships applies."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Shared simple work and mutual aid among four men.",
+   "concerns": "Boxing past and worldly sexual freedom."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence and loyal friendship.",
+   "concerns": "Same-sex relationships conflict with Proclamation teaching."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Realistic gay character; review calls it 'not coy, homoerotic fantasy'.",
+   "concerns": "Tachibana's early cruelty toward Ono."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest trade and care for coworkers.",
+   "concerns": "Same-sex relationships portrayed approvingly."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Duty to craft and to one another.",
+   "concerns": "Community views on Ono's relationships vary."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Facing suffering from the past with compassion.",
+   "concerns": "Unrequited attachments linger."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Mixed gay and straight cast, per review.",
+   "concerns": "Ono's 'Gay of demonic charm' label could read as stereotype."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Healing through work, friendship and memory.",
+   "concerns": "Kidnapping themes need context for younger teens."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Ex-boxer rebuilds his life through apprenticeship.",
+   "concerns": "Same-sex relationships presented to teen readers."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Steady work and community around food.",
+   "concerns": "Same-sex romance a usual concern."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Honest work; no occult elements.",
+   "concerns": "Same-sex relationships and child-kidnapping themes."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Overcoming fear rooted in a forgotten trauma.",
+   "concerns": "Dwells on kidnapping memories."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Worth of every coworker regardless of orientation.",
+   "concerns": "Kidnapping themes for younger readers."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Pleasure of food and freedom in love.",
+   "concerns": "Tachibana's early cruelty to Ono."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Sincerity in craft; shop as small community.",
+   "concerns": "Kidnapping crime as impurity theme."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Honest work feeding customers.",
+   "concerns": "Same-sex relationships beyond Akal Takht teaching."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Service through work; unity of different men.",
+   "concerns": "Chastity standard not reflected in Ono."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Tachibana confronts the truth of his past.",
+   "concerns": "Repressed trauma left to self-work, not therapy (to verify)."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Ono's unapologetic self-direction.",
+   "concerns": "Harm to children through kidnapping plot."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Chesed among friends; honest business.",
+   "concerns": "Same-sex relationships shown approvingly."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Repairing lives through community work.",
+   "concerns": "Congregations differ on same-sex relationships."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Inclusion and healing from harm.",
+   "concerns": "Kidnapping themes for younger readers."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Ono's past rejection answered with work, not revenge."
+   },
+   "Order vs freedom": {
+    "pos": 6,
+    "evidence": "Staff choose their own lives; Ono's freedom accepted."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Coworkers become chosen family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 4,
+    "evidence": "Owner and staff relate as near equals."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular urban setting; no religious framing."
+   },
+   "Survival vs self-expression": {
+    "pos": 7,
+    "evidence": "Pleasure, craft and personal expression valued."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "Yankeedom"
+  ],
+  "japan": "Workplace loyalty, the master-apprentice bond between Ono and Eiji, and reticence about past trauma reflect common Japanese norms, described not judged."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Manga Bookshelf: romance 'minimal and hardly the point'; wordless panels carry key moments.",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes of acceptance and healing are left to character moments rather than stated."
+ },
+ "winners_losers": "The bakery staff find steady work and friendship; Tachibana is drawn back to his kidnapping past; sympathy rests with the misfit staff.",
+ "to_verify": [
+  "Tachibana's kidnapping details and how vol 4 resolves",
+  "Language and alcohol use",
+  "English edition is DMP (2005-06); license may be lapsed",
+  "MU lists 2000 start, AniList 1999 (same work, same creator)"
+ ]
+}

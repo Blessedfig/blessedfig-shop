@@ -1,0 +1,92 @@
+{
+ "anilist_id": 43757,
+ "title": "Men of Tattoos",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/43757",
+  "https://www.mangaupdates.com/series/kgqz5oh",
+  "https://api.mangadex.org/manga?title=Shisei%20no%20Otoko",
+  "https://mangabookshelf.com/?p=23994"
+ ],
+ "premise": "Loosely linked stories about three tattooed men in the yakuza underworld, Peony Katagi, Buttercup Mutou and Mad Shark Nogami, each tied to the mysterious Kubota, ending with a new chapter, 'Everyone's Song', about dreams that do not come true (AniList; MangaUpdates; Manga Bookshelf review). Two extra stories follow, one about a man visited nightly by the vengeful spirit of the man he loves, and a lighter pair about college students dreaming of each other. Rated Mature (18+) by Juné.",
+ "life_message": "It asks whether men living on society's underside can find love or salvation, and often answers with loss (to verify).",
+ "overall": 8,
+ "content": [
+  {"category": "Violence", "score": 6, "framing": "Shown with consequences", "note": "Yakuza revenge stories (Manga Bookshelf); murder, violence and prison (MangaUpdates)."},
+  {"category": "Fear and intensity", "score": 5, "framing": "Shown with consequences", "note": "Tragedy, dead lovers, HIV/AIDS, a vengeful spirit (AniList Tragedy; MangaUpdates; blurb)."},
+  {"category": "Sexuality and romance", "score": 8, "framing": "Neutral", "note": "18+ rating and 'steamy' scenes (Manga Bookshelf); MangaDex rates it erotica; MangaUpdates lists rape, gang rape, sexual violence and an ero-guro label. Characters are adults (yakuza; college students)."},
+  {"category": "Language", "score": 3, "framing": "Neutral", "note": "Gangster setting; not described (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not noted in sources (to verify)."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Neutral", "note": "Grief and despair; unfulfilled dreams (Manga Bookshelf)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Gang life and tattoos as identity (blurb)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Might makes right", "strength": 4, "stance": "Critiqued"},
+  {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+  {"lens": "Nihilism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Yakuza loyalty and revenge, tragic love, longing for salvation",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 6},
+ "foundations": {"care": 4, "loyalty": 8, "fairness": 4, "sanctity": 2, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "The stories ask about salvation for men on the margins (blurb).", "concerns": "Sexual violence including gang rape; erotica; same-sex romance."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Longing for redemption.", "concerns": "Erotic and violent imagery that inflames passions."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Sin shown leading to loss.", "concerns": "Explicit sexual violence; gang life."},
+  {"frame": "Non-denominational Evangelical", "grade": "F", "weight": "Significant", "aligns": "Need for salvation voiced.", "concerns": "Erotica and sexual violence."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Vengeful spirit, sexual violence, erotica."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Fallen world portrayed honestly.", "concerns": "Lascivious and violent content."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Sinners longing for grace.", "concerns": "Sexual violence; erotica."},
+  {"frame": "Methodist / Wesleyan", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Harm and impurity throughout."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Tragic moral vision of crime's cost.", "concerns": "Sexual violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Violence brings ruin.", "concerns": "Gang violence and erotica."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Vulgar, immoral, violent content."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Compassion for marginalized men; HIV/AIDS depicted.", "concerns": "Sexual violence and exploitation."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex erotica, sexual violence, crime."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Karma of violent lives.", "concerns": "Tamasic content: lust and cruelty."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Suffering born of craving and violence.", "concerns": "Sexual misconduct and harm."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "Queer characters with depth; HIV/AIDS.", "concerns": "Rape as erotic content; consent."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Human costs of crime.", "concerns": "Cruelty and sexual violence."},
+  {"frame": "Conservative / traditional", "grade": "F", "weight": "Significant", "aligns": "Loyalty valued among men.", "concerns": "Glamorized crime and sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Impure and violent content; spirit."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence, immorality, spiritism."},
+  {"frame": "Christian Science", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Fear, disease and sin dwelt on."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Dignity of outsiders.", "concerns": "Sexual violence."},
+  {"frame": "Wiccan / Pagan", "grade": "D", "weight": "Significant", "aligns": "Spirits and dreams as story elements.", "concerns": "'Harm none' broken; non-consent."},
+  {"frame": "Shinto", "grade": "D", "weight": "Significant", "aligns": "Vengeful spirit (onryo) tradition.", "concerns": "Blood and death impurity; sexual violence."},
+  {"frame": "Sikh", "grade": "F", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Lust, anger and cruelty glorified."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and unchaste content."},
+  {"frame": "Scientologist", "grade": "D", "weight": "Significant", "aligns": "Little to note.", "concerns": "Murder and harm."},
+  {"frame": "Satanist", "grade": "C", "weight": "Significant", "aligns": "Outsiders defying society; adult sexual freedom.", "concerns": "Non-consent violates the Eleven Rules."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex erotica and violence."},
+  {"frame": "Conservative Jewish", "grade": "D", "weight": "Significant", "aligns": "Tragedy of crime.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Empathy for marginal lives.", "concerns": "Sexual violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Revenge stories in the yakuza world (Manga Bookshelf)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Men living outside law (blurb)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Gang bonds and loyalty (MangaUpdates Loyalty)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Boss's son and mid-ranking member (Manga Bookshelf)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Tattoo and gang codes; vengeful spirit folklore."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Hard lives and dreams that don't come true (review)."}
+  },
+  "closest": ["Cavalier", "Orthodox Europe", "El Norte"],
+  "japan": "Draws on Japanese yakuza codes of rank and loyalty, irezumi tattoos, and onryo (vengeful spirit) folklore."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Reviewer calls the storytelling clever and the book 'strange, funny, heartbreaking and surreal' (Manga Bookshelf, quoting Deb Aoki).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes come through tragic outcomes rather than statements."
+ },
+ "winners_losers": "Most yakuza characters' dreams go unfulfilled; the closing college-student stories end happily (Manga Bookshelf).",
+ "to_verify": [
+  "How the rape, gang rape and ero-guro labels (MangaUpdates) are depicted and framed.",
+  "Whether this counts as sexual content at its core under site rules (MangaDex erotica; adult characters).",
+  "Juné English edition; 18+ rating per review."
+ ]
+}

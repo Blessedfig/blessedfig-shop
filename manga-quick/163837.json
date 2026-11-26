@@ -1,0 +1,91 @@
+{
+ "anilist_id": 163837,
+ "title": "White Liar",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/163837",
+  "https://api.mangaupdates.com/v1/series/75436959079",
+  "https://comicsbeat.com/tokyopop-releases-physical-copy-white-liar"
+ ],
+ "premise": "Twenty-eight-year-old freelance beautician Kei Shiraishi has sworn off love after bad relationships. A job styling rising actor Taiga Jinnouchi leads to a one-night stand that grows into more, while Taiga hides a secret from years before that blurs the line between acting and sincerity (Tokyopop blurb via AniList; MU; Comics Beat).",
+ "life_message": "Love can be real even when it starts as play, if the lies are finally put down.",
+ "overall": 6,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Romantic drama."},
+  {"category": "Sexuality and romance", "score": 6, "framing": "Endorsed", "note": "One-night stand and 'steamy' romance (Comics Beat; AniList); MU Sex, Anal Intercourse, Sex Friend/s; Nudity."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Meal out after work; not noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Kei's fear of love after heartbreak (MU Afraid of Love)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Casual sex and concealed motives (blurb)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Showbiz and beauty industry setting."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"},
+  {"lens": "Postmodernism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Expressive individualism; Hedonism",
+ "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 3},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 4, "sanctity": 1, "authority": 2, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Truth breaking through Taiga's long secret.", "concerns": "Sex outside marriage starting as a one-night stand; same-sex romance."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Sincerity overcoming pretence.", "concerns": "Passions indulged; same-sex relationship."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Lies exposed rather than rewarded.", "concerns": "Casual sex; same-sex romance."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Kei's healing from heartbreak.", "concerns": "Hook-up culture; sexual content."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Little beyond honesty theme.", "concerns": "Steamy content; same-sex romance."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Ninth commandment theme: lies versus sincerity.", "concerns": "WLC Q139 lascivious content."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Kei's skilled vocation as a beautician.", "concerns": "LCMS/WELS object to the romance; ELCA to explicitness."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Love growing into commitment.", "concerns": "Holiness churches object; casual sex start."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "A story about truth and performance.", "concerns": "ACNA objects to the romance; explicitness."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Plain truth-telling valued.", "concerns": "Showbiz worldliness; sexual content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Honesty as a core value.", "concerns": "Law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Adult gay couple moves from casual to committed.", "concerns": "Deception at the start."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Truth over lies.", "concerns": "Zina and same-sex relations."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Satya: deceit resolved.", "concerns": "Kama apart from marriage and dharma."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Fourth precept theme: illusion and truth.", "concerns": "Attachment; third precept."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Gay adults with agency in a creative industry.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Consenting adults choosing honesty.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Integrity in the end.", "concerns": "Casual sex; same-sex romance."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Truth matters.", "concerns": "Passions; theatre world."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Truthfulness.", "concerns": "Immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Fear of love overcome by love.", "concerns": "Sensual focus."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Integrity and love affirmed for a gay couple.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Pleasure between consenting adults; keeping one's word.", "concerns": "Early deception."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Makoto: sincerity behind the actor's mask.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Truthful living (sach).", "concerns": "Kaam; sex outside marriage."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Truthfulness as foundation of virtue.", "concerns": "Chastity."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "'Seek to live with the truth'.", "concerns": "Faithfulness."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Indulgence and self-determination.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Keep far from falsehood.", "concerns": "Same-sex acts; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Committed couple; honesty.", "concerns": "Casual sex; explicitness."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion; honest relationships.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Conflict over hidden truth, not insult (blurb)."},
+   "Order vs freedom": {"pos": 7, "evidence": "Freelance life and casual relationships (MU)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Work world, no family focus noted."},
+   "Equality vs hierarchy": {"pos": 5, "evidence": "Older stylist and younger star (MU Age Gap)."},
+   "Tradition vs secular-rational": {"pos": 8, "evidence": "Secular showbiz setting."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Love and self-expression as the goal."}
+  },
+  "closest": ["New Netherland", "The Left Coast", "English-speaking"],
+  "japan": "The Japanese entertainment industry's image management and an actor's need for a discreet private life frame the secret."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Comics Beat and blurb frame it as lies versus sincerity; no critic review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Romance built on a reveal."
+ },
+ "winners_losers": "Kei and Taiga appear to end together (MU Unrequited Love Becomes Requited) (to verify).",
+ "to_verify": [
+  "Tokyopop LoveLove age rating",
+  "What Taiga's secret is",
+  "Explicitness"
+ ]
+}

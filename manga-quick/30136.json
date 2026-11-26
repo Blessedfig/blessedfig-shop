@@ -1,0 +1,92 @@
+{
+ "anilist_id": 30136,
+ "title": "Flame of Recca",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30136",
+  "https://api.mangaupdates.com/v1/series/27477581532",
+  "https://viz.com/flame-of-recca?locale=en"
+ ],
+ "premise": "Sixteen-year-old Recca Hanabishi dreams of being a ninja until he learns he has inherited ninja powers, including control of fire, and pledges to protect a classmate named Yanagi (Viz series page; AniList). Rivals such as the wind-wielding Fuko and a mysterious older woman enter his life (Viz blurb via MangaUpdates). The 33-volume shonen series is built around teams, tournaments and an inherited clan legacy (MangaUpdates tags).",
+ "life_message": "Loyalty to friends and the promise to protect someone give strength its purpose.",
+ "overall": 4,
+ "content": [
+  {"category": "Violence", "score": 4, "framing": "Endorsed", "note": "Super-powered combat and tournaments (Viz page; MangaUpdates Tournament/s, Special Weapon/s); gore level not described (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Villains, betrayal and dead family members (MangaUpdates)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romantic undertones and love triangle (Viz blurb; MangaUpdates); AniList Nudity tag at low rank."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Delinquent characters (AniList); not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Orphans, dead lovers (MangaUpdates)."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Neutral", "note": "Recca enjoys 'good-natured tussles' (Viz); fireworks and fire powers (MangaUpdates)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Adapted to anime and games (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Might makes right", "strength": 3, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+ ],
+ "dominant": "Ninja loyalty and protection; teamwork; inherited clan destiny",
+ "axes": {"economic": 5, "social": 5, "cultural": 4, "community": 7},
+ "foundations": {"care": 6, "loyalty": 8, "fairness": 5, "sanctity": 4, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Recca's vow to protect Yanagi; enemies becoming friends.", "concerns": "Tournament violence; revenge subplots."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Faithfulness to a promise.", "concerns": "Combat as entertainment; anger."},
+  {"frame": "Baptist", "grade": "B", "weight": "Discuss", "aligns": "Courage and friendship.", "concerns": "Fighting and supernatural powers."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Sacrificial protection of others.", "concerns": "Revenge themes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Discuss", "aligns": "Loyalty and teamwork.", "concerns": "Magical artifacts and immortality themes."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Duty and inheritance.", "concerns": "Violence."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Protecting the neighbor.", "concerns": "Fights."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Discuss", "aligns": "Banding together for good.", "concerns": "Violence."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Classic hero adventure.", "concerns": "Violence."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Loyalty within a group.", "concerns": "Fighting celebrated throughout."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Protecting the innocent; family legacy.", "concerns": "Violence."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Enemies become allies.", "concerns": "Glorified combat; LGBT character handling to check."},
+  {"frame": "Muslim", "grade": "B", "weight": "Discuss", "aligns": "Defending the weak.", "concerns": "Magical powers; fighting."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Dharma of a protector; fire element.", "concerns": "Revenge."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Bonds and teamwork.", "concerns": "Violence."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Female fighters such as Fuko.", "concerns": "Damsel framing for Yanagi; transgender character portrayal to check."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Friendship and loyalty.", "concerns": "Fights."},
+  {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Honor, loyalty and ancestral duty.", "concerns": "LGBT character presented to young readers (to verify)."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Loyal friendship.", "concerns": "Violence and magic."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Violence and magic."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Strength found within.", "concerns": "Violence."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Diverse team.", "concerns": "Violence."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Elemental powers.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Ancestral clan lineage honored.", "concerns": "Bloodshed."},
+  {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Warrior's duty to protect the weak.", "concerns": "Revenge."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Unity of allies.", "concerns": "Violence."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Group survival.", "concerns": "Violence."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal power.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Loyalty.", "concerns": "Magic and fighting."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Protecting others.", "concerns": "Violence."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Friendship and justice.", "concerns": "Violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 7, "evidence": "Ninja allegiance and personal duels (Viz)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Teen fighters act outside authority."},
+   "Civic vs kin": {"pos": 6, "evidence": "Clan inheritance and siblings (MangaUpdates)."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Recca pledges service to Yanagi as her ninja (Viz)."},
+   "Tradition vs secular-rational": {"pos": 4, "evidence": "Ancient ninja ways of ancestors (Viz)."},
+   "Survival vs self-expression": {"pos": 4, "evidence": "Battles for survival and protection."}
+  },
+  "closest": ["Tidewater", "Cavalier", "El Norte"],
+  "japan": "Draws on Japanese ninja lore and the retainer's lifelong loyalty to a chosen lord."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Values of loyalty come through action and character choices."
+ },
+ "winners_losers": "Recca and allies are sympathetic; outcomes not in opened sources.",
+ "to_verify": [
+  "Violence and gore level; no review found.",
+  "Transgender and LGBT character portrayal (AniList spoiler tag; MangaUpdates) not checked.",
+  "Viz age rating not shown on page."
+ ]
+}

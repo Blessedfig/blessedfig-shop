@@ -1,0 +1,375 @@
+{
+ "anilist_id": 98674,
+ "title": "Downfall",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/98674",
+  "https://www.mangaupdates.com/series/wcrbt8w",
+  "https://en.wikipedia.org/wiki/Downfall_(manga)"
+ ],
+ "premise": "Manga artist Kaoru Fukazawa has just finished his hit series and has no ideas for the next. His marriage to his editor is collapsing, he has grown contemptuous of readers and the industry, and he drifts into a relationship with an escort. Inio Asano's single-volume seinen drama is a bleak portrait of burnout and emptiness.",
+ "life_message": "Success and money cannot fill an inner emptiness; the story shows a man who has lost what made his work and relationships matter.",
+ "overall": 7,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Little."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Oppressive, dark atmosphere (MangaUpdates Heavy Atmosphere, Dark Ambience)."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 7,
+   "framing": "Neutral",
+   "note": "Explicit sex and nudity with sex workers and infidelity (AniList Prostitution 82, Nudity 65; MangaUpdates Adult genre, Red-Light District, Cheating Husband; Wikipedia premise; MangaDex erotica)."
+  },
+  {
+   "category": "Language",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Crude and contemptuous speech (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Adult drinking and smoking (to verify)."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "Depression, burnout and divorce (MangaUpdates Depression, Burnout, Divorce; Wikipedia premise)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "Buying sex shown as coping."
+  },
+  {
+   "category": "Commercial",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Commercial pressure of the manga industry is a theme (Wikipedia premise)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Nihilism",
+   "strength": 5,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Existentialism",
+   "strength": 4,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Critiqued"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 3,
+   "stance": "Critiqued"
+  }
+ ],
+ "dominant": "Creative burnout; emptiness and lust; critique of commercial art",
+ "axes": {
+  "economic": 5,
+  "social": 6,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 2,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows sin's emptiness; art reduced to commerce is lamented.",
+   "concerns": "Explicit sex, prostitution and adultery."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Despondency (akedia) as a passion is depicted.",
+   "concerns": "Explicit sexual content inflames the passions."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content, prostitution, adultery."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Emptiness without God implied.",
+   "concerns": "Explicit sex and prostitution."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content and adultery."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest picture of a heart turned in on itself.",
+   "concerns": "Lascivious pictures throughout."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Shows vocation corrupted by greed.",
+   "concerns": "Explicit sexual content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sex and prostitution."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Serious literary portrait of despair.",
+   "concerns": "Explicit sex."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Worldliness and sexual immorality."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Pornographic-level content."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critique of exploitation in the industry.",
+   "concerns": "Sex work and treatment of women."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Zina and explicit images."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Kama pursued without dharma ends in emptiness.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Craving leading to suffering is laid bare.",
+   "concerns": "Sexual misconduct and explicit imagery."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critique of commercial exploitation and depression.",
+   "concerns": "Sex work and objectification."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Honest look at meaning and burnout.",
+   "concerns": "Explicit content; exploitation."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Adultery, prostitution, divorce."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Explicit sexual content."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Degrading images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Mental health and creative worth.",
+   "concerns": "Exploitation."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Exploitative sex."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Sincerity lost in work.",
+   "concerns": "Little."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Adultery and lust."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Unchaste content."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Integrity in work.",
+   "concerns": "Infidelity."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Indulgence among adults.",
+   "concerns": "Compulsion shown."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Tzniut violated; adultery."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Degrading sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Critique of industry.",
+   "concerns": "Exploitation."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 4,
+    "evidence": "Fukazawa withdraws rather than defending honor."
+   },
+   "Order vs freedom": {
+    "pos": 8,
+    "evidence": "He drifts as he chooses, outside obligations."
+   },
+   "Civic vs kin": {
+    "pos": 5,
+    "evidence": "Marriage collapses; ties are weak."
+   },
+   "Equality vs hierarchy": {
+    "pos": 5,
+    "evidence": "Editors and publishers hold power."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 8,
+    "evidence": "Secular, commercial modern life."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Searching for meaning and pleasure over security."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Far West"
+  ],
+  "japan": "The overworked mangaka, editor relationships and sales rankings reflect Japan's manga industry; the red-light district setting is described, not judged."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 2,
+  "evidence": "Entry WL: the story keeps a distance and invites reflection rather than sympathy (to verify).",
+  "personified": [
+   {
+    "character": "Kaoru Fukazawa",
+    "ideology": "sales as the only measure of work",
+    "role": "Other",
+    "treatment": "Mixed"
+   }
+  ],
+  "opposing_views": "None shown",
+  "note": "The emptiness of commercial success is shown through Fukazawa's drift, leaving judgment to the reader."
+ },
+ "winners_losers": "Fukazawa loses marriage and direction; no one clearly wins. The story keeps a distance and invites reflection rather than sympathy.",
+ "to_verify": [
+  "Exact explicitness of sexual scenes",
+  "Sexual assault noted by AniList as spoiler (Rape 53): confirm",
+  "Delivery block (2026-11-23): no source describes how the message is delivered; style, preachiness, personified rows and opposing_views are inferred from summaries"
+ ]
+}

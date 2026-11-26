@@ -1,0 +1,363 @@
+{
+ "anilist_id": 32055,
+ "title": "BITTER: His Clandestine Kiss",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/32055",
+  "https://api.mangaupdates.com/v1/series/53649908891"
+ ],
+ "premise": "Yoshitomo Hasunobe, co-heir and general manager of the Royal Fort hotel chain, is stressed by a rival chain that has opened nearby. When he escorts a drunk, beautiful guest back to his room, the mysterious man draws him into a romance tied to the business rivalry; it follows on from the author's 'Sweet' about his younger brother.",
+ "life_message": "Desire can cut through rivalry and pride, for better or worse.",
+ "overall": 3,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Business rivalry."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MangaDex erotica, MU Smut genre with seduction and a 'molester male lead' tag. Database sources only, so capped (to verify; likely higher)."
+  },
+  {
+   "category": "Language",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Not covered by the sources read (to verify)."
+  },
+  {
+   "category": "Substances",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "A drunk hotel guest starts the plot."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Work stress; androphobia tag (MU)."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Seduction and pushy pursuit (MU, to verify)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Luxury hotel business setting."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Explored"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Consumerism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Hedonism; Expressive individualism",
+ "axes": {
+  "economic": 6,
+  "social": 3,
+  "cultural": 6,
+  "community": 4
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 5,
+  "fairness": 3,
+  "sanctity": 1,
+  "authority": 3,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family business duty between brothers.",
+   "concerns": "Erotic same-sex content; seduction."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Brotherly bond.",
+   "concerns": "Passions inflamed; erotic content."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic same-sex content; drunkenness."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content; drunkenness."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Diligence at work.",
+   "concerns": "Lascivious content (WLC Q139)."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vocation as hotel manager.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content; drinking."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content; worldliness."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content; alcohol."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Same-sex love not stigmatized.",
+   "concerns": "Pursuit framed around a 'molester' type lead (MU)."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content; alcohol."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Family duty in business.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Craving shown.",
+   "concerns": "Sexual misconduct concerns; intoxication."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Queer romance.",
+   "concerns": "Consent questions (molester tag, drunk guest)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Adults' choices.",
+   "concerns": "Consent framing."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Family business loyalty.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content; alcohol."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic content."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol; sensual content."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Inclusive love.",
+   "concerns": "Consent framing."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Adult sexuality.",
+   "concerns": "Manipulative seduction."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Family enterprise continuity.",
+   "concerns": "Explicit content."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Lust as a vice; alcohol."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Alcohol; sex outside marriage."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Business drive.",
+   "concerns": "Alcohol."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Indulgence between adults.",
+   "concerns": "Unwanted advances if present (to verify)."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "F",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Erotic same-sex content."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Degrading sexual content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Consent framing."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 6,
+    "evidence": "Pride and rivalry between hotel chains."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Desire overrides professional roles."
+   },
+   "Civic vs kin": {
+    "pos": 7,
+    "evidence": "Family-run hotel with brothers as co-heirs."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Corporate rank and heirs."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Modern business world."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Business competition alongside desire."
+   }
+  },
+  "closest": [
+   "El Norte",
+   "The Far West",
+   "Catholic Europe"
+  ],
+  "japan": "Family-owned company succession reflects Japanese family-business norms."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "No review read; blurb is comic in tone (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "No argued message; a comic, sexual workplace romance."
+ },
+ "winners_losers": "Yoshitomo is drawn into romance with the mystery guest; no worldview is argued.",
+ "to_verify": [
+  "Explicitness (MangaDex erotica, MU Smut; score capped and likely understated)",
+  "Consent framing given MU 'molester male lead' tag",
+  "Incest-as-subplot MU tag",
+  "Futekiya edition age rating"
+ ]
+}

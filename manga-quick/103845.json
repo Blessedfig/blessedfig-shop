@@ -1,0 +1,95 @@
+{
+  "anilist_id": 103845,
+  "title": "Failed Princesses",
+  "label": "Quick read (from summaries)",
+  "confidence": "low to medium",
+  "sources": [
+    "https://anilist.co/manga/103845",
+    "https://api.mangaupdates.com/v1/series/61844564917",
+    "https://en.wikipedia.org/wiki/Failed_Princesses",
+    "https://admin.animenewsnetwork.com/review/failed-princesses/gn-1/.163320"
+  ],
+  "premise": "Popular, appearance-focused Nanaki discovers her boyfriend has been cheating with her as the 'other woman'. Kanade, a plain, bookish manga fan whom Nanaki had scorned, comforts her; Nanaki gives Kanade a makeover, the two become friends and the friendship grows toward romance, while each confronts clique cruelty and her own low self-worth (ANN review; Wikipedia; Seven Seas blurb).",
+  "life_message": "People are worthwhile as they are, and true friends affirm that worth against the judgments of others.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "School drama."},
+    {"category": "Sexuality and romance", "score": 3, "framing": "Endorsed", "note": "Same-sex romance develops (AniList Yuri 97%; Wikipedia); a loaded phrase read sexually (ANN); AniList Nudity at low rank (28%)."},
+    {"category": "Language", "score": 1, "framing": "Neutral", "note": "Unkind remarks (Wikipedia)."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Bullying and low self-worth, shown as harmful (ANN; AniList Bullying 64%)."},
+    {"category": "Imitable behavior", "score": 1, "framing": "Condemned", "note": "Clique mistreatment confronted (ANN)."},
+    {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Makeup and fashion focus (AniList Fashion)."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 6, "stance": "Affirmed"},
+    {"lens": "Progressivism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Consumerism", "strength": 2, "stance": "Explored"}
+  ],
+  "dominant": "Self-worth and mutual validation; overcoming cliques; same-sex romance",
+  "axes": {"economic": 5, "social": 7, "cultural": 6, "community": 4},
+  "foundations": {"care": 8, "loyalty": 6, "fairness": 6, "sanctity": 2, "authority": 3, "liberty": 6},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Dignity of the overlooked Kanade; kindness to the hurting.", "concerns": "Same-sex romance arc."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Humility of popular Nanaki learning her faults.", "concerns": "Same-sex romance; vanity focus."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Kindness and repentance for cruelty.", "concerns": "Same-sex romance affirmed."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Worth not from appearance (1 Samuel 16:7 echo).", "concerns": "Same-sex romance."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Changed heart toward the bullied.", "concerns": "Same-sex romance."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Pride confronted.", "concerns": "Same-sex romance."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Put the best construction on others.", "concerns": "Confessional families object to romance."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Works of mercy to the excluded.", "concerns": "Split on romance."},
+    {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Believable growth (ANN).", "concerns": "ACNA objection."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Plainness valued in Kanade.", "concerns": "Makeover and romance."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Kindness and friendship.", "concerns": "Same-sex romance."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Anti-bullying and LGBTQ inclusion (SLJ list via Wikipedia).", "concerns": "Little to raise."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Kindness to the mistreated.", "concerns": "Same-sex romance."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Inner worth over outward show.", "concerns": "Romance."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Letting go of vanity; compassion.", "concerns": "Little to raise."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer romance; critique of looks-based hierarchy.", "concerns": "Little to raise."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy and self-acceptance.", "concerns": "Little to raise."},
+    {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Rejects shallow cruelty.", "concerns": "Same-sex romance for teens."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Inner beauty over adornment.", "concerns": "Same-sex romance."},
+    {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little in the message fits.", "concerns": "Same-sex romance."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "True identity not material appearance.", "concerns": "Families vary."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inherent worth and dignity.", "concerns": "Little to raise."},
+    {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Self-acceptance.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincerity in friendship.", "concerns": "Little to raise."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Ego (haumai) overcome.", "concerns": "Same-sex romance."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Prejudice rejected.", "concerns": "Same-sex romance."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Helping others improve.", "concerns": "Little stated."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individualism against conformity.", "concerns": "Little of concern."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Shame of public humiliation condemned.", "concerns": "Same-sex romance."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Lashon hara confronted.", "concerns": "Little to raise."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and kindness.", "concerns": "Little to raise."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 3, "evidence": "Worth is inherent 'no matter what anyone else says' (ANN via Wikipedia)."},
+      "Order vs freedom": {"pos": 7, "evidence": "Rejects clique rules about who matters (ANN)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Friendship over family; Kanade's mother pressures her (ANN)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Popularity hierarchy critiqued (ANN)."},
+      "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school, otaku and fashion culture."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Makeover and hobbies as self-expression (ANN)."}
+    },
+    "closest": ["The Midlands", "New France", "English-speaking"],
+    "japan": "School caste (sukāsuto) hierarchies and the gyaru-versus-otaku divide are familiar Japanese school dynamics, described here as context."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 3,
+    "evidence": "ANN praises believable, gradual character growth and does not call it heavy-handed.",
+    "personified": [
+      {"character": "Clique members", "ideology": "Looks-based popularity hierarchy", "role": "Foil", "treatment": "Mixed"}
+    ],
+    "opposing_views": "Mixed",
+    "note": "Nanaki herself first embodies the shallow view and changes gradually."
+  },
+  "winners_losers": "Nanaki and Kanade gain self-worth and each other; the clique's hierarchy loses sympathy.",
+  "to_verify": [
+    "Romantic and physical content in later volumes",
+    "How the bullies are resolved",
+    "Seven Seas age rating"
+  ]
+}

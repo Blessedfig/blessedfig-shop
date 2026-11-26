@@ -1,0 +1,86 @@
+{
+  "anilist_id": 99140,
+  "title": "My Solo Exchange Diary",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://anilist.co/manga/99140",
+    "https://www.mangaupdates.com/series/nu3dcit",
+    "https://www.animenewsnetwork.com/feature/2018-06-04/the-spring-2018-manga-guide/my-solo-exchange-diary/.132449"
+  ],
+  "premise": "In this autobiographical sequel to My Lesbian Experience with Loneliness, Kabi Nagata writes 'exchange diary' letters to herself as she adjusts to sudden success, tries living alone and struggles with depression and her relationship with her parents. She searches for love and connection as a lesbian woman while dealing with self-harm, loneliness and doubts about her work. The two-volume memoir is drawn in a simple, candid style.",
+  "life_message": "Accepting yourself, setting healthy boundaries with family and reaching out for help are steps toward a livable life.",
+  "overall": 6,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+    {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "Emotional distress and hospital stays (MU Hospital)."},
+    {"category": "Sexuality and romance", "score": 4, "framing": "Neutral", "note": "Candid discussion of lesbian desire, online dating and sex work in the author's history (AniList Yuri 62; MU Lesbian Character/s, Prostitution, Online Dating; Seven Seas lists the prequel as mature). Details to verify."},
+    {"category": "Language", "score": 2, "framing": "Neutral", "note": "Frank but not crude (to verify)."},
+    {"category": "Substances", "score": 2, "framing": "Neutral", "note": "Possible drinking; the author's later alcoholism memoir is separate (to verify)."},
+    {"category": "Mental health and self-harm", "score": 6, "framing": "Shown with consequences", "note": "Depression, self-harm and suicidal thoughts discussed openly (AniList Suicide 50, Rehabilitation; MU Self-Harm, Suicidal Character/s, Depression)."},
+    {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Self-harm described from lived experience."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+  ],
+  "lenses": [
+    {"lens": "Expressive individualism", "strength": 7, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 5, "stance": "Affirmed"},
+    {"lens": "Existentialism", "strength": 4, "stance": "Explored"},
+    {"lens": "Progressivism", "strength": 4, "stance": "Affirmed"}
+  ],
+  "dominant": "Self-acceptance; mental-health honesty; individual over family expectation",
+  "axes": {"economic": 5, "social": 7, "cultural": 7, "community": 3},
+  "foundations": {"care": 7, "loyalty": 4, "fairness": 5, "sanctity": 2, "authority": 2, "liberty": 7},
+  "frames": [
+    {"frame": "Catholic", "grade": "C", "weight": "Significant", "aligns": "Honest cry for help and dignity of a suffering person.", "concerns": "Same-sex desire affirmed; self-harm described."},
+    {"frame": "Eastern Orthodox", "grade": "C", "weight": "Significant", "aligns": "Confession-like honesty about pain.", "concerns": "Sexual themes; self-harm."},
+    {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Compassion for depression.", "concerns": "Lesbian relationships sought; sexual candor."},
+    {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Significant", "aligns": "Seeking help and community.", "concerns": "Same-sex romance; self-harm."},
+    {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Longing for healing.", "concerns": "Sexual content; self-harm."},
+    {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Significant", "aligns": "Honest about human brokenness.", "concerns": "Sexual ethics."},
+    {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Grace-hungry honesty.", "concerns": "LCMS/WELS traditional on sexuality."},
+    {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Accountability and recovery.", "concerns": "Views on sexuality vary."},
+    {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Discuss", "aligns": "Compassionate realism.", "concerns": "Self-harm."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Significant", "aligns": "Need for community support.", "concerns": "Sexual themes."},
+    {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Family relationships matter.", "concerns": "Law of chastity; same-sex romance."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "LGBTQ dignity and mental-health care.", "concerns": "Self-harm content."},
+    {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Mercy for suffering.", "concerns": "Same-sex desire; suicide."},
+    {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Search for inner peace.", "concerns": "Defying parents; sexual themes."},
+    {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Facing suffering honestly.", "concerns": "Self-harm."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Discuss", "aligns": "Queer and mental-health representation.", "concerns": "Self-harm safe messaging."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Discuss", "aligns": "Self-understanding and agency.", "concerns": "Self-harm."},
+    {"frame": "Conservative / traditional", "grade": "C", "weight": "Significant", "aligns": "Hard work at one's craft.", "concerns": "Family conflict; sexual candor."},
+    {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Health and wholeness sought.", "concerns": "Sexual themes."},
+    {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Honesty.", "concerns": "Same-sex desire; sexual content."},
+    {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Overcoming mental suffering.", "concerns": "Dwelling on illness."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Discuss", "aligns": "Worth and dignity; inclusive love.", "concerns": "Self-harm."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Self-acceptance and sexual freedom.", "concerns": "Little to raise."},
+    {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Sincerity (makoto) in confession.", "concerns": "Little doctrine."},
+    {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Truthful living.", "concerns": "Sexual themes."},
+    {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "No prejudice toward the suffering.", "concerns": "Chastity teaching."},
+    {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Self-determination.", "concerns": "Psychiatric care shown positively (to verify)."},
+    {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self as authority; bodily autonomy.", "concerns": "Little to raise."},
+    {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Pikuach nefesh: seeking help.", "concerns": "Same-sex desire; tzniut."},
+    {"frame": "Conservative Jewish", "grade": "B", "weight": "Discuss", "aligns": "Dignity and inclusion.", "concerns": "Self-harm."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Inclusion and compassion.", "concerns": "Self-harm."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Focus on self-worth, not face."},
+      "Order vs freedom": {"pos": 8, "evidence": "Leaving home to live alone (MU Moving Away)."},
+      "Civic vs kin": {"pos": 6, "evidence": "Struggle with dependence on parents (MU Mother Complex, Codependency)."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Resists parental authority."},
+      "Tradition vs secular-rational": {"pos": 8, "evidence": "Secular, therapeutic framing."},
+      "Survival vs self-expression": {"pos": 8, "evidence": "Self-expression through manga as life's thread."}
+    },
+    "closest": ["English-speaking", "The Left Coast", "Protestant Europe"],
+    "japan": "Pressure to meet parents' expectations and stigma around mental illness and sexuality reflect Japanese family norms the author writes against."
+  },
+  "delivery": {"style": "Explicit", "preachiness": 4, "evidence": "ANN Spring 2018 Manga Guide reviewers call it raw, candid self-examination; Loveridge sees a broader lesson drawn", "personified": [{"character": "Nagata's parents", "ideology": "family expectations over the author's own path", "role": "Foil", "treatment": "Mixed"}], "opposing_views": "Mixed", "note": "As a memoir in diary letters, the author states her conclusions about self-acceptance and family directly, in her own voice."},
+  "winners_losers": "Nagata slowly gains self-understanding; the story sympathizes with her search for independence over her family's expectations.",
+  "to_verify": [
+    "Wikipedia (My Lesbian Experience with Loneliness) not fetched (rate-limited)",
+    "Content of MU 'Prostitution' tag in this volume vs. the prequel",
+    "Seven Seas age rating (prequel was 18+)",
+    "Delivery: 'Explicit' rests on the memoir being the author's own stated view (creator intent) and on ANN 2018 manga guide reviews (Amy McNulty, Lynzee Loveridge, Rebecca Silverman); reviewers call the parents unsupportive, not one-sided"
+  ]
+}

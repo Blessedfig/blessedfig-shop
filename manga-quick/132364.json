@@ -1,0 +1,93 @@
+{
+ "anilist_id": 132364,
+ "title": "My Girlfriend's Child",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": [
+  "https://anilist.co/manga/132364",
+  "https://api.mangaupdates.com/v1/series/37182413762",
+  "https://goodcomicsforkids.slj.com/2023/09/26/my-girlfriends-child-vols-1-and-2-review/"
+ ],
+ "premise": "High-school couple Sachi and Takara have sex, and Sachi later learns she is pregnant (Seven Seas blurb). The story follows the shock, Sachi weighing her options and the parents' reactions, with one mother supporting the teens' choice and the other demanding they break up (SLJ). Complete in 10 volumes; it won the Kodansha Manga Award for shoujo and an Eisner for teens (MU).",
+ "life_message": "Teens facing pregnancy deserve honest information, empathy and support to make their own decision.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Shown with consequences", "note": "Emotional shock and family conflict; a dead cat used as a metaphor (SLJ)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Shown with consequences", "note": "Teen sex is the premise (blurb); 'a brief, non-graphic sex scene' in vol. 1 (SLJ); MU Teen Pregnancy."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not noted (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 4, "framing": "Shown with consequences", "note": "MU Depression, Guilt, Moral Dilemma; SLJ describes emotional shock and worry."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Shown with consequences", "note": "Teen sexual activity shown with its consequences; AniList Educational."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Progressivism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Feminism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Reproductive choice and information; empathy for pregnant teens; family responses",
+ "axes": {"economic": 5, "social": 3, "cultural": 4, "community": 5},
+ "foundations": {"care": 9, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Takes the child and parenthood seriously as life-changing.", "concerns": "Abortion presented as a valid option ('doesn't vilify any', SLJ); premarital sex."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Honest about consequences of unchaste acts.", "concerns": "Abortion as an equal option; sex scene."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Shows that sex outside marriage carries weight.", "concerns": "'Pro-choice story so far' (SLJ); teen sex depicted."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Compassion for a frightened teen.", "concerns": "Abortion framed neutrally; premarital sex."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Family and life-altering choices treated gravely.", "concerns": "Abortion among neutral options; sexual content."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Truthful portrayal of consequence.", "concerns": "Sixth- and seventh-commandment issues framed as personal choice."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Significant", "aligns": "Care for neighbors in crisis; ELCA families may value the empathy.", "concerns": "LCMS families: abortion option and teen sex."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Significant", "aligns": "Compassionate, non-shaming response to a teen in crisis.", "concerns": "Traditional bodies: abortion presented neutrally."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Significant", "aligns": "Pastoral realism about teen pregnancy.", "concerns": "Range: conservative provinces object to abortion framing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Takes the unborn child seriously as a question.", "concerns": "Sex outside marriage and abortion as options."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Shows how much family is affected.", "concerns": "Law of chastity broken; abortion option neutral."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Discuss", "aligns": "Empathy, information and agency for a young woman.", "concerns": "Sex scene and age of readers."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Shows family honor and duty under strain.", "concerns": "Zina depicted; abortion as a free choice."},
+  {"frame": "Hindu", "grade": "C", "weight": "Significant", "aligns": "Family duty and consequence (karma) central.", "concerns": "Premarital sex; abortion questions."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Compassion and mindful weighing of a hard choice.", "concerns": "First precept issues around abortion."},
+  {"frame": "Secular progressive", "grade": "S", "weight": "Discuss", "aligns": "Bodily autonomy, consent and resources for teens.", "concerns": "Non-graphic sex scene for younger readers."},
+  {"frame": "Secular humanist", "grade": "S", "weight": "Discuss", "aligns": "Evidence-based information and rational choice.", "concerns": "Age fit (SLJ: 15+)."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Parents involved; consequences of teen sex shown.", "concerns": "Teen sex normalized; abortion neutral."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Health and family discussed seriously.", "concerns": "Premarital sex; abortion framing."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Shows hard results of immorality.", "concerns": "Sexual immorality and abortion option."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Significant", "aligns": "Love and support for the young couple.", "concerns": "Purity standards; medical framing."},
+  {"frame": "Unitarian Universalist", "grade": "S", "weight": "Discuss", "aligns": "Matches OWL values: honesty, choice, consent.", "concerns": "Age-appropriateness."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Discuss", "aligns": "Personal responsibility and autonomy.", "concerns": "Little beyond teen age."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Household continuity and family reaction central.", "concerns": "Teen sexuality."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Family and community support explored.", "concerns": "Sex outside marriage; abortion option."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Consultation within families.", "concerns": "Chastity before marriage; abortion option."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Discuss", "aligns": "Second dynamic (family, children) taken seriously.", "concerns": "Teen sexuality."},
+  {"frame": "Satanist", "grade": "S", "weight": "Minor", "aligns": "Bodily autonomy affirmed (Temple Tenet 3).", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Takes family and children seriously.", "concerns": "Tzniut and premarital relations; abortion only in narrow cases."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Significant", "aligns": "Compassion and honest discussion.", "concerns": "Teen sex; abortion framing broader than halakha."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Discuss", "aligns": "Autonomy, ethics of consent and support.", "concerns": "Age fit."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Crisis handled by talking and information, not saving face (SLJ)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Teens' own decision prioritized; one mother backs whatever they choose (SLJ)."},
+   "Civic vs kin": {"pos": 7, "evidence": "Volume 2 centers on parents learning the news (SLJ)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Parental authority contested by the teens' agency (SLJ)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Educational, resource-based framing (AniList Educational; SLJ)."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Individual choice and emotional honesty valued (SLJ)."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "New France"],
+  "japan": "Family reactions reflect Japanese concern with school reputation and household face around teen pregnancy, which the story depicts rather than endorses."
+ },
+ "delivery": {
+  "style": "Explicit",
+  "preachiness": 4,
+  "evidence": "AniList tags it Educational; SLJ says it lays out options and resources for readers, without calling it preachy.",
+  "personified": [],
+  "opposing_views": "Fair",
+  "note": "SLJ says the manga 'doesn't vilify any of the options'; the disapproving parent is described as realistic rather than mocked."
+ },
+ "winners_losers": "Sympathy centers on Sachi and Takara; the parent who demands a breakup is shown as an obstacle but described as realistic. The final decision is not covered by the sources.",
+ "to_verify": [
+  "What Sachi ultimately decides and how the ending frames it",
+  "How abortion is depicted in later volumes",
+  "SLJ review covers volumes 1-2 only",
+  "Which mother takes which position"
+ ]
+}

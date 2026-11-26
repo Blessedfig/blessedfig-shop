@@ -1,0 +1,91 @@
+{
+ "anilist_id": 104133,
+ "title": "The Lady's Servant",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/104133",
+  "https://api.mangaupdates.com/v1/series/29894772528"
+ ],
+ "premise": "First-year high-schooler Youtarou Konoe, the son of a butler and a maid, is assigned to look after Tsubasa Saionji, a rich girl who cannot handle everyday tasks, and also ends up living with Minori Kujou, a classmate with a crush on him. K Manga describes it as an 'in-your-face romcom with a mix of nudity and naughtiness' (AniList; MU).",
+ "life_message": "Caring for others with skill and kindness wins affection and teaches the spoiled common sense.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Slapstick only (MU Clumsy Character/s)."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Endorsed", "note": "Publisher blurb promises 'nudity and naughtiness' (K Manga via AniList); MU Ecchi, Mature, Nudity, Sexual Innuendo, Censorship; harem among high-school girls. Explicit sex not reported (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Imitable behavior", "score": 3, "framing": "Endorsed", "note": "Teen cohabitation and nudity gags played for laughs (MU Cohabitation; AniList Nudity)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Not reported."}
+ ],
+ "lenses": [
+  {"lens": "Hedonism", "strength": 4, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Confucian ethics", "strength": 3, "stance": "Explored"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Ecchi harem romcom; service and care; class roles of mistress and servant",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 6},
+ "foundations": {"care": 7, "loyalty": 6, "fairness": 4, "sanctity": 1, "authority": 5, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Youtarou's servant kindness echoes works of mercy.", "concerns": "Nudity and sexual innuendo with teens; cohabitation."},
+  {"frame": "Eastern Orthodox", "grade": "F", "weight": "Significant", "aligns": "Humble service.", "concerns": "Fan service feeds lust throughout."},
+  {"frame": "Baptist", "grade": "F", "weight": "Significant", "aligns": "Diligent work at home.", "concerns": "Nudity and harem fan service with high-schoolers."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Serving others.", "concerns": "Ecchi content central to the premise."},
+  {"frame": "Pentecostal / Charismatic", "grade": "F", "weight": "Significant", "aligns": "Helpfulness.", "concerns": "Immodesty throughout."},
+  {"frame": "Reformed / Presbyterian", "grade": "F", "weight": "Significant", "aligns": "Vocation of work.", "concerns": "Lascivious pictures (WLC Q139) as the selling point."},
+  {"frame": "Lutheran", "grade": "D", "weight": "Significant", "aligns": "Service as vocation.", "concerns": "Nudity and innuendo."},
+  {"frame": "Methodist / Wesleyan", "grade": "D", "weight": "Significant", "aligns": "Kindness to the helpless.", "concerns": "Sexualized teen content."},
+  {"frame": "Anglican / Episcopal", "grade": "D", "weight": "Significant", "aligns": "Care and patience.", "concerns": "Fan service."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "F", "weight": "Significant", "aligns": "Humble service.", "concerns": "Immodesty and worldliness."},
+  {"frame": "Latter-day Saint", "grade": "F", "weight": "Significant", "aligns": "Practical skills and service.", "concerns": "Nudity and unchaste humor."},
+  {"frame": "Mainline progressive Protestant", "grade": "D", "weight": "Significant", "aligns": "Care work valued.", "concerns": "Sexualization of high-school girls."},
+  {"frame": "Muslim", "grade": "F", "weight": "Significant", "aligns": "Diligent service.", "concerns": "Nudity and mixed cohabitation."},
+  {"frame": "Hindu", "grade": "D", "weight": "Significant", "aligns": "Seva-like service and duty.", "concerns": "Immodesty."},
+  {"frame": "Buddhist", "grade": "D", "weight": "Significant", "aligns": "Kind protagonist.", "concerns": "Content stirs craving."},
+  {"frame": "Secular progressive", "grade": "D", "weight": "Significant", "aligns": "A boy skilled in domestic work.", "concerns": "Sexualization of minors; class roles."},
+  {"frame": "Secular humanist", "grade": "D", "weight": "Significant", "aligns": "Teaching independence.", "concerns": "Exploitative fan service."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Hard work and responsibility.", "concerns": "Vulgar fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "F", "weight": "Significant", "aligns": "Industry.", "concerns": "Impure content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Sexual content and immodesty."},
+  {"frame": "Christian Science", "grade": "D", "weight": "Significant", "aligns": "Helpfulness.", "concerns": "Impure imagery."},
+  {"frame": "Unitarian Universalist", "grade": "D", "weight": "Significant", "aligns": "Care.", "concerns": "Objectifying teens."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Discuss", "aligns": "Body-positive humor among characters.", "concerns": "Teen characters sexualized."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Household service and harmony.", "concerns": "Crude humor."},
+  {"frame": "Sikh", "grade": "D", "weight": "Significant", "aligns": "Seva and honest work.", "concerns": "Lust as entertainment."},
+  {"frame": "Bahá'í", "grade": "F", "weight": "Significant", "aligns": "Service.", "concerns": "Unchaste content."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Competence and helping.", "concerns": "Sexual content."},
+  {"frame": "Satanist", "grade": "C", "weight": "Discuss", "aligns": "Indulgent comedy.", "concerns": "Sexualized minors (Eleven Rules)."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little alignment.", "concerns": "Immodesty and nivul peh."},
+  {"frame": "Conservative Jewish", "grade": "F", "weight": "Significant", "aligns": "Chesed in service.", "concerns": "Degrading sexual content."},
+  {"frame": "Reform Jewish", "grade": "D", "weight": "Significant", "aligns": "Care for others.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Comedy of misunderstandings, no honor conflicts (MU)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Fathers arrange the girls' living situation (MU description)."},
+   "Civic vs kin": {"pos": 6, "evidence": "Family trades of butler and maid; father's wishes (MU)."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Ojou-sama and servant roles (AniList; MU Servant/s)."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school comedy (MU)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Comfort and romance over hardship (MU)."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "The Midlands"],
+  "japan": "Draws on Japanese ojou-sama and maid/butler tropes and senpai-kohai school ties."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedy premise with little message reported (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A fan-service romcom; any lesson about common sense is incidental."
+ },
+ "winners_losers": "Youtarou's caring nature is rewarded with affection from several girls (MU Multiple Love Interests).",
+ "to_verify": [
+  "Exact level of nudity (MU notes Censorship); no review opened.",
+  "MU lists Mature genre; check for scenes beyond partial nudity.",
+  "Only database sources and the publisher blurb were used."
+ ]
+}

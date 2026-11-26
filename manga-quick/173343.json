@@ -1,0 +1,91 @@
+{
+ "anilist_id": 173343,
+ "title": "Girl meets Rock!",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/173343",
+  "https://api.mangaupdates.com/v1/series/13933874837"
+ ],
+ "premise": "First-year high-school student Chihiro Hatono loves Japanese rock and joins her school's light music club with a new guitar. The ongoing series follows band formation, rivalries, friendships that drift, breakups and romantic subplots among club members, described as 'a drama of unfiltered youth and musical ambition' (MANGA Plus blurb; MU and AniList tags).",
+ "life_message": "Finding your own voice through music and friendship is worth the awkwardness and conflict of youth.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Club drama only."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Romantic subplots, breakups and love triangles among high-school classmates; Bisexual, Aromantic and LGBTQ+ tags (AniList, MU)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "'Unfiltered youth' (blurb); profanity level not reported (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None reported."},
+  {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Anxiety and social anxiety categories; divorced parents (MU). Database only, capped."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Scheming characters in club politics (MU)."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Real Japanese rock songs referenced (to verify)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 2, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Self-expression through rock music; club friendships and rivalries; identity",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 4},
+ "foundations": {"care": 6, "loyalty": 6, "fairness": 6, "sanctity": 1, "authority": 3, "liberty": 7},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Friendship and creative effort in Chihiro's club.", "concerns": "Same-sex attraction among characters (LGBTQ+ tags)."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Discipline of practicing music.", "concerns": "Rock-culture passions; LGBTQ themes."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Perseverance and teamwork.", "concerns": "Bisexual character content."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Music as shared joy.", "concerns": "LGBTQ themes; teen dating drama."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Passion and community.", "concerns": "Worldly rock culture; LGBTQ themes."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Common-grace art of music.", "concerns": "Sexual ethics in conservative churches."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Music valued as Luther did.", "concerns": "LGBTQ themes vary by synod."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Fellowship in a club.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Arts and friendship.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Cooperative group effort.", "concerns": "Worldly music and self-display."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Talent development and friendship.", "concerns": "LGBTQ romance themes."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusive cast and honest emotions.", "concerns": "Little to raise."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Friendship and effort.", "concerns": "Music debated; mixed romance and LGBTQ themes."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Dedication to an art.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Mindful practice.", "concerns": "Little to raise."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Bisexual and aromantic representation (AniList).", "concerns": "Little to raise."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Self-expression and authentic relationships.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Hard practice and commitment.", "concerns": "LGBTQ themes presented to teens."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Same-sex romance; rock culture."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Same-sex attraction."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Overcoming anxiety.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Diverse identities welcomed.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Freedom of self.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Group harmony in a club.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Discuss", "aligns": "Effort and sharing.", "concerns": "Same-sex romance."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Arts as service.", "concerns": "Sexual ethics."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication and growth.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Individual expression and nonconformity.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Friendship.", "concerns": "Same-sex romance; mixed socializing."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Creativity and community.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "Rivalries are musical, not honor fights (MU Rival/s)."},
+   "Order vs freedom": {"pos": 7, "evidence": "'Unfiltered youth' and personal musical ambition (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Club peers over family; divorced parents (MU)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Club seniority present but peer bands central (to verify)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern school, secular setting (MU 21st Century)."},
+   "Survival vs self-expression": {"pos": 9, "evidence": "Rock music as self-expression is the core (blurb)."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "The 'keion' light-music club and its senpai-kohai structure are a familiar Japanese school setting; described, not judged."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "No review opened; slice-of-life drama per tags (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Themes appear to come through club drama (to verify)."
+ },
+ "winners_losers": "Sympathy rests with Chihiro and her band (to verify).",
+ "to_verify": [
+  "No review or Wikipedia cache opened; database and publisher blurb only.",
+  "Which characters are bisexual or aromantic and how handled.",
+  "Language level in band culture.",
+  "Series ongoing (12 volumes per MU)."
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "anilist_id": 30200,
+ "title": "A Gentleman's Kiss",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": ["https://anilist.co/manga/30200", "https://api.mangaupdates.com/v1/series/49238392004"],
+ "premise": "Yakuza heir Homura Yasobe and businessman Touji Karasuma have been secret lovers for four years, though their families and groups are long-standing rivals. As Touji is set to take over his family and group, discovery could mean war between them. A two-volume adult boys' love drama.",
+ "life_message": "Love can hold out against family duty and rivalry, but it costs secrecy and risk.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Yakuza rivalry; MU lists Attempted Murder and Injury/ies; capped without a review (to verify)."},
+  {"category": "Fear and intensity", "score": 3, "framing": "Neutral", "note": "'Lives hanging in the balance' (DMP blurb); threat of gang war."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "'Adult story of secret love' (DMP blurb); MU Adult Couple; MangaDex safe; capped (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Gangster setting; not documented (to verify)."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Host club setting (MU); none specifically noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Jealousy and strain of secrecy."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Blackmail and organised crime (MU)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 3, "stance": "Critiqued"},
+  {"lens": "Might makes right", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Secret love against family duty; rival yakuza heirs",
+ "axes": {"economic": 5, "social": 7, "cultural": 5, "community": 5},
+ "foundations": {"care": 4, "loyalty": 7, "fairness": 3, "sanctity": 1, "authority": 6, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Four years of faithfulness between Homura and Touji shows constancy.", "concerns": "Same-sex sexual relationship and yakuza crime life presented sympathetically."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Constancy under pressure.", "concerns": "Passions and violence; teaching on sexuality."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Loyalty in a long relationship.", "concerns": "Same-sex romance and criminal underworld."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Commitment under pressure.", "concerns": "Romance outside sexual ethic; crime glamour."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Faithfulness.", "concerns": "Sexual content and gang violence."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Shows the snare of feuding houses.", "concerns": "Affirms same-sex desire; crime backdrop."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Constancy in love; ELCA families may accept the couple.", "concerns": "Organised crime and violence; LCMS objection."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Love over enmity between rival groups.", "concerns": "Crime setting and holiness concerns."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "A Romeo-and-Juliet frame of love across a feud.", "concerns": "Yakuza violence; ACNA objection to the romance."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Love as an alternative to feud.", "concerns": "Gang violence and attempted murder; sexual content."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Constancy.", "concerns": "Law of chastity; violent media."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Discuss", "aligns": "Gay love that resists inherited enmity.", "concerns": "Crime glamour and possessiveness."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty valued.", "concerns": "Same-sex relations and criminal violence."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Tension between personal love and family duty (dharma) is central.", "concerns": "Love placed above lineage duty; traditional families object."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Inherited enmity shown as a trap of suffering.", "concerns": "Violence and attempted murder."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Adult gay couple resisting family pressure.", "concerns": "Organised crime and violence glamour."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Discuss", "aligns": "Personal choice over inherited feud.", "concerns": "Crime and violence."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Duty to family is taken seriously as a weight.", "concerns": "Romance subverts family duty; crime setting."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Constancy.", "concerns": "Violence and same-sex romance."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Violence and immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love overcoming fear.", "concerns": "Violence and sensual content."},
+  {"frame": "Unitarian Universalist", "grade": "B", "weight": "Minor", "aligns": "Love across division; LGBTQ affirming.", "concerns": "Glorified violence concern."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Discuss", "aligns": "Adult love honoured.", "concerns": "Gang violence breaks harm-none."},
+  {"frame": "Shinto", "grade": "C", "weight": "Discuss", "aligns": "Household continuity and succession are serious stakes.", "concerns": "Bloodshed brings kegare; succession duty undermined."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Courage under threat.", "concerns": "Relationship outside marriage; violence for gang ends."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Love bridging rival groups hints at unity.", "concerns": "Chastity and non-violence teaching."},
+  {"frame": "Scientologist", "grade": "C", "weight": "Discuss", "aligns": "Faithful partners.", "concerns": "Illegal activity and attempted murder."},
+  {"frame": "Satanist", "grade": "A", "weight": "Discuss", "aligns": "Defying family authority for one's own desire.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex relations forbidden; violence."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment recognised.", "concerns": "Crime setting."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Discuss", "aligns": "LGBTQ inclusion.", "concerns": "Glorified violence."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 8, "evidence": "Rival yakuza groups; discovery 'would mean war' (DMP blurb)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Love defies rules but heirs remain bound to their roles."},
+   "Civic vs kin": {"pos": 8, "evidence": "Family and group loyalty define both heirs (MU, AniList blurbs)."},
+   "Equality vs hierarchy": {"pos": 8, "evidence": "Succession to head the family and group (MU)."},
+   "Tradition vs secular-rational": {"pos": 5, "evidence": "Inherited feud in a modern business setting."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Safety of the groups weighed against personal love."}
+  },
+  "closest": ["Cavalier", "Tidewater", "Latin America"],
+  "japan": "Yakuza succession and family-firm rivalry draw on Japanese ideas of household (ie) continuity and group loyalty."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; theme carried by the secret-lovers plot (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Family duty is presented as pressure, not argued as a worldview."
+ },
+ "winners_losers": "Not documented; the blurbs sympathise with the lovers over the feuding groups.",
+ "to_verify": [
+  "Violence level (MU Attempted Murder, Injury/ies); capped at 3.",
+  "Explicitness of sexual content.",
+  "Ending.",
+  "Juné license status (possibly lapsed).",
+  "No Wikipedia cache or reviews opened."
+ ]
+}

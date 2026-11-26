@@ -1,0 +1,92 @@
+{
+ "anilist_id": 128406,
+ "title": "Girl Crush",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/128406",
+  "https://api.mangaupdates.com/v1/series/35283029"
+ ],
+ "premise": "High-school freshman Tenka Momose can sing and dance and is good at everything except love. Inspired by Erian Satou's passionate dedication to becoming an idol, and by her own unexpected jealousy, Tenka auditions at a famous Korean talent agency, where judges want more than flawless technique.",
+ "life_message": "Talent is not enough: sincerity, passion and finding your own voice make a performer.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Audition pressure (Viz blurb via MU)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Unrequited love; a 'forbidden' or disapproved relationship (MU, 1-3 votes)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None indicated."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "Jealousy and perfectionism (Viz blurb; MU Jealousy)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Intense training."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "K-pop idol industry and talent agencies (MU Kpop, Idol/s)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 5, "stance": "Affirmed"},
+  {"lens": "Classical virtue ethics", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Progressivism", "strength": 2, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Expressive individualism, Classical virtue ethics (discipline), Progressivism (non-binary character)",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 5, "loyalty": 5, "fairness": 6, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Tenka's diligence and Erian's sincerity as gifts developed.", "concerns": "Non-binary character and idol-culture image focus may need discussion for some families."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Hard work.", "concerns": "Celebrity culture and vanity; gender identity themes."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Discipline and practice.", "concerns": "Non-binary character (MU); idol image culture."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Jealousy faced and turned into motivation.", "concerns": "Fame as goal; gender identity theme."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Perseverance.", "concerns": "Worldliness of the entertainment industry."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Work ethic and excellence.", "concerns": "Gender identity theme."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Talent as vocation.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Discipline and friendship.", "concerns": "Fame-seeking."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Character growth through competition.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Performance, fashion and fame as ideals."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Developing talents.", "concerns": "Gender identity theme."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "LGBT and non-binary characters included (MU).", "concerns": "Pressure of idol industry."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Effort and friendship.", "concerns": "Music and dance performance; immodest stage costumes possible."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Dance and music as disciplined arts.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Jealousy examined.", "concerns": "Craving for fame."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Female-centric plot with LGBT representation (MU).", "concerns": "Idol industry pressures."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Growth through effort and self-knowledge.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Hard work.", "concerns": "Gender identity presented to young readers."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Discipline.", "concerns": "Entertainment-industry focus."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Gender identity themes; worldly ambition."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Overcoming limiting beliefs.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every identity.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Self-expression through art.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Sincere effort (makoto).", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Equality and hard work.", "concerns": "Ego in fame."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Arts as service and excellence.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "The artist's role praised.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Self-assertion and ambition.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Kol isha and tzniut in idol performance; gender identity."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Effort and friendship.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and growth.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Rivalry but no honor code (MU Rival/s)."},
+   "Order vs freedom": {"pos": 5, "evidence": "Strict training system versus personal voice (Viz blurb)."},
+   "Civic vs kin": {"pos": 4, "evidence": "Friends and trainees, not family."},
+   "Equality vs hierarchy": {"pos": 6, "evidence": "Agency judges and trainee ranking."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern K-pop industry; breaking societal norms (MU)."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Performance and identity as goals."}
+  },
+  "closest": ["Catholic Europe", "Yankeedom", "New Netherland"],
+  "japan": "A Japanese girl entering the Korean idol system reflects cross-border pop-culture aspiration and strict trainee hierarchies."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "Viz blurb frames growth beyond technique; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe a coming-of-age idol drama with themes carried by training and rivalry."
+ },
+ "winners_losers": "Tenka and Erian as striving trainees; no worldview is set as a villain in sources.",
+ "to_verify": [
+  "Non-binary/agender character details (MU, AniList spoiler tag).",
+  "Nature of the 'forbidden' relationship (MU, 1 vote).",
+  "MangaDex search returned a different work and was not used.",
+  "No review found."
+ ]
+}

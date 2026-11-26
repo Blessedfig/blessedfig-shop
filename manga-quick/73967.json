@@ -1,0 +1,90 @@
+{
+  "anilist_id": 73967,
+  "title": "One Week Friends",
+  "label": "Quick read (from summaries)",
+  "confidence": "low",
+  "sources": [
+    "https://en.wikipedia.org/wiki/One_Week_Friends",
+    "https://anilist.co/manga/73967",
+    "https://www.mangaupdates.com/series/cjipg4i"
+  ],
+  "premise": "High schooler Yuki Hase befriends his isolated classmate Kaori Fujimiya, only to learn that since a car accident she loses all memory of her friends every Monday. Yuki resolves to befriend her anew each week, and with a diary he suggests, Kaori slowly holds on to more of him, while friends and a childhood acquaintance complicate things over seven volumes.",
+  "life_message": "Faithful, patient friendship is worth renewing again and again, even when it costs.",
+  "overall": 3,
+  "content": [
+    {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None; a past car accident (Wikipedia)."},
+    {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Emotional drama only."},
+    {"category": "Sexuality and romance", "score": 1, "framing": "Neutral", "note": "Gentle crush and unrequited love (Wikipedia; MangaUpdates)."},
+    {"category": "Language", "score": 0, "framing": "Neutral", "note": "None reported."},
+    {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None."},
+    {"category": "Mental health and self-harm", "score": 3, "framing": "Shown with consequences", "note": "Kaori's anterograde amnesia, loneliness and possibly repressed memories (Wikipedia; MangaUpdates Loneliness)."},
+    {"category": "Imitable behavior", "score": 0, "framing": "Neutral", "note": "None."},
+    {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None."}
+  ],
+  "lenses": [
+    {"lens": "Classical virtue ethics", "strength": 4, "stance": "Affirmed"},
+    {"lens": "Secular humanism", "strength": 3, "stance": "Affirmed"},
+    {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"}
+  ],
+  "dominant": "Steadfast friendship; empathy for disability and loneliness",
+  "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 6},
+  "foundations": {"care": 9, "loyalty": 8, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 5},
+  "frames": [
+    {"frame": "Catholic", "grade": "S", "weight": "Minor", "aligns": "Patient, self-giving love renewed each week mirrors charity.", "concerns": "Little."},
+    {"frame": "Eastern Orthodox", "grade": "A", "weight": "Minor", "aligns": "Long-suffering love and humility.", "concerns": "Little."},
+    {"frame": "Baptist", "grade": "A", "weight": "Minor", "aligns": "Clean story of loyal friendship.", "concerns": "Little."},
+    {"frame": "Non-denominational Evangelical", "grade": "A", "weight": "Minor", "aligns": "Love that keeps no record of wrongs.", "concerns": "Little."},
+    {"frame": "Pentecostal / Charismatic", "grade": "A", "weight": "Minor", "aligns": "Perseverance.", "concerns": "Little."},
+    {"frame": "Reformed / Presbyterian", "grade": "A", "weight": "Minor", "aligns": "Covenant-like faithfulness.", "concerns": "Little."},
+    {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Neighbor love in daily life.", "concerns": "Little."},
+    {"frame": "Methodist / Wesleyan", "grade": "S", "weight": "Minor", "aligns": "Perfect love in small faithful acts.", "concerns": "Little."},
+    {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Gentle moral vision.", "concerns": "Little."},
+    {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "A", "weight": "Minor", "aligns": "Quiet, humble care.", "concerns": "Little."},
+    {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Virtuous and lovely; a diary as remembrance.", "concerns": "Little."},
+    {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusion of a disabled classmate.", "concerns": "Little."},
+    {"frame": "Muslim", "grade": "A", "weight": "Minor", "aligns": "Patience (sabr) and kindness.", "concerns": "Mixed-gender closeness minor."},
+    {"frame": "Hindu", "grade": "A", "weight": "Minor", "aligns": "Selfless friendship.", "concerns": "Little."},
+    {"frame": "Buddhist", "grade": "A", "weight": "Minor", "aligns": "Metta and acceptance of impermanence each week.", "concerns": "Little."},
+    {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Empathetic portrayal of memory disability.", "concerns": "Little."},
+    {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Empathy and memory explored.", "concerns": "Little."},
+    {"frame": "Conservative / traditional", "grade": "A", "weight": "Minor", "aligns": "Loyalty and decency.", "concerns": "Little."},
+    {"frame": "Seventh-day Adventist", "grade": "A", "weight": "Minor", "aligns": "Wholesome.", "concerns": "Little."},
+    {"frame": "Jehovah's Witness", "grade": "A", "weight": "Minor", "aligns": "Clean and kind.", "concerns": "Little."},
+    {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Love outlasting a limitation.", "concerns": "Illness framing."},
+    {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Worth of every person.", "concerns": "Little."},
+    {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Gentle care.", "concerns": "Little."},
+    {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Sincerity (makoto) in friendship.", "concerns": "Little."},
+    {"frame": "Sikh", "grade": "A", "weight": "Minor", "aligns": "Seva-like care.", "concerns": "Little."},
+    {"frame": "Bahá'í", "grade": "A", "weight": "Minor", "aligns": "Fellowship and patience.", "concerns": "Little."},
+    {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Communication rebuilds affinity.", "concerns": "Little."},
+    {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Personal loyalty chosen freely.", "concerns": "Little."},
+    {"frame": "Orthodox Jewish", "grade": "A", "weight": "Minor", "aligns": "Chesed.", "concerns": "Mixed-gender friendship minor."},
+    {"frame": "Conservative Jewish", "grade": "A", "weight": "Minor", "aligns": "Kindness and memory.", "concerns": "Little."},
+    {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Caring for the isolated.", "concerns": "Little."}
+  ],
+  "folkways": {
+    "dims": {
+      "Dignity vs honor": {"pos": 2, "evidence": "Gentle, no confrontation (Wikipedia)."},
+      "Order vs freedom": {"pos": 6, "evidence": "Students free in friendships; Hajime's strict family a contrast (Wikipedia)."},
+      "Civic vs kin": {"pos": 4, "evidence": "Classmates and mother both matter."},
+      "Equality vs hierarchy": {"pos": 3, "evidence": "Peer friendship."},
+      "Tradition vs secular-rational": {"pos": 6, "evidence": "Modern school life."},
+      "Survival vs self-expression": {"pos": 7, "evidence": "Emotional connection and happiness are the goals."}
+    },
+    "closest": ["The Midlands", "English-speaking", "Catholic Europe"],
+    "japan": "Reflects Japanese school-life drama and reserve about expressing feelings directly."
+  },
+  "delivery": {
+    "style": "Woven in",
+    "preachiness": 2,
+    "evidence": "ANN reviews in Wikipedia praise underplayed drama and character growth.",
+    "personified": [],
+    "opposing_views": "None shown",
+    "note": "Its theme of steadfast friendship is shown through Yuki's weekly efforts rather than stated."
+  },
+  "winners_losers": "Yuki and Kaori build a lasting bond; there are no villains; sympathy goes to Kaori.",
+  "to_verify": [
+    "Reviews in Wikipedia are of the anime, not the manga.",
+    "How the ending resolves Kaori's memory."
+  ]
+}

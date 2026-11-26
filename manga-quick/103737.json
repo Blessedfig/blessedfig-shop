@@ -1,0 +1,91 @@
+{
+ "anilist_id": 103737,
+ "title": "My Unique Skill Makes Me OP even at Level 1",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/103737",
+  "https://api.mangaupdates.com/v1/series/4073335329",
+  "https://animeuknews.net/2023/07/my-unique-skill-makes-me-op-even-at-level-1-volume-1-review"
+ ],
+ "premise": "Salaryman Ryota Sato is transported to a world where everything, even food, drops from defeated monsters. Stuck at Level 1 with no skills, he discovers he gets top-rank item drops, and his luck turns around alongside the adventurer Emily Brown (Kodansha blurb via AniList/MU; Anime UK News review of the light novel).",
+ "life_message": "A modest person with one rare gift can build a comfortable life and help those around him.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Dungeon monster fights; MU lists Kidnapping/s and Guns. Light novel review found no real danger (to verify for manga)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Low stakes (review, light novel)."},
+  {"category": "Sexuality and romance", "score": 3, "framing": "Neutral", "note": "Ecchi genre, harem, Polygamy, Bunny Girl/s (MU); MU also lists Sexual Coercion and Attempted Rape. Not confirmed by a review (to verify; may be understated)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Not reported."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Game-like farming loop; not reported."},
+  {"category": "Commercial", "score": 3, "framing": "Neutral", "note": "Light novel franchise with an anime (AniList/MU); loot-drop economy is the premise."}
+ ],
+ "lenses": [
+  {"lens": "Consumerism", "strength": 3, "stance": "Explored"},
+  {"lens": "Pragmatism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Hedonism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Isekai wish fulfilment; luck and comfort; harem romance",
+ "axes": {"economic": 6, "social": 5, "cultural": 5, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 5, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "C", "weight": "Discuss", "aligns": "Ryota shares his good fortune with companions such as Emily.", "concerns": "Harem with polygamy; ecchi; listed sexual coercion."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Contentment with simple sufficiency.", "concerns": "Fan service and polygamy."},
+  {"frame": "Baptist", "grade": "C", "weight": "Significant", "aligns": "Hard-pressed worker finds provision.", "concerns": "Ecchi content; polygamy."},
+  {"frame": "Non-denominational Evangelical", "grade": "C", "weight": "Discuss", "aligns": "Generosity with abundance.", "concerns": "Harem and sexualized art."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Provision in hard times.", "concerns": "Ecchi; magic."},
+  {"frame": "Reformed / Presbyterian", "grade": "C", "weight": "Discuss", "aligns": "Providence-like luck turned to others' good.", "concerns": "Lascivious images; polygamy."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Ordinary work as farming drops.", "concerns": "Fan service."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Using wealth to help.", "concerns": "Fan service; coercion themes."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Kindly protagonist.", "concerns": "Harem framing."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Simple livelihood.", "concerns": "Combat, ecchi and guns."},
+  {"frame": "Latter-day Saint", "grade": "C", "weight": "Discuss", "aligns": "Self-reliance through honest effort.", "concerns": "Immodest art; polygamy framing."},
+  {"frame": "Mainline progressive Protestant", "grade": "C", "weight": "Discuss", "aligns": "Shares wealth.", "concerns": "Sexual coercion and objectification."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Honest earning.", "concerns": "Fan service; bunny-girl costumes; magic."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Artha pursued with fairness.", "concerns": "Fan service."},
+  {"frame": "Buddhist", "grade": "C", "weight": "Discuss", "aligns": "Contentment rather than endless ambition.", "concerns": "Killing monsters for loot; craving."},
+  {"frame": "Secular progressive", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Objectification; harem; listed attempted rape."},
+  {"frame": "Secular humanist", "grade": "C", "weight": "Minor", "aligns": "Systematic thinking about the drop economy.", "concerns": "Thin story (review)."},
+  {"frame": "Conservative / traditional", "grade": "C", "weight": "Discuss", "aligns": "Hard work and self-reliance.", "concerns": "Polygamy; fan service."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Simple living.", "concerns": "Fan service; magic."},
+  {"frame": "Jehovah's Witness", "grade": "D", "weight": "Significant", "aligns": "Honesty.", "concerns": "Magic, violence and immodesty."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Supply as abundance.", "concerns": "Material focus."},
+  {"frame": "Unitarian Universalist", "grade": "C", "weight": "Discuss", "aligns": "Little.", "concerns": "Objectification."},
+  {"frame": "Wiccan / Pagan", "grade": "C", "weight": "Minor", "aligns": "Balance of give and take in nature-like dungeon.", "concerns": "Exploitation."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Gratitude for daily provision.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "C", "weight": "Discuss", "aligns": "Kirat karni (honest work) and sharing.", "concerns": "Lust in fan service."},
+  {"frame": "Bahá'í", "grade": "C", "weight": "Discuss", "aligns": "Service to others.", "concerns": "Immodest images."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Personal ability and self-improvement.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Self-interest and comfort.", "concerns": "Listed sexual coercion."},
+  {"frame": "Orthodox Jewish", "grade": "D", "weight": "Significant", "aligns": "Honest gain.", "concerns": "Immodesty; time-wasting media."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Generosity.", "concerns": "Fan service."},
+  {"frame": "Reform Jewish", "grade": "C", "weight": "Discuss", "aligns": "Sharing wealth.", "concerns": "Objectification."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Disputes settled by power and luck; little honor theme reported."},
+   "Order vs freedom": {"pos": 7, "evidence": "Adventurer lives by his own schedule (review)."},
+   "Civic vs kin": {"pos": 5, "evidence": "Companions form a household-like party."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Level system, but Level 1 hero succeeds anyway."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Game-mechanic world with stats and drop rates."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Goal is a comfortable life (review)."}
+  },
+  "closest": ["Catholic Europe", "New Netherland", "The Midlands"],
+  "japan": "The overworked salaryman escaping to an easier world echoes Japanese concerns about long work hours, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Light novel review finds no strong theme stated (to verify for manga).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Wish-fulfilment adventure with little argument."
+ },
+ "winners_losers": "Ryota's luck lets him prosper; who opposes him is not reported.",
+ "to_verify": [
+  "Review opened covers the light novel, not the manga.",
+  "MU-listed Sexual Coercion and Attempted Rape: context and how shown; sexuality score may be understated.",
+  "Polygamy and harem development; ongoing series (17 volumes)."
+ ]
+}

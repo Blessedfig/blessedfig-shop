@@ -1,0 +1,363 @@
+{
+ "anilist_id": 30285,
+ "title": "Love Recipe",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/30285",
+  "https://api.mangaupdates.com/v1/series/26840369484"
+ ],
+ "premise": "New hire Tomonori Ozawa finds himself editing a boys' love magazine and assigned to Sakurako Kakyoin, a male BL artist known for missing deadlines, who keeps sexually harassing him while Tomonori learns the trade (AniList, from DMP; MU). A rival makes it a love triangle (AniList, MU).",
+ "life_message": "Work and love both come by learning from the bottom up, even with a difficult partner.",
+ "overall": 5,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 3,
+   "framing": "Neutral",
+   "note": "MU lists Rape and Forced into a Relationship; details not in summaries (to verify)."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Workplace comedy."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 5,
+   "framing": "Neutral",
+   "note": "MU Yaoi with First-Time Intercourse; AniList Boys' Love; publisher blurb on harassment."
+  },
+  {
+   "category": "Language",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Deadline stress."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 5,
+   "framing": "Endorsed",
+   "note": "Workplace sexual harassment played for comedy (AniList/DMP blurb; MU Forced into a Relationship, Stolen Kiss)."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Satire of the BL magazine business (AniList, MU Comic Industry)."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Hedonism",
+   "strength": 2,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Pragmatism",
+   "strength": 1,
+   "stance": "Explored"
+  }
+ ],
+ "dominant": "Expressive individualism; workplace comedy",
+ "axes": {
+  "economic": 5,
+  "social": 7,
+  "cultural": 6,
+  "community": 5
+ },
+ "foundations": {
+  "care": 3,
+  "loyalty": 3,
+  "fairness": 2,
+  "sanctity": 2,
+  "authority": 4,
+  "liberty": 6
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Tomonori's diligence at humble editorial tasks.",
+   "concerns": "Harassment framed as romance; same-sex sexual content."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Patience under a difficult superior-like artist.",
+   "concerns": "Passions stirred; forced relationship (MU)."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Hard work from the bottom up.",
+   "concerns": "Sexual harassment played as comedy; same-sex sex."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Faithful work ethic in Tomonori.",
+   "concerns": "Harassment and same-sex romance celebrated."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little beyond diligence.",
+   "concerns": "Sexual content; harassment; same-sex acts."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Vocation shown as learning a craft.",
+   "concerns": "Lascivious content; forced relationship."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Vocation in ordinary work.",
+   "concerns": "Harassment excused; synods divide on the romance."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "C",
+   "weight": "Significant",
+   "aligns": "Perseverance at work.",
+   "concerns": "Harm done through harassment treated as funny."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Satire of publishing life.",
+   "concerns": "Kakyoin's harassment of a new employee."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Humble work.",
+   "concerns": "Sexual content and worldly industry."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work ethic and self-reliance.",
+   "concerns": "Law of chastity; harassment."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Same-sex love in a creative workplace.",
+   "concerns": "Harassment and forced relationship as romance."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest effort at work.",
+   "concerns": "Sexual content; same-sex romance; harassment."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Learning one's duty (dharma) in work.",
+   "concerns": "Lust and harassment."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Right effort in Tomonori's job.",
+   "concerns": "Sexual misconduct through harassment."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Queer creators shown in the comics industry.",
+   "concerns": "Workplace harassment and consent (MU Forced into a Relationship)."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Industry satire.",
+   "concerns": "Coercion in the workplace."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Starting from the bottom and earning a place.",
+   "concerns": "Sexual content; harassment as joke."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Content exciting the passions."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual immorality; harassment."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Persistence.",
+   "concerns": "Sensual and coercive images."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Dignity of queer artists.",
+   "concerns": "Consent and workplace power."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Creativity.",
+   "concerns": "Harm through harassment."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Sincere effort in work.",
+   "concerns": "Disharmony through harassment."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Honest work (kirat karni).",
+   "concerns": "Lust; harassment."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Work as worship in spirit of service.",
+   "concerns": "Chastity; harassment."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Production and study of a trade.",
+   "concerns": "Harassment harms a person of good will."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "B",
+   "weight": "Discuss",
+   "aligns": "Kakyoin indulges freely.",
+   "concerns": "Unwanted sexual advances rule."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "D",
+   "weight": "Significant",
+   "aligns": "Little.",
+   "concerns": "Sexual content; same-sex acts; harassment."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Diligence.",
+   "concerns": "Harassment and degrading content."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "C",
+   "weight": "Discuss",
+   "aligns": "Inclusion.",
+   "concerns": "Workplace harassment."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "No honor duels."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Kakyoin flouts deadlines and boundaries."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Workplace, not family."
+   },
+   "Equality vs hierarchy": {
+    "pos": 6,
+    "evidence": "Junior editor must start at the bottom (AniList)."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 7,
+    "evidence": "Secular commercial setting."
+   },
+   "Survival vs self-expression": {
+    "pos": 6,
+    "evidence": "Creative work and desire."
+   }
+  },
+  "closest": [
+   "New Netherland",
+   "Catholic Europe",
+   "The Midlands"
+  ],
+  "japan": "The new employee starting with menial tasks reflects Japanese workplace apprenticeship norms; the BL magazine setting satirizes Japan's own BL industry."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "Comedy genre (AniList); no review found (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Comedy that does not comment on the harassment it shows."
+ },
+ "winners_losers": "The triangle's outcome is not in summaries (to verify); comedy sympathy lies with Kakyoin's pursuit.",
+ "to_verify": [
+  "Outcome of the love triangle",
+  "Nature of MU Rape category",
+  "Explicitness",
+  "English availability (Juné)"
+ ]
+}

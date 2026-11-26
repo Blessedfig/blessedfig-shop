@@ -1,0 +1,91 @@
+{
+ "anilist_id": 151254,
+ "title": "Erio & the Electric Doll",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/151254",
+  "https://api.mangaupdates.com/v1/series/49461574240"
+ ],
+ "premise": "A century-long war between humanity and AI ended when humans gave up electricity. In this steampunk world, Ange (also romanized Anjie), the last electric automaton, and Erio, the human girl she raised, set out on a journey so Erio can see the outside world (MANGA MILLION blurb via AniList; MU).",
+ "life_message": "Love and family can be found across the line between human and machine.",
+ "overall": 3,
+ "content": [
+  {"category": "Violence", "score": 3, "framing": "Neutral", "note": "Post-war setting; AniList War and Assassins tags (to verify detail)."},
+  {"category": "Fear and intensity", "score": 2, "framing": "Neutral", "note": "Post-apocalyptic journey (AniList, MU)."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "AniList Yuri (69%) and Age Gap tags; nature of the relationship not confirmed (to verify)."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Substances", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Mental health and self-harm", "score": 2, "framing": "Neutral", "note": "AniList Dissociative Identities (spoiler), Rehabilitation (to verify)."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Nothing reported."},
+  {"category": "Commercial", "score": 1, "framing": "Neutral", "note": "Nothing noted."}
+ ],
+ "lenses": [
+  {"lens": "Transhumanism", "strength": 4, "stance": "Explored"},
+  {"lens": "Communitarianism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Environmentalism", "strength": 2, "stance": "Explored"},
+  {"lens": "Existentialism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Found family between human and machine; life after technological war",
+ "axes": {"economic": 5, "social": 6, "cultural": 5, "community": 6},
+ "foundations": {"care": 8, "loyalty": 7, "fairness": 5, "sanctity": 3, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Self-giving care of Ange raising Erio.", "concerns": "Yuri tag; machine personhood questions."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Discuss", "aligns": "Nurturing love.", "concerns": "Possible same-sex romance (to verify)."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Faithful guardianship.", "concerns": "Yuri tag; crossdressing tag."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Found family and protection.", "concerns": "Yuri tag (to verify)."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Care for a child.", "concerns": "Same-sex romance tag."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Limits of human technology after war.", "concerns": "Yuri tag."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Vocation of caregiving.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Love that serves.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Imaginative moral journey.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Discuss", "aligns": "Humanity choosing to give up electricity echoes plain living.", "concerns": "War and assassins."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Family love.", "concerns": "Yuri tag."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Inclusive found family.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Duty of care.", "concerns": "Same-sex romance tag; crossdressing."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty and devotion.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "War's suffering and compassion after it.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Queer and found-family themes.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Questions of AI and humanity.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "Guardian's duty and sacrifice.", "concerns": "Yuri and crossdressing tags."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Discuss", "aligns": "Simplicity after technology.", "concerns": "Yuri tag."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Peace after war.", "concerns": "Violence; same-sex romance tag."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "Love over material conflict.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Interdependence across difference.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Return to a less mechanized world.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "A made object with something like spirit.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Service and protection.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Unity after war.", "concerns": "Romance tag."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Spirit beyond the machine.", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Individual freedom to explore.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Chesed.", "concerns": "Yuri and crossdressing tags."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Care and repair after war.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Tikkun olam after catastrophe.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 4, "evidence": "Travel story; assassins tag suggests conflict (to verify)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Journey to see the world (blurb)."},
+   "Civic vs kin": {"pos": 8, "evidence": "Ange and Erio's bond is the core (blurb; AniList Found Family)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Machine and human as family."},
+   "Tradition vs secular-rational": {"pos": 6, "evidence": "Society that renounced electricity after AI war (blurb)."},
+   "Survival vs self-expression": {"pos": 5, "evidence": "Post-apocalyptic, yet journey is for experience."}
+  },
+  "closest": ["El Norte", "Catholic Europe", "First Nation"],
+  "japan": "Robot-caregiver and post-apocalyptic travel stories are a familiar Japanese seinen mode, described as context."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 3,
+  "evidence": "No review opened; sources say nothing on delivery (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "Sources describe the premise only."
+ },
+ "winners_losers": "Ange and Erio are the sympathetic center; how the story treats humanity's anti-AI choice is not known from sources.",
+ "to_verify": [
+  "No review opened; plot beyond the premise, the Yuri tag and Crossdressing/Assassins tags all to check.",
+  "Ange versus Anjie spelling in the English release (MU uses Anjie).",
+  "Originally a short serialization extended into a 5-volume series (MU note)."
+ ]
+}

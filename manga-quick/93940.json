@@ -1,0 +1,90 @@
+{
+ "anilist_id": 93940,
+ "title": "Blend-S",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/93940",
+  "https://api.mangaupdates.com/v1/series/64146381594"
+ ],
+ "premise": "High schooler Maika Sakuranomiya struggles to find a part-time job until she is hired at a café where every waitress plays a character type, such as tsundere or little sister (Yen Press blurb via AniList; MU). Because her natural expression looks fierce, the manager casts the cheerful, caring Maika as a 'sadist' (blurb). A 4-koma workplace comedy, complete in 8 volumes, with cross-dressing, otaku and age-gap crush elements (MU; AniList).",
+ "life_message": "Kindness shows through even when others judge you by appearance, and quirky coworkers can become a warm team.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Comic 'sadistic' insults played for laughs (blurb)."},
+  {"category": "Fear and intensity", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Workplace crushes including an older male manager and teen worker (MU Age Gap, Older Male Younger Female); maid-cafe roleplay (to verify)."},
+  {"category": "Language", "score": 2, "framing": "Neutral", "note": "Teasing and mock-insulting customers as a gimmick (blurb)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Rejected from jobs over appearance (blurb)."},
+  {"category": "Imitable behavior", "score": 2, "framing": "Neutral", "note": "Playing a 'sadist' persona; MU Stereotypes, False Personality."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Character-type café culture (AniList Maids, Otaku Culture)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Explored"},
+  {"lens": "Consumerism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Workplace comedy; appearance versus personality",
+ "axes": {"economic": 5, "social": 6, "cultural": 6, "community": 5},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 4, "sanctity": 2, "authority": 4, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Discuss", "aligns": "Maika's genuine kindness behind a fierce look.", "concerns": "Adult manager's crush on a teen employee; maid roleplay."},
+  {"frame": "Eastern Orthodox", "grade": "C", "weight": "Discuss", "aligns": "Kind heart under appearances.", "concerns": "Playacting cruelty as entertainment; fan-service atmosphere."},
+  {"frame": "Baptist", "grade": "C", "weight": "Discuss", "aligns": "Diligence at work.", "concerns": "Cross-dressing character; insult-based humor; age-gap crush."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Discuss", "aligns": "Not judging by appearance.", "concerns": "Mild otaku and maid themes."},
+  {"frame": "Pentecostal / Charismatic", "grade": "C", "weight": "Discuss", "aligns": "Hard-working heroine.", "concerns": "Worldly café roleplay."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Discuss", "aligns": "Diligence in work.", "concerns": "Pretend cruelty; cross-dressing."},
+  {"frame": "Lutheran", "grade": "B", "weight": "Minor", "aligns": "Ordinary work as vocation.", "concerns": "Little to raise."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Kindness to coworkers.", "concerns": "Little to raise."},
+  {"frame": "Anglican / Episcopal", "grade": "B", "weight": "Minor", "aligns": "Comedy with a kind heart.", "concerns": "Little to raise."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "C", "weight": "Discuss", "aligns": "Honest labor.", "concerns": "Worldly entertainment culture."},
+  {"frame": "Latter-day Saint", "grade": "B", "weight": "Discuss", "aligns": "Work and self-reliance.", "concerns": "Age-gap crush; cross-dressing."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "LGBT character included (MU).", "concerns": "Adult-teen crush."},
+  {"frame": "Muslim", "grade": "C", "weight": "Discuss", "aligns": "Diligence and good character.", "concerns": "Cross-dressing, maid costumes."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Duty at work.", "concerns": "Little to raise."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Appearance is not the self.", "concerns": "Harsh speech as performance."},
+  {"frame": "Secular progressive", "grade": "B", "weight": "Discuss", "aligns": "Challenges judging by looks; LGBT character.", "concerns": "Adult manager's interest in a teen; stereotype-based roles."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Appearance versus reality.", "concerns": "Little to raise."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Discuss", "aligns": "A teen's work ethic.", "concerns": "Cross-dressing; maid café culture."},
+  {"frame": "Seventh-day Adventist", "grade": "C", "weight": "Discuss", "aligns": "Industry.", "concerns": "Worldly café roleplay."},
+  {"frame": "Jehovah's Witness", "grade": "C", "weight": "Discuss", "aligns": "Clean comedy.", "concerns": "Cross-dressing; romance."},
+  {"frame": "Christian Science", "grade": "B", "weight": "Minor", "aligns": "True nature beyond appearance.", "concerns": "Little to raise."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Inclusive cast; no judging by looks.", "concerns": "Little to raise."},
+  {"frame": "Wiccan / Pagan", "grade": "B", "weight": "Minor", "aligns": "Playful self-expression.", "concerns": "Little to raise."},
+  {"frame": "Shinto", "grade": "B", "weight": "Minor", "aligns": "Group harmony at work.", "concerns": "Little to raise."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Honest work.", "concerns": "Little to raise."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Discuss", "aligns": "Courtesy beneath the act.", "concerns": "Mock insults."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity among coworkers.", "concerns": "Little to raise."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Playful subversion of politeness.", "concerns": "Little to raise."},
+  {"frame": "Orthodox Jewish", "grade": "C", "weight": "Discuss", "aligns": "Diligence.", "concerns": "Cross-dressing; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kindness at work.", "concerns": "Little to raise."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Inclusion and kindness.", "concerns": "Little to raise."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 3, "evidence": "No honor conflicts; comic workplace."},
+   "Order vs freedom": {"pos": 6, "evidence": "Café roles assigned but playful (blurb)."},
+   "Civic vs kin": {"pos": 3, "evidence": "Coworkers as community (MU Coworker Relationships)."},
+   "Equality vs hierarchy": {"pos": 4, "evidence": "Boss-subordinate relations, light (MU)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern otaku culture."},
+   "Survival vs self-expression": {"pos": 7, "evidence": "Personas and fun at work."}
+  },
+  "closest": ["New Netherland", "Yankeedom", "Catholic Europe"],
+  "japan": "Character-themed cafés and part-time work for high schoolers reflect Japanese otaku and baito culture."
+ },
+ "delivery": {
+  "style": "Subtle",
+  "preachiness": 1,
+  "evidence": "4-koma gag comedy per AniList/MU; no message noted (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A gag comedy without argued positions."
+ },
+ "winners_losers": "The café staff, especially kind-hearted Maika, are shown warmly; no antagonist described.",
+ "to_verify": [
+  "How the manager's crush on Maika is handled",
+  "Fan service level (MangaDex rating not available)",
+  "Treatment of the cross-dressing character",
+  "English license check: MU matched by exact title"
+ ]
+}

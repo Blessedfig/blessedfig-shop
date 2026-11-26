@@ -1,0 +1,89 @@
+{
+ "anilist_id": 198817,
+ "title": "Someone Hertz",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/198817",
+  "https://api.mangaupdates.com/v1/series/9039539287"
+ ],
+ "premise": "Mimei, a high-school boy, shares a love of a late-night comedy radio show with his funny, mysterious classmate Kurage, who turns out to be a famous contributor whose comments get read on air (MANGA Plus blurb). Mimei wants to be as funny as she is, and the two become friends, rivals and maybe more. A Weekly Shonen Jump romantic comedy; AniList notes a 2026 Next Manga Award.",
+ "life_message": "Shared passions, friendly rivalry and the courage to be funny can grow into friendship and love.",
+ "overall": 2,
+ "content": [
+  {"category": "Violence", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Iyashikei (healing) tone per AniList."},
+  {"category": "Sexuality and romance", "score": 2, "framing": "Neutral", "note": "Teen romantic comedy between classmates; MangaDex rates it safe."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Comedy banter; not described."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Mental health and self-harm", "score": 0, "framing": "Neutral", "note": "Nothing noted."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "Late-night radio listening."},
+  {"category": "Commercial", "score": 2, "framing": "Neutral", "note": "Pop culture and radio-show references (MangaUpdates)."}
+ ],
+ "lenses": [
+  {"lens": "Expressive individualism", "strength": 4, "stance": "Affirmed"},
+  {"lens": "Secular humanism", "strength": 2, "stance": "Affirmed"},
+  {"lens": "Communitarianism", "strength": 2, "stance": "Explored"}
+ ],
+ "dominant": "Comedy as craft; friendly rivalry; gentle teen romance",
+ "axes": {"economic": 5, "social": 5, "cultural": 5, "community": 4},
+ "foundations": {"care": 6, "loyalty": 5, "fairness": 6, "sanctity": 3, "authority": 3, "liberty": 6},
+ "frames": [
+  {"frame": "Catholic", "grade": "B", "weight": "Minor", "aligns": "Joy and friendship between Mimei and Kurage.", "concerns": "Little; check comedy content heard on the radio show."},
+  {"frame": "Eastern Orthodox", "grade": "B", "weight": "Minor", "aligns": "Innocent friendship.", "concerns": "Entertainment-centred life."},
+  {"frame": "Baptist", "grade": "B", "weight": "Minor", "aligns": "Clean teen romance.", "concerns": "Crude jokes possible in comedy setting (to verify)."},
+  {"frame": "Non-denominational Evangelical", "grade": "B", "weight": "Minor", "aligns": "Healthy friendship and creativity.", "concerns": "Little."},
+  {"frame": "Pentecostal / Charismatic", "grade": "B", "weight": "Minor", "aligns": "Uplifting tone.", "concerns": "Little."},
+  {"frame": "Reformed / Presbyterian", "grade": "B", "weight": "Minor", "aligns": "Developing a gift through practice.", "concerns": "Little."},
+  {"frame": "Lutheran", "grade": "A", "weight": "Minor", "aligns": "Humor and friendship as good gifts.", "concerns": "Little."},
+  {"frame": "Methodist / Wesleyan", "grade": "B", "weight": "Minor", "aligns": "Kind rivalry.", "concerns": "Little."},
+  {"frame": "Anglican / Episcopal", "grade": "A", "weight": "Minor", "aligns": "Wit and gentle romance.", "concerns": "Little."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "B", "weight": "Minor", "aligns": "Simple friendship.", "concerns": "Media-centred hobby."},
+  {"frame": "Latter-day Saint", "grade": "A", "weight": "Minor", "aligns": "Wholesome friendship and creativity.", "concerns": "Little."},
+  {"frame": "Mainline progressive Protestant", "grade": "A", "weight": "Minor", "aligns": "Mutual respect between rivals.", "concerns": "Little."},
+  {"frame": "Muslim", "grade": "B", "weight": "Minor", "aligns": "Friendship and good humor.", "concerns": "Boy-girl romance outside marriage."},
+  {"frame": "Hindu", "grade": "B", "weight": "Minor", "aligns": "Cultivating talent.", "concerns": "Little."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Minor", "aligns": "Healing (iyashikei) mood; kindness.", "concerns": "Little."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Girl as the funnier, admired lead.", "concerns": "Little."},
+  {"frame": "Secular humanist", "grade": "A", "weight": "Minor", "aligns": "Creativity and human connection.", "concerns": "Little."},
+  {"frame": "Conservative / traditional", "grade": "B", "weight": "Minor", "aligns": "Clean school romance.", "concerns": "Little."},
+  {"frame": "Seventh-day Adventist", "grade": "B", "weight": "Minor", "aligns": "Wholesome friendship.", "concerns": "Late-night entertainment focus."},
+  {"frame": "Jehovah's Witness", "grade": "B", "weight": "Minor", "aligns": "Clean content.", "concerns": "Little."},
+  {"frame": "Christian Science", "grade": "A", "weight": "Minor", "aligns": "Joyful, uplifting thought.", "concerns": "Little."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Self-expression and kinship.", "concerns": "Little."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Personal creativity.", "concerns": "Little."},
+  {"frame": "Shinto", "grade": "A", "weight": "Minor", "aligns": "Harmony and sincerity between classmates.", "concerns": "Little."},
+  {"frame": "Sikh", "grade": "B", "weight": "Minor", "aligns": "Equality of girl and boy as rivals.", "concerns": "Little."},
+  {"frame": "Bahá'í", "grade": "B", "weight": "Minor", "aligns": "Friendship and equality.", "concerns": "Little."},
+  {"frame": "Scientologist", "grade": "A", "weight": "Minor", "aligns": "Communication and affinity (ARC).", "concerns": "Little."},
+  {"frame": "Satanist", "grade": "B", "weight": "Minor", "aligns": "Pursuing personal pleasure in humor.", "concerns": "Little."},
+  {"frame": "Orthodox Jewish", "grade": "B", "weight": "Discuss", "aligns": "Friendship and good speech.", "concerns": "Bittul Torah; mixed-gender romance."},
+  {"frame": "Conservative Jewish", "grade": "B", "weight": "Minor", "aligns": "Kind humor.", "concerns": "Little."},
+  {"frame": "Reform Jewish", "grade": "A", "weight": "Minor", "aligns": "Respect and creativity.", "concerns": "Little."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 2, "evidence": "Rivalry through jokes, not insult."},
+   "Order vs freedom": {"pos": 6, "evidence": "Personal hobby and creativity."},
+   "Civic vs kin": {"pos": 3, "evidence": "Classmates and radio community."},
+   "Equality vs hierarchy": {"pos": 3, "evidence": "Rivals as equals (blurb)."},
+   "Tradition vs secular-rational": {"pos": 7, "evidence": "Modern pop-culture world (MangaUpdates)."},
+   "Survival vs self-expression": {"pos": 8, "evidence": "Being funny and expressing oneself is the goal."}
+  },
+  "closest": ["New Netherland", "English-speaking", "The Left Coast"],
+  "japan": "Built around Japanese late-night radio culture and manzai comedy, where listeners send in jokes under pen names."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Blurbs only; no review opened (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "A light rom-com whose themes ride on the comedy (to verify)."
+ },
+ "winners_losers": "Mimei and Kurage are the sympathetic pair; no antagonist noted.",
+ "to_verify": [
+  "MangaUpdates lists a 'Lolicon' genre, probably a mis-tag for a short female lead; check against the manga.",
+  "Ongoing series; no review or Wikipedia cache opened."
+ ]
+}

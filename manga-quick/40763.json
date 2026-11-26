@@ -1,0 +1,88 @@
+{
+ "anilist_id": 40763,
+ "title": "Your Love Sickness",
+ "label": "Quick read (from summaries)",
+ "confidence": "low to medium",
+ "sources": ["https://anilist.co/manga/40763", "https://api.mangaupdates.com/v1/series/24651984561", "https://www.animenewsnetwork.com/review/your-love-sickness/gn", "http://www.kuriousity.ca/2010/10/ann-review-your-love-sickness/"],
+ "premise": "A boys' love anthology. In the title story, two fox spirits guarding an Inari shrine, the serious low-ranked red fox Unka and the reckless high-born white fox Aura, are childhood friends and lovers divided by rank. Other stories follow a lost man seduced by a forest spirit, an injured model and the bento-shop manager who visits him, and a police officer reunited with a yakuza childhood friend.",
+ "life_message": "Love can bridge rank and difference when both partners are honest and bold.",
+ "overall": 5,
+ "content": [
+  {"category": "Violence", "score": 1, "framing": "Neutral", "note": "Yakuza character in final story; no violence described (ANN review)."},
+  {"category": "Fear and intensity", "score": 1, "framing": "Neutral", "note": "Light, 'fluffy' tone (ANN review)."},
+  {"category": "Sexuality and romance", "score": 5, "framing": "Neutral", "note": "Several 'steamy' sexual encounters and nudity among adult characters (ANN review); MangaDex erotica; consensual per review."},
+  {"category": "Language", "score": 1, "framing": "Neutral", "note": "Not documented (to verify)."},
+  {"category": "Substances", "score": 0, "framing": "Neutral", "note": "None noted."},
+  {"category": "Mental health and self-harm", "score": 1, "framing": "Neutral", "note": "Mild insecurity over rank."},
+  {"category": "Imitable behavior", "score": 1, "framing": "Neutral", "note": "MU lists Dubious Consent, but ANN says consent is consistent throughout (to verify)."},
+  {"category": "Commercial", "score": 0, "framing": "Neutral", "note": "None noted."}
+ ],
+ "lenses": [
+  {"lens": "Pantheist/New Age", "strength": 2, "stance": "Explored"},
+  {"lens": "Expressive individualism", "strength": 3, "stance": "Affirmed"},
+  {"lens": "Traditionalism", "strength": 2, "stance": "Critiqued"}
+ ],
+ "dominant": "Love across rank; fox spirits and shrine folklore; light romance",
+ "axes": {"economic": 5, "social": 7, "cultural": 4, "community": 5},
+ "foundations": {"care": 5, "loyalty": 6, "fairness": 5, "sanctity": 4, "authority": 4, "liberty": 5},
+ "frames": [
+  {"frame": "Catholic", "grade": "D", "weight": "Significant", "aligns": "Love that ignores rank among the foxes echoes the equal dignity of persons.", "concerns": "Steamy same-sex encounters; shrine-guardian spirits as divine beings."},
+  {"frame": "Eastern Orthodox", "grade": "D", "weight": "Significant", "aligns": "Humility of the lower-ranked Unka.", "concerns": "Spirit beings and sexual content inflaming passions."},
+  {"frame": "Baptist", "grade": "D", "weight": "Significant", "aligns": "Faithful childhood friendship.", "concerns": "Same-sex sexual content; fox deities and spirits."},
+  {"frame": "Non-denominational Evangelical", "grade": "D", "weight": "Significant", "aligns": "Overcoming class prejudice.", "concerns": "Sexual content; pagan spirits shown as guardians."},
+  {"frame": "Pentecostal / Charismatic", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Spirits and seduction by a forest spirit seen as spiritually dangerous."},
+  {"frame": "Reformed / Presbyterian", "grade": "D", "weight": "Significant", "aligns": "Critique of rank pride.", "concerns": "Other gods' servants as heroes; sexual content."},
+  {"frame": "Lutheran", "grade": "C", "weight": "Discuss", "aligns": "Light folklore fun; ELCA families may accept the couples.", "concerns": "Sexual content; LCMS objection."},
+  {"frame": "Methodist / Wesleyan", "grade": "C", "weight": "Discuss", "aligns": "Crossing social barriers.", "concerns": "Sexual content."},
+  {"frame": "Anglican / Episcopal", "grade": "C", "weight": "Discuss", "aligns": "Fable-like folklore setting.", "concerns": "Sexual content; ACNA objection."},
+  {"frame": "Anabaptist (Mennonite, Amish, Brethren)", "grade": "D", "weight": "Significant", "aligns": "Humility.", "concerns": "Sexual content and spirit lore."},
+  {"frame": "Latter-day Saint", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Law of chastity."},
+  {"frame": "Mainline progressive Protestant", "grade": "B", "weight": "Minor", "aligns": "Consensual gay love that challenges a rank system.", "concerns": "Little concern."},
+  {"frame": "Muslim", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Spirit deities, same-sex relations, sexual content."},
+  {"frame": "Hindu", "grade": "C", "weight": "Discuss", "aligns": "Divine animal guardians echo familiar sacred-animal ideas.", "concerns": "Caste-like rank questioned; sexual content."},
+  {"frame": "Buddhist", "grade": "B", "weight": "Discuss", "aligns": "Rank distinctions shown as empty next to affection.", "concerns": "Sensual content."},
+  {"frame": "Secular progressive", "grade": "A", "weight": "Minor", "aligns": "Consensual queer love questioning a 'racial barrier' (ANN).", "concerns": "Discrimination theme treated lightly."},
+  {"frame": "Secular humanist", "grade": "B", "weight": "Minor", "aligns": "Equality and consent.", "concerns": "Little concern."},
+  {"frame": "Conservative / traditional", "grade": "D", "weight": "Significant", "aligns": "Duty to guard the shrine.", "concerns": "Same-sex romance and sexual content."},
+  {"frame": "Seventh-day Adventist", "grade": "D", "weight": "Significant", "aligns": "Loyalty.", "concerns": "Spirit beings and sexual content."},
+  {"frame": "Jehovah's Witness", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Spiritism and immorality."},
+  {"frame": "Christian Science", "grade": "C", "weight": "Discuss", "aligns": "Love dissolving prejudice.", "concerns": "Sensual content."},
+  {"frame": "Unitarian Universalist", "grade": "A", "weight": "Minor", "aligns": "Pluralism and equity across rank.", "concerns": "Little concern."},
+  {"frame": "Wiccan / Pagan", "grade": "A", "weight": "Minor", "aligns": "Nature spirits respected; consensual sexuality.", "concerns": "Little concern."},
+  {"frame": "Shinto", "grade": "B", "weight": "Discuss", "aligns": "Inari's fox messengers given warmth and personality.", "concerns": "Sexualised kami servants may seem disrespectful to some."},
+  {"frame": "Sikh", "grade": "D", "weight": "Discuss", "aligns": "Equality across rank.", "concerns": "Lust; deities."},
+  {"frame": "Bahá'í", "grade": "D", "weight": "Significant", "aligns": "Removal of prejudice.", "concerns": "Chastity teaching."},
+  {"frame": "Scientologist", "grade": "B", "weight": "Minor", "aligns": "Affinity across difference.", "concerns": "Little concern."},
+  {"frame": "Satanist", "grade": "A", "weight": "Minor", "aligns": "Pleasure and defiance of hierarchy.", "concerns": "Little concern."},
+  {"frame": "Orthodox Jewish", "grade": "F", "weight": "Significant", "aligns": "Little to note.", "concerns": "Same-sex relations; spirits; tzniut."},
+  {"frame": "Conservative Jewish", "grade": "C", "weight": "Discuss", "aligns": "Same-sex commitment recognised.", "concerns": "Sexual content."},
+  {"frame": "Reform Jewish", "grade": "B", "weight": "Minor", "aligns": "Inclusion; anti-prejudice.", "concerns": "Little concern."}
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {"pos": 5, "evidence": "Aura 'losing face' over the relationship (ANN review)."},
+   "Order vs freedom": {"pos": 6, "evidence": "Reckless Aura pursues what he wants despite rank rules."},
+   "Civic vs kin": {"pos": 5, "evidence": "Shrine duty plus childhood bonds."},
+   "Equality vs hierarchy": {"pos": 7, "evidence": "Fox society ranked by birth; romance strains it (ANN, MU Social Gap)."},
+   "Tradition vs secular-rational": {"pos": 3, "evidence": "Shrine, fox deities and feudal-era spirit legend."},
+   "Survival vs self-expression": {"pos": 6, "evidence": "Light romance and personal fulfilment."}
+  },
+  "closest": ["Latin America", "Tidewater", "El Norte"],
+  "japan": "Inari fox messengers (kitsune) and feudal-era spirit tales draw directly on Japanese Shinto and folk tradition."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 1,
+  "evidence": "ANN: the rank conflict is 'never handled that seriously'; tone light and playful.",
+  "personified": [],
+  "opposing_views": "Mixed",
+  "note": "The rank system is shown as an obstacle but not argued against at length."
+ },
+ "winners_losers": "Unka and Aura stay together despite rank; the collection sympathises with love over status.",
+ "to_verify": [
+  "MU Dubious Consent tag versus ANN's statement that encounters are consensual.",
+  "Explicitness (MangaDex erotica; ANN says 'briefly steamy').",
+  "June/DMP license status (possibly lapsed).",
+  "Ages: ANN names no teen characters; childhood scenes are non-sexual per review (to verify)."
+ ]
+}

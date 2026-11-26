@@ -1,0 +1,362 @@
+{
+ "anilist_id": 110128,
+ "title": "My Lady Just Wants to Relax",
+ "label": "Quick read (from summaries)",
+ "confidence": "low",
+ "sources": [
+  "https://anilist.co/manga/110128",
+  "https://api.mangadex.org/manga/63a76f81-0e64-47b6-b8d7-4feda78c10f1"
+ ],
+ "premise": "After being worked to death, Ronia is reborn as the villainess of a novel she knows, and accepts the cancelled engagement and banishment the story holds for her. In the countryside she opens a coffee shop with the help of small fairies called Loto, and beastmen customers start arriving one after another (Alpha Manga blurb via AniList; MangaDex metadata).",
+ "life_message": "Rest, simple pleasures and kindness are worth more than status or overwork.",
+ "overall": 2,
+ "content": [
+  {
+   "category": "Violence",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Fear and intensity",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Banishment only."
+  },
+  {
+   "category": "Sexuality and romance",
+   "score": 2,
+   "framing": "Neutral",
+   "note": "Male-harem romance (AniList tag); not described."
+  },
+  {
+   "category": "Language",
+   "score": 0,
+   "framing": "Neutral",
+   "note": "Not noted."
+  },
+  {
+   "category": "Substances",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Coffee shop."
+  },
+  {
+   "category": "Mental health and self-harm",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Overwork death backstory."
+  },
+  {
+   "category": "Imitable behavior",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "None noted."
+  },
+  {
+   "category": "Commercial",
+   "score": 1,
+   "framing": "Neutral",
+   "note": "Food and cafe focus."
+  }
+ ],
+ "lenses": [
+  {
+   "lens": "Hedonism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Expressive individualism",
+   "strength": 3,
+   "stance": "Affirmed"
+  },
+  {
+   "lens": "Communitarianism",
+   "strength": 2,
+   "stance": "Affirmed"
+  }
+ ],
+ "dominant": "Slow-life rest after overwork; hospitality",
+ "axes": {
+  "economic": 5,
+  "social": 5,
+  "cultural": 5,
+  "community": 5
+ },
+ "foundations": {
+  "care": 6,
+  "loyalty": 4,
+  "fairness": 4,
+  "sanctity": 2,
+  "authority": 2,
+  "liberty": 7
+ },
+ "frames": [
+  {
+   "frame": "Catholic",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hospitality and Sabbath-like rest.",
+   "concerns": "Reincarnation premise; fairies."
+  },
+  {
+   "frame": "Eastern Orthodox",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Simplicity and peace.",
+   "concerns": "Reincarnation."
+  },
+  {
+   "frame": "Baptist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Kindness to customers.",
+   "concerns": "Reincarnation; harem romance."
+  },
+  {
+   "frame": "Non-denominational Evangelical",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rest from striving.",
+   "concerns": "Harem tag."
+  },
+  {
+   "frame": "Pentecostal / Charismatic",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Peace and hospitality.",
+   "concerns": "Fairies and magic."
+  },
+  {
+   "frame": "Reformed / Presbyterian",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rest and work in balance.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Lutheran",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Daily vocation of cafe work.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Methodist / Wesleyan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anglican / Episcopal",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Gentle hospitality.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Anabaptist (Mennonite, Amish, Brethren)",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Simple country life.",
+   "concerns": "Worldly romance."
+  },
+  {
+   "frame": "Latter-day Saint",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-reliance and service.",
+   "concerns": "Coffee central (Word of Wisdom)."
+  },
+  {
+   "frame": "Mainline progressive Protestant",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Critique of overwork.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Muslim",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Reincarnation; magic fairies."
+  },
+  {
+   "frame": "Hindu",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Rebirth and hospitality.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Buddhist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Contentment over status.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Secular progressive",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Escape from exploitative overwork.",
+   "concerns": "Harem gender dynamics."
+  },
+  {
+   "frame": "Secular humanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Choosing well-being.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Conservative / traditional",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hard work and self-reliance in the shop.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Seventh-day Adventist",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Rest and health.",
+   "concerns": "Coffee; reincarnation."
+  },
+  {
+   "frame": "Jehovah's Witness",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Peaceable life.",
+   "concerns": "Fairies; reincarnation."
+  },
+  {
+   "frame": "Christian Science",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Peace of mind.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Unitarian Universalist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Welcoming beastmen of all kinds.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Wiccan / Pagan",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Nature spirits as helpers.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Shinto",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Harmony with small spirits.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Sikh",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Honest work and sharing food.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Bahá'í",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hospitality and service.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Scientologist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Well-being.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Satanist",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Self-care and pleasure.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Orthodox Jewish",
+   "grade": "B",
+   "weight": "Minor",
+   "aligns": "Hospitality (hachnasat orchim).",
+   "concerns": "Magic; harem romance."
+  },
+  {
+   "frame": "Conservative Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Hospitality.",
+   "concerns": "Little to raise."
+  },
+  {
+   "frame": "Reform Jewish",
+   "grade": "A",
+   "weight": "Minor",
+   "aligns": "Well-being.",
+   "concerns": "Little to raise."
+  }
+ ],
+ "folkways": {
+  "dims": {
+   "Dignity vs honor": {
+    "pos": 3,
+    "evidence": "Banishment accepted without vengeance."
+   },
+   "Order vs freedom": {
+    "pos": 7,
+    "evidence": "Leaves court life to live freely."
+   },
+   "Civic vs kin": {
+    "pos": 4,
+    "evidence": "Customers and fairies, not kin."
+   },
+   "Equality vs hierarchy": {
+    "pos": 3,
+    "evidence": "Leaves aristocratic rank."
+   },
+   "Tradition vs secular-rational": {
+    "pos": 5,
+    "evidence": "Fantasy cafe life."
+   },
+   "Survival vs self-expression": {
+    "pos": 8,
+    "evidence": "Quality of life over striving."
+   }
+  },
+  "closest": [
+   "English-speaking",
+   "The Midlands",
+   "New Netherland"
+  ],
+  "japan": "Reflects Japanese karoshi (death from overwork) anxieties and the slow-life (surō raifu) web-novel fantasy of escape."
+ },
+ "delivery": {
+  "style": "Woven in",
+  "preachiness": 2,
+  "evidence": "Slow-life premise in the blurb; no review (to verify).",
+  "personified": [],
+  "opposing_views": "None shown",
+  "note": "The value of rest is the premise rather than an argued thesis."
+ },
+ "winners_losers": "Ronia gains a peaceful life; the court that banished her matters little. Romance outcomes with the beastmen (AniList 'Male Harem') not checked.",
+ "to_verify": [
+  "MangaUpdates record could not be retrieved (timeouts); MangaDex metadata used instead (rating safe, Reverse Harem and Cooking tags).",
+  "No review; male-harem and shapeshifting romance elements not described.",
+  "English publisher Alpha Manga; rating not checked."
+ ]
+}
