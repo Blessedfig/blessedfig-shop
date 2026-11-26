@@ -18,9 +18,9 @@ h2{font:600 1.4rem/1.2 var(--fd);margin:1.5em 0 .4em;padding-top:.4em;border-top
 .warn{background:#fbeee7;border:1px solid #e3b8a3;border-radius:10px;padding:10px 14px;margin:14px 0}
 .muted{color:var(--muted)}.small{font-size:.88rem}
 footer{max-width:1040px;margin:0 auto;padding:0 20px 40px;color:var(--muted);font-size:.85rem}
-.hero{display:grid;grid-template-columns:2fr 1fr;gap:8px;margin:10px 0 4px;height:min(62vw,470px)}.hero figure{margin:0;position:relative;background:#ddd;border-radius:10px;overflow:hidden}
-.hero img{width:100%;height:100%;object-fit:cover;display:block;cursor:zoom-in}.hero .side{display:grid;grid-template-rows:1fr 1fr;gap:8px}.hero .main{height:100%}.hero .side figure{min-height:0}
-@media(max-width:700px){.hero{grid-template-columns:1fr;height:auto}.hero .main{aspect-ratio:4/3}.hero .side{grid-template-rows:none;grid-template-columns:1fr 1fr}.hero .side figure{aspect-ratio:4/3}}
+.hero{display:grid;grid-template-columns:2fr 1fr;grid-template-rows:minmax(0,1fr);gap:8px;margin:10px 0 4px;height:min(62vw,470px)}.hero figure{margin:0;position:relative;background:#ddd;border-radius:10px;overflow:hidden}
+.hero img{width:100%;height:100%;object-fit:cover;display:block;cursor:zoom-in}.hero .side{display:grid;grid-template-rows:minmax(0,1fr) minmax(0,1fr);gap:8px;min-height:0;height:100%}.hero figure{height:100%;min-height:0}.hero .main{height:100%}.hero .side figure{min-height:0}
+@media(max-width:700px){.hero{grid-template-columns:1fr;height:auto}.hero .main{aspect-ratio:4/3}.hero .side{grid-template-rows:none;grid-template-columns:1fr 1fr;height:auto}.hero figure{height:auto}.hero .side figure{aspect-ratio:4/3}}
 .cr{font-size:.75rem;color:var(--muted);margin:0 0 14px}
 .facts{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:14px 0}@media(max-width:760px){.facts{grid-template-columns:1fr 1fr}}
 .facts div{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:8px 12px}.facts b{display:block;font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
