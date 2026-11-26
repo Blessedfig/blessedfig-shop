@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<base href="../../">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Langlade County Foraging & Day-Trip Map | The Blessed Fig Tree, Antigo, WI</title>
+<meta name="description" content="Where and when to find wild berries, nuts, greens and mushrooms on Langlade County's public land, with the foraging rules for each owner and day trips on foot, by car, by UTV and by paddle.">
+<link rel="canonical" href="https://www.theblessedfigtree.com/foraging/map/">
+<meta name="theme-color" content="#1d3328">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Blessed Fig Tree">
+<meta property="og:title" content="Langlade County Foraging & Day-Trip Map">
+<meta property="og:description" content="Wild berries, nuts, greens and mushrooms by season and by place, with the rules for county, state and national forest land.">
+<meta property="og:url" content="https://www.theblessedfigtree.com/foraging/map/">
+<meta property="og:image" content="https://www.theblessedfigtree.com/og.png">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+:root{--paper:#f4f0e6;--sheet:#fbf9f3;--ink:#1f2a24;--muted:#5b6760;--rule:#d6cfbd;--spruce:#1d3328;--spruce2:#2c4a3a;--moss:#3d6b4f;
+--maple:#b0502a;--lake:#2f5d73;--berry:#6a2c5a;--gold:#b88a1e;--fd:"Fraunces",Georgia,serif;--fb:"Source Sans 3",system-ui,sans-serif}
+*{box-sizing:border-box}html,body{margin:0;height:100%}
+body{background:var(--paper);color:var(--ink);font:16px/1.5 var(--fb);-webkit-font-smoothing:antialiased}
+a{color:var(--lake)}button{font:inherit}
+header{background:var(--spruce);color:#efe8d8;padding:10px 16px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+header h1{font:600 1.25rem/1.2 var(--fd);margin:0}header .sub{font-size:.85rem;opacity:.85}
+header a.home{color:#efe8d8;text-decoration:none;font-size:.85rem;border:1px solid #ffffff44;border-radius:999px;padding:3px 10px}
+.bar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:8px 12px;background:var(--sheet);border-bottom:1px solid var(--rule)}
+.bar label{font-size:.8rem;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+.chip{border:1px solid var(--rule);background:#fff;border-radius:999px;padding:4px 11px;cursor:pointer;font-size:.9rem}
+.chip.on{background:var(--spruce2);color:#fff;border-color:var(--spruce2)}
+#week{width:min(340px,60vw)}#weeklabel{font-weight:700;min-width:7.5em}
+select{font:inherit;padding:4px 6px;border:1px solid var(--rule);border-radius:6px;background:#fff;max-width:14em}
+main{display:grid;grid-template-columns:1fr 400px;height:calc(100% - 104px)}
+#map{height:100%;min-height:300px}
+#panel{overflow:auto;background:var(--sheet);border-left:1px solid var(--rule);padding:0 0 40px}
+.tabs{display:flex;position:sticky;top:0;background:var(--sheet);border-bottom:1px solid var(--rule);z-index:5}
+.tabs button{flex:1;border:0;background:none;padding:10px 4px;cursor:pointer;font-weight:600;color:var(--muted);border-bottom:3px solid transparent}
+.tabs button.on{color:var(--spruce);border-bottom-color:var(--maple)}
+.pane{padding:14px 16px}
+h2{font:600 1.3rem/1.25 var(--fd);margin:.2em 0 .3em}h3{font:600 1.02rem var(--fd);margin:1.1em 0 .35em}
+.muted{color:var(--muted);font-size:.9rem}.small{font-size:.85rem}
+.badge{display:inline-block;padding:2px 9px;border-radius:999px;color:#fff;font-size:.8rem;font-weight:700}
+.rulebox{border:1px solid var(--rule);background:#fff;border-radius:8px;padding:8px 10px;margin:8px 0;font-size:.92rem}
+.sp{display:flex;gap:8px;align-items:flex-start;padding:5px 0;border-bottom:1px dashed var(--rule-soft,#e6e0d1)}
+.sp .dot{width:10px;height:10px;border-radius:50%;margin-top:7px;flex:none}
+.sp .nm{font-weight:600}.sp .when{font-size:.82rem;color:var(--muted)}
+.lvl2{background:var(--moss)}.lvl1{background:var(--lichen,#9fb39a)}
+.warn{background:#fbeee7;border:1px solid #e3b8a3;border-radius:8px;padding:8px 10px;font-size:.9rem;margin:8px 0}
+.card{border:1px solid var(--rule);background:#fff;border-radius:10px;padding:10px 12px;margin:8px 0;cursor:pointer}
+.card:hover{border-color:var(--moss)}.card h4{margin:0 0 2px;font:600 1rem var(--fd)}
+.wkbar{display:grid;grid-template-columns:repeat(52,1fr);height:12px;border-radius:3px;overflow:hidden;background:#eee;margin:3px 0}
+.wkbar i{display:block}.months{display:flex;justify-content:space-between;font-size:.7rem;color:var(--muted)}
+.grade{font-size:.75rem;border:1px solid var(--rule);border-radius:4px;padding:0 5px;margin-left:4px;color:var(--muted)}
+.legend{background:#fffffff0;padding:6px 8px;border-radius:6px;font-size:.78rem;line-height:1.5;box-shadow:0 1px 4px #0003}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:2px;margin-right:5px;vertical-align:-2px}
+.btn{border:1px solid var(--spruce2);background:var(--spruce2);color:#fff;border-radius:8px;padding:6px 12px;cursor:pointer;text-decoration:none;display:inline-block;font-size:.9rem}
+.btn.ghost{background:#fff;color:var(--spruce2)}
+table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,table.rules th{border-bottom:1px solid var(--rule);padding:6px 4px;vertical-align:top;text-align:left}
+@media (max-width:600px){.legend{font-size:.66rem;line-height:1.25;padding:4px 6px}.legend i{width:9px;height:9px}header .sub{display:none}}
+@media (max-width:820px){main{grid-template-columns:1fr;grid-template-rows:55vh auto;height:auto}#panel{border-left:0;border-top:1px solid var(--rule)}}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>Langlade County Foraging &amp; Day-Trip Map</h1>
+  <div class="sub">Wild berries, nuts, greens and mushrooms on public land, by season and by place. From The Blessed Fig Tree, 800 5th Ave, Antigo.</div></div>
+  <a class="home" href="foraging/" style="margin-left:auto">Foraging home</a><a class="home" href="foraging/places/" style="margin-left:8px">Place maps</a><a class="home" href="foraging/guide/" style="margin-left:8px">Guide &amp; ecology</a><a class="home" href="./" style="margin-left:8px">← Bookstore</a>
+</header>
+<div class="bar">
+  <label for="week">Week</label><input id="week" type="range" min="0" max="51"><span id="weeklabel"></span>
+  <label>Go by</label>
+  <span id="modes"></span>
+  <label for="spf">Show</label>
+  <select id="spf"><option value="">Everything in season</option><optgroup label="Plants" id="og-p"></optgroup><optgroup label="Mushrooms" id="og-m"></optgroup></select>
+  <button class="chip" id="locate" title="Show the rules where you are standing">📍 Where am I?</button>
+</div>
+<main>
+  <div id="map" role="application" aria-label="Map of Langlade County public land and foraging areas"></div>
+  <aside id="panel">
+    <div class="tabs" role="tablist">
+      <button data-t="here" class="on">Area</button><button data-t="trips">Day trips</button><button data-t="species">Season</button><button data-t="rules">Rules</button><button data-t="about">How</button>
+    </div>
+    <div id="pane-here" class="pane"></div>
+    <div id="pane-trips" class="pane" hidden></div>
+    <div id="pane-species" class="pane" hidden></div>
+    <div id="pane-rules" class="pane" hidden></div>
+    <div id="pane-about" class="pane" hidden></div>
+  </aside>
+</main>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+"use strict";
+const D='foraging/data/';
+const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const MODES={all:'All',foot:'🚶 On foot',drive:'🚗 Drive',utv:'🛻 UTV',paddle:'🛶 Paddle'};
+const ST={week:0,mode:'all',sp:'',sel:null};
+let AREAS=[],AMAP={},SP=[],SPM={},RULES={},TRIPS=[],LY={};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function weekDate(w){const d=new Date(2026,0,1+w*7);return MON[d.getMonth()]+' '+d.getDate();}
+function todayWeek(){const n=new Date(),s=new Date(n.getFullYear(),0,1);return Math.min(51,Math.floor((n-s)/864e5/7));}
+// is species k in season in week w at an area offset (days later)
+function inSeason(k,w,off){const s=SPM[k];if(!s||!s.weeks)return 0;const sh=Math.round((off||0)/7);const i=w-sh;return (i>=0&&i<52)?s.weeks[i]:0;}
+function areaNow(a){ // species in season and legal, for the current week & filter
+  const out=[];for(const [k,lvl,legal] of a.species){if(!legal)continue;if(ST.sp&&k!==ST.sp)continue;const p=inSeason(k,ST.week,a.offset_days);if(p>=0.3)out.push({k,lvl,p});}
+  out.sort((x,y)=>y.lvl-x.lvl||y.p-x.p);return out;}
+const OWNC={county:'#2f7d3a',state:'#2a6db0',sna:'#6a4fb0',federal:'#8a6a20',bcpl:'#b07a2a',mfl_open:'#9aa0a0',mfl_closed:'#c9c2b4',private:'#c9c2b4',other_public:'#7d8a97',tribal:'#b26f6f'};
+const PNAME={county:'Langlade County Forest',state:'State land (DNR)',federal:'National forest',bcpl:'School trust land',mfl_open:'Private forest open to walk-in use (no picking)',mfl_closed:'Private forest, closed to the public',private:'Private land',other_public:'Other public land (city, town or county; not a forest)',tribal:'Tribal land'};
+function tripModeOK(a){if(ST.mode==='all')return true;return TRIPS.some(t=>t.mode===ST.mode&&t.areas.includes(a.id));}
+
+async function j(u){const r=await fetch(D+u);return r.json();}
+(async function(){
+  [AREAS,SP,RULES,TRIPS]=await Promise.all([j('areas.json'),j('species.json'),j('rules.json'),j('trips.json')]);
+  AREAS.forEach(a=>AMAP[a.id]=a);SP.forEach(s=>SPM[s.k]=s);
+  for(const s of SP){const o=document.createElement('option');o.value=s.k;o.textContent=s.n;(s.kind==='fungus'?$('#og-m'):$('#og-p')).appendChild(o);}
+  $('#modes').innerHTML=Object.entries(MODES).map(([k,v])=>`<button class="chip${k==='all'?' on':''}" data-m="${k}">${v}</button>`).join('');
+  ST.week=todayWeek();$('#week').value=ST.week;
+  initMap();renderAll();
+  $('#week').addEventListener('input',e=>{ST.week=+e.target.value;renderAll();});
+  $('#spf').addEventListener('change',e=>{ST.sp=e.target.value;renderAll();if(ST.sp)tab('species');});
+  $('#modes').addEventListener('click',e=>{const b=e.target.closest('[data-m]');if(!b)return;ST.mode=b.dataset.m;document.querySelectorAll('#modes .chip').forEach(c=>c.classList.toggle('on',c===b));modeLayers();renderAll();tab('trips');});
+  document.querySelector('.tabs').addEventListener('click',e=>{const b=e.target.closest('[data-t]');if(b)tab(b.dataset.t);});
+  $('#locate').addEventListener('click',locate);
+})();
+function tab(t){document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('on',b.dataset.t===t));document.querySelectorAll('.pane').forEach(p=>p.hidden=p.id!=='pane-'+t);}
+
+let map;
+function initMap(){
+  map=L.map('map',{zoomControl:true}).setView([45.24,-89.03],10);
+  map.on('moveend',parcels);
+  const topo=L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}',{maxZoom:16,attribution:'USGS The National Map'}).addTo(map);
+  const img=L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}',{maxZoom:16,attribution:'USGS The National Map'});
+  LY.layers=L.control.layers({'Topo map':topo,'Aerial photo':img},{},{collapsed:true}).addTo(map);
+  j('layer_county.geojson').then(g=>L.geoJSON(g,{style:{color:'#1d3328',weight:2,fill:false,dashArray:'6 4'},interactive:false}).addTo(map));
+  j('layer_owners.geojson').then(g=>{LY.owners=L.geoJSON(g,{style:f=>({color:OWNC[f.properties.r],weight:.6,fillColor:OWNC[f.properties.r],fillOpacity:f.properties.r==='mfl_open'?.18:.38}),
+     onEachFeature:(f,l)=>l.on('click',e=>{if(!e.originalEvent._area)showRule(f.properties.r)})}).addTo(map);LY.owners.bringToBack();LY.layers.addOverlay(LY.owners,'Land owners');});
+  j('areas.geojson').then(g=>{LY.areas=L.geoJSON(g,{style:areaStyle,onEachFeature:(f,l)=>{l.on('click',e=>{e.originalEvent._area=1;L.DomEvent.stopPropagation(e);selectArea(f.properties.id);});
+     l.bindTooltip(()=>{const a=AMAP[f.properties.id];const n=areaNow(a);return `<b>${esc(a.title)}</b><br>${n.length?n.slice(0,4).map(x=>SPM[x.k].n).join(', '):'Nothing listed in season this week'}`},{sticky:true});}}).addTo(map);
+     LY.layers.addOverlay(LY.areas,'Access areas');});
+  j('layer_foot.geojson').then(g=>{LY.foot=L.geoJSON(g,{style:f=>({color:f.properties.k==='ski'?'#2f5d73':'#b0502a',weight:3,dashArray:f.properties.k==='ski'?'4 4':null}),
+     onEachFeature:(f,l)=>l.bindTooltip(esc(f.properties.n))}).addTo(map);LY.layers.addOverlay(LY.foot,'Hiking & ski trails');});
+  j('layer_paddle.geojson').then(g=>{LY.paddle=L.geoJSON(g,{style:f=>f.properties.pub?{color:'#0b7fa6',weight:5,opacity:.9}:{color:'#6fb6d1',weight:2,opacity:.8},
+     onEachFeature:(f,l)=>l.bindTooltip(esc(f.properties.n)+(f.properties.pub?': public bank':''))});LY.layers.addOverlay(LY.paddle,'Paddling rivers');modeLayers();});
+  j('layer_points.geojson').then(g=>{const ic={parking:'🅿️',trailhead:'🥾',launch:'🛶',rapids:'〰️',waterfall:'💧',camp_site:'⛺',picnic_site:'🧺',viewpoint:'👁️',spring:'💧',atv_trailhead:'🛻'};
+     LY.pts=L.geoJSON(g,{pointToLayer:(f,ll)=>L.marker(ll,{icon:L.divIcon({className:'',html:`<div style="font-size:15px;line-height:15px">${ic[f.properties.k]||'•'}</div>`,iconSize:[16,16]})}),
+     onEachFeature:(f,l)=>l.bindTooltip(esc(f.properties.n||f.properties.k.replace('_',' ')))});LY.layers.addOverlay(LY.pts,'Parking, landings, trailheads');map.on('zoomend',()=>{map.getZoom()>=12?map.addLayer(LY.pts):map.removeLayer(LY.pts)});});
+  const lg=L.control({position:'bottomleft'});lg.onAdd=()=>{const d=L.DomUtil.create('div','legend');d.innerHTML=
+   `<div><i style="background:${OWNC.county}"></i>County forest</div><div><i style="background:${OWNC.state}"></i>State (DNR)</div><div><i style="background:${OWNC.federal}"></i>National forest</div><div><i style="background:${OWNC.bcpl}"></i>School trust land</div><div><i style="background:${OWNC.mfl_open}"></i>Private, walk-in only (no picking)</div><div><i style="background:#fff;border:1px solid #6f6a5e"></i>Private land (zoom in for property lines)</div><div style="margin-top:3px"><i style="background:#3d6b4f;opacity:.75"></i>Access area: darker = more in season</div>`;return d;};lg.addTo(map);
+}
+
+// ---- onX-style parcels: every tax parcel at zoom 13+, public in colour, private in grey (no owner names)
+let PIDX=null;const PLOADED={};
+async function parcels(){if(!map)return;if(!PIDX)PIDX=await j('parcels/index.json');
+  if(!LY.parcels){LY.parcels=L.layerGroup();LY.layers.addOverlay(LY.parcels,'Property lines (zoom in)');map.addLayer(LY.parcels);}
+  const z=map.getZoom();if(LY.owners){z>=13?map.removeLayer(LY.owners):map.addLayer(LY.owners);if(z<13)LY.owners.bringToBack();}if(z<13){LY.parcels.eachLayer(l=>l.setStyle&&0);if(map.hasLayer(LY.parcels)){LY.parcels._hidden=1;LY.parcels.eachLayer(l=>map.removeLayer(l));}return;}
+  const b=map.getBounds(),S=PIDX.size;
+  for(let i=Math.floor(b.getWest()/S);i<=Math.floor(b.getEast()/S);i++)for(let k=Math.floor(b.getSouth()/S);k<=Math.floor(b.getNorth()/S);k++){
+    const key=i+'_'+k;if(PLOADED[key]||!PIDX.tiles.includes(key))continue;PLOADED[key]=1;
+    j('parcels/'+key+'.json').then(g=>{const lyr=L.geoJSON(g,{style:f=>{const c=f.properties.c;const pub=['county','state','federal','bcpl'].includes(c);
+      return {color:pub?OWNC[c]:'#6f6a5e',weight:pub?1.2:.7,opacity:.9,fillColor:OWNC[c]||'#ccc',fillOpacity:pub?.30:(c==='mfl_open'?.22:.06)}},
+      onEachFeature:(f,l)=>{l.bindTooltip(()=>`<b>${esc(PNAME[f.properties.c]||'Private land')}</b>${f.properties.a?'<br>'+f.properties.a+' acres':''}${['private','mfl_closed'].includes(f.properties.c)?'<br>Ask the owner before entering.':''}`,{sticky:true});
+        l.on('click',e=>{if(e.originalEvent._area)return;const c=f.properties.c;const r=c==='state'?'state':(RULES.owners[c]?c:'private');showOwnerAt(e.latlng,r,c);});}});
+      PLOADED[key]=lyr;LY.parcels.addLayer(lyr);if(LY.areas)LY.areas.bringToFront();});}
+  LY.parcels.eachLayer(l=>{if(!map.hasLayer(l))map.addLayer(l);});}
+function showOwnerAt(ll,r,c){tab('here');ST.sel=null;if(LY.areas)LY.areas.setStyle(areaStyle);const o=RULES.owners[r];
+  $('#pane-here').innerHTML=`<h2>${esc(PNAME[c]||o.name)}</h2><div class="rulebox">${esc(o.short)}${o.url?` <a class="small" href="${o.url}" target="_blank" rel="noopener">source</a>`:''}</div>${['county','state','federal','bcpl'].includes(c)?'<p class="small muted">This parcel is public but not inside one of our access areas (it may be landlocked or hard to reach). Check that you can reach it without crossing private land.</p>':''}`;}
+function modeLayers(){if(!map)return;
+  if(ST.mode==='utv'){if(!LY.utv){j('layer_utv.geojson').then(g=>{LY.utv=L.geoJSON(g,{style:f=>({color:f.properties.k==='trail'?'#7a3e9d':f.properties.k==='forest road'?'#a0522d':'#c58ad6',weight:f.properties.k==='road route'?1.5:3}),
+     onEachFeature:(f,l)=>l.bindTooltip(esc((f.properties.n?f.properties.n+' · ':'')+'ATV/UTV '+f.properties.k))}).addTo(map);LY.layers.addOverlay(LY.utv,'ATV/UTV trails and routes');});}else map.addLayer(LY.utv);}
+  else if(LY.utv)map.removeLayer(LY.utv);
+  if(LY.paddle){ST.mode==='paddle'||ST.mode==='all'?map.addLayer(LY.paddle):map.removeLayer(LY.paddle);}
+}
+function areaStyle(f){const a=AMAP[f.properties.id];const n=areaNow(a);const ok=tripModeOK(a);
+  const score=n.reduce((s,x)=>s+(x.lvl===2?1:.4),0);const op=!ok?0.04:(n.length?Math.min(.75,.15+score*.08):.05);
+  const sel=ST.sel===a.id;return {color:sel?'#b0502a':'#1d3328',weight:sel?3:.7,fillColor:'#3d6b4f',fillOpacity:op,opacity:ok?.8:.25};}
+function renderAll(){$('#weeklabel').textContent='Week of '+weekDate(ST.week);if(LY.areas)LY.areas.setStyle(areaStyle);renderTrips();renderSpecies();renderRules();renderAbout();if(ST.sel)selectArea(ST.sel,true);else renderIntro();}
+
+function seasonBar(s,off){if(!s.weeks)return '<div class="muted small">Too few local records to time its season.</div>';const sh=Math.round((off||0)/7);
+  return `<div class="wkbar">${s.weeks.map((v,i)=>{const vv=(i-sh>=0&&i-sh<52)?s.weeks[i-sh]:0;return `<i style="background:${vv?`rgba(61,107,79,${.15+.85*vv})`:'#eee'};${i===ST.week?'box-shadow:inset 0 0 0 2px #b0502a':''}"></i>`}).join('')}</div><div class="months">${MON.map(m=>`<span>${m}</span>`).join('')}</div>`;}
+function ruleBadge(r){const o=RULES.owners[r];return `<span class="badge" style="background:${OWNC[r]||'#777'}">${esc(o.name)}</span>`;}
+function micro(a){const m=a.micro,b=[];
+  if(a.offset_days>=3)b.push(`runs about ${a.offset_days} days behind Antigo in spring`);else if(a.offset_days<=-2)b.push(`runs about ${-a.offset_days} days ahead of Antigo in spring`);else b.push('keeps about the same spring timing as Antigo');
+  if(m.south>=.15)b.push(`${Math.round(m.south*100)}% south-facing slopes, which warm first`);
+  if(m.north>=.15)b.push(`${Math.round(m.north*100)}% north-facing slopes, which stay cool and late`);
+  if(m.cold>=.15)b.push(`low basins where frost settles (${Math.round(m.cold*100)}%)`);
+  if(m.wet>=.25)b.push(`${Math.round(m.wet*100)}% wet ground`);
+  b.push(m.canopy>=65?'mostly shady, closed canopy':m.canopy>=35?'mixed shade and openings':'mostly open and sunny');
+  return b.join('; ')+'.';}
+function selectArea(id,quiet){const a=AMAP[id];if(!a)return;ST.sel=id;if(LY.areas)LY.areas.setStyle(areaStyle);
+  const r=RULES.owners[a.rule];const now=areaNow(a);
+  const allLegal=a.species.filter(x=>x[2]);const notLegal=a.species.filter(x=>!x[2]&&x[1]===2);
+  const trips=TRIPS.filter(t=>t.areas.includes(a.id));
+  const dir=`https://www.google.com/maps/dir/?api=1&destination=${a.access.lat},${a.access.lon}`;
+  $('#pane-here').innerHTML=`<h2>${esc(a.title)}</h2><div>${ruleBadge(a.rule)} <span class="muted">${a.acres.toLocaleString()} acres · ${esc(a.prop)}${a.sna?' · '+esc(a.sna):''}</span></div>
+  <div class="rulebox"><b>Rules here:</b> ${esc(r.short)}${r.limits&&r.limits.length?'<br><span class="small">'+r.limits.map(esc).join(' · ')+'</span>':''} <a class="small" href="${r.url}" target="_blank" rel="noopener">source</a></div>
+  <p class="small"><b>Get in:</b> ${esc(a.access.kind)}${a.access.name&&a.access.name!=='forest road'?' on '+esc(a.access.name):''}. <a class="btn ghost" style="padding:2px 8px" href="${dir}" target="_blank" rel="noopener">Directions</a></p>
+  <h3>In season the week of ${weekDate(ST.week)}</h3>
+  ${now.length?now.map(x=>{const s=SPM[x.k];return `<div class="sp"><span class="dot lvl${x.lvl}"></span><div><span class="nm">${esc(s.n)}</span> <span class="muted small">${x.lvl===2?'good habitat':'some habitat'}</span>${s.kind==='fungus'?' <span class="small" style="color:#b0502a">expert ID only</span>':''}<div class="when">${esc(s.part)}</div></div></div>`}).join(''):'<p class="muted">Nothing on our list is likely in season here this week. Slide the week bar to see other times.</p>'}
+  ${now.some(x=>SPM[x.k].kind==='fungus')?'<div class="warn">Mushrooms: this map shows habitat and season only. Never eat a wild mushroom unless an experienced identifier has checked it in person. Poison Control: 1-800-222-1222.</div>':''}
+  <h3>The ground</h3><p class="small">${a.cover.map(c=>`${c[1]}% ${esc(c[0])}`).join(', ')}${a.soils.length?'. Soils: '+a.soils.map(c=>esc(c[0])).join('; '):''}. Elevation ${a.elev_ft[0]}–${a.elev_ft[1]} ft.</p>
+  <p class="small"><b>Microclimate:</b> this area ${micro(a)}</p>
+  ${a.landmarks.length?`<p class="small"><b>Near:</b> ${[...new Set(a.landmarks)].map(esc).join(', ')}</p>`:''}
+  ${a.trails.length?`<p class="small"><b>Trails:</b> ${a.trails.map(t=>esc(t[0])).join(', ')}</p>`:''}
+  ${a.utv.length?`<p class="small"><b>ATV/UTV:</b> ${a.utv.map(u=>esc(u[0]+(u[1]?' ('+u[1]+')':''))).join(', ')} within 150 m. Stay on the trail or route.</p>`:''}
+  ${a.streams.length?`<p class="small"><b>Water:</b> ${a.streams.map(esc).join(', ')}</p>`:''}
+  ${trips.length?`<h3>Day trips that stop here</h3>${trips.map(t=>`<div class="card" onclick="showTrip('${t.id}')"><h4>${esc(t.name)}</h4></div>`).join('')}`:''}
+  <h3>Whole-year list for this area</h3>${allLegal.length?allLegal.sort((x,y)=>y[1]-x[1]).map(([k,lvl])=>{const s=SPM[k];return `<div class="small" style="margin:6px 0"><b>${esc(s.n)}</b> <span class="muted">${lvl===2?'good habitat':'some habitat'}</span>${seasonBar(s,a.offset_days)}</div>`}).join(''):'<p class="muted">No listed species.</p>'}
+  ${notLegal.length?`<p class="small muted">Also grows here but may not be picked on this land: ${notLegal.map(x=>esc(SPM[x[0]].n)).join(', ')}.</p>`:''}`;
+  if(!quiet){tab('here');}
+}
+function renderIntro(){$('#pane-here').innerHTML=`<h2>Pick a place on the map</h2>
+ <p>The green-outlined patches are <b>access areas</b>: the stretch of public forest you can walk into from one pull-off, parking lot, trailhead or landing. The darker the green, the more is in season there the week you choose.</p>
+ <p>Tap one to see what grows there, when, whose land it is and what you may pick.</p>
+ <div class="warn">This map shows <b>where and when</b>, not <b>what it is</b>. Learn each plant in person before you eat it, and never eat a wild mushroom unless an expert has checked it in person.</div>
+ <p class="small">Want a printed map pack, GPS files for a day trip, or a guided walk? Ask at The Blessed Fig Tree, 800 5th Ave, Antigo.</p>`;}
+function showTrip(id){const t=TRIPS.find(x=>x.id===id);if(!t)return;tab('trips');
+  const stops=t.areas.map(i=>AMAP[i]).filter(Boolean);
+  const pts=stops.map(a=>[a.access.lat,a.access.lon]);if(t.start)pts.push([t.start[1],t.start[0]]);if(pts.length)map.fitBounds(pts,{padding:[30,30],maxZoom:13});
+  $('#pane-trips').innerHTML=`<button class="chip" onclick="renderTrips()">← All trips</button><h2>${esc(t.name)}</h2>
+  <p class="muted small">${t.miles?t.miles+' miles of trail or river · ':''}${t.public_bank_miles!=null?t.public_bank_miles+' miles of public bank · ':''}${stops.length} stops</p>
+  ${t.note?`<div class="rulebox small">${esc(t.note)}</div>`:''}
+  ${t.landings&&t.landings.length?`<p class="small"><b>Landings and rapids on the river:</b> ${t.landings.map(l=>esc(l.name)).join(', ')}</p>`:''}
+  ${stops.map((a,i)=>{const n=areaNow(a);return `<div class="card" onclick="selectArea(${a.id})"><h4>${i+1}. ${esc(a.title)}</h4><div class="small">${ruleBadge(a.rule)} ${n.length?'In season: '+n.slice(0,5).map(x=>esc(SPM[x.k].n)).join(', '):'<span class="muted">nothing listed this week</span>'}</div></div>`}).join('')}`;}
+function renderTrips(){const list=TRIPS.filter(t=>ST.mode==='all'||t.mode===ST.mode);
+  const score=t=>t.areas.reduce((s,i)=>s+(AMAP[i]?areaNow(AMAP[i]).length:0),0);
+  list.sort((x,y)=>score(y)-score(x));
+  $('#pane-trips').innerHTML=`<h2>${ST.mode==='all'?'Day trips':MODES[ST.mode]+' day trips'}</h2><p class="muted small">Sorted by what's in season the week of ${weekDate(ST.week)}.</p>`+
+   list.map(t=>`<div class="card" onclick="showTrip('${t.id}')"><h4>${MODES[t.mode].split(' ')[0]} ${esc(t.name)}</h4><div class="small muted">${t.miles?t.miles+' mi · ':''}${t.areas.length} stops · ${score(t)} species-stops in season</div></div>`).join('');}
+function renderSpecies(){const list=ST.sp?SP.filter(s=>s.k===ST.sp):SP;
+  const grp=k=>list.filter(s=>(s.kind==='fungus')===(k==='m'));
+  const one=s=>{const areas=AREAS.filter(a=>a.species.some(x=>x[0]===s.k&&x[2]&&x[1]===2)).length;
+   return `<div style="margin:12px 0 16px"><b>${esc(s.n)}</b> <i class="muted small">${esc(s.l)}</i><span class="grade" title="How well the habitat model matched real records">evidence ${s.evid.grade}</span>
+   ${seasonBar(s,0)}<div class="small">${s.first?`Typically ${s.first} to ${s.last} around Antigo (starts ${s.early} in an early year, ${s.late} in a late one).`:''} ${s.hdays?`Harvest stage lasts about ${s.hdays} days.`:''}</div>
+   <div class="small">${esc(s.note)} ${s.steward?'<b>'+esc(s.steward)+'</b>':''}</div>
+   ${s.look?`<div class="small" style="color:#8a3a1a">Dangerous or confusing look-alikes: ${esc(s.look)}</div>`:''}
+   <div class="small muted">Good habitat in ${areas} access areas where picking it is allowed. ${s.cat==='mushroom'?'':(s.cat==='green'||s.cat==='shoot')?'Not allowed on DNR (state) land.':''}</div></div>`;};
+  $('#pane-species').innerHTML=`<h2>When things are ready</h2><p class="muted small">Darker weeks mean the item was ready in more of the past 35 years (1991–2025) around Antigo. The orange outline marks the week you picked.</p>
+   ${grp('p').length?'<h3>Plants</h3>'+grp('p').map(one).join(''):''}
+   ${grp('m').length?'<h3>Mushrooms (Wisconsin approved-for-sale species)</h3><div class="warn">Habitat and season only. Never eat a wild mushroom unless an experienced identifier has checked it in person. Some deadly mushrooms grow in the same woods. Poison Control: 1-800-222-1222. Learn with the <a href="https://www.wisconsinmycological.org/" target="_blank" rel="noopener">Wisconsin Mycological Society</a> or <a href="https://namyco.org/" target="_blank" rel="noopener">NAMA</a>.</div>'+grp('m').map(one).join(''):''}`;}
+function renderRules(){const o=RULES.owners;
+  $('#pane-rules').innerHTML=`<h2>Who owns it, and what you may pick</h2><table class="rules"><tr><th>Land</th><th>You may</th></tr>${['county','state','sna','federal','bcpl','mfl_open','private'].map(k=>`<tr><td>${ruleBadge(k)}</td><td>${esc(o[k].short)}${o[k].limits&&o[k].limits.length?'<br><span class="muted">'+o[k].limits.map(esc).join(' · ')+'</span>':''}${o[k].never&&o[k].never.length?'<br><span style="color:#8a3a1a">Never: '+o[k].never.map(esc).join('; ')+'</span>':''}${o[k].url?` <a href="${o[k].url}" target="_blank" rel="noopener">source</a>`:''}</td></tr>`).join('')}</table>
+  <h3>Everywhere</h3><ul class="small">${RULES.general.map(g=>'<li>'+esc(g)+'</li>').join('')}</ul><p class="muted small">Rules checked ${RULES.checked}. Rules change; when in doubt, call the county forestry office (715-627-6300) or the DNR.</p>`;}
+function showRule(r){tab('rules');}
+function renderAbout(){$('#pane-about').innerHTML=`<h2>How this map was made</h2><p class="small"><a href="foraging/guide/">Read the foraging guide and harvest ecology</a>: what picking removes and what the field studies measured.</p>
+ <p class="small"><b>Land owners</b> come from the 2025 Wisconsin statewide parcel map, DNR managed-lands and State Natural Area layers, and school trust land from the DNR. <b>Access areas</b> split public land by the nearest pull-off, parking lot, trailhead, landing or forest road (OpenStreetMap and the county ATV/UTV map), never across private land.</p>
+ <p class="small"><b>Habitat</b> for each species is scored on a 30 m grid from WISCLAND 2 land cover, USDA Forest Inventory and Analysis plots (which trees grow in each forest type in Langlade and its seven neighboring counties), SSURGO soils (soil type, drainage, water table), USGS elevation (slope, which way hills face, heat load, frost basins, wetness), USGS tree-canopy cover, and the 24K streams and lakes. Rules are drawn from Samuel Thayer's <i>The Forager's Harvest</i> (2006) for plants and the Wisconsin Mycological Society's certification study guide for mushrooms. Each species' land-cover rules were checked against research-grade iNaturalist records within 150 km; the evidence grade (A, B, C) says how well they matched.</p>
+ <p class="small"><b>Season</b> comes from thermal time. A soil-temperature model, fitted to the Wisconet station at the Antigo airport, was run over 35 years of NOAA weather records for Antigo. Each species' window is the range of heat units (growing degree days) at its iNaturalist records in the Antigo climate band, moved about 5 days per degree of latitude. Each area's timing is shifted for its elevation, slope direction, frost basins, conifer shade and wet soil.</p>
+ <p class="small muted">Limits: land cover is from 2016 imagery, so recent logging cuts (raspberry and blackberry country) are missed. Habitat scores say where conditions fit, not that a plant is there. Check the rules on the ground, ask before crossing private land, and wear blaze orange in hunting season.</p>
+ <p class="small">Map data © OpenStreetMap contributors (ODbL); USGS The National Map; Wisconsin DNR; Langlade County; USDA NRCS and Forest Service; NOAA; Wisconet (UW–Madison); iNaturalist.</p>`;}
+async function locate(){if(!navigator.geolocation)return alert('Location is not available on this device.');
+  navigator.geolocation.getCurrentPosition(p=>{const ll=[p.coords.latitude,p.coords.longitude];map.setView(ll,14);L.marker(ll).addTo(map);
+   let hit=null;if(LY.areas)LY.areas.eachLayer(l=>{if(!hit&&pip(ll,l.feature.geometry))hit=l.feature.properties.id;});
+   let own=null;if(!hit&&LY.owners)LY.owners.eachLayer(l=>{if(!own&&pip(ll,l.feature.geometry))own=l.feature.properties.r;});
+   if(hit)selectArea(hit);else{tab('here');$('#pane-here').innerHTML=own?`<h2>You are on ${esc(RULES.owners[own].name)}</h2><div class="rulebox">${esc(RULES.owners[own].short)}</div>`:`<h2>You are not on public foraging land</h2><p>${esc(RULES.owners.private.short)}</p>`;}
+  },()=>alert('Could not get your location.'),{enableHighAccuracy:true,timeout:10000});}
+function pip(ll,g){const [y,x]=ll;const polys=g.type==='Polygon'?[g.coordinates]:g.coordinates;
+  for(const P of polys){let inside=false;P.forEach((ring,ri)=>{let c=false;for(let i=0,j=ring.length-1;i<ring.length;j=i++){const xi=ring[i][0],yi=ring[i][1],xj=ring[j][0],yj=ring[j][1];if(((yi>y)!==(yj>y))&&(x<(xj-xi)*(y-yi)/(yj-yi)+xi))c=!c;}if(c)inside=!inside;});if(inside)return true;}return false;}
+</script>
+</body>
+</html>
