@@ -75,6 +75,7 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
   <span id="modes"></span>
   <label for="spf">Show</label>
   <select id="spf"><option value="">Everything in season</option><optgroup label="Plants" id="og-p"></optgroup><optgroup label="Mushrooms" id="og-m"></optgroup></select>
+  <button class="chip" id="shade" title="Colour public land by how much is in season">🌡️ Season heat</button>
   <button class="chip" id="locate" title="Show the rules where you are standing">📍 Where am I?</button>
 </div>
 <main>
@@ -96,7 +97,7 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
 const D='foraging/data/';
 const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const MODES={all:'All',foot:'🚶 On foot',drive:'🚗 Drive',utv:'🛻 UTV',paddle:'🛶 Paddle'};
-const ST={week:0,mode:'all',sp:'',sel:null};
+const ST={week:0,mode:'all',sp:'',sel:null,shade:false};
 let AREAS=[],AMAP={},SP=[],SPM={},RULES={},TRIPS=[],LY={};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -120,10 +121,11 @@ async function j(u){const r=await fetch(D+u);return r.json();}
   ST.week=todayWeek();$('#week').value=ST.week;
   initMap();renderAll();
   $('#week').addEventListener('input',e=>{ST.week=+e.target.value;renderAll();});
-  $('#spf').addEventListener('change',e=>{ST.sp=e.target.value;renderAll();if(ST.sp)tab('species');});
+  $('#spf').addEventListener('change',e=>{ST.sp=e.target.value;if(ST.sp){ST.shade=true;$('#shade').classList.add('on');}renderAll();legendUpdate();if(ST.sp)tab('species');});
   $('#modes').addEventListener('click',e=>{const b=e.target.closest('[data-m]');if(!b)return;ST.mode=b.dataset.m;document.querySelectorAll('#modes .chip').forEach(c=>c.classList.toggle('on',c===b));modeLayers();renderAll();tab('trips');});
   document.querySelector('.tabs').addEventListener('click',e=>{const b=e.target.closest('[data-t]');if(b)tab(b.dataset.t);});
   $('#locate').addEventListener('click',locate);
+  $('#shade').addEventListener('click',e=>{ST.shade=!ST.shade;e.target.classList.toggle('on',ST.shade);renderAll();legendUpdate();});
 })();
 function tab(t){document.querySelectorAll('.tabs button').forEach(b=>b.classList.toggle('on',b.dataset.t===t));document.querySelectorAll('.pane').forEach(p=>p.hidden=p.id!=='pane-'+t);}
 
@@ -135,9 +137,9 @@ function initMap(){
   const img=L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryTopo/MapServer/tile/{z}/{y}/{x}',{maxZoom:16,attribution:'USGS The National Map'});
   LY.layers=L.control.layers({'Topo map':topo,'Aerial photo':img},{},{collapsed:true}).addTo(map);
   j('layer_county.geojson').then(g=>L.geoJSON(g,{style:{color:'#1d3328',weight:2,fill:false,dashArray:'6 4'},interactive:false}).addTo(map));
-  j('layer_owners.geojson').then(g=>{LY.owners=L.geoJSON(g,{style:f=>({color:OWNC[f.properties.r],weight:.6,fillColor:OWNC[f.properties.r],fillOpacity:f.properties.r==='mfl_open'?.18:.38}),
+  j('layer_owners.geojson').then(g=>{LY.owners=L.geoJSON(g,{style:f=>({color:OWNC[f.properties.r],weight:1,fillColor:OWNC[f.properties.r],fillOpacity:f.properties.r==='mfl_open'?.22:.5}),
      onEachFeature:(f,l)=>l.on('click',e=>{if(!e.originalEvent._area)showRule(f.properties.r)})}).addTo(map);LY.owners.bringToBack();LY.layers.addOverlay(LY.owners,'Land owners');});
-  j('areas.geojson').then(g=>{LY.areas=L.geoJSON(g,{style:areaStyle,onEachFeature:(f,l)=>{l.on('click',e=>{e.originalEvent._area=1;L.DomEvent.stopPropagation(e);selectArea(f.properties.id);});
+  j('areas.geojson').then(g=>{LY.areas=L.geoJSON(g,{style:areaStyle,onEachFeature:(f,l)=>{l.on('click',e=>{e.originalEvent._area=1;L.DomEvent.stopPropagation(e);selectArea(f.properties.id);});l.on('mouseover',()=>{if(ST.sel!==f.properties.id)l.setStyle({stroke:true,color:'#1d3328',weight:1.5,dashArray:'4 3'})});l.on('mouseout',()=>LY.areas.resetStyle(l));
      l.bindTooltip(()=>{const a=AMAP[f.properties.id];const n=areaNow(a);return `<b>${esc(a.title)}</b><br>${n.length?n.slice(0,4).map(x=>SPM[x.k].n).join(', '):'Nothing listed in season this week'}`},{sticky:true});}}).addTo(map);
      LY.layers.addOverlay(LY.areas,'Access areas');});
   j('layer_foot.geojson').then(g=>{LY.foot=L.geoJSON(g,{style:f=>({color:f.properties.k==='ski'?'#2f5d73':'#b0502a',weight:3,dashArray:f.properties.k==='ski'?'4 4':null}),
@@ -147,8 +149,7 @@ function initMap(){
   j('layer_points.geojson').then(g=>{const ic={parking:'🅿️',trailhead:'🥾',launch:'🛶',rapids:'〰️',waterfall:'💧',camp_site:'⛺',picnic_site:'🧺',viewpoint:'👁️',spring:'💧',atv_trailhead:'🛻'};
      LY.pts=L.geoJSON(g,{pointToLayer:(f,ll)=>L.marker(ll,{icon:L.divIcon({className:'',html:`<div style="font-size:15px;line-height:15px">${ic[f.properties.k]||'•'}</div>`,iconSize:[16,16]})}),
      onEachFeature:(f,l)=>l.bindTooltip(esc(f.properties.n||f.properties.k.replace('_',' ')))});LY.layers.addOverlay(LY.pts,'Parking, landings, trailheads');map.on('zoomend',()=>{map.getZoom()>=12?map.addLayer(LY.pts):map.removeLayer(LY.pts)});});
-  const lg=L.control({position:'bottomleft'});lg.onAdd=()=>{const d=L.DomUtil.create('div','legend');d.innerHTML=
-   `<div><i style="background:${OWNC.county}"></i>County forest</div><div><i style="background:${OWNC.state}"></i>State (DNR)</div><div><i style="background:${OWNC.federal}"></i>National forest</div><div><i style="background:${OWNC.bcpl}"></i>School trust land</div><div><i style="background:${OWNC.mfl_open}"></i>Private, walk-in only (no picking)</div><div><i style="background:#fff;border:1px solid #6f6a5e"></i>Private land (zoom in for property lines)</div><div style="margin-top:3px"><i style="background:#3d6b4f;opacity:.75"></i>Access area: darker = more in season</div>`;return d;};lg.addTo(map);
+  const lg=L.control({position:'bottomleft'});lg.onAdd=()=>{const d=L.DomUtil.create('div','legend');d.id='legend';return d;};lg.addTo(map);legendUpdate();
 }
 
 // ---- onX-style parcels: every tax parcel at zoom 13+, public in colour, private in grey (no owner names)
@@ -167,15 +168,22 @@ async function parcels(){if(!map)return;if(!PIDX)PIDX=await j('parcels/index.jso
   LY.parcels.eachLayer(l=>{if(!map.hasLayer(l))map.addLayer(l);});}
 function showOwnerAt(ll,r,c){tab('here');ST.sel=null;if(LY.areas)LY.areas.setStyle(areaStyle);const o=RULES.owners[r];
   $('#pane-here').innerHTML=`<h2>${esc(PNAME[c]||o.name)}</h2><div class="rulebox">${esc(o.short)}${o.url?` <a class="small" href="${o.url}" target="_blank" rel="noopener">source</a>`:''}</div>${['county','state','federal','bcpl'].includes(c)?'<p class="small muted">This parcel is public but not inside one of our access areas (it may be landlocked or hard to reach). Check that you can reach it without crossing private land.</p>':''}`;}
+function legendUpdate(){const d=document.getElementById('legend');if(!d)return;
+  d.innerHTML=`<div style="font-weight:700;margin-bottom:2px">You may forage on</div><div><i style="background:${OWNC.county}"></i>County forest</div><div><i style="background:${OWNC.state}"></i>State land (DNR)</div><div><i style="background:${OWNC.federal}"></i>National forest</div><div><i style="background:${OWNC.bcpl}"></i>School trust land (berries)</div>
+  <div style="font-weight:700;margin:4px 0 2px">No picking</div><div><i style="background:${OWNC.mfl_open};opacity:.6"></i>Private, walk-in only</div><div><i style="background:#fff;border:1px solid #6f6a5e"></i>Private land</div>`+
+  (ST.shade?`<div style="font-weight:700;margin:4px 0 2px">In season this week</div><div style="display:flex;height:10px;border-radius:3px;overflow:hidden">${RAMP.map(c=>`<span style="flex:1;background:${c}"></span>`).join('')}</div><div style="display:flex;justify-content:space-between"><span>a little</span><span>a lot</span></div>`:'<div style="margin-top:4px" class="small">Tap anywhere on public land to see what grows there.</div>');}
 function modeLayers(){if(!map)return;
   if(ST.mode==='utv'){if(!LY.utv){j('layer_utv.geojson').then(g=>{LY.utv=L.geoJSON(g,{style:f=>({color:f.properties.k==='trail'?'#7a3e9d':f.properties.k==='forest road'?'#a0522d':'#c58ad6',weight:f.properties.k==='road route'?1.5:3}),
      onEachFeature:(f,l)=>l.bindTooltip(esc((f.properties.n?f.properties.n+' · ':'')+'ATV/UTV '+f.properties.k))}).addTo(map);LY.layers.addOverlay(LY.utv,'ATV/UTV trails and routes');});}else map.addLayer(LY.utv);}
   else if(LY.utv)map.removeLayer(LY.utv);
   if(LY.paddle){ST.mode==='paddle'||ST.mode==='all'?map.addLayer(LY.paddle):map.removeLayer(LY.paddle);}
 }
-function areaStyle(f){const a=AMAP[f.properties.id];const n=areaNow(a);const ok=tripModeOK(a);
-  const score=n.reduce((s,x)=>s+(x.lvl===2?1:.4),0);const op=!ok?0.04:(n.length?Math.min(.75,.15+score*.08):.05);
-  const sel=ST.sel===a.id;return {color:sel?'#b0502a':'#1d3328',weight:sel?3:.7,fillColor:'#3d6b4f',fillOpacity:op,opacity:ok?.8:.25};}
+const RAMP=['#fff3c4','#fdd98a','#f9b65a','#ee8a3c','#d9622b','#b03f1f'];
+function areaStyle(f){const a=AMAP[f.properties.id];const sel=ST.sel===a.id;const ok=tripModeOK(a);
+  let fill=0,fc='#000';
+  if(ST.shade){const n=areaNow(a);const score=n.reduce((s,x)=>s+(x.lvl===2?1:.4),0);if(n.length&&ok){fc=RAMP[Math.min(5,Math.floor(score/1.5))];fill=.62;}}
+  else if(ST.mode!=='all'&&ok){fc='#b0502a';fill=.22;}
+  return {stroke:sel,color:'#b0502a',weight:3,opacity:1,fillColor:fc,fillOpacity:fill};}
 function renderAll(){$('#weeklabel').textContent='Week of '+weekDate(ST.week);if(LY.areas)LY.areas.setStyle(areaStyle);renderTrips();renderSpecies();renderRules();renderAbout();if(ST.sel)selectArea(ST.sel,true);else renderIntro();}
 
 function seasonBar(s,off){if(!s.weeks)return '<div class="muted small">Too few local records to time its season.</div>';const sh=Math.round((off||0)/7);
@@ -194,7 +202,7 @@ function selectArea(id,quiet){const a=AMAP[id];if(!a)return;ST.sel=id;if(LY.area
   const allLegal=a.species.filter(x=>x[2]);const notLegal=a.species.filter(x=>!x[2]&&x[1]===2);
   const trips=TRIPS.filter(t=>t.areas.includes(a.id));
   const dir=`https://www.google.com/maps/dir/?api=1&destination=${a.access.lat},${a.access.lon}`;
-  $('#pane-here').innerHTML=`<h2>${esc(a.title)}</h2><div>${ruleBadge(a.rule)} <span class="muted">${a.acres.toLocaleString()} acres · ${esc(a.prop)}${a.sna?' · '+esc(a.sna):''}</span></div>
+  $('#pane-here').innerHTML=`<div class="small muted">Access area: the part of this public land closest to one way in</div><h2>${esc(a.title)}</h2><div>${ruleBadge(a.rule)} <span class="muted">${a.acres.toLocaleString()} acres · ${esc(a.prop)}${a.sna?' · '+esc(a.sna):''}</span></div>
   <div class="rulebox"><b>Rules here:</b> ${esc(r.short)}${r.limits&&r.limits.length?'<br><span class="small">'+r.limits.map(esc).join(' · ')+'</span>':''} <a class="small" href="${r.url}" target="_blank" rel="noopener">source</a></div>
   <p class="small"><b>Get in:</b> ${esc(a.access.kind)}${a.access.name&&a.access.name!=='forest road'?' on '+esc(a.access.name):''}. <a class="btn ghost" style="padding:2px 8px" href="${dir}" target="_blank" rel="noopener">Directions</a></p>
   <h3>In season the week of ${weekDate(ST.week)}</h3>
@@ -211,9 +219,10 @@ function selectArea(id,quiet){const a=AMAP[id];if(!a)return;ST.sel=id;if(LY.area
   ${notLegal.length?`<p class="small muted">Also grows here but may not be picked on this land: ${notLegal.map(x=>esc(SPM[x[0]].n)).join(', ')}.</p>`:''}`;
   if(!quiet){tab('here');}
 }
-function renderIntro(){$('#pane-here').innerHTML=`<h2>Pick a place on the map</h2>
- <p>The green-outlined patches are <b>access areas</b>: the stretch of public forest you can walk into from one pull-off, parking lot, trailhead or landing. The darker the green, the more is in season there the week you choose.</p>
- <p>Tap one to see what grows there, when, whose land it is and what you may pick.</p>
+function renderIntro(){$('#pane-here').innerHTML=`<h2>Where you can forage</h2>
+ <p>The coloured land is public: <b style="color:${OWNC.county}">county forest</b>, <b style="color:${OWNC.state}">state land</b>, <b style="color:${OWNC.federal}">national forest</b> and <b style="color:${OWNC.bcpl}">school trust land</b>. Together that is about <b>186,800 acres</b> in Langlade County where you may pick, each with its own rules.</p>
+ <p><b>Tap anywhere on it</b> to see what grows there, when, whose land it is, and the nearest pull-off or parking spot to walk in from.</p>
+ <p>Turn on <b>🌡️ Season heat</b> to colour the land by how much is in season the week you pick, or choose a single plant or mushroom under <b>Show</b>.</p>
  <div class="warn">This map shows <b>where and when</b>, not <b>what it is</b>. Learn each plant in person before you eat it, and never eat a wild mushroom unless an expert has checked it in person.</div>
  <p class="small">Want a printed map pack, GPS files for a day trip, or a guided walk? Ask at The Blessed Fig Tree, 800 5th Ave, Antigo.</p>`;}
 function showTrip(id){const t=TRIPS.find(x=>x.id===id);if(!t)return;tab('trips');
