@@ -261,7 +261,7 @@ function selectUnit(id,ll,quiet){const u=UN.rows.get(id);if(!u)return;ST.usel=id
   const acres=Math.round(u.ha*2.471);
   const ways=[[u.ap1,u.d1],[u.ap2,u.d2]].filter(x=>x[0]!=null&&UN.access[x[0]]).map(([i,dm])=>{const a=UN.access[i];
     return `<div class="sp"><span>${a[2]==='launch'?'🛶':a[2]==='atv_trailhead'?'🛻':a[2]==='camp_site'?'⛺':'🅿️'}</span><div><b>${esc(wayN(a))}</b> <span class="muted small">${a[2]!=='roadside'&&a[3]?esc(ACCK[a[2]])+' · ':''}about ${distN(dm)} away as the crow flies</span><div><a class="btn ghost" style="padding:2px 8px" href="https://www.google.com/maps/dir/?api=1&destination=${a[1]},${a[0]}" target="_blank" rel="noopener">Directions</a></div></div></div>`;}).join('');
-  $('#pane-here').innerHTML=`<div class="small muted">Habitat patch · ${acres.toLocaleString()} acre${acres===1?'':'s'}</div><h2><span style="display:inline-block;width:14px;height:14px;border-radius:3px;background:${h[1]};vertical-align:-1px;margin-right:6px"></span>${esc(h[0])}</h2>
+  $('#pane-here').innerHTML=`<div class="small muted">Habitat patch · ${acres.toLocaleString()} acre${acres===1?'':'s'} · ${esc(nearName(u))}</div><h2><span style="display:inline-block;width:14px;height:14px;border-radius:3px;background:${h[1]};vertical-align:-1px;margin-right:6px"></span>${esc(h[0])}</h2>
   <div>${ruleBadge(rule)} <span class="muted small">${u.emin===u.emax?u.emin:u.emin+'–'+u.emax} ft elevation</span></div>
   <p class="small">${esc(h[2])}</p>
   <div class="rulebox"><b>Rules here:</b> ${esc(r.short)}${r.limits&&r.limits.length?'<br><span class="small">'+r.limits.map(esc).join(' · ')+'</span>':''} <a class="small" href="${r.url}" target="_blank" rel="noopener">source</a></div>
@@ -320,8 +320,17 @@ function renderIntro(){$('#pane-here').innerHTML=`<h2>Where you can forage</h2>
  <p>The colours show <b>what is on the ground</b>: maple woods, pine on sand, cedar swamp, river bottoms, openings and more. Each patch has one kind of woods, one soil and one lie of the land (south slope, north slope, frost pocket or level), because that is what decides what grows there and when.</p>
  <p><b>Tap any colour</b> to see what is in season in that patch, what is coming next, the rules, and the nearest pull-off with directions.</p>
  <p>Switch <b>Colour by</b> to <b>🌡️ In season</b> to light up the patches with the most to find the week you pick, or choose one plant or mushroom under <b>Show</b>.</p>
+ ${bestSpots()}
  <div class="warn">This map shows <b>where and when</b>, not <b>what it is</b>. Learn each plant in person before you eat it, and never eat a wild mushroom unless an expert has checked it in person.</div>
  <p class="small">Want a printed map pack, GPS files for a day trip, or a guided walk? Ask at The Blessed Fig Tree, 800 5th Ave, Antigo.</p>`;}
+function bestSpots(){if(!UN)return '';const sc=[];for(const u of UN.rows.values()){if(u.ha<4)continue;const n=unitNow(u);if(!n.length)continue;
+   const v=n.reduce((t,x)=>t+(x.lvl===2?1:.25)*(SPM[x.k].kind==='fungus'?.8:1.25),0)+Math.min(u.ha,60)/200;if(n.some(x=>x.lvl===2))sc.push([v,u,n]);}
+  sc.sort((a,b)=>b[0]-a[0]);const out=[],seen=new Set();for(const [v,u,n] of sc){if(seen.has(u.ap1))continue;seen.add(u.ap1);out.push([u,n]);if(out.length>=8)break;}
+  if(!out.length)return `<h3>Best spots the week of ${weekDate(ST.week)}</h3><p class="small muted">Not much on our list is ready this week. Slide the week bar to look ahead.</p>`;
+  return `<h3>Best spots the week of ${weekDate(ST.week)}</h3><p class="small muted">Patches with the most in good habitat right now, one per pull-off. Tap one to fly there.</p>`+out.map(([u,n])=>{const a=UN.access[u.ap1];
+   return `<div class="card" onclick="flyUnit(${u.id})"><h4><span style="display:inline-block;width:11px;height:11px;border-radius:2px;background:${HAB[u.cov][1]};margin-right:5px"></span>${esc(HAB[u.cov][0])} </h4><div class="small muted">${esc(nearName(u))}</div><div class="small">${ruleBadge(OWNK[u.own])} ${n.filter(x=>x.lvl===2).slice(0,4).map(x=>esc(SPM[x.k].n)).join(', ')}</div></div>`;}).join('');}
+function nearName(u){let best=null,bd=1e9;for(const a of AREAS){const d=(a.access.lat-u.lat)**2+((a.access.lon-u.lon)*.7)**2;if(d<bd){bd=d;best=a;}}return best?best.title:'';}
+function flyUnit(id){const u=UN.rows.get(id);if(!u)return;map.setView([u.lat,u.lon],14);selectUnit(id);}
 function showTrip(id){const t=TRIPS.find(x=>x.id===id);if(!t)return;tab('trips');
   const stops=t.areas.map(i=>AMAP[i]).filter(Boolean);
   const pts=stops.map(a=>[a.access.lat,a.access.lon]);if(t.start)pts.push([t.start[1],t.start[0]]);if(pts.length)map.fitBounds(pts,{padding:[30,30],maxZoom:13});
