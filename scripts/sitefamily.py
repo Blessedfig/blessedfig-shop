@@ -28,7 +28,9 @@ SITES = [
     ('game',     'Play The Unwritten',            WWW + '/unwritten/'),
     ('goose',    'Meet Goose Goose',              WWW + '/goose.html'),
     ('merch',    'Shirts, stickers and puzzles',  'https://the-blessed-fig-tree-llc-shop.fourthwall.com'),
+    ('support',  'Support the shop on PayPal',    'https://www.paypal.me/blessedfigtree'),
 ]
+EXTERNAL = ('merch', 'support')
 
 FAMILY_CSS = (
     '.bft-family{display:block;clear:both;margin:22px 0 0;padding:14px 0 0;'
@@ -49,12 +51,13 @@ def family_html(current, wrap=False):
     lis = []
     for key, label, url in SITES:
         cur = ' aria-current="page"' if key == current else ''
-        ext = ' target="_blank" rel="noopener"' if key == 'merch' else ''
+        ext = ' target="_blank" rel="noopener"' if key in EXTERNAL else ''
         lis.append(f'<li><a href="{url}"{cur}{ext}>{html.escape(label)}</a></li>')
     nav = ('<div class="bft-family" role="navigation" aria-label="All Blessed Fig Tree sites">'
            '<p class="bft-h">More from The Blessed Fig Tree</p>'
            f'<ul>{"".join(lis)}</ul>'
-           '<p class="bft-end">Come see us at 800 5th Ave, Antigo, Wisconsin. '
+           '<p class="bft-end">Everything on these sites is free. Support helps pay for all of it. '
+           'Come see us at 800 5th Ave, Antigo, Wisconsin. '
            f'<a href="{WWW}/#visit">Hours and directions</a></p></div>')
     if wrap:
         nav = f'<div class="bft-wrap">{nav}</div>'
@@ -172,7 +175,7 @@ def fix_goose(path):
     for k, label, url in SITES:
         if k == 'goose':
             continue
-        ext = ' target="_blank" rel="noopener"' if k == 'merch' else ''
+        ext = ' target="_blank" rel="noopener"' if k in EXTERNAL else ''
         lis.append(f'<li><a href="{url}"{ext}><span>{html.escape(label)}</span></a></li>')
     new = '\n        ' + '\n        '.join(lis) + '\n      '
     s2 = s[:m.start(2)] + new + s[m.end(2):]
