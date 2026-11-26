@@ -88,11 +88,11 @@ footer{max-width:1000px;margin:0 auto;padding:10px 20px 40px;color:var(--muted);
 <p>We are reading 140 years of Antigo's own newspapers (1882–2024, through the Antigo Public Library's digital archive) for every mention of berry picking, mushrooms, wild rice, ginseng, maple sugar and other wild foods. The short history and the old local traditions worth bringing back will appear here when that reading is done.</p>
 
 <h2 id="maps">Maps</h2>
-<div class="maps" id="maplist"><a class="card big" href="foraging/map/"><b>County map →</b><div>All public land and its rules, 594 access areas, season slider, and day trips on foot, by car, by UTV and by paddle.</div></a></div>
+<div class="maps" id="maplist"><a class="card big" href="foraging/map/"><b>County map →</b><div>All public land coloured by habitat (maple woods, pine on sand, cedar swamp and more), what is in season this week, the best spots right now, the rules, and day trips on foot, by car, by UTV and by paddle.</div></a></div>
 <p><a href="foraging/places/">See all 47 place maps →</a></p>
 
 <h2 id="rules">The rules in one minute</h2>
-<table class="rules" id="rules"></table>
+<table class="rules" id="rulestable"></table>
 <div class="warn"><b>This site shows where and when, not what.</b> Learn each plant in person before eating it, and never eat a wild mushroom unless an experienced identifier has checked it in person. Poison Control: 1-800-222-1222.</div>
 <p class="mut">Want a printed map pack, GPS files for a day trip, or a guided walk? Ask at The Blessed Fig Tree, 800 5th Ave, Antigo.</p>
 </main>
@@ -117,7 +117,7 @@ Promise.all(['species','places','rules'].map(n=>fetch('foraging/data/'+n+'.json'
  const feat=['ackley-wildlife-area','peters-marsh-wildlife-area','jack-lake-area-county-forest','game-lake-veterans-memorial-park','ice-age-trail-kettlebowl-segment','ice-age-trail-parrish-hills-segment','ada-lake-recreation-area','boulder-lake-recreation-area','the-nicolet-roche','upper-wolf-river-fishery-area','moccasin-lake','kelly-lynn-bog-state-natural-area'];
  const ml=document.querySelector('#maplist');
  feat.map(s=>P.find(p=>p.slug===s)).filter(Boolean).forEach(p=>ml.insertAdjacentHTML('beforeend',`<a class="card" href="foraging/places/${p.slug}/"><span class="badge" style="background:${KCOL[p.kind]}">${KN[p.kind]}</span><br><b>${esc(p.name)}</b><div class="mut">${p.acres.toLocaleString()} acres · ${p.access.length} ways in</div></a>`));
- const o=R.owners;document.querySelector('#rules').innerHTML=['county','state','federal','bcpl','mfl_open','private'].map(k=>`<tr><td style="width:34%"><b>${esc(o[k].name)}</b></td><td>${esc(o[k].short)}${o[k].limits&&o[k].limits.length?'<div class="mut">'+o[k].limits.map(esc).join(' · ')+'</div>':''}</td></tr>`).join('');
+ const o=R.owners;document.querySelector("#rulestable").innerHTML=['county','state','federal','bcpl','mfl_open','private'].map(k=>`<tr><td style="width:34%"><b>${esc(o[k].name)}</b></td><td>${esc(o[k].short)}${o[k].limits&&o[k].limits.length?'<div class="mut">'+o[k].limits.map(esc).join(' · ')+'</div>':''}</td></tr>`).join('');
 });
 </script>
 </body>
