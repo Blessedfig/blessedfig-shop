@@ -458,7 +458,7 @@ function strokeLine(o, width, color, dash) {
 function drawStreets() {
   ctx.lineCap = 'round'; ctx.lineJoin = 'round';
   for (const k of PARKS) if (onScreen(k, 2)) {
-    ctx.fillStyle = '#62626a'; ctx.beginPath(); k.P.forEach((p, i) => { const X = (p[0] - camX) * T, Y = (p[1] - camY) * T; i ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); }); ctx.closePath(); ctx.fill();
+    ctx.fillStyle = typeof ART !== 'undefined' && ART.ground ? artPattern('asph', 1) : '#62626a'; ctx.beginPath(); k.P.forEach((p, i) => { const X = (p[0] - camX) * T, Y = (p[1] - camY) * T; i ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); }); ctx.closePath(); ctx.fill();
     ctx.strokeStyle = '#9a968e'; ctx.lineWidth = 3; ctx.stroke();
   }
   const vis = VEC.filter(o => onScreen(o, 4));

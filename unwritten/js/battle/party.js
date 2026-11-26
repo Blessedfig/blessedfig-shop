@@ -6,7 +6,7 @@
 //    class base + growth per level  ->  level-up picks (bonus)  ->  training at UMA (train, capped)  ->  deriveStats()
 //    ->  gear and bookmarks (mods)  ->  in battle, statuses (engine.js S()).
 // =====================================================================
-const PARTY_CFG = { atb: 'wait', speed: 3, timing: 'on', roll: 1, challenge: 'medium', msg: 2 };
+const PARTY_CFG = { atb: 'wait', speed: 3, timing: 'on', roll: 1, challenge: 'medium', msg: 2, order: 1 };   // Nov 26: order default added (CONFIG showed 'undefined')
 function partyEnsure() {
   if (!G) return null;
   if (!G.party) G.party = { v: 1, m: {}, order: [], cfg: {}, best: {}, pages: 0 };
