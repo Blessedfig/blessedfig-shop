@@ -546,13 +546,17 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 /* Nov 26: Athena and Sophia peek out from behind the root flare on either side (drawn with ChatGPT in the critters' style).
    They sit inside the trunk, under its base layer, so the roots hide the rest of them. */
 .peek { position: absolute; z-index: -2; background: 0 0 / 100% 100% no-repeat; image-rendering: pixelated; --edge: calc(var(--bw) * var(--s) / 2 - var(--bm) * var(--s)); }
-.peek-athena { width: calc(34px * var(--s)); height: calc(53px * var(--s)); bottom: calc(176px * var(--s)); left: calc(50% - var(--edge) - 24px * var(--s)); background-image: url(img/t_athena.png); }
+.peek-athena { width: calc(47px * var(--s)); height: calc(52px * var(--s)); bottom: calc(176px * var(--s)); left: calc(50% - var(--edge) - 37px * var(--s)); background-image: url(img/t_athena_anim.png); background-size: calc(141px * var(--s)) 100%; }
 /* clickable twins above the page content, same place, no picture */
 .peek-hit { z-index: 2; background: none !important; pointer-events: auto; cursor: pointer; }
 .peek-hit:focus-visible { outline: 3px solid #f2b84b; outline-offset: 3px; }
-.peek-sophia { width: calc(32px * var(--s)); height: calc(48px * var(--s)); bottom: calc(180px * var(--s)); left: calc(50% + var(--edge) - 9px * var(--s)); background-image: url(img/t_sophia.png); }
-.rb-dion { z-index: 2; left: max(6px, calc(50% - 205px * var(--tx))); top: calc(6px * var(--s)); width: calc(82.67px * var(--s)); height: calc(48px * var(--s)); background: url(img/t_dionysus.png) 0 0 / 100% 100% no-repeat; }   /* Nov 26: Dionysus and his snake lounging on the grass (ChatGPT) */
+.peek-sophia { width: calc(34px * var(--s)); height: calc(48px * var(--s)); bottom: calc(180px * var(--s)); left: calc(50% + var(--edge) - 9px * var(--s)); background-image: url(img/t_sophia_anim.png); background-size: calc(102px * var(--s)) 100%; }
+.rb-dion { z-index: 2; left: max(6px, calc(50% - 205px * var(--tx))); top: calc(0px * var(--s)); width: calc(79px * var(--s)); height: calc(57px * var(--s)); background: url(img/t_dion_anim.png) 0 0 / calc(237px * var(--s)) 100% no-repeat; }   /* Nov 26: Dionysus and his snake lounging on the grass (ChatGPT) */
 @media (max-width: 520px) { .rb-dion { left: -40px; } }   /* phones: lean in from the edge so he clears the mushroom */
+/* Nov 26: hover (or tap) a god and they move (frames drawn by ChatGPT): Athena glances over and lifts her shield, the owl
+   opens its wings; Sophia's lamp flares and she smiles; Dionysus drinks, then looks at you. */
+@keyframes god3 { 0% { background-position-x: 0; } 35% { background-position-x: 50%; } 75%, 100% { background-position-x: 100%; } }
+.rb-dion:hover, .rb-dion:focus-visible, .rb-dion.on, .peek.on { animation: god3 1.6s steps(1, end) forwards; }
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
@@ -1127,5 +1131,10 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 })();
 </script>
 <script>/* Nov 26: tap the fairy door or the mushroom: play its little animation first */
-document.querySelectorAll('.fd,.ts').forEach(a=>a.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse')return;a.classList.remove('on');void a.offsetWidth;a.classList.add('on');setTimeout(()=>a.classList.remove('on'),1200);}));</script></body>
+document.querySelectorAll('.fd,.ts').forEach(a=>a.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse')return;a.classList.remove('on');void a.offsetWidth;a.classList.add('on');setTimeout(()=>a.classList.remove('on'),1200);}));</script><script>/* Nov 26: the gods move on hover or tap; the visible figure sits behind the trunk, its link in front */
+(()=>{const pair=(a,v)=>{const on=()=>{v.classList.remove('on');void v.offsetWidth;v.classList.add('on')},off=()=>v.classList.remove('on');
+a.addEventListener('pointerenter',on);a.addEventListener('pointerleave',off);a.addEventListener('focus',on);a.addEventListener('blur',off);
+a.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'){on();setTimeout(off,2500)}})};
+['athena','sophia'].forEach(n=>{const a=document.querySelector('a.peek-'+n),v=document.querySelector('i.peek-'+n);if(a&&v)pair(a,v)});
+const d=document.querySelector('.rb-dion');if(d)d.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'){d.classList.remove('on');void d.offsetWidth;d.classList.add('on');setTimeout(()=>d.classList.remove('on'),2500)}});})();</script></body>
 </html>
