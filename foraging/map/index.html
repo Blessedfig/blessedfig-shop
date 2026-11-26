@@ -144,6 +144,9 @@ function initMap(){
      LY.layers.addOverlay(LY.areas,'Access areas');});
   j('layer_foot.geojson').then(g=>{LY.foot=L.geoJSON(g,{style:f=>({color:f.properties.k==='ski'?'#2f5d73':'#b0502a',weight:3,dashArray:f.properties.k==='ski'?'4 4':null}),
      onEachFeature:(f,l)=>l.bindTooltip(esc(f.properties.n))}).addTo(map);LY.layers.addOverlay(LY.foot,'Hiking & ski trails');});
+  const RC={fr_open:'#5a3d1e',fr_closed:'#8a7a66',logging:'#8a5a2b',firelane:'#c0392b'},RN={fr_open:'Forest road, open to vehicles',fr_closed:'Forest road, closed to vehicles',logging:'Logging road / two-track',firelane:'Fire lane'};
+  j('layer_roads.geojson').then(g=>{LY.roads=L.geoJSON(g,{style:f=>({color:RC[f.properties.k],weight:f.properties.k==='fr_open'?2.5:1.8,dashArray:f.properties.k==='fr_open'?null:'5 4',opacity:.9}),onEachFeature:(f,l)=>l.bindTooltip(`<b>${esc(f.properties.n||RN[f.properties.k])}</b><br>${esc(RN[f.properties.k])}${f.properties.s?'<br>'+esc(f.properties.s):''}`)});
+     LY.layers.addOverlay(LY.roads,'Forest & logging roads (zoom in)');const upd=()=>{map.getZoom()>=12?map.addLayer(LY.roads):map.removeLayer(LY.roads)};map.on('zoomend',upd);upd();});
   j('layer_paddle.geojson').then(g=>{LY.paddle=L.geoJSON(g,{style:f=>f.properties.pub?{color:'#0b7fa6',weight:5,opacity:.9}:{color:'#6fb6d1',weight:2,opacity:.8},
      onEachFeature:(f,l)=>l.bindTooltip(esc(f.properties.n)+(f.properties.pub?': public bank':''))});LY.layers.addOverlay(LY.paddle,'Paddling rivers');modeLayers();});
   j('layer_points.geojson').then(g=>{const ic={parking:'🅿️',trailhead:'🥾',launch:'🛶',rapids:'〰️',waterfall:'💧',camp_site:'⛺',picnic_site:'🧺',viewpoint:'👁️',spring:'💧',atv_trailhead:'🛻'};
