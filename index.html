@@ -530,8 +530,8 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 :root { --tx: var(--s); --wrapw: 1000px; --notch: polygon(0 var(--n), var(--n) var(--n), var(--n) 0, calc(100% - var(--n)) 0, calc(100% - var(--n)) var(--n), 100% var(--n), 100% calc(100% - var(--n)), calc(100% - var(--n)) calc(100% - var(--n)), calc(100% - var(--n)) 100%, var(--n) 100%, var(--n) calc(100% - var(--n)), 0 calc(100% - var(--n))); }
 /* Nov 26: the trunk, its base and the roots are drawn wider for big screens instead of being stretched, so every art pixel
    stays square and the same size as the critters' pixels (pixel-art rule: one pixel size per scene) */
-:root { --bm: 15px; --bark: url(img/t_bark_a.png); --bw: 400px; --base: url(img/t_base_a.png); --basew: 637px; --roots: url(img/t_roots_a.png); --rw: 820px; }
-@media (min-width: 1400px) { :root { --tx: 3.5; --wrapw: 1170px; --bm: 17px; --bark: url(img/t_bark_b.png); --bw: 467px; --base: url(img/t_base_b.png); --basew: 744px; --roots: url(img/t_roots_b.png); --rw: 957px; } }
+:root { --bm: 15px; --bark: url(img/t_bark_a.png); --bw: 400px; --base: url(img/t_base_a.png); --basew: 638px; --roots: url(img/t_roots_a.png); --rw: 820px; }
+@media (min-width: 1400px) { :root { --tx: 3.5; --wrapw: 1170px; --bm: 17px; --bark: url(img/t_bark_b.png); --bw: 467px; --base: url(img/t_base_b.png); --basew: 745px; --roots: url(img/t_roots_b.png); --rw: 957px; } }
 @media (min-width: 1680px) { :root { --tx: 3.75; --wrapw: 1240px; --bm: 19px; --bark: url(img/t_bark_c.png); --bw: 500px; --base: url(img/t_base_c.png); --basew: 796px; --roots: url(img/t_roots_c.png); --rw: 1025px; } }
 .wrap { max-width: var(--wrapw); }
 .tk { width: min(100%, calc(var(--bw) * var(--s))); }
@@ -542,11 +542,11 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 /* Nov 26: Athena and Sophia peek out from behind the root flare on either side (drawn with ChatGPT in the critters' style).
    They sit inside the trunk, under its base layer, so the roots hide the rest of them. */
 .peek { position: absolute; z-index: -2; background: 0 0 / 100% 100% no-repeat; image-rendering: pixelated; --edge: calc(var(--bw) * var(--s) / 2 - var(--bm) * var(--s)); }
-.peek-athena { width: calc(32px * var(--s)); height: calc(48px * var(--s)); bottom: calc(174px * var(--s)); left: calc(50% - var(--edge) - 23px * var(--s)); background-image: url(img/t_athena.png); }
+.peek-athena { width: calc(43px * var(--s)); height: calc(64px * var(--s)); bottom: calc(180px * var(--s)); left: calc(50% - var(--edge) - 31px * var(--s)); background-image: url(img/t_athena.png); }
 /* clickable twins above the page content, same place, no picture */
 .peek-hit { z-index: 2; background: none !important; pointer-events: auto; cursor: pointer; }
 .peek-hit:focus-visible { outline: 3px solid #f2b84b; outline-offset: 3px; }
-.peek-sophia { width: calc(31px * var(--s)); height: calc(46px * var(--s)); bottom: calc(176px * var(--s)); left: calc(50% + var(--edge) - 8px * var(--s)); background-image: url(img/t_sophia.png); }
+.peek-sophia { width: calc(42px * var(--s)); height: calc(62px * var(--s)); bottom: calc(178px * var(--s)); left: calc(50% + var(--edge) - 12px * var(--s)); background-image: url(img/t_sophia.png); }
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
