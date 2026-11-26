@@ -15,7 +15,7 @@
 <link rel="preload" as="image" href="img/t_canopy_back.png">
 <link rel="preload" as="image" href="img/t_canopy_front.png">
 <link rel="preload" as="image" href="img/t_branch.png">
-<link rel="preload" as="image" href="img/t_bark.png">
+<link rel="preload" as="image" href="img/t_bark3.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The Blessed Fig Tree">
 <meta property="og:title" content="The Blessed Fig Tree | Independent Bookstore in Antigo, WI">
@@ -400,7 +400,7 @@ body { position: relative; background: #1a2a46; padding-bottom: 0; }
 
 /* the trunk */
 .tk { position: absolute; z-index: -2; top: 0; bottom: 0; left: 50%; width: min(100%, calc(400px * var(--s))); transform: translateX(-50%);
-  background: url(img/t_bark.png) 50% bottom / calc(400px * var(--s)) calc(256px * var(--s)) repeat-y; }
+  background: url(img/t_bark3.png) 50% bottom / calc(400px * var(--s)) calc(323px * var(--s)) repeat-y; image-rendering: auto; }
 
 /* canopy: back foliage, the lantern branch, front foliage, then the robin */
 .cn { position: absolute; z-index: -1; left: 0; right: 0; top: 0; height: calc(86px * var(--s)); overflow: hidden; }
@@ -529,12 +529,14 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 @media (min-width: 1400px) { :root { --tx: 3.5; --wrapw: 1170px; } }
 @media (min-width: 1680px) { :root { --tx: 3.75; --wrapw: 1240px; } }
 .wrap { max-width: var(--wrapw); }
-.tk { width: min(100%, calc(400px * var(--tx))); background-size: calc(400px * var(--tx)) calc(256px * var(--s)); }
+.tk { width: min(100%, calc(400px * var(--tx))); background-size: calc(400px * var(--tx)) calc(323px * var(--s)); }
 .rb-roots, .rb-myc { width: calc(800px * var(--tx)); margin-left: calc(-400px * var(--tx)); }
+/* Nov 26: smooth roots drawn with ChatGPT; they start under the grass, right where the trunk base's buttresses meet the ground */
+.rb-roots { top: calc(36px * var(--s)); width: calc(820px * var(--tx)); margin-left: calc(-410px * var(--tx)); background: url(img/t_roots2.png) 0 0 / 100% 100% no-repeat; image-rendering: auto; }
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
-.tk::after { content: ""; position: absolute; left: 50%; bottom: calc(106px * var(--s)); width: calc(652px * var(--tx)); height: calc(130px * var(--s)); margin-left: calc(-326px * var(--tx)); background: url(img/t_base.png) 0 0 / 100% 100% no-repeat; image-rendering: pixelated; pointer-events: none; }
+.tk::after { content: ""; position: absolute; left: 50%; bottom: calc(106px * var(--s)); width: calc(637px * var(--tx)); height: calc(130px * var(--s)); margin-left: calc(-318.5px * var(--tx)); background: url(img/t_base3.png) 0 0 / 100% 100% no-repeat; image-rendering: auto; pointer-events: none; }
 .fd { left: calc(50% - 20px * var(--tx)); }
 .gmini { left: calc(50% + 76px * var(--tx)); }
 .rb-mole { left: calc(50% - 152px * var(--tx)); }
