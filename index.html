@@ -409,7 +409,7 @@ body { position: relative; background: #1a2a46; padding-bottom: 0; }
 .cn-back  { background-image: url(img/t_canopy_back2.png);  background-size: calc(257px * var(--s)) calc(344px * var(--s)); }
 .cn-front { background-image: url(img/t_canopy_front2.png); background-size: calc(257px * var(--s)) calc(344px * var(--s)); transform: translateY(calc(-22px * var(--s))); }
 .cn-back { transform: translateY(calc(-10px * var(--s))); }
-.cn-branch { background-image: url(img/t_branch.png); background-size: calc(480px * var(--s)) calc(172px * var(--s)); }
+.cn-branch { background-image: url(img/t_branch2.png); background-size: calc(480px * var(--s)) calc(172px * var(--s)); }
 .robin { position: absolute; z-index: 4; left: calc(50% + 21px * var(--s)); top: calc(29px * var(--s)); width: calc(30px * var(--s)); height: calc(22px * var(--s));
   background: url(img/t_robin.png) 0 0 / calc(240px * var(--s)) calc(22px * var(--s)) no-repeat; }
 
@@ -547,6 +547,8 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 .peek-hit { z-index: 2; background: none !important; pointer-events: auto; cursor: pointer; }
 .peek-hit:focus-visible { outline: 3px solid #f2b84b; outline-offset: 3px; }
 .peek-sophia { width: calc(32px * var(--s)); height: calc(48px * var(--s)); bottom: calc(180px * var(--s)); left: calc(50% + var(--edge) - 9px * var(--s)); background-image: url(img/t_sophia.png); }
+.rb-dion { left: max(6px, calc(50% - 205px * var(--tx))); top: calc(10px * var(--s)); width: calc(52px * var(--s)); height: calc(34.5px * var(--s)); background: url(img/t_dionysus.png) 0 0 / 100% 100% no-repeat; }   /* Nov 26: Dionysus and his snake lounging on the grass (ChatGPT) */
+@media (max-width: 520px) { .rb-dion { left: -30px; } }   /* phones: lean in from the edge so he clears the mushroom */
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
@@ -978,7 +980,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 </section>
 
 <div class="rb">
-  <a class="peek peek-hit peek-athena" href="https://en.wikipedia.org/wiki/Athena" target="_blank" rel="noopener" title="Athena" aria-label="Athena on Wikipedia"></a><a class="peek peek-hit peek-sophia" href="https://en.wikipedia.org/wiki/Sophia_(wisdom)" target="_blank" rel="noopener" title="Sophia" aria-label="Sophia (wisdom) on Wikipedia"></a><div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><i class="rb-books" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="gmini" href="https://www.theblessedfigtree.com/goose.html" title="Who is this?" aria-label="Goose Goose, the shop mascot"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy_door" target="_blank" rel="noopener" title="Fairy door" aria-label="Fairy door on Wikipedia"></a></div>
+  <a class="peek peek-hit peek-athena" href="https://en.wikipedia.org/wiki/Athena" target="_blank" rel="noopener" title="Athena" aria-label="Athena on Wikipedia"></a><a class="peek peek-hit peek-sophia" href="https://en.wikipedia.org/wiki/Sophia_(wisdom)" target="_blank" rel="noopener" title="Sophia" aria-label="Sophia (wisdom) on Wikipedia"></a><div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><i class="rb-books" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="gmini" href="https://www.theblessedfigtree.com/goose.html" title="Who is this?" aria-label="Goose Goose, the shop mascot"></a><a class="rb-dion" href="https://en.wikipedia.org/wiki/Dionysus" target="_blank" rel="noopener" title="Dionysus" aria-label="Dionysus on Wikipedia"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy" target="_blank" rel="noopener" title="Fairies" aria-label="Fairies on Wikipedia"></a></div>
   <button class="mo" type="button" aria-pressed="false">Pause motion</button>
 </div>
 <script>
