@@ -18,7 +18,10 @@ const RSW_STATS = { rooms: 0, fixed: 0, cut: 0, sealed: 0, ms: 0 };
 function roomSweep(F) {
   const t0 = performance.now(), { R, W, H } = F, N = W * H;
   const npc = new Uint8Array(N); for (const n of F.npcs || []) if (!n.when && n.x >= 0 && n.x < W && n.y >= 0 && n.y < H) npc[n.y * W + n.x] = 1;
-  const wk = new Uint8Array(N); for (let v = 0; v < H; v++) { const r = R[v]; for (let u = 0; u < W; u++) wk[v * W + u] = ROOM_WALK.has(r[u]) && !npc[v * W + u] ? 1 : 0; }
+  // Nov 26: a gated door (the safety-gear doors at Volm and the Wood Technology Center, industry.js ppeDoor) counts as a way
+  // through, so the sweep no longer opens a second doorway that walks around the safety gear
+  const gated = (typeof roomHook === 'function' && F.b && roomHook(F.b).gateD) ? 1 : 0;
+  const wk = new Uint8Array(N); for (let v = 0; v < H; v++) { const r = R[v]; for (let u = 0; u < W; u++) wk[v * W + u] = (ROOM_WALK.has(r[u]) || gated && r[u] === 'D') && !npc[v * W + u] ? 1 : 0; }
   const inner = (u, v) => u >= 0 && v >= 0 && u < W && v < H && !['W', 'O', ' '].includes(R[v][u]);
   // the step-in spot
   let s = F.ey * W + F.ex;

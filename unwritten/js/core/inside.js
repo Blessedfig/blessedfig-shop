@@ -177,6 +177,7 @@ MODES.inside = {
     chars.push({ y: ky, draw: () => drawKid(G.kid, Math.round(ox + kx * IT), Math.round(oy + ky * IT), G.dir, P.t > 0, IT) });
     // the counter is in front of whoever stands behind it: redraw its row in depth order so it hides legs instead of feet poking over it
     if (G.inside.f === 'main') chars.push({ y: 18, draw: () => { for (let x = 0; x < FW; x++) { const t = fl.rows[18][x]; if (t === 'c' || t === 'k') drawFigTile(t, ox + x * IT, oy + 18 * IT, x, 18, false, false); } } });
+    if (typeof insideChars === 'function') insideChars(chars, ox, oy);   // Nov 26: the party waiting at the store (basecrowd.js)
     chars.sort((a, b) => a.y - b.y).forEach(c => c.draw());
     // the basement is dark: a pool of light around the kid
     if (fl.dim) { ctx.fillStyle = 'rgba(40,24,6,.16)'; ctx.fillRect(0, 0, SW, SH); }   // warm, low basement light

@@ -111,7 +111,14 @@ for (const b of BLD) { if (b.addr === '520 1ST AVE' && !b.name) b.name = 'Antigo
   }
   return r;
 }; }
-{ const _er = enterRoom; enterRoom = function (b) { const r = _er(b); if (b && b.name === 'Antigo Public Library' && DLG && DLG.lines) { adminCall().call.library = 1; for (const s of adminNews()) DLG.lines.push(['Admin', adminNewsLine(s)]); } return r; }; }
+// walking in counts too (Nov 26 fix: the department buildings became enterable on Nov 19, so looking at the door now walks
+// you in and the outside look above never ran; police, streets and water could never go on call)
+{ const _er = enterRoom; enterRoom = function (b) { const r = _er(b), D = b && DEPT_BLDG.find(e => e.test(b));
+  if (D && DLG && DLG.lines) {
+    if (D.line && !DLG.lines.some(l => l[1] === D.line)) DLG.lines.push(['', D.line]);
+    if (D.d) { for (const d of [].concat(D.d)) adminCall().call[d] = 1; for (const s of adminNews()) DLG.lines.push(['Admin', adminNewsLine(s)]); }
+  }
+  return r; }; }
 let ADMIN_LASTV = -1;   // places reached on foot (parks, Water Tower Park): checked when the count of places found changes
 { const _mt = mapplusTick; mapplusTick = function () {
   _mt(); if (!G || !G.visited) return; const n = Object.keys(G.visited).length; if (n === ADMIN_LASTV) return; ADMIN_LASTV = n;

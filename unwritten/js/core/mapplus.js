@@ -172,6 +172,10 @@ Object.assign(MODES.map, {
       if (!free(r)) continue; placed.push(r);
       ctx.save(); ctx.translate(Math.round(mx), Math.round(my)); ctx.rotate(ang); halo(name, 0, 0, '#ffe9a8', 'center', SMALL); ctx.restore();
     }
+    // Nov 26 (EarthBound's town maps): where to eat and where to shop, once the map is zoomed in far enough to read them
+    if (zs >= 0.8) for (const q of mapServices()) { const [X, Y] = S(q.x, q.y); if (X < -4 || X > SW + 4 || Y < -4 || Y > SH - 50) continue;
+      if (q.k === 'food') { ctx.fillStyle = '#000'; ctx.beginPath(); ctx.arc(X, Y, 3.5, 0, 6.29); ctx.fill(); ctx.fillStyle = '#f0a040'; ctx.beginPath(); ctx.arc(X, Y, 2.5, 0, 6.29); ctx.fill(); }
+      else { ctx.fillStyle = '#000'; ctx.beginPath(); ctx.moveTo(X, Y - 4); ctx.lineTo(X + 4, Y); ctx.lineTo(X, Y + 4); ctx.lineTo(X - 4, Y); ctx.fill(); ctx.fillStyle = '#58d0c8'; ctx.beginPath(); ctx.moveTo(X, Y - 3); ctx.lineTo(X + 3, Y); ctx.lineTo(X, Y + 3); ctx.lineTo(X - 3, Y); ctx.fill(); } }
     // bus stops and water towers (OpenStreetMap; tower heights from the county lidar)
     for (const q of PROPS) { if (q.k !== 'bus' && q.k !== 'tower') continue; const [X, Y] = S(q.x, q.y); if (X < -4 || X > SW + 4 || Y < -4 || Y > SH - 20) continue;
       if (q.k === 'bus') { R(X - 2, Y - 2, 5, 5, '#000'); R(X - 1, Y - 1, 3, 3, '#4a8af0'); }
@@ -190,11 +194,13 @@ Object.assign(MODES.map, {
     const tip = bus ? (bus.k === 'bus' ? 'Bus stop: ' + bus.name : 'Water tower, ' + Math.round(bus.h * 3.28084) + ' ft') : hit ? hit.name + (hit.note && hit.note !== 'OpenStreetMap' ? ' · ' + hit.note : '') : cn ? 'License-plate camera (OpenStreetMap)' : b && b.name ? b.name : st;
     if (tip && !this.list) { ctx.font = SMALL; const w = Math.min(SW - 8, ctx.measureText(tip).width + 8), tx = Math.max(2, Math.min(SW - w - 2, cx + 6)); win(tx, cy - 18, w, 12); txt(tip, tx + 4, cy - 15, '#fff', 'left', SMALL); }
     // legend and the count of places found
-    win(4, SH - 46, 272, 24);
+    win(4, SH - 46, 280, 24);
     let lx = 10; ctx.fillStyle = '#9fe0a0'; star(lx + 2, SH - 39, 4); txt('Fig Tree', lx + 8, SH - 42, '#fff', 'left', SMALL); lx += 60;
     for (const k of ['park', 'school', 'historic', 'church']) { R(lx, SH - 41, 5, 5, PCAT[k][0]); txt(PCAT[k][1], lx + 7, SH - 42, '#fff', 'left', SMALL); ctx.font = SMALL; lx += ctx.measureText(PCAT[k][1]).width + 14; }
     R(10, SH - 32, 5, 5, '#e04848'); txt('Plate cameras', 17, SH - 33, '#fff', 'left', SMALL);
     R(100, SH - 32, 5, 5, '#000'); R(101, SH - 31, 3, 3, '#1a1c4a'); txt('not found yet', 108, SH - 33, '#b8bcd8', 'left', SMALL);
+    ctx.fillStyle = '#f0a040'; ctx.beginPath(); ctx.arc(196, SH - 29.5, 2.5, 0, 6.29); ctx.fill(); txt('Food', 201, SH - 33, '#fff', 'left', SMALL);
+    ctx.fillStyle = '#58d0c8'; ctx.beginPath(); ctx.moveTo(236, SH - 33); ctx.lineTo(239, SH - 30); ctx.lineTo(236, SH - 27); ctx.lineTo(233, SH - 30); ctx.fill(); txt('Shops', 242, SH - 33, '#fff', 'left', SMALL);
     // Nov 26 UX pass: no 'Found n/56' counter (no collect-them-all pull)
     txt('© OSM · Microsoft · Langlade Co. · WROC 2025 · USGS · USDA', SW - 4, 4, 'rgba(255,255,255,.6)', 'right', SMALL);
     // the Places list
@@ -217,4 +223,23 @@ function drawPlaces(L) {
   }
   const p = PL[L.sel]; R(x + 6, y + h - 37, w - 12, 1, 'rgba(255,255,255,.25)');
   if (p) { const t = (PCAT[p.cat] ? PCAT[p.cat][1] : '') + (p.note && p.note !== 'OpenStreetMap' ? ' · ' + p.note : ''); wrap(t, w - 16, SMALL).slice(0, 3).forEach((l, i) => txt(l, x + 8, y + h - 32 + i * 9, '#c8d0ff', 'left', SMALL)); }
+}
+
+// where to eat and where to shop (Nov 26): every enterable named place that sells food (not bars) or goods, once
+let MAP_SVC = null;
+function mapServices() {
+  if (MAP_SVC) return MAP_SVC; MAP_SVC = [];
+  const foodIds = typeof FOOD_BY_ID !== 'undefined' ? FOOD_BY_ID : new Map();
+  for (const b of BLD) {
+    if (!b.name || !b.enter || b.id === BLD[TOWN.fig].id) continue;
+    let k = null;
+    if (foodIds.has(b.id)) k = 'food';
+    else { const kind = typeof roomKind === 'function' ? roomKind(b) : ''; if (kind === 'cafe' || kind === 'bakery') k = 'food'; else if (['shop', 'florist', 'pharmacy', 'vintage'].includes(kind) && b.type === 'store') k = 'shop'; }
+    if (k === 'shop' && /palace theatre|martial arts|respawn|wealth|advisor|financial|insurance|repair|transmission|truck stop/i.test(b.name)) k = null;
+    if (/\bbeer\b/i.test(b.name)) k = null;
+    if (k) MAP_SVC.push({ k, x: (b.pxMin + b.pxMax) / 2, y: (b.pyMin + b.pyMax) / 2, b });
+  }
+  const foodNames = new Set(MAP_SVC.filter(q => q.k === 'food').map(q => q.b.name));
+  MAP_SVC = MAP_SVC.filter(q => q.k === 'food' || !foodNames.has(q.b.name));   // a gas station's second building stays a food stop
+  return MAP_SVC;
 }

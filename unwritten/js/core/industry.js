@@ -98,7 +98,7 @@ const POTATO_QUIZ = [
 // Christian, Nov 14: "They should open their factories and labs and classrooms too." The lobby now has a door to a plant floor.
 // The real plant's layout isn't public, so the floor is imagined: the general steps of making mesh and plastic produce bags, and the
 // machines Volm is known to build (baggers, balers). Safety gear goes on at the door.
-ROOM_HOOK['Volm Companies'] = { enter: true, kind: 'plant', lobby: [36, 30], title: 'VOLM COMPANIES',
+ROOM_HOOK['Volm Companies'] = { enter: true, gateD: true, kind: 'plant', lobby: [36, 30], title: 'VOLM COMPANIES',
   line: 'Volm Companies. A bright lobby with a wall of produce bags, from burlap to mesh, and a door to the plant floor.',
   zone: (F, x, y) => { const z = zoneAt(F, x, y); return z ? z.name : 'LOBBY'; },
   layout: (F, c) => {
@@ -175,7 +175,7 @@ const WOOD_QUIZ = [
   ['About how much of Langlade County is forest?', 'About three-quarters', ['About a tenth', 'None', 'All of it'], 'Roughly 420,000 acres, about 74 percent of the county.']];
 // The Wood Center (Christian, Nov 14: "open their ... labs and classrooms too"): a hall at the front with a classroom on one side
 // and a wood lab on the other, and the training sawmill behind a door. The room layout is imagined; the facts are checked.
-ROOM_HOOK['Wood Technology Center of Excellence'] = { enter: true, kind: 'mill', lobby: [36, 30], title: 'WOOD TECHNOLOGY CENTER',
+ROOM_HOOK['Wood Technology Center of Excellence'] = { enter: true, gateD: true, kind: 'mill', lobby: [36, 30], title: 'WOOD TECHNOLOGY CENTER',
   line: 'NTC\'s Wood Technology Center of Excellence. Sawdust, machine oil, and the smell of fresh-cut maple.',
   zone: (F, x, y) => { const z = zoneAt(F, x, y); return z ? z.name : 'HALL'; },
   layout: (F, c) => {

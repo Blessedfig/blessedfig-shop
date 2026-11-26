@@ -55,6 +55,8 @@ const SFX = {
   tick: () => tone(1500, 0.02, 'square', 0.02),
   beat: () => tone(220, 0.05, 'triangle', 0.05),
   bump: () => tone(90, 0.06, 'square', 0.03),
+  move: () => tone(880, 0.035, 'square', 0.025),
+  no: () => tone(110, 0.08, 'square', 0.035),
   level: () => { tone(200, 0.1, 'square', 0.06); tone(400, 0.1, 'square', 0.04, 0.07); tone(800, 0.18, 'square', 0.04, 0.14); },
   win: () => { [523, 659, 784, 1047].forEach((f, i) => tone(f, i === 3 ? 0.3 : 0.1, 'square', 0.04, i * 0.09)); },
   lose: () => { [392, 330, 262, 196].forEach((f, i) => tone(f, 0.22, 'triangle', 0.05, i * 0.18)); },
