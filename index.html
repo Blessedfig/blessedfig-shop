@@ -441,11 +441,11 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
 .rb-myc { background: url(img/t_myc.png) 0 0 / 100% calc(600px * var(--s)) no-repeat; }
 .rb-ground { left: 0; right: 0; top: calc(31px * var(--s)); height: calc(32px * var(--s)); background: url(img/t_grass.png) 0 0 / calc(120px * var(--s)) calc(32px * var(--s)) repeat-x; }   /* Nov 26: thick, solid grass sod drawn with ChatGPT */
 .rb-beetle { left: 0; top: calc(39px * var(--s)); width: calc(11px * var(--s)); height: calc(6px * var(--s)); background: url(img/t_beetle.png) 0 0 / calc(22px * var(--s)) calc(6px * var(--s)) no-repeat; }
-.fd { left: calc(50% - 20px * var(--s)); top: calc(1px * var(--s)); width: calc(36px * var(--s)); height: calc(38px * var(--s));
-  background: url(img/t_fdoor.png) 0 0 / calc(108px * var(--s)) calc(38px * var(--s)) no-repeat; }
+.fd { left: calc(50% - 22px * var(--s)); top: calc(1px * var(--s)); width: calc(41px * var(--s)); height: calc(39px * var(--s));
+  background: url(img/t_fdoor.png) 0 0 / calc(123px * var(--s)) calc(39px * var(--s)) no-repeat; }
 /* Nov 26: new fairy door (ChatGPT). Hover or tap and it opens; a fairy peeks out and waves. */
-@keyframes fdopen { 0% { background-position-x: 0; } 40% { background-position-x: calc(-36px * var(--s)); } 100% { background-position-x: calc(-72px * var(--s)); } }
-.fd:hover, .fd:focus-visible, .fd.on { animation: fdopen .35s steps(1, end) forwards !important; background-position-x: calc(-72px * var(--s)); }
+@keyframes fdopen { 0% { background-position-x: 0; } 40% { background-position-x: calc(-41px * var(--s)); } 100% { background-position-x: calc(-82px * var(--s)); } }
+.fd:hover, .fd:focus-visible, .fd.on { animation: fdopen .35s steps(1, end) forwards !important; background-position-x: calc(-82px * var(--s)); }
 .gmini { left: calc(50% + 76px * var(--s)); top: calc(19px * var(--s)); width: calc(18px * var(--s)); height: calc(28px * var(--s));
   background: url(img/t_gmini.png) 0 0 / calc(180px * var(--s)) calc(28px * var(--s)) no-repeat; }
 .rb-mole { z-index: 3; left: calc(50% - 152px * var(--s)); top: calc(92px * var(--s)); width: calc(66px * var(--s)); height: calc(46px * var(--s));
@@ -557,7 +557,7 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
 .tk::after { content: ""; position: absolute; left: 50%; bottom: calc(106px * var(--s)); width: calc(var(--basew) * var(--s)); height: calc(130px * var(--s)); margin-left: calc(var(--basew) * var(--s) / -2); background: var(--base) 0 0 / 100% 100% no-repeat; image-rendering: pixelated; pointer-events: none; }
-.fd { left: calc(50% - 20px * var(--tx)); }
+.fd { left: calc(50% - 22px * var(--tx)); }
 .gmini { left: calc(50% + 76px * var(--tx)); }
 .rb-mole { left: calc(50% - 152px * var(--tx)); }
 .ts { left: calc(50% - 72px * var(--tx)); }
