@@ -15,7 +15,7 @@
 <link rel="preload" as="image" href="img/t_canopy_back.png">
 <link rel="preload" as="image" href="img/t_canopy_front.png">
 <link rel="preload" as="image" href="img/t_branch.png">
-<link rel="preload" as="image" href="img/t_bark3.png">
+<link rel="preload" as="image" href="img/t_bark_a.png">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="The Blessed Fig Tree">
 <meta property="og:title" content="The Blessed Fig Tree | Independent Bookstore in Antigo, WI">
@@ -400,7 +400,7 @@ body { position: relative; background: #1a2a46; padding-bottom: 0; }
 
 /* the trunk */
 .tk { position: absolute; z-index: -2; top: 0; bottom: 0; left: 50%; width: min(100%, calc(400px * var(--s))); transform: translateX(-50%);
-  background: url(img/t_bark3.png) 50% bottom / calc(400px * var(--s)) calc(323px * var(--s)) repeat-y; image-rendering: auto; }
+  background: var(--bark) 50% bottom / calc(var(--bw) * var(--s)) calc(323px * var(--s)) repeat-y; image-rendering: pixelated; }
 
 /* canopy: back foliage, the lantern branch, front foliage, then the robin */
 .cn { position: absolute; z-index: -1; left: 0; right: 0; top: 0; height: calc(86px * var(--s)); overflow: hidden; }
@@ -437,7 +437,7 @@ section > .wrap::before { content: ""; position: absolute; inset: 0; pointer-eve
 .rb-roots, .rb-myc { left: 50%; top: 0; width: calc(800px * var(--s)); height: calc(150px * var(--s)); margin-left: calc(-400px * var(--s)); }
 .rb-roots { background: url(img/t_roots.png) 0 0 / 100% 100% no-repeat; }
 .rb-myc { background: url(img/t_myc.png) 0 0 / 100% calc(600px * var(--s)) no-repeat; }
-.rb-ground { left: 0; right: 0; top: calc(28px * var(--s)); height: calc(24px * var(--s)); background: url(img/t_ground.png) 0 0 / calc(256px * var(--s)) calc(24px * var(--s)) repeat-x; }
+.rb-ground { left: 0; right: 0; top: calc(31px * var(--s)); height: calc(32px * var(--s)); background: url(img/t_grass.png) 0 0 / calc(120px * var(--s)) calc(32px * var(--s)) repeat-x; }   /* Nov 26: thick, solid grass sod drawn with ChatGPT */
 .rb-beetle { left: 0; top: calc(39px * var(--s)); width: calc(11px * var(--s)); height: calc(6px * var(--s)); background: url(img/t_beetle.png) 0 0 / calc(22px * var(--s)) calc(6px * var(--s)) no-repeat; }
 .fd { z-index: 4; left: calc(50% - 20px * var(--s)); top: calc(18px * var(--s)); width: calc(40px * var(--s)); height: calc(30px * var(--s));
   background: url(img/t_door.png) 0 0 / calc(80px * var(--s)) calc(30px * var(--s)) no-repeat; }
@@ -526,17 +526,21 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
 /* ================= LAYOUT REFRESH (Nov 24) ================= */
 /* wider trunk on big screens: --tx is the trunk's horizontal pixel scale; the content column grows with it */
 :root { --tx: var(--s); --wrapw: 1000px; --notch: polygon(0 var(--n), var(--n) var(--n), var(--n) 0, calc(100% - var(--n)) 0, calc(100% - var(--n)) var(--n), 100% var(--n), 100% calc(100% - var(--n)), calc(100% - var(--n)) calc(100% - var(--n)), calc(100% - var(--n)) 100%, var(--n) 100%, var(--n) calc(100% - var(--n)), 0 calc(100% - var(--n))); }
-@media (min-width: 1400px) { :root { --tx: 3.5; --wrapw: 1170px; } }
-@media (min-width: 1680px) { :root { --tx: 3.75; --wrapw: 1240px; } }
+/* Nov 26: the trunk, its base and the roots are drawn wider for big screens instead of being stretched, so every art pixel
+   stays square and the same size as the critters' pixels (pixel-art rule: one pixel size per scene) */
+:root { --bark: url(img/t_bark_a.png); --bw: 400px; --base: url(img/t_base_a.png); --basew: 637px; --roots: url(img/t_roots_a.png); --rw: 820px; }
+@media (min-width: 1400px) { :root { --tx: 3.5; --wrapw: 1170px; --bark: url(img/t_bark_b.png); --bw: 467px; --base: url(img/t_base_b.png); --basew: 744px; --roots: url(img/t_roots_b.png); --rw: 957px; } }
+@media (min-width: 1680px) { :root { --tx: 3.75; --wrapw: 1240px; --bark: url(img/t_bark_c.png); --bw: 500px; --base: url(img/t_base_c.png); --basew: 796px; --roots: url(img/t_roots_c.png); --rw: 1025px; } }
 .wrap { max-width: var(--wrapw); }
-.tk { width: min(100%, calc(400px * var(--tx))); background-size: calc(400px * var(--tx)) calc(323px * var(--s)); }
+.tk { width: min(100%, calc(var(--bw) * var(--s))); }
 .rb-roots, .rb-myc { width: calc(800px * var(--tx)); margin-left: calc(-400px * var(--tx)); }
 /* Nov 26: smooth roots drawn with ChatGPT; they start under the grass, right where the trunk base's buttresses meet the ground */
-.rb-roots { top: calc(36px * var(--s)); width: calc(820px * var(--tx)); margin-left: calc(-410px * var(--tx)); background: url(img/t_roots2.png) 0 0 / 100% 100% no-repeat; image-rendering: auto; }
+.rb-roots { top: calc(36px * var(--s)); width: calc(var(--rw) * var(--s)); margin-left: calc(var(--rw) * var(--s) / -2); background: var(--roots) 0 0 / 100% 100% no-repeat; }
+.rb-books { left: calc(50% + 20px * var(--tx)); top: calc(14px * var(--s)); width: calc(44px * var(--s)); height: calc(34px * var(--s)); background: url(img/t_books.png) 0 0 / 100% 100% no-repeat; }
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
-.tk::after { content: ""; position: absolute; left: 50%; bottom: calc(106px * var(--s)); width: calc(637px * var(--tx)); height: calc(130px * var(--s)); margin-left: calc(-318.5px * var(--tx)); background: url(img/t_base3.png) 0 0 / 100% 100% no-repeat; image-rendering: auto; pointer-events: none; }
+.tk::after { content: ""; position: absolute; left: 50%; bottom: calc(106px * var(--s)); width: calc(var(--basew) * var(--s)); height: calc(130px * var(--s)); margin-left: calc(var(--basew) * var(--s) / -2); background: var(--base) 0 0 / 100% 100% no-repeat; image-rendering: pixelated; pointer-events: none; }
 .fd { left: calc(50% - 20px * var(--tx)); }
 .gmini { left: calc(50% + 76px * var(--tx)); }
 .rb-mole { left: calc(50% - 152px * var(--tx)); }
@@ -964,7 +968,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 </section>
 
 <div class="rb">
-  <div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="gmini" href="https://www.theblessedfigtree.com/goose.html" title="Who is this?" aria-label="Goose Goose, the shop mascot"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy_door" target="_blank" rel="noopener" title="Fairy door" aria-label="Fairy door on Wikipedia"></a></div>
+  <div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><i class="rb-books" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="gmini" href="https://www.theblessedfigtree.com/goose.html" title="Who is this?" aria-label="Goose Goose, the shop mascot"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy_door" target="_blank" rel="noopener" title="Fairy door" aria-label="Fairy door on Wikipedia"></a></div>
   <button class="mo" type="button" aria-pressed="false">Pause motion</button>
 </div>
 <script>
