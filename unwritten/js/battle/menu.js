@@ -5,7 +5,7 @@
 //  The BATTLE LAB tries any fight at any level and then puts the party back exactly as it was.
 // =====================================================================
 let PMN = null;
-const PM_CMDS = ['ITEMS', 'SKILLS', 'EQUIP', 'STATUS', 'ORDER', 'BESTIARY', 'BATTLE LAB', 'CONFIG', 'SAVE', 'CLOSE'];
+const PM_CMDS = ['ITEMS', 'PARTY', 'BESTIARY', 'SAVE', 'CONFIG'];   // Nov 26 UX pass: SKILLS/EQUIP/STATUS/ORDER live under PARTY, BATTLE LAB under CONFIG; B closes
 function pmOpen(ret) { partyEnsure(); PMN = { ret: ret || mode, view: { kind: 'main', sel: 0 }, stack: [] }; setMode('pmenu'); }
 function pmClose() { const r = PMN ? PMN.ret : 'walk'; PMN = null; saveGame(); setMode(r || 'walk'); }
 function pmPush(v) { PMN.stack.push(PMN.view); PMN.view = v; }

@@ -50,7 +50,7 @@ function mapplusTick() {
   for (const p of PL) { const d = Math.hypot(p.x - px, p.y - py) - p.r; if (d < 0 && d < nd) { nd = d; near = p; } }
   if (near && near.name !== LAST_PLACE) {
     LAST_PLACE = near.name; const first = !G.visited[near.name]; G.visited[near.name] = 1;
-    BANNER = { t: near.name, sub: first ? 'NEW PLACE · ' + placesFound() + ' of ' + PL.length + ' found' : '', col: PCAT[near.cat] ? PCAT[near.cat][0] : '#fff', f: 0, big: 1 };
+    BANNER = { t: near.name, sub: first ? 'NEW PLACE · a real spot in Antigo' : '', col: PCAT[near.cat] ? PCAT[near.cat][0] : '#fff', f: 0, big: 1 };
     return;
   }
   if (!near) LAST_PLACE = '';
@@ -195,7 +195,7 @@ Object.assign(MODES.map, {
     for (const k of ['park', 'school', 'historic', 'church']) { R(lx, SH - 41, 5, 5, PCAT[k][0]); txt(PCAT[k][1], lx + 7, SH - 42, '#fff', 'left', SMALL); ctx.font = SMALL; lx += ctx.measureText(PCAT[k][1]).width + 14; }
     R(10, SH - 32, 5, 5, '#e04848'); txt('Plate cameras', 17, SH - 33, '#fff', 'left', SMALL);
     R(100, SH - 32, 5, 5, '#000'); R(101, SH - 31, 3, 3, '#1a1c4a'); txt('not found yet', 108, SH - 33, '#b8bcd8', 'left', SMALL);
-    txt('Found ' + placesFound() + '/' + PL.length, 270, SH - 33, '#ffd860', 'right', SMALL);
+    // Nov 26 UX pass: no 'Found n/56' counter (no collect-them-all pull)
     txt('© OSM · Microsoft · Langlade Co. · WROC 2025 · USGS · USDA', SW - 4, 4, 'rgba(255,255,255,.6)', 'right', SMALL);
     // the Places list
     if (this.list) drawPlaces(this.list);
@@ -206,7 +206,7 @@ Object.assign(MODES.map, {
 function star(x, y, r) { ctx.beginPath(); for (let i = 0; i < 10; i++) { const a = -Math.PI / 2 + i * Math.PI / 5, rr = i % 2 ? r * 0.45 : r; ctx.lineTo(x + Math.cos(a) * rr, y + Math.sin(a) * rr); } ctx.closePath(); ctx.fill(); }
 function drawPlaces(L) {
   const w = 206, x = SW - w - 4, y = 16, rows = 17, h = rows * 11 + 58, top = Math.max(0, Math.min(PL.length - rows, L.sel - 9)), here = [(G.x + 0.5) / CPD, (G.y + 0.5) / CPD];
-  win(x, y, w, h); txt('PLACES', x + 8, y + 6, '#ffd860'); txt(placesFound() + '/' + PL.length + ' found', x + w - 8, y + 7, '#c8d0ff', 'right', SMALL);
+  win(x, y, w, h); txt('PLACES', x + 8, y + 6, '#ffd860'); 
   for (let i = 0; i < rows && top + i < PL.length; i++) {
     const p = PL[top + i], yy = y + 20 + i * 11, sel = top + i === L.sel, seen = G.visited && G.visited[p.name];
     if (sel) R(x + 4, yy - 1, w - 8, 10, 'rgba(255,216,96,.18)');

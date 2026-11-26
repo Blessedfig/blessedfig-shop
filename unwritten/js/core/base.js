@@ -4,7 +4,11 @@
 //  Screen is 384x288 logical pixels, drawn at the device's full pixel density.
 //  One global game state G (saved), one mode string, one update/draw per mode.
 // =====================================================================
-const SW = 384, SH = 288;   // Nov 10: up from 320x240 with the bigger tiles, so the view still holds 16 x 12 tiles like FF6
+const SW = 384; let SH = 288;
+// Nov 26 (UX pass, Fitts's Law): on a phone held upright the 384x288 picture filled only the top third of the screen.
+// Use the room above the touch pad: a taller view (more of the town, dialogs nearer the thumbs). Set once at load.
+(function () { const touch = ('ontouchstart' in window) || navigator.maxTouchPoints > 0;
+  if (touch && innerHeight > innerWidth) { const s = innerWidth / SW, avail = (innerHeight - 230) / s; SH = Math.max(288, Math.min(480, Math.floor(avail / 16) * 16)); } })();   // Nov 10: up from 320x240 with the bigger tiles, so the view still holds 16 x 12 tiles like FF6
 // FF6-style grid: the kid (16x24 px) steps one 16 px tile at a time. Christian asked for the map at a quarter of the
 // first true-scale size (two halvings, Nov 10), so one 16 px tile is 4 m of real town (PM = 4 px per metre), which is
 // exactly one cell of the town data (T = 16 px). The kid's walking grid is that same grid: CELL = 4 m, CPD = 1.

@@ -30,7 +30,7 @@ if (IS_TOUCH) {
   #tp-a{right:0;top:12px;background:#8a2a3a}
   #tp-b{left:8px;bottom:0;background:#3a4a8a}
   #tp-mid{left:50%;transform:translateX(-50%);bottom:calc(196px + env(safe-area-inset-bottom));display:flex;gap:18px}
-  .tp-pill{padding:9px 12px;border-radius:14px;background:#2a2a3a;border:2px solid #0b0b14;box-shadow:inset 0 2px 0 #44445a;font-size:8px}
+  .tp-pill{min-height:44px;min-width:56px;box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;padding:0 14px;border-radius:16px;background:#2a2a3a;border:2px solid #0b0b14;box-shadow:inset 0 2px 0 #44445a;font-size:10px}
   .tp-pill.down{filter:brightness(1.4)}
   body.land .tp{opacity:.55}
   body.land #tp-mid{bottom:auto;top:6px}`;

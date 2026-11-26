@@ -26,6 +26,7 @@
 </style>
 </head>
 <body>
+<div id="boot" style="position:fixed;inset:0;display:flex;align-items:center;justify-content:center;color:#e8e4dc;font:12px monospace;letter-spacing:.1em;background:#0b0b14;z-index:9">LOADING ANTIGO…</div>
 <canvas id="game" width="320" height="240" aria-label="The Unwritten, a game set in Antigo, Wisconsin"></canvas>
 <!-- data -->
 <script src="js/data/town.js"></script>
@@ -162,6 +163,7 @@
 <script src="js/core/sweep.js"></script>
 <script src="js/core/sweep_ix_w.js"></script>
 <script src="js/core/sweep_ix_e.js"></script>
+<script src="js/core/ux.js"></script>
 <script>setMode(location.hash === '#almanac' ? 'almanac' : 'title');requestAnimationFrame(loop);</script>
 </body>
 </html>
