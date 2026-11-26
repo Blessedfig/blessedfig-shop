@@ -56,7 +56,7 @@ nav.snav .snav-links a.snav-book:hover, nav.snav .snav-links a.snav-book:focus-v
 .mg-callout p{margin:0 0 12px}
 @media (max-width:640px){.mg-callout{grid-template-columns:minmax(0,1fr)}.mg-callout img{max-height:200px;object-fit:cover;object-position:50% 20%}}
 </style>
-<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){footer .lines a{display:inline-flex;align-items:center;min-height:44px}a.gmini{min-width:44px;display:inline-flex;justify-content:center}}</style><!-- bft-ux:end --></head>
+<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){footer .lines a{display:inline-flex;align-items:center;min-height:44px}}</style><!-- bft-ux:end --></head>
 <body>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -557,6 +557,8 @@ html.nomo .lf, html.nomo .ff, html.nomo .rb-beetle { display: none; }
    opens its wings; Sophia's lamp flares and she smiles; Dionysus drinks, then looks at you. */
 @keyframes god3 { 0% { background-position-x: 0; } 35% { background-position-x: 50%; } 75%, 100% { background-position-x: 100%; } }
 .rb-dion:hover, .rb-dion:focus-visible, .rb-dion.on, .peek.on { animation: god3 1.6s steps(1, end) forwards; }
+.rb-cg { z-index: 2; left: min(calc(100% - 44px * var(--s)), calc(50% + 120px * var(--tx))); top: calc(0px * var(--s)); width: calc(41px * var(--s)); height: calc(57px * var(--s)); background: url(img/t_cg.png) 0 0 / calc(123px * var(--s)) 100% no-repeat; pointer-events: auto; }   /* Nov 26: Christian and Goose Goose (ChatGPT), to the goose page; he waves, the goose honks */
+.rb-cg:hover, .rb-cg:focus-visible, .rb-cg.on { animation: god3 1.4s steps(1, end) forwards; }
 /* the wide root flare must never make the page scroll sideways */
 html, body { overflow-x: clip; }
 /* trunk flares smoothly into the root ledge (no flat step where bark meets roots) */
@@ -988,7 +990,7 @@ nav.snav a:focus-visible { outline: 3px solid var(--gold); outline-offset: -6px;
 </section>
 
 <div class="rb">
-  <a class="peek peek-hit peek-athena" href="https://en.wikipedia.org/wiki/Athena" target="_blank" rel="noopener" title="Athena" aria-label="Athena on Wikipedia"></a><a class="peek peek-hit peek-sophia" href="https://en.wikipedia.org/wiki/Sophia_(wisdom)" target="_blank" rel="noopener" title="Sophia" aria-label="Sophia (wisdom) on Wikipedia"></a><div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><i class="rb-books" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="gmini" href="https://www.theblessedfigtree.com/goose.html" title="Who is this?" aria-label="Goose Goose, the shop mascot"></a><a class="rb-dion" href="https://en.wikipedia.org/wiki/Dionysus" target="_blank" rel="noopener" title="Dionysus" aria-label="Dionysus on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy" target="_blank" rel="noopener" title="Fairies" aria-label="Fairies on Wikipedia"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a></div>
+  <a class="peek peek-hit peek-athena" href="https://en.wikipedia.org/wiki/Athena" target="_blank" rel="noopener" title="Athena" aria-label="Athena on Wikipedia"></a><a class="peek peek-hit peek-sophia" href="https://en.wikipedia.org/wiki/Sophia_(wisdom)" target="_blank" rel="noopener" title="Sophia" aria-label="Sophia (wisdom) on Wikipedia"></a><div class="rb-art"><i class="rb-soil" aria-hidden="true"></i><i class="rb-roots" aria-hidden="true"></i><i class="rb-myc" aria-hidden="true"></i><i class="rb-books" aria-hidden="true"></i><a class="rb-mole" href="https://en.wikipedia.org/wiki/Mole_(animal)" target="_blank" rel="noopener" title="Mole" aria-label="Mole on Wikipedia"></a><a class="ts" href="https://namyco.org/" target="_blank" rel="noopener" title="North American Mycological Association" aria-label="North American Mycological Association"></a><a class="rb-cg" href="goose.html" title="Christian and Goose Goose" aria-label="Christian and Goose Goose, the shop mascot"></a><a class="rb-dion" href="https://en.wikipedia.org/wiki/Dionysus" target="_blank" rel="noopener" title="Dionysus" aria-label="Dionysus on Wikipedia"></a><a class="fd" href="https://en.wikipedia.org/wiki/Fairy" target="_blank" rel="noopener" title="Fairies" aria-label="Fairies on Wikipedia"></a><i class="rb-ground" aria-hidden="true"></i><i class="rb-beetle" aria-hidden="true"></i><a class="rb-worm" href="https://en.wikipedia.org/wiki/Bookworm" target="_blank" rel="noopener" title="Bookworm" aria-label="Bookworm on Wikipedia"></a></div>
   <button class="mo" type="button" aria-pressed="false">Pause motion</button>
 </div>
 <script>
@@ -1136,5 +1138,5 @@ document.querySelectorAll('.fd,.ts').forEach(a=>a.addEventListener('pointerdown'
 a.addEventListener('pointerenter',on);a.addEventListener('pointerleave',off);a.addEventListener('focus',on);a.addEventListener('blur',off);
 a.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'){on();setTimeout(off,2500)}})};
 ['athena','sophia'].forEach(n=>{const a=document.querySelector('a.peek-'+n),v=document.querySelector('i.peek-'+n);if(a&&v)pair(a,v)});
-const d=document.querySelector('.rb-dion');if(d)d.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'){d.classList.remove('on');void d.offsetWidth;d.classList.add('on');setTimeout(()=>d.classList.remove('on'),2500)}});})();</script></body>
+document.querySelectorAll('.rb-dion,.rb-cg').forEach(d=>{if(d)d.addEventListener('pointerdown',e=>{if(e.pointerType!=='mouse'){d.classList.remove('on');void d.offsetWidth;d.classList.add('on');setTimeout(()=>d.classList.remove('on'),2500)}})});})();</script></body>
 </html>

@@ -71,7 +71,7 @@ SOCIAL = 'footer .lines a{display:inline-flex;align-items:center;min-height:44px
 LEAFLET = ('.leaflet-touch .leaflet-bar a,.leaflet-bar a{width:44px;height:44px;line-height:44px;font-size:22px}'
            '.leaflet-control-attribution a{display:inline-block;padding:2px 0}')
 UX = {
-    'home':    SOCIAL + 'a.gmini{min-width:44px;display:inline-flex;justify-content:center}',
+    'home':    SOCIAL,
     'almanac': SOCIAL + '.menu-btn{min-height:44px}.wordmark{display:inline-flex;align-items:center;min-height:44px}',
     'goose':   '#opskip{min-height:44px}section li>a,.src a{display:inline-block;padding:11px 0;margin:-11px 0}',
     'manga':   '.brand{display:inline-flex;align-items:center;min-height:44px}#foot a{display:inline-block;padding:12px 0}',
