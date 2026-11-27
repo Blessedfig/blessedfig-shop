@@ -32,6 +32,9 @@ const TFS_LIST = [
   { id: 'fisher', fl: [4], roles: ['Fisherman', 'Trapper', 'Outdoors Guide'], seasons: ['warm', 'cool'], age: 'adult' },
   { id: 'courier', fl: [5, 8], roles: ['Delivery Driver', 'Parcel Carrier'], seasons: ['warm'], age: 'adult' },
   { id: 'worker', fl: [5], roles: ['Handyman', 'Mechanic', 'Forester', 'ATV Rider', 'Hardware Clerk'], seasons: ['warm', 'cool'], age: 'adult' },
+  { id: 'winter_ew', fl: [], any: 1, roles: [], seasons: ['winter'], age: 'elder' },
+  { id: 'winter_em', fl: [], any: 1, roles: [], seasons: ['winter'], age: 'elder' },
+  { id: 'runner_cool', fl: [2], roles: [], seasons: ['cool'], age: 'adult' },
   { id: 'farmer', fl: [6], roles: ['Farmer', 'Dairy Farmer', 'Maple Syrup Maker'], seasons: ['warm', 'cool'], age: 'adult' },
 ];
 function tfsLoad() {
@@ -63,7 +66,7 @@ function tfsPick(n) {
   if (!TFS.length) return null; const se = tfsSeason();
   if (n._tfs && n._tfsSe === se && n._tfsN === TFS.length) return n._tfs;
   // the person's age (from the procedural look) must match the sheet's: kids get child sheets, never an adult's
-  const age = tfLook(n).age, fits = d => age === 'kid' ? d.age === 'child' : age === 'teen' ? d.age === 'teen' || d.age === 'adult' && n.fl === 7 : age === 'elder' ? d.age === 'elder' : d.age === 'adult';
+  const age = tfLook(n).age, fits = d => age === 'kid' ? d.age === 'child' : age === 'teen' ? d.age === 'teen' || d.age === 'adult' : age === 'elder' ? d.age === 'elder' : d.age === 'adult';
   const ok = TFS.filter(d => d.seasons.includes(se) && fits(d));
   let c = ok.filter(d => d.roles.includes(n.spr) && d.fl.includes(n.fl));
   if (!c.length) c = ok.filter(d => d.fl.includes(n.fl));
