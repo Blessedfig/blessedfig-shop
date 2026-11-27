@@ -15,7 +15,7 @@ let TT = null, TB = null;   // tile codes and building ids (0 = none)
   TOWN.tiles = TOWN.bid = null;   // free the strings
 })();
 // a building: {type, face, door:[x,y]|null, name, addr, owner, okind, area, street}
-const BLD = TOWN.B.map(([type, face, door, name, addr, owner, okind, area, street, polyQ, pclass, lh, lflat, rc, lid], i) => ({ id: i + 1, type, face, door, name: name.replace(/'S\b/g, "'s"), addr, owner, okind, area, street, polyQ, pclass, lh, lflat, rc, lid }));   // lh/lflat: 2017 lidar height and flat roof; rc: roof colour in the 2025 photo
+const BLD = TOWN.B.map(([type, face, door, name, addr, owner, okind, area, street, polyQ, pclass, lh, lflat, rc, lid], i) => ({ id: i + 1, type, face, door, name: name.replace(/'S\b/g, "'s").replace(/\bBmo\b/g, 'BMO'), addr, owner, okind, area, street, polyQ, pclass, lh, lflat, rc, lid }));   // lh/lflat: 2017 lidar height and flat roof; rc: roof colour in the 2025 photo
 // Buildings the WROC May 2025 photo shows are gone (Nov 18 check): the footprint is plain lawn, checked one by one on a photo
 // sheet. 35 in all: houses, garages and sheds, none named in the game. Their ground goes back to the lawn around them.
 (function goneBuildings() {
