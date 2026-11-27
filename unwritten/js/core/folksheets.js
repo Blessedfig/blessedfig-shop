@@ -84,3 +84,28 @@ function tfsDraw(pick, x, y, dir, fr) {
   const _sd = SPR.draw; SPR.draw = (L, sc, x, y, dir, fr) => tfsDraw(pick, x, y, dir, fr);
   try { return _dt(p); } finally { SPR.draw = _sd; }
 }; }
+// ---- people indoors (clerks, servers, family at home, Cecil, Tanner ...): the same sheets, so inside matches the street ----
+// Picked from the person's own record: children, elders (grey hair), hard hats, headsets, Tanner's flannel; everyone else one
+// of the townsman/townswoman sheets, recoloured by name so two clerks in one shop don't match. Named friends keep one look.
+const TFS_IN = { tanner: 'hiker', cecil: 'gamer' };
+function tfsFolkPick(who) {
+  const S = typeof FOLKS !== 'undefined' && FOLKS[who]; if (!S || !TFS.length) return null;
+  const by = id => TFS.find(d => d.id === id), h = SPR.strHash(who);
+  let id = TFS_IN[who];
+  if (!id) {
+    const grey = /^#(?:[c-f][0-9a-f]){3}$/i.test(S.hair || '') || /^#(9|a|b)[0-9a-f](9|a|b)[0-9a-f](9|a|b)/i.test(S.hair || '');
+    const has = k => S.extra === k || (Array.isArray(S.extra) && S.extra.includes(k));
+    if (S.sc && S.sc < 0.85) id = 'child_b';
+    else if (S.hardhat) id = 'worker';
+    else if (has('headset') || has('handheld')) id = 'gamer';
+    else if (grey) id = h & 1 ? 'elder_w' : 'elder_m';
+    else id = h & 2 ? 'townwoman' : 'townsman';
+  }
+  const d = by(id); return d ? { d, v: TFS_IN[who] ? 0 : (h >> 2) % 4 } : null;
+}
+{ const _f = SPR.folk; SPR.folk = function (who, cx, by, t, dir, moving) {
+  const pick = tfsFolkPick(who); if (!pick) return _f.apply(this, arguments);
+  ctx.fillStyle = 'rgba(0,0,0,.22)'; ctx.beginPath(); ctx.ellipse(cx, by - 1, pick.d.age === 'child' ? 6 : 8, 2.5, 0, 0, 6.29); ctx.fill();
+  const fr = moving ? SPR.walkFrame(t) : SPR.idleFrame(t, SPR.strHash(who) & 63);
+  tfsDraw(pick, cx, by, dir || 'down', fr);
+}; }
