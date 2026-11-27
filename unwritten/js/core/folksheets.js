@@ -53,7 +53,7 @@ function tfsVariant(d, v) {
     if (!p[i + 3]) continue; const r = p[i] / 255, gg = p[i + 1] / 255, b = p[i + 2] / 255, mx = Math.max(r, gg, b), mn = Math.min(r, gg, b), l = (mx + mn) / 2, dd = mx - mn;
     if (dd < 0.12 || l < 0.12) continue;   // greys, whites and the outline stay
     const s = dd / (1 - Math.abs(2 * l - 1)); let h = mx === r ? ((gg - b) / dd) % 6 : mx === gg ? (b - r) / dd + 2 : (r - gg) / dd + 4; h = (h / 6 + 1) % 1;
-    if (h > 0.02 && h < 0.15 || s < 0.25) continue;   // skin, hair, leather, khaki: hue 7-54 degrees, or dull colours
+    if (h < 0.15 || h > 0.95 || s < 0.25) continue;   // skin, hair (red to blond), leather, khaki and reds stay; dull colours stay
     const h2 = (h + turn) % 1, C = (1 - Math.abs(2 * l - 1)) * s, X = C * (1 - Math.abs((h2 * 6) % 2 - 1)), m = l - C / 2, k = Math.floor(h2 * 6);
     const [rr, g2, bb] = [[C, X, 0], [X, C, 0], [0, C, X], [0, X, C], [X, 0, C], [C, 0, X]][k];
     p[i] = (rr + m) * 255; p[i + 1] = (g2 + m) * 255; p[i + 2] = (bb + m) * 255;
