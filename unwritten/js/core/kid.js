@@ -5,6 +5,9 @@
 //  pink background; his art is 8x, so it is drawn at 1/8 size, at the screen's full pixel density). Right = his left, mirrored.
 //  The girl (Nov 22, Christian: "the main female sprite doesn't match the boy"): drawn with ChatGPT on the boy's sheet as the template,
 //  keyed and fitted to his exact cells (125 x 211, feet on row 208); her right row is her left row mirrored, as his is.
+//  Nov 27, Christian: "improve the main characters and the jogger to bring them up to the quality of the other townsfolk": the boy
+//  and the girl redrawn by ChatGPT in the townsfolk style (a townsperson sheet as the style reference, their designs kept), fitted
+//  to the same cells; the old sheets are in assets/kid/old/.
 //  Rows: down, up, left, right. Poses for story and battle are in assets/kid/<kid>_poses.png.
 //  The town stays grounded: no fairy out here. Curiosity's sheet waits for the inward places.
 // =====================================================================
