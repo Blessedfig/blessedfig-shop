@@ -16,75 +16,91 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Young+Serif&family=Karla:ital,wght@0,400;0,500;0,700;1,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap">
 <style>
-/* Layout: a binder's reference shelf. Sticky masthead with chapter jump list, one reading column, each chapter opens with a drawn diagram, entries as labeled specimen cards. */
+/* Layout: a fine-press title page. Centered masthead with a double rule, chapters open like book chapters (roman numeral, fleuron rule, drop cap), diagrams framed as numbered plates, entries set as ruled two-column text. */
 :root{
-  --paper:#faf4e8;--panel:#fffdf8;--ink:#2b2118;--muted:#6f6052;--rule:#eadcc6;--accent:#2f6a4c;--accent-soft:#e5efe1;--tone:#e8dcc8;--warm:#b5761c;--warm-soft:#f8ecd2;--fig:#6d3a5f;
-  --d1:#2f6a4c;--d2:#b5761c;--d3:#6d3a5f;--d4:#1f6378;--d5:#a4461b;
-  --f-display:"Young Serif",Georgia,"Times New Roman",serif;
-  --f-body:"Karla","Segoe UI",system-ui,sans-serif;
+  --paper:#f6f1e6;--panel:#fbf8f1;--ink:#241c15;--muted:#6b5d4c;--rule:#d6c9b1;--accent:#7b2232;--gilt:#9a7428;--cloth:#2f4a3c;--tone:#e9dfcb;--warm-soft:#efe5d1;
+  --d1:#2f4a3c;--d2:#9a7428;--d3:#5d3550;--d4:#2e5566;--d5:#7b2232;
+  --f-display:"Cormorant Garamond","Cormorant",Garamond,Georgia,"Times New Roman",serif;
+  --f-body:"EB Garamond",Garamond,Georgia,"Times New Roman",serif;
+  --f-orn:"EB Garamond","Segoe UI Symbol","Noto Sans Symbols 2","DejaVu Sans",serif;
 }
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#1b1611;--panel:#251e17;--ink:#f1e8da;--muted:#b8a892;--rule:#3a2f24;--accent:#8fcca8;--accent-soft:#1f3326;--tone:#3a3026;--warm:#e6b35c;--warm-soft:#3a2c14;--fig:#d9a3c9;--d1:#8fcca8;--d2:#e6b35c;--d3:#d9a3c9;--d4:#7cc4d0;--d5:#f0946a;color-scheme:dark}}
-:root[data-theme="dark"]{--paper:#1b1611;--panel:#251e17;--ink:#f1e8da;--muted:#b8a892;--rule:#3a2f24;--accent:#8fcca8;--accent-soft:#1f3326;--tone:#3a3026;--warm:#e6b35c;--warm-soft:#3a2c14;--fig:#d9a3c9;--d1:#8fcca8;--d2:#e6b35c;--d3:#d9a3c9;--d4:#7cc4d0;--d5:#f0946a;color-scheme:dark}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#131d17;--panel:#18251e;--ink:#eee5d2;--muted:#b6aa92;--rule:#33463a;--accent:#dc8f98;--gilt:#d4b062;--cloth:#9cc2a8;--tone:#24352b;--warm-soft:#1f2e25;--d1:#9cc2a8;--d2:#d4b062;--d3:#d3a5c6;--d4:#8cbccc;--d5:#dc8f98;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#131d17;--panel:#18251e;--ink:#eee5d2;--muted:#b6aa92;--rule:#33463a;--accent:#dc8f98;--gilt:#d4b062;--cloth:#9cc2a8;--tone:#24352b;--warm-soft:#1f2e25;--d1:#9cc2a8;--d2:#d4b062;--d3:#d3a5c6;--d4:#8cbccc;--d5:#dc8f98;color-scheme:dark}
 *{box-sizing:border-box}
-body{background:var(--paper);color:var(--ink);font:17px/1.6 var(--f-body);margin:0}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font:19px/1.6 var(--f-body);margin:0;font-variant-numeric:oldstyle-nums;-webkit-font-smoothing:antialiased}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--panel)}
 .wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-header.mast{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--panel);border-bottom:1px solid var(--rule)}
-.mast .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:4px 20px;padding-block:8px}
-.brand{font:1.15rem/1.1 var(--f-display);color:var(--ink);text-decoration:none;display:inline-flex;gap:10px;align-items:center;min-height:44px}
-nav.tabs{display:flex;gap:2px;flex-wrap:wrap}
-nav.tabs a{font:600 .95rem var(--f-body);color:var(--muted);text-decoration:none;padding:10px 10px;border-radius:6px}
-nav.tabs a:hover{color:var(--accent)}
-.jump{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding-block:6px 10px;width:100%}
-.jump::-webkit-scrollbar{display:none}
-.jump a{flex:none;font:600 .85rem var(--f-body);color:var(--ink);text-decoration:none;border:1px solid var(--rule);border-radius:999px;padding:8px 12px;background:var(--paper)}
-.jump a:hover{border-color:var(--accent);color:var(--accent)}
+a{color:var(--accent)}
 a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-main{padding-block:28px 48px;display:flex;flex-direction:column;gap:48px}
-h1,h2,h3{font-family:var(--f-display);font-weight:400;text-wrap:balance;margin:0}
-h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.1}
-h2{font-size:clamp(1.5rem,3.6vw,1.9rem);line-height:1.15}
-h3{font-size:1.1rem}
+.sc{font-variant-caps:all-small-caps;letter-spacing:.09em}
+header.mast{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--panel);border-bottom:3px double var(--rule)}
+.mast .wrap{display:flex;flex-direction:column;align-items:center;gap:0;padding-block:8px 0}
+.brand{font:500 1.35rem/1.1 var(--f-display);color:var(--ink);text-decoration:none;display:inline-flex;gap:8px;align-items:baseline;flex-wrap:wrap;justify-content:center;min-height:44px;padding-top:8px;text-align:center}
+.brand em{font-style:italic;color:var(--muted);font-weight:400;font-size:1rem}
+nav.tabs{display:flex;gap:0;flex-wrap:wrap;justify-content:center;font-variant-caps:all-small-caps;letter-spacing:.1em}
+nav.tabs a{font-size:1rem;color:var(--muted);text-decoration:none;padding:6px 10px;min-height:36px;display:inline-flex;align-items:center}
+nav.tabs a+a::before{content:"\00B7";margin-right:14px;color:var(--rule)}
+nav.tabs a:hover{color:var(--accent)}
+.jump{display:flex;gap:2px 18px;overflow-x:auto;scrollbar-width:none;padding-block:6px 8px;width:100%;border-top:1px solid var(--rule);margin-top:4px;justify-content:safe center}
+.jump::-webkit-scrollbar{display:none}
+.jump a{flex:none;font:italic 1rem var(--f-body);color:var(--ink);text-decoration:none;padding:6px 0;white-space:nowrap}
+.jump a:hover{color:var(--accent)}
+main{padding-block:40px 56px;display:flex;flex-direction:column;gap:64px}
+h1,h2,h3{font-family:var(--f-display);font-weight:500;text-wrap:balance;margin:0;letter-spacing:.005em}
 p{margin:0}
-.lede{color:var(--muted);max-width:62ch;font-size:1.08rem}
-.eyebrow{font:700 .72rem var(--f-body);letter-spacing:.1em;text-transform:uppercase;color:var(--fig)}
-.hero{display:flex;flex-direction:column;gap:14px}
-.howto{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));margin-top:6px}
-.howto div{background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:12px 14px;font-size:.95rem}
-.howto b{display:block;font-family:var(--f-display);font-weight:400;font-size:1.05rem;margin-bottom:2px}
-section.ch{min-width:0;display:flex;flex-direction:column;gap:18px;scroll-margin-top:170px}
-.ch-head{display:flex;flex-direction:column;gap:6px;border-top:2px solid var(--ink);padding-top:14px}
-.ch-head .lede{font-size:1rem}
-figure.dia{min-width:0;max-width:100%;margin:0;background:var(--panel);border:1px solid var(--rule);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:8px}
+.hero{display:flex;flex-direction:column;align-items:center;text-align:center;gap:12px}
+.hero .pre{font:italic 1.2rem var(--f-display);color:var(--muted)}
+.hero h1{font-size:clamp(2.4rem,7vw,4rem);line-height:1.02}
+.hero .sub{font:italic 1.3rem/1.4 var(--f-display)}
+.hero .lede{color:var(--muted);max-width:56ch;font-size:1.05rem;margin-top:4px}
+.imprint{font-size:.95rem;color:var(--muted)}
+.orn{display:flex;align-items:center;gap:14px;width:min(320px,80%);color:var(--gilt);margin:6px auto}
+.orn::before,.orn::after{content:"";flex:1;border-top:1px solid currentColor;opacity:.7}
+.orn span{font:1.35rem/1 var(--f-orn)}
+.howto{display:grid;grid-template-columns:1fr;gap:18px;margin-top:22px;text-align:left;width:100%;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding-block:18px}
+.howto div{font-size:1rem;color:var(--muted)}
+.howto b{display:block;font:600 1.15rem var(--f-display);color:var(--ink);margin-bottom:2px}
+section.ch{min-width:0;display:flex;flex-direction:column;gap:26px;scroll-margin-top:150px}
+.ch-head{display:flex;flex-direction:column;align-items:center;text-align:center;gap:6px}
+.ch-head .eyebrow{font-variant-caps:all-small-caps;letter-spacing:.18em;color:var(--accent);font-size:1rem}
+.ch-head h2{font-size:clamp(1.9rem,4.6vw,2.6rem);line-height:1.1}
+.ch-intro{max-width:62ch;margin:0 auto;font-size:1.08rem}
+.ch-intro::first-letter{float:left;font:500 3.6em/.8 var(--f-display);color:var(--accent);padding:.08em .08em 0 0}
+.ch-intro::after{content:"";display:block;clear:both}
+figure.dia{min-width:0;max-width:100%;margin:0;background:var(--panel);border:1px solid var(--rule);outline:1px solid var(--rule);outline-offset:4px;padding:16px;display:flex;flex-direction:column;gap:10px}
 figure.dia .scroll{overflow-x:auto;min-width:0;max-width:100%}
 figure.dia svg{display:block;width:100%;height:auto;min-width:520px;font-family:var(--f-body)}
-figure.dia figcaption{font-size:.88rem;color:var(--muted)}
-.entries{display:grid;gap:12px}
-.entry{min-width:0;background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
-.entry .eh{display:flex;justify-content:space-between;gap:4px 14px;flex-wrap:wrap;align-items:baseline}
-.entry .yrs{font-size:.82rem;color:var(--accent);font-weight:700;font-variant-numeric:tabular-nums}
-.entry .spot{font-size:.95rem}
-.entry .spot b{color:var(--muted);font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;margin-right:6px}
-.entry .detail{color:var(--muted);font-size:.95rem}
-.entry .value{font-size:.92rem;background:var(--warm-soft);border-radius:6px;padding:6px 10px}
-.entry figure{margin:4px 0 0}
-.entry figure img{border-radius:6px;display:block}
-.entry figcaption{font-size:.78rem;color:var(--muted);margin-top:4px}
+figure.dia figcaption{font:italic .98rem var(--f-body);color:var(--muted);text-align:center}
+figure.dia figcaption b{font-style:normal;font-variant-caps:all-small-caps;letter-spacing:.1em;color:var(--ink);font-weight:500;margin-right:4px}
+.entries{display:grid;gap:0 44px;grid-template-columns:1fr}
+.entry{min-width:0;padding:20px 0 22px;border-top:1px solid var(--rule);display:flex;flex-direction:column;gap:8px}
+.entry .eh{display:flex;flex-direction:column}
+.entry h3{font-size:1.45rem;line-height:1.15}
+.entry .yrs{font:italic 1rem var(--f-body);color:var(--gilt)}
+.entry .spot{font-size:1.02rem}
+.entry .spot b{font-weight:500;font-variant-caps:all-small-caps;letter-spacing:.1em;color:var(--accent);margin-right:6px}
+.entry .detail{color:var(--muted);font-size:1rem}
+.entry .value{font-style:italic;font-size:1rem;padding-left:26px;position:relative}
+.entry .value::before{content:"\261E";font-style:normal;position:absolute;left:0;top:0;color:var(--gilt);font-family:var(--f-orn)}
+.entry figure{margin:6px 0 0}
+.entry figure img{display:block;border:1px solid var(--rule)}
+.entry figcaption{font:italic .85rem var(--f-body);color:var(--muted);margin-top:6px}
 .entry figcaption a{color:var(--muted)}
-.credits{font-size:.85rem;color:var(--muted);display:flex;flex-direction:column;gap:6px}
+.credits{font-size:.9rem;color:var(--muted);display:flex;flex-direction:column;gap:6px}
 .credits a{color:var(--muted)}
-.foot-note{font-size:.88rem;color:var(--muted);max-width:70ch}
+.colophon{font:italic .98rem/1.5 var(--f-body);color:var(--muted);max-width:56ch;margin:0 auto;text-align:center}
+.foot-note{font-size:.95rem;color:var(--muted)}
+#foot{font-size:.95rem}
 #foot a{display:inline-block;padding:12px 0}
-@media (min-width:760px){.entries{grid-template-columns:1fr 1fr}.entry.wide{grid-column:1/-1}}
+@media (min-width:760px){.entries{grid-template-columns:1fr 1fr}.entry.wide{grid-column:1/-1}.howto{grid-template-columns:repeat(3,1fr);gap:0}.howto div{padding:0 18px;border-left:1px solid var(--rule)}.howto div:first-child{border-left:0;padding-left:0}}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-html{scroll-behavior:smooth}
-/* diagram ink */
 .dia .k{fill:none;stroke:var(--ink);stroke-width:1.5}
 .dia .kf{fill:var(--ink)}
-.dia .lab{fill:var(--ink);font-size:13px}
-.dia .sm{fill:var(--muted);font-size:11.5px}
+.dia .lab{fill:var(--ink);font-size:14px;font-style:italic}
+.dia .sm{fill:var(--muted);font-size:12.5px}
 .dia .ln{stroke:var(--muted);stroke-width:1;fill:none}
 .dia .pa{fill:var(--panel)}
 .dia .tn{fill:var(--tone)}
@@ -93,7 +109,7 @@ html{scroll-behavior:smooth}
 <body>
 <header class="mast">
   <div class="wrap">
-    <a class="brand" href="#top"><svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3c5 3 9 8 9 14a9 9 0 0 1-18 0c0-6 4-11 9-14z" fill="#6d3a5f"/><path d="M16 3c1.5 3 1.5 7 0 10" stroke="#2f6a4c" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M16 4c3-2 7-2 9 0-3 2-6 2-9 0z" fill="#3f8a5c"/></svg>Book Materials Guide</a>
+    <a class="brand" href="#top">Book Materials Guide <em>of The Blessed Fig Tree</em></a>
     <nav class="tabs" aria-label="Site">
       <a href="../">Store</a>
       <a href="../manga-guide/">Manga guide</a>
@@ -104,18 +120,22 @@ html{scroll-behavior:smooth}
 </header>
 <main class="wrap" id="top">
   <div class="hero">
-    <span class="eyebrow">The Blessed Fig Tree · Used and rare books</span>
-    <h1>How to read a book before you read it</h1>
-    <p class="lede">Paper, leather, cloth, thread, ink and pictures all changed at known times. Learn what each looks and feels like, and an old book will tell you when it was made, how it was made, and often what it's worth.</p>
+    <span class="pre">A field guide to the</span>
+    <h1>Materials of the Book</h1>
+    <div class="orn" aria-hidden="true"><span>&#10086;</span></div>
+    <p class="sub">or, how to read a book before you read it</p>
+    <p class="lede">Paper, leather, cloth, thread, ink and pictures all changed at known times. Learn what each looks and feels like, and an old book will tell you when it was made, how it was made, and often what it&rsquo;s worth.</p>
+    <p class="imprint sc">The Blessed Fig Tree &middot; Used and rare books &middot; Antigo, Wisconsin</p>
     <div class="howto">
-      <div><b>Hold a page to the light</b>Lines in the paper mean handmade laid paper, which usually means before 1800.</div>
-      <div><b>Feel the type</b>Letters pressed into the page mean letterpress. A flat print means offset, usually after the 1960s.</div>
-      <div><b>Use a loupe on pictures</b>Dots mean a photographic reproduction. Lines and a plate mark mean an engraving.</div>
+      <div><b>Hold a page to the light.</b>Lines in the paper mean handmade laid paper, which usually means before 1800.</div>
+      <div><b>Feel the type.</b>Letters pressed into the page mean letterpress. A flat print means offset, usually after the 1960s.</div>
+      <div><b>Take a loupe to the pictures.</b>Dots mean a photographic reproduction. Lines and a plate mark mean an engraving.</div>
     </div>
   </div>
   <div id="chapters"><p class="foot-note">Loading the guide&hellip;</p></div>
   <section class="credits" id="credits" hidden></section>
-  <p class="foot-note">Written by The Blessed Fig Tree from general bookbinding, printing and conservation knowledge. Dates are approximate, because practices changed gradually and varied by country. Have a book you'd like us to look at? Bring it in.</p>
+  <div class="orn" aria-hidden="true"><span>&#10087;</span></div>
+  <p class="colophon">Written by The Blessed Fig Tree from general bookbinding, printing and conservation knowledge. Dates are approximate, because practices changed gradually and varied by country. Have a book you'd like us to look at? Bring it in.</p>
 </main>
 <footer class="wrap" id="foot"></footer>
 <script>
@@ -227,11 +247,12 @@ html{scroll-behavior:smooth}
     var G=res[0],imgs={};(res[1]||[]).forEach(function(m){imgs[m.key]=m});
     document.getElementById('jump').innerHTML=G.chapters.map(function(c){return'<a href="#'+c.id+'">'+esc(c.name)+'</a>'}).join('');
     var dcap={anatomy:'The parts of a book. Use these names in descriptions.','laid-wove':'The quickest paper test: hold a page up to a window.','binding-levels':'How much of the cover is leather.','cloth-grains':'Publishers pressed patterns into book cloth. Grain helps tell editions and issues apart.',marbling:'Four common marbled patterns. Each was fashionable at different times.','print-methods':'Every printing method is one of these three.',halftone:'The loupe test for pictures.'};
-    function fig(key){if(!D[key])return'';return'<figure class="dia"><div class="scroll">'+D[key]()+'</div><figcaption>'+esc(dcap[key]||'')+'</figcaption></figure>'}
+    var plate=0;function roman(n){var r='',v=[[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']];v.forEach(function(q){while(n>=q[0]){r+=q[1];n-=q[0]}});return r}
+    function fig(key){if(!D[key])return'';plate++;return'<figure class="dia"><div class="scroll">'+D[key]()+'</div><figcaption><b>Plate '+roman(plate)+'.</b> '+esc(dcap[key]||'')+'</figcaption></figure>'}
     function photo(key){var m=imgs[key];if(!m)return'';return'<figure><img src="'+esc(m.file)+'" alt="'+esc(m.caption)+'" loading="lazy" decoding="async"><figcaption>'+esc(m.caption)+'. <a href="'+esc(m.sourceUrl)+'" target="_blank" rel="noopener">'+esc(m.author||'Source')+'</a>, '+esc(m.license)+'.</figcaption></figure>'}
     var used=[];
     document.getElementById('chapters').outerHTML='<div style="display:flex;flex-direction:column;gap:48px">'+G.chapters.map(function(c,ci){
-      return'<section class="ch" id="'+c.id+'"><div class="ch-head"><span class="eyebrow">Chapter '+(ci+1)+'</span><h2>'+esc(c.name)+'</h2><p class="lede">'+esc(c.intro)+'</p></div>'+(c.diagram?fig(c.diagram):'')+
+      return'<section class="ch" id="'+c.id+'"><div class="ch-head"><span class="eyebrow">Chapter '+roman(ci+1)+'</span><h2>'+esc(c.name)+'</h2><div class="orn" aria-hidden="true"><span>&#10087;</span></div></div><p class="ch-intro">'+esc(c.intro)+'</p>'+(c.diagram?fig(c.diagram):'')+
       '<div class="entries">'+c.entries.map(function(e){
         var ph=e.image?photo(e.image):''; if(ph)used.push(imgs[e.image]);
         var wide=ph||e.diagram?' wide':'';
