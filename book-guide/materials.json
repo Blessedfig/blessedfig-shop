@@ -1,205 +1,910 @@
 {
-  "meta": {
-    "name": "Book Materials Guide",
-    "version": "1.0",
-    "updated": "2026-11-27",
-    "about": "How books are made and how each material and method dates and values a book. Written in our own words from general bookbinding, printing and conservation knowledge. Dates are approximate. Pictures are public domain or openly licensed; each lists its source and license."
-  },
-  "chapters": [
+ "meta": {
+  "name": "Book Materials Guide",
+  "version": "1.1",
+  "updated": "2026-11-27",
+  "about": "How books are made and how each material and method dates and values a book. Written in our own words from general bookbinding, printing and conservation knowledge. Dates are approximate. Pictures are public domain or openly licensed; each lists its source and license."
+ },
+ "chapters": [
+  {
+   "id": "anatomy",
+   "name": "Parts of a book",
+   "intro": "Learn the names first. Every description, grade and points guide uses them, and buyers expect them.",
+   "diagram": "anatomy",
+   "entries": [
     {
-      "id": "anatomy",
-      "name": "Parts of a book",
-      "intro": "Learn the names first. Every description, grade and points guide uses them, and buyers expect them.",
-      "diagram": "anatomy",
-      "entries": [
-        { "name": "Boards", "spot": "The stiff front and back covers.", "detail": "Early boards were wood. From the 1500s, pasteboard (layers of paper) took over, then millboard and strawboard in the 1800s, and modern binder's board today. Wooden boards almost always mean a very early book.", "value": "Wooden boards are a strong early sign." },
-        { "name": "Spine", "spot": "The back edge you see on the shelf.", "detail": "Carries the title. On older books the spine may be divided into panels by raised bands. Spines take the most light and wear, so check them first for fading and splits." },
-        { "name": "Joints and hinges", "spot": "Joints are the outside folds where boards meet spine. Hinges are the matching inside folds.", "detail": "The most common place for a book to fail. Describe them precisely: starting, cracked, split, or detached." },
-        { "name": "Text block", "spot": "All the pages together, without the cover.", "detail": "Made of folded sheets called gatherings or signatures, sewn or glued together." },
-        { "name": "Endpapers", "spot": "The sheets joining the text block to the covers. The one glued down is the pastedown; the loose one is the free endpaper.", "detail": "Endpaper style is a strong dating tool: marbled in older books, plain or coated in Victorian cloth, printed maps or pictures in many 20th-century books." },
-        { "name": "Headband and tailband", "spot": "The small band of colored thread or cloth at the top and bottom of the spine, inside.", "detail": "Hand-sewn headbands are part of the structure on early books. From the 1800s most are decorative strips glued on." },
-        { "name": "Edges", "spot": "Top (head), bottom (tail) and outer (fore-edge) edges of the pages.", "detail": "Can be gilt, colored, sprinkled, marbled, rough or uncut. Each tells you something about date and quality." },
-        { "name": "Title page and verso", "spot": "The title page names the book, author, publisher, place and often the date. Its back (verso) is the copyright page in modern books.", "detail": "Your first stop for dating and edition. Early books may have no title page and give details in a colophon at the end." }
-      ]
+     "name": "Boards",
+     "spot": "The stiff front and back covers.",
+     "detail": "Early boards were wood. From the 1500s, pasteboard (layers of paper) took over, then millboard and strawboard in the 1800s, and modern binder's board today. Wooden boards almost always mean a very early book.",
+     "value": "Wooden boards are a strong early sign."
     },
     {
-      "id": "paper",
-      "name": "Paper",
-      "intro": "Paper is the hardest thing to fake and the easiest to read. Hold a page up to the light and feel it between your fingers.",
-      "diagram": "laid-wove",
-      "entries": [
-        { "name": "Handmade laid paper", "years": "Europe 1200s to about 1800; still used by fine presses", "spot": "Against the light: fine close lines (laid lines) crossed by stronger lines about an inch apart (chain lines). Slightly uneven thickness.", "detail": "Made one sheet at a time by dipping a wire mold into a vat of rag pulp. The wires leave the pattern. Nearly every book printed before about 1800 is on laid paper.", "value": "Strong sign of an early book. Check the type and date to rule out modern fine press paper.", "image": "laid-paper" },
-        { "name": "Wove paper", "years": "Invented about 1757; usual after 1800", "spot": "Even texture against the light, with no lines.", "detail": "Made on a mold of finely woven wire, first by hand, then by machine. Baskerville used it in the 1750s. By the early 1800s most book paper was wove.", "value": "Tells you the book is probably after 1800." },
-        { "name": "Rag paper", "years": "Until the mid-1800s for most books", "spot": "Soft, strong, flexible, stays pale for centuries.", "detail": "Made from linen and cotton rags. Rags ran short as printing grew, which led to the search for other fibers.", "value": "Survives well. A 1700s book can have brighter paper than a 1950s paperback." },
-        { "name": "Machine-made paper", "years": "First English machine 1803; common by the 1830s", "spot": "Very even sheets, uniform thickness, wove. Long continuous rolls cut to size.", "detail": "The Fourdrinier machine made paper in a continuous web. It made paper cheap and helped create mass publishing." },
-        { "name": "Wood-pulp paper", "years": "1850s to about 1985", "spot": "Browns from the edges inward, turns brittle, and cracks when folded. Smells sweet and dusty.", "detail": "Ground wood (mechanical pulp) and acidic sizing made paper cheap but self-destructive. Newspapers, pulps, wartime books and cheap reprints are worst.", "value": "Dates the book and lowers condition. Never fold a corner to test. Handle brittle books with care.", "image": "brittle-paper" },
-        { "name": "Acid-free paper", "years": "Standard from 1984 (ANSI Z39.48), revised 1992", "spot": "Infinity-in-a-circle symbol or a statement on the copyright page. Stays white.", "detail": "Buffered paper that lasts for centuries. Most quality books since the late 1980s use it." },
-        { "name": "Coated paper", "years": "1880s on", "spot": "Smooth, shiny or satin surface, heavy for its size, cold to the touch.", "detail": "A mineral coating lets fine halftone dots print sharply. Used for photo plates and art books. Damp makes coated pages stick together into a solid block, which destroys them.", "value": "Check for stuck pages in any book that may have been damp." },
-        { "name": "India and Bible paper", "years": "1870s on", "spot": "Very thin, opaque, strong paper. Thick books that are surprisingly slim.", "detail": "Used for Bibles, dictionaries, and compact editions of collected works. Oxford introduced it in the 1870s." },
-        { "name": "Watermarks", "years": "From the 1280s", "spot": "A design visible only against the light: a name, crest, bunch of grapes, pot, date.", "detail": "Papermakers marked their molds. Watermarks help date and place early paper, and dated watermarks (from the late 1700s in Britain) give a date the book can't be earlier than.", "value": "A watermark date after the title-page date can expose a later printing or a made-up copy.", "image": "watermark" },
-        { "name": "Deckle edge", "years": "Natural on handmade paper; imitated by machine from the 1900s", "spot": "Rough, feathery outer edges of a sheet.", "detail": "On handmade paper the deckle is the natural edge from the mold frame. On modern trade books it is a machine imitation for a literary look.", "value": "Good on early books, neutral on modern ones. Never a defect." },
-        { "name": "Foxing and toning", "years": "Any paper", "spot": "Foxing is scattered rusty brown spots. Toning is even yellowing.", "detail": "Foxing comes from iron traces and mold in paper, worse in damp storage. Victorian steel engravings and early 1800s paper fox badly. Toning comes from acid and light.", "value": "Note the degree: light, moderate, heavy. Heavy foxing on plates cuts value.", "image": "foxing" }
-      ]
+     "name": "Spine",
+     "spot": "The back edge you see on the shelf.",
+     "detail": "Carries the title. On older books the spine may be divided into panels by raised bands. Spines take the most light and wear, so check them first for fading and splits."
     },
     {
-      "id": "leather",
-      "name": "Leather and skins",
-      "intro": "Leather was the normal covering for books for centuries. The kind of skin and how it was finished tells you age, cost and often where the book was bound.",
-      "entries": [
-        { "name": "Calf", "years": "Main English binding leather 1500s to 1800s", "spot": "Smooth, fine surface, no visible grain pattern. Brown, often rubbed and cracked at the joints.", "detail": "The everyday leather of British and American books. Variants: sprinkled calf (fine spatter of dark spots), mottled calf, and tree calf (acid used to make a tree-like pattern, popular about 1770 to 1850).", "value": "Common on 18th-century books. Dry, powdery 'red rot' and broken joints are frequent.", "image": "calf-binding" },
-        { "name": "Morocco (goatskin)", "years": "Luxury leather from the 1500s to today", "spot": "Visible pebbled or wrinkled grain. Takes bright colors: red, green, blue.", "detail": "Goatskin is strong and fine. Levant morocco has a large, polished grain. Straight-grain morocco has parallel lines, popular about 1790 to 1830. Used for fine and presentation bindings.", "value": "A sign of a quality binding. Signed bindings by known binders (Rivière, Zaehnsdorf, Sangorski & Sutcliffe, Bayntun) add value.", "image": "morocco-binding" },
-        { "name": "Sheep and roan", "years": "Cheap leather, 1600s to 1900s", "spot": "Soft, thin, scuffs and peels easily. Roan is sheepskin dyed to look like morocco.", "detail": "Used for cheaper books, school books, ledgers and many 19th-century half bindings.", "value": "Lower quality. Often badly worn." },
-        { "name": "Russia leather", "years": "1700s to 1800s", "spot": "Diamond-pattern grain, reddish brown, smells of birch oil.", "detail": "Treated cowhide originally from Russia. The smell is distinctive and lasts for centuries." },
-        { "name": "Pigskin", "years": "1400s to 1600s, revived later", "spot": "Visible hair follicles in groups of three. Usually pale and very tough.", "detail": "Common on German early books, often blind-tooled over wooden boards." },
-        { "name": "Alum-tawed skin", "years": "Medieval to 1600s", "spot": "White or pale, slightly suede-like, very strong.", "detail": "Skin treated with alum rather than tanned. Used on early books, especially in German lands." },
-        { "name": "Vellum and parchment", "years": "Pages before printing; covers 1500s to 1700s; revived by fine presses", "spot": "Creamy, smooth, hard, slightly translucent. Warps with damp. Limp vellum has no boards.", "detail": "Animal skin prepared without tanning. Limp vellum bindings were cheap and common in the 1500s and 1600s, especially in Italy and the Netherlands. Arts and Crafts and private presses brought vellum back around 1900.", "value": "On an early book, a strong sign. Check for warped boards.", "image": "vellum-binding" },
-        { "name": "Bonded and imitation leather", "years": "1900s on", "spot": "Too-uniform grain, plastic feel, peels at the corners in thin layers.", "detail": "Ground leather scraps or plastic made to look like leather. Common on decorator sets and cheap gift Bibles.", "value": "Not real leather binding. Price as decor." },
-        { "name": "Red rot", "years": "Leather from about 1830 to 1900 especially", "spot": "Leather turns powdery and leaves red-brown dust on your hands.", "detail": "Caused by tanning methods and pollution. It can't be reversed, only stabilized.", "value": "Note it. Wrap the book so the powder doesn't spread to other stock." }
-      ]
+     "name": "Joints and hinges",
+     "spot": "Joints are the outside folds where boards meet spine. Hinges are the matching inside folds.",
+     "detail": "The most common place for a book to fail. Describe them precisely: starting, cracked, split, or detached."
     },
     {
-      "id": "structure",
-      "name": "Binding structures",
-      "intro": "How the pages are held together and how much of the cover is leather. Both change with time and cost.",
-      "diagram": "binding-levels",
-      "entries": [
-        { "name": "Sewn on raised cords", "years": "Until about 1800 as standard", "spot": "Real raised bands across the spine, and the spine leather glued directly to the back of the pages (tight back).", "detail": "The sections were sewn by hand around cords or thongs, which show as bands. Hold the book open: on a tight back the spine flexes with the pages.", "value": "Strong sign of hand binding. False bands are glued-on strips; the spine won't flex with the pages." },
-        { "name": "Hollow back", "years": "From about 1800", "spot": "Open the book: a tube or gap forms between the spine and the back of the pages.", "detail": "Made the book open more easily and allowed gilt spines that didn't crack. Most 19th-century leather bindings are hollow." },
-        { "name": "Case binding", "years": "From the 1820s; the modern hardcover", "spot": "Cover made separately and glued on as one piece. Endpapers do most of the holding.", "detail": "Allowed publishers to bind thousands of copies the same way. All publishers' cloth books are case bound.", "value": "Hinges fail first. Check them." },
-        { "name": "Smyth sewing", "years": "Machine sewing from the 1880s", "spot": "Look into the center of a section: you'll see thread running through the fold.", "detail": "Machine sewing through the fold of each section. Better quality than glue alone." },
-        { "name": "Perfect binding", "years": "1930s on", "spot": "No thread. The pages are cut at the spine and glued.", "detail": "Standard for paperbacks and many cheap hardcovers. Old glue dries and pages fall out." },
-        { "name": "Stab-stitching", "years": "1600s to 1900s for pamphlets and parts", "spot": "Thread or holes through the side of the whole book near the spine.", "detail": "Quick sewing for pamphlets and parts. Old stab holes in a bound book show it was once issued as parts or pamphlets." },
-        { "name": "Quarter, half, three-quarter and full", "years": "All periods", "spot": "Quarter: leather spine only. Half: leather spine and corners. Three-quarter: wider leather spine and larger corners. Full: entirely leather.", "detail": "The more leather, the more expensive the binding was. Sides are usually marbled paper or cloth.", "value": "Use these words in descriptions." },
-        { "name": "Original boards", "years": "About 1780 to 1840", "spot": "Plain blue-gray, buff or drab paper over boards, often with a printed paper spine label, and untrimmed edges.", "detail": "A temporary binding. Owners were expected to have the book properly bound. Most were, so original boards are scarce.", "value": "Collectors pay a premium for books in original boards. Don't rebind or 'tidy' them.", "image": "paper-boards" },
-        { "name": "Publishers' cloth", "years": "1820s on", "spot": "Cloth-covered case binding, the same on every copy of an edition.", "detail": "Introduced in the early 1820s. First plain with paper labels, then gilt-stamped spines from the 1830s, then fully decorated covers.", "value": "Original cloth in bright condition beats a later rebinding for 19th-century firsts." },
-        { "name": "Rebacked and recased", "years": "Any", "spot": "Spine leather or cloth newer than the boards, sometimes with the old spine laid on top. New endpapers.", "detail": "Repairs. Rebacking replaces the spine; recasing reattaches the text block to its cover.", "value": "Acceptable on early books if done well. Always disclose it." }
-      ]
+     "name": "Text block",
+     "spot": "All the pages together, without the cover.",
+     "detail": "Made of folded sheets called gatherings or signatures, sewn or glued together."
     },
     {
-      "id": "cloth",
-      "name": "Book cloth and grains",
-      "intro": "Victorian publishers embossed their cloth with patterns called grains. Bibliographers use grain to tell issues apart, and it helps date a book.",
-      "diagram": "cloth-grains",
-      "entries": [
-        { "name": "Ribbed cloth", "years": "1830s to 1900s", "spot": "Fine parallel ribs. Vertical, horizontal or diagonal.", "detail": "One of the most common grains. Bibliographers distinguish fine, coarse and diagonal ribbing." },
-        { "name": "Bead grain", "years": "1840s to 1900s", "spot": "Rows of tiny raised dots like beads on a string.", "detail": "Common on mid-Victorian novels." },
-        { "name": "Pebble grain", "years": "1850s to 1900s", "spot": "Irregular rounded bumps like small pebbles.", "detail": "Seen on many trade books of the 1860s to 80s." },
-        { "name": "Sand grain", "years": "1850s to 1900s and later", "spot": "Fine, even, slightly rough texture.", "detail": "A common cheap finish that lasted into the 20th century." },
-        { "name": "Morocco grain", "years": "1840s on", "spot": "Cloth embossed to look like pebbled goatskin.", "detail": "Imitation leather in cloth. Popular for Bibles, prayer books and gift books." },
-        { "name": "Ripple and wave grains", "years": "1840s to 1880s", "spot": "Wavy lines like water.", "detail": "A decorative grain popular in the middle of the century." },
-        { "name": "Diaper and patterned grains", "years": "1840s to 1880s", "spot": "Repeating diamond, dot, or floral pattern embossed into the cloth.", "detail": "Very decorative. Often on gift books and annuals." },
-        { "name": "Buckram and linen", "years": "1880s on", "spot": "Coarse visible weave, stiff and durable.", "detail": "Buckram is heavily sized cloth used for library bindings and quality trade books. Linen is finer.", "value": "Plain buckram with call numbers usually means a library rebind." },
-        { "name": "Gilt and blind stamping", "years": "1830s on", "spot": "Gold lettering and designs pressed into the cloth (gilt), or pressed in without color (blind).", "detail": "Brass dies stamped designs onto the case in one go. From the 1880s to 1910s, designers such as Margaret Armstrong and Talwin Morris signed elaborate covers.", "value": "Bright gilt and a signed design add value. Dull, rubbed gilt is common.", "image": "decorated-cloth" }
-      ]
+     "name": "Endpapers",
+     "spot": "The sheets joining the text block to the covers. The one glued down is the pastedown; the loose one is the free endpaper.",
+     "detail": "Endpaper style is a strong dating tool: marbled in older books, plain or coated in Victorian cloth, printed maps or pictures in many 20th-century books."
     },
     {
-      "id": "decoration",
-      "name": "Cover decoration",
-      "intro": "Tooling and decoration styles changed with fashion, so they help date leather bindings.",
-      "entries": [
-        { "name": "Blind tooling", "years": "Medieval to 1500s; revived later", "spot": "Patterns pressed into leather without gold, darker than the surrounding leather.", "detail": "The main decoration on early bindings, often with roll-stamped borders and panel stamps." },
-        { "name": "Gold tooling", "years": "From the late 1400s in Europe", "spot": "Gold leaf pressed into leather with heated tools, in lines, ornaments and lettering.", "detail": "Arrived in Europe through Italy from the Islamic world. Styles changed by period: fanfare patterns, cottage-roof designs, neoclassical borders, Victorian revival styles.", "value": "Fine, crisp gilt on a period binding adds a lot." },
-        { "name": "Armorial bindings", "years": "1500s to 1800s", "spot": "A coat of arms stamped in gilt on the covers.", "detail": "Shows the original owner, often a noble family or institution.", "value": "Provenance adds value. Look up the arms." },
-        { "name": "Spine labels", "years": "1600s on", "spot": "Leather or paper labels on the spine carrying the title, often a contrasting color.", "detail": "Red and green morocco labels on calf are typical of the 1700s." },
-        { "name": "Fore-edge painting", "years": "Mainly 1780s to 1900s, many later fakes", "spot": "Fan the closed edge slightly: a painted scene appears. Gilt hides it when the book is closed.", "detail": "A specialty of English binders. Many were added in the 20th century to older books.", "value": "Collectible, but always flag. Dating the painting needs an expert." },
-        { "name": "Gauffered edges", "years": "1500s to 1600s, revived 1800s", "spot": "Gilt edges with patterns tooled into them.", "detail": "A luxury finish on early and some Victorian bindings." }
-      ]
+     "name": "Headband and tailband",
+     "spot": "The small band of colored thread or cloth at the top and bottom of the spine, inside.",
+     "detail": "Hand-sewn headbands are part of the structure on early books. From the 1800s most are decorative strips glued on. Many book club editions from the 1940s to 2000s have no headband at all while the trade edition has one, so a missing headband on a jacketed modern book is a club tell.",
+     "sources": [
+      {
+       "title": "IOBA: Identifying book club editions",
+       "url": "https://www.ioba.org/identifying-book-club-editions"
+      },
+      {
+       "title": "BookThink: Identifying book club editions",
+       "url": "https://www.bookthink.com/0005/05bce2.htm"
+      },
+      {
+       "title": "Books Tell You Why: Book club editions",
+       "url": "https://blog.bookstellyouwhy.com/how-to-identify-first-editions-book-club-editions"
+      }
+     ]
     },
     {
-      "id": "endpapers",
-      "name": "Endpapers, marbling and edges",
-      "intro": "Marbled paper has distinct named patterns, and each was fashionable in different periods and places.",
-      "diagram": "marbling",
-      "entries": [
-        { "name": "Turkish or stone marble", "years": "1600s on", "spot": "Random round or irregular spots of color, like pebbles.", "detail": "The oldest European pattern, made by dropping colors on a size bath. Very common across centuries." },
-        { "name": "Dutch curl", "years": "1600s to 1700s", "spot": "Rows of tight curls, often red, blue, yellow and green.", "detail": "Common on German and Dutch books and English books of the 1700s." },
-        { "name": "French curl and snail", "years": "1600s to 1800s", "spot": "Large spirals or snail-shell curls.", "detail": "Made by turning a comb or stylus through the colors." },
-        { "name": "Nonpareil", "years": "1800s mainly", "spot": "Very fine, regular, comb-like stripes, like feathers.", "detail": "Common on 19th-century half bindings and endpapers." },
-        { "name": "Shell (French shell)", "years": "1800s", "spot": "Each spot of color has a lighter ring, like a shell.", "detail": "Made by adding oil to the colors." },
-        { "name": "Spanish marble", "years": "1800s", "spot": "Diagonal bands of light and dark, like folded fabric.", "detail": "Made by moving the paper while laying it on the bath." },
-        { "name": "Coated and glazed endpapers", "years": "1840s to 1900s", "spot": "Plain colored endpapers with a shiny surface: chocolate brown, dark green, yellow, cream.", "detail": "Typical of Victorian publishers' cloth. Yellow endpapers are common on 1850s to 1890s books.", "value": "A good dating clue for 19th-century cloth." },
-        { "name": "Printed and pictorial endpapers", "years": "1890s on", "spot": "Maps, patterns, illustrations or publisher's ads printed on the endpapers.", "detail": "Common in children's books, travel and series books.", "value": "On some books the endpaper design is an issue point." },
-        { "name": "Gilt edges", "years": "1500s on", "spot": "Gold leaf on page edges. 'All edges gilt' (aeg) or 'top edge gilt' (teg).", "detail": "Top edge gilt protects against dust and was common on quality books from the 1880s to 1930s." },
-        { "name": "Sprinkled and stained edges", "years": "1600s to 1800s for sprinkled; any for stained", "spot": "Fine spatter of color (often red or blue), or an even wash of color.", "detail": "Sprinkled edges are typical of 18th-century calf bindings. Modern special editions use sprayed and printed edges." },
-        { "name": "Uncut and unopened", "years": "Mainly 1700s to 1930s", "spot": "Uncut: rough, untrimmed edges. Unopened: some folds still joined.", "detail": "Uncut means the binder didn't trim. Unopened means no reader cut the folds. Collectors like both.", "value": "Never cut or trim them." }
-      ]
+     "name": "Edges",
+     "spot": "Top (head), bottom (tail) and outer (fore-edge) edges of the pages.",
+     "detail": "Can be gilt, colored, sprinkled, marbled, rough or uncut. Each tells you something about date and quality."
     },
     {
-      "id": "printing",
-      "name": "Printing",
-      "intro": "There are three basic ways to put ink on paper, and every printing process is one of them.",
-      "diagram": "print-methods",
-      "entries": [
-        { "name": "Relief printing (letterpress)", "years": "1450 to the 1970s as the main method", "spot": "Type or blocks pressed into the paper. A slight dent you can feel, and ink squeezed to the edges of letters.", "detail": "The raised surface is inked and pressed onto paper. Covers metal type, woodcuts, wood engravings and line blocks.", "value": "On a modern book, letterpress points to a fine press." },
-        { "name": "Intaglio (engraving, etching)", "years": "1400s on", "spot": "A rectangular plate mark pressed into the paper around the image. Ink stands up slightly from the surface.", "detail": "Ink sits in lines cut into a metal plate. Wiped, then pressed with great force. Needs a separate press, so plates are usually on separate pages.", "value": "Plates printed this way are often the most valuable part of a book." },
-        { "name": "Planographic (lithography, offset)", "years": "1796 on; offset dominant from the 1960s and 70s", "spot": "Flat print with no dent and no plate mark.", "detail": "The image is drawn or transferred onto a flat surface that accepts ink only where it should. Offset transfers the ink via a rubber blanket. Most modern books are offset." },
-        { "name": "The hand press", "years": "1450 to about 1800", "spot": "Uneven inking, deep impression, variation page to page.", "detail": "Wooden screw press, two workers, about 250 sheets an hour on one side. Iron presses like the Stanhope (about 1800) made it easier.", "image": "hand-press" },
-        { "name": "Steam and cylinder presses", "years": "1814 on", "spot": "Even impression, faster production, more copies.", "detail": "The Times of London printed by steam in 1814. Cheap printing fed the huge 19th-century readership." },
-        { "name": "Hand-set metal type", "years": "1450 to the 1880s for books", "spot": "Slight unevenness, broken letters repeating through a book.", "detail": "Compositors set each letter by hand into a composing stick.", "image": "composing-stick" },
-        { "name": "Linotype and Monotype", "years": "1886 and 1887 on", "spot": "Even, regular typesetting. Hard to tell apart from hand-set without a loupe.", "detail": "Machines cast type from keyboards. Linotype cast whole lines; Monotype cast single letters." },
-        { "name": "Phototypesetting and digital", "years": "1960s to 1980s, then digital", "spot": "Flat offset print, very regular letters, sometimes slightly soft.", "detail": "Type set photographically, then by computer. Combined with offset, it made printing cheap and fast." }
-      ]
-    },
-    {
-      "id": "type",
-      "name": "Type and page features",
-      "intro": "Letterforms and page conventions changed slowly. A few of them date a book almost on sight.",
-      "entries": [
-        { "name": "Blackletter (gothic)", "years": "1450s on; English use faded through the 1600s; German use into the 1940s", "spot": "Heavy, angular letters.", "detail": "The first printed type, copying the handwriting of the time.", "image": "gutenberg" },
-        { "name": "Roman and italic", "years": "Roman from 1465 in Italy; italic from 1501", "spot": "The upright and slanted letters we still use.", "detail": "Developed by Italian printers such as Jenson and Aldus Manutius." },
-        { "name": "Old style, transitional and modern faces", "years": "Old style to about 1750; transitional about 1750 to 1800; modern (Didone) about 1800 to 1900", "spot": "Old style has gentle contrast and slanted shading. Modern faces have strong thick and thin strokes and hairline serifs.", "detail": "Caslon (old style) is typical of 18th-century English books. Bodoni and Didot (modern) are typical of the early 1800s." },
-        { "name": "Long s", "years": "To about 1790 to 1810 in Britain, about 1820 in America", "spot": "An s shaped like an f without the right side of the crossbar, used at the start and middle of words.", "detail": "Dropped quickly once printers stopped using it. Facsimiles reproduce it, so check the paper too.", "image": "long-s" },
-        { "name": "Catchwords", "years": "About 1470 to 1820", "spot": "The first word of the next page printed alone at the bottom right.", "detail": "Helped keep pages in order." },
-        { "name": "Signature marks", "years": "1470s on, numbers into the 1900s", "spot": "Letters or numbers (A, A2, B, B2) at the foot of the first pages of each gathering.", "detail": "Told the binder the order of the sections. Use them to check a book is complete." },
-        { "name": "Rubrication", "years": "1450s to early 1500s", "spot": "Red and blue initials and marks added by hand after printing.", "detail": "Early printers left spaces for hand decoration, copying manuscripts.", "value": "A sign of incunabula and very early books." },
-        { "name": "Colophon", "years": "1450s on", "spot": "Printer's note at the end giving printer, place and date, sometimes with a printer's device.", "detail": "In early books it took the place of the title page. In modern fine press books it names the type, paper and edition size." }
-      ]
-    },
-    {
-      "id": "illustration",
-      "name": "Illustration processes",
-      "intro": "A loupe and a raking light will tell you how most pictures were made. The process dates the picture and often decides its value.",
-      "entries": [
-        { "name": "Woodcut", "years": "1400s on", "spot": "Bold black lines, little fine shading. Printed on the same page as the text.", "detail": "Cut along the grain of a plank. The earliest printed book illustrations. Revived by artists around 1900.", "image": "woodcut" },
-        { "name": "Wood engraving", "years": "About 1790 to 1900; revived by private presses", "spot": "Very fine white lines on black, detailed shading, printed with the text.", "detail": "Cut into the end grain of hard boxwood, popularized by Thomas Bewick. The main way of illustrating Victorian magazines and books." },
-        { "name": "Copper engraving and etching", "years": "1500s to 1820s", "spot": "Fine lines and a plate mark, usually on a separate page.", "detail": "Engraving cuts lines with a tool; etching uses acid. Copper wears quickly, so early impressions are sharpest.", "image": "engraving" },
-        { "name": "Steel engraving", "years": "About 1820 to 1880", "spot": "Extremely fine, grey, silvery lines. Often with a tissue guard in front.", "detail": "Steel plates lasted for thousands of impressions, so Victorian books used them heavily.", "value": "Usually heavily foxed. Common in gift books." },
-        { "name": "Aquatint and mezzotint", "years": "Aquatint 1770s to 1830s; mezzotint 1660s to 1850s", "spot": "Aquatint: soft tones like a watercolor wash, with a fine grain. Mezzotint: velvety dark tones.", "detail": "Tonal intaglio processes. Aquatints were often hand colored for travel and topographical books.", "value": "Colored aquatint plate books are high value." },
-        { "name": "Hand coloring", "years": "Mainly 1700 to 1880", "spot": "Watercolor that varies copy to copy, sometimes slightly over the lines.", "detail": "Colorists worked by hand on printed plates. Natural history, botany, costume and travel books.", "value": "Top of the market. Check every plate is present.", "image": "hand-colored" },
-        { "name": "Lithography", "years": "1796 on; common in books from the 1820s", "spot": "Soft, crayon-like or brushed look, no plate mark, flat surface.", "detail": "Drawn on stone with greasy crayon. Used for maps, portraits, views and music." },
-        { "name": "Chromolithography", "years": "1840s to 1930s", "spot": "Bright, layered flat colors, often with a fine grain. No dots.", "detail": "A separate stone for each color, sometimes more than ten. Owen Jones's Grammar of Ornament (1856) is a famous example.", "value": "Collected, especially ornament, botanical and children's books.", "image": "chromolithograph" },
-        { "name": "Collotype and photogravure", "years": "1870s to 1950s", "spot": "Photographic look with no dots. Photogravure has a fine grain and rich blacks; collotype a fine wormy grain under a loupe.", "detail": "High-quality photographic reproduction for art books and fine plates." },
-        { "name": "Halftone", "years": "1880s on", "spot": "Under a loupe, the image is made of regular dots of varying size.", "detail": "Broke a photograph into dots so it could print with type. Color halftone from the 1890s.", "value": "Shows a reproduction. A 'print' made of halftone dots is not an original engraving.", "diagram": "halftone" },
-        { "name": "Pochoir", "years": "About 1900 to 1930s, mainly France", "spot": "Very bright, flat, slightly raised gouache color, crisp edges.", "detail": "Hand stenciling. Used in fashion plates and Art Deco books.", "value": "Collected." },
-        { "name": "Tipped-in plates", "years": "1900s to 1940s", "spot": "A separately printed picture glued along one edge to a page, often on a tinted mount with a tissue guard.", "detail": "The format of the golden age of gift books (Rackham, Dulac, Nielsen).", "value": "Check none are missing.", "image": "tipped-in" },
-        { "name": "Mounted photographs", "years": "1843 to about 1910", "spot": "Real photographic prints pasted onto pages.", "detail": "Before halftone, the only way to put a photo in a book. Anna Atkins's cyanotype algae book (1843) was the first.", "value": "Often valuable. Flag it.", "image": "cyanotype" }
-      ]
-    },
-    {
-      "id": "jackets",
-      "name": "Dust jackets",
-      "intro": "On 20th-century firsts, the jacket can carry most of the value. Learn to read it like a copyright page.",
-      "entries": [
-        { "name": "Early wrappers", "years": "1829 to about 1900", "spot": "Plain or lightly printed paper wrappers, often just the title.", "detail": "The earliest known publisher's wrapper dates from 1829. They were thrown away almost always.", "value": "Very rare. Flag any jacket on a book before about 1920." },
-        { "name": "Pictorial jackets", "years": "1900s on, standard by the 1920s", "spot": "Printed art, blurbs on the flaps, price on the front flap.", "detail": "Jackets became marketing. Collectors focus on firsts in jackets from this point." },
-        { "name": "Price and issue points", "years": "1920s on", "spot": "Printed price, reviews on the back, ads for other titles, the designer's name.", "detail": "For many famous firsts, the jacket has its own points: the price, a review quoted, a typo.", "value": "Write down the exact price and anything printed on the back." },
-        { "name": "Book club jackets", "years": "1926 on", "spot": "No price, or 'Book Club Edition' on the front flap corner.", "detail": "The quickest book club tell. Book club copies may also be slightly smaller, on thinner paper." },
-        { "name": "Price-clipped jackets", "years": "Any", "spot": "Corner of the front flap cut off.", "detail": "Usually done when giving the book as a gift.", "value": "Lowers value on collectible firsts. Always disclose." },
-        { "name": "Facsimile jackets", "years": "Late 20th century on", "spot": "Too crisp, too bright, glossy modern paper, 'facsimile' in tiny print on a flap.", "detail": "Reproductions made to dress jacketless firsts.", "value": "Must be disclosed. Flag if unsure." },
-        { "name": "Protective covers", "years": "Any", "spot": "Clear Mylar or Brodart covers.", "detail": "Protect the jacket. Library Brodart covers are often taped or glued on, which means ex-library." }
-      ]
-    },
-    {
-      "id": "care",
-      "name": "Handling and care",
-      "intro": "How you handle a book on intake can change its value. These rules protect both.",
-      "entries": [
-        { "name": "Don't tape, glue or erase", "spot": "Any repair attempt.", "detail": "Tape stains in a few years and pulls paper when removed. Erasing damages paper. Ask before any repair." },
-        { "name": "Support the spine", "spot": "Old and tight bindings.", "detail": "Don't open old books flat. Support the boards and open only as far as the binding allows." },
-        { "name": "Isolate mold", "spot": "Musty smell, fuzzy spots, white or colored bloom.", "detail": "Bag it and keep it away from the stock. Mold spreads in damp conditions." },
-        { "name": "Leave inserts in place", "spot": "Letters, ads, slips, errata leaves, tissue guards.", "detail": "They may be issue points or valuable in their own right. Note them in the description." },
-        { "name": "Store upright and dry", "spot": "Shelving.", "detail": "Stable temperature, moderate humidity, away from direct sun. Sunlight fades spines quickly." }
-      ]
+     "name": "Title page and verso",
+     "spot": "The title page names the book, author, publisher, place and often the date. Its back (verso) is the copyright page in modern books.",
+     "detail": "Your first stop for dating and edition. Early books may have no title page and give details in a colophon at the end."
     }
-  ]
+   ]
+  },
+  {
+   "id": "paper",
+   "name": "Paper",
+   "intro": "Paper is the hardest thing to fake and the easiest to read. Hold a page up to the light and feel it between your fingers.",
+   "diagram": "laid-wove",
+   "entries": [
+    {
+     "name": "Handmade laid paper",
+     "years": "Europe 1200s to about 1800; still used by fine presses",
+     "spot": "Against the light: fine close lines (laid lines) crossed by stronger lines about an inch apart (chain lines). Slightly uneven thickness.",
+     "detail": "Made one sheet at a time by dipping a wire mold into a vat of rag pulp. The wires leave the pattern. Nearly every book printed before about 1800 is on laid paper.",
+     "value": "Strong sign of an early book. Check the type and date to rule out modern fine press paper.",
+     "image": "laid-paper"
+    },
+    {
+     "name": "Wove paper",
+     "years": "Invented about 1757; usual after 1800",
+     "spot": "Even texture against the light, with no lines.",
+     "detail": "Made on a mold of finely woven wire, first by hand, then by machine. Baskerville used it in the 1750s. By the early 1800s most book paper was wove.",
+     "value": "Tells you the book is probably after 1800."
+    },
+    {
+     "name": "Rag paper",
+     "years": "Until the mid-1800s for most books",
+     "spot": "Soft, strong, flexible, stays pale for centuries.",
+     "detail": "Made from linen and cotton rags. Rags ran short as printing grew, which led to the search for other fibers.",
+     "value": "Survives well. A 1700s book can have brighter paper than a 1950s paperback."
+    },
+    {
+     "name": "Machine-made paper",
+     "years": "First English machine 1803; common by the 1830s",
+     "spot": "Very even sheets, uniform thickness, wove. Long continuous rolls cut to size.",
+     "detail": "The Fourdrinier machine made paper in a continuous web. It made paper cheap and helped create mass publishing."
+    },
+    {
+     "name": "Wood-pulp paper",
+     "years": "1850s to about 1985",
+     "spot": "Browns from the edges inward, turns brittle, and cracks when folded. Smells sweet and dusty.",
+     "detail": "Ground wood (mechanical pulp) and acidic sizing made paper cheap but self-destructive. Newspapers, pulps, wartime books and cheap reprints are worst.",
+     "value": "Dates the book and lowers condition. Never fold a corner to test. Handle brittle books with care.",
+     "image": "brittle-paper"
+    },
+    {
+     "name": "Acid-free paper",
+     "years": "Standard from 1984 (ANSI Z39.48), revised 1992",
+     "spot": "Infinity-in-a-circle symbol or a statement on the copyright page. Stays white.",
+     "detail": "Buffered paper that lasts for centuries. Most quality books since the late 1980s use it."
+    },
+    {
+     "name": "Coated paper",
+     "years": "1880s on",
+     "spot": "Smooth, shiny or satin surface, heavy for its size, cold to the touch.",
+     "detail": "A mineral coating lets fine halftone dots print sharply. Used for photo plates and art books. Damp makes coated pages stick together into a solid block, which destroys them.",
+     "value": "Check for stuck pages in any book that may have been damp."
+    },
+    {
+     "name": "India and Bible paper",
+     "years": "1870s on",
+     "spot": "Very thin, opaque, strong paper. Thick books that are surprisingly slim.",
+     "detail": "Used for Bibles, dictionaries, and compact editions of collected works. Oxford introduced it in the 1870s."
+    },
+    {
+     "name": "Watermarks",
+     "years": "From the 1280s",
+     "spot": "A design visible only against the light: a name, crest, bunch of grapes, pot, date.",
+     "detail": "Papermakers marked their molds. Watermarks help date and place early paper, and dated watermarks (from the late 1700s in Britain) give a date the book can't be earlier than.",
+     "value": "A watermark date after the title-page date can expose a later printing or a made-up copy.",
+     "image": "watermark"
+    },
+    {
+     "name": "Deckle edge",
+     "years": "Natural on handmade paper; imitated by machine from the 1900s",
+     "spot": "Rough, feathery outer edges of a sheet.",
+     "detail": "On handmade paper the deckle is the natural edge from the mold frame. On modern trade books it is a machine imitation for a literary look.",
+     "value": "Good on early books, neutral on modern ones. Never a defect."
+    },
+    {
+     "name": "Foxing and toning",
+     "years": "Any paper",
+     "spot": "Foxing is scattered rusty brown spots. Toning is even yellowing.",
+     "detail": "Foxing comes from iron traces and mold in paper, worse in damp storage. Victorian steel engravings and early 1800s paper fox badly. Toning comes from acid and light.",
+     "value": "Note the degree: light, moderate, heavy. Heavy foxing on plates cuts value.",
+     "image": "foxing"
+    }
+   ]
+  },
+  {
+   "id": "leather",
+   "name": "Leather and skins",
+   "intro": "Leather was the normal covering for books for centuries. The kind of skin and how it was finished tells you age, cost and often where the book was bound.",
+   "entries": [
+    {
+     "name": "Calf",
+     "years": "Main English binding leather 1500s to 1800s",
+     "spot": "Smooth, fine surface, no visible grain pattern. Brown, often rubbed and cracked at the joints.",
+     "detail": "The everyday leather of British and American books. Variants: sprinkled calf (fine spatter of dark spots), mottled calf, and tree calf (acid used to make a tree-like pattern, popular about 1770 to 1850).",
+     "value": "Common on 18th-century books. Dry, powdery 'red rot' and broken joints are frequent.",
+     "image": "calf-binding"
+    },
+    {
+     "name": "Morocco (goatskin)",
+     "years": "Luxury leather from the 1500s to today",
+     "spot": "Visible pebbled or wrinkled grain. Takes bright colors: red, green, blue.",
+     "detail": "Goatskin is strong and fine. Levant morocco has a large, polished grain. Straight-grain morocco has parallel lines, popular about 1790 to 1830. Used for fine and presentation bindings.",
+     "value": "A sign of a quality binding. Signed bindings by known binders (Rivière, Zaehnsdorf, Sangorski & Sutcliffe, Bayntun) add value.",
+     "image": "morocco-binding"
+    },
+    {
+     "name": "Sheep and roan",
+     "years": "Cheap leather, 1600s to 1900s",
+     "spot": "Soft, thin, scuffs and peels easily. Roan is sheepskin dyed to look like morocco.",
+     "detail": "Used for cheaper books, school books, ledgers and many 19th-century half bindings.",
+     "value": "Lower quality. Often badly worn."
+    },
+    {
+     "name": "Russia leather",
+     "years": "1700s to 1800s",
+     "spot": "Diamond-pattern grain, reddish brown, smells of birch oil.",
+     "detail": "Treated cowhide originally from Russia. The smell is distinctive and lasts for centuries."
+    },
+    {
+     "name": "Pigskin",
+     "years": "1400s to 1600s, revived later",
+     "spot": "Visible hair follicles in groups of three. Usually pale and very tough.",
+     "detail": "Common on German early books, often blind-tooled over wooden boards."
+    },
+    {
+     "name": "Alum-tawed skin",
+     "years": "Medieval to 1600s",
+     "spot": "White or pale, slightly suede-like, very strong.",
+     "detail": "Skin treated with alum rather than tanned. Used on early books, especially in German lands."
+    },
+    {
+     "name": "Vellum and parchment",
+     "years": "Pages before printing; covers 1500s to 1700s; revived by fine presses",
+     "spot": "Creamy, smooth, hard, slightly translucent. Warps with damp. Limp vellum has no boards.",
+     "detail": "Animal skin prepared without tanning. Limp vellum bindings were cheap and common in the 1500s and 1600s, especially in Italy and the Netherlands. Arts and Crafts and private presses brought vellum back around 1900.",
+     "value": "On an early book, a strong sign. Check for warped boards.",
+     "image": "vellum-binding"
+    },
+    {
+     "name": "Bonded and imitation leather",
+     "years": "1900s on",
+     "spot": "Too-uniform grain, plastic feel, peels at the corners in thin layers.",
+     "detail": "Ground leather scraps or plastic made to look like leather. Common on decorator sets and cheap gift Bibles.",
+     "value": "Not real leather binding. Price as decor."
+    },
+    {
+     "name": "Red rot",
+     "years": "Leather from about 1830 to 1900 especially",
+     "spot": "Leather turns powdery and leaves red-brown dust on your hands.",
+     "detail": "Caused by tanning methods and pollution. It can't be reversed, only stabilized.",
+     "value": "Note it. Wrap the book so the powder doesn't spread to other stock."
+    }
+   ]
+  },
+  {
+   "id": "structure",
+   "name": "Binding structures",
+   "intro": "How the pages are held together and how much of the cover is leather. Both change with time and cost.",
+   "diagram": "binding-levels",
+   "entries": [
+    {
+     "name": "Sewn on raised cords",
+     "years": "Until about 1800 as standard",
+     "spot": "Real raised bands across the spine, and the spine leather glued directly to the back of the pages (tight back).",
+     "detail": "The sections were sewn by hand around cords or thongs, which show as bands. Hold the book open: on a tight back the spine flexes with the pages.",
+     "value": "Strong sign of hand binding. False bands are glued-on strips; the spine won't flex with the pages."
+    },
+    {
+     "name": "Hollow back",
+     "years": "From about 1800",
+     "spot": "Open the book: a tube or gap forms between the spine and the back of the pages.",
+     "detail": "Made the book open more easily and allowed gilt spines that didn't crack. Most 19th-century leather bindings are hollow."
+    },
+    {
+     "name": "Case binding",
+     "years": "From the 1820s; the modern hardcover",
+     "spot": "Cover made separately and glued on as one piece. Endpapers do most of the holding.",
+     "detail": "Allowed publishers to bind thousands of copies the same way. All publishers' cloth books are case bound.",
+     "value": "Hinges fail first. Check them."
+    },
+    {
+     "name": "Smyth sewing",
+     "years": "Machine sewing from the 1880s",
+     "spot": "Look into the center of a section: you'll see thread running through the fold.",
+     "detail": "Machine sewing through the fold of each section. Better quality than glue alone."
+    },
+    {
+     "name": "Perfect binding",
+     "years": "1930s on",
+     "spot": "No thread. The pages are cut at the spine and glued.",
+     "detail": "Standard for paperbacks and many cheap hardcovers. Old glue dries and pages fall out."
+    },
+    {
+     "name": "Stab-stitching",
+     "years": "1600s to 1900s for pamphlets and parts",
+     "spot": "Thread or holes through the side of the whole book near the spine.",
+     "detail": "Quick sewing for pamphlets and parts. Old stab holes in a bound book show it was once issued as parts or pamphlets."
+    },
+    {
+     "name": "Quarter, half, three-quarter and full",
+     "years": "All periods",
+     "spot": "Quarter: leather spine only. Half: leather spine and corners. Three-quarter: wider leather spine and larger corners. Full: entirely leather.",
+     "detail": "The more leather, the more expensive the binding was. Sides are usually marbled paper or cloth.",
+     "value": "Use these words in descriptions."
+    },
+    {
+     "name": "Original boards",
+     "years": "About 1780 to 1840",
+     "spot": "Plain blue-gray, buff or drab paper over boards, often with a printed paper spine label, and untrimmed edges.",
+     "detail": "A temporary binding. Owners were expected to have the book properly bound. Most were, so original boards are scarce.",
+     "value": "Collectors pay a premium for books in original boards. Don't rebind or 'tidy' them.",
+     "image": "paper-boards"
+    },
+    {
+     "name": "Publishers' cloth",
+     "years": "1820s on",
+     "spot": "Cloth-covered case binding, the same on every copy of an edition.",
+     "detail": "Introduced in the early 1820s. First plain with paper labels, then gilt-stamped spines from the 1830s, then fully decorated covers.",
+     "value": "Original cloth in bright condition beats a later rebinding for 19th-century firsts."
+    },
+    {
+     "name": "Rebacked and recased",
+     "years": "Any",
+     "spot": "Spine leather or cloth newer than the boards, sometimes with the old spine laid on top. New endpapers.",
+     "detail": "Repairs. Rebacking replaces the spine; recasing reattaches the text block to its cover.",
+     "value": "Acceptable on early books if done well. Always disclose it."
+    }
+   ]
+  },
+  {
+   "id": "cloth",
+   "name": "Book cloth and grains",
+   "intro": "Victorian publishers embossed their cloth with patterns called grains. Bibliographers use grain to tell issues apart, and it helps date a book.",
+   "diagram": "cloth-grains",
+   "entries": [
+    {
+     "name": "Plain dyed calico with paper label",
+     "years": "1820s to early 1830s",
+     "spot": "Smooth plain cloth, no grain pattern, no gilt, a printed paper label on the spine.",
+     "detail": "The first generation of publishers' cloth. Gilt spine lettering replaced paper labels in the early 1830s.",
+     "value": "A sign of an early cloth binding. Keep the label, however worn.",
+     "sources": [
+      {
+       "title": "University of St Andrews: Victorian cloth bindings, week 2, grains",
+       "url": "https://university-collections.wp.st-andrews.ac.uk/2016/09/01/victorian-cloth-bindings-week-2-grains/"
+      },
+      {
+       "title": "Columbia University: Gold-stamped publishers' bindings, cloths",
+       "url": "https://exhibitions.library.columbia.edu/exhibits/show/bindings/cloths"
+      }
+     ]
+    },
+    {
+     "name": "Ribbed cloth",
+     "years": "1830s to 1900s",
+     "spot": "Fine parallel ribs. Vertical, horizontal or diagonal.",
+     "detail": "One of the most common grains. Bibliographers distinguish fine, coarse and diagonal ribbing."
+    },
+    {
+     "name": "Bead grain",
+     "years": "1840s to 1900s",
+     "spot": "Rows of tiny raised dots like beads on a string.",
+     "detail": "Common on mid-Victorian novels."
+    },
+    {
+     "name": "Pebble grain",
+     "years": "1850s to 1900s",
+     "spot": "Irregular rounded bumps like small pebbles.",
+     "detail": "Seen on many trade books of the 1860s to 80s."
+    },
+    {
+     "name": "Sand grain",
+     "years": "Early 1830s on",
+     "spot": "Fine, even, slightly rough texture.",
+     "detail": "A common cheap finish that lasted into the 20th century.",
+     "sources": [
+      {
+       "title": "University of St Andrews: Victorian cloth bindings, week 2, grains",
+       "url": "https://university-collections.wp.st-andrews.ac.uk/2016/09/01/victorian-cloth-bindings-week-2-grains/"
+      }
+     ]
+    },
+    {
+     "name": "Morocco grain",
+     "years": "About 1830 on, most used in the mid-1850s",
+     "spot": "Cloth embossed to look like pebbled goatskin.",
+     "detail": "Imitation leather in cloth. Popular for Bibles, prayer books and gift books.",
+     "sources": [
+      {
+       "title": "University of St Andrews: Victorian cloth bindings, week 2, grains",
+       "url": "https://university-collections.wp.st-andrews.ac.uk/2016/09/01/victorian-cloth-bindings-week-2-grains/"
+      }
+     ]
+    },
+    {
+     "name": "Ripple and wave grains",
+     "years": "1840s to 1880s",
+     "spot": "Wavy lines like water.",
+     "detail": "A decorative grain popular in the middle of the century."
+    },
+    {
+     "name": "Diaper and patterned grains",
+     "years": "Diaper from the early 1830s",
+     "spot": "Repeating diamond, dot, or floral pattern embossed into the cloth.",
+     "detail": "Very decorative. Often on gift books and annuals. All-over ribbon-embossed patterns (moire, floral, crackle, star) were fashionable only for a few years in the 1830s, so they date a binding closely.",
+     "sources": [
+      {
+       "title": "University of St Andrews: Victorian cloth bindings, week 2, grains",
+       "url": "https://university-collections.wp.st-andrews.ac.uk/2016/09/01/victorian-cloth-bindings-week-2-grains/"
+      },
+      {
+       "title": "Columbia University: Gold-stamped publishers' bindings, cloths",
+       "url": "https://exhibitions.library.columbia.edu/exhibits/show/bindings/cloths"
+      }
+     ]
+    },
+    {
+     "name": "Buckram and linen",
+     "years": "1880s on",
+     "spot": "Coarse visible weave, stiff and durable.",
+     "detail": "Buckram is heavily sized cloth used for library bindings and quality trade books. Linen is finer.",
+     "value": "Plain buckram with call numbers usually means a library rebind."
+    },
+    {
+     "name": "Gilt and blind stamping",
+     "years": "1830s on",
+     "spot": "Gold lettering and designs pressed into the cloth (gilt), or pressed in without color (blind).",
+     "detail": "Brass dies stamped designs onto the case in one go. From the 1880s to 1910s, designers such as Margaret Armstrong and Talwin Morris signed elaborate covers.",
+     "value": "Bright gilt and a signed design add value. Dull, rubbed gilt is common.",
+     "image": "decorated-cloth"
+    },
+    {
+     "name": "Short-lived grains",
+     "years": "1830s to 1860s",
+     "spot": "Trefoil (three-lobed) grain, hexagon or honeycomb grain.",
+     "detail": "Trefoil grain appears in the mid-1850s, hexagon and honeycomb grains in the 1860s. Because they were used briefly, they date a binding closely.",
+     "sources": [
+      {
+       "title": "University of St Andrews: Victorian cloth bindings, week 2, grains",
+       "url": "https://university-collections.wp.st-andrews.ac.uk/2016/09/01/victorian-cloth-bindings-week-2-grains/"
+      },
+      {
+       "title": "Columbia University: Gold-stamped publishers' bindings, cloths",
+       "url": "https://exhibitions.library.columbia.edu/exhibits/show/bindings/cloths"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "decoration",
+   "name": "Cover decoration",
+   "intro": "Tooling and decoration styles changed with fashion, so they help date leather bindings.",
+   "entries": [
+    {
+     "name": "Blind tooling",
+     "years": "Medieval to 1500s; revived later",
+     "spot": "Patterns pressed into leather without gold, darker than the surrounding leather.",
+     "detail": "The main decoration on early bindings, often with roll-stamped borders and panel stamps."
+    },
+    {
+     "name": "Gold tooling",
+     "years": "From the late 1400s in Europe",
+     "spot": "Gold leaf pressed into leather with heated tools, in lines, ornaments and lettering.",
+     "detail": "Arrived in Europe through Italy from the Islamic world. Styles changed by period: fanfare patterns, cottage-roof designs, neoclassical borders, Victorian revival styles.",
+     "value": "Fine, crisp gilt on a period binding adds a lot."
+    },
+    {
+     "name": "Armorial bindings",
+     "years": "1500s to 1800s",
+     "spot": "A coat of arms stamped in gilt on the covers.",
+     "detail": "Shows the original owner, often a noble family or institution.",
+     "value": "Provenance adds value. Look up the arms."
+    },
+    {
+     "name": "Spine labels",
+     "years": "1600s on",
+     "spot": "Leather or paper labels on the spine carrying the title, often a contrasting color.",
+     "detail": "Red and green morocco labels on calf are typical of the 1700s."
+    },
+    {
+     "name": "Fore-edge painting",
+     "years": "Mainly 1780s to 1900s, many later fakes",
+     "spot": "Fan the closed edge slightly: a painted scene appears. Gilt hides it when the book is closed.",
+     "detail": "A specialty of English binders. Many were added in the 20th century to older books.",
+     "value": "Collectible, but always flag. Dating the painting needs an expert."
+    },
+    {
+     "name": "Gauffered edges",
+     "years": "1500s to 1600s, revived 1800s",
+     "spot": "Gilt edges with patterns tooled into them.",
+     "detail": "A luxury finish on early and some Victorian bindings."
+    }
+   ]
+  },
+  {
+   "id": "endpapers",
+   "name": "Endpapers, marbling and edges",
+   "intro": "Marbled paper has distinct named patterns, and each was fashionable in different periods and places.",
+   "diagram": "marbling",
+   "entries": [
+    {
+     "name": "Turkish or stone marble",
+     "years": "1600s on",
+     "spot": "Random round or irregular spots of color, like pebbles.",
+     "detail": "The oldest European pattern, made by dropping colors on a size bath. Very common across centuries."
+    },
+    {
+     "name": "Dutch curl",
+     "years": "1600s to 1700s",
+     "spot": "Rows of tight curls, often red, blue, yellow and green.",
+     "detail": "Common on German and Dutch books and English books of the 1700s."
+    },
+    {
+     "name": "French curl and snail",
+     "years": "1600s to 1800s",
+     "spot": "Large spirals or snail-shell curls.",
+     "detail": "Made by turning a comb or stylus through the colors."
+    },
+    {
+     "name": "Nonpareil",
+     "years": "1800s mainly",
+     "spot": "Very fine, regular, comb-like stripes, like feathers.",
+     "detail": "Common on 19th-century half bindings and endpapers."
+    },
+    {
+     "name": "Shell (French shell)",
+     "years": "1800s",
+     "spot": "Each spot of color has a lighter ring, like a shell.",
+     "detail": "Made by adding oil to the colors."
+    },
+    {
+     "name": "Spanish marble",
+     "years": "1800s",
+     "spot": "Diagonal bands of light and dark, like folded fabric.",
+     "detail": "Made by moving the paper while laying it on the bath."
+    },
+    {
+     "name": "Coated and glazed endpapers",
+     "years": "1840s to 1900s",
+     "spot": "Plain colored endpapers with a shiny surface: chocolate brown, dark green, yellow, cream.",
+     "detail": "Typical of Victorian publishers' cloth. Yellow endpapers are common on 1850s to 1890s books. Victorian publishers also printed advertisements on endpapers, especially on yellowbacks and cheap reprints. The titles advertised can date the copy.",
+     "value": "A good dating clue for 19th-century cloth.",
+     "sources": [
+      {
+       "title": "Victorian Web: Cloth-bound books and their audiences",
+       "url": "https://victorianweb.org/art/design/books/production.html"
+      },
+      {
+       "title": "University of Washington: 19th-century bindings",
+       "url": "https://content.lib.washington.edu/historicalbookartsweb/19thcentbind.html"
+      }
+     ]
+    },
+    {
+     "name": "Printed and pictorial endpapers",
+     "years": "1890s on",
+     "spot": "Maps, patterns, illustrations or publisher's ads printed on the endpapers.",
+     "detail": "Common in children's books, travel and series books.",
+     "value": "On some books the endpaper design is an issue point."
+    },
+    {
+     "name": "Gilt edges",
+     "years": "1500s on",
+     "spot": "Gold leaf on page edges. 'All edges gilt' (aeg) or 'top edge gilt' (teg).",
+     "detail": "Top edge gilt protects against dust and was common on quality books from the 1880s to 1930s."
+    },
+    {
+     "name": "Sprinkled and stained edges",
+     "years": "1600s to 1800s for sprinkled; any for stained",
+     "spot": "Fine spatter of color (often red or blue), or an even wash of color.",
+     "detail": "Sprinkled edges are typical of 18th-century calf bindings. Modern special editions use sprayed and printed edges. A stained top edge was standard on many 20th-century trade hardcovers, while book club editions often left it plain. It is a useful trade versus club check.",
+     "sources": [
+      {
+       "title": "Books Tell You Why: Book club editions",
+       "url": "https://blog.bookstellyouwhy.com/how-to-identify-first-editions-book-club-editions"
+      },
+      {
+       "title": "BookThink: Identifying book club editions",
+       "url": "https://www.bookthink.com/0005/05bce2.htm"
+      },
+      {
+       "title": "RIT Cary Collection: Stained edges",
+       "url": "https://cary-exhibits.rit.edu/exhibits/show/edgesofbooks/stained-edges"
+      }
+     ]
+    },
+    {
+     "name": "Uncut and unopened",
+     "years": "Mainly 1700s to 1930s",
+     "spot": "Uncut: rough, untrimmed edges. Unopened: some folds still joined.",
+     "detail": "Uncut means the binder didn't trim. Unopened means no reader cut the folds. Collectors like both.",
+     "value": "Never cut or trim them."
+    }
+   ]
+  },
+  {
+   "id": "printing",
+   "name": "Printing",
+   "intro": "There are three basic ways to put ink on paper, and every printing process is one of them.",
+   "diagram": "print-methods",
+   "entries": [
+    {
+     "name": "Relief printing (letterpress)",
+     "years": "1450 to the 1970s as the main method",
+     "spot": "Type or blocks pressed into the paper. A slight dent you can feel, and ink squeezed to the edges of letters.",
+     "detail": "The raised surface is inked and pressed onto paper. Covers metal type, woodcuts, wood engravings and line blocks.",
+     "value": "On a modern book, letterpress points to a fine press."
+    },
+    {
+     "name": "Intaglio (engraving, etching)",
+     "years": "1400s on",
+     "spot": "A rectangular plate mark pressed into the paper around the image. Ink stands up slightly from the surface.",
+     "detail": "Ink sits in lines cut into a metal plate. Wiped, then pressed with great force. Needs a separate press, so plates are usually on separate pages.",
+     "value": "Plates printed this way are often the most valuable part of a book."
+    },
+    {
+     "name": "Planographic (lithography, offset)",
+     "years": "1796 on; offset dominant from the 1960s and 70s",
+     "spot": "Flat print with no dent and no plate mark.",
+     "detail": "The image is drawn or transferred onto a flat surface that accepts ink only where it should. Offset transfers the ink via a rubber blanket. Most modern books are offset."
+    },
+    {
+     "name": "The hand press",
+     "years": "1450 to about 1800",
+     "spot": "Uneven inking, deep impression, variation page to page.",
+     "detail": "Wooden screw press, two workers, about 250 sheets an hour on one side. Iron presses like the Stanhope (about 1800) made it easier.",
+     "image": "hand-press"
+    },
+    {
+     "name": "Steam and cylinder presses",
+     "years": "1814 on",
+     "spot": "Even impression, faster production, more copies.",
+     "detail": "The Times of London printed by steam in 1814. Cheap printing fed the huge 19th-century readership."
+    },
+    {
+     "name": "Hand-set metal type",
+     "years": "1450 to the 1880s for books",
+     "spot": "Slight unevenness, broken letters repeating through a book.",
+     "detail": "Compositors set each letter by hand into a composing stick.",
+     "image": "composing-stick"
+    },
+    {
+     "name": "Linotype and Monotype",
+     "years": "1886 and 1887 on",
+     "spot": "Even, regular typesetting. Hard to tell apart from hand-set without a loupe.",
+     "detail": "Machines cast type from keyboards. Linotype cast whole lines; Monotype cast single letters."
+    },
+    {
+     "name": "Phototypesetting and digital",
+     "years": "1960s to 1980s, then digital",
+     "spot": "Flat offset print, very regular letters, sometimes slightly soft.",
+     "detail": "Type set photographically, then by computer. Combined with offset, it made printing cheap and fast."
+    }
+   ]
+  },
+  {
+   "id": "type",
+   "name": "Type and page features",
+   "intro": "Letterforms and page conventions changed slowly. A few of them date a book almost on sight.",
+   "entries": [
+    {
+     "name": "Blackletter (gothic)",
+     "years": "1450s on; English use faded through the 1600s; German Fraktur until 1941",
+     "spot": "Heavy, angular letters.",
+     "detail": "The first printed type, copying the handwriting of the time. A decree of January 1941 switched German printing from Fraktur to roman type, so German trade books in Fraktur are usually before 1941.",
+     "image": "gutenberg",
+     "sources": [
+      {
+       "title": "Wikipedia: Antiqua-Fraktur dispute",
+       "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute"
+      },
+      {
+       "title": "Universitat Heidelberg: Verbot der Frakturschriften",
+       "url": "https://www.uni-heidelberg.de/unimut/themen/fraktur-verbot.html"
+      }
+     ]
+    },
+    {
+     "name": "Roman and italic",
+     "years": "Roman from 1465 in Italy; italic from 1501",
+     "spot": "The upright and slanted letters we still use.",
+     "detail": "Developed by Italian printers such as Jenson and Aldus Manutius."
+    },
+    {
+     "name": "Old style, transitional and modern faces",
+     "years": "Old style to about 1750; transitional about 1750 to 1800; modern (Didone) about 1800 to 1900",
+     "spot": "Old style has gentle contrast and slanted shading. Modern faces have strong thick and thin strokes and hairline serifs.",
+     "detail": "Caslon (old style) is typical of 18th-century English books. Bodoni and Didot (modern) are typical of the early 1800s. The Chiswick Press revived Caslon from the 1840s, and old style faces came back widely later in the century. Old style type on smooth wove paper with no long s is a Victorian or later revival, not an 18th-century book.",
+     "sources": [
+      {
+       "title": "Updike, Printing Types, chapter XXI (public domain, c82.net)",
+       "url": "https://www.c82.net/printing-types/chapters/21"
+      }
+     ]
+    },
+    {
+     "name": "Long s",
+     "years": "To about 1790 to 1810 in Britain, about 1820 in America",
+     "spot": "An s shaped like an f without the right side of the crossbar, used at the start and middle of words.",
+     "detail": "Dropped quickly once printers stopped using it. Facsimiles reproduce it, so check the paper too.",
+     "image": "long-s"
+    },
+    {
+     "name": "Catchwords",
+     "years": "About 1470 to 1820",
+     "spot": "The first word of the next page printed alone at the bottom right.",
+     "detail": "Helped keep pages in order."
+    },
+    {
+     "name": "Signature marks",
+     "years": "1470s on, numbers into the 1900s",
+     "spot": "Letters or numbers (A, A2, B, B2) at the foot of the first pages of each gathering.",
+     "detail": "Told the binder the order of the sections. Use them to check a book is complete."
+    },
+    {
+     "name": "Rubrication",
+     "years": "1450s to early 1500s",
+     "spot": "Red and blue initials and marks added by hand after printing.",
+     "detail": "Early printers left spaces for hand decoration, copying manuscripts.",
+     "value": "A sign of incunabula and very early books."
+    },
+    {
+     "name": "Colophon",
+     "years": "1450s on",
+     "spot": "Printer's note at the end giving printer, place and date, sometimes with a printer's device.",
+     "detail": "In early books it took the place of the title page. In modern fine press books it names the type, paper and edition size."
+    }
+   ]
+  },
+  {
+   "id": "illustration",
+   "name": "Illustration processes",
+   "intro": "A loupe and a raking light will tell you how most pictures were made. The process dates the picture and often decides its value.",
+   "entries": [
+    {
+     "name": "Woodcut",
+     "years": "1400s on",
+     "spot": "Bold black lines, little fine shading. Printed on the same page as the text.",
+     "detail": "Cut along the grain of a plank. The earliest printed book illustrations. Revived by artists around 1900.",
+     "image": "woodcut"
+    },
+    {
+     "name": "Wood engraving",
+     "years": "About 1790 to 1900; revived by private presses",
+     "spot": "Very fine white lines on black, detailed shading, printed with the text.",
+     "detail": "Cut into the end grain of hard boxwood, popularized by Thomas Bewick. The main way of illustrating Victorian magazines and books."
+    },
+    {
+     "name": "Copper engraving and etching",
+     "years": "1500s to 1820s",
+     "spot": "Fine lines and a plate mark, usually on a separate page.",
+     "detail": "Engraving cuts lines with a tool; etching uses acid. Copper wears quickly, so early impressions are sharpest.",
+     "image": "engraving"
+    },
+    {
+     "name": "Steel engraving",
+     "years": "About 1820 to 1880",
+     "spot": "Extremely fine, grey, silvery lines. Often with a tissue guard in front.",
+     "detail": "Steel plates lasted for thousands of impressions, so Victorian books used them heavily.",
+     "value": "Usually heavily foxed. Common in gift books."
+    },
+    {
+     "name": "Aquatint and mezzotint",
+     "years": "Aquatint 1770s to 1830s; mezzotint 1660s to 1850s",
+     "spot": "Aquatint: soft tones like a watercolor wash, with a fine grain. Mezzotint: velvety dark tones.",
+     "detail": "Tonal intaglio processes. Aquatints were often hand colored for travel and topographical books.",
+     "value": "Colored aquatint plate books are high value."
+    },
+    {
+     "name": "Hand coloring",
+     "years": "Mainly 1700 to 1880",
+     "spot": "Watercolor that varies copy to copy, sometimes slightly over the lines.",
+     "detail": "Colorists worked by hand on printed plates. Natural history, botany, costume and travel books.",
+     "value": "Top of the market. Check every plate is present.",
+     "image": "hand-colored"
+    },
+    {
+     "name": "Lithography",
+     "years": "1796 on; common in books from the 1820s",
+     "spot": "Soft, crayon-like or brushed look, no plate mark, flat surface.",
+     "detail": "Drawn on stone with greasy crayon. Used for maps, portraits, views and music."
+    },
+    {
+     "name": "Chromolithography",
+     "years": "1840s to 1930s",
+     "spot": "Bright, layered flat colors, often with a fine grain. No dots.",
+     "detail": "A separate stone for each color, sometimes more than ten. Owen Jones's Grammar of Ornament (1856) is a famous example.",
+     "value": "Collected, especially ornament, botanical and children's books.",
+     "image": "chromolithograph"
+    },
+    {
+     "name": "Collotype and photogravure",
+     "years": "1870s to 1950s",
+     "spot": "Photographic look with no dots. Photogravure has a fine grain and rich blacks; collotype a fine wormy grain under a loupe.",
+     "detail": "High-quality photographic reproduction for art books and fine plates."
+    },
+    {
+     "name": "Halftone",
+     "years": "1880s on",
+     "spot": "Under a loupe, the image is made of regular dots of varying size.",
+     "detail": "Broke a photograph into dots so it could print with type. Color halftone from the 1890s.",
+     "value": "Shows a reproduction. A 'print' made of halftone dots is not an original engraving.",
+     "diagram": "halftone"
+    },
+    {
+     "name": "Pochoir",
+     "years": "About 1900 to 1930s, mainly France",
+     "spot": "Very bright, flat, slightly raised gouache color, crisp edges.",
+     "detail": "Hand stenciling. Used in fashion plates and Art Deco books.",
+     "value": "Collected."
+    },
+    {
+     "name": "Tipped-in plates",
+     "years": "1900s to 1940s",
+     "spot": "A separately printed picture glued along one edge to a page, often on a tinted mount with a tissue guard.",
+     "detail": "The format of the golden age of gift books (Rackham, Dulac, Nielsen).",
+     "value": "Check none are missing.",
+     "image": "tipped-in"
+    },
+    {
+     "name": "Mounted photographs",
+     "years": "1843 to about 1910",
+     "spot": "Real photographic prints pasted onto pages.",
+     "detail": "Before halftone, the only way to put a photo in a book. Anna Atkins's cyanotype algae book (1843) was the first.",
+     "value": "Often valuable. Flag it.",
+     "image": "cyanotype"
+    }
+   ]
+  },
+  {
+   "id": "jackets",
+   "name": "Dust jackets",
+   "intro": "On 20th-century firsts, the jacket can carry most of the value. Learn to read it like a copyright page.",
+   "entries": [
+    {
+     "name": "Early wrappers",
+     "years": "1829 to about 1900",
+     "spot": "Plain or lightly printed paper wrappers, often just the title.",
+     "detail": "The earliest known publisher's wrapper dates from 1829. They were thrown away almost always.",
+     "value": "Very rare. Flag any jacket on a book before about 1920."
+    },
+    {
+     "name": "Pictorial jackets",
+     "years": "1900s on, standard by the 1920s",
+     "spot": "Printed art, blurbs on the flaps, price on the front flap.",
+     "detail": "Jackets became marketing. Collectors focus on firsts in jackets from this point."
+    },
+    {
+     "name": "Price and issue points",
+     "years": "1920s on",
+     "spot": "Printed price, reviews on the back, ads for other titles, the designer's name.",
+     "detail": "For many famous firsts, the jacket has its own points: the price, a review quoted, a typo.",
+     "value": "Write down the exact price and anything printed on the back."
+    },
+    {
+     "name": "Book club jackets",
+     "years": "1926 on",
+     "spot": "No price, or 'Book Club Edition' on the front flap corner. Doubleday clubs later used a five-digit code in a box on the rear panel instead.",
+     "detail": "The quickest book club tell. Book club copies may also be slightly smaller, on thinner paper. Not every unpriced jacket is a club copy: some 1970s BOMC jackets carry a price, Family Bookshelf jackets are usually priced, and some unpriced British jackets are export copies.",
+     "sources": [
+      {
+       "title": "Tomfolio: Book club identification",
+       "url": "https://tomfolio.com/publishers/BookClubID.html"
+      },
+      {
+       "title": "Tolkien Collector's Guide: Prices on dust wrappers",
+       "url": "https://tolkienbooks.net/php/prices-on-dws.php"
+      },
+      {
+       "title": "Bookfever: Identifying book club editions",
+       "url": "https://bookfever.com/identifying-book-club-editions/"
+      }
+     ]
+    },
+    {
+     "name": "Price-clipped jackets",
+     "years": "Any",
+     "spot": "Corner of the front flap cut off.",
+     "detail": "Usually done when giving the book as a gift.",
+     "value": "Lowers value on collectible firsts. Always disclose."
+    },
+    {
+     "name": "Facsimile jackets",
+     "years": "1974 on, common from the 1980s and 1990s",
+     "spot": "Too crisp, too bright, glossy modern paper, 'facsimile' in tiny print on a flap.",
+     "detail": "Reproductions made to dress jacketless firsts.",
+     "value": "Must be disclosed. Flag if unsure.",
+     "sources": [
+      {
+       "title": "ILAB: The finer print, growing concern over facsimile jackets",
+       "url": "https://ilab.org/article/the-finer-print-growing-concern-over-facsimile-jackets"
+      }
+     ]
+    },
+    {
+     "name": "Protective covers",
+     "years": "Any",
+     "spot": "Clear Mylar or Brodart covers.",
+     "detail": "Protect the jacket. Library Brodart covers are often taped or glued on, which means ex-library."
+    }
+   ]
+  },
+  {
+   "id": "care",
+   "name": "Handling and care",
+   "intro": "How you handle a book on intake can change its value. These rules protect both.",
+   "entries": [
+    {
+     "name": "Don't tape, glue or erase",
+     "spot": "Any repair attempt.",
+     "detail": "Tape stains in a few years and pulls paper when removed. Erasing damages paper. Ask before any repair."
+    },
+    {
+     "name": "Support the spine",
+     "spot": "Old and tight bindings.",
+     "detail": "Don't open old books flat. Support the boards and open only as far as the binding allows."
+    },
+    {
+     "name": "Isolate mold",
+     "spot": "Musty smell, fuzzy spots, white or colored bloom.",
+     "detail": "Bag it and keep it away from the stock. Mold spreads in damp conditions."
+    },
+    {
+     "name": "Leave inserts in place",
+     "spot": "Letters, ads, slips, errata leaves, tissue guards.",
+     "detail": "They may be issue points or valuable in their own right. Note them in the description."
+    },
+    {
+     "name": "Store upright and dry",
+     "spot": "Shelving.",
+     "detail": "Stable temperature, moderate humidity, away from direct sun. Sunlight fades spines quickly."
+    }
+   ]
+  }
+ ]
 }
