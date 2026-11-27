@@ -14,6 +14,15 @@ for (const p of PL) {   // how close counts as 'here': the building's own size, 
   const b = bAt(Math.floor(p.x), Math.floor(p.y)); p.b = b && !(b.style && b.style.canopyOnly) ? b : null;
   p.r = p.b ? Math.hypot(p.b.pxMax - p.b.pxMin, p.b.pyMax - p.b.pyMin) / 2 + 5 : p.cat === 'lake' ? 16 : p.cat === 'park' ? 12 : 8;
 }
+// Nov 27 (arrivals): a place whose map point sits on open ground (a school's field, the hospital lawn) rides you to the door of
+// its own building when one with the same name stands close by, so you arrive looking at the place, not at grass.
+{ const STOP = new Set(['school', 'the', 'of', 'county', 'saint', 'st', 'grade', 'antigo', 'langlade', 'and', 'center']);
+  const words = n => (n || '').toLowerCase().split(/[^a-z]+/).filter(w => w.length > 2 && !STOP.has(w));
+  for (const p of PL) { if (p.b || /park|lake|cemetery/.test(p.cat)) continue; const w = words(p.name); if (!w.length) continue;
+    let best = null; for (const b of BLD) { if (!b.door || !b.name) continue; const bw = words(b.name); if (!bw.some(x => w.includes(x))) continue;
+      const d = Math.hypot((b.pxMin + b.pxMax) / 2 - p.x, (b.pyMin + b.pyMax) / 2 - p.y); if (d > 70) continue;
+      const a = (b.pxMax - b.pxMin) * (b.pyMax - b.pyMin); if (!best || a > best[0]) best = [a, b]; }
+    if (best) p.door = best[1]; } }
 const MAJOR_PLACE = new Set(['fig', 'hospital', 'lake', 'airport']);
 const isMajorPlace = p => MAJOR_PLACE.has(p.cat) || /Courthouse|Fairgrounds|High School|Lake Park/.test(p.name);
 
@@ -92,9 +101,9 @@ function roadNear(px, py, maxD) {   // the nearest point on a named street
   return best;
 }
 function rideTo(p) {
-  let tx = p.x, ty = p.y;
-  if (!(p.b && p.b.door)) { const r = roadNear(p.x, p.y, 45); if (r && r.d > 3) { const k = Math.min(1, (r.w / 2 + 2.5) / r.d); tx = r.x + (p.x - r.x) * k; ty = r.y + (p.y - r.y) * k; } }
-  const [x, y] = p.b && p.b.door ? outsideDoorM(p.b) : freeNearM(Math.round(tx * CPD), Math.round(ty * CPD));
+  let tx = p.x, ty = p.y; const db = p.b && p.b.door ? p.b : p.door || null;
+  if (!db) { const r = roadNear(p.x, p.y, 45); if (r && r.d > 3) { const k = Math.min(1, (r.w / 2 + 2.5) / r.d); tx = r.x + (p.x - r.x) * k; ty = r.y + (p.y - r.y) * k; } }
+  const [x, y] = db ? outsideDoorM(db) : freeNearM(Math.round(tx * CPD), Math.round(ty * CPD));
   G.x = x; G.y = y; G.dir = 'down'; P.t = 0; P.mx = P.my = 0; setMode('walk');
   if (!G.visited) G.visited = {}; const first = !G.visited[p.name]; G.visited[p.name] = 1; LAST_PLACE = p.name; LAST_STREET = streetAt((x + 0.5) / CPD, (y + 0.5) / CPD) || '';
   say([['', 'You ride over to ' + p.name + '.' + (p.note && p.note !== 'OpenStreetMap' ? ' ' + p.note + '.' : '')]].concat(first ? [['', 'New place: ' + placesFound() + ' of ' + PL.length + ' found.']] : []));
