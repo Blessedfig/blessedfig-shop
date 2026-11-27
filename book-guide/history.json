@@ -1,0 +1,1341 @@
+{
+ "intro": "Every few decades the trade changed what it printed on a book: where the copyright notice sits, what numbers appear, how the price is shown, what the cover is made of. Each change gives you an earliest or latest possible date. Pick a theme to follow one thread through time.",
+ "themes": [
+  {
+   "id": "copyright",
+   "name": "Copyright and the copyright page",
+   "intro": "The wording and place of a copyright notice changed with the law. Each change leaves a mark you can read."
+  },
+  {
+   "id": "identifiers",
+   "name": "Numbers and printing statements",
+   "intro": "Catalog numbers, SBNs, ISBNs and number lines were added one at a time. Each one gives an earliest possible date."
+  },
+  {
+   "id": "prices",
+   "name": "Prices, barcodes and marks",
+   "intro": "Prices, currency, barcodes and remainder marks on jackets and covers date a copy and tell you how it was sold."
+  },
+  {
+   "id": "bindings",
+   "name": "Jackets and bindings",
+   "intro": "Cloth, then jackets, then paper boards and sprayed edges. Publishers' choices about covers moved in clear stages."
+  },
+  {
+   "id": "clubs",
+   "name": "Book clubs and the trade",
+   "intro": "Clubs, remainders, superstores and online selling changed which copies exist and how to spot them."
+  },
+  {
+   "id": "paperbacks",
+   "name": "Paperbacks",
+   "intro": "Cheap paper-covered books came in waves, from dime novels to Penguin to quality paperbacks."
+  },
+  {
+   "id": "production",
+   "name": "Paper, type and printing",
+   "intro": "Paper machines, typesetting machines and new printing methods changed how a page looks and feels."
+  },
+  {
+   "id": "wartime",
+   "name": "Wartime books",
+   "intro": "Paper shortages in the Second World War left thin, cramped books, often with a notice saying so."
+  }
+ ],
+ "entries": [
+  {
+   "year": 1710,
+   "yearSort": 1710,
+   "theme": "copyright",
+   "event": "The Statute of Anne, Britain's first copyright law, is passed.",
+   "onTheShelf": "Early English books do not carry a copyright notice. Imprints read 'Printed for' a bookseller, with the date at the foot of the title page.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Britannica: Statute of Anne",
+     "url": "https://www.britannica.com/topic/Statute-of-Anne"
+    }
+   ]
+  },
+  {
+   "year": 1790,
+   "yearSort": 1790,
+   "theme": "copyright",
+   "event": "The first US copyright act is passed.",
+   "onTheShelf": "American books from the 1790s may name the district clerk who recorded the title. Few say more than that.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "US Copyright Office: Copyright Enactments 1783-1973",
+     "url": "https://copyright.gov/history/Copyright_Enactments_1783-1973.pdf"
+    },
+    {
+     "title": "US Copyright Office: Timeline, the 19th century",
+     "url": "https://copyright.gov/timeline/timeline_19th_century.html"
+    }
+   ]
+  },
+  {
+   "year": 1799,
+   "yearSort": 1799,
+   "theme": "production",
+   "event": "Nicolas-Louis Robert patents a continuous paper machine in France.",
+   "onTheShelf": "Machine paper is wove and very even. Laid paper with chain lines usually means handmade.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Georgia Tech Paper Museum: The advent of the paper machine",
+     "url": "https://paper.gatech.edu/node/314"
+    }
+   ]
+  },
+  {
+   "year": 1802,
+   "yearSort": 1802,
+   "theme": "copyright",
+   "event": "US law first requires a printed copyright notice on every copy.",
+   "onTheShelf": "From here an American book claiming copyright should carry a notice. Before 1870 it names a District Court clerk's office.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "US Copyright Office: Timeline, the 19th century",
+     "url": "https://copyright.gov/timeline/timeline_19th_century.html"
+    }
+   ]
+  },
+  {
+   "year": 1803,
+   "yearSort": 1803,
+   "theme": "production",
+   "event": "The Fourdriniers build working paper machines in England, with Bryan Donkin.",
+   "onTheShelf": "By the 1830s most English book paper is machine-made.",
+   "confidence": "conflicting",
+   "sources": [
+    {
+     "title": "Georgia Tech Paper Museum: The advent of the paper machine",
+     "url": "https://paper.gatech.edu/node/314"
+    },
+    {
+     "title": "HistoryofInformation: Fourdrinier machine",
+     "url": "https://historyofinformation.com/detail.php?id=4510"
+    }
+   ]
+  },
+  {
+   "year": 1819,
+   "yearSort": 1819,
+   "theme": "bindings",
+   "event": "A German annual of 1819 may have the earliest known publisher's jacket, a plain paper wrapper.",
+   "onTheShelf": "Jackets are older than most people think, but almost none survive from before 1870.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "ILAB: Four of the earliest and most remarkable publishers' dust jackets",
+     "url": "https://ilab.org/article/four-of-the-earliest-and-most-remarkable-publishers-dust-jackets"
+    }
+   ]
+  },
+  {
+   "year": 1820,
+   "yearSort": 1820,
+   "theme": "bindings",
+   "event": "Publisher's cloth appears. Pickering's Diamond Classics use cloth over ready-made cases.",
+   "onTheShelf": "Before the 1820s, books were sold in boards or paper to be bound later. Original publisher's cloth on a book means about 1820 or later.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "UNT Libraries: Victorian publishers' bindings exhibit",
+     "url": "https://www.library.unt.edu/rarebooks/exhibits/binding/publishers.htm"
+    }
+   ]
+  },
+  {
+   "year": 1829,
+   "yearSort": 1829,
+   "theme": "prices",
+   "event": "The earliest known printed publisher's wrapper already prints the price (12 shillings).",
+   "onTheShelf": "Prices printed on wrappers are as old as jackets. On a jacket, the printed price is evidence the jacket belongs to a trade copy.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Bodleian Library: Earliest known book wrapper or dust jacket",
+     "url": "https://blogs.bodleian.ox.ac.uk/theconveyor/earliest-known-book-wrapper-or-dust-jacket/"
+    }
+   ]
+  },
+  {
+   "year": 1829,
+   "yearSort": 1829.5,
+   "theme": "bindings",
+   "event": "The Friendship's Offering wrapper of 1829 is the earliest known printed publisher's jacket.",
+   "onTheShelf": "It wrapped the book fully and was sealed. Any jacket from before the 1870s is a great rarity.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Bodleian Library: Earliest known book wrapper or dust jacket",
+     "url": "https://blogs.bodleian.ox.ac.uk/theconveyor/earliest-known-book-wrapper-or-dust-jacket/"
+    },
+    {
+     "title": "ILAB: Four of the earliest and most remarkable publishers' dust jackets",
+     "url": "https://ilab.org/article/four-of-the-earliest-and-most-remarkable-publishers-dust-jackets"
+    }
+   ]
+  },
+  {
+   "year": "c.1830s",
+   "yearSort": 1830,
+   "theme": "copyright",
+   "event": "US notices settle on the back of the title page.",
+   "onTheShelf": "A notice reading 'Entered according to Act of Congress' on the title verso is typical of American books from about the 1830s to 1870. Check the clerk's district against the place of publication.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "Penn Law Library: 19th-century copyright notices and legalese",
+     "url": "https://archive.law.upenn.edu/live/news/4305-19th-century-copyright-notices-and-legalese"
+    },
+    {
+     "title": "US Copyright Office: Timeline, the 19th century",
+     "url": "https://copyright.gov/timeline/timeline_19th_century.html"
+    }
+   ]
+  },
+  {
+   "year": 1830,
+   "yearSort": 1830.5,
+   "theme": "bindings",
+   "event": "Adhesive (unsewn) binding is first tried in England, as Hancock's rubber 'caoutchouc' binding.",
+   "onTheShelf": "Early adhesive bindings failed. Unsewn glued spines are a 20th-century norm, so on a Victorian book they are rare.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Conservation OnLine, Bookbinding and the Conservation of Books: adhesive binding",
+     "url": "https://cool.culturalheritage.org/don/dt/dt0044.html"
+    }
+   ]
+  },
+  {
+   "year": 1832,
+   "yearSort": 1832,
+   "theme": "bindings",
+   "event": "Gold stamping directly onto cloth comes in.",
+   "onTheShelf": "Gilt lettering on the cloth spine points to after about 1832. Earlier cloth used paper labels.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "UNT Libraries: Victorian publishers' bindings exhibit",
+     "url": "https://www.library.unt.edu/rarebooks/exhibits/binding/publishers.htm"
+    }
+   ]
+  },
+  {
+   "year": 1841,
+   "yearSort": 1841,
+   "theme": "paperbacks",
+   "event": "Tauchnitz begins its Collection of British Authors in Leipzig. Volume 1 is dated 1842.",
+   "onTheShelf": "Paper-covered English novels printed in Leipzig for the Continent. They say they are not for sale in Britain.",
+   "confidence": "conflicting",
+   "sources": [
+    {
+     "title": "Publishing History: Tauchnitz Collection of British Authors",
+     "url": "https://www.publishinghistory.com/collection-of-british-and-american-authors-tauchnitz.html"
+    }
+   ]
+  },
+  {
+   "year": "1850s",
+   "yearSort": 1855,
+   "theme": "production",
+   "event": "Wood-pulp paper starts to replace rag paper.",
+   "onTheShelf": "Browning, brittle pages usually mean a book from the 1850s to the 1980s.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Library of Congress: The deterioration and preservation of paper",
+     "url": "https://www.loc.gov/preservation/care/deterioratebrochure.html"
+    },
+    {
+     "title": "University of Oregon Libraries: What's the big deal about brittle books?",
+     "url": "https://library.uoregon.edu/node/1129"
+    }
+   ]
+  },
+  {
+   "year": "1850s",
+   "yearSort": 1857,
+   "theme": "bindings",
+   "event": "Jackets with folded flaps appear. The earliest flapped jackets in English are often dated 1857.",
+   "onTheShelf": "A flapped jacket is the modern form. Early ones are plain and printed in one color.",
+   "confidence": "conflicting",
+   "sources": [
+    {
+     "title": "HistoryofInformation: The first dust jackets in the flap style on books printed in English",
+     "url": "https://historyofinformation.com/detail.php?id=1632"
+    },
+    {
+     "title": "BookThink: Dust jackets, a series (part 1)",
+     "url": "https://www.bookthink.com/0161/161djh1.htm"
+    }
+   ]
+  },
+  {
+   "year": "1850s-1890s",
+   "yearSort": 1860,
+   "theme": "paperbacks",
+   "event": "Yellowbacks, cheap novels in glazed pictorial boards, are sold at railway bookstalls.",
+   "onTheShelf": "Bright yellow glazed boards with a printed picture and ads on the back mean a Victorian cheap edition.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "UNT Libraries: Victorian publishers' bindings exhibit",
+     "url": "https://www.library.unt.edu/rarebooks/exhibits/binding/publishers.htm"
+    }
+   ]
+  },
+  {
+   "year": 1860,
+   "yearSort": 1860,
+   "theme": "paperbacks",
+   "event": "Beadle's Dime Novels begin in June 1860 with Malaeska, in orange wrappers.",
+   "onTheShelf": "Thin paper-covered American novels at ten cents. Early numbers are scarce.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Northern Illinois University: Beadle and Adams dime novels, chapter 6",
+     "url": "https://ulib.niu.edu/badndp/chap6.html"
+    }
+   ]
+  },
+  {
+   "year": 1870,
+   "yearSort": 1870,
+   "theme": "copyright",
+   "event": "US registration moves from the district courts to the Library of Congress (8 July 1870).",
+   "onTheShelf": "A notice naming a District Court clerk's office means before about 1870. One naming the Librarian of Congress, at Washington, means 1870 or later.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "US Copyright Office: Timeline, the 19th century",
+     "url": "https://copyright.gov/timeline/timeline_19th_century.html"
+    }
+   ]
+  },
+  {
+   "year": 1874,
+   "yearSort": 1874,
+   "theme": "copyright",
+   "event": "US law allows the short notice 'Copyright, 18.., by A.B.'",
+   "onTheShelf": "The short 'Copyright 1885 by' form points to 1874 or later. Both long and short forms are seen until 1909.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "US Copyright Office: Timeline, the 19th century",
+     "url": "https://copyright.gov/timeline/timeline_19th_century.html"
+    }
+   ]
+  },
+  {
+   "year": "late 1870s",
+   "yearSort": 1878,
+   "theme": "bindings",
+   "event": "Printed jackets become common, usually plain light blue, grey or tan paper.",
+   "onTheShelf": "Publishers issued jackets from here on, but most were thrown away. A surviving 1880s jacket is rare.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "BookThink: Dust jackets, a series (part 1)",
+     "url": "https://www.bookthink.com/0161/161djh1.htm"
+    },
+    {
+     "title": "Fine Books Magazine: Tanselle's Book-Jackets",
+     "url": "https://www.finebooksmagazine.com/blog/tanselles-book-jackets"
+    }
+   ]
+  },
+  {
+   "year": "1880s",
+   "yearSort": 1882,
+   "theme": "production",
+   "event": "The halftone process is invented (Ives 1881, Meisenbach 1882).",
+   "onTheShelf": "A photo made of tiny dots under a loupe means 1880s or later. Real photographs glued in are earlier or special.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "University of St Andrews Special Collections: the half-tone relief process",
+     "url": "https://special-collections.wp.st-andrews.ac.uk/?p=4334"
+    }
+   ]
+  },
+  {
+   "year": 1886,
+   "yearSort": 1886,
+   "theme": "production",
+   "event": "The Linotype machine is first tested at the New-York Tribune.",
+   "onTheShelf": "Mechanical typesetting cut costs. You cannot easily see it in a book.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Library of Congress, Headlines and Heroes: The Linotype",
+     "url": "https://blogs.loc.gov/headlinesandheroes/2022/06/the-linotype-the-machine-that-revolutionized-movable-type/"
+    }
+   ]
+  },
+  {
+   "year": 1887,
+   "yearSort": 1887,
+   "theme": "production",
+   "event": "Lanston's Monotype is patented. Commercial machines follow in 1897 to 1898.",
+   "onTheShelf": "Most fine 20th-century book text was set on Monotype.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "HistoryofInformation: Lanston invents the Monotype",
+     "url": "https://historyofinformation.com/detail.php?id=532"
+    }
+   ]
+  },
+  {
+   "year": 1890,
+   "yearSort": 1890,
+   "theme": "copyright",
+   "event": "The McKinley Tariff of 1890 starts the US rule that imported goods name their country of origin.",
+   "onTheShelf": "'Printed in Great Britain' or 'Printed in Germany' on an imported book points to after about 1891. The line became routine on export copies.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "Marketplace: The long, tangled story behind country-of-origin labels",
+     "url": "https://www.marketplace.org/story/2022/06/24/the-long-tangled-story-behind-country-of-origin-labels"
+    }
+   ]
+  },
+  {
+   "year": 1891,
+   "yearSort": 1891,
+   "theme": "copyright",
+   "event": "The Chace Act gives foreign authors US copyright, if their books are typeset in the US (in force 1 July 1891).",
+   "onTheShelf": "Before July 1891, cheap American editions of British novels were legal and often unauthorized. After it, an authorized US edition of a British author often says 'Copyright' with a US date.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "US Copyright Office, Copyright Lore (February 2016): the 1891 Act",
+     "url": "https://copyright.gov/history/lore/pdfs/201602 CLore_February2016.pdf"
+    },
+    {
+     "title": "US Copyright Office: Timeline, the 19th century",
+     "url": "https://copyright.gov/timeline/timeline_19th_century.html"
+    },
+    {
+     "title": "Wikipedia: International Copyright Act of 1891 (last resort)",
+     "url": "https://en.wikipedia.org/wiki/International_Copyright_Act_of_1891"
+    }
+   ]
+  },
+  {
+   "year": 1901,
+   "yearSort": 1901,
+   "theme": "identifiers",
+   "event": "The Library of Congress begins selling printed catalog cards.",
+   "onTheShelf": "A 'Library of Congress Catalog Card Number' on the copyright page is a 20th-century feature. It becomes common from about the 1940s on US books.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "Library of Congress blog: The unheralded story of the card catalog",
+     "url": "https://blogs.loc.gov/loc/2017/07/inquiring-minds-the-unheralded-story-of-the-card-catalog/"
+    }
+   ]
+  },
+  {
+   "year": "c.1902",
+   "yearSort": 1902,
+   "theme": "identifiers",
+   "event": "Some publishers begin marking first printings. Appleton adds a '(1)' after the last line of text from 1902.",
+   "onTheShelf": "Printing codes in old books are publisher-specific. Use a points guide for each publisher.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "IOBA: Identifying first editions",
+     "url": "https://www.ioba.org/identifying-first-editions-2"
+    }
+   ]
+  },
+  {
+   "year": "1900s",
+   "yearSort": 1905,
+   "theme": "bindings",
+   "event": "Blurbs and flap copy become usual. Gelett Burgess coins 'blurb' in 1907.",
+   "onTheShelf": "Flap text, reviews and author notes point to after about 1900.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "BookThink: Dust jackets, a series (part 1)",
+     "url": "https://www.bookthink.com/0161/161djh1.htm"
+    },
+    {
+     "title": "Merriam-Webster: The word history of 'blurb'",
+     "url": "https://merriam-webster.com/wordplay/word-history-blurb-publishing"
+    }
+   ]
+  },
+  {
+   "year": 1909,
+   "yearSort": 1909,
+   "theme": "copyright",
+   "event": "New US Copyright Act: a correct notice is required, or the work falls into the public domain.",
+   "onTheShelf": "Twentieth-century American books carry 'Copyright 19xx by' on the title verso. A missing notice on a US book of 1909 to 1989 is unusual.",
+   "confidence": "conflicting",
+   "sources": [
+    {
+     "title": "US Copyright Office: Timeline 1900-1950",
+     "url": "https://copyright.gov/timeline/timeline_1900-1950.html"
+    },
+    {
+     "title": "Plagiarism Today: The history of the copyright symbol",
+     "url": "https://www.plagiarismtoday.com/2020/03/10/history-of-the-copyright-symbol/"
+    }
+   ]
+  },
+  {
+   "year": 1909,
+   "yearSort": 1909.5,
+   "theme": "copyright",
+   "event": "The © symbol is allowed, but at first only for maps, art, photographs and prints.",
+   "onTheShelf": "Books still used the word 'Copyright' or 'Copr.' Most US books before the mid-1950s spell the word out.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Plagiarism Today: The history of the copyright symbol",
+     "url": "https://www.plagiarismtoday.com/2020/03/10/history-of-the-copyright-symbol/"
+    }
+   ]
+  },
+  {
+   "year": 1910,
+   "yearSort": 1910,
+   "theme": "copyright",
+   "event": "The Buenos Aires Convention asks for a statement reserving rights. 'All rights reserved' spreads.",
+   "onTheShelf": "'All rights reserved' became common on copyright pages in the 20th century. It does not date a book closely on its own.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "Plagiarism Today: The bizarre history of 'All rights reserved'",
+     "url": "https://www.plagiarismtoday.com/2015/08/18/the-bizarre-history-of-all-rights-reserved/"
+    }
+   ]
+  },
+  {
+   "year": "1920s",
+   "yearSort": 1925,
+   "theme": "identifiers",
+   "event": "US publishers begin printing 'First Edition' or 'First Printing' statements (Holt from 1924, Lippincott from 1925).",
+   "onTheShelf": "A first-edition statement in a 1920s or 1930s American book is a good sign, but practice varied by publisher and by year. Book club copies sometimes keep the statement.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "IOBA: Identifying first editions",
+     "url": "https://www.ioba.org/identifying-first-editions-2"
+    }
+   ]
+  },
+  {
+   "year": "1920s",
+   "yearSort": 1925,
+   "theme": "bindings",
+   "event": "Jackets become designed, illustrated selling tools. Bindings underneath get plainer.",
+   "onTheShelf": "For a book of the 1920s to 1960s, the jacket is often most of the value. Grade it as carefully as the book.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "BookThink: Dust jackets, a series (part 1)",
+     "url": "https://www.bookthink.com/0161/161djh1.htm"
+    }
+   ]
+  },
+  {
+   "year": 1926,
+   "yearSort": 1926,
+   "theme": "clubs",
+   "event": "The Book-of-the-Month Club sends its first selection in April 1926 (Lolly Willowes).",
+   "onTheShelf": "Club copies exist from here on. Early ones were bought from the publisher and look like trade copies.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "FundingUniverse: Book-of-the-Month Club, Inc. history",
+     "url": "https://www.fundinguniverse.com/company-histories/book-of-the-month-club-inc-history"
+    },
+    {
+     "title": "BookThink: Book club editions, the early BOMC",
+     "url": "https://www.bookthink.com/0159/159bce1.htm"
+    }
+   ]
+  },
+  {
+   "year": 1926,
+   "yearSort": 1926.5,
+   "theme": "clubs",
+   "event": "BOMC marks its July 1926 selection with a gilt spine stamp, dropped in 1927.",
+   "onTheShelf": "A gilt 'Book-of-the-Month Club Selection' panel on a 1926 or 1927 spine marks an early club copy of trade sheets.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "BookThink: Book club editions, the early BOMC",
+     "url": "https://www.bookthink.com/0159/159bce1.htm"
+    }
+   ]
+  },
+  {
+   "year": 1927,
+   "yearSort": 1927,
+   "theme": "clubs",
+   "event": "The Literary Guild is founded.",
+   "onTheShelf": "The Guild is the second big US club. Later Guild copies are smaller and cheaper than trade copies.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Britannica: Literary Guild",
+     "url": "https://www.britannica.com/topic/Literary-Guild"
+    }
+   ]
+  },
+  {
+   "year": 1930,
+   "yearSort": 1930,
+   "theme": "clubs",
+   "event": "BOMC begins printing its own editions in July 1930.",
+   "onTheShelf": "From here, BOMC copies are separate printings. Look for the blind dot or shape on the lower rear board and an unpriced jacket.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "BookThink: Book club editions, the early BOMC",
+     "url": "https://www.bookthink.com/0159/159bce1.htm"
+    }
+   ]
+  },
+  {
+   "year": 1932,
+   "yearSort": 1932,
+   "theme": "paperbacks",
+   "event": "Albatross Modern Continental Library starts in Hamburg. No. 1 is Joyce's Dubliners.",
+   "onTheShelf": "Its look and color coding were a model for Penguin.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Publishing History: Albatross Modern Continental Library",
+     "url": "https://www.publishinghistory.com/albatross-modern-continental-library.html"
+    }
+   ]
+  },
+  {
+   "year": "1930s on",
+   "yearSort": 1935,
+   "theme": "clubs",
+   "event": "Club copies settle into their marks: no price on the flap, 'Book Club Edition' on the flap, and a blind stamp on the rear board.",
+   "onTheShelf": "No price plus a blind stamp is the classic club copy. Some trade books have no price, so check the board too.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "IOBA: Identifying book club editions",
+     "url": "https://www.ioba.org/identifying-book-club-editions"
+    }
+   ]
+  },
+  {
+   "year": 1935,
+   "yearSort": 1935,
+   "theme": "paperbacks",
+   "event": "Penguin Books launches on 30 July 1935 at sixpence, color-coded by subject.",
+   "onTheShelf": "Orange is fiction, green crime, blue biography. Early numbered Penguins in jackets are collected.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Penguin: Company timeline",
+     "url": "https://www.penguin.co.uk/company/about-us/company-history/company-timeline"
+    }
+   ]
+  },
+  {
+   "year": 1939,
+   "yearSort": 1939,
+   "theme": "paperbacks",
+   "event": "Pocket Books launches the US mass-market paperback at 25 cents.",
+   "onTheShelf": "Small 25-cent paperbacks with the kangaroo logo date from 1939 on.",
+   "confidence": "conflicting",
+   "sources": [
+    {
+     "title": "Wikipedia: Pocket Books (last resort)",
+     "url": "https://en.wikipedia.org/wiki/Pocket_Books"
+    },
+    {
+     "title": "Publishers Weekly: From the archive, May 27, 1939",
+     "url": "https://www.publishersweekly.com/pw/print/20220530/89445-from-the-archive-may-27-1939.html"
+    }
+   ]
+  },
+  {
+   "year": 1940,
+   "yearSort": 1940,
+   "theme": "wartime",
+   "event": "Britain rations paper for publishers from March 1940, at 60 percent of 1938-39 use.",
+   "onTheShelf": "British books from 1940 on use thinner paper and smaller type. Grade them against other wartime copies.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Chris Forster: Typography versus Hitler, the Book Production War Economy Agreement",
+     "url": "https://cforster.com/2013/06/book-production-war-economy/"
+    }
+   ]
+  },
+  {
+   "year": 1942,
+   "yearSort": 1942,
+   "theme": "wartime",
+   "event": "The Book Production War Economy Agreement takes effect on 1 January 1942.",
+   "onTheShelf": "A small emblem or note about the 'Book Production War Economy Standard' dates a British book to 1942 or the years just after.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Chris Forster: Typography versus Hitler, the Book Production War Economy Agreement",
+     "url": "https://cforster.com/2013/06/book-production-war-economy/"
+    }
+   ]
+  },
+  {
+   "year": 1943,
+   "yearSort": 1943,
+   "theme": "paperbacks",
+   "event": "Armed Services Editions are printed for US troops, 1943 to 1947. Over 1,300 titles.",
+   "onTheShelf": "Wide, short paperbacks bound on the short side with two columns of text.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "ILAB: Armed Services Editions",
+     "url": "https://ilab.org/article/armed-services-editions"
+    }
+   ]
+  },
+  {
+   "year": 1943,
+   "yearSort": 1943,
+   "theme": "wartime",
+   "event": "The US War Production Board limits paper for book publishers (Order L-245, 'Books').",
+   "onTheShelf": "Some books carry notices such as 'War Edition' or 'complete text, reduced size' to meet paper rules.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "War Production Board, Priorities (June 1943): index of orders, L-245 Books",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-P32_4800-36ddca8b8ec3e28d7b6b0abcaa9e66b4/html/GOVPUB-P32_4800-36ddca8b8ec3e28d7b6b0abcaa9e66b4.htm"
+    }
+   ]
+  },
+  {
+   "year": 1945,
+   "yearSort": 1945,
+   "theme": "paperbacks",
+   "event": "Bantam Books is founded. No. 1 is Twain's Life on the Mississippi.",
+   "onTheShelf": "Early Bantams with low numbers are collected.",
+   "confidence": "conflicting",
+   "sources": [
+    {
+     "title": "Publishing History: Bantam Books",
+     "url": "https://publishinghistory.com/bantam-books-new-york.html"
+    }
+   ]
+  },
+  {
+   "year": "1940s",
+   "yearSort": 1947,
+   "theme": "identifiers",
+   "event": "Number lines (printer's keys) appear in some books by the late 1940s. Crowell's 1947 practice is one early case.",
+   "onTheShelf": "A number line on a book from before about 1960 is unusual. Its lowest number usually gives the printing.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "Wikipedia: Printer's key (last resort)",
+     "url": "https://en.wikipedia.org/wiki/Printer%27s_key"
+    },
+    {
+     "title": "IOBA: Identifying first editions",
+     "url": "https://www.ioba.org/identifying-first-editions-2"
+    }
+   ]
+  },
+  {
+   "year": 1950,
+   "yearSort": 1950,
+   "theme": "clubs",
+   "event": "Reader's Digest Condensed Books begin. Renamed Select Editions in 1997.",
+   "onTheShelf": "Abridged, several novels per volume, in matching bindings. Not first editions.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Wikipedia: Reader's Digest Condensed Books (last resort)",
+     "url": "https://en.wikipedia.org/wiki/Reader%27s_Digest_Condensed_Books"
+    }
+   ]
+  },
+  {
+   "year": 1950,
+   "yearSort": 1950,
+   "theme": "paperbacks",
+   "event": "Fawcett's Gold Medal line publishes paperback originals.",
+   "onTheShelf": "A Gold Medal paperback from the 1950s may be the true first edition of a book.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Bookscans: Gold Medal",
+     "url": "https://bookscans.com/Publishers/gm/gm.htm"
+    },
+    {
+     "title": "Wikipedia: Gold Medal Books (last resort)",
+     "url": "https://en.wikipedia.org/wiki/Gold_Medal_Books"
+    }
+   ]
+  },
+  {
+   "year": 1953,
+   "yearSort": 1953,
+   "theme": "clubs",
+   "event": "The Science Fiction Book Club starts (first ads November 1952). It stopped taking orders in January 2025.",
+   "onTheShelf": "SFBC copies have no jacket price and no first-edition statement. A few are true firsts, so check.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "SF Encyclopedia: Science Fiction Book Club",
+     "url": "https://sf-encyclopedia.com/entry/science_fiction_book_club"
+    }
+   ]
+  },
+  {
+   "year": 1953,
+   "yearSort": 1953,
+   "theme": "paperbacks",
+   "event": "Doubleday's Anchor Books launches the 'quality' trade paperback in April 1953.",
+   "onTheShelf": "Larger paperbacks of serious books, at 65 cents to $1.25. Vintage followed in 1954.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "The American Scholar: The birth of the egghead paperback",
+     "url": "https://theamericanscholar.org/the-birth-of-the-egghead-paperback/"
+    }
+   ]
+  },
+  {
+   "year": 1953,
+   "yearSort": 1953,
+   "theme": "production",
+   "event": "The first book typeset entirely by phototypesetting appears.",
+   "onTheShelf": "Film-set type (1950s to 1980s) looks crisp and flat with no bite into the paper.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "HistoryofInformation: Lumitype, the first successful phototypesetting machine",
+     "url": "https://historyofinformation.com/detail.php?id=675"
+    }
+   ]
+  },
+  {
+   "year": 1954,
+   "yearSort": 1954,
+   "theme": "copyright",
+   "event": "The © symbol becomes acceptable on all US works. The US joins the Universal Copyright Convention, in force 16 September 1955.",
+   "onTheShelf": "A © symbol in a US book points to the mid-1950s or later, though some publishers kept writing 'Copyright' as well.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Plagiarism Today: The history of the copyright symbol",
+     "url": "https://www.plagiarismtoday.com/2020/03/10/history-of-the-copyright-symbol/"
+    },
+    {
+     "title": "US Copyright Office: Timeline 1950-1997",
+     "url": "https://www.copyright.gov/timeline/timeline_1950-1997.html"
+    }
+   ]
+  },
+  {
+   "year": 1958,
+   "yearSort": 1958,
+   "theme": "clubs",
+   "event": "Doubleday starts printing gutter codes (mid-1958 to mid-1987).",
+   "onTheShelf": "A small letter-and-number code in the gutter of the last pages gives the year and week of printing. The last known code is from September 1987.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "ISFDB: Gutter code",
+     "url": "https://isfdb.org/wiki/index.php/Gutter_code"
+    }
+   ]
+  },
+  {
+   "year": "1950s-60s",
+   "yearSort": 1960,
+   "theme": "prices",
+   "event": "Some US jacket flaps are printed with several prices, and the unused ones are cut off at the bindery.",
+   "onTheShelf": "A clipped flap corner with a price still showing is a 'machine clip', not a price-clipped jacket. It does not lower value the way an owner's clip does.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "ILAB: Why are some dust jackets clipped but not price-clipped?",
+     "url": "https://ilab.org/article/why-are-some-dustjackets-clipped-but-not-price-clipped"
+    }
+   ]
+  },
+  {
+   "year": "1960s-80s",
+   "yearSort": 1965,
+   "theme": "clubs",
+   "event": "Doubleday sprays purple or speckled dye on page edges of remaindered books.",
+   "onTheShelf": "A colored speckle on the edge of a Doubleday book usually means a remainder, not a club copy.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "IOBA: Remaindered books and remainder marks",
+     "url": "https://ioba.org/remaindered-books-and-remainder-marks"
+    }
+   ]
+  },
+  {
+   "year": 1966,
+   "yearSort": 1966,
+   "theme": "identifiers",
+   "event": "The 9-digit Standard Book Number (SBN) is devised in Britain. It is in use by 1967.",
+   "onTheShelf": "A 9-digit SBN dates a British book to about 1967 to 1974.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "International ISBN Agency: David Whitaker, one of the key pioneers of ISBN",
+     "url": "https://www.isbn-international.org/node/354"
+    },
+    {
+     "title": "International Publishers Association: David Whitaker on the birth of ISBN",
+     "url": "https://internationalpublishers.org/it-was-an-idea-whose-time-had-come-david-whitaker-on-the-birth-of-isbn"
+    },
+    {
+     "title": "Wikipedia: ISBN (last resort)",
+     "url": "https://en.wikipedia.org/wiki/ISBN"
+    }
+   ]
+  },
+  {
+   "year": 1970,
+   "yearSort": 1970,
+   "theme": "identifiers",
+   "event": "The 10-digit ISBN becomes international standard ISO 2108.",
+   "onTheShelf": "An ISBN on a book that claims to be from before 1970 means a later printing or reissue.",
+   "confidence": "conflicting",
+   "sources": [
+    {
+     "title": "Wikipedia: ISBN (last resort)",
+     "url": "https://en.wikipedia.org/wiki/ISBN"
+    },
+    {
+     "title": "ISO Focus (2005): ISBN revision, ISO 2108:2005",
+     "url": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/isbn0512-2.pdf"
+    },
+    {
+     "title": "International ISBN Agency: David Whitaker, one of the key pioneers of ISBN",
+     "url": "https://www.isbn-international.org/node/354"
+    }
+   ]
+  },
+  {
+   "year": "1960s-70s",
+   "yearSort": 1970,
+   "theme": "production",
+   "event": "Offset lithography replaces letterpress for most books. Film setting replaces hot metal.",
+   "onTheShelf": "No bite or dent in the paper usually means offset. Letterpress on a recent book suggests a fine press.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "BookMachine: 50 years of book production",
+     "url": "https://bookmachine.org/2013/01/09/50-years-of-book-production/"
+    }
+   ]
+  },
+  {
+   "year": 1971,
+   "yearSort": 1971,
+   "theme": "identifiers",
+   "event": "The Library of Congress Cataloging in Publication (CIP) program begins.",
+   "onTheShelf": "A CIP data block on the copyright page means the book is from 1971 or later.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Library of Congress Information Bulletin: CIP celebrates 30th anniversary (2001)",
+     "url": "https://loc.gov/loc/lcib/0105/cip.html"
+    },
+    {
+     "title": "Wikipedia: Cataloging in Publication (last resort)",
+     "url": "https://en.wikipedia.org/wiki/Cataloging_in_Publication"
+    }
+   ]
+  },
+  {
+   "year": 1971,
+   "yearSort": 1971,
+   "theme": "prices",
+   "event": "Britain switches to decimal currency on 15 February 1971.",
+   "onTheShelf": "A British jacket priced in shillings and pence is from before 1971. A dual price such as '30s / £1.50' points to about 1968 to 1971.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Royal Mint Museum: Decimalisation",
+     "url": "https://www.royalmintmuseum.org.uk/journal/history/decimalisation/"
+    }
+   ]
+  },
+  {
+   "year": "1970s",
+   "yearSort": 1975,
+   "theme": "identifiers",
+   "event": "Number lines become the normal way to mark printings.",
+   "onTheShelf": "Most US trade books from the 1970s on have a number line. Watch the exceptions, such as Random House firsts with a line starting at 2 until about 2003.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Wikipedia: Printer's key (last resort)",
+     "url": "https://en.wikipedia.org/wiki/Printer%27s_key"
+    },
+    {
+     "title": "IOBA: Identifying first editions",
+     "url": "https://www.ioba.org/identifying-first-editions-2"
+    }
+   ]
+  },
+  {
+   "year": "c.1977",
+   "yearSort": 1977,
+   "theme": "identifiers",
+   "event": "The British Library begins its own CIP programme.",
+   "onTheShelf": "'British Library Cataloguing in Publication Data' on a British copyright page means the late 1970s or later.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "IFLA bibliography blog: British National Bibliography and UK CIP",
+     "url": "https://blogs.ifla.org/bibliography/?p=22"
+    },
+    {
+     "title": "Ariadne: The BNBMARC currency survey",
+     "url": "https://ariadne.hosting.lboro.ac.uk/issue/6/performance"
+    }
+   ]
+  },
+  {
+   "year": 1978,
+   "yearSort": 1978,
+   "theme": "copyright",
+   "event": "The 1976 Copyright Act takes effect on 1 January 1978.",
+   "onTheShelf": "Notices change little in look, but terms change. This date matters for value research, not for dating by eye.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "US Copyright Office: Timeline 1950-1997",
+     "url": "https://www.copyright.gov/timeline/timeline_1950-1997.html"
+    }
+   ]
+  },
+  {
+   "year": 1979,
+   "yearSort": 1979,
+   "theme": "prices",
+   "event": "The Thor Power Tool tax ruling makes US publishers remainder or destroy unsold stock more often.",
+   "onTheShelf": "Remainder marks (a marker stroke or stamp on the edge of the pages) become common on US books from the late 1970s on.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "IOBA: Remaindered books and remainder marks",
+     "url": "https://ioba.org/remaindered-books-and-remainder-marks"
+    }
+   ]
+  },
+  {
+   "year": 1980,
+   "yearSort": 1980,
+   "theme": "prices",
+   "event": "The EAN authority and the ISBN agency agree to create the 'Bookland' barcode prefix (978, later 979).",
+   "onTheShelf": "This sets up the book barcode, but barcodes on books are rare until the mid-1980s.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "BISG: Barcoding guidelines for the US book industry",
+     "url": "https://www.bisg.org/barcoding-guidelines-for-the-us-book-industry"
+    },
+    {
+     "title": "Wikipedia: Bookland (last resort)",
+     "url": "https://en.wikipedia.org/wiki/Bookland"
+    }
+   ]
+  },
+  {
+   "year": "1970s-80s",
+   "yearSort": 1980,
+   "theme": "bindings",
+   "event": "Paper-covered boards with cloth spines (half cloth) replace full cloth on many trade hardcovers to cut costs.",
+   "onTheShelf": "Paper boards under the jacket are typical of the 1970s on. Full cloth on a recent trade book is now a sign of quality.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "Publishing Perspectives (2009): In praise of paper-over-board",
+     "url": "https://publishingperspectives.com/2009/06/in-praise-of-paper-over-board/"
+    }
+   ]
+  },
+  {
+   "year": "late 1970s-2007",
+   "yearSort": 1980.5,
+   "theme": "prices",
+   "event": "Mass-market paperbacks carry a UPC grocery-style barcode on the back cover, with the Bookland EAN inside the front cover.",
+   "onTheShelf": "A UPC on the back of a paperback, with the ISBN barcode inside the cover, is typical of mass-market books before about 2007.",
+   "confidence": "approximate",
+   "sources": [
+    {
+     "title": "Publishers Weekly (2004): BISG backs Bookland EAN",
+     "url": "https://www.publishersweekly.com/pw/print/20040322/22610-bisg-backs-bookland-ean.html"
+    },
+    {
+     "title": "BISG: Barcoding guidelines for the US book industry",
+     "url": "https://www.bisg.org/barcoding-guidelines-for-the-us-book-industry"
+    },
+    {
+     "title": "Publishers Weekly (2017): Digital publishing's bar code revolution",
+     "url": "https://www.publishersweekly.com/pw/print/20170522/73660-digital-publishing-s-bar-code-revolution.html"
+    }
+   ]
+  },
+  {
+   "year": 1984,
+   "yearSort": 1984,
+   "theme": "production",
+   "event": "ANSI Z39.48, the US standard for permanent paper, is published. Revised in 1992.",
+   "onTheShelf": "The infinity sign in a circle, or a statement on acid-free paper, means 1984 or later.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Abbey Publications (Conservation OnLine): paper permanence standards",
+     "url": "https://cool.culturalheritage.org/byorg/abbey/napp/std.html"
+    },
+    {
+     "title": "NISO: ANSI/NISO Z39.48-1992 (R2009)",
+     "url": "https://groups.niso.org/higherlogic/ws/public/download/13464/Z39-48-1992_r2009.pdf/latest"
+    }
+   ]
+  },
+  {
+   "year": 1985,
+   "yearSort": 1985,
+   "theme": "prices",
+   "event": "BISG publishes machine-readable coding guidelines for US books.",
+   "onTheShelf": "A barcode on the jacket of a book that claims to be from the 1970s means a later jacket or later printing. Barcodes spread across US jackets in the late 1980s.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "BISG: Barcoding guidelines for the US book industry",
+     "url": "https://www.bisg.org/barcoding-guidelines-for-the-us-book-industry"
+    },
+    {
+     "title": "Publishers Weekly (2017): Digital publishing's bar code revolution",
+     "url": "https://www.publishersweekly.com/pw/print/20170522/73660-digital-publishing-s-bar-code-revolution.html"
+    }
+   ]
+  },
+  {
+   "year": 1985,
+   "yearSort": 1985,
+   "theme": "production",
+   "event": "PageMaker and laser printers start desktop publishing.",
+   "onTheShelf": "Small-press and self-published books from the late 1980s on are often laid out on a computer.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Computer History Museum: PageMaker and desktop publishing",
+     "url": "https://www.computerhistory.org/revolution/personal-computers/17/306"
+    }
+   ]
+  },
+  {
+   "year": 1986,
+   "yearSort": 1986,
+   "theme": "copyright",
+   "event": "The manufacturing clause expires on 1 July 1986.",
+   "onTheShelf": "Before this, books by American authors had to be printed in the US or Canada to keep full protection. After it, 'Printed in Hong Kong' or 'Printed in China' becomes common on American books, especially illustrated ones.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "US Copyright Office, Copyright Lore: the manufacturing clause (June-July 2006)",
+     "url": "https://www.Copyright.Gov/history/lore/pdfs/200606 CLore_JunJul2006.pdf"
+    }
+   ]
+  },
+  {
+   "year": 1989,
+   "yearSort": 1989,
+   "theme": "copyright",
+   "event": "The US joins the Berne Convention on 1 March 1989. A copyright notice becomes optional.",
+   "onTheShelf": "Notices continue in nearly all trade books, so their presence does not date a book. A US book with no notice is more likely after 1989.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "US Copyright Office: Circular 3, Copyright Notice",
+     "url": "https://copyright.gov/circs/circ03.pdf"
+    },
+    {
+     "title": "US Copyright Office: Timeline 1950-1997",
+     "url": "https://www.copyright.gov/timeline/timeline_1950-1997.html"
+    }
+   ]
+  },
+  {
+   "year": "1990s",
+   "yearSort": 1993,
+   "theme": "clubs",
+   "event": "Barnes & Noble and Borders superstores spread across the US.",
+   "onTheShelf": "Heavy discounts hurt clubs. Remainder marks and retailer stickers on jackets from this era are common.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Encyclopedia.com: Barnes & Noble, Inc.",
+     "url": "https://encyclopedia.com/economics/economics-magazines/barnes-noble-inc"
+    }
+   ]
+  },
+  {
+   "year": 1995,
+   "yearSort": 1995,
+   "theme": "clubs",
+   "event": "Amazon sells its first book in July 1995.",
+   "onTheShelf": "Not visible on a book, but it marks the start of online used-book pricing.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "HistoryofInformation: Jeff Bezos founds Amazon.com",
+     "url": "https://historyofinformation.com/detail.php?entryid=1337"
+    }
+   ]
+  },
+  {
+   "year": 1996,
+   "yearSort": 1996,
+   "theme": "clubs",
+   "event": "The AbeBooks website goes live.",
+   "onTheShelf": "Online listings made common books cheaper and rare books easier to price.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "AbeBooks: 25th anniversary",
+     "url": "https://www.abebooks.com/books/anniversary.shtml"
+    }
+   ]
+  },
+  {
+   "year": 1997,
+   "yearSort": 1997,
+   "theme": "production",
+   "event": "Ingram forms Lightning Print (later Lightning Source) for print on demand.",
+   "onTheShelf": "A last page with a printing code and a place such as La Vergne TN means a print-on-demand copy. No collector value.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Publishers Weekly (1997): Ingram enters on-demand field with Lightning Print",
+     "url": "https://publishersweekly.com/pw/print/19971110/32975-pw-ingram-enters-on-demand-field-with-lightning-print-inc.html"
+    },
+    {
+     "title": "Ingram Content Group: Product safety (POD tracking codes)",
+     "url": "https://ingramcontent.com/page/product-safety"
+    }
+   ]
+  },
+  {
+   "year": 2005,
+   "yearSort": 2005,
+   "theme": "identifiers",
+   "event": "ISO 2108:2005 sets up 13-digit ISBNs. Many books print both 10 and 13 digits during 2005 and 2006.",
+   "onTheShelf": "A book with both a 10-digit and a 13-digit ISBN usually dates from about 2005 to 2007.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "ISO Focus (2005): ISBN revision, ISO 2108:2005",
+     "url": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/isbn0512-2.pdf"
+    }
+   ]
+  },
+  {
+   "year": 2007,
+   "yearSort": 2007,
+   "theme": "identifiers",
+   "event": "ISBNs become 13 digits on 1 January 2007.",
+   "onTheShelf": "A 13-digit ISBN alone usually means 2007 or later.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "ISO Focus (2005): ISBN revision, ISO 2108:2005",
+     "url": "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/isbn0512-2.pdf"
+    },
+    {
+     "title": "BISG: Barcoding guidelines for the US book industry",
+     "url": "https://www.bisg.org/barcoding-guidelines-for-the-us-book-industry"
+    },
+    {
+     "title": "Wikipedia: ISBN (last resort)",
+     "url": "https://en.wikipedia.org/wiki/ISBN"
+    }
+   ]
+  },
+  {
+   "year": 2007,
+   "yearSort": 2007.5,
+   "theme": "production",
+   "event": "The Espresso Book Machine is shown at the New York Public Library in June 2007.",
+   "onTheShelf": "Single copies printed in a shop. These are modern reprints.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Make (June 2007): Espresso Book Machine",
+     "url": "https://makezine.com/2007/06/23/espresso-book-machine/"
+    }
+   ]
+  },
+  {
+   "year": 2007,
+   "yearSort": 2007.9,
+   "theme": "production",
+   "event": "Amazon releases the Kindle on 19 November 2007.",
+   "onTheShelf": "Ebooks spread. Print runs of many trade books fall afterward.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "About Amazon: A look back at 10 years of Kindle",
+     "url": "https://aboutamazon.com/news/devices/a-look-back-at-10-years-of-the-amazon-kindle"
+    }
+   ]
+  },
+  {
+   "year": 2020,
+   "yearSort": 2020,
+   "theme": "identifiers",
+   "event": "The US begins issuing ISBNs that start 979-8.",
+   "onTheShelf": "An ISBN starting 979-8 means a US book from 2020 or later, very often self-published.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "NISO: New year, new ISBN prefix (2020)",
+     "url": "https://www.niso.org/niso-io/2020/01/new-year-new-isbn-prefix"
+    }
+   ]
+  },
+  {
+   "year": "2020s",
+   "yearSort": 2023,
+   "theme": "bindings",
+   "event": "Sprayed or printed page edges spread from subscription-box editions to trade first printings.",
+   "onTheShelf": "Sprayed edges on a trade book usually mean the 2020s. Fourth Wing (2023) is an often cited first-printing example.",
+   "confidence": "confirmed",
+   "sources": [
+    {
+     "title": "Book Riot: What the trend of sprayed edges and special editions says about publishing",
+     "url": "https://bookriot.com/what-does-the-trend-of-sprayed-edges-and-special-editions-say-about-the-state-of-publishing/"
+    },
+    {
+     "title": "The Bookseller (2024): The spredges effect",
+     "url": "https://thebookseller.com/news/spredges-effect-why-books-are-becoming-more-beautiful"
+    }
+   ]
+  }
+ ]
+}
