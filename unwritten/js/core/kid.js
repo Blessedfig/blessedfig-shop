@@ -38,7 +38,9 @@ function kidFrame(g, dir, f, cx, by, scale) {
   ctx.imageSmoothingEnabled = false;
 }
 // px, py: the top-left of the tile the kid stands on; feet land on its lower middle
-function drawKid(kid, px, py, dir, moving, ts, noShadow) {   // ts: the tile size underfoot (T outside, IT in the store)
+let KID_DRAWN = 0;
+function drawKid(kid, px, py, dir, moving, ts, noShadow) {
+  KID_DRAWN = 1;   // ts: the tile size underfoot (T outside, IT in the store)
   const M = KID_META[kid.g] || KID_META.girl, f = moving ? (frame >> (held.b ? 2 : 3)) % M.n : 0, s = ts || T;
   if (!noShadow) R(px + s / 2 - 7, py + s - 4, 14, 4, 'rgba(0,0,0,.28)');
   kidFrame(kid.g, dir, f, px + s / 2, py + s - 1);

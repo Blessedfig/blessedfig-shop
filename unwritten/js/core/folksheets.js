@@ -28,6 +28,10 @@ const TFS_LIST = [
   { id: 'winter_m', fl: [], any: 1, roles: [], seasons: ['winter'], age: 'adult' },
   { id: 'winter_w', fl: [], any: 1, roles: [], seasons: ['winter'], age: 'adult' },
   { id: 'winter_c', fl: [0], any: 1, roles: [], seasons: ['winter'], age: 'child' },
+  { id: 'cyclist', fl: [9], roles: [], seasons: ['warm', 'cool'], age: 'adult' },
+  { id: 'fisher', fl: [4], roles: ['Fisherman', 'Trapper', 'Outdoors Guide'], seasons: ['warm', 'cool'], age: 'adult' },
+  { id: 'courier', fl: [5, 8], roles: ['Delivery Driver', 'Parcel Carrier'], seasons: ['warm'], age: 'adult' },
+  { id: 'worker', fl: [5], roles: ['Handyman', 'Mechanic', 'Forester', 'ATV Rider', 'Hardware Clerk'], seasons: ['warm', 'cool'], age: 'adult' },
   { id: 'farmer', fl: [6], roles: ['Farmer', 'Dairy Farmer', 'Maple Syrup Maker'], seasons: ['warm', 'cool'], age: 'adult' },
 ];
 function tfsLoad() {

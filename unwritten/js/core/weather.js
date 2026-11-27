@@ -61,4 +61,4 @@ function wxPrints() {
   }
 }
 { const _dt = drawTown; drawTown = function () { const r = _dt.apply(this, arguments); try { wxStep(); wxPrints(); } catch (e) {} return r; }; }
-{ const _dl = drawTownLabels; drawTownLabels = function (cx, cy) { if (mode === 'walk') try { wxFlakes(); } catch (e) {} return _dl(cx, cy); }; }
+{ const _dl = drawTownLabels; drawTownLabels = function (cx, cy) { const r = _dl(cx, cy); if (mode === 'walk') try { wxFlakes(); } catch (e) {} return r; }; }   // after the night shade, so flakes show at night too
