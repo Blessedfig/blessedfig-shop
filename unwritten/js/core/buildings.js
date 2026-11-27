@@ -522,7 +522,8 @@ function drawBuildingsWith(playerDraw, playerY, box) {
   drawShadows(list);
   list.sort((a, b) => (a.pyMax - b.pyMax) || (a.id - b.id));
   const props = visibleProps(); let pi = 0, drewPlayer = false, covered = false;
-  const overKid = p => { if (!PLAYER_BOX) return false; const x = p.x * T + ox, y = p.y * T + oy, B = PLAYER_BOX;   // a tree, lamp or camera in front of the kid
+  const overKid = p => { if (!PLAYER_BOX || p.k === 'tf') return false;   // Nov 27: a person standing in front of the kid stays in front (only trees, lamps and the like force her back on top)
+    const x = p.x * T + ox, y = p.y * T + oy, B = PLAYER_BOX;   // a tree, lamp or camera in front of the kid
     return x + 40 > B[0] && x - 40 < B[0] + B[2] && y > B[1] && y - 120 < B[1] + B[3]; };
   const kid = () => { ctx.restore(); playerDraw(); ctx.save(); ctx.translate(ox, oy); drewPlayer = true; };
   for (const b of list) {
