@@ -46,6 +46,7 @@ function tfsLoad() {
 tfsLoad();
 // clothes recolour: turn the hue of saturated colours outside the skin/hair/leather band
 function tfsVariant(d, v) {
+  v = ((v | 0) % 4 + 4) % 4;   // Nov 27: a negative name hash gave v = -3, no hue turn, and a crash that froze the game (the librarian)
   if (!v) return d.im; if (d.var[v]) return d.var[v];
   const c = document.createElement('canvas'); c.width = d.im.width; c.height = d.im.height; const g = c.getContext('2d'); g.drawImage(d.im, 0, 0);
   const D = g.getImageData(0, 0, c.width, c.height), p = D.data, turn = [0, 110, 200, 290][v % 4] / 360;
@@ -54,7 +55,7 @@ function tfsVariant(d, v) {
     if (dd < 0.12 || l < 0.12) continue;   // greys, whites and the outline stay
     const s = dd / (1 - Math.abs(2 * l - 1)); let h = mx === r ? ((gg - b) / dd) % 6 : mx === gg ? (b - r) / dd + 2 : (r - gg) / dd + 4; h = (h / 6 + 1) % 1;
     if (h < 0.15 || h > 0.95 || s < 0.25) continue;   // skin, hair (red to blond), leather, khaki and reds stay; dull colours stay
-    const h2 = (h + turn) % 1, C = (1 - Math.abs(2 * l - 1)) * s, X = C * (1 - Math.abs((h2 * 6) % 2 - 1)), m = l - C / 2, k = Math.floor(h2 * 6);
+    const h2 = (h + turn) % 1, C = (1 - Math.abs(2 * l - 1)) * s, X = C * (1 - Math.abs((h2 * 6) % 2 - 1)), m = l - C / 2, k = Math.min(5, Math.floor(h2 * 6));   // Nov 27: h2 just under 1 rounds to k = 6 and froze the game (the library's librarian)
     const [rr, g2, bb] = [[C, X, 0], [X, C, 0], [0, C, X], [0, X, C], [X, 0, C], [C, 0, X]][k];
     p[i] = (rr + m) * 255; p[i + 1] = (g2 + m) * 255; p[i + 2] = (bb + m) * 255;
   }
@@ -104,7 +105,7 @@ function tfsFolkPick(who) {
     else if (grey) id = h & 1 ? 'elder_w' : 'elder_m';
     else id = h & 2 ? 'townwoman' : 'townsman';
   }
-  const d = by(id); return d ? { d, v: TFS_IN[who] ? 0 : (h >> 2) % 4 } : null;
+  const d = by(id); return d ? { d, v: TFS_IN[who] ? 0 : (h >>> 2) % 4 } : null;
 }
 { const _f = SPR.folk; SPR.folk = function (who, cx, by, t, dir, moving) {
   const pick = tfsFolkPick(who); if (!pick) return _f.apply(this, arguments);

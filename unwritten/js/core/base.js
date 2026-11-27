@@ -77,15 +77,19 @@ const MODES = {};   // name -> {update(), draw()}
 let mode = 'title', frame = 0;
 function setMode(m) { mode = m; if (MODES[m] && MODES[m].enter) MODES[m].enter(); }
 let last = 0, acc = 0;
+// Nov 27 (a customer froze in the library): one error in a mode's update or draw used to stop the loop for good, freezing the
+// game. Now the error is logged (once per message) and the loop keeps running, so a bad sprite can't strand a player.
+const LOOP_ERRS = new Set();
+function loopErr(e) { const m = String(e && e.message || e); if (!LOOP_ERRS.has(m)) { LOOP_ERRS.add(m); console.error('game loop:', e); } }
 function loop(t) {
   acc += Math.min(100, t - last); last = t;
   while (acc >= 1000 / 60) {
     pollPad(); frame++;
-    const M = MODES[mode]; if (M && M.update) M.update();
+    const M = MODES[mode]; try { if (M && M.update) M.update(); } catch (e) { loopErr(e); }
     for (const k in pressed) delete pressed[k];
     acc -= 1000 / 60;
   }
   ctx.setTransform(DPR, 0, 0, DPR, 0, 0); ctx.imageSmoothingEnabled = false;
-  const M = MODES[mode]; if (M && M.draw) M.draw();
+  const M = MODES[mode]; try { if (M && M.draw) M.draw(); } catch (e) { loopErr(e); ctx.globalAlpha = 1; }
   requestAnimationFrame(loop);
 }
