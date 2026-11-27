@@ -10,7 +10,8 @@
 // =====================================================================
 const REC_TRACKS = { title: 'title', battle: 'battle', boss: 'boss', victory: 'victory', store: 'figtree', captured: 'captured',
   town_spring: 'town', town_summer: 'town', town_fall: 'town', town_winter: 'town',
-  gym: 'gym', dusk: 'dusk', chorale: 'chorale', workshop: 'workshop', indoors: 'indoors', think: 'study' };   // second batch, Nov 26 ("sure")
+  gym: 'gym', dusk: 'dusk', chorale: 'chorale', workshop: 'workshop', indoors: 'indoors', think: 'study',   // second batch, Nov 26 ("sure")
+  basement: 'basement', dream: 'myroom', forest_gartzke: 'woods', forest_wolf: 'river', forest_ackley: 'marsh' };   // third batch ("add them"): every place now has a recorded track
 const REC_ONCE = { victory: 1 };                 // plays once, from the top; the rest loop
 const REC_RESTART = { battle: 1, boss: 1, victory: 1 };   // start from the top each time (town and home pick up where they left off)
 PARTY_CFG.mrec = /[?&]chiptune\b/.test(location.search) ? 0 : 1;
