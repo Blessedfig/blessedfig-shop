@@ -17,11 +17,17 @@ const TFS = [];       // filled from TFS_LIST below once each image loads
 // id, file, cell w/h, the townsfolk flavours (n.fl) and roles it can stand for, the seasons it dresses for, its age
 const TFS_LIST = [
   { id: 'hiker', fl: [10], roles: ['Hiker', 'Outdoors Guide', 'Visitor', 'Forager', 'Campground Host'], seasons: ['warm', 'cool'], age: 'adult' },
-  { id: 'elder_w', fl: [1], roles: ['Elder', 'Book Club Member', 'Librarian', 'Storyteller'], seasons: ['warm', 'cool'], age: 'elder' },
-  { id: 'elder_m', fl: [1], roles: ['Elder', 'Historian', 'Antique Dealer', 'Veteran', 'Storyteller'], seasons: ['warm', 'cool'], age: 'elder' },
+  { id: 'elder_w', fl: [1, 3, 4, 6, 8, 10], roles: ['Elder', 'Book Club Member', 'Librarian', 'Storyteller'], seasons: ['warm', 'cool'], age: 'elder' },
+  { id: 'elder_m', fl: [1, 3, 4, 6, 8, 10], roles: ['Elder', 'Historian', 'Antique Dealer', 'Veteran', 'Storyteller'], seasons: ['warm', 'cool'], age: 'elder' },
   { id: 'student_g', fl: [0, 7], roles: ['Student', 'College Visitor'], seasons: ['warm', 'cool'], age: 'teen' },
   { id: 'gamer', fl: [7], roles: ['Gamer', 'Tech Helper'], seasons: ['warm', 'cool'], age: 'adult' },
   { id: 'runner', fl: [2], roles: [], seasons: ['warm'], age: 'adult' },
+  { id: 'townwoman', fl: [3, 8], roles: ['Artist', 'Craftsperson', 'Teacher', 'Musician', 'Bookseller', 'Antique Dealer'], seasons: ['warm', 'cool'], age: 'adult' },
+  { id: 'townsman', fl: [3, 8], roles: ['Teacher', 'Grocery Manager', 'Tech Helper', 'Visitor'], seasons: ['warm', 'cool'], age: 'adult' },
+  { id: 'child_b', fl: [0], roles: ['Student', 'Gamer'], seasons: ['warm', 'cool'], age: 'child' },
+  { id: 'winter_m', fl: [], any: 1, roles: [], seasons: ['winter'], age: 'adult' },
+  { id: 'winter_w', fl: [], any: 1, roles: [], seasons: ['winter'], age: 'adult' },
+  { id: 'winter_c', fl: [0], any: 1, roles: [], seasons: ['winter'], age: 'child' },
   { id: 'farmer', fl: [6], roles: ['Farmer', 'Dairy Farmer', 'Maple Syrup Maker'], seasons: ['warm', 'cool'], age: 'adult' },
 ];
 function tfsLoad() {
@@ -52,9 +58,12 @@ function tfsSeason() { const ph = typeof TF_SEASON === 'function' ? TF_SEASON() 
 function tfsPick(n) {
   if (!TFS.length) return null; const se = tfsSeason();
   if (n._tfs && n._tfsSe === se && n._tfsN === TFS.length) return n._tfs;
-  const ok = TFS.filter(d => d.seasons.includes(se));
-  let c = ok.filter(d => d.roles.includes(n.spr));
+  // the person's age (from the procedural look) must match the sheet's: kids get child sheets, never an adult's
+  const age = tfLook(n).age, fits = d => age === 'kid' ? d.age === 'child' : age === 'teen' ? d.age === 'teen' || d.age === 'adult' && n.fl === 7 : age === 'elder' ? d.age === 'elder' : d.age === 'adult';
+  const ok = TFS.filter(d => d.seasons.includes(se) && fits(d));
+  let c = ok.filter(d => d.roles.includes(n.spr) && d.fl.includes(n.fl));
   if (!c.length) c = ok.filter(d => d.fl.includes(n.fl));
+  if (!c.length && se === 'winter') c = ok.filter(d => d.any);   // in winter everyone in town wears a coat
   const d = c.length ? c[n.seed % c.length] : null;
   n._tfs = d ? { d, v: (n.seed >> 3) % 4 } : null; n._tfsSe = se; n._tfsN = TFS.length; return n._tfs;
 }

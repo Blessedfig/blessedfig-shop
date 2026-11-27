@@ -4,7 +4,7 @@
 //  CONFIG > HOW TO PLAY: five short pages. It explains controls and rules only, never the story or its purpose.
 // =====================================================================
 const HOWTO = [
-  ['CONTROLS', 'MOVE: arrow keys or WASD. A: Enter, Z or Space (talk, look, choose). B: Esc, X or Backspace (back; hold it to run). M: the town map. C: this menu. N: the sky. A gamepad works too. On a phone, use the pad at the bottom of the screen.'],
+  ['CONTROLS', 'MOVE: arrow keys or WASD. A: Enter, Z or Space (talk, look, choose). B: Esc, X or Backspace (back; hold it to run). M: the town map. C: this menu. N: the sky. P: save a postcard of the view. A gamepad works too. On a phone, use the pad at the bottom of the screen.'],
   ['GETTING AROUND', 'This is the real Antigo, street by street. Walk up to a door or a sign and press A. Arrows bob over doors you can open. M opens the map: pick a place from PLACES and you can ride there. The NEXT line in this menu always says where to go next.'],
   ['FIGHTS', 'Each fighter acts when their time gauge fills. Press A just as a hit lands for a stronger blow, or just as one comes at you to take less. Nobody dies here: a foe is a story that lets go when it runs out, and a friend who falls is only down.'],
   ['UNDERSTANDING', 'UNDERSTAND holds the moves every story is weak to: QUESTION, LISTEN, NAME IT, REFLECT, STEP BACK and more. A weak spot wears its guard down until it is OPEN. A story freed with understanding pays half again as much. The BESTIARY keeps what you learn about each one.'],

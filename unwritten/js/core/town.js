@@ -181,7 +181,9 @@ function drawTownLabels(cx, cy) {
   list.sort((a, b) => (b.type === 'fig') - (a.type === 'fig') || (b.enter | 0) - (a.enter | 0) || b.area - a.area);   // the bookstore, then places you can go into, then big places
   ctx.font = SMALL;
   for (const b of list) {
-    const h = bstyle(b).h, sx = (b.door[0] + 0.5 - camX) * T, sy = b.face === 'N' ? (b.pyMin - camY) * T - h - 12 : b.face === 'S' ? (b.pyMax - camY) * T - h - 12 : (b.door[1] - camY) * T - h - 4, w = ctx.measureText(b.name).width + 6;
+    const h = bstyle(b).h, w = ctx.measureText(b.name).width + 6;
+    let sx = (b.door[0] + 0.5 - camX) * T, sy = b.face === 'N' ? (b.pyMin - camY) * T - h - 12 : b.face === 'S' ? (b.pyMax - camY) * T - h - 12 : (b.door[1] - camY) * T - h - 4;
+    sx = Math.max(w / 2 + 2, Math.min(SW - w / 2 - 2, sx)); sy = Math.max(2, Math.min(SH - 22, sy));   // Nov 27 (UX pass): a label never runs off the screen edge
     const r = [sx - w / 2, sy - 1, w, 10];
     if (placed.some(q => r[0] < q[0] + q[2] && q[0] < r[0] + r[2] && r[1] < q[1] + q[3] && q[1] < r[1] + r[3])) continue;
     placed.push(r); R(r[0], r[1], w, 9, 'rgba(10,12,30,.72)'); txt(b.name, sx, sy, b.type === 'fig' ? '#9fe0a0' : '#f0e8c8', 'center', SMALL);
