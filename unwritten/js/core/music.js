@@ -24,7 +24,7 @@ const MUSIC=(()=>{
   // checked against the meter. Chords: one token per bar; "Am,E7" splits a bar evenly; "G/B" sets the bass note.
   const PC={C:0,D:2,E:4,F:5,G:7,A:9,B:11};
   const QUAL={'':[0,4,7],m:[0,3,7],'7':[0,4,7,10],m7:[0,3,7,10],maj7:[0,4,7,11],mM7:[0,3,7,11],m6:[0,3,7,9],'6':[0,4,7,9],
-    dim:[0,3,6],aug:[0,4,8],sus4:[0,5,7],sus2:[0,2,7],'7sus4':[0,5,7,10],add9:[0,4,7,14],m7b5:[0,3,6,10]};
+    m9:[0,3,7,10,14],maj9:[0,4,7,11,14],dim:[0,3,6],aug:[0,4,8],sus4:[0,5,7],sus2:[0,2,7],'7sus4':[0,5,7,10],add9:[0,4,7,14],m7b5:[0,3,6,10]};
   const BAD=[];
   const acc=s=>s==='#'?1:s==='b'?-1:0;
   function parseMel(src,spb,id){const ev=[];let st=0,len=2,oct=5,bar=0,barStart=0;
@@ -118,6 +118,17 @@ const MUSIC=(()=>{
    chapter:{m:8,k:2,ch:'D Bm G A D F#m G A Bm G D A G Em A D',
     mel:'F#4:2 A4:2 D5:4 | C#5:3 D5:1 B4:4 | B4:2 D5:2 G5:3 F#5:1 | E5:6 r:2 | F#5:3 E5:1 D5:2 A4:2 | C#5:3 E5:1 A5:4 | G5:3 F#5:1 E5:2 D5:2 | C#5:2 E5:2 A4:4 |'+
         'D5:3 C#5:1 B4:2 F#5:2 | G5:4 D5:4 | F#5:3 E5:1 D5:2 F#5:2 | E5:6 r:2 | G4:2 E5:3 D5:1 C#5:1 D5:1 | B4:3 A4:1 G4:2 B4:2 | C#5:2 E5:2 A5:2 G5:1 E5:1 | D5:8 |'},
+   // Caught in a story (the captured houses, Nov 26). Built the way Chrono Trigger's forest music is built (Game Developer,
+   // "Deconstructing Secret of the Forest"), with an original melody: two non-tonic minor-ninth chords (iv9, v9 of D minor)
+   // trade every two bars so the ear never lands; a harp climbs four-note arpeggios; a flute's phrases each end in a
+   // falling chromatic figure, and the second half of each phrase answers lower; a hand drum never changes; the recap
+   // returns higher with a chord every bar; only the bridge reaches the tonic.
+   captured:{m:8,li:2,k:2,ch:'Gm9 Am9 Gm9 Gm9 Am9 Am9 Gm9 Gm9 Am9 Am9 Gm9 Gm9 Am9 Am9 Gm9 Gm9 Am9 Am9 Bbmaj7 C Am7 Dm Gm9 C/E Am9 A7 Dm7 Bbmaj7 Gm7 A7',
+    mel:'r:8 | r:8 |'+
+        'A4:3 D5:1 F5:2 E5:1 D5:1 | G5:4 F5:1 E5:1 Eb5:1 D5:1 | C5:3 E5:1 A5:2 G5:2 | B5:4 A5:1 G#5:1 G5:1 F#5:1 | D4:3 G4:1 Bb4:2 A4:1 G4:1 | C5:4 Bb4:1 A4:1 Ab4:1 G4:1 | E4:3 A4:1 C5:2 B4:2 | E5:4 D5:1 C#5:1 C5:1 B4:1 |'+
+        'F5:6 D5:2 | Bb4:2 D5:2 C5:3 Bb4:1 | E5:6 C5:2 | B4:2 E5:2 D5:3 C5:1 | F5:2 G5:2 A5:4 | G5:2 F5:1 E5:1 D5:4 | E5:2 G5:2 B5:4 | A5:1 G#5:1 G5:1 F#5:1 E5:4 |'+
+        'D5:3 F5:1 A5:2 G5:1 F5:1 | G5:4 F5:1 E5:1 D5:1 C5:1 | C5:3 E5:1 A5:2 C6:2 | D6:4 C6:1 B5:1 Bb5:1 A5:1 | Bb5:3 A5:1 G5:2 F5:2 | E5:3 G5:1 C6:2 Bb5:2 | A5:4 G5:2 E5:2 | E5:2 G5:1 F5:1 E5:2 C#5:2 |'+
+        'r:8 | r:8 | r:8 | r:8 |'},
    // Dreams: Curiosity's motif inverted (falling a sixth, then creeping up), over drifting major sevenths and a
    // chromatic-mediant E major that never quite explains itself.
    dream:{m:8,k:0,ch:'Cmaj7 Am7 Fmaj7 G7 Cmaj7 Am7 Fmaj7 E',
@@ -195,10 +206,11 @@ const MUSIC=(()=>{
    store:{s:'store',bpm:72,lead:'lead50',harm:'box',hs:'arp',ho:1,harm2:'str',hs2:'pad',ht2:2,bass:'bass',bs:'half',dr:null,echo:.38},
    basement:{s:'basement',bpm:66,lead:'lead12',harm:'box',hs:'drip',ho:1,harm2:'pad50',hs2:'pad',bass:'bass',bs:'pedal',dr:['h.......','h...h...'],dv:.2,echo:.5,ed:240,efb:.45},
    daimon:{s:'daimon',gain:1.25,bpm:96,lead:'sly12',harm:'box',hs:'waltz',ho:1,harm2:'str',hs2:'pad',bass:'bass',bs:'waltz',dr:['h.h.h.'],dv:.18,echo:.45},
-   battle:{s:'battle',bpm:152,lead:'lead25',harm:'pluck12',hs:'arp',harm2:'brass',hs2:'stab',bass:'bass',bs:'drive',dr:['kkskkhss','khskkhsh','khskkhsh','khskkhsh','khskkhsh','khskkhsh','khskkhsh','khskkhsh','ksksssss'],dv:.75,echo:.12,ed:144,fast:1,lay:'urgent'},
-   boss:{s:'boss',gain:1.35,bpm:164,lead:'lead50',harm:'pluck25',hs:'arp',harm2:'brass',hs2:'stab',bass:'bassP',bs:'drive',dr:['kssskkss','kkskkhsh','khskkhso','kkskkhsh','khskkhsh','kkskkhsh','khskkhso','kkskkhsh','kssskkss'],dv:.8,echo:.12,ed:144,fast:1,lay:'urgent'},
+   battle:{s:'battle',bpm:152,lead:'lead25',harm:'saw12',hs:'arp',harm2:'brass',hs2:'stab',bass:'bass',bs:'drive',dr:['kkskkhss','khskkhsh','khskkhsh','khskkhsh','khskkhsh','khskkhsh','khskkhsh','khskkhsh','ksksssss'],dv:.75,echo:.12,ed:144,fast:1,lay:'urgent'},
+   boss:{s:'boss',gain:1.35,bpm:164,lead:'organ',harm:'pluck25',hs:'arp',harm2:'brass',hs2:'stab',bass:'bassP',bs:'drive',dr:['kssskkss','kkskkhsh','khskkhso','kkskkhsh','khskkhsh','kkskkhsh','khskkhso','kkskkhsh','kssskkss'],dv:.8,echo:.12,ed:144,fast:1,lay:'urgent'},
    victory:{s:'victory',gain:1.25,bpm:144,lead:'lead25c',harm:'pluck12',hs:'arp',harm2:'horn',hs2:'pad',bass:'bass',bs:'root',dr:['k...s...','k...s.s.','k.s.ssss','k.......'],dv:.7,echo:.25,loop:false,fast:1},
    chapter:{s:'chapter',bpm:76,lead:'lead50',harm:'harp',hs:'arp4',harm2:'str',hs2:'pad',bass:'bass',bs:'half',dr:null,echo:.4,rev:.3},
+   captured:{s:'captured',gain:1.1,bpm:84,lead:'flute',harm:'harp',hs:'arp4',harm2:'str',hs2:'pad',ht2:3,bass:'bass',bs:'half',dr:['t...t.t.'],dv:.3,echo:.42,ed:240,efb:.4,rev:.3},
    dream:{s:'dream',gain:0.85,bpm:56,lead:'flute',harm:'box',hs:'arp',ho:1,harm2:'str',hs2:'pad',ht2:3,bass:'bass',bs:'root',dr:null,echo:.55,ed:240,efb:.45,rev:.4},
    forest_gartzke:{s:'woods',gain:0.85,bpm:120,lead:'flute',harm:'harp',hs:'arp3',harm2:'chirp',hs2:'bird',bass:'bass',bs:'root',dr:['h..h..'],dv:.25,echo:.3,rev:.3,amb:'pines',lay:'season'},
    forest_wolf:{s:'woods',gain:1.3,bpm:136,tr:-2,lead:'lead25c',harm:'str',hs:'pad',harm2:'pluck25',hs2:'arp3',ho2:1,bass:'bass',bs:'waltz',dr:['k..h.h','k.hh.h'],dv:.3,echo:.25,rev:.2,amb:'river',lay:'season'},
@@ -456,6 +468,7 @@ const MUSIC=(()=>{
     if(mode==='hoops'||mode==='pickle')return'gym';
     if(typeof G==='undefined'||!G)return null;
     if(mode==='inside'&&G.inside){const f=G.inside.f,F=(typeof FIG_FLOORS!=='undefined'&&FIG_FLOORS[f])||{};
+      if(F.room&&F.room.b&&typeof capOf==='function'&&capOf(F.room.b))return'captured';
       if(f==='main'||f==='up')return'store';if(f==='base')return'basement';if(f==='myroom')return'dream';
       if(F.bld==='uma')return'gym';if(F.bld==='museum')return'think';
       const nm=((F.place||'')+' '+(F.name||'')+' '+((F.room&&F.room.kind)||''));
