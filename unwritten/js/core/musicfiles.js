@@ -6,15 +6,15 @@
 //  loudness evened to -18 LUFS, 128 kbps (scripts in the session; source files are on rfab under "The Unwritten - ...").
 //  This layer sits on top of the chiptune score (music.js): where a recorded track exists for the place the score has
 //  picked, the recorded track plays and the chiptune is faded out; everywhere else the chiptune plays as before.
-//  OFF by default until Christian picks which drafts to keep: CONFIG > MUSIC STYLE, or ?recorded in the address.
+//  Nov 26, Christian: "I like them, put them in." ON by default. CONFIG > MUSIC STYLE > CHIPTUNE (or ?chiptune) brings back the old score.
 // =====================================================================
 const REC_TRACKS = { title: 'title', battle: 'battle', boss: 'boss', victory: 'victory', store: 'figtree', captured: 'captured',
   town_spring: 'town', town_summer: 'town', town_fall: 'town', town_winter: 'town' };
 const REC_ONCE = { victory: 1 };                 // plays once, from the top; the rest loop
 const REC_RESTART = { battle: 1, boss: 1, victory: 1 };   // start from the top each time (town and home pick up where they left off)
-PARTY_CFG.mrec = /[?&]recorded\b/.test(location.search) ? 1 : 0;
+PARTY_CFG.mrec = /[?&]chiptune\b/.test(location.search) ? 0 : 1;
 const REC = { el: {}, cur: null, fade: {} };
-function recOn() { try { return !!SET.music && !!(typeof pcfg === 'function' && G && G.party ? pcfg().mrec : PARTY_CFG.mrec); } catch (e) { return false; } }
+function recOn() { try { const c = typeof pcfg === 'function' && G && G.party ? pcfg() : null; return !!SET.music && !!(c && c.mrec != null ? c.mrec : PARTY_CFG.mrec); } catch (e) { return false; } }
 function recKey() {
   const w = MUSIC.want; if (!w) return null;
   if (w === 'captured' && typeof G !== 'undefined' && G && G.inside && G.inside.f === 'mill') return 'mill';
