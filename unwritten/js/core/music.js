@@ -469,7 +469,7 @@ const MUSIC=(()=>{
     if(typeof G==='undefined'||!G)return null;
     if(mode==='inside'&&G.inside){const f=G.inside.f,F=(typeof FIG_FLOORS!=='undefined'&&FIG_FLOORS[f])||{};
       if(F.room&&F.room.b&&typeof capOf==='function'&&capOf(F.room.b))return'captured';
-      if(f==='main'||f==='up')return'store';if(f==='base')return'basement';if(f==='myroom')return'dream';
+      if(f==='mill')return'captured';if(f==='main'||f==='up')return'store';if(f==='base')return'basement';if(f==='myroom')return'dream';
       if(F.bld==='uma')return'gym';if(F.bld==='museum')return'think';
       const nm=((F.place||'')+' '+(F.name||'')+' '+((F.room&&F.room.kind)||''));
       if(/church|chapel|parish|lutheran|catholic|methodist|baptist|congregation|worship/i.test(nm))return'chorale';
