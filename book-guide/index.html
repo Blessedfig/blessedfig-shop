@@ -89,6 +89,26 @@ figure.dia figcaption b{font-style:normal;font-variant-caps:all-small-caps;lette
 .entry figure img{display:block;border:1px solid var(--rule)}
 .entry figcaption{font:italic .85rem var(--f-body);color:var(--muted);margin-top:6px}
 .entry figcaption a{color:var(--muted)}
+.hfil{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.hchip{font:italic 1rem var(--f-body);color:var(--ink);background:transparent;border:1px solid var(--rule);border-radius:999px;padding:8px 14px;min-height:40px;cursor:pointer}
+.hchip:hover{border-color:var(--accent)}
+.hchip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.hchip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.hintro{text-align:center;color:var(--muted);font-style:italic;max-width:60ch;margin:0 auto}
+.hintro:empty{display:none}
+.hline{list-style:none;margin:0;padding:0;border-left:1px solid var(--gilt);margin-left:6px}
+.hline li{display:grid;grid-template-columns:6.4rem minmax(0,1fr);gap:14px;padding:16px 0 16px 18px;position:relative;border-bottom:1px solid var(--rule)}
+.hline li::before{content:"";position:absolute;left:-5px;top:24px;width:9px;height:9px;transform:rotate(45deg);background:var(--paper);border:1px solid var(--gilt)}
+.hy{font:600 1.35rem/1.2 var(--f-display);color:var(--gilt);font-variant-numeric:lining-nums}
+.hb{display:flex;flex-direction:column;gap:6px;min-width:0}
+.hth{font-variant-caps:all-small-caps;letter-spacing:.1em;color:var(--accent);font-size:.95rem}
+.hev{font-size:1.1rem;font-weight:500}
+.hb .value{font-style:italic;font-size:1rem;color:var(--muted);padding-left:26px;position:relative}
+.hb .value::before{content:"\261E";font-style:normal;position:absolute;left:0;top:0;color:var(--gilt);font-family:var(--f-orn)}
+.hb .detail{font-size:.92rem;color:var(--muted)}
+.hsrc{font-size:.8rem;color:var(--muted);overflow-wrap:anywhere}
+.hsrc a{color:var(--muted)}
+@media (max-width:480px){.hline li{grid-template-columns:1fr;gap:4px}}
 .credits{font-size:.9rem;color:var(--muted);display:flex;flex-direction:column;gap:6px}
 .credits a{color:var(--muted)}
 .colophon{font:italic .98rem/1.5 var(--f-body);color:var(--muted);max-width:56ch;margin:0 auto;text-align:center}
@@ -242,11 +262,31 @@ figure.dia figcaption b{font-style:normal;font-variant-caps:all-small-caps;lette
   /* ---------- Render ---------- */
   Promise.all([
     fetch('materials.json').then(function(r){return r.json()}),
-    fetch('img/manifest.json').then(function(r){return r.ok?r.json():[]}).catch(function(){return[]})
+    fetch('img/manifest.json').then(function(r){return r.ok?r.json():[]}).catch(function(){return[]}),
+    fetch('history.json').then(function(r){return r.ok?r.json():null}).catch(function(){return null})
   ]).then(function(res){
-    var G=res[0],imgs={};(res[1]||[]).forEach(function(m){imgs[m.key]=m});
-    document.getElementById('jump').innerHTML=G.chapters.map(function(c){return'<a href="#'+c.id+'">'+esc(c.name)+'</a>'}).join('');
+    var G=res[0],H=res[2],imgs={};(res[1]||[]).forEach(function(m){imgs[m.key]=m});
+    document.getElementById('jump').innerHTML=G.chapters.map(function(c){return'<a href="#'+c.id+'">'+esc(c.name)+'</a>'}).join('')+(H?'<a href="#history">How books changed</a>':'');
     var dcap={anatomy:'The parts of a book. Use these names in descriptions.','laid-wove':'The quickest paper test: hold a page up to a window.','binding-levels':'How much of the cover is leather.','cloth-grains':'Publishers pressed patterns into book cloth. Grain helps tell editions and issues apart.',marbling:'Four common marbled patterns. Each was fashionable at different times.','print-methods':'Every printing method is one of these three.',halftone:'The loupe test for pictures.'};
+    function srcs(o){if(!o.sources||!o.sources.length)return'';return'<span class="hsrc">'+o.sources.map(function(x){var u=typeof x==='string'?x:x.url,t=typeof x==='string'?'':x.title;if(!t){try{t=new URL(u).hostname.replace(/^www\./,'')}catch(e){t='Source'}}return'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(t)+'</a>'}).join(' &middot; ')+'</span>'}
+    function historyHTML(H,n){
+      var T={};H.themes.forEach(function(t){T[t.id]=t});
+      var E=H.entries.slice().sort(function(a,b){return a.yearSort-b.yearSort});
+      return'<section class="ch" id="history"><div class="ch-head"><span class="eyebrow">Chapter '+roman(n)+'</span><h2>How books changed</h2><div class="orn" aria-hidden="true"><span>&#10087;</span></div></div>'+
+        '<p class="ch-intro">'+esc(H.intro||'')+'</p>'+
+        '<div class="hfil" role="group" aria-label="Show changes by theme"><button type="button" class="hchip" aria-pressed="true" data-t="">All changes</button>'+H.themes.map(function(t){return'<button type="button" class="hchip" aria-pressed="false" data-t="'+esc(t.id)+'">'+esc(t.name)+'</button>'}).join('')+'</div>'+
+        '<p class="hintro" id="hintro"></p>'+
+        '<ol class="hline">'+E.map(function(e){var th=T[e.theme]||{};return'<li data-t="'+esc(e.theme)+'"><span class="hy">'+esc(String(e.year))+'</span><div class="hb"><span class="hth">'+esc(th.name||'')+(e.confidence==='approximate'?' &middot; <i>approximate date</i>':'')+'</span><p class="hev">'+esc(e.event)+'</p>'+(e.onTheShelf?'<p class="value">'+esc(e.onTheShelf)+'</p>':'')+(e.confidence==='conflicting'?'<p class="detail"><i>Sources give slightly different dates for this.</i></p>':'')+srcs(e)+'</div></li>'}).join('')+'</ol></section>';
+    }
+    function bindHistory(){
+      var H2=document.getElementById('history');if(!H2)return;
+      H2.querySelectorAll('.hchip').forEach(function(b){b.addEventListener('click',function(){
+        var t=b.dataset.t;H2.querySelectorAll('.hchip').forEach(function(x){x.setAttribute('aria-pressed',String(x===b))});
+        H2.querySelectorAll('.hline li').forEach(function(li){li.hidden=!!t&&li.dataset.t!==t});
+        var th=t&&HT[t];document.getElementById('hintro').textContent=th?th.intro:'';
+      })});
+    }
+    var HT={};if(H)H.themes.forEach(function(t){HT[t.id]=t});
     var plate=0;function roman(n){var r='',v=[[10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']];v.forEach(function(q){while(n>=q[0]){r+=q[1];n-=q[0]}});return r}
     function fig(key){if(!D[key])return'';plate++;return'<figure class="dia"><div class="scroll">'+D[key]()+'</div><figcaption><b>Plate '+roman(plate)+'.</b> '+esc(dcap[key]||'')+'</figcaption></figure>'}
     function photo(key){var m=imgs[key];if(!m)return'';return'<figure><img src="'+esc(m.file)+'" alt="'+esc(m.caption)+'" loading="lazy" decoding="async"><figcaption>'+esc(m.caption)+'. <a href="'+esc(m.sourceUrl)+'" target="_blank" rel="noopener">'+esc(m.author||'Source')+'</a>, '+esc(m.license)+'.</figcaption></figure>'}
@@ -260,7 +300,8 @@ figure.dia figcaption b{font-style:normal;font-variant-caps:all-small-caps;lette
           (e.spot?'<p class="spot"><b>Look for</b>'+esc(e.spot)+'</p>':'')+(e.detail?'<p class="detail">'+esc(e.detail)+'</p>':'')+
           (e.value?'<p class="value">'+esc(e.value)+'</p>':'')+ph+(e.diagram?fig(e.diagram):'')+'</article>';
       }).join('')+'</div></section>';
-    }).join('')+'</div>';
+    }).join('')+(H?historyHTML(H,G.chapters.length+1):'')+'</div>';
+    if(H)bindHistory();
     if(used.length){var cr=document.getElementById('credits');cr.hidden=false;cr.innerHTML='<h3>Picture credits</h3>'+used.map(function(m){return'<span>'+esc(m.title||m.caption)+'. '+esc(m.author||'')+'. '+esc(m.license)+'. <a href="'+esc(m.sourceUrl)+'" target="_blank" rel="noopener">Source</a></span>'}).join('')}
     if(location.hash){var t=document.getElementById(location.hash.slice(1));if(t)t.scrollIntoView()}
   }).catch(function(){document.getElementById('chapters').innerHTML='<p class="foot-note">The guide could not load. Refresh the page to try again.</p>'});
