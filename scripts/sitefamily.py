@@ -23,6 +23,7 @@ SITES = [
     ('visit',    'Visit the bookstore',           WWW + '/#visit'),
     ('stay',     'Stay upstairs',                 'https://stays.theblessedfigtree.com/'),
     ('manga',    'Manga guide for parents',       WWW + '/manga-guide/'),
+    ('books',    'Book materials guide',          WWW + '/book-guide/'),
     ('forage',   'Foraging Langlade County',      WWW + '/foraging/'),
     ('almanac',  'Antigo Almanac',                WWW + '/almanac/'),
     ('game',     'Play The Unwritten',            WWW + '/unwritten/'),
@@ -131,6 +132,7 @@ def main():
         (J('almanac', 'index.html'), 'almanac', 'almanac', 'lines'),
         (J('goose.html'), 'goose', 'goose', None),          # has its own family list; see fix_goose
         (J('manga-guide', 'index.html'), 'manga', 'manga', 'body'),
+        (J('book-guide', 'index.html'), 'books', 'manga', 'body'),
         (J('foraging', 'index.html'), 'forage', 'fhome', 'footer'),
         (J('foraging', 'map', 'index.html'), 'forage', 'map', 'body'),
         (J('unwritten', 'guide', 'index.html'), 'game', 'gguide', None),  # see fix_gguide
