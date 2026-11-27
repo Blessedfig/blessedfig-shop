@@ -90,8 +90,9 @@ function cureStatus(u, ids) {
 }
 function tickStatuses(u) {   // at the end of the unit's own turn
   for (const id of Object.keys(u.status)) {
-    const s = u.status[id], d = STATUSES[id]; if (!d || d.perm || d.oneHit || id === 'open') continue;
+    const s = u.status[id], d = STATUSES[id]; if (!s || !d || d.perm || d.oneHit || id === 'open') continue;   // Nov 26: a tick that dazes can clear the rest mid-loop
     if (d.tick && alive(u)) { const n = Math.round(u.st.hpMax * d.tick.hpPct); if (n < 0) hurt(u, -n, null, '#b48ae0'); else healUnit(u, n); }
+    if (!u.status[id]) continue;
     if (s.fresh) { delete s.fresh; continue; }
     if (d.turns && --s.t <= 0) delete u.status[id];
   }
