@@ -23,13 +23,13 @@
 /* Layout: a fine-press title page. Centered masthead with a double rule, chapters open like book chapters (roman numeral, fleuron rule, drop cap), diagrams framed as numbered plates, entries set as ruled two-column text. */
 :root{
   --paper:#f7f1e3;--panel:#fbf7ec;--ink:#2a2019;--muted:#5e4c3c;--rule:#c9b48c;--accent:#6b2326;--gilt:#a07a32;--cloth:#2e4636;--tone:#e9dfcb;--warm-soft:#efe5d1;
-  --d1:#2e4636;--d2:#a07a32;--d3:#5a2b52;--d4:#2e5566;--d5:#6b2326;
+  --d1:#2e4636;--d2:#a07a32;--d3:#5a2b52;--d4:#2e5566;--d5:#6b2326;--gilt-ink:#80602a;
   --f-display:"Cormorant Garamond","Cormorant",Garamond,Georgia,"Times New Roman",serif;
   --f-body:"EB Garamond",Garamond,Georgia,"Times New Roman",serif;
   --f-orn:"EB Garamond","Segoe UI Symbol","Noto Sans Symbols 2","DejaVu Sans",serif;
 }
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#131d17;--panel:#18251e;--ink:#eee5d2;--muted:#b6aa92;--rule:#33463a;--accent:#dc8f98;--gilt:#d4b062;--cloth:#9cc2a8;--tone:#24352b;--warm-soft:#1f2e25;--d1:#9cc2a8;--d2:#d4b062;--d3:#d3a5c6;--d4:#8cbccc;--d5:#dc8f98;color-scheme:dark}}
-:root[data-theme="dark"]{--paper:#131d17;--panel:#18251e;--ink:#eee5d2;--muted:#b6aa92;--rule:#33463a;--accent:#dc8f98;--gilt:#d4b062;--cloth:#9cc2a8;--tone:#24352b;--warm-soft:#1f2e25;--d1:#9cc2a8;--d2:#d4b062;--d3:#d3a5c6;--d4:#8cbccc;--d5:#dc8f98;color-scheme:dark}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--paper:#131d17;--panel:#18251e;--ink:#eee5d2;--muted:#b6aa92;--rule:#33463a;--accent:#dc8f98;--gilt:#d4b062;--cloth:#9cc2a8;--tone:#24352b;--warm-soft:#1f2e25;--d1:#9cc2a8;--d2:#d4b062;--d3:#d3a5c6;--d4:#8cbccc;--d5:#dc8f98;--gilt-ink:#d4b062;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#131d17;--panel:#18251e;--ink:#eee5d2;--muted:#b6aa92;--rule:#33463a;--accent:#dc8f98;--gilt:#d4b062;--cloth:#9cc2a8;--tone:#24352b;--warm-soft:#1f2e25;--d1:#9cc2a8;--d2:#d4b062;--d3:#d3a5c6;--d4:#8cbccc;--d5:#dc8f98;--gilt-ink:#d4b062;color-scheme:dark}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{background:var(--paper);color:var(--ink);font:19px/1.6 var(--f-body);margin:0;font-variant-numeric:oldstyle-nums;-webkit-font-smoothing:antialiased}
@@ -84,7 +84,7 @@ figure.dia figcaption b{font-style:normal;font-variant-caps:all-small-caps;lette
 .entry{min-width:0;padding:20px 0 22px;border-top:1px solid var(--rule);display:flex;flex-direction:column;gap:8px}
 .entry .eh{display:flex;flex-direction:column}
 .entry h3{font-size:1.45rem;line-height:1.15}
-.entry .yrs{font:italic 1rem var(--f-body);color:var(--gilt)}
+.entry .yrs{font:italic 1rem var(--f-body);color:var(--gilt-ink)}
 .entry .spot{font-size:1.02rem}
 .entry .spot b{font-weight:500;font-variant-caps:all-small-caps;letter-spacing:.1em;color:var(--accent);margin-right:6px}
 .entry .detail{color:var(--muted);font-size:1rem}
@@ -94,9 +94,10 @@ figure.dia figcaption b{font-style:normal;font-variant-caps:all-small-caps;lette
 .entry figure img{display:block;border:1px solid var(--rule)}
 .entry figcaption{font:italic .85rem var(--f-body);color:var(--muted);margin-top:6px}
 .entry figcaption a{color:var(--muted)}
-.hfil{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
-.hchip{font:italic 1rem var(--f-body);color:var(--ink);background:transparent;border:1px solid var(--rule);border-radius:999px;padding:8px 14px;min-height:44px;cursor:pointer}
+.hfil{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
+.hchip{font:italic 1rem var(--f-body);color:var(--ink);background:transparent;border:1px solid var(--gilt);border-radius:999px;padding:8px 14px;min-height:44px;cursor:pointer}
 .hchip:hover{border-color:var(--accent)}
+.hchip:active,.jump a:active,nav.tabs a:active,.closing .go:active{filter:brightness(.85)}
 .hchip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .hchip:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .hintro{text-align:center;color:var(--muted);font-style:italic;max-width:60ch;margin:0 auto}
@@ -147,6 +148,7 @@ figure.dia figcaption b{font-style:normal;font-variant-caps:all-small-caps;lette
 .dia .halo{paint-order:stroke;stroke:var(--tone);stroke-width:4px;stroke-linejoin:round}
 figure.dia .schem{font-style:normal;font-size:.85em;opacity:.8}
 </style>
+<noscript><style>.loading{display:none}</style></noscript>
 <!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){.brand{display:inline-flex;align-items:center;min-height:44px}#foot a{display:inline-block;padding:12px 0}}</style><!-- bft-ux:end --></head>
 <body>
 <header class="mast">
@@ -174,7 +176,7 @@ figure.dia .schem{font-style:normal;font-size:.85em;opacity:.8}
       <div><b>Take a loupe to the pictures.</b>Dots mean a photomechanical reproduction. Lines and a plate mark mean an engraving.</div>
     </div>
   </div>
-  <div id="chapters"><div class="loading" aria-busy="true"><p class="foot-note">Loading the guide&hellip;</p><i></i><i></i><i></i></div><noscript><p class="foot-note">This guide needs JavaScript switched on to show its chapters.</p></noscript></div>
+  <div id="chapters"><div class="loading" aria-busy="true"><p class="foot-note">Loading the guide&hellip;</p><i></i><i></i><i></i></div><noscript><p class="foot-note">The illustrated chapters need JavaScript. Read the <a href="plain.html">text version of the whole guide</a> instead.</p></noscript></div>
   <section class="credits" id="credits" hidden></section>
   <div class="orn" aria-hidden="true"><span>&#10087;</span></div>
   <section class="closing" aria-labelledby="closing-h">
@@ -182,7 +184,7 @@ figure.dia .schem{font-style:normal;font-size:.85em;opacity:.8}
     <p>Bring it to the shop at 800 5th Ave in Antigo. We&rsquo;ll look at it with you and tell you what we see.</p>
     <a class="go" href="../#visit">Hours and directions</a>
   </section>
-  <p class="colophon">Written by The Blessed Fig Tree from general bookbinding, printing and conservation knowledge. Dates are approximate, because practices changed gradually and varied by country.</p>
+  <p class="colophon">Written by The Blessed Fig Tree from general bookbinding, printing and conservation knowledge. Dates are approximate, because practices changed gradually and varied by country. <a href="plain.html">Text-only version</a> for printing or slow connections.</p>
 </main>
 <footer class="wrap" id="foot"></footer>
 <script>
@@ -416,12 +418,14 @@ figure.dia .schem{font-style:normal;font-size:.85em;opacity:.8}
       H2.querySelectorAll('.hline li').forEach(function(li,i){var c=cent(E[i]&&E[i].yearSort);li.dataset.c=c;
         if(c!==lastC){lastC=c;li.insertAdjacentHTML('beforebegin','<li class="hcent" data-c="'+esc(c)+'"><h3>'+esc(c)+'</h3></li>')}});
       document.getElementById('hintro').insertAdjacentHTML('afterend','<p class="hcount" id="hcount" aria-live="polite">'+E.length+' changes, oldest first</p>');
+      setTimeout(function(){try{var t0=new URL(location.href).searchParams.get('theme');var b0=t0&&H2.querySelector('.hchip[data-t="'+t0.replace(/[^a-z0-9_-]/gi,'')+'"]');if(b0)b0.click()}catch(e){}},0);
       H2.querySelectorAll('.hchip').forEach(function(b){b.addEventListener('click',function(){
         var t=b.dataset.t;H2.querySelectorAll('.hchip').forEach(function(x){x.setAttribute('aria-pressed',String(x===b))});
         var shown=0,seen={};H2.querySelectorAll('.hline li:not(.hcent)').forEach(function(li){li.hidden=!!t&&li.dataset.t!==t;if(!li.hidden){shown++;seen[li.dataset.c]=1}});
         H2.querySelectorAll('.hline li.hcent').forEach(function(li){li.hidden=!seen[li.dataset.c]});
         var th=t&&HT[t];document.getElementById('hintro').textContent=th?th.intro:'';
         document.getElementById('hcount').textContent=t?'Showing '+shown+' of '+H.entries.length+' changes':H.entries.length+' changes, oldest first';
+        try{var u=new URL(location.href);if(t)u.searchParams.set('theme',t);else u.searchParams.delete('theme');history.replaceState(null,'',u.pathname+u.search+u.hash)}catch(e){}
       })});
     }
     var HT={};if(H)H.themes.forEach(function(t){HT[t.id]=t});
@@ -451,7 +455,7 @@ figure.dia .schem{font-style:normal;font-size:.85em;opacity:.8}
     })();
     if(used.length){var cr=document.getElementById('credits');cr.hidden=false;cr.innerHTML='<h3>Picture credits</h3>'+used.map(function(m){return'<span>'+esc(m.title||m.caption)+'. '+esc(m.author||'')+'. '+esc(m.license)+'. <a href="'+esc(m.sourceUrl)+'" target="_blank" rel="noopener">Source</a></span>'}).join('')}
     if(location.hash){var t=document.getElementById(location.hash.slice(1));if(t)t.scrollIntoView()}
-  }).catch(function(){document.getElementById('chapters').innerHTML='<p class="foot-note">The guide could not load. Refresh the page to try again.</p>'});
+  }).catch(function(){document.getElementById('chapters').innerHTML='<p class="foot-note">The illustrated guide could not load. Refresh the page to try again, or read the <a href="plain.html">text version</a>.</p>'});
 })();
 </script>
 <!-- bft-family:start --><style>.bft-family{display:block;clear:both;margin:22px 0 0;padding:14px 0 0;border-top:1px solid color-mix(in srgb,currentColor 28%,transparent);color:inherit;font:inherit;text-align:left}.bft-family .bft-h{margin:0;font-weight:700}.bft-family ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:0 20px}.bft-family li{margin:0;padding:0}.bft-family li::before{content:none}.bft-family a{display:inline-flex;align-items:center;min-height:44px;color:inherit;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}.bft-family a[aria-current]{font-weight:700;text-decoration:none}.bft-family .bft-end{margin:4px 0 0}.bft-wrap{max-width:1100px;margin:0 auto;padding:6px 20px 34px;box-sizing:border-box}</style><div class="bft-wrap"><div class="bft-family" role="navigation" aria-label="All Blessed Fig Tree sites"><p class="bft-h">More from The Blessed Fig Tree</p><ul><li><a href="https://www.theblessedfigtree.com/#visit">Visit the bookstore</a></li><li><a href="https://stays.theblessedfigtree.com/">Stay upstairs</a></li><li><a href="https://www.theblessedfigtree.com/manga-guide/">Manga guide for parents</a></li><li><a href="https://www.theblessedfigtree.com/book-guide/" aria-current="page">Book materials guide</a></li><li><a href="https://www.theblessedfigtree.com/foraging/">Foraging Langlade County</a></li><li><a href="https://www.theblessedfigtree.com/almanac/">Antigo Almanac</a></li><li><a href="https://www.theblessedfigtree.com/unwritten/">Play The Unwritten</a></li><li><a href="https://www.theblessedfigtree.com/goose.html">Meet Goose Goose</a></li><li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shirts, stickers and puzzles</a></li><li><a href="https://www.paypal.me/blessedfigtree" target="_blank" rel="noopener">Support the shop on PayPal</a></li></ul><p class="bft-end">Everything on these sites is free. Support helps pay for all of it. Come see us at 800 5th Ave, Antigo, Wisconsin. <a href="https://www.theblessedfigtree.com/#visit">Hours and directions</a></p></div></div><!-- bft-family:end --></body>
