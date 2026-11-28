@@ -16,7 +16,7 @@ SHOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGE = os.path.join(SHOP, 'almanac', 'index.html')
 MAPS = os.path.join(SHOP, 'almanac', 'maps', 'maps.json')
 
-MENU = [('./#shop', 'Shop merch'), ('./#stay', 'Stay upstairs'), ('./#play', 'Play the game'),
+MENU = [('./#shop', 'Shop merch'), ('./#stay', 'Stay upstairs'),
         ('manga-guide/', 'Manga guide for parents'), ('book-guide/', 'Book materials guide'), ('foraging/', 'Foraging'),
         ('almanac/', 'Almanac')]
 
@@ -44,15 +44,15 @@ CSS = r"""
 JS = r"""
 (function(){var m=new Date().getMonth();var seasons=document.querySelectorAll('.am-page');
 document.querySelectorAll('.am-strip').forEach(function(st){var c=st.children[m];if(!c)return;c.classList.add('now');c.setAttribute('aria-current','date');c.title='This month';
- if(c.classList.contains('on')){var sum=st.closest('details').querySelector('summary');
+ var sum0=st.closest('details').querySelector('summary');if(c.classList.contains('on')&&/ in Antigo$/.test(sum0.textContent.trim())){var sum=sum0;
   if(sum&&!sum.querySelector('.am-now-tag')){var t=document.createElement('span');t.className='am-now-tag';t.textContent='Now';
    var first=sum.firstChild;sum.insertBefore(t,first?first.nextSibling:null);}}});
 })();
 """
 
 END = ('<aside class="am-end" aria-label="The end of the almanac"><h2>That is Antigo\'s year</h2>'
-       '<p>Every page here is also hidden somewhere in town in The Unwritten, the free game on this site. '
-       'Find them all and the almanac fills in as you play. <a href="unwritten/">Play the game</a></p></aside>')
+       '<p>Seen a number here that has changed, or one you would like added? Tell us at '
+       '<a href="mailto:owner@theblessedfigtree.com">owner@theblessedfigtree.com</a>, and we will look into it.</p></aside>')
 
 
 def put(s, tag, inner, before=None, after=None):
@@ -85,6 +85,8 @@ def maps_html(entry, maps):
             f'<img src="almanac/maps/{mp["id"]}.webp" width="{w}" height="{h}" loading="lazy" decoding="async" alt="{mp["alt"]}">'
             f'{labels}<span class="mapzoom" aria-hidden="true">Tap to enlarge</span></a>'
             f'<ul class="mapkey">{key}</ul>'
+            + (('<details class="maptable"><summary>The numbers by town</summary><table><thead><tr><th>Place</th><th>Estimate</th><th>Margin of error</th></tr></thead><tbody>'
+                + ''.join(f'<tr><td>{a}</td><td>{b}</td><td>{c}</td></tr>' for a, b, c in mp['table']) + '</tbody></table></details>') if mp.get('table') else '') +
             f'<p class="am-src">Map: {mp["source"]}</p></figure>')
     return ''.join(out)
 
@@ -102,13 +104,15 @@ MAP_CSS = r"""
 .mapzoom{position:absolute;right:8px;bottom:8px;background:#1d3328e6;color:#efe8d8;font:600 13px/1 var(--font-body);padding:7px 10px;border-radius:999px;line-height:1}
 .mapkey{list-style:none;margin:10px 0 4px;padding:0;display:flex;flex-wrap:wrap;gap:6px 18px;font-size:.92rem}
 .mapkey li{display:flex;align-items:center;gap:7px}
+.maptable{margin:6px 0}.maptable summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:center}
+.maptable table{border-collapse:collapse;width:100%;font-size:.92rem}.maptable td,.maptable th{border-bottom:1px solid var(--rule);padding:6px 4px;text-align:left}
 .mapkey i{display:inline-block;width:16px;height:16px;border-radius:3px;flex:none;border:1px solid #0002}
 .mapdlg{border:0;padding:0;max-width:100vw;max-height:100vh;width:100vw;height:100vh;background:#111d17}
 .mapdlg::backdrop{background:#000c}
 .mapdlg .in{width:100%;height:100%;overflow:auto;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y pinch-zoom}
 .mapdlg img{max-width:none;width:max(100%,1400px);height:auto;display:block}
 .mapdlg button{position:fixed;top:12px;right:12px;min-height:44px;min-width:44px;padding:0 16px;border-radius:999px;border:0;background:#efe8d8;color:#1d3328;font:700 15px var(--font-body);cursor:pointer;z-index:2}
-@media (max-width:760px){.mapl{font-size:12px}.mapl-big{font-size:13px}.mapkey{font-size:13px}}
+@media (max-width:760px){.mapl{font-size:13px}.mapl-big{font-size:14px}.mapkey{font-size:13px}}
 """
 
 MAP_JS = r"""

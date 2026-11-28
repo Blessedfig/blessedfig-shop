@@ -1,0 +1,1124 @@
+[
+ {
+  "id": "frost",
+  "entry": "Weather by month",
+  "title": "Where cold air settles first on clear nights",
+  "notice": "On calm, clear nights cold air slides downhill and pools in low spots, so frost comes earlier there and leaves later. This is worked out from the shape of the land, not measured temperatures.",
+  "alt": "Map of Langlade County low spots where cold air pools, estimated from terrain: many small basins in the north and along stream valleys.",
+  "source": "Estimate from USGS 3DEP elevation: ground more than 5 or 10 metres below the average height within 1 km. Not a temperature record.",
+  "key": [
+   {
+    "css": "background:rgb(37,84,140)",
+    "t": "Deep low spots, where frost comes first"
+   },
+   {
+    "css": "background:rgb(125,168,205)",
+    "t": "Low ground"
+   },
+   {
+    "css": "background:rgb(238,233,220)",
+    "t": "Level or higher ground"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "trout",
+  "entry": "Spring in Antigo",
+  "title": "About 226 named trout streams in and around the county",
+  "notice": "Most of the county’s trout water runs through the forested north and east. Check the DNR rules for the stretch you fish; some waters have their own limits.",
+  "alt": "Map of trout streams in Langlade County by regulation category; most are in the north and east.",
+  "source": "Wisconsin DNR, inland trout stream regulations layer (current season). Rules change; the DNR regulations are the authority.",
+  "key": [
+   {
+    "css": "background:rgb(8,81,156);height:5px;border:0",
+    "t": "Bag limit 5 trout, any length"
+   },
+   {
+    "css": "background:rgb(230,85,13);height:5px;border:0",
+    "t": "Bag limit 3 trout, 8 inches or more"
+   },
+   {
+    "css": "background:rgb(122,1,119);height:5px;border:0",
+    "t": "Special rules on that water"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "atv",
+  "entry": "Spring in Antigo",
+  "title": "ATV and UTV routes open May 1",
+  "notice": "Seasonal trails (purple) link a web of town and county roads open to ATVs and UTVs. Some roads carry restrictions, shown in gray.",
+  "alt": "Map of Langlade County ATV and UTV trails and authorized roads, covering most of the county.",
+  "source": "Langlade County, 2024 ATV-UTV trails and roads map. Routes change; check the county’s current map and trail reports.",
+  "key": [
+   {
+    "css": "background:rgb(122,1,119);height:5px;border:0",
+    "t": "Seasonal ATV and UTV trails"
+   },
+   {
+    "css": "background:rgb(230,85,13);height:3px;border:0",
+    "t": "Forest roads open to ATVs"
+   },
+   {
+    "css": "background:rgb(49,130,189);height:3px;border:0",
+    "t": "Town and county roads open to ATVs and UTVs"
+   },
+   {
+    "css": "background:rgb(160,160,160);height:3px;border:0",
+    "t": "Roads with restrictions"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "neighbors",
+  "entry": "The neighbors",
+  "title": "The lake counties to the north draw five times the visitor spending",
+  "notice": "Langlade (outlined) sits between the lake country of Oneida and Vilas and the farm and forest counties to the south. Vilas County ($318.4 million) lies just north of Oneida, beyond this map.",
+  "alt": "Map of direct visitor spending in 2025 for Langlade County and its neighbors; Oneida and Marathon are highest, Langlade in the middle, Forest and Menominee lowest.",
+  "source": "Wisconsin Department of Tourism, county economic impact of tourism, 2025 direct visitor spending. Boundaries: Wisconsin DNR.",
+  "key": [
+   {
+    "css": "background:rgb(239,243,255)",
+    "t": "Under $20 million"
+   },
+   {
+    "css": "background:rgb(189,215,231)",
+    "t": "$20 to $70 million"
+   },
+   {
+    "css": "background:rgb(107,174,214)",
+    "t": "$70 to $100 million"
+   },
+   {
+    "css": "background:rgb(49,130,189)",
+    "t": "$100 to $300 million"
+   },
+   {
+    "css": "background:rgb(8,81,156)",
+    "t": "Over $300 million"
+   }
+  ],
+  "w": 800,
+  "h": 800,
+  "labels": [
+   {
+    "t": "Forest $16M",
+    "x": 69.07694140874209,
+    "y": 23.38883382281798,
+    "k": ""
+   },
+   {
+    "t": "Oneida $314M",
+    "x": 36.87294327246847,
+    "y": 26.633231100456495,
+    "k": ""
+   },
+   {
+    "t": "Menominee $4M",
+    "x": 75.84137013979506,
+    "y": 73.21761933283356,
+    "k": ""
+   },
+   {
+    "t": "Lincoln $76M",
+    "x": 27.951670627235117,
+    "y": 49.96894271050841,
+    "k": ""
+   },
+   {
+    "t": "Langlade $60M",
+    "x": 60.46200651688052,
+    "y": 55.93832627705189,
+    "k": "big"
+   },
+   {
+    "t": "Marathon $298M",
+    "x": 26.423657366116448,
+    "y": 79.43422725320663,
+    "k": ""
+   },
+   {
+    "t": "Shawano $80M",
+    "x": 75.89986088650802,
+    "y": 85.28307558008322,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "seasonal",
+  "entry": "Seasonal homes",
+  "title": "In the northern towns, most homes are cabins and seasonal places",
+  "notice": "The share of homes held for seasonal or recreational use climbs from a few percent in Antigo to most of the housing in the lake and forest towns of the north and east.",
+  "alt": "Map of Langlade County towns by share of homes held for seasonal use: low in Antigo and the south, highest in the northern and eastern towns.",
+  "source": "U.S. Census Bureau, American Community Survey 2020-2024 5-year estimates, tables B25004 and B25001 (seasonal homes as a share of all housing units), by town.",
+  "key": [
+   {
+    "css": "background:rgb(237,248,233)",
+    "t": "Under 10%"
+   },
+   {
+    "css": "background:rgb(186,228,179)",
+    "t": "10 to 25%"
+   },
+   {
+    "css": "background:rgb(116,196,118)",
+    "t": "25 to 40%"
+   },
+   {
+    "css": "background:rgb(49,163,84)",
+    "t": "40 to 60%"
+   },
+   {
+    "css": "background:rgb(0,109,44)",
+    "t": "Over 60%"
+   },
+   {
+    "css": "background:repeating-linear-gradient(135deg,#bbb 0 3px,#fff 3px 6px)",
+    "t": "Striped: margin of error is large, read with care"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   }
+  ],
+  "table": [
+   [
+    "Town of Parrish",
+    "62%",
+    "± 22%"
+   ],
+   [
+    "Town of Elcho",
+    "56%",
+    "± 6%"
+   ],
+   [
+    "Town of Wolf River",
+    "54%",
+    "± 7%"
+   ],
+   [
+    "Town of Upham",
+    "54%",
+    "± 8%"
+   ],
+   [
+    "Town of Summit",
+    "43%",
+    "± 19%"
+   ],
+   [
+    "Town of Langlade",
+    "39%",
+    "± 12%"
+   ],
+   [
+    "Town of Ainsworth",
+    "39%",
+    "± 11%"
+   ],
+   [
+    "Town of Vilas",
+    "30%",
+    "± 15%"
+   ],
+   [
+    "Town of Peck",
+    "22%",
+    "± 9%"
+   ],
+   [
+    "Village of White Lake",
+    "18%",
+    "± 10%"
+   ],
+   [
+    "Town of Ackley",
+    "17%",
+    "± 10%"
+   ],
+   [
+    "Town of Price",
+    "16%",
+    "± 12%"
+   ],
+   [
+    "Town of Evergreen",
+    "13%",
+    "± 9%"
+   ],
+   [
+    "Town of Neva",
+    "11%",
+    "± 6%"
+   ],
+   [
+    "Town of Norwood",
+    "10%",
+    "± 7%"
+   ],
+   [
+    "Town of Rolling",
+    "6%",
+    "± 6%"
+   ],
+   [
+    "Town of Antigo",
+    "5%",
+    "± 4%"
+   ],
+   [
+    "Town of Polar",
+    "2%",
+    "± 3%"
+   ],
+   [
+    "City of Antigo",
+    "1%",
+    "± 1%"
+   ]
+  ]
+ },
+ {
+  "id": "people",
+  "entry": "The town in numbers",
+  "title": "19,491 people, and where they live",
+  "notice": "Antigo holds about four in ten county residents. Elsewhere people cluster around lakes and along the highways; the county forest in the north is almost empty.",
+  "alt": "Dot-density map of Langlade County population from the 2020 Census: dense in Antigo, sparse in the northern forest, clusters around lakes.",
+  "source": "U.S. Census Bureau, 2020 Census redistricting data by census block (P.L. 94-171), TIGER/Line 2020 blocks.",
+  "key": [
+   {
+    "css": "background:rgb(122,1,119);border-radius:50%;width:8px;height:8px",
+    "t": "One dot = 5 people (2020 Census, placed at random within each block)"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "age",
+  "entry": "People over time",
+  "title": "The lake towns are the oldest; Antigo and the farm towns are younger",
+  "notice": "Half the people in each town are older than the age shown. Retirees in the lake country push the northern towns’ middle age past 55.",
+  "alt": "Map of median age by town in Langlade County: youngest in Antigo and the farm towns, oldest in the northern lake towns.",
+  "source": "U.S. Census Bureau, American Community Survey 2020-2024 5-year estimates, table B01002 (median age), by town.",
+  "key": [
+   {
+    "css": "background:rgb(254,237,222)",
+    "t": "Under 42"
+   },
+   {
+    "css": "background:rgb(253,190,133)",
+    "t": "42 to 48"
+   },
+   {
+    "css": "background:rgb(253,141,60)",
+    "t": "48 to 54"
+   },
+   {
+    "css": "background:rgb(230,85,13)",
+    "t": "54 to 60"
+   },
+   {
+    "css": "background:rgb(166,54,3)",
+    "t": "Over 60"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   }
+  ],
+  "table": [
+   [
+    "Town of Upham",
+    "61.3",
+    "± 3.0"
+   ],
+   [
+    "Town of Wolf River",
+    "61.1",
+    "± 4.4"
+   ],
+   [
+    "Town of Summit",
+    "59.8",
+    "± 12.1"
+   ],
+   [
+    "Town of Elcho",
+    "59.0",
+    "± 2.3"
+   ],
+   [
+    "Town of Vilas",
+    "57.1",
+    "± 5.0"
+   ],
+   [
+    "Town of Parrish",
+    "54.5",
+    "± 14.3"
+   ],
+   [
+    "Town of Ainsworth",
+    "54.2",
+    "± 8.5"
+   ],
+   [
+    "Village of White Lake",
+    "53.8",
+    "± 5.3"
+   ],
+   [
+    "Town of Langlade",
+    "51.0",
+    "± 7.9"
+   ],
+   [
+    "Town of Evergreen",
+    "49.5",
+    "± 6.4"
+   ],
+   [
+    "Town of Polar",
+    "48.7",
+    "± 7.9"
+   ],
+   [
+    "Town of Antigo",
+    "45.8",
+    "± 9.8"
+   ],
+   [
+    "Town of Neva",
+    "45.4",
+    "± 6.6"
+   ],
+   [
+    "City of Antigo",
+    "44.9",
+    "± 3.6"
+   ],
+   [
+    "Town of Peck",
+    "44.8",
+    "± 8.5"
+   ],
+   [
+    "Town of Norwood",
+    "44.7",
+    "± 5.3"
+   ],
+   [
+    "Town of Rolling",
+    "41.9",
+    "± 5.6"
+   ],
+   [
+    "Town of Ackley",
+    "41.1",
+    "± 9.8"
+   ],
+   [
+    "Town of Price",
+    "37.5",
+    "± 15.5"
+   ]
+  ]
+ },
+ {
+  "id": "income",
+  "entry": "What households earn",
+  "title": "Households in Antigo earn less than in most of the towns around it",
+  "notice": "These are survey estimates. Small towns have few households in the sample, so many margins of error are wide (striped); read the numbers by town with care.",
+  "alt": "Map of median household income by town in Langlade County, with stripes on towns whose estimates have a wide margin of error.",
+  "source": "U.S. Census Bureau, American Community Survey 2020-2024 5-year estimates, table B19013 (median household income in 2024 dollars), by town.",
+  "key": [
+   {
+    "css": "background:rgb(239,243,255)",
+    "t": "Under $45,000"
+   },
+   {
+    "css": "background:rgb(189,215,231)",
+    "t": "$45,000 to $55,000"
+   },
+   {
+    "css": "background:rgb(107,174,214)",
+    "t": "$55,000 to $65,000"
+   },
+   {
+    "css": "background:rgb(49,130,189)",
+    "t": "$65,000 to $75,000"
+   },
+   {
+    "css": "background:rgb(8,81,156)",
+    "t": "Over $75,000"
+   },
+   {
+    "css": "background:repeating-linear-gradient(135deg,#bbb 0 3px,#fff 3px 6px)",
+    "t": "Striped: margin of error is large, read with care"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   }
+  ],
+  "table": [
+   [
+    "Town of Price",
+    "$107,500",
+    "± $25,136"
+   ],
+   [
+    "Town of Antigo",
+    "$95,571",
+    "± $13,012"
+   ],
+   [
+    "Town of Rolling",
+    "$95,239",
+    "± $7,724"
+   ],
+   [
+    "Town of Upham",
+    "$83,625",
+    "± $16,225"
+   ],
+   [
+    "Town of Neva",
+    "$81,731",
+    "± $10,631"
+   ],
+   [
+    "Town of Ackley",
+    "$80,000",
+    "± $13,209"
+   ],
+   [
+    "Town of Norwood",
+    "$79,821",
+    "± $16,748"
+   ],
+   [
+    "Town of Ainsworth",
+    "$78,194",
+    "± $28,219"
+   ],
+   [
+    "Town of Polar",
+    "$76,458",
+    "± $14,418"
+   ],
+   [
+    "Town of Parrish",
+    "$73,750",
+    "± $37,074"
+   ],
+   [
+    "Town of Langlade",
+    "$71,250",
+    "± $8,643"
+   ],
+   [
+    "Town of Peck",
+    "$65,625",
+    "± $12,130"
+   ],
+   [
+    "Town of Vilas",
+    "$65,417",
+    "± $22,916"
+   ],
+   [
+    "Town of Evergreen",
+    "$55,385",
+    "± $14,541"
+   ],
+   [
+    "Village of White Lake",
+    "$52,917",
+    "± $18,713"
+   ],
+   [
+    "Town of Elcho",
+    "$50,192",
+    "± $6,709"
+   ],
+   [
+    "Town of Wolf River",
+    "$47,500",
+    "± $14,548"
+   ],
+   [
+    "City of Antigo",
+    "$45,520",
+    "± $5,836"
+   ],
+   [
+    "Town of Summit",
+    "$42,500",
+    "± $24,940"
+   ]
+  ]
+ },
+ {
+  "id": "jobs",
+  "entry": "Who works here",
+  "title": "71 percent of the county’s jobs are inside Antigo",
+  "notice": "Jobs are more concentrated than homes: Antigo has about four in ten of the county’s residents but about seven in ten of its jobs.",
+  "alt": "Map of where jobs are located in Langlade County, by census block: large circles in Antigo, small scattered circles elsewhere.",
+  "source": "U.S. Census Bureau, LEHD Origin-Destination Employment Statistics (LODES 8), workplace area characteristics, 2022. Counts are rounded and noise-protected by the Census Bureau.",
+  "key": [
+   {
+    "css": "background:rgb(230,85,13);border-radius:50%;width:10px;height:10px",
+    "t": "Circle size = number of jobs at that block (biggest about 496)"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "value",
+  "entry": "What the town is worth",
+  "title": "Downtown earns the most tax value per acre",
+  "notice": "Measured per acre, the blocks of downtown and the older neighborhoods around it carry far more taxable value than the newer edges of town. Each hexagon averages every taxable parcel in it.",
+  "alt": "Map of taxable value per acre in and around Antigo in 150-metre hexagons: highest downtown and in the older grid of streets, lowest at the edges.",
+  "source": "Wisconsin statewide parcels (V12), 2025 assessed land and improvement values, averaged over 150 m hexagons. Assessed values, not equalized; no single property is shown.",
+  "key": [
+   {
+    "css": "background:rgb(255,255,204)",
+    "t": "Under $10,000 an acre"
+   },
+   {
+    "css": "background:rgb(161,218,180)",
+    "t": "$10,000 to $50,000"
+   },
+   {
+    "css": "background:rgb(65,182,196)",
+    "t": "$50,000 to $150,000"
+   },
+   {
+    "css": "background:rgb(34,94,168)",
+    "t": "$150,000 to $400,000"
+   },
+   {
+    "css": "background:rgb(12,44,132)",
+    "t": "Over $400,000 an acre"
+   },
+   {
+    "css": "background:rgb(200,196,188)",
+    "t": "Tax-exempt (parks, schools, churches, public land)"
+   }
+  ],
+  "w": 800,
+  "h": 733,
+  "labels": [
+   {
+    "t": "Downtown",
+    "x": 59.20967895870854,
+    "y": 42.598724044663015,
+    "k": "town"
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "elevation",
+  "entry": "The Antigo flats",
+  "title": "Antigo sits on a high, flat plain ringed by hills",
+  "notice": "The flat, even colour around Antigo is the outwash plain the glacier’s meltwater laid down; the bumpier ground around it is moraine. The land drops toward the Wolf River in the east.",
+  "alt": "Shaded relief and elevation map of Langlade County: a flat plain around Antigo at about 1,500 feet, hillier moraines around it, lower ground in the east along the Wolf River.",
+  "source": "U.S. Geological Survey 3DEP elevation (1 arc-second).",
+  "key": [
+   {
+    "css": "background:rgb(63,125,96)",
+    "t": "Below 1,250 ft"
+   },
+   {
+    "css": "background:rgb(130,168,110)",
+    "t": "1,250 to 1,400 ft"
+   },
+   {
+    "css": "background:rgb(205,196,140)",
+    "t": "1,400 to 1,550 ft"
+   },
+   {
+    "css": "background:rgb(196,152,98)",
+    "t": "1,550 to 1,700 ft"
+   },
+   {
+    "css": "background:rgb(150,104,76)",
+    "t": "Above 1,700 ft"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "soilcrops",
+  "entry": "The Antigo flats",
+  "title": "The potato fields sit on the state soil",
+  "notice": "Antigo silt loam, Wisconsin’s state soil, covers the flats around the city. About 60 percent of the land mapped in potato or vegetable rotation lies on it.",
+  "alt": "Map overlapping Antigo silt loam soil with cropland: the soil forms a broad patch around Antigo, and most potato and vegetable fields fall inside it.",
+  "source": "USDA NRCS Soil Survey of Langlade County (SSURGO); Wisconsin DNR Wiscland 2.0 crop rotation classes (2010-2014).",
+  "key": [
+   {
+    "css": "background:rgb(166,54,3)",
+    "t": "Potato or vegetable rotation on Antigo silt loam"
+   },
+   {
+    "css": "background:rgb(253,141,60)",
+    "t": "Other crops on Antigo silt loam"
+   },
+   {
+    "css": "background:rgb(253,208,162)",
+    "t": "Antigo silt loam, not cropped"
+   },
+   {
+    "css": "background:rgb(156,140,180)",
+    "t": "Crops on other soils"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "ownership",
+  "entry": "Woods and water",
+  "title": "About 35 percent of the county is public land",
+  "notice": "The county forest is the big green band across the middle and north; the national forest sits on the eastern edge. Most land near Antigo is private.",
+  "alt": "Map of who owns Langlade County land: a large county forest across the middle and north, national forest in the east, private land around Antigo.",
+  "source": "Wisconsin statewide tax parcels (V12, 2025 tax roll) and Managed Forest Law listings, Wisconsin DNR. No owner names are shown.",
+  "key": [
+   {
+    "css": "background:rgb(47,125,58)",
+    "t": "County forest (open to the public)"
+   },
+   {
+    "css": "background:rgb(138,106,32)",
+    "t": "National forest"
+   },
+   {
+    "css": "background:rgb(42,109,176)",
+    "t": "State land (DNR)"
+   },
+   {
+    "css": "background:rgb(154,160,160)",
+    "t": "Private forest open for walking (MFL open)"
+   },
+   {
+    "css": "background:rgb(106,79,176)",
+    "t": "Other public or tribal land"
+   },
+   {
+    "css": "background:rgb(205,196,176)",
+    "t": "Private forest, closed (MFL closed)"
+   },
+   {
+    "css": "background:rgb(236,231,219)",
+    "t": "Other private land"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ },
+ {
+  "id": "landcover",
+  "entry": "Woods and water",
+  "title": "Mostly woods, with farmland on the flats around Antigo",
+  "notice": "Forest covers most of the county. The cropland is concentrated on the flat ground around Antigo and to the south and east; swamps follow the low ground in the north.",
+  "alt": "Map of Langlade County land cover: forest across most of the county, cropland on the flats around Antigo, forested wetlands in the north.",
+  "source": "Wisconsin DNR and UW-Madison, Wiscland 2.0 land cover (imagery 2010-2014).",
+  "key": [
+   {
+    "css": "background:rgb(61,107,79)",
+    "t": "Upland forest"
+   },
+   {
+    "css": "background:rgb(118,156,150)",
+    "t": "Forested wetland (swamp)"
+   },
+   {
+    "css": "background:rgb(169,196,181)",
+    "t": "Open wetland and shrub swamp"
+   },
+   {
+    "css": "background:rgb(214,170,82)",
+    "t": "Cropland"
+   },
+   {
+    "css": "background:rgb(226,214,150)",
+    "t": "Hay, pasture and grass"
+   },
+   {
+    "css": "background:rgb(120,110,110)",
+    "t": "Towns and roads"
+   },
+   {
+    "css": "background:rgb(156,195,213)",
+    "t": "Lakes and rivers"
+   }
+  ],
+  "w": 1000,
+  "h": 792,
+  "labels": [
+   {
+    "t": "White Lake",
+    "x": 83.8224388328656,
+    "y": 66.96774628374591,
+    "k": ""
+   },
+   {
+    "t": "Antigo",
+    "x": 34.789502368226394,
+    "y": 71.88341129007745,
+    "k": "town"
+   },
+   {
+    "t": "Summit Lake",
+    "x": 27.86924283957178,
+    "y": 18.217993479318743,
+    "k": ""
+   },
+   {
+    "t": "Elcho",
+    "x": 29.610458402879043,
+    "y": 5.893667610734226,
+    "k": ""
+   },
+   {
+    "t": "Post Lake",
+    "x": 42.33999188420401,
+    "y": 7.138280253661931,
+    "k": ""
+   }
+  ],
+  "table": null
+ }
+]

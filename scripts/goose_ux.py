@@ -18,7 +18,8 @@ import os, re
 SHOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGE = os.path.join(SHOP, 'goose.html')
 
-NAMES = {'Visit &amp; hours': 'Visit', 'Play The Unwritten': 'Play the game', 'Manga guide': 'Manga guide for parents'}
+NAMES = {'Visit &amp; hours': 'Visit', 'Manga guide': 'Manga guide for parents'}
+DROP = ['<li><a href="unwritten/">Play the game</a></li>', '<li><a href="unwritten/">Play The Unwritten</a></li>']  # the game is not ready yet (Nov 27)
 
 GROUPS = {'#profile': 'Goose Goose', '#species': 'Real geese', '#domestic': 'Geese and people', '#faq': 'Play'}
 
@@ -90,6 +91,8 @@ def main():
     bar = m.group(0)
     for a, b in NAMES.items():
         bar = bar.replace(f'>{a}</a>', f'>{b}</a>')
+    for x in DROP:
+        bar = re.sub(r'\s*' + re.escape(x), '', bar)
     s = s[:m.start()] + bar + s[m.end():]
     # Miller: label the four groups of section links
     m = re.search(r'(<nav class="nav" aria-label="Sections">)(.*?)(</nav>)', s, re.S)
