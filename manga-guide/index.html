@@ -544,7 +544,61 @@ input[type=search],select{border:1px solid var(--line);border-radius:10px;backgr
 </style>
 <link rel="stylesheet" href="/helper/helper.css">
 <script src="/helper/helper.js" defer></script>
-<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){.brand{display:inline-flex;align-items:center;min-height:44px}#foot a{display:inline-block;padding:12px 0}}</style><!-- bft-ux:end --></head>
+<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){.brand{display:inline-flex;align-items:center;min-height:44px}#foot a{display:inline-block;padding:12px 0}}</style><!-- bft-ux:end --><!-- manga-ux:start --><style>
+.whatis{margin:12px 0 0;max-width:60ch;color:var(--ink)}
+.whatis a{font-weight:700;color:var(--fig,#6d3a5f)}
+.mload{max-width:60ch;margin:8px 0 28px}
+.mload h1{margin:0 0 10px}
+.mload .bar{height:10px;border-radius:999px;background:var(--rule,#e2d9c8);overflow:hidden;margin:18px 0 6px}
+.mload .bar i{display:block;height:100%;width:2%;background:var(--fig,#6d3a5f);transition:width .2s}
+.mload .note{margin:0}
+.about h2{margin-top:28px}.about h3{margin:22px 0 6px;font-size:1.05rem}
+.ab-list{padding-left:1.2em}.ab-list li{margin:.5em 0}
+.ab-terms{margin:0;display:grid;grid-template-columns:minmax(120px,12em) 1fr;gap:8px 18px}
+.ab-terms dt{font-weight:700}.ab-terms dd{margin:0}
+@media (max-width:620px){.ab-terms{grid-template-columns:1fr;gap:2px}.ab-terms dd{margin-bottom:10px}}
+.mshelf{margin:40px auto 0;padding:20px 22px;border-radius:14px;background:var(--fig,#6d3a5f);color:#fffdf8;max-width:1100px}
+.mshelf h2{margin:0 0 6px;color:inherit}.mshelf p{margin:0;max-width:62ch}.mshelf a{color:#ffe7a8;font-weight:700}
+@media (pointer:coarse),(max-width:760px){
+ a.back{min-width:44px;justify-content:center;display:inline-flex;align-items:center}
+ .whatis a,.ab-list a,.about p a{display:inline-block;padding:10px 0;margin:-10px 0}
+}
+@media (max-width:760px){
+ span.tp,.brand small,label.trad,.sel label,.eyebrow,.find label{font-size:13px!important}
+ .mshelf{margin:32px 14px 0}
+}
+</style><script>
+window.mnorm = function (t) { return String(t || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, ' ').trim(); };
+(function () {
+  window.MSLIM = true;
+  window.MRENDER = function () {
+    if (!window.MPHASE2) { render(); return; }
+    var a = document.activeElement;
+    if (a && a.closest && a.closest('#app') && /INPUT|SELECT|TEXTAREA/.test(a.tagName)) { a.addEventListener('blur', function () { window.MRENDER(); }, {once: true}); return; }
+    var y = window.scrollY; render(); window.scrollTo(0, y);
+  };
+  var T = {"data.slim.json":13677619,"realign.slim.json":7379009}, got = {}, tot = 0, k;
+  for (k in T) tot += T[k];
+  var of = window.fetch;
+  function upd() { var g = 0; for (var k in got) g += got[k]; var p = Math.max(2, Math.min(99, Math.round(g / tot * 100)));
+    var b = document.getElementById('mload-bar'), t = document.getElementById('mload-pct');
+    if (b) b.style.width = p + '%'; if (t) t.textContent = p + '%'; }
+  window.fetch = function (u, o) {
+    var name = String(u).split('?')[0].split('/').pop();
+    if (window.MSLIM && (name === 'data.json' || name === 'realign.json')) { name = name.replace('.json', '.slim.json'); u = name; }
+    else return of.apply(this, arguments);
+    if (!window.ReadableStream || !window.Response) return of.call(this, u, o);
+    return of.call(this, u, o).then(function (r) {
+      if (!r.ok || !r.body || !r.body.getReader) return r;
+      var rd = r.body.getReader(), parts = []; got[name] = 0;
+      function pump() { return rd.read().then(function (x) {
+        if (x.done) return new Response(new Blob(parts), {status: r.status, statusText: r.statusText, headers: {'Content-Type': 'application/json'}});
+        parts.push(x.value); got[name] += x.value.length; upd(); return pump(); }); }
+      return pump();
+    });
+  };
+})();
+</script><script src="about.js" defer></script><!-- manga-ux:end --></head>
 <body>
 
 
@@ -556,6 +610,7 @@ input[type=search],select{border:1px solid var(--line);border-radius:10px;backgr
       <a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shop</a>
       <a href="#start" data-view="start">Find manga</a>
       <details class="menu" id="menu"><summary data-view-group="explore">Explore</summary><div class="menu-list">
+<a href="#about" data-view="about">About this guide</a>
         <a href="#popular" data-view="popular">Popular manga</a>
         <a href="#browse" data-view="browse">All manga, with filters</a>
         <a href="#ideas" data-view="ideas">By philosophy</a>
@@ -566,8 +621,8 @@ input[type=search],select{border:1px solid var(--line);border-radius:10px;backgr
     </nav>
   </div>
 </header>
-<main class="wrap" id="app"><p class="empty">Loading the catalog…</p></main>
-<footer class="wrap" id="foot"></footer>
+<main class="wrap" id="app"><!-- manga-ux-load:start --><div class="mload" role="status"><h1>What is your kid reading, and what does it teach?</h1><p class="lede">A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, graded S to F from your own tradition's view.</p><p class="whatis">Manga are Japanese comics, usually read right to left and collected in paperback volumes. Each one is described here in the same neutral words for everyone; your tradition only changes the grade. <a href="#about">What manga is, and what this guide is for</a></p><div class="bar" aria-hidden="true"><i id="mload-bar"></i></div><p class="note">Loading more than 3,000 manga and their grades: <span id="mload-pct">0%</span>. The first visit takes a little while on a phone; after that it opens quickly.</p></div><!-- manga-ux-load:end --></main>
+<!-- manga-ux-shelf:start --><aside class="mshelf" aria-label="Find them on the shelf"><h2>Find them on the shelf</h2><p>The Blessed Fig Tree, 800 5th Ave, Antigo, carries the largest manga selection in North and Central Wisconsin. Bring a list from this guide, or ask us about any series. <a href="../#visit">Hours and directions</a></p></aside><!-- manga-ux-shelf:end --><footer class="wrap" id="foot"></footer>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.1.6/purify.min.js"></script>
@@ -622,7 +677,7 @@ function renameData(d) {
   return d;
 }
 // Nov 25: new lenses and traditions (realign.json) are layered over data.json at load time; data.json itself is untouched.
-const RALIGN = fetch('realign.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
+let RALIGN = fetch('realign.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
 function applyRealign(d, a) {
   if (!a || !a.series) return d;
   const retire = new Set(a.retire_lenses || []);
@@ -828,11 +883,11 @@ function card(s, fit) {
 const findBox = () => `<div class="find"><label for="find" class="eyebrow">Have a title in mind?</label><input id="find" type="search" autocomplete="off" placeholder="Search a manga, e.g. Naruto" value="${esc(state.find||'')}"><div id="findres" class="findres"></div></div>`;
 function findResults(q) {
   q = (q||'').trim().toLowerCase(); if (q.length < 2) return '';
-  const hits = ALL.filter(s => !isHidden(s) || state.adult).filter(s => [s.title, s.romaji, s.native].some(x => (x||'').toLowerCase().includes(q))).sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).slice(0, 6);
+  const hits = ALL.filter(s => !isHidden(s) || state.adult).filter(s => { const w = mnorm(q).split(' ').filter(Boolean), t = mnorm([s.title, s.romaji, s.native].join(' ')); return (w.length && w.every(x => t.includes(x))) || (s.native||'').includes(q); }).sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).slice(0, 6);
   if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
   return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${coverImg(s, 'cover sm')}${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
 }
-const EXPLORE = [['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#deep','Family match quiz','Answer a few questions (or all of them) and get manga ranked for your family.'],['#explained','Glossary','Every tradition, philosophy and culture in plain words.'],['#method','How we grade','What the grades, age bands and labels mean.']];
+const EXPLORE = [['#about','About this guide','What manga is, the culture around it, the main terms, and what this guide is for.'],['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#deep','Family match quiz','Answer a few questions (or all of them) and get manga ranked for your family.'],['#explained','Glossary','Every tradition, philosophy and culture in plain words.'],['#method','How we grade','What the grades, age bands and labels mean.']];
 const exploreCards = () => `<section class="stack" style="gap:10px"><h2>More ways to explore</h2><div class="explore">${EXPLORE.map(([h,t,d])=>`<a href="${h}"><strong>${t}</strong><span>${d}</span></a>`).join('')}</div></section>`;
 function shelf() {
   const band = pickedBand() || '10+', p = state.profile;
@@ -865,7 +920,7 @@ function viewStart() {
   const p = state.profile, pool = startPool(); SHOWN = new Set();
   const ages = [['', 'Every age'], ...AGES.map(([a]) => [a, a])];
   let h = `<div class="stack" style="gap:32px"><section class="hero slim"><div class="hero-grid"><div class="intro"><h1>What is your kid reading, and what does it teach?</h1>
-    <p class="lede">A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, graded S to F from your own tradition's view.</p></div>
+    <p class="lede">A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, graded S to F from your own tradition's view.</p><p class="whatis">Manga are Japanese comics, usually read right to left and collected in paperback volumes. Each one is described here in the same neutral words for everyone; your tradition only changes the grade. <a href="#about">What manga is, and what this guide is for</a></p></div>
     <figure class="mhero"><img src="../img/manga_hero.webp" width="720" height="603" alt="Three manga-style kids and a white goose cheering, holding books" fetchpriority="high"></figure></div>
     <div class="finder"><div class="sel"><label for="profile" class="trad">Your tradition${profileSelect('profile', p)}</label>
     <label for="agesel">Reader's age<select id="agesel">${ages.map(([v,l])=>`<option value="${esc(v)}" ${(state.age||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label></div>
@@ -1239,7 +1294,7 @@ async function loadMd(slug) {
   try { const t = await (await fetch(`entries/${slug}.md`)).text(); el.innerHTML = DOMPurify.sanitize(marked.parse(t)); el.querySelectorAll('a').forEach(a=>{a.target='_blank';a.rel='noopener'}); }
   catch (err) { el.innerHTML = '<p class="empty">The full entry could not load. Reload the page to try again.</p>'; }
 }
-function render() {
+function render() { if (!D) { if (location.hash === '#about' && window.viewAbout) $('#app').innerHTML = viewAbout(); return; }
   D.series = state.adult ? ALL : ALL.filter(x=>!isHidden(x));
   const h = location.hash.slice(1) || 'start'; let html, view = h, md = null;
   if (h.startsWith('s-') || h.startsWith('e-')) {
@@ -1252,13 +1307,13 @@ function render() {
   else if (h === 'ideas' || h === 'lenses') { html = viewIdeas(); view = 'ideas'; }
   else if (h === 'method' || h.startsWith('method-')) { html = viewMethod(); view = 'method'; }
   else if ((h === 'explained' || h.startsWith('explained-')) && window.viewExplained) { html = viewExplained(); view = 'explained'; }
-  else if (h === 'values') html = viewValues();
+  else if (h === 'about' && window.viewAbout) { html = viewAbout(); view = 'about'; } else if (h === 'values') html = viewValues();
   else if (h === 'deep' && window.viewDeep) html = viewDeep();
   else if (h === 'popular') html = viewPopular();
   else { html = viewStart(); view = 'start'; }
   $('#app').innerHTML = html;
   document.querySelectorAll('nav.tabs a').forEach(a=>{ if (a.dataset.view===view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
-  const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','deep','explained','method'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
+  const menu = $('#menu'); if (menu) { menu.open = false; const sm = menu.querySelector('summary'); if (['popular','browse','ideas','values','deep','explained','method','about'].includes(view) && !h.startsWith('s-') && !h.startsWith('e-')) sm.setAttribute('aria-current','page'); else sm.removeAttribute('aria-current'); }
   if (md) loadMd(md);
   if (view === 'series' || view === 'method') { const had = !!R, cur = view === 'series' && CUR?.entry ? CUR : null;
     loadReasons().then(d => { if (!d || location.hash.slice(1) !== h) return;
@@ -1306,10 +1361,11 @@ document.addEventListener('click', e=>{ const m=$('#menu'); if (m && m.open && !
 fetch('previews.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).then(p => { PV = p || {}; if (D && /^#[se]-/.test(location.hash)) { const y = scrollY; render(); scrollTo(0, y); } }).catch(() => {});
 const OLOAD = fetch('outlook.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : {}).catch(() => ({}));
 const TLOAD = fetch('technopuritan.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null);
-fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d => RALIGN.then(a => applyRealign(d, a))).then(renameData).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
+function LOADCAT() { return fetch('data.json', {cache: 'no-cache'}).then(r=>r.json()).then(d => RALIGN.then(a => applyRealign(d, a))).then(renameData).then(d => OLOAD.then(o => { const O = (o && o.series) || {};
   d.series.forEach(s => { const e = s.entry; if (!e) return; const x = s._ol || O[s.id ? String(s.id) : 'e-' + e.slug]; if (!x) return; s.outlook = x.o; s.hope = x.hope; s.hopeEst = !x.hh; if (!e.life_message && x.msg) e.life_message = x.msg; }); return d; })).then(d => TLOAD.then(t => { if (t) d.series.forEach(s => { const e = s.entry; if (!e) return; const x = t.grades[s.id ? String(s.id) : 'e-' + e.slug]; if (x && !e.frames.some(f => f.frame === t.name)) e.frames.unshift(x); }); return d; })).then(d=>{ D=d; ALL=d.series; setGroups(d.groups); if (state.profile && !GROUPS.flatMap(g=>g[1]).includes(state.profile)) state.profile='';
-  $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · <a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shop shirts, stickers and puzzles</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; render(); })
-  .catch(()=>{ $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; });
+  $('#foot').innerHTML = `<a href="../">The Blessed Fig Tree</a> · <a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shop shirts, stickers and puzzles</a> · Preview build ${esc(d.built)}. Neutral descriptions for every family; your choice only changes grades and order. Data: AniList, MangaUpdates, MangaDex, Wikipedia.`; MRENDER(); })
+  .catch(()=>{ if (window.MPHASE2) return; $('#app').innerHTML = '<p class="empty">The catalog could not load. Reload the page to try again.</p>'; }); }
+LOADCAT().then(() => { if (!window.MSLIM) return; const FULL = /^#(s-|e-|method)/; const go = () => { if (!window.MSLIM) return; window.MSLIM = false; window.MPHASE2 = true; RALIGN = fetch('realign.json', {cache: 'no-cache'}).then(r => r.ok ? r.json() : null).catch(() => null); RLOAD = null; R = null; return LOADCAT(); }; if ((navigator.connection || {}).saveData && !FULL.test(location.hash)) { const h = () => { if (FULL.test(location.hash)) { window.removeEventListener('hashchange', h); go(); } }; window.addEventListener('hashchange', h); return; } return go(); });
 </script>
 <script src="deep.js"></script>
 <script src="explained.js"></script>
