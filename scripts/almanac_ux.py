@@ -89,6 +89,8 @@ def glance_html(counts):
             '<span class="mapzoom" aria-hidden="true">Tap to enlarge</span></a>'
             '<figcaption><i style="background:#3d6b4f"></i>Forest <i style="background:#769c96"></i>Swamp <i style="background:#d6aa52"></i>Cropland '
             '<i style="background:#9cc3d5"></i>Water <i style="background:#b0502a"></i>Antigo</figcaption></figure>'
+            '<div class="gl-live"><button type="button" class="gl-livebtn" data-src="https://maps.google.com/maps?q=Langlade%20County%2C%20Wisconsin&amp;t=k&amp;z=9&amp;ie=UTF8&amp;output=embed">Open a live Google map (satellite view)</button>'
+            '<p class="gl-livenote">Loads Google Maps only when you tap. Google runs it and sets its own cookies.</p></div>'
             '<div class="gl-stats">' + stats + '</div></div>'
             '<h2 class="gl-h2">Four parts</h2><div class="gl-parts">' + cards + '</div>'
             '<figure class="gl-court"><img src="almanac/img/courthouse.webp" width="720" height="480" alt="The red sandstone Langlade County Courthouse in Antigo, with its clock tower" loading="lazy" decoding="async">'
@@ -105,7 +107,10 @@ GLANCE_CSS = r"""
 .gl-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:20px;align-items:start}
 .gl-map{margin:0}.gl-map figcaption{display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center;font-size:.92rem;margin-top:8px}
 .gl-map figcaption i{display:inline-block;width:14px;height:14px;border-radius:3px;margin-right:-8px;border:1px solid #0002}
-.gl-stats{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.gl-live{grid-column:1/2}.gl-livebtn{min-height:44px;padding:0 16px;border-radius:999px;border:1px solid var(--spruce-3);background:var(--sheet);color:var(--spruce);font:700 .95rem var(--font-body);cursor:pointer}
+.gl-livebtn:hover{background:var(--spruce);color:var(--birch)}.gl-livenote{font-size:.85rem;color:var(--muted);margin-top:6px}
+.gl-live iframe{width:100%;height:420px;border:1px solid var(--rule);border-radius:10px;display:block}
+.gl-stats{grid-row:1/3;grid-column:2;display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .gl-stat{display:flex;flex-direction:column;justify-content:center;min-height:92px;padding:12px 14px;background:var(--sheet);border:1px solid var(--rule);border-top:3px solid var(--spruce-3);border-radius:10px;text-decoration:none;color:var(--ink)}
 .gl-stat b{font:600 1.7rem/1.1 var(--font-display);color:var(--spruce)}.gl-stat span{font-size:.95rem;color:var(--muted)}
 .gl-stat:hover{border-top-color:var(--maple)}
@@ -123,16 +128,30 @@ GLANCE_CSS = r"""
 .gl-court figcaption{font-size:.92rem;color:var(--muted);margin-top:6px}
 .gl-credit{font-size:.85rem;color:var(--muted);margin-top:4px}
 .am-photo{margin:0 0 14px}.am-photo img{width:100%;border-radius:10px}.am-photo figcaption{font-size:.88rem;color:var(--muted);margin-top:4px}
-@media (max-width:860px){.gl-grid{grid-template-columns:1fr}.gl-parts{grid-template-columns:1fr 1fr}}
+@media (max-width:860px){.gl-grid{grid-template-columns:1fr}.gl-stats,.gl-live{grid-column:auto;grid-row:auto}.gl-parts{grid-template-columns:1fr 1fr}}
 @media (max-width:760px){.gl-map figcaption,.gl-credit,.gl-pt .gl-n,.gl-num,.am-photo figcaption{font-size:13px}.gl-stat b{font-size:1.45rem}}
 """
 
 GLANCE_JS = r"""
+document.addEventListener('click',function(e){var b=e.target.closest&&e.target.closest('.gl-livebtn');if(!b)return;var f=document.createElement('iframe');
+ f.src=b.getAttribute('data-src');f.title='Live Google map of Langlade County';f.loading='lazy';f.referrerPolicy='no-referrer-when-downgrade';
+ var w=b.parentNode;w.insertBefore(f,b);b.remove();});
 (function(){var m=new Date().getMonth();document.querySelectorAll('.gl-year').forEach(function(y){var c=y.children[m];if(c)c.classList.add('now');});
 document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-open]');if(!a)return;e.preventDefault();var want=a.getAttribute('data-open');
  var d=[].slice.call(document.querySelectorAll('details.am-page')).filter(function(x){var t=x.querySelector('summary');return t&&t.textContent.trim().indexOf(want)===0;})[0];
  if(d){d.open=true;d.scrollIntoView({block:'start'});}});})();
 """
+
+AIR_CREDIT = 'Aerial photo: USDA National Agriculture Imagery Program (NAIP), via USGS, public domain.'
+AERIALS = {
+    'The town in numbers': ('air-downtown', 'Downtown Antigo from the air, about 1.2 miles across.', 'Aerial photo of downtown Antigo: a grid of streets, rooftops and trees, with two ponds to the east'),
+    'The Antigo flats': ('air-potatoes', 'Fields on the flats northeast of Antigo between crops, about 2 miles across. The faint branching lines show where water drains across the fields.',
+                         'Aerial photo of large square fields of bare soil and green crops northeast of Antigo'),
+    'Summer in Antigo': ('air-fair', 'The Langlade County Fairgrounds in Antigo, home of the county fair and the dirt-track races, about 0.9 miles across.',
+                         'Aerial photo of the fairgrounds with an oval race track, barns and parking'),
+    'Woods and water': ('air-wolf', 'The Wolf River winding through forest in the east of the county, about 1 mile across.', 'Aerial photo of a dark river winding through unbroken green forest'),
+    'Seasonal homes': ('air-postlake', 'Homes and cabins along the shore of Upper Post Lake in the north, about 1.9 miles across.', 'Aerial photo of a large dark lake with houses and cabins along its wooded shore'),
+}
 
 ENTRY_PHOTOS = {'Books in Antigo': ('museum', 'The 1905 Carnegie library building on Superior Street, now the historical society museum.',
                                     'The former Antigo public library, now a museum, a brick building with white columns'),
@@ -236,6 +255,15 @@ def main():
         j = s.find('<div class="am-text">', i) + len('<div class="am-text">')
         s = s[:j] + (f'<!-- alm-photo-{slug}:start --><figure class="am-photo"><img src="almanac/img/{img}.webp" width="720" height="480" '
                      f'alt="{alt}" loading="lazy" decoding="async"><figcaption>{cap}</figcaption></figure><!-- alm-photo-{slug}:end -->') + s[j:]
+    # views from above, one per entry, tap to enlarge
+    for entry, (img, cap, alt) in AERIALS.items():
+        slug = re.sub(r'[^a-z0-9]+', '-', entry.lower()).strip('-')
+        s = re.sub(rf'<!-- alm-air-{slug}:start -->.*?<!-- alm-air-{slug}:end -->', '', s, flags=re.S)
+        i = s.find(f'<summary>{entry}</summary>'); assert i >= 0, entry
+        j = s.find('<div class="am-text">', i) + len('<div class="am-text">')
+        s = s[:j] + (f'<!-- alm-air-{slug}:start --><figure class="am-photo am-air"><a class="mapimg" href="almanac/img/{img}@2x.webp" data-big aria-label="Open a larger aerial photo">'
+                     f'<img src="almanac/img/{img}.webp" width="900" height="600" alt="{alt}" loading="lazy" decoding="async"><span class="mapzoom" aria-hidden="true">From above \u00b7 tap to enlarge</span></a>'
+                     f'<figcaption>{cap} {AIR_CREDIT}</figcaption></figure><!-- alm-air-{slug}:end -->') + s[j:]
     # maps, each inside the entry it belongs to (after that entry's text)
     maps = json.load(open(MAPS)) if os.path.exists(MAPS) else []
     s = re.sub(r'<!-- alm-map-[a-z0-9-]+:start -->.*?<!-- alm-map-[a-z0-9-]+:end -->', '', s, flags=re.S)
