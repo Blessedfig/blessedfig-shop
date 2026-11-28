@@ -16,9 +16,9 @@ SHOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGE = os.path.join(SHOP, 'almanac', 'index.html')
 MAPS = os.path.join(SHOP, 'almanac', 'maps', 'maps.json')
 
-MENU = [('./#visit', 'Visit'), ('./#shop', 'Shop merch'), ('./#stay', 'Stay upstairs'), ('./#play', 'Play the game'),
+MENU = [('./#shop', 'Shop merch'), ('./#stay', 'Stay upstairs'), ('./#play', 'Play the game'),
         ('manga-guide/', 'Manga guide for parents'), ('book-guide/', 'Book materials guide'), ('foraging/', 'Foraging'),
-        ('almanac/', 'Almanac'), ('goose.html', 'Meet Goose Goose')]
+        ('almanac/', 'Almanac')]
 
 CSS = r"""
 .am-how{margin:14px 0 0;color:var(--muted);font-size:.95rem}
