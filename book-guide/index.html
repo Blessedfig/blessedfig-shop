@@ -401,16 +401,21 @@ figure.dia .schem{font-style:normal;font-size:.85em;opacity:.8}
     function srcs(o){if(!o.sources||!o.sources.length)return'';return'<span class="hsrc">'+o.sources.map(function(x){var u=typeof x==='string'?x:x.url,t=typeof x==='string'?'':x.title;if(!t){try{t=new URL(u).hostname.replace(/^www\./,'')}catch(e){t='Source'}}return'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(t)+'</a>'}).join(' &middot; ')+'</span>'}
     function historyHTML(H,n){
       var T={};H.themes.forEach(function(t){T[t.id]=t});
-      var E=H.entries.slice().sort(function(a,b){return a.yearSort-b.yearSort}),lastC=null;
+      var E=H.entries.slice().sort(function(a,b){return a.yearSort-b.yearSort});
       return'<section class="ch" id="history"><div class="ch-head"><span class="eyebrow">Chapter '+roman(n)+'</span><h2>How books changed</h2><div class="orn" aria-hidden="true"><span>&#10087;</span></div></div>'+
         '<p class="ch-intro">'+esc(H.intro||'')+'</p>'+
         '<div class="hfil" role="group" aria-label="Show changes by theme"><button type="button" class="hchip" aria-pressed="true" data-t="">All changes</button>'+H.themes.map(function(t){return'<button type="button" class="hchip" aria-pressed="false" data-t="'+esc(t.id)+'">'+esc(t.name)+'</button>'}).join('')+'</div>'+
-        '<p class="hintro" id="hintro"></p><p class="hcount" id="hcount" aria-live="polite">'+E.length+' changes, oldest first</p>'+
-        '<ol class="hline">'+E.map(function(e){var th=T[e.theme]||{},c=cent(e.yearSort),head='';if(c!==lastC){lastC=c;head='<li class="hcent" data-c="'+esc(c)+'"><h3>'+esc(c)+'</h3></li>'}return head+'<li data-t="'+esc(e.theme)+'" data-c="'+esc(c)+'"><span class="hy">'+esc(String(e.year))+'</span><div class="hb"><span class="hth">'+esc(th.name||'')+(e.confidence==='approximate'?' &middot; <i>approximate date</i>':'')+'</span><p class="hev">'+esc(e.event)+'</p>'+(e.onTheShelf?'<p class="value">'+esc(e.onTheShelf)+'</p>':'')+(e.confidence==='conflicting'?'<p class="detail"><i>Sources give slightly different dates for this.</i></p>':'')+srcs(e)+'</div></li>'}).join('')+'</ol></section>';
+        '<p class="hintro" id="hintro"></p>'+
+        '<ol class="hline">'+E.map(function(e){var th=T[e.theme]||{};return'<li data-t="'+esc(e.theme)+'"><span class="hy">'+esc(String(e.year))+'</span><div class="hb"><span class="hth">'+esc(th.name||'')+(e.confidence==='approximate'?' &middot; <i>approximate date</i>':'')+'</span><p class="hev">'+esc(e.event)+'</p>'+(e.onTheShelf?'<p class="value">'+esc(e.onTheShelf)+'</p>':'')+(e.confidence==='conflicting'?'<p class="detail"><i>Sources give slightly different dates for this.</i></p>':'')+srcs(e)+'</div></li>'}).join('')+'</ol></section>';
     }
     function cent(y){y=Math.floor(Number(y));if(!isFinite(y))return'Undated';if(y<1500)return'Before 1500';var c=Math.floor((y-1)/100)+1;return c+(c%10==1&&c!=11?'st':c%10==2&&c!=12?'nd':c%10==3&&c!=13?'rd':'th')+' century'}
     function bindHistory(){
       var H2=document.getElementById('history');if(!H2)return;
+      // Miller: chunk the long timeline by century. Added after render (entries are in yearSort order) so the render template stays untouched.
+      var E=H.entries.slice().sort(function(a,b){return a.yearSort-b.yearSort}),lastC=null;
+      H2.querySelectorAll('.hline li').forEach(function(li,i){var c=cent(E[i]&&E[i].yearSort);li.dataset.c=c;
+        if(c!==lastC){lastC=c;li.insertAdjacentHTML('beforebegin','<li class="hcent" data-c="'+esc(c)+'"><h3>'+esc(c)+'</h3></li>')}});
+      document.getElementById('hintro').insertAdjacentHTML('afterend','<p class="hcount" id="hcount" aria-live="polite">'+E.length+' changes, oldest first</p>');
       H2.querySelectorAll('.hchip').forEach(function(b){b.addEventListener('click',function(){
         var t=b.dataset.t;H2.querySelectorAll('.hchip').forEach(function(x){x.setAttribute('aria-pressed',String(x===b))});
         var shown=0,seen={};H2.querySelectorAll('.hline li:not(.hcent)').forEach(function(li){li.hidden=!!t&&li.dataset.t!==t;if(!li.hidden){shown++;seen[li.dataset.c]=1}});
