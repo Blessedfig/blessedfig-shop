@@ -41,12 +41,39 @@ table{border-collapse:collapse;width:100%;font-size:.92rem;margin:8px 0}td,th{bo
 footer{max-width:920px;margin:0 auto;padding:10px 20px 40px;color:var(--muted);font-size:.85rem}
 ol.refs{font-size:.88rem}ol.refs li{margin:.35em 0}
 </style>
-<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){nav a{display:inline-flex;align-items:center;min-height:44px}li>a{display:inline-block;padding:4px 0}}</style><!-- bft-ux:end --></head>
+<!-- forage-ux:start --><style>
+.fnav{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 0;padding:0}
+.fnav a{display:inline-flex;align-items:center;min-height:36px;padding:0 13px;border:1px solid color-mix(in srgb,currentColor 38%,transparent);border-radius:999px;color:inherit;text-decoration:none;font-size:.9rem;line-height:1.2;white-space:nowrap}
+.fnav a:hover{background:color-mix(in srgb,currentColor 12%,transparent)}
+.fnav a[aria-current]{background:color-mix(in srgb,currentColor 18%,transparent);font-weight:700}
+.fsafe{background:#fbeee7;border:1px solid #e3b8a3;border-radius:10px;padding:10px 14px;margin:12px 0;font-size:.95rem;color:#1f2a24}
+.fsafe a{color:inherit}
+@media (pointer:coarse),(max-width:760px){
+ .fnav a{min-height:44px}
+ .toc a,nav.jump a{display:inline-flex;align-items:center;min-height:44px;min-width:44px;justify-content:center}
+ html body li>a,html body p.cr a,html body footer a,html body .sp b a{display:inline-block;padding:12px 0;margin:-12px 0;min-width:44px}
+ html body .card a.big{display:block;padding:12px 0;margin:-10px 0 -4px}
+ .pin{width:30px!important;height:30px!important;line-height:30px!important;font-size:14px!important}
+}
+@media (max-width:760px){
+ .fnav{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin-right:-20px;padding-right:20px}
+ .fnav::-webkit-scrollbar{display:none}.fnav a{flex:none}
+ .badge,.fx,.ev,span.m,.cr,.cr a,.months,.grade,.bar label,td span[style*="font-size:.8rem"]{font-size:13px!important}
+ .legend,.legend div,.legend span{font-size:13px!important;line-height:1.45!important}
+ .legend i{width:12px!important;height:12px!important}
+ /* map keys start folded on phones: tap "Key" to open */
+ .legend{cursor:pointer;min-height:44px;min-width:44px}
+ .legend:not(.open){padding:0 14px!important;display:flex;align-items:center}
+ .legend:not(.open)>*{display:none!important}
+ .legend:not(.open)::after{content:"Key \25B8";font-weight:700;font-size:15px}
+ .legend.open::before{content:"Key \25BE  (tap to fold)";display:block;font-weight:700;margin-bottom:4px}
+}
+</style><!-- forage-ux:end --><!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){nav a{display:inline-flex;align-items:center;min-height:44px}li>a{display:inline-block;padding:4px 0}}</style><!-- bft-ux:end --></head>
 <body>
 <header><div class="in">
 <h1>Foraging guide and harvest ecology</h1>
 <p>What picking takes out of a Langlade County forest, what field studies have measured, and how much each plant and mushroom can give without shrinking. A companion to the <a href="foraging/map/" style="color:#efe8d8">foraging and day-trip map</a>.</p>
-<nav class="top"><a href="foraging/map/">← Map</a><a href="#ladder">What harvest removes</a><a href="#species">Species by species</a><a href="#practice">Field practice</a><a href="#calendar">Calendar</a><a href="#refs">Sources</a></nav>
+<!-- forage-nav:start --><nav class="fnav" aria-label="Foraging pages"><a href="foraging/">Foraging home</a><a href="foraging/map/">County map</a><a href="foraging/places/">Places</a><a href="foraging/field-guide/">Field guide</a><a href="foraging/guide/" aria-current="page">Harvest guide</a><a href="./">Bookstore</a></nav><!-- forage-nav:end -->
 </div></header>
 <main>
 <div class="toc"><b>On this page</b><ol>
@@ -157,5 +184,14 @@ fetch('foraging/data/species.json').then(r=>r.json()).then(S=>{const tb=document
   const when=s.first?`${s.first} – ${s.last}`:(s.weeks&&s.weeks.every(v=>v===1)?'All year':'Too few local records');
   tr.innerHTML=`<td>${s.n}${s.kind==='fungus'?' <span style="color:#9a3d24;font-size:.8rem">(expert ID only)</span>':''}</td><td>${when}</td><td>${s.part||(s.kind==='fungus'?'fruiting body':'')}</td>`;tb.appendChild(tr);});});
 </script>
-</body>
+<!-- forage-js:start --><script>
+(function(){var mq=matchMedia('(max-width:760px)');
+document.addEventListener('click',function(e){var l=e.target.closest&&e.target.closest('.legend');
+ if(!l||!mq.matches||e.target.closest('a'))return;l.classList.toggle('open');e.stopPropagation();e.preventDefault();},true);
+var b=document.querySelector('.bar');if(b&&!document.getElementById('ftoggle')){var t=document.createElement('button');
+ t.id='ftoggle';t.className='chip';t.type='button';t.setAttribute('aria-expanded','false');t.setAttribute('aria-controls','fbar');
+ t.textContent='Filters ▾';b.id=b.id||'fbar';b.insertBefore(t,b.firstChild);
+ t.addEventListener('click',function(){var o=b.classList.toggle('open');t.setAttribute('aria-expanded',o);t.textContent=o?'Done ▴':'Filters ▾';});}
+})();
+</script><!-- forage-js:end --></body>
 </html>

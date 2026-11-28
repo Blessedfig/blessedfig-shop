@@ -145,7 +145,7 @@ def main():
         if os.path.basename(os.path.dirname(p)) not in ('map', 'field-guide', 'places') and p not in [j[0] for j in jobs]:
             jobs.append((p, 'forage', 'fdoc', 'footer'))
     if os.path.exists(J('foraging', 'places', 'index.html')):
-        pass  # covered by the glob above
+        jobs.append((J('foraging', 'places', 'index.html'), 'forage', 'fdoc', 'footer'))  # not matched by either glob
     if os.path.isdir(STAYS):
         jobs.append((os.path.join(STAYS, 'index.html'), 'stay', 'stays', 'lines'))
     n = 0

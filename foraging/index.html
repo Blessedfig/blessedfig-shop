@@ -40,13 +40,40 @@ table.rules{border-collapse:collapse;width:100%;font-size:.93rem}table.rules td{
 .warn{background:#fbeee7;border:1px solid #e3b8a3;border-radius:10px;padding:10px 14px;margin:12px 0}
 footer{max-width:1000px;margin:0 auto;padding:10px 20px 40px;color:var(--muted);font-size:.85rem}
 </style>
-<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){nav.jump a{display:inline-flex;align-items:center;min-height:44px}li>a,.sp b a{display:inline-block;padding:11px 0;margin:-11px 0}}</style><!-- bft-ux:end --></head>
+<!-- forage-ux:start --><style>
+.fnav{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 0;padding:0}
+.fnav a{display:inline-flex;align-items:center;min-height:36px;padding:0 13px;border:1px solid color-mix(in srgb,currentColor 38%,transparent);border-radius:999px;color:inherit;text-decoration:none;font-size:.9rem;line-height:1.2;white-space:nowrap}
+.fnav a:hover{background:color-mix(in srgb,currentColor 12%,transparent)}
+.fnav a[aria-current]{background:color-mix(in srgb,currentColor 18%,transparent);font-weight:700}
+.fsafe{background:#fbeee7;border:1px solid #e3b8a3;border-radius:10px;padding:10px 14px;margin:12px 0;font-size:.95rem;color:#1f2a24}
+.fsafe a{color:inherit}
+@media (pointer:coarse),(max-width:760px){
+ .fnav a{min-height:44px}
+ .toc a,nav.jump a{display:inline-flex;align-items:center;min-height:44px;min-width:44px;justify-content:center}
+ html body li>a,html body p.cr a,html body footer a,html body .sp b a{display:inline-block;padding:12px 0;margin:-12px 0;min-width:44px}
+ html body .card a.big{display:block;padding:12px 0;margin:-10px 0 -4px}
+ .pin{width:30px!important;height:30px!important;line-height:30px!important;font-size:14px!important}
+}
+@media (max-width:760px){
+ .fnav{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin-right:-20px;padding-right:20px}
+ .fnav::-webkit-scrollbar{display:none}.fnav a{flex:none}
+ .badge,.fx,.ev,span.m,.cr,.cr a,.months,.grade,.bar label,td span[style*="font-size:.8rem"]{font-size:13px!important}
+ .legend,.legend div,.legend span{font-size:13px!important;line-height:1.45!important}
+ .legend i{width:12px!important;height:12px!important}
+ /* map keys start folded on phones: tap "Key" to open */
+ .legend{cursor:pointer;min-height:44px;min-width:44px}
+ .legend:not(.open){padding:0 14px!important;display:flex;align-items:center}
+ .legend:not(.open)>*{display:none!important}
+ .legend:not(.open)::after{content:"Key \25B8";font-weight:700;font-size:15px}
+ .legend.open::before{content:"Key \25BE  (tap to fold)";display:block;font-weight:700;margin-bottom:4px}
+}
+.hero .fsafe{font-size:.95rem;max-width:46em}.cta{min-height:44px;display:inline-flex;align-items:center}</style><!-- forage-ux:end --><!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){nav.jump a{display:inline-flex;align-items:center;min-height:44px}li>a,.sp b a{display:inline-block;padding:11px 0;margin:-11px 0}}</style><!-- bft-ux:end --></head>
 <body>
 <section class="hero"><div class="in">
 <h1>Foraging Langlade County</h1>
 <p>Wild berries, nuts, greens and mushrooms in the county forests, state wildlife areas and national forest around Antigo: what grows where, when it's ready, what you may pick on each kind of land, and a map for every natural area.</p>
-<a class="cta" href="foraging/map/">Open the county map</a><a class="cta ghost" href="foraging/places/">Maps by place</a><a class="cta ghost" href="foraging/guide/">Guide &amp; harvest ecology</a>
-</div></section>
+
+<!-- forage-hero:start --><a class="cta" href="foraging/map/">Open the county map</a><a class="cta ghost" href="foraging/places/">Places</a><a class="cta ghost" href="foraging/field-guide/">Field guide</a><a class="cta ghost" href="foraging/guide/">Harvest guide</a><p class="fsafe" style="margin-top:14px"><b>Mushrooms:</b> never eat a wild mushroom unless an experienced identifier has checked it in person. Learn each plant in person too. Poison Control: <a href="tel:18002221222">1-800-222-1222</a>. <a href="#rules">The rules in one minute</a>.</p><!-- forage-hero:end --></div></section>
 <nav class="jump"><a href="#climate">Climate &amp; seasons</a><a href="#food">What you can find</a><a href="foraging/field-guide/">Field guide</a><a href="#land">Where it grows</a><a href="#hunting">Hunting &amp; fishing</a><a href="#history">History</a><a href="#maps">Maps</a><a href="#rules">Rules</a></nav>
 <main>
 
