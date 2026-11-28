@@ -55,6 +55,91 @@ END = ('<aside class="am-end" aria-label="The end of the almanac"><h2>That is An
        '<a href="mailto:owner@theblessedfigtree.com">owner@theblessedfigtree.com</a>, and we will look into it.</p></aside>')
 
 
+# ---------- the opening: Langlade County at a glance (answer first), then the four parts as cards ----------
+CREDIT = ('Photos via Wikimedia Commons: depot, opera house and log cabin by '
+          '<a href="https://commons.wikimedia.org/wiki/File:Antigo_Depot.jpg">Jeff the quiet</a> (public domain); '
+          'courthouse by <a href="https://commons.wikimedia.org/wiki/File:Langlade_County_Courthouse,_Antigo,_WI.jpg">TheCatalyst31</a> (CC0).')
+
+STATS = [('888', 'square miles', 'Woods and water'), ('78%', 'of the land is forest', 'Woods and water'),
+         ('19,491', 'people, 2020 Census', 'People over time'), ('843', 'lakes, 418 with public access', 'Woods and water'),
+         ('130,000+', 'acres of county forest, open to the public', 'Woods and water'), ('10,562', 'acres of potatoes (2022)', 'The Antigo flats')]
+
+PARTS = [('part-year', 'I', 'The year in Antigo', 'Seasons, weather, daylight, and what happens when.', None),
+         ('part-visitors', 'II', 'Visitors', 'When the North Woods fills, and what visitors spend.', 'depot'),
+         ('part-town', 'III', 'The town', 'People, homes, work, money, and what the town is worth.', 'opera'),
+         ('part-land', 'IV', 'Land and history', 'Woods and water, how Antigo began, and its books.', 'cabin')]
+MON = ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D']
+
+
+def glance_html(counts):
+    stats = ''.join(f'<a class="gl-stat" href="#" data-open="{e}"><b>{n}</b><span>{t}</span></a>' for n, t, e in STATS)
+    cards = ''
+    for pid, num, title, line, img in PARTS:
+        pic = (f'<img src="almanac/img/{img}.webp" width="720" height="480" alt="" loading="lazy" decoding="async">' if img else
+               '<span class="gl-year" aria-hidden="true">' + ''.join(f'<i>{m}</i>' for m in MON) + '</span>')
+        cards += (f'<a class="gl-part" href="#{pid}">{pic}<span class="gl-pt"><span class="gl-num">Part {num}</span>'
+                  f'<b>{title}</b><span>{line}</span><span class="gl-n">{counts.get(title, 0)} pages</span></span></a>')
+    return ('<section class="glance" aria-labelledby="glance-h">'
+            '<h2 id="glance-h">Langlade County at a glance</h2>'
+            '<p class="gl-lede">A North Woods county of about 888 square miles, mostly forest and lakes, home to about 19,500 people. '
+            'Antigo, the county seat, sits on a high, flat plain in the south, ringed by potato fields.</p>'
+            '<div class="gl-grid">'
+            '<figure class="gl-map"><a class="mapimg" href="almanac/maps/landcover@2x.webp" data-big aria-label="Open a larger land cover map">'
+            '<img src="almanac/maps/landcover.webp" width="1000" height="792" alt="Map of Langlade County: forest across most of the county, cropland on the flats around Antigo, swamps in the north." decoding="async">'
+            '<span class="mapzoom" aria-hidden="true">Tap to enlarge</span></a>'
+            '<figcaption><i style="background:#3d6b4f"></i>Forest <i style="background:#769c96"></i>Swamp <i style="background:#d6aa52"></i>Cropland '
+            '<i style="background:#9cc3d5"></i>Water <i style="background:#b0502a"></i>Antigo</figcaption></figure>'
+            '<div class="gl-stats">' + stats + '</div></div>'
+            '<h2 class="gl-h2">Four parts</h2><div class="gl-parts">' + cards + '</div>'
+            '<figure class="gl-court"><img src="almanac/img/courthouse.webp" width="720" height="480" alt="The red sandstone Langlade County Courthouse in Antigo, with its clock tower" loading="lazy" decoding="async">'
+            '<figcaption>The Langlade County Courthouse in Antigo.</figcaption></figure>'
+            '<p class="gl-credit">' + CREDIT + '</p>'
+            '<h2 class="gl-h2">About these numbers</h2></section>')
+
+
+GLANCE_CSS = r"""
+.glance{margin:8px 0 18px}
+.glance h2{font:600 1.6rem/1.2 var(--font-display);margin:0 0 6px}
+.glance .gl-h2{font-size:1.3rem;margin:30px 0 12px}
+.gl-lede{font-size:1.08rem;max-width:60ch;margin:0 0 16px}
+.gl-grid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:20px;align-items:start}
+.gl-map{margin:0}.gl-map figcaption{display:flex;flex-wrap:wrap;gap:4px 14px;align-items:center;font-size:.92rem;margin-top:8px}
+.gl-map figcaption i{display:inline-block;width:14px;height:14px;border-radius:3px;margin-right:-8px;border:1px solid #0002}
+.gl-stats{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.gl-stat{display:flex;flex-direction:column;justify-content:center;min-height:92px;padding:12px 14px;background:var(--sheet);border:1px solid var(--rule);border-top:3px solid var(--spruce-3);border-radius:10px;text-decoration:none;color:var(--ink)}
+.gl-stat b{font:600 1.7rem/1.1 var(--font-display);color:var(--spruce)}.gl-stat span{font-size:.95rem;color:var(--muted)}
+.gl-stat:hover{border-top-color:var(--maple)}
+.gl-parts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.gl-part{display:flex;flex-direction:column;background:var(--sheet);border:1px solid var(--rule);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--ink);min-height:44px}
+.gl-part:hover{border-color:var(--spruce-3);box-shadow:0 2px 10px #0001}
+.gl-part img{width:100%;aspect-ratio:3/2;object-fit:cover;display:block}
+.gl-year{display:grid;grid-template-columns:repeat(6,1fr);gap:2px;aspect-ratio:3/2;padding:10px;background:var(--spruce);align-content:center}
+.gl-year i{font:700 13px/1 var(--font-body);font-style:normal;color:var(--birch);background:#ffffff14;text-align:center;padding:9px 0;border-radius:3px}
+.gl-year i.now{background:var(--maple);color:#fff}
+.gl-pt{display:flex;flex-direction:column;gap:3px;padding:12px 14px 14px}
+.gl-num{font:700 .78rem var(--font-body);letter-spacing:.14em;text-transform:uppercase;color:var(--maple)}
+.gl-pt b{font:600 1.15rem/1.2 var(--font-display)}.gl-pt span{font-size:.95rem}.gl-pt .gl-n{color:var(--muted);font-size:.88rem;margin-top:auto}
+.gl-court{margin:22px 0 0}.gl-court img{width:100%;max-height:340px;object-fit:cover;border-radius:12px}
+.gl-court figcaption{font-size:.92rem;color:var(--muted);margin-top:6px}
+.gl-credit{font-size:.85rem;color:var(--muted);margin-top:4px}
+.am-photo{margin:0 0 14px}.am-photo img{width:100%;border-radius:10px}.am-photo figcaption{font-size:.88rem;color:var(--muted);margin-top:4px}
+@media (max-width:860px){.gl-grid{grid-template-columns:1fr}.gl-parts{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){.gl-map figcaption,.gl-credit,.gl-pt .gl-n,.gl-num,.am-photo figcaption{font-size:13px}.gl-stat b{font-size:1.45rem}}
+"""
+
+GLANCE_JS = r"""
+(function(){var m=new Date().getMonth();document.querySelectorAll('.gl-year').forEach(function(y){var c=y.children[m];if(c)c.classList.add('now');});
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a[data-open]');if(!a)return;e.preventDefault();var want=a.getAttribute('data-open');
+ var d=[].slice.call(document.querySelectorAll('details.am-page')).filter(function(x){var t=x.querySelector('summary');return t&&t.textContent.trim().indexOf(want)===0;})[0];
+ if(d){d.open=true;d.scrollIntoView({block:'start'});}});})();
+"""
+
+ENTRY_PHOTOS = {'Books in Antigo': ('museum', 'The 1905 Carnegie library building on Superior Street, now the historical society museum.',
+                                    'The former Antigo public library, now a museum, a brick building with white columns'),
+                'How Antigo began': ('cabin', 'The Deleglise cabin, built in May 1878, Antigo’s first house. Photo: Jeff the quiet, public domain.',
+                                     'A small log cabin with white clapboard on one end, under large trees')}
+
+
 def put(s, tag, inner, before=None, after=None):
     block = f'<!-- {tag}:start -->{inner}<!-- {tag}:end -->'
     if f'<!-- {tag}:start -->' in s:
@@ -136,6 +221,21 @@ def main():
     s = put(s, 'alm-how', '<p class="am-how">Tap any title to open or close its page. This month and the season you are in are marked.</p>',
             after='hidden around town.</p></div>')
     s = put(s, 'alm-end', END, before='<!-- ALMANAC END -->')
+    # the opening and the part anchors
+    counts = {}
+    for m in re.finditer(r'<div class="am-group"(?: id="[^"]*")?><h3>(.*?)</h3>', s):
+        j = m.end(); k = s.find('<div class="am-group"', j)
+        counts[m.group(1)] = s[j:k if k > 0 else len(s)].count('<details class="am-page"')
+    for pid, _, title, _, _ in PARTS:
+        s = s.replace(f'<div class="am-group"><h3>{title}</h3>', f'<div class="am-group" id="{pid}"><h3>{title}</h3>', 1)
+    s = put(s, 'alm-glance', glance_html(counts), after='<h1 class="am-h1">Antigo\'s year, in real numbers</h1>')
+    for entry, (img, cap, alt) in ENTRY_PHOTOS.items():
+        slug = re.sub(r'[^a-z0-9]+', '-', entry.lower()).strip('-')
+        s = re.sub(rf'<!-- alm-photo-{slug}:start -->.*?<!-- alm-photo-{slug}:end -->', '', s, flags=re.S)
+        i = s.find(f'<summary>{entry}</summary>'); assert i >= 0, entry
+        j = s.find('<div class="am-text">', i) + len('<div class="am-text">')
+        s = s[:j] + (f'<!-- alm-photo-{slug}:start --><figure class="am-photo"><img src="almanac/img/{img}.webp" width="720" height="480" '
+                     f'alt="{alt}" loading="lazy" decoding="async"><figcaption>{cap}</figcaption></figure><!-- alm-photo-{slug}:end -->') + s[j:]
     # maps, each inside the entry it belongs to (after that entry's text)
     maps = json.load(open(MAPS)) if os.path.exists(MAPS) else []
     s = re.sub(r'<!-- alm-map-[a-z0-9-]+:start -->.*?<!-- alm-map-[a-z0-9-]+:end -->', '', s, flags=re.S)
@@ -145,8 +245,8 @@ def main():
         j = s.find('</div></details>', i)  # the entry body's closing tag: the map spans the body grid
         slug = re.sub(r'[^a-z0-9]+', '-', entry.lower()).strip('-')
         s = s[:j] + f'<!-- alm-map-{slug}:start -->{maps_html(entry, maps)}<!-- alm-map-{slug}:end -->' + s[j:]
-    s = put(s, 'alm-ux', '<style>' + CSS + MAP_CSS + '</style>', before='</head>')
-    s = put(s, 'alm-js', '<script>' + JS + MAP_JS + '</script>', before='</body>')
+    s = put(s, 'alm-ux', '<style>' + CSS + MAP_CSS + GLANCE_CSS + '</style>', before='</head>')
+    s = put(s, 'alm-js', '<script>' + JS + MAP_JS + GLANCE_JS + '</script>', before='</body>')
     if s != s0:
         open(PAGE, 'w', encoding='utf-8').write(s)
         print('almanac updated')
