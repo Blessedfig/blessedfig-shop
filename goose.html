@@ -541,7 +541,24 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
 </style>
 <link rel="stylesheet" href="/helper/helper.css">
 <script src="/helper/helper.js" defer></script>
-<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){#opskip{min-height:44px}section li>a,.src a{display:inline-block;padding:11px 0;margin:-11px 0}}</style><!-- bft-ux:end --></head>
+<!-- bft-ux:start --><style>@media (pointer:coarse),(max-width:760px){#opskip{min-height:44px}section li>a,.src a{display:inline-block;padding:11px 0;margin:-11px 0}}</style><!-- bft-ux:end --><!-- goose-ux:start --><style>
+.nav .navg{flex:none;align-self:center;font:800 13px var(--font-body);letter-spacing:.08em;text-transform:uppercase;color:var(--pink-2,#ff9ad0);padding:0 2px 0 10px;white-space:nowrap}
+.nav .navg:first-child{padding-left:0}
+.goose-now{outline:3px solid var(--pink,#ff4fa3);outline-offset:3px;border-radius:4px}
+.goose-now::after{content:" \2190  this month";font-weight:800;color:var(--pink,#ff4fa3)}
+.goose-end{margin-top:var(--s6,32px)}
+.goose-end .btn{margin:10px 10px 0 0}
+@media (pointer:coarse),(max-width:760px){
+ .src a,dd a,.dl a,.panel p a{display:inline-block;padding:12px 0;margin:-12px 0;min-height:44px;min-width:44px;text-align:center;box-sizing:border-box}
+ .shop-links a,.shop-more a,.shop-more summary{display:inline-flex;align-items:center;min-height:44px}
+}
+@media (max-width:760px){
+ .topbar .wrap{flex-wrap:wrap;row-gap:0}
+ .topbar .nav{order:3;flex:1 1 100%;margin:0 -4px}
+ .src,.src a,.nav a,.tag,.rk,.num,.mp .num,.quiz button span,.quiz span,button.form span,.kana,.sec-intro small,.panel small{font-size:13px!important}
+ .sources a{display:inline-block;padding:10px 0}
+}
+</style><!-- goose-ux:end --></head>
 <body>
 
 <!-- ===================== THE OPENING ===================== -->
@@ -556,7 +573,7 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
     </div>
     <small>Turn your sound on. About a minute and a half.</small>
   </div>
-  <div class="scene sv" id="sv"><video id="opvid" preload="auto" playsinline poster="op/opening.jpg" aria-label="Goose Goose anime opening"><source src="op/opening.mp4" type="video/mp4"></video><button class="btn pink opsound" type="button" id="opsound" hidden>&#128266; Tap for sound</button></div>
+  <div class="scene sv" id="sv"><video id="opvid" preload="none" playsinline poster="op/opening.jpg" aria-label="Goose Goose anime opening"><source src="op/opening.mp4" type="video/mp4"></video><script>(function(){var v=document.getElementById("opvid"),c=navigator.connection||{};if(c.saveData||matchMedia("(max-width:900px)").matches){v.querySelector("source").src="op/opening-720.mp4";v.load();}})();</script><button class="btn pink opsound" type="button" id="opsound" hidden>&#128266; Tap for sound</button></div>
   <div class="scene s1" id="s1" aria-hidden="true"></div>
   <div class="scene s2" id="s2" aria-hidden="true"><div class="lines"></div><div class="gs"><i class="b"></i><i class="f"></i></div></div>
   <div class="scene s3" id="s3" aria-hidden="true">
@@ -596,17 +613,17 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
   <div class="wrap">
     <a class="shop-home" href="./"><svg class="fig" viewBox="0 0 10 11" width="20" height="22" shape-rendering="crispEdges" aria-hidden="true" focusable="false"><path fill="#9bd05a" d="M3 0h1v1h-1zM2 1h1v1h-1zM5 1h1v1h-1z"/><path fill="#4f8a2e" d="M4 0h1v1h-1zM3 1h1v1h-1zM4 1h1v1h-1zM3 2h1v1h-1zM5 2h1v1h-1z"/><path fill="#7a4a20" d="M4 2h1v1h-1zM4 3h1v1h-1z"/><path fill="#3f1a3e" d="M2 4h1v1h-1zM6 4h1v1h-1zM1 5h1v1h-1zM7 5h1v1h-1zM1 6h1v1h-1zM7 6h1v1h-1zM1 7h1v1h-1zM7 7h1v1h-1zM2 8h1v1h-1zM6 8h1v1h-1zM3 9h1v1h-1zM5 9h1v1h-1zM4 10h1v1h-1z"/><path fill="#7a2f78" d="M3 4h1v1h-1zM4 4h1v1h-1zM5 4h1v1h-1zM2 5h1v1h-1zM4 5h1v1h-1zM5 5h1v1h-1zM6 5h1v1h-1zM2 6h1v1h-1zM4 6h1v1h-1zM5 6h1v1h-1zM6 6h1v1h-1zM2 7h1v1h-1zM3 7h1v1h-1zM4 7h1v1h-1zM5 7h1v1h-1zM6 7h1v1h-1zM3 8h1v1h-1zM4 8h1v1h-1zM5 8h1v1h-1zM4 9h1v1h-1z"/><path fill="#b46bb0" d="M3 5h1v1h-1zM3 6h1v1h-1z"/></svg><span><span aria-hidden="true">&larr; </span>The Blessed Fig Tree</span></a>
     <ul class="shop-links">
-      <li><a href="./#visit">Visit &amp; hours</a></li>
-      <li><a href="unwritten/">Play The Unwritten</a></li>
-      <li><a href="manga-guide/">Manga guide</a></li>
+      <li><a href="./#visit">Visit</a></li>
+      <li><a href="unwritten/">Play the game</a></li>
+      <li><a href="manga-guide/">Manga guide for parents</a></li>
       <li><a href="almanac/">Almanac</a></li>
     </ul>
     <details class="shop-more">
       <summary>Shop pages</summary>
       <ul>
-        <li><a href="./#visit">Visit &amp; hours</a></li>
-        <li><a href="unwritten/">Play The Unwritten</a></li>
-        <li><a href="manga-guide/">Manga guide</a></li>
+        <li><a href="./#visit">Visit</a></li>
+        <li><a href="unwritten/">Play the game</a></li>
+        <li><a href="manga-guide/">Manga guide for parents</a></li>
         <li><a href="almanac/">Almanac</a></li>
       </ul>
     </details>
@@ -617,9 +634,9 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
   <div class="wrap">
     <a class="brand" href="#top">GOOSE GOOSE<span lang="ja">グース・グース</span></a>
     <nav class="nav" aria-label="Sections">
-      <a href="#profile">Profile</a><a href="#transform">Transform</a><a href="#honk">Honk</a><a href="#species">Field guide</a>
-      <a href="#anatomy">Anatomy</a><a href="#life">Life cycle</a><a href="#records">Records</a><a href="#domestic">Geese &amp; people</a>
-      <a href="#culture">Culture</a><a href="#porch">Porch geese</a><a href="#porch-culture">Porch culture</a><a href="#wisconsin">Wisconsin</a><a href="#faq">FAQ</a><a href="#quiz">Quiz</a>
+      <!-- goose-ux-g:start --><span class="navg" aria-hidden="true">Goose Goose</span><!-- goose-ux-g:end --><a href="#profile">Profile</a><a href="#transform">Transform</a><a href="#honk">Honk</a><!-- goose-ux-g:start --><span class="navg" aria-hidden="true">Real geese</span><!-- goose-ux-g:end --><a href="#species">Field guide</a>
+      <a href="#anatomy">Anatomy</a><a href="#life">Life cycle</a><a href="#records">Records</a><!-- goose-ux-g:start --><span class="navg" aria-hidden="true">Geese and people</span><!-- goose-ux-g:end --><a href="#domestic">Geese &amp; people</a>
+      <a href="#culture">Culture</a><a href="#porch">Porch geese</a><a href="#porch-culture">Porch culture</a><a href="#wisconsin">Wisconsin</a><!-- goose-ux-g:start --><span class="navg" aria-hidden="true">Play</span><!-- goose-ux-g:end --><a href="#faq">FAQ</a><a href="#quiz">Quiz</a>
     </nav>
     <button class="btn" type="button" id="replay">&#9654; Opening</button>
   </div>
@@ -983,7 +1000,7 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
     <div class="panel quiz" id="quizbox"></div>
   </section>
 
-  <section class="sec wrap" id="sources">
+  <!-- goose-ux-end:start --><section class="sec wrap goose-end" id="porch-visit"><div class="panel"><h2>Come say hi</h2><p>Goose Goose stands on the porch at The Blessed Fig Tree, 800 5th Ave, Antigo, Wisconsin, dressed for whatever this month calls for. He has never moved, and he is happy to be photographed.</p><a class="btn pink" href="./#visit">Hours and directions</a><a class="btn" href="./#shop">Goose Goose tees</a></div></section><!-- goose-ux-end:end --><section class="sec wrap" id="sources">
     <div class="sec-h"><h2 style="font-size:1.6rem">Sources</h2></div>
     <ul class="sources">
       <li><a href="https://en.wikipedia.org/wiki/Goose" target="_blank" rel="noopener">Wikipedia: Goose</a></li>
@@ -1383,8 +1400,11 @@ footer.end { margin-top: var(--s8); padding-block: var(--s7) calc(var(--s6) + en
   /* ---------- start ---------- */
   var hashFit = idx(location.hash.slice(1)), saved = idx(store("goose-fit") || "");
   wear(hashFit >= 0 ? hashFit : saved >= 0 ? saved : seasonal, false);
-  if (hashFit < 0 && !reduce) { openOpening(false); startOpening(true); }     // the intro plays as the page opens
+  if (hashFit < 0 && !reduce && store("goose-op") !== "seen" && !((navigator.connection || {}).saveData)) { openOpening(false); startOpening(true); }     // the intro plays as the page opens
 })();
 </script>
-</body>
+<!-- goose-ux-js:start --><script>
+(function(){var M=['January','February','March','April','May','June','July','August','September','October','November','December'][new Date().getMonth()];
+document.querySelectorAll('.panel ul.tight li b').forEach(function(b){if(b.textContent.indexOf(M)>=0&&!document.querySelector('.goose-now'))b.parentNode.classList.add('goose-now');});})();
+</script><!-- goose-ux-js:end --></body>
 </html>
