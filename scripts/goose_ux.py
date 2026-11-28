@@ -19,7 +19,7 @@ SHOP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGE = os.path.join(SHOP, 'goose.html')
 
 NAMES = {'Visit &amp; hours': 'Visit', 'Manga guide': 'Manga guide for parents'}
-DROP = ['<li><a href="unwritten/">Play the game</a></li>', '<li><a href="unwritten/">Play The Unwritten</a></li>']  # the game is not ready yet (Nov 27)
+DROP = []   # Nov 27 the game came out of the menus; Nov 28 Christian put it back as a beta
 
 GROUPS = {'#profile': 'Goose Goose', '#species': 'Real geese', '#domestic': 'Geese and people', '#faq': 'Play'}
 

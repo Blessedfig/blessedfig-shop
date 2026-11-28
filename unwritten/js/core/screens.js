@@ -35,7 +35,7 @@ MODES.title = {
       ctx.drawImage(FIG_LOGO, Math.round((SW - lw) / 2), 214, lw, lh);
       ctx.restore();
     }
-    txt('A HUGE WORK IN PROGRESS · EARLY BUILD', SW / 2, SH - 14, '#8a8aa0', 'center', SMALL);
+    txt('BETA · MORE COMBAT, CAMPAIGNS AND POLISH TO COME', SW / 2, SH - 14, '#8a8aa0', 'center', SMALL);
   }
 };
 // ---------- new game: who you are, and how heavy the story gets ----------
