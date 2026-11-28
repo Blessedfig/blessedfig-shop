@@ -5,7 +5,12 @@
 //  To use Christian's art for a monster: put the still at assets/battle/foes/<id>.png and add the id to FOE_ART below.
 //  To use new party art: add an entry to PARTY_ART (an image, and frame rects per pose). Until then the stand-ins draw.
 // =====================================================================
-const FOE_ART = { tater: 'assets/monsters/potato.png' };   // id -> still. Add: id: 'assets/battle/foes/<id>.png'
+const FOE_ART = { tater: 'assets/monsters/potato.png' };   // id -> still
+// Nov 27: the ChatGPT-painted FF6-style stills (Daimon as the style anchor), snapped to their own pixel grid.
+// All share one pixel size on screen (FOE_PX logical px per art px), so their pixels match; at phone/retina density they draw near 1:1.
+const FOE_STILLS = ['wisp','cliff','doubt','hook','echo','herring','golem','narrator','suspicion','gesture','triangle','waiting','sweet','prophecy','possessive','door','lordling','drone','jump','edgemap','tghost','upgrade','dread','bridge','double','gavel','b_detective','b_suitor','b_wild','b_chosen','b_countdown','b_dark','daimon','answer'];
+for (const id of FOE_STILLS) FOE_ART[id] = 'assets/battle/foes/' + id + '.png';
+const FOE_PX = { foe: 0.48, boss: 0.72 };
 const PARTY_ART = {};   // e.g. christian: { src: 'assets/battle/party/christian.png', k: 2, poses: { idle: [[x,y,w,h], ...], attack: [...], ... } }
 const BIMG = { party: new Image(), standin: new Image(), foe: {}, party2: {} };
 BIMG.party.src = 'assets/battle/party.png'; BIMG.standin.src = 'assets/battle/foes_standin.png';
@@ -29,6 +34,8 @@ function foePos(u) { const L = FSLOT[Math.min(5, foeUnits().length)] || FSLOT[5]
 // where a foe's still comes from, and how big it is on screen
 function foeArt(u) {
   const id = u.f.art, im = BIMG.foe[id];
+  if (im && im.complete && im.naturalWidth && FOE_STILLS.includes(id)) { const k = u.f.boss ? FOE_PX.boss : FOE_PX.foe;
+    return { im, sx: 0, sy: 0, sw: im.naturalWidth, sh: im.naturalHeight, w: im.naturalWidth * k, h: im.naturalHeight * k, smooth: false }; }
   if (im && im.complete && im.naturalWidth) { const box = u.f.boss ? [150, 140] : [116, 104], s = Math.min(box[0] / im.naturalWidth, box[1] / im.naturalHeight, 2);
     return { im, sx: 0, sy: 0, sw: im.naturalWidth, sh: im.naturalHeight, w: Math.round(im.naturalWidth * s), h: Math.round(im.naturalHeight * s), smooth: s < 1 }; }
   const r = ART_FOE_STANDIN[id];
@@ -63,7 +70,7 @@ function drawFoe(u) {
   else if (u.status.open) ctx.filter = 'saturate(0.4) brightness(1.15)';
   const lift = u.freed ? u.fade * 0.8 : 0;
   if (u.id === 'heavybag') drawHeavyBag(x + dx, y - lift);
-  else if (A) { ctx.imageSmoothingEnabled = !!A.smooth; ctx.drawImage(A.im, A.sx, A.sy, A.sw, A.sh, Math.round(x - A.w / 2 + dx), Math.round(y - A.h - lift), A.w, A.h); ctx.imageSmoothingEnabled = false; }
+  else if (A) { ctx.imageSmoothingEnabled = !!A.smooth; ctx.drawImage(A.im, A.sx, A.sy, A.sw, A.sh, x - A.w / 2 + dx, y - A.h - lift, A.w, A.h); ctx.imageSmoothingEnabled = false; }
   else R(x - 20, y - 40, 40, 40, '#6a4a8a');
   ctx.restore();
   if (u.freed) { for (let i = 0; i < 6; i++) { const h = hash(i, u.slot * 7 + 1); R(x - 20 + h % 40, y - 20 - ((u.fade * (1 + h % 3)) % 70), 2, 2, 'rgba(255,250,210,' + (1 - u.fade / 40) + ')'); } return; }
