@@ -546,6 +546,9 @@ input[type=search],select{border:1px solid var(--line);border-radius:10px;backgr
 <script src="/helper/helper.js" defer></script>
 <!-- manga-ux:start --><style>
 .whatis{margin:12px 0 0;max-width:60ch;color:var(--ink)}
+.hitmf{display:block;font-size:.88rem;color:var(--muted)}.hitmf b{color:var(--fig,#6d3a5f)}
+.verdict.nop{grid-template-columns:1fr}.verdict a{color:var(--fig,#6d3a5f);font-weight:700}
+.finder .find{margin-bottom:12px}
 .whatis a{font-weight:700;color:var(--fig,#6d3a5f)}
 .mload{max-width:60ch;margin:8px 0 28px}
 .mload h1{margin:0 0 10px}
@@ -568,6 +571,12 @@ input[type=search],select{border:1px solid var(--line);border-radius:10px;backgr
  .mshelf{margin:32px 14px 0}
 }
 </style><script>
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('[data-open]'); if (!a) return; e.preventDefault();
+  var want = a.getAttribute('data-open');
+  var d = [].slice.call(document.querySelectorAll('#app details')).filter(function (x) { var t = x.querySelector('summary'); return t && t.textContent.indexOf(want) >= 0; })[0];
+  if (d) { d.open = true; d.scrollIntoView({block: 'start'}); }
+});
 window.mnorm = function (t) { return String(t || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, ' ').trim(); };
 (function () {
   window.MSLIM = true;
@@ -880,12 +889,12 @@ function card(s, fit) {
     <span class="cbody"><span class="t">${esc(s.title)}</span>${mfLine(s)}${s.entry.life_message?`<span class="msg">${esc(s.entry.life_message)}</span>`:''}<span class="sub">${outlookChip(s)}<span>${sub}</span></span>${older?`<span class="flag">${esc(s.pubrating.publisher)} rates it ${esc(s.pubrating.rating)}</span>`:''}</span>
     ${gradeTile(fit.g, fit.prov, 'lg')}</a>`;
 }
-const findBox = () => `<div class="find"><label for="find" class="eyebrow">Have a title in mind?</label><input id="find" type="search" autocomplete="off" placeholder="Search a manga, e.g. Naruto" value="${esc(state.find||'')}"><div id="findres" class="findres"></div></div>`;
+const findBox = () => `<div class="find"><label for="find" class="eyebrow">Search any manga to see what it teaches</label><input id="find" type="search" autocomplete="off" placeholder="Search a manga, e.g. Naruto" value="${esc(state.find||'')}"><div id="findres" class="findres"></div></div>`;
 function findResults(q) {
   q = (q||'').trim().toLowerCase(); if (q.length < 2) return '';
   const hits = ALL.filter(s => !isHidden(s) || state.adult).filter(s => { const w = mnorm(q).split(' ').filter(Boolean), t = mnorm([s.title, s.romaji, s.native].join(' ')); return (w.length && w.every(x => t.includes(x))) || (s.native||'').includes(q); }).sort((a,b)=>(+b.popularity||0)-(+a.popularity||0)).slice(0, 6);
   if (!hits.length) return '<p class="note">No match yet. Try another spelling, or <a href="#browse">browse all manga</a>.</p>';
-  return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${coverImg(s, 'cover sm')}${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}</span></a>`; }).join('');
+  return hits.map(s => { const f = s.entry && fitFor(s.entry, state.profile); return `<a class="hit" href="${link(s)}">${coverImg(s, 'cover sm')}${f ? gradeTile(f.g, f.prov, 'sm') : (state.profile ? gradeTile(null, false, 'sm') : '')}<span>${esc(s.title)}${s.year?` <span class="count">${esc(s.year)}</span>`:''}${!state.profile && s.entry && mainFn(s.entry) ? (m => `<span class="hitmf"><b>${VERB[m.k].replace('Argues ','')}</b> ${esc(PLAIN[m.lens] || m.lens)}</span>`)(mainFn(s.entry)) : ''}</span></a>`; }).join('');
 }
 const EXPLORE = [['#about','About this guide','What manga is, the culture around it, the main terms, and what this guide is for.'],['#hopeful','Where stories find hope','Family, love, effort, faith, forgiveness and more: browse by where each series finds hope.'],['#popular','Popular manga','The series kids talk about most, with their grades.'],['#browse','All manga','Search, filter by publisher and maturity, sort any way.'],['#ideas','By philosophy','Which manga lean toward Stoicism, nihilism, faith and more.'],['#deep','Family match quiz','Answer a few questions (or all of them) and get manga ranked for your family.'],['#explained','Glossary','Every tradition, philosophy and culture in plain words.'],['#method','How we grade','What the grades, age bands and labels mean.']];
 const exploreCards = () => `<section class="stack" style="gap:10px"><h2>More ways to explore</h2><div class="explore">${EXPLORE.map(([h,t,d])=>`<a href="${h}"><strong>${t}</strong><span>${d}</span></a>`).join('')}</div></section>`;
@@ -922,9 +931,8 @@ function viewStart() {
   let h = `<div class="stack" style="gap:32px"><section class="hero slim"><div class="hero-grid"><div class="intro"><h1>What is your kid reading, and what does it teach?</h1>
     <p class="lede">A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, graded S to F from your own tradition's view.</p><p class="whatis">Manga are Japanese comics, usually read right to left and collected in paperback volumes. Each one is described here in the same neutral words for everyone; your tradition only changes the grade. <a href="#about">What manga is, and what this guide is for</a></p></div>
     <figure class="mhero"><img src="../img/manga_hero.webp" width="720" height="603" alt="Three manga-style kids and a white goose cheering, holding books" fetchpriority="high"></figure></div>
-    <div class="finder"><div class="sel"><label for="profile" class="trad">Your tradition${profileSelect('profile', p)}</label>
-    <label for="agesel">Reader's age<select id="agesel">${ages.map(([v,l])=>`<option value="${esc(v)}" ${(state.age||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label></div>
-    ${findBox()}</div></section>`;
+    <div class="finder">${findBox()}<div class="sel"><label for="profile" class="trad">Your tradition (optional)${profileSelect('profile', p)}</label>
+    <label for="agesel">Reader's age<select id="agesel">${ages.map(([v,l])=>`<option value="${esc(v)}" ${(state.age||'')===v?'selected':''}>${esc(l)}</option>`).join('')}</select></label></div></div></section>`;
   const byPop = [...pool].sort(pop);
   h += shelfRow('Popular right now', 'The most-read series, with your grade on each cover.', byPop, '#popular');
   const hc = {}; pool.forEach(s => { if (s.hope) hc[s.hope] = (hc[s.hope]||0) + 1; });
@@ -1187,9 +1195,9 @@ function viewSeries(s) {
   if (s.warning) h += `<section class="note" role="note" style="border:2px solid var(--gF);border-radius:10px;padding:10px 14px;margin:10px 0"><span class="eyebrow" style="color:var(--gF)">Content warning</span><p style="margin:4px 0 0">${esc(s.warning)}</p><p class="note" style="margin:4px 0 0;font-size:.85rem">Based on published summaries and reviews; not yet checked against the printed book.</p></section>`;
   if (e) {
     const fit = fitFor(e, p);
-    h += `<section class="verdict">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}<div class="stack" style="gap:6px;min-width:0">
-      <label class="eyebrow" for="profile2">Grade for</label>${profileSelect('profile2', p)}
-      <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : 'This tradition has not been graded for this series yet.'}</p></div>
+    h += `<section class="verdict${p ? '' : ' nop'}">${fit ? gradeTile(fit.g, fit.prov, 'lg') : (p ? gradeTile(null,false,'lg') : '')}<div class="stack" style="gap:6px;min-width:0">
+      <label class="eyebrow" for="profile2">${p ? 'Grade for' : 'Grade for your family (optional)'}</label>${profileSelect('profile2', p)}
+      <p>${fit ? `<b>${GRADE_TEXT[fit.g][0]}.</b> ${esc(GRADE_TEXT[fit.g][1])}.${fit.range?` Christian traditions range ${fit.range}.`:''}${fit.prov?' Provisional grade.':''}` : (p ? 'This tradition has not been graded for this series yet.' : 'You do not need to pick a tradition. Everything above describes this series the same way for every reader. Pick one only if you want a grade from your family\u2019s point of view, or <a href="#" data-open="How every tradition grades it">see how all ' + e.frames.length + ' traditions grade it</a>.')}</p></div>
       ${fit ? `<div class="why vwhy"><span><b>What fits your tradition:</b> ${esc(fit.f.aligns)}</span><span><b>What may concern:</b> ${esc(fit.f.concerns)}</span></div>` : ''}</section>
       <section class="agebox" aria-label="Age and content"><p class="chips"><span class="eyebrow" style="align-self:center;margin-right:4px">Age and content</span>${bandChip(s)}${pubChip(s)}${mcChip(s)}${confChip(s)}</p>
       <p>${pubLine(s)}</p></section>`;

@@ -26,6 +26,18 @@ WHAT = ('<p class="whatis">Manga are Japanese comics, usually read right to left
         '<a href="#about">What manga is, and what this guide is for</a></p>')
 
 SWAPS = [
+    # Readers with no tradition picked: search first, grades clearly optional, the neutral reading stands alone
+    ('<div class="finder"><div class="sel"><label for="profile" class="trad">Your tradition${profileSelect',
+     '<div class="finder">${findBox()}<div class="sel"><label for="profile" class="trad">Your tradition (optional)${profileSelect'),
+    ("</select></label></div>\n    ${findBox()}</div></section>`;", "</select></label></div></div></section>`;"),
+    ('<label for="find" class="eyebrow">Have a title in mind?</label>', '<label for="find" class="eyebrow">Search any manga to see what it teaches</label>'),
+    ("${f ? gradeTile(f.g, f.prov, 'sm') : gradeTile(null, false, 'sm')}<span>${esc(s.title)}${s.year?` <span class=\"count\">${esc(s.year)}</span>`:''}</span></a>`;",
+     "${f ? gradeTile(f.g, f.prov, 'sm') : (state.profile ? gradeTile(null, false, 'sm') : '')}<span>${esc(s.title)}${s.year?` <span class=\"count\">${esc(s.year)}</span>`:''}${!state.profile && s.entry && mainFn(s.entry) ? (m => `<span class=\"hitmf\"><b>${VERB[m.k].replace('Argues ','')}</b> ${esc(PLAIN[m.lens] || m.lens)}</span>`)(mainFn(s.entry)) : ''}</span></a>`;"),
+    ("h += `<section class=\"verdict\">${fit ? gradeTile(fit.g, fit.prov, 'lg') : gradeTile(null,false,'lg')}",
+     "h += `<section class=\"verdict${p ? '' : ' nop'}\">${fit ? gradeTile(fit.g, fit.prov, 'lg') : (p ? gradeTile(null,false,'lg') : '')}"),
+    ('<label class="eyebrow" for="profile2">Grade for</label>', '<label class="eyebrow" for="profile2">${p ? \'Grade for\' : \'Grade for your family (optional)\'}</label>'),
+    (": 'This tradition has not been graded for this series yet.'}</p></div>",
+     ": (p ? 'This tradition has not been graded for this series yet.' : 'You do not need to pick a tradition. Everything above describes this series the same way for every reader. Pick one only if you want a grade from your family\\u2019s point of view, or <a href=\"#\" data-open=\"How every tradition grades it\">see how all ' + e.frames.length + ' traditions grade it</a>.')}</p></div>"),
     # Doherty: two-step catalog. The first screen comes from small copies (data.slim.json, realign.slim.json,
     # made by scripts/manga_slim.py); the full files then load in the background and the view is redrawn in place.
     ("\nconst RALIGN = fetch('realign.json',", "\nlet RALIGN = fetch('realign.json',"),
@@ -57,6 +69,9 @@ SWAPS = [
 
 CSS = r"""
 .whatis{margin:12px 0 0;max-width:60ch;color:var(--ink)}
+.hitmf{display:block;font-size:.88rem;color:var(--muted)}.hitmf b{color:var(--fig,#6d3a5f)}
+.verdict.nop{grid-template-columns:1fr}.verdict a{color:var(--fig,#6d3a5f);font-weight:700}
+.finder .find{margin-bottom:12px}
 .whatis a{font-weight:700;color:var(--fig,#6d3a5f)}
 .mload{max-width:60ch;margin:8px 0 28px}
 .mload h1{margin:0 0 10px}
@@ -81,6 +96,12 @@ CSS = r"""
 """
 
 HEAD_JS = r"""
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('[data-open]'); if (!a) return; e.preventDefault();
+  var want = a.getAttribute('data-open');
+  var d = [].slice.call(document.querySelectorAll('#app details')).filter(function (x) { var t = x.querySelector('summary'); return t && t.textContent.indexOf(want) >= 0; })[0];
+  if (d) { d.open = true; d.scrollIntoView({block: 'start'}); }
+});
 window.mnorm = function (t) { return String(t || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, ' ').trim(); };
 (function () {
   window.MSLIM = true;
