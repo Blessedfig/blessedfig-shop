@@ -17,7 +17,7 @@ PAGE = os.path.join(SHOP, 'almanac', 'index.html')
 MAPS = os.path.join(SHOP, 'almanac', 'maps', 'maps.json')
 
 MENU = [('./#shop', 'Shop merch'), ('./#stay', 'Stay upstairs'),
-        ('manga-guide/', 'Manga guide for parents'), ('book-guide/', 'Book materials guide'), ('foraging/', 'Foraging'),
+        ('manga-guide/', 'Manga guide for parents'), ('book-guide/', 'Old book guide'), ('foraging/', 'Foraging'),
         ('almanac/', 'Almanac')]
 
 CSS = r"""

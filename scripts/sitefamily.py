@@ -23,7 +23,7 @@ SITES = [
     ('visit',    'Visit the bookstore',           WWW + '/#visit'),
     ('stay',     'Stay upstairs',                 'https://stays.theblessedfigtree.com/'),
     ('manga',    'Manga guide for parents',       WWW + '/manga-guide/'),
-    ('books',    'Book materials guide',          WWW + '/book-guide/'),
+    ('books',    'Old book guide',                WWW + '/book-guide/'),
     ('forage',   'Foraging Langlade County',      WWW + '/foraging/'),
     ('almanac',  'Antigo Almanac',                WWW + '/almanac/'),
     ('game',     'Play The Unwritten',            WWW + '/unwritten/'),
