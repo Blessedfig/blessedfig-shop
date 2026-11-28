@@ -20,10 +20,13 @@ PAGE = os.path.join(SHOP, 'manga-guide', 'index.html')
 DATA = [os.path.join(SHOP, 'manga-guide', f) for f in ('data.slim.json', 'realign.slim.json')]
 
 LEDE = ("A neutral guide for parents of every background: what each English-licensed manga holds up as a good life, "
-        "graded S to F from your own tradition's view.</p>")
-WHAT = ('<p class="whatis">Manga are Japanese comics, usually read right to left and collected in paperback volumes. '
-        'Each one is described here in the same neutral words for everyone; your tradition only changes the grade. '
-        '<a href="#about">What manga is, and what this guide is for</a></p>')
+        "graded S to F from your own tradition's view.</p>")   # the original wording, replaced below
+OLD_WHAT = ('<p class="whatis">Manga are Japanese comics, usually read right to left and collected in paperback volumes. '
+            'Each one is described here in the same neutral words for everyone; your tradition only changes the grade. '
+            '<a href="#about">What manga is, and what this guide is for</a></p>')
+NEW_LEDE = "Find out what a manga teaches, before your kid reads it or after.</p>"
+WHAT = ('<p class="whatis">Every series is described the same way for everyone: what it holds up as good, what it pushes against, '
+        'and what\'s on the page. Pick your family\'s tradition if you\'d like a grade. <a href="#about">About this guide</a></p>')
 
 SWAPS = [
     # Readers with no tradition picked: search first, grades clearly optional, the neutral reading stands alone
@@ -60,8 +63,6 @@ SWAPS = [
     # About first in the Explore cards and menu
     ("const EXPLORE = [", "const EXPLORE = [['#about','About this guide','What manga is, the culture around it, the main terms, and what this guide is for.'],"),
     ('<div class="menu-list">\n', '<div class="menu-list">\n<a href="#about" data-view="about">About this guide</a>\n'),
-    # the three-line answer under the front headline
-    (LEDE, LEDE + WHAT),
     # Postel: forgiving title search
     (".filter(s => [s.title, s.romaji, s.native].some(x => (x||'').toLowerCase().includes(q)))",
      ".filter(s => { const w = mnorm(q).split(' ').filter(Boolean), t = mnorm([s.title, s.romaji, s.native].join(' ')); return (w.length && w.every(x => t.includes(x))) || (s.native||'').includes(q); })"),
@@ -135,7 +136,7 @@ window.mnorm = function (t) { return String(t || '').toLowerCase().normalize('NF
 """
 
 LOADING = ('<div class="mload" role="status"><h1>What is your kid reading, and what does it teach?</h1>'
-           '<p class="lede">' + LEDE + WHAT +
+           '<p class="lede">' + NEW_LEDE + WHAT +
            '<div class="bar" aria-hidden="true"><i id="mload-bar"></i></div>'
            '<p class="note">Loading more than 3,000 manga and their grades: <span id="mload-pct">0%</span>. '
            'The first visit takes a little while on a phone; after that it opens quickly.</p></div>')
@@ -158,6 +159,11 @@ def main():
     import subprocess
     subprocess.run(['python3', os.path.join(SHOP, 'scripts', 'manga_slim.py')], check=True)
     s0 = s = open(PAGE, encoding='utf-8').read()
+    # Christian's wording (Nov 27, option A) for the bubble under the front headline
+    if NEW_LEDE + WHAT not in s:
+        if LEDE + OLD_WHAT in s:
+            s = s.replace(LEDE + OLD_WHAT, NEW_LEDE + WHAT)
+        s = s.replace(LEDE, NEW_LEDE + WHAT)
     for a, b in SWAPS:
         if b not in s:
             assert a in s, a[:70]
