@@ -26,6 +26,11 @@ SAFE = ('<b>Mushrooms:</b> never eat a wild mushroom unless an experienced ident
         'in person. Learn each plant in person too. Poison Control: '
         '<a href="tel:18002221222">1-800-222-1222</a>.')
 
+END = ('<aside class="fend" aria-label="Take it with you"><h2>Take it with you</h2>'
+       '<p>Every <a href="foraging/places/">place map</a> prints on two pages, with the rules for that land and every way in. '
+       'Want a book for the woods? Stop by The Blessed Fig Tree, 800 5th Ave, Antigo, and see what is on the shelf. '
+       '<a href="https://www.theblessedfigtree.com/#visit">Hours and directions</a></p></aside>')
+
 CSS = r"""
 .fnav{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 0;padding:0}
 .fnav a{display:inline-flex;align-items:center;min-height:36px;padding:0 13px;border:1px solid color-mix(in srgb,currentColor 38%,transparent);border-radius:999px;color:inherit;text-decoration:none;font-size:.9rem;line-height:1.2;white-space:nowrap}
@@ -33,6 +38,12 @@ CSS = r"""
 .fnav a[aria-current]{background:color-mix(in srgb,currentColor 18%,transparent);font-weight:700}
 .fsafe{background:#fbeee7;border:1px solid #e3b8a3;border-radius:10px;padding:10px 14px;margin:12px 0;font-size:.95rem;color:#1f2a24}
 .fsafe a{color:inherit}
+body>.fsafe{max-width:1000px;margin:22px auto 0;box-sizing:border-box}
+@media (max-width:760px){body>.fsafe{margin:22px 14px 0}}
+.fend{max-width:1000px;margin:28px auto 8px;padding:18px 20px;background:#1d3328;color:#efe8d8;border-radius:14px;box-sizing:border-box}
+.fend h2{font:600 1.3rem/1.2 "Fraunces",Georgia,serif;margin:0 0 6px;border:0;padding:0;color:inherit}
+.fend p{margin:0;max-width:52em;line-height:1.55}.fend a{color:#f3d9a8}
+@media (max-width:760px){.fend{margin:24px 14px 8px}}
 @media (pointer:coarse),(max-width:760px){
  .fnav a{min-height:44px}
  .toc a,nav.jump a{display:inline-flex;align-items:center;min-height:44px;min-width:44px;justify-content:center}
@@ -58,6 +69,7 @@ CSS = r"""
 MAP_CSS = r"""
 @media (min-width:761px){header>div:first-child{flex:1 1 320px;min-width:0}header .fnav{margin:0 0 0 auto}header .fnav a{min-height:32px;font-size:.85rem;padding:0 11px}}
 #ftoggle{display:none;align-items:center;gap:6px;min-height:44px;font-weight:700}
+#locate{background:#b0502a;border-color:#b0502a;color:#fff;font-weight:700}
 @media (max-width:760px){
  header{padding:8px 14px 10px}header h1{font-size:1.1rem}
  header>div:first-child{flex:1 1 100%}
@@ -118,7 +130,15 @@ def apply(path, cur, sub=False, extra='', is_map=False, safe=None):
     # 2. styles and the small script
     s = put(s, 'forage-ux', '<style>' + CSS + (MAP_CSS if is_map else '') + '</style>', '</head>')
     s = put(s, 'forage-js', f'<script>{JS}</script>', '</body>')
-    # 3. the mushroom line, where a page names mushrooms but has no warning
+    # 3. a closing card on every page (Peak-End: end on something useful and real)
+    s = strip(s, 'forage-end')
+    end = f'<!-- forage-end:start -->{END}<!-- forage-end:end -->'
+    for anchor in ('<footer', '<!-- bft-family:start -->', '</body>'):
+        k = s.find(anchor) if anchor != '</body>' else s.rfind(anchor)
+        if k >= 0:
+            s = s[:k] + end + s[k:]
+            break
+    # 4. the mushroom line, where a page names mushrooms but has no warning
     s = strip(s, 'forage-safe')
     if safe:
         anchor, how = safe
@@ -170,7 +190,7 @@ def main():
     n += apply(J('places', 'index.html'), 'places', safe=('<main>', 'after'))
     pr = '<a href="#" class="noprint" onclick="window.print();return false">Print this map</a>'
     for p in sorted(glob.glob(J('places', '*', 'index.html'))):
-        n += apply(p, 'places', sub=True, extra=pr, safe=('<footer>', 'before')); pages += 1
+        n += apply(p, 'places', sub=True, extra=pr, safe=('<!-- forage-end:start -->', 'before')); pages += 1
     print(f'{n} files changed, {pages + 2} pages checked')
 
 

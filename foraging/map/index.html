@@ -71,6 +71,12 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
 .fnav a[aria-current]{background:color-mix(in srgb,currentColor 18%,transparent);font-weight:700}
 .fsafe{background:#fbeee7;border:1px solid #e3b8a3;border-radius:10px;padding:10px 14px;margin:12px 0;font-size:.95rem;color:#1f2a24}
 .fsafe a{color:inherit}
+body>.fsafe{max-width:1000px;margin:22px auto 0;box-sizing:border-box}
+@media (max-width:760px){body>.fsafe{margin:22px 14px 0}}
+.fend{max-width:1000px;margin:28px auto 8px;padding:18px 20px;background:#1d3328;color:#efe8d8;border-radius:14px;box-sizing:border-box}
+.fend h2{font:600 1.3rem/1.2 "Fraunces",Georgia,serif;margin:0 0 6px;border:0;padding:0;color:inherit}
+.fend p{margin:0;max-width:52em;line-height:1.55}.fend a{color:#f3d9a8}
+@media (max-width:760px){.fend{margin:24px 14px 8px}}
 @media (pointer:coarse),(max-width:760px){
  .fnav a{min-height:44px}
  .toc a,nav.jump a{display:inline-flex;align-items:center;min-height:44px;min-width:44px;justify-content:center}
@@ -94,6 +100,7 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
 
 @media (min-width:761px){header>div:first-child{flex:1 1 320px;min-width:0}header .fnav{margin:0 0 0 auto}header .fnav a{min-height:32px;font-size:.85rem;padding:0 11px}}
 #ftoggle{display:none;align-items:center;gap:6px;min-height:44px;font-weight:700}
+#locate{background:#b0502a;border-color:#b0502a;color:#fff;font-weight:700}
 @media (max-width:760px){
  header{padding:8px 14px 10px}header h1{font-size:1.1rem}
  header>div:first-child{flex:1 1 100%}
@@ -116,7 +123,7 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
   <label for="spf">Show</label>
   <select id="spf"><option value="">Everything in season</option><optgroup label="Plants" id="og-p"></optgroup><optgroup label="Mushrooms" id="og-m"></optgroup></select>
   <label>Colour by</label><span id="colorby"><button class="chip on" data-c="habitat" title="Colour public land by the kind of woods or wetland">🌲 Habitat</button><button class="chip" data-c="season" title="Colour public land by how much is in season this week">🌡️ In season</button><button class="chip" data-c="owner" title="Colour land by who owns it">🏷️ Owner</button></span>
-  <button class="chip" id="locate" title="Show the rules where you are standing">📍 Where am I?</button>
+  <button class="chip" id="locate" title="Show the rules where you are standing. Your location stays on your phone.">📍 Where am I?</button>
 </div>
 <main>
   <div id="map" role="application" aria-label="Map of Langlade County public land and foraging areas"></div>
@@ -124,7 +131,7 @@ table.rules{border-collapse:collapse;font-size:.88rem;width:100%}table.rules td,
     <div class="tabs" role="tablist">
       <button data-t="here" class="on">Area</button><button data-t="trips">Day trips</button><button data-t="species">Season</button><button data-t="rules">Rules</button><button data-t="about">How</button>
     </div>
-    <div id="pane-here" class="pane"></div>
+    <div id="pane-here" class="pane"><p class="muted" role="status">Loading the county's public land and this week's season…</p></div>
     <div id="pane-trips" class="pane" hidden></div>
     <div id="pane-species" class="pane" hidden></div>
     <div id="pane-rules" class="pane" hidden></div>
@@ -404,12 +411,19 @@ function renderAbout(){$('#pane-about').innerHTML=`<h2>How this map was made</h2
  <p class="small"><b>Season</b> comes from thermal time. A soil-temperature model, fitted to the Wisconet station at the Antigo airport, was run over 35 years of NOAA weather records for Antigo. Each species' window is the range of heat units (growing degree days) at its iNaturalist records in the Antigo climate band, moved about 5 days per degree of latitude. Each area's timing is shifted for its elevation, slope direction, frost basins, conifer shade and wet soil.</p>
  <p class="small muted">Limits: land cover is from 2016 imagery, so recent logging cuts (raspberry and blackberry country) are missed. Habitat scores say where conditions fit, not that a plant is there. Check the rules on the ground, ask before crossing private land, and wear blaze orange in hunting season.</p>
  <p class="small">Map data © OpenStreetMap contributors (ODbL); USGS The National Map; Wisconsin DNR; Langlade County; USDA NRCS and Forest Service; NOAA; Wisconet (UW–Madison); iNaturalist.</p>`;}
-async function locate(){if(!navigator.geolocation)return alert('Location is not available on this device.');
-  navigator.geolocation.getCurrentPosition(p=>{const ll=[p.coords.latitude,p.coords.longitude];map.setView(ll,14);L.marker(ll).addTo(map);
+async function locate(){const btn=$('#locate'),say=(h)=>{tab('here');$('#pane-here').innerHTML=h;};
+  if(!navigator.geolocation)return say('<h2>Where am I?</h2><p>This device can\'t share its location. Tap the map where you are standing instead, and the panel shows the rules for that spot.</p>');
+  const lbl=btn.textContent;btn.textContent='📍 Finding you…';btn.disabled=true;
+  navigator.geolocation.getCurrentPosition(p=>{btn.textContent=lbl;btn.disabled=false;const ll=[p.coords.latitude,p.coords.longitude];
+   if(ll[0]<44.8||ll[0]>45.6||ll[1]<-89.5||ll[1]>-88.55){const mi=Math.round(map.distance(ll,[45.14,-89.15])/1609);
+     return say(`<h2>You're outside Langlade County</h2><p>You are about ${mi} miles from Antigo. This map covers Langlade County's public land only. Pan the map to plan a trip, or tap any spot to see its rules.</p>`);}
+   map.setView(ll,14);L.marker(ll).addTo(map);
    const uu=unitAt(L.latLng(ll));if(uu){selectUnit(uu.id,ll);return;}let hit=null;
    let own=null;if(!hit&&LY.owners)LY.owners.eachLayer(l=>{if(!own&&pip(ll,l.feature.geometry))own=l.feature.properties.r;});
    if(hit)selectArea(hit);else{tab('here');$('#pane-here').innerHTML=own?`<h2>You are on ${esc(RULES.owners[own].name)}</h2><div class="rulebox">${esc(RULES.owners[own].short)}</div>`:`<h2>You are not on public foraging land</h2><p>${esc(RULES.owners.private.short)}</p>`;}
-  },()=>alert('Could not get your location.'),{enableHighAccuracy:true,timeout:10000});}
+  },e=>{btn.textContent=lbl;btn.disabled=false;
+   say('<h2>Where am I?</h2><p>'+(e&&e.code===1?'Location is turned off for this site. You can allow it in your browser settings, or tap the map where you are standing instead.':'Your location didn\'t come through (weak signal is common in the woods). Try again in the open, or tap the map where you are standing.')+'</p>');
+  },{enableHighAccuracy:true,timeout:10000,maximumAge:60000});}
 function pip(ll,g){const [y,x]=ll;const polys=g.type==='Polygon'?[g.coordinates]:g.coordinates;
   for(const P of polys){let inside=false;P.forEach((ring,ri)=>{let c=false;for(let i=0,j=ring.length-1;i<ring.length;j=i++){const xi=ring[i][0],yi=ring[i][1],xj=ring[j][0],yj=ring[j][1];if(((yi>y)!==(yj>y))&&(x<(xj-xi)*(y-yi)/(yj-yi)+xi))c=!c;}if(c)inside=!inside;});if(inside)return true;}return false;}
 </script>
@@ -422,5 +436,5 @@ var b=document.querySelector('.bar');if(b&&!document.getElementById('ftoggle')){
  t.textContent='Filters ▾';b.id=b.id||'fbar';b.insertBefore(t,b.firstChild);
  t.addEventListener('click',function(){var o=b.classList.toggle('open');t.setAttribute('aria-expanded',o);t.textContent=o?'Done ▴':'Filters ▾';});}
 })();
-</script><!-- forage-js:end --><!-- bft-family:start --><style>.bft-family{display:block;clear:both;margin:22px 0 0;padding:14px 0 0;border-top:1px solid color-mix(in srgb,currentColor 28%,transparent);color:inherit;font:inherit;text-align:left}.bft-family .bft-h{margin:0;font-weight:700}.bft-family ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:0 20px}.bft-family li{margin:0;padding:0}.bft-family li::before{content:none}.bft-family a{display:inline-flex;align-items:center;min-height:44px;color:inherit;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}.bft-family a[aria-current]{font-weight:700;text-decoration:none}.bft-family .bft-end{margin:4px 0 0}.bft-wrap{max-width:1100px;margin:0 auto;padding:6px 20px 34px;box-sizing:border-box}</style><div class="bft-wrap"><div class="bft-family" role="navigation" aria-label="All Blessed Fig Tree sites"><p class="bft-h">More from The Blessed Fig Tree</p><ul><li><a href="https://www.theblessedfigtree.com/#visit">Visit the bookstore</a></li><li><a href="https://stays.theblessedfigtree.com/">Stay upstairs</a></li><li><a href="https://www.theblessedfigtree.com/manga-guide/">Manga guide for parents</a></li><li><a href="https://www.theblessedfigtree.com/book-guide/">Book materials guide</a></li><li><a href="https://www.theblessedfigtree.com/foraging/" aria-current="page">Foraging Langlade County</a></li><li><a href="https://www.theblessedfigtree.com/almanac/">Antigo Almanac</a></li><li><a href="https://www.theblessedfigtree.com/unwritten/">Play The Unwritten</a></li><li><a href="https://www.theblessedfigtree.com/goose.html">Meet Goose Goose</a></li><li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shirts, stickers and puzzles</a></li><li><a href="https://www.paypal.me/blessedfigtree" target="_blank" rel="noopener">Support the shop on PayPal</a></li></ul><p class="bft-end">Everything on these sites is free. Support helps pay for all of it. Come see us at 800 5th Ave, Antigo, Wisconsin. <a href="https://www.theblessedfigtree.com/#visit">Hours and directions</a></p></div></div><!-- bft-family:end --></body>
+</script><!-- forage-js:end --><!-- forage-end:start --><aside class="fend" aria-label="Take it with you"><h2>Take it with you</h2><p>Every <a href="foraging/places/">place map</a> prints on two pages, with the rules for that land and every way in. Want a book for the woods? Stop by The Blessed Fig Tree, 800 5th Ave, Antigo, and see what is on the shelf. <a href="https://www.theblessedfigtree.com/#visit">Hours and directions</a></p></aside><!-- forage-end:end --><!-- bft-family:start --><style>.bft-family{display:block;clear:both;margin:22px 0 0;padding:14px 0 0;border-top:1px solid color-mix(in srgb,currentColor 28%,transparent);color:inherit;font:inherit;text-align:left}.bft-family .bft-h{margin:0;font-weight:700}.bft-family ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:0 20px}.bft-family li{margin:0;padding:0}.bft-family li::before{content:none}.bft-family a{display:inline-flex;align-items:center;min-height:44px;color:inherit;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}.bft-family a[aria-current]{font-weight:700;text-decoration:none}.bft-family .bft-end{margin:4px 0 0}.bft-wrap{max-width:1100px;margin:0 auto;padding:6px 20px 34px;box-sizing:border-box}</style><div class="bft-wrap"><div class="bft-family" role="navigation" aria-label="All Blessed Fig Tree sites"><p class="bft-h">More from The Blessed Fig Tree</p><ul><li><a href="https://www.theblessedfigtree.com/#visit">Visit the bookstore</a></li><li><a href="https://stays.theblessedfigtree.com/">Stay upstairs</a></li><li><a href="https://www.theblessedfigtree.com/manga-guide/">Manga guide for parents</a></li><li><a href="https://www.theblessedfigtree.com/book-guide/">Book materials guide</a></li><li><a href="https://www.theblessedfigtree.com/foraging/" aria-current="page">Foraging Langlade County</a></li><li><a href="https://www.theblessedfigtree.com/almanac/">Antigo Almanac</a></li><li><a href="https://www.theblessedfigtree.com/unwritten/">Play The Unwritten</a></li><li><a href="https://www.theblessedfigtree.com/goose.html">Meet Goose Goose</a></li><li><a href="https://the-blessed-fig-tree-llc-shop.fourthwall.com" target="_blank" rel="noopener">Shirts, stickers and puzzles</a></li><li><a href="https://www.paypal.me/blessedfigtree" target="_blank" rel="noopener">Support the shop on PayPal</a></li></ul><p class="bft-end">Everything on these sites is free. Support helps pay for all of it. Come see us at 800 5th Ave, Antigo, Wisconsin. <a href="https://www.theblessedfigtree.com/#visit">Hours and directions</a></p></div></div><!-- bft-family:end --></body>
 </html>
