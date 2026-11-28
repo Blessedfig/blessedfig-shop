@@ -79,6 +79,17 @@ CSS = r"""
 .mload .bar{height:10px;border-radius:999px;background:var(--rule,#e2d9c8);overflow:hidden;margin:18px 0 6px}
 .mload .bar i{display:block;height:100%;width:2%;background:var(--fig,#6d3a5f);transition:width .2s}
 .mload .note{margin:0}
+.mload-hero{margin:0 0 16px;max-width:560px}.mload-hero img{width:100%;height:auto;display:block;border-radius:14px}
+.ab-hero{margin:0 0 6px}.ab-hero img{width:100%;max-height:300px;object-fit:cover;border-radius:14px;display:block}
+.ab-book,.ab-shelf{margin:14px 0 6px}.ab-book{background:var(--sheet,#fffdf8);border:1px solid var(--rule);border-radius:12px;padding:12px}.ab-book svg{width:100%;height:auto;display:block}
+.ab-shelf img{width:100%;height:auto;border-radius:12px;display:block}.ab-book figcaption,.ab-shelf figcaption{font-size:.88rem;color:var(--muted);margin-top:6px}
+.ab-notes{margin:10px 0 0;padding-left:1.2em}.ab-notes li{margin:.3em 0}
+.ab-read{display:grid;grid-template-columns:minmax(0,200px) 1fr;gap:6px 18px;align-items:center}
+.ab-read figcaption{grid-column:1/-1}
+@media (max-width:620px){.ab-read{grid-template-columns:120px 1fr}}
+.ab-read{margin:14px 0 6px;background:var(--sheet,#fffdf8);border:1px solid var(--rule);border-radius:12px;padding:12px}.ab-read svg{width:100%;height:auto;display:block}
+.ab-read figcaption{font-size:.88rem;color:var(--muted);margin-top:6px}
+@media (max-width:620px){.ab-read svg text{font-size:19px}}
 .about h2{margin-top:28px}.about h3{margin:22px 0 6px;font-size:1.05rem}
 .ab-list{padding-left:1.2em}.ab-list li{margin:.5em 0}
 .ab-terms{margin:0;display:grid;grid-template-columns:minmax(120px,12em) 1fr;gap:8px 18px}
@@ -135,7 +146,8 @@ window.mnorm = function (t) { return String(t || '').toLowerCase().normalize('NF
 })();
 """
 
-LOADING = ('<div class="mload" role="status"><h1>What is your kid reading, and what does it teach?</h1>'
+LOADING = ('<figure class="mhero mload-hero"><img src="../img/manga_hero.webp" width="720" height="603" alt="Three manga-style kids and a white goose cheering, holding books" fetchpriority="high"></figure>'
+           '<div class="mload" role="status"><h1>What is your kid reading, and what does it teach?</h1>'
            '<p class="lede">' + NEW_LEDE + WHAT +
            '<div class="bar" aria-hidden="true"><i id="mload-bar"></i></div>'
            '<p class="note">Loading more than 3,000 manga and their grades: <span id="mload-pct">0%</span>. '
